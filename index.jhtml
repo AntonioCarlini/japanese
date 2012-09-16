@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Japanese Grammar</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bcolor="red">
+<h1>&#x65e5;&#x672c;&#x8a9e; Study</h1>
+
+<ol class="toc">
+<li><a href="adjectives.html"><span>Adjectives</span></a>
+<li><a href="verbs.html"><span>Verbs</span></a>
+<li><a href="copula.html"><span>The Copula<span></a>
+<li><a href="confusible-words.html"><span>Confusible Words<span></a>
+<li><a href="confusible-kanji.html"><span>Confusible Kanji<span></a>
+<li><a href="study-material.html"><span>Study Material<span></a>
+<li><a href="kana.html"><span>Kana<span></a>
+</ol>
+
+<p>
+<br>particles: ka, ne, yo, mo, de, kara+made
+<br>particles: e+ni
+<br>lists: to
+<br>N1 no N2
+<br>kosoado
+<br>question words (dare etc.)
+<br>time
+<br>counters
+
+</body>
+</html>

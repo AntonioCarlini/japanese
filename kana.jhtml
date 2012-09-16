@@ -1,0 +1,363 @@
+<html>
+<head>
+<title>Japanese Kana</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bcolor="red">
+<h1>Japanese Kana</h1>
+
+<h2>Hiragana</h2>
+<h3> Basic Characters </h3>
+<table>
+  <tr>
+    <td> <hiragana>a</hiragana> <br/> a </td>
+    <td> <hiragana>i</hiragana> <br/> i </td>
+    <td> <hiragana>u</hiragana> <br/> u </td>
+    <td> <hiragana>e</hiragana> <br/> e </td>
+    <td> <hiragana>o</hiragana> <br/> o </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ka</hiragana> <br/> ka </td>
+    <td> <hiragana>ki</hiragana> <br/> ki </td>
+    <td> <hiragana>ku</hiragana> <br/> ku </td>
+    <td> <hiragana>ke</hiragana> <br/> ke </td>
+    <td> <hiragana>ko</hiragana> <br/> ko </td>
+  </tr>
+  <tr>
+    <td> <hiragana>sa</hiragana> <br/> sa </td>
+    <td> <hiragana>shi</hiragana> <br/> si </td>
+    <td> <hiragana>su</hiragana> <br/> su </td>
+    <td> <hiragana>se</hiragana> <br/> se </td>
+    <td> <hiragana>so</hiragana> <br/> so </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ta</hiragana> <br/> ta </td>
+    <td> <hiragana>chi</hiragana> <br/> chi </td>
+    <td> <hiragana>tsu</hiragana> <br/> tsu </td>
+    <td> <hiragana>te</hiragana> <br/> te </td>
+    <td> <hiragana>to</hiragana> <br/> to </td>
+  </tr>
+  <tr>
+    <td> <hiragana>na</hiragana> <br/> na </td>
+    <td> <hiragana>ni</hiragana> <br/> ni </td>
+    <td> <hiragana>nu</hiragana> <br/> nu </td>
+    <td> <hiragana>ne</hiragana> <br/> ne </td>
+    <td> <hiragana>no</hiragana> <br/> no </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ha</hiragana> <br/> ha </td>
+    <td> <hiragana>hi</hiragana> <br/> hi </td>
+    <td> <hiragana>hu</hiragana> <br/> fu </td>
+    <td> <hiragana>he</hiragana> <br/> he </td>
+    <td> <hiragana>ho</hiragana> <br/> ho </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ma</hiragana> <br/> ma </td>
+    <td> <hiragana>mi</hiragana> <br/> mi </td>
+    <td> <hiragana>mu</hiragana> <br/> mu </td>
+    <td> <hiragana>me</hiragana> <br/> me </td>
+    <td> <hiragana>mo</hiragana> <br/> mo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ya</hiragana> <br/> ya </td>
+    <td> &nbsp; </td>
+    <td> <hiragana>yu</hiragana> <br/> yu </td>
+    <td> &nbsp; </td>
+    <td> <hiragana>o</hiragana> <br/> yo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ra</hiragana> <br/> ra </td>
+    <td> <hiragana>ri</hiragana> <br/> ri </td>
+    <td> <hiragana>ru</hiragana> <br/> ru </td>
+    <td> <hiragana>re</hiragana> <br/> re </td>
+    <td> <hiragana>ro</hiragana> <br/> ro </td>
+  </tr>
+  <tr>
+    <td> <hiragana>wa</hiragana> <br/> wa </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> <hiragana>wo</hiragana> <br/> wo </td>
+  </tr>
+</table>
+
+<h3> Voiced Characters </h3>
+
+<table>
+  <tr>
+    <td> <hiragana>ga</hiragana> <br/> ga </td>
+    <td> <hiragana>gi</hiragana> <br/> gi </td>
+    <td> <hiragana>gu</hiragana> <br/> gu </td>
+    <td> <hiragana>ge</hiragana> <br/> ge </td>
+    <td> <hiragana>go</hiragana> <br/> go </td>
+  </tr>
+  <tr>
+    <td> <hiragana>za</hiragana> <br/> za </td>
+    <td> <hiragana>ji</hiragana> <br/> ji </td>
+    <td> <hiragana>zu</hiragana> <br/> zu </td>
+    <td> <hiragana>ze</hiragana> <br/> ze </td>
+    <td> <hiragana>zo</hiragana> <br/> zo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>da</hiragana> <br/> da </td>
+    <td> <hiragana>ji</hiragana> <br/> ji </td>
+    <td> <hiragana>zu</hiragana> <br/> zu </td>
+    <td> <hiragana>de</hiragana> <br/> de </td>
+    <td> <hiragana>do</hiragana> <br/> do </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ba</hiragana> <br/> ba </td>
+    <td> <hiragana>bi</hiragana> <br/> bi </td>
+    <td> <hiragana>bu</hiragana> <br/> bu </td>
+    <td> <hiragana>be</hiragana> <br/> be </td>
+    <td> <hiragana>bo</hiragana> <br/> bo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>pa</hiragana> <br/> pa </td>
+    <td> <hiragana>pi</hiragana> <br/> pi </td>
+    <td> <hiragana>pu</hiragana> <br/> pu </td>
+    <td> <hiragana>pe</hiragana> <br/> pe </td>
+    <td> <hiragana>po</hiragana> <br/> po </td>
+  </tr>
+</table>
+
+<h3>Hiragana Trigraphs</h3>
+
+<table>
+  <tr>
+    <td> <hiragana>kya</hiragana> <br/> kyo </td>
+    <td> <hiragana>kyu</hiragana> <br/> kyu </td>
+    <td> <hiragana>kyo</hiragana> <br/> kyo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>sha</hiragana> <br/> sha </td>
+    <td> <hiragana>shu</hiragana> <br/> shu </td>
+    <td> <hiragana>sho</hiragana> <br/> sho </td>
+  </tr>
+  <tr>
+    <td> <hiragana>cha</hiragana> <br/> cha </td>
+    <td> <hiragana>chu</hiragana> <br/> chu </td>
+    <td> <hiragana>cho</hiragana> <br/> cho </td>
+  </tr>
+  <tr>
+    <td> <hiragana>nya</hiragana> <br/> nyo </td>
+    <td> <hiragana>nyu</hiragana> <br/> nyu </td>
+    <td> <hiragana>nyo</hiragana> <br/> nyo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>hya</hiragana> <br/> hyo </td>
+    <td> <hiragana>hyu</hiragana> <br/> hyu </td>
+    <td> <hiragana>hyo</hiragana> <br/> hyo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>mya</hiragana> <br/> myo </td>
+    <td> <hiragana>myu</hiragana> <br/> myu </td>
+    <td> <hiragana>myo</hiragana> <br/> myo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>rya</hiragana> <br/> ryo </td>
+    <td> <hiragana>ryu</hiragana> <br/> ryu </td>
+    <td> <hiragana>ryo</hiragana> <br/> ryo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>gya</hiragana> <br/> gyo </td>
+    <td> <hiragana>gyu</hiragana> <br/> gyu </td>
+    <td> <hiragana>gyo</hiragana> <br/> gyo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>ja</hiragana> <br/> jo </td>
+    <td> <hiragana>ju</hiragana> <br/> ju </td>
+    <td> <hiragana>jo</hiragana> <br/> jo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>bya</hiragana> <br/> byo </td>
+    <td> <hiragana>byu</hiragana> <br/> byu </td>
+    <td> <hiragana>byo</hiragana> <br/> byo </td>
+  </tr>
+  <tr>
+    <td> <hiragana>pya</hiragana> <br/> pyo </td>
+    <td> <hiragana>pyu</hiragana> <br/> pyu </td>
+    <td> <hiragana>pyo</hiragana> <br/> pyo </td>
+  </tr>
+
+</table>
+
+<h2>Katakana</h2>
+
+<table>
+  <tr>
+    <td> <katakana>a</katakana> <br/> a </td>
+    <td> <katakana>i</katakana> <br/> i </td>
+    <td> <katakana>u</katakana> <br/> u </td>
+    <td> <katakana>e</katakana> <br/> e </td>
+    <td> <katakana>o</katakana> <br/> o </td>
+  </tr>
+  <tr>
+    <td> <katakana>ka</katakana> <br/> ka </td>
+    <td> <katakana>ki</katakana> <br/> ki </td>
+    <td> <katakana>ku</katakana> <br/> ku </td>
+    <td> <katakana>ke</katakana> <br/> ke </td>
+    <td> <katakana>ko</katakana> <br/> ko </td>
+  </tr>
+  <tr>
+    <td> <katakana>sa</katakana> <br/> sa </td>
+    <td> <katakana>shi</katakana> <br/> si </td>
+    <td> <katakana>su</katakana> <br/> su </td>
+    <td> <katakana>se</katakana> <br/> se </td>
+    <td> <katakana>so</katakana> <br/> so </td>
+  </tr>
+  <tr>
+    <td> <katakana>ta</katakana> <br/> ta </td>
+    <td> <katakana>chi</katakana> <br/> chi </td>
+    <td> <katakana>tsu</katakana> <br/> tsu </td>
+    <td> <katakana>te</katakana> <br/> te </td>
+    <td> <katakana>to</katakana> <br/> to </td>
+  </tr>
+  <tr>
+    <td> <katakana>na</katakana> <br/> na </td>
+    <td> <katakana>ni</katakana> <br/> ni </td>
+    <td> <katakana>nu</katakana> <br/> nu </td>
+    <td> <katakana>ne</katakana> <br/> ne </td>
+    <td> <katakana>no</katakana> <br/> no </td>
+  </tr>
+  <tr>
+    <td> <katakana>ha</katakana> <br/> ha </td>
+    <td> <katakana>hi</katakana> <br/> hi </td>
+    <td> <katakana>hu</katakana> <br/> hu </td>
+    <td> <katakana>he</katakana> <br/> he </td>
+    <td> <katakana>ho</katakana> <br/> ho </td>
+  </tr>
+  <tr>
+    <td> <katakana>ma</katakana> <br/> ma </td>
+    <td> <katakana>mi</katakana> <br/> mi </td>
+    <td> <katakana>mu</katakana> <br/> mu </td>
+    <td> <katakana>me</katakana> <br/> me </td>
+    <td> <katakana>mo</katakana> <br/> mo </td>
+  </tr>
+  <tr>
+    <td> <katakana>ya</katakana> <br/> ya </td>
+    <td> &nbsp; </td>
+    <td> <katakana>yu</katakana> <br/> yu </td>
+    <td> &nbsp; </td>
+    <td> <katakana>o</katakana> <br/> yo </td>
+  </tr>
+  <tr>
+    <td> <katakana>ra</katakana> <br/> ra </td>
+    <td> <katakana>ri</katakana> <br/> ri </td>
+    <td> <katakana>ru</katakana> <br/> ru </td>
+    <td> <katakana>re</katakana> <br/> re </td>
+    <td> <katakana>ro</katakana> <br/> ro </td>
+  </tr>
+  <tr>
+    <td> <katakana>wa</katakana> <br/> wa </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> <katakana>wo</katakana> <br/> wo </td>
+  </tr>
+</table>
+
+<h3> Voiced Characters </h3>
+
+<table>
+  <tr>
+    <td> <katakana>ga</katakana> <br/> ga </td>
+    <td> <katakana>gi</katakana> <br/> gi </td>
+    <td> <katakana>gu</katakana> <br/> gu </td>
+    <td> <katakana>ge</katakana> <br/> ge </td>
+    <td> <katakana>go</katakana> <br/> go </td>
+  </tr>
+  <tr>
+    <td> <katakana>za</katakana> <br/> za </td>
+    <td> <katakana>ji</katakana> <br/> ji </td>
+    <td> <katakana>zu</katakana> <br/> zu </td>
+    <td> <katakana>ze</katakana> <br/> ze </td>
+    <td> <katakana>zo</katakana> <br/> zo </td>
+  </tr>
+  <tr>
+    <td> <katakana>da</katakana> <br/> da </td>
+    <td> <katakana>ji</katakana> <br/> ji </td>
+    <td> <katakana>zu</katakana> <br/> zu </td>
+    <td> <katakana>de</katakana> <br/> de </td>
+    <td> <katakana>do</katakana> <br/> do </td>
+  </tr>
+  <tr>
+    <td> <katakana>ba</katakana> <br/> ba </td>
+    <td> <katakana>bi</katakana> <br/> bi </td>
+    <td> <katakana>bu</katakana> <br/> bu </td>
+    <td> <katakana>be</katakana> <br/> be </td>
+    <td> <katakana>bo</katakana> <br/> bo </td>
+  </tr>
+  <tr>
+    <td> <katakana>pa</katakana> <br/> pa </td>
+    <td> <katakana>pi</katakana> <br/> pi </td>
+    <td> <katakana>pu</katakana> <br/> pu </td>
+    <td> <katakana>pe</katakana> <br/> pe </td>
+    <td> <katakana>po</katakana> <br/> po </td>
+  </tr>
+</table>
+
+<h3>Katakana Trigraphs</h3>
+
+<table>
+  <tr>
+    <td> <katakana>kya</katakana> <br/> kyo </td>
+    <td> <katakana>kyu</katakana> <br/> kyu </td>
+    <td> <katakana>kyo</katakana> <br/> kyo </td>
+  </tr>
+  <tr>
+    <td> <katakana>sha</katakana> <br/> sha </td>
+    <td> <katakana>shu</katakana> <br/> shu </td>
+    <td> <katakana>sho</katakana> <br/> sho </td>
+  </tr>
+  <tr>
+    <td> <katakana>cha</katakana> <br/> cha </td>
+    <td> <katakana>chu</katakana> <br/> chu </td>
+    <td> <katakana>cho</katakana> <br/> cho </td>
+  </tr>
+  <tr>
+    <td> <katakana>nya</katakana> <br/> nyo </td>
+    <td> <katakana>nyu</katakana> <br/> nyu </td>
+    <td> <katakana>nyo</katakana> <br/> nyo </td>
+  </tr>
+  <tr>
+    <td> <katakana>hya</katakana> <br/> hyo </td>
+    <td> <katakana>hyu</katakana> <br/> hyu </td>
+    <td> <katakana>hyo</katakana> <br/> hyo </td>
+  </tr>
+  <tr>
+    <td> <katakana>mya</katakana> <br/> myo </td>
+    <td> <katakana>myu</katakana> <br/> myu </td>
+    <td> <katakana>myo</katakana> <br/> myo </td>
+  </tr>
+  <tr>
+    <td> <katakana>rya</katakana> <br/> ryo </td>
+    <td> <katakana>ryu</katakana> <br/> ryu </td>
+    <td> <katakana>ryo</katakana> <br/> ryo </td>
+  </tr>
+  <tr>
+    <td> <katakana>gya</katakana> <br/> gyo </td>
+    <td> <katakana>gyu</katakana> <br/> gyu </td>
+    <td> <katakana>gyo</katakana> <br/> gyo </td>
+  </tr>
+  <tr>
+    <td> <katakana>ja</katakana> <br/> jo </td>
+    <td> <katakana>ju</katakana> <br/> ju </td>
+    <td> <katakana>jo</katakana> <br/> jo </td>
+  </tr>
+  <tr>
+    <td> <katakana>bya</katakana> <br/> byo </td>
+    <td> <katakana>byu</katakana> <br/> byu </td>
+    <td> <katakana>byo</katakana> <br/> byo </td>
+  </tr>
+  <tr>
+    <td> <katakana>pya</katakana> <br/> pyo </td>
+    <td> <katakana>pyu</katakana> <br/> pyu </td>
+    <td> <katakana>pyo</katakana> <br/> pyo </td>
+  </tr>
+
+</table>
+
+</body>
+</html>

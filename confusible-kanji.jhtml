@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Confusible Kanji</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Confusible Kanji</h1>
+
+<h2> matrimony, surname, marriage </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji    </th> <th> Phrase    </th> </tr>
+ <tr> <td>  584   </td> <td class="kanji"> &#x59fb; </td> <td> matrimony </td> </tr>
+ <tr> <td> 1557   </td> <td class="kanji"> &#x59d3; </td> <td> surname   </td> </tr>
+ <tr> <td> 1830   </td> <td class="kanji"> &#x5a5a; </td> <td> marriage  </td> </tr>
+</table>
+
+<h2> attractive, beautiful woman</h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji    </th> <th> Phrase            </th> </tr>
+ <tr> <td>  430   </td> <td class="kanji"> &#x5b0c; </td> <td> attractive        </td> </tr>
+ <tr> <td> 1950   </td> <td class="kanji"> &#x5a9b; </td> <td> beautiful woman   </td> </tr>
+</table>
+
+<h2> repent, remorse, recollection </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji    </th> <th> Phrase        </th> </tr>
+ <tr> <td>  625   </td> <td class="kanji"> &#x6094; </td> <td> repent        </td> </tr>
+ <tr> <td>  631   </td> <td class="kanji"> &#x61be; </td> <td> remorse       </td> </tr>
+ <tr> <td>  632   </td> <td class="kanji"> &#x61b6; </td> <td> recollection  </td> </tr>
+</table>
+
+<h2> trees </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji    </th> <th> Phrase        </th> </tr>
+ <tr> <td> 1498   </td> <td class="kanji"> &#x6893; </td> <td> catalpa       </td> </tr>
+ <tr> <td> 1569   </td> <td class="kanji"> &#x693f; </td> <td> camellia      </td> </tr>
+ <tr> <td> 1614   </td> <td class="kanji"> &#x6960; </td> <td> camphor       </td> </tr>
+</table>
+
+<h2> unusual, uncommon </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji    </th> <th> Phrase        </th> </tr>
+ <tr> <td> 1745   </td> <td class="kanji"> &#x5909; </td> <td> unusual       </td> </tr>
+ <tr> <td> 1797   </td> <td class="kanji"> &#x7570; </td> <td> uncommon      </td> </tr>
+</table>
+
+
+</body>
+</html>

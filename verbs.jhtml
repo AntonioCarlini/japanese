@@ -1,0 +1,150 @@
+<html>
+<head>
+<title>Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Verb Bases</h1>
+
+<h2> &#x4ee0;&#x6bb5; (Ichidan) Verbs</h2>
+
+<table class="example">
+ <tr>
+   <th> &nbsp; </th>
+   <th> ~<hiragana>ru</hiragana> </th>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>1</sub> </td>
+   <td> ~ </td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>2</sub> </td>
+   <td> ~ </td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>3</sub> </td>
+   <td> ~<hiragana>ru</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>4</sub> </td>
+   <td> ~<hiragana>re</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>5</sub> </td>
+   <td> ~<hiragana>you</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>6</sub> (~<hiragana>te</hiragana>)</td>
+   <td> ~<hiragana>te</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>7</sub> (~<hiragana>ta</hiragana>)</td>
+   <td> ~<hiragana>ta</hiragana></td>
+ </tr>
+</table>
+
+<h2> &#x4e94;&#x6bb5; (Godan) Verbs</h2>
+
+<table class="example">
+ <tr>
+   <th> &nbsp; </th>
+   <th> ~<hiragana>su</hiragana> </th>
+   <th> ~<hiragana>ku</hiragana> </th>
+   <th> ~<hiragana>gu</hiragana> </th>
+   <th> ~<hiragana>tsu</hiragana> </th>
+   <th> ~<hiragana>ru</hiragana> </th>
+   <th> ~<hiragana>u</hiragana> </th>
+   <th> ~<hiragana>nu</hiragana> </th>
+   <th> ~<hiragana>mu</hiragana> </th>
+   <th> ~<hiragana>bu</hiragana> </th>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>1</sub> </td>
+   <td> ~<hiragana>sa</hiragana></td>
+   <td> ~<hiragana>ka</hiragana></td>
+   <td> ~<hiragana>ga</hiragana></td>
+   <td> ~<hiragana>ta</hiragana></td>
+   <td> ~<hiragana>ra</hiragana></td>
+   <td> ~<hiragana>wa</hiragana></td>
+   <td> ~<hiragana>na</hiragana></td>
+   <td> ~<hiragana>ma</hiragana></td>
+   <td> ~<hiragana>ba</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>2</sub> </td>
+   <td> ~<hiragana>shi</hiragana></td>
+   <td> ~<hiragana>ki</hiragana></td>
+   <td> ~<hiragana>gi</hiragana></td>
+   <td> ~<hiragana>chi</hiragana></td>
+   <td> ~<hiragana>ri</hiragana></td>
+   <td> ~<hiragana>i</hiragana></td>
+   <td> ~<hiragana>ni</hiragana></td>
+   <td> ~<hiragana>mi</hiragana></td>
+   <td> ~<hiragana>bi</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>3</sub> </td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+   <td> ~</td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>4</sub> </td>
+   <td> ~<hiragana>se</hiragana></td>
+   <td> ~<hiragana>ke</hiragana></td>
+   <td> ~<hiragana>ge</hiragana></td>
+   <td> ~<hiragana>te</hiragana></td>
+   <td> ~<hiragana>re</hiragana></td>
+   <td> ~<hiragana>e</hiragana></td>
+   <td> ~<hiragana>ne</hiragana></td>
+   <td> ~<hiragana>me</hiragana></td>
+   <td> ~<hiragana>be</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>5</sub> </td>
+   <td> ~<hiragana>sou</hiragana></td>
+   <td> ~<hiragana>kou</hiragana></td>
+   <td> ~<hiragana>gou</hiragana></td>
+   <td> ~<hiragana>tou</hiragana></td>
+   <td> ~<hiragana>rou</hiragana></td>
+   <td> ~<hiragana>ou</hiragana></td>
+   <td> ~<hiragana>nou</hiragana></td>
+   <td> ~<hiragana>mou</hiragana></td>
+   <td> ~<hiragana>bou</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>6</sub> (~<hiragana>te</hiragana>)</td>
+   <td> ~<hiragana>shite</hiragana></td>
+   <td> ~<hiragana>ite</hiragana></td>
+   <td> ~<hiragana>ide</hiragana></td>
+   <td> ~<hiragana>tte</hiragana></td>
+   <td> ~<hiragana>tte</hiragana></td>
+   <td> ~<hiragana>tte</hiragana></td>
+   <td> ~<hiragana>nde</hiragana></td>
+   <td> ~<hiragana>nde</hiragana></td>
+   <td> ~<hiragana>nde</hiragana></td>
+ </tr>
+ <tr>
+   <td class="heading"> V<sub>7</sub> (~<hiragana>ta</hiragana>)</td>
+   <td> ~<hiragana>shita</hiragana></td>
+   <td> ~<hiragana>ita</hiragana></td>
+   <td> ~<hiragana>ida</hiragana></td>
+   <td> ~<hiragana>tta</hiragana></td>
+   <td> ~<hiragana>tta</hiragana></td>
+   <td> ~<hiragana>tta</hiragana></td>
+   <td> ~<hiragana>nda</hiragana></td>
+   <td> ~<hiragana>nda</hiragana></td>
+   <td> ~<hiragana>nda</hiragana></td>
+ </tr>
+</table>
+
+</body>
+</html>
