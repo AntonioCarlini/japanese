@@ -88,7 +88,6 @@ table.example span {
  * Mark Japanese with class="jp" and English with class="en".
  */
 table.sentence {
-/*    background-color: #ffff00;*/
     background-color: cyan;
     text-align: left;
     border: 0px solid black;
@@ -130,5 +129,49 @@ table.sentence td.heading {
 table.sentence span {
     color: CC3399;
     font-weight: bold;
+}
+
+/* progress charts */
+table.progress {
+    background-color: cyan;
+    text-align: right;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+/* Item does not exist */
+table.progress tr.none {
+    background-color: white;
+    text-align: center;
+}
+
+/* Item exists and is present */
+table.progress td.ok {
+    background-color: #33ff00;
+    text-align: center;
+}
+
+/* Item exists but is not present */
+table.progress td.missing {
+    background-color: red;
+    text-align: center;
+}
+
+/* Item does not exist */
+table.progress td.none {
+    background-color: white;
+    text-align: center;
+}
+
+/* Item status completed */
+table.progress td.done {
+    background-color: cyan;
+    text-align: center;
+}
+
+/* Item status unknown */
+table.progress tr {
+    background-color: yellow;
+    text-align: center;
 }
 
