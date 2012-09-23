@@ -51,7 +51,7 @@ def convert_to_kanji(text)
       result += sep + word
       sep = " "
     else
-      code = kanji[word.to_sym()]
+      code = kanji[word.downcase().to_sym()]
       if code.nil?()
         result += sep + "!!UNKNOWN KANJI [#{word}]!!"
         sep = " "
@@ -99,7 +99,7 @@ def convert_to_hiragana(text)
     |c|
     pos += 1
     current += c
-    ch = current.to_sym()
+    ch = current.downcase().to_sym()
     if current =~ /^[0-9]$/
       result << current
       current = ""
@@ -130,7 +130,7 @@ def convert_to_hiragana(text)
         current = ""
       end
     when 2
-      s = two[current.to_sym()]
+      s = two[current.downcase().to_sym()]
       if !s.nil?()
         # Two char translation works
         result << jp_unicode(s)
@@ -153,8 +153,8 @@ def convert_to_hiragana(text)
     end
     # Look for the hiragana digraphs
     if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/
-      first = $1 + "i"
-      second = $2
+      first = ($1 + "i").downcase()
+      second = $2.downcase()
       result << jp_unicode(two[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
       current = ""
       elsif current =~ /^(sh|ch)(a|u|o)$/
@@ -168,7 +168,7 @@ def convert_to_hiragana(text)
       end
       current = ""
     elsif current =~ /^(ja|ju|jo)$/
-      second = $1
+      second = $1.downcase()
       debug_out("current=[#{current}] second=[#{second}] ")
       ss = second.sub(/j/, "y")
       debug_out("current=[#{current}] second=[#{second}] ss=[#{ss}]")
@@ -218,7 +218,7 @@ def convert_to_katakana(text)
     |c|
     pos += 1
     current += c
-    ch = current.to_sym()
+    ch = current.downcase().to_sym()
     if current =~ /^[0-9]$/
       result << current
       current = ""
@@ -239,7 +239,7 @@ def convert_to_katakana(text)
         current = ""
       end
     when 2
-      s = two[current.to_sym()]
+      s = two[current.downcase().to_sym()]
       if !s.nil?()
         # Two char translation works
         result << jp_unicode(s)
@@ -262,8 +262,8 @@ def convert_to_katakana(text)
     end
     # Look for the hiragana digraphs
     if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/
-      first = $1 + "i"
-      second = $2
+      first = ($1 + "i").downcase()
+      second = $2.downcase()
       begin
         result << jp_unicode(two[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
       rescue
@@ -272,8 +272,8 @@ def convert_to_katakana(text)
       end
       current = ""
       elsif current =~ /^(sh|ch)(a|u|o)$/
-      first = $1 + "i"
-      second = "y" + $2
+      first = ($1 + "i").downcase()
+      second = ("y" + $2).downcase()
       begin
         result << jp_unicode(three[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
       rescue
