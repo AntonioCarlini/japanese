@@ -81,20 +81,22 @@
 <li class="h3"><a href="#interrogatives">Interrogatives</a>
 <li class="h3"><a href="#kai">Quantifier<sub>period</sub> <hiragana>ni ichi kai</hiragana> V</a>
 <li class="h3"><a href="#dake">Quantifier <hiragana>dake</hiragana>/N <hiragana>dake</hiragana></a>
-<!-- unprocessed from here-->
 <li><a href="#chapter12">Chapter 12</a>
-<li class="h3"><a href="">Past Tense of Noun and na-adjective Sentences</a>
-<li class="h3"><a href="">Past Tense of <hiragana>i</hiragana>-adjective Sentences</a>
-<li class="h3"><a href="">N<sub>1</sub> <hiragana>ha</hiragana> N<sub>2</sub> <hiragana>yori</hiragana> adjective <hiragana>desu</hiragana></a>
-<li class="h3"><a href="">#4</a>
-<li class="h3"><a href="">#5</a>
+<li class="h3"><a href="#na-adj-past">Past Tense of Noun and <hiragana>na</hiragana>-adjective Sentences</a>
+<li class="h3"><a href="#i-adj-past">Past Tense of <hiragana>i</hiragana>-adjective Sentences</a>
+<li class="h3"><a href="#yori-adj">N<sub>1</sub> <hiragana>ha</hiragana> N<sub>2</sub> <hiragana>yori</hiragana>
+    adjective <hiragana>desu</hiragana></a>
+<li class="h3"><a href="#no-hou-ga">N<sub>1</sub><hiragana>to</hiragana> N<sub>2</sub><hiragana>to
+  dochira ga</hiragana> adjective <hiragana>desu ka.</hiragana></a>
+<li class="h3"><a href="#ichiban">N <hiragana>no naka de</hiragana> interrogative <hiragana> ga ichibann</hiragana>
+ adjective <hiragana>desu ka.</hiragana></a>
 <li><a href="#chapter13">Chapter 13</a>
-<li class="h3"><a href="">N ga hoshii desu</a>
-<li class="h3"><a href="">-tai desu</a>
-<li class="h3"><a href="">#3</a>
-<li class="h3"><a href="">#4</a>
-<li class="h3"><a href="">dokoka/nanika</a>
-<li class="h3"><a href="">go- prefix</a>
+<li class="h3"><a href="#hoshii">N <hiragana>ga hoshii desu</hiragana></a>
+<li class="h3"><a href="#tai-desu">-tai desu</a>
+<li class="h3"><a href="#purpose">N<sub>place</sub> <hiragana>he</hiragana> V-<hiragana>masu ni</hiragana> V<sub>motion</sub></a>
+<li class="h3"><a href="#goal">N <hiragana>ni</hiragana> V/N <hiragana>wo</hiragana> V</a>
+<li class="h3"><a href="#dokoka"><hiragana>dokoka/nanika</hiragana></a>
+<!-- unprocessed from here-->
 <li><a href="#chapter14">Chapter 14</a>
 <li class="h3"><a href="">Verb Conjugation</a>
 <li class="h3"><a href="">Verb Groups</a>
@@ -138,39 +140,39 @@
 <li class="h3"><a href="">narimasu</a>
 <li class="h3"><a href="">sou desu ne</a>
 <li><a href="#chapter20">Chapter 20</a>
-<li class="h3"><a href="">Polite vs Plain Style</a>
-<li class="h3"><a href="">Proper Use of Polite and Plain Style</a>
-<li class="h3"><a href="">Conversation in Plain Style</a>
+<li class="h3"><a href="#polite-vs-plain">Polite vs Plain Style</a>
+<li class="h3"><a href="#polite-plain-use">Proper Use of Polite and Plain Style</a>
+<li class="h3"><a href="#plain-conversation">Conversation in Plain Style</a>
 <li><a href="#chapter21">Chapter 21</a>
-<li class="h3"><a href="">to moimasu</a>
-<li class="h3"><a href="">to iimasu</a>
-<li class="h3"><a href="">deshou</a>
-<li class="h3"><a href="">#4</a>
-<li class="h3"><a href="">N<occasion> de</a>
-<li class="h3"><a href="">N de mo V</a>
-<li class="h3"><a href="">V-nai nai to</a>
+<li class="h3"><a href="#to-omoimasu"><hiragana>to moimasu</hiragana></a>
+<li class="h3"><a href="#to-iimasu"><hiragana>to iimasu</hiragana></a>
+<li class="h3"><a href="#deshou"><hiragana>deshou</hiragana></a>
+<li class="h3"><a href="#to-be-held">N<sub>place</sub><hiragana> de</hiragana> N<sub>2</sub> <hiragana>ga arimasu</hiragana></a>
+<li class="h3"><a href="#occasion">N<occasion> <hiragana>de</hiragana></a>
+<li class="h3"><a href="#N-de-mo">N <hiragana>de mo</hiragana> V</a>
+<li class="h3"><a href="#nai-to">V-<hiragana>nai to</hiragana></a>
 <li><a href="#chapter22">Chapter 22</a>
-<li class="h3"><a href="">Noun Modification</a>
-<li class="h3"><a href="">Noun Modification by Sentences</a>
-<li class="h3"><a href="">N <hiragana>ga</hiragana></a>
-<li class="h3"><a href="">V-dictionary jikan/?/youji</a>
+<li class="h3"><a href="#noun-modification">Noun Modification</a>
+<li class="h3"><a href="#noun-modification-by-sentence">Noun Modification by Sentences</a>
+<li class="h3"><a href="#N-ga-in-modifiers">N <hiragana>ga</hiragana></a>
+<li class="h3"><a href="#time-for-doing">V-dictionary <hiragana>jikann/yakusoku/youji</hiragana></a>
 <li><a href="#chapter23">Chapter 23</a>
-<li class="h3"><a href=""><hiragana>toki</hiragana></a>
-<li class="h3"><a href=""><hiragana>toki</hiragana></a>
-<li class="h3"><a href=""><hiragana>to</hiragana></a>
-<li class="h3"><a href="">N ga adjective/V</a>
-<li class="h3"><a href="">N<sub>place</sub> wo V<sub>movement</sub></a>
+<li class="h3"><a href="#toki"><hiragana>toki</hiragana></a>
+<li class="h3"><a href="#toki-V"><hiragana>toki</hiragana></a>
+<li class="h3"><a href="#inevitable-to"><hiragana>to</hiragana></a>
+<li class="h3"><a href="#ga-scene">N <hiragana>ga</hiragana> adjective/V</a>
+<li class="h3"><a href="#wo-passing">N<sub>place</sub> <hiragana>wo</hiragana> V<sub>movement</sub></a>
 <li><a href="#chapter24">Chapter 24</a>
-<li class="h3"><a href="">kuremasu</a>
-<li class="h3"><a href="">V-te ... (giving)</a>
-<li class="h3"><a href="">N<sub>person</sub> ga V</a>
-<li class="h3"><a href="">Interrogative ga V</a>
+<li class="h3"><a href="#kuremasu"><hiragana>kuremasu</hiragana></a>
+<li class="h3"><a href="#te-giving">V-<hiragana>te</hiragana> ... (giving)</a>
+<li class="h3"><a href="">N<sub>person</sub> <hiragana>ga</hiragana> V</a>
+<li class="h3"><a href="">Interrogative <hiragana>ga</hiragana> V</a>
 <li><a href="#chapter25">Chapter 25</a>
-<li class="h3"><a href="">Plain past ra</a>
-<li class="h3"><a href="">V-ta ra</a>
-<li class="h3"><a href="">V-te etc. mo</a>
-<li class="h3"><a href="">moshi and ikura</a>
-<li class="h3"><a href="">N ga</a>
+<li class="h3"><a href="#past-ra">Plain past ra</a>
+<li class="h3"><a href="#V-ta-ra">V-ta ra</a>
+<li class="h3"><a href="#V-te-mo">V-<hiragana>te mo</hiragana></a>
+<li class="h3"><a href="#moshi-ikura"><hiragana>moshi</hiragana> and <hiragana>ikura</hiragana></a>
+<li class="h3"><a href="#subordinate-ga">N <hiragana>ga</hiragana></a>
 </div>
 
 <h2><a name="chapter1">Chapter 1</a></h2>
@@ -784,183 +786,683 @@ that there is no more or nothing else.
 </table>
 </p>
 
-<h2><a name="chapter12">Chapter 12 (TBD)</a></h2>
+<h2><a name="chapter12">Chapter 12</a></h2>
 
-<h3>Past Tense of Noun and na-adjective Sentences</h3>
+<h3><a name="#na-adj-past">Past Tense of Noun and na-adjective Sentences</a></h3>
 
-<h3>Past Tense of <hiragana>i</hiragana>-adjective Sentences</h3>
+<p>
+See the <a href="adjectives.html">adjectives</a> page.
+</p>
 
-<h3>N<sub>1</sub> <hiragana>ha</hiragana> N<sub>2</sub> <hiragana>yori</hiragana> adjective <hiragana>desu</hiragana></h3>
+<h3><a name="i-adj-past">Past Tense of <hiragana>i</hiragana>-adjective Sentences</a></h3>
 
-<h3>#4</h3>
+<p>
+See the <a href="adjectives.html">adjectives</a> page.
+</p>
 
-<h3>#5</h3>
+<h3><a name="yori-adj">N<sub>1</sub> <hiragana>ha</hiragana> N<sub>2</sub> <hiragana>yori</hiragana> adjective 
+<hiragana>desu</hiragana></a></h3>
 
-<h2><a name="chapter13">Chapter 13 (TBD)</a></h2>
+<p>
+This sentence pattern describes the quality or state of N<sub>1</sub> in comparison to N<sub>2</sub>.
 
-<h3>N ga hoshii desu</h3>
+<table class="sentence">
+  <tr class="jp"> <td> <hiragana>kono kuruma ha ano kuruma <em>yori</em> <kanji>ookii</kanji>kii desu.</hiragana></td> </tr>
+</table>
+</p>
 
-<h3>-tai desu</h3>
+<h3><a name="no-hou-ga">N<sub>1</sub><hiragana>to</hiragana> N<sub>2</sub><hiragana>to
+  dochira ga</hiragana> adjective <hiragana>desu ka.</hiragana></a></h3>
 
-<h3>#3</h3>
+<p>
+The question asks the listener to choose between two items; the interrogative <hiragana>dochira</hiragana> is used
+since two items are invovled.
+<table class="sentence">
+  <tr class="jp"> <td> <hiragana><katakana>sakka-</katakana> to yakyuu to <em>dochira</em> ga omoshiroi 
+	desu ka.</hiragana></td> </tr>
+  <tr class="jp"> <td> <hiragana><katakana>sakka-</katakana> <em>no hou ga</em> omoshiroi desu.</hiragana> </td> </tr>
+</table>
+</p>
 
-<h3>#4</h3>
+<h3><a name="ichiban">N <hiragana>no naka de</hiragana> interrogative <hiragana> ga ichibann</hiragana>
+ adjective <hiragana>desu ka.</hiragana></a></h3>
 
-<h3>dokoka/nanika</h3>
+<p>
+This sentence pattern is used to ask the listener to select the "best". The interrogative used depends on the category
+and may be one of <hiragana>nani</hiragana>, <hiragana>doko</hiragana>, <hiragana>dare</hiragana> and
+<hiragana>itsu</hiragana>.
 
-<h3>go- prefix</h3>
+<table class="sentence">
+  <tr class="jp"> <td><hiragana>nihonn ryouri no naka de nani ga ichibann oishii desu ka.</hiragana> </td> </tr>
+  <tr class="jp"> <td><hiragana>tennpura ga ichibann oishii desu.</hiragana> </td> </tr>
+  <tr class="jp"> <td><katakana>E-roppa</katakana> <hiragana>de doko ga ichibann yokatta desu ka.</hiragana></td></tr>
+  <tr class="jp"> <td><katakana>suisu</katakana> <hiragana>ga ichibann yokatta desu.</hiragana></td></tr>
+</table>
+</p>
 
-<h2><a name="chapter14">Chapter 14 (TBD)</a></h2>
+<h2><a name="chapter13">Chapter 13</a></h2>
 
-<h3>Verb Conjugation</h3>
+<h3><a name="hoshii">N <hiragana>ga hoshii desu</hiragana></a></h3>
 
-<h3>Verb Groups</h3>
+<p>
+This sentence pattern is used to express the speaker's desire to possess an object. It can also be used
+to ask about what the speaker wants. The object is marked with the particle <hiragana>ga</hiragana>.
+
+<table class="sentence">
+<tr class="jp"> <td><kanji>watashi</kanji> <hiragana>ha tomodachi ga hoshii desu.</hiragana> </td> </tr>
+<tr class="jp"> <td><hiragana>ima nani ga ichibann hoshii desu ka.</hiragana></td> </tr>
+<tr class="jp"> <td><hiragana>kuruma ga hoshii desu.</hiragana></td></tr>
+</table>
+
+</p>
+
+<h3><a name="tai-desu"> -tai desu</a></h3>
+
+<p>
+The suffix <hiragana>tai</hiragana> is attached to the <hiragana>masu</hiragana> stem of a verb to form
+an expression that expresses the speaker's desire to do something. The particle <hiragana>wo</hiragana> may
+be replaced by the particle <hiragana>ga</hiragana> (other particles are not replaced). The <hiragana>tai
+</hiragana> for conjugates as an <hiragana>i</hiragana> adjective.
+
+<table class="sentence">
+<tr class="jp"> <td><kanji>watashi</kanji> <hiragana>ha okinawa he ikitai desu.</hiragana> </td> </tr>
+<tr class="jp"> <td><kanji>watashi</kanji> <hiragana>ha tennpura ga tabetai desu.</hiragana> </td> </tr>
+<tr class="jp"> <td><hiragana>onaka ga itai desu kara, nanimo tabetakunai desu.</hiragana> </td></tr>
+</table>
+</p>
+
+<h3><a name="purpose"> N<sub>place</sub> <hiragana>he</hiragana> V-<hiragana>masu ni</hiragana> 
+    V<sub>motion</sub></a></h3>
+
+<p>
+The purpose for the movement is expressed in this sentence pattern.
+
+<table class="sentence">
+<tr class="jp"> <td><hiragana>kobe he <katakana>inndo</katakana> ryouri wo <em>tabe</em> ni ikimasu.</hiragana>
+    </td></tr>
+</table>
+
+</p>
+
+<h3><a name="goal">N <hiragana>ni</hiragana> V/N <hiragana>wo</hiragana> V</a></h3>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <tr> <td><hiragana>7ji ni uchi wo demasu.</hiragana></td></tr>
+</table>
+</p>
+
+<h3><a name="dokoka"><hiragana>dokoka/nanika</hiragana></a></h3>
+
+<p>
+<hiragana>dokoka</hiragana> means "anywhere" or "somewhere".<br/>
+<hiragana>nanika</hiragana> means "anything" or "something".<br/>
+
+<table class="sentence">
+  <tr class="jp"> <td><hiragana>fuyuyasumi ha dokoka he ikimashita ka.</hiragana></td></tr>
+  <tr class="jp"> <td><hiragana>hai, ikimashita.</hiragana></td></tr>
+  <tr class="jp"> <td><hiragana>nodo ga kawakimashita kara, nanika wo nomitaidesu.</hiragana></td></tr>
+</table>
+</p>
+
+<h2><a name="chapter14">Chapter 14</a></h2>
+
+<h3>Verb Conjugation and Verb Groups</h3>
+
+<p>
+Japanese verbs are split into 3 categories:
+<ol>
+<li> <hiragana>godann</hiragana> verbs
+<li> <hiragana>ichidann</hiragana> verbs
+<li> irregular verbs (<hiragana>suru</hiragana> and <hiragana>kuru</hiragana>)
+</ol>
+</p>
 
 <h3>Verb <hiragana>te</hiragana>-form</h3>
 
+<p>
+The formation of the -<hiragana>te</hiragana> form of a verb is described elsewhere.
+</p>
+
 <h3>Verb <hiragana>te</hiragana>-form <hiragana>kudasai</hiragana></h3>
 
+<p>
+In this sentence pattern the speaker encourages or asks the listener to perform some action.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>sumimasenn, kono kanji no yomikata wo oshiete kudasai.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana> koko ni jyuusho to namae wo kiite kudasai.</hiragana> </td> </tr>
+</table>
+</p>
+
 <h3>Verb <hiragana>te</hiragana>-form <hiragana>imasu</hiragana></h3>
+
+<p>
+The form -<hiragana>te imasu</hiragana> is used to indicate that an action or state is ongoing.
+</p>
 
 <h3>Verb <hiragana>te</hiragana>-form <hiragana>mashou ka</hiragana></h3>
 
-<h3>S<sub>1</sub> ga, S<sub>2</sub></h3>
+<p>
+This sentence pattern is used to frame a question of the form "Shall I ...".
+</p>
 
-<h3>N ga V</h3>
+<h3>S<sub>1</sub> <hiragana>ga,</hiragana> S<sub>2</sub></h3>
 
-<h2><a name="chapter15">Chapter 15 (TBD)</a></h2>
+<p>
+In this sentence pattern, <hiragana>ga</hiragana> is used to lightly connect S<sub>1</sub> to S<sub>2</sub>.
+</p>
+
+<h3>N <hiragana>ga</hiragana> V</h3>
+
+<p>
+When describing a natural phenomenon, the subject is indicated by <hiragana>ga</hiragana>.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>ame ga futte imasu.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h2><a name="chapter15">Chapter 15</a></h2>
 
 <h3>Verb <hiragana>te</hiragana>-form <hiragana>mou ii desu</hiragana></h3>
 
-<h3>Verb <hiragana>te</hiragana>-form <hiragana>ha ikemasen</hiragana></h3>
+<p>
+This sentence pattern is used to grant permission.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>shashinn wo totte mo ii desu.</hiragana> </td> </tr>
+</table>
+With the addition of <hiragana>ka</hiragana>, this becomes a request for permission.
+<table class="sentence">
+<tr class="jp"> <td> tabako wo sutte mo ii desu ka.</td> </tr>
+</table>
+</p>
+
+<h3>Verb <hiragana>te</hiragana>-form <hiragana>ha ikemasenn</hiragana></h3>
+
+<p>
+This sentence pattern is used to express prohibition ("must not do").
+</p>
 
 <h3>Verb <hiragana>te</hiragana>-form <hiragana>imasu</hiragana></h3>
 
-<h3>shirimasen</h3>
+<p>
+In addition to other uses, this sentence pattern is used to describe a state that continues in the present
+which results from an action in the past.
+</p>
 
-<h2><a name="chapter16">Chapter 16 (TBD)</a></h2>
+<p>
+A further use of this form is to express a habitual action, that is, the same action performed repeatedly
+over a period of time.
+</P>
 
-<h3>Connecting Verb Sentences with te-form</h3>
+<h3><hiragana>shirimasenn</hiragana></h3>
 
-<h3>Joining i-adjectives</h3>
+<p>
+The negative form of <hiragana>shitte</hiragana> is <hiragana>shirimasenn</hiragana>. That is, knowing something
+is expressed with the -<hiragana>te</hiragana> form but not knowing is expressed with the non-past negative.
+</p>
 
-<h3>Joining N or na-adjectives</h3>
+<h2><a name="chapter16">Chapter 16</a></h2>
 
-<h3>V1-te kara, V2</h3>
+<h3>Connecting Verb Sentences with -<hiragana>te</hiragana> form</h3>
 
-<h3>N1 ha N2 ga adjective</h3>
+<p>
+A further use of the -<hiragana>te</hiragana> form is to connect together two or more actions that happen
+in succession. The tense of the sentence as a whole is determined by the tense of the final verb.
+</p>
 
-<h3>douyatte</h3>
+<h3>Joining <hiragana>i</hiragana>-adjectives</h3>
 
-<h3>dono N</h3>
+<p>
+To join an <hiragana>i</hiragana>-adjective to a subsequent sentence, remove the <hiragana>i</hiragana> and
+add <hiragana>kute</hiragana>.
 
-<h2><a name="chapter17">Chapter 17 (TBD)</a></h2>
+<h3>Joining N or <hiragana>na</hiragana>-adjectives</h3>
 
-<h3>Verb nai form</h3>
+<p>
+When joining a noun N or a <hiragana>na</hiragana>-adjective to a subsequent sentence, remove the final
+<hiragana>desu</hiragana> and replace it with <hiragana>de</hiragana>.
+</p>
 
-<h3>naide kudasai</h3>
+<h3>V<sub>1</sub>-<hiragana>te kara,</hiragana> V<sub>2</sub2></h3>
 
-<h3>nakereba narimasen</h3>
+<p>
+This sentence pattern states that once V<sub>1</sub> has happened, V<sub>2</sub> will happen. The tense of the whole sentence
+is determined by the tense of the final verb.
+<table class="sentence">
+<tr class="jp"> <td> <katakana>konsa-to</katakana><hiragana>ga owatte kara, <katakana>resutorann</katakana>
+      de shokuji shimasu.</hiragana> </td> </tr>
+</table>
+</p>
 
-<h3>nakuta mo ii desu</h3>
+<h3>N<sub>1</sub> <hiragana>ha</hiragana> N<sub>2</sub> <hiragana>ga</hiragana> adjective</h3>
+
+<p>
+This sentence pattern is used to describe an attribute of a thing or a person.
+N<sub>1</sub> is the topic.
+N<sub>2</sub> is the subject of the adjective's description.
+</p>
+
+<h3><hiragana>douyatte</hiragana></h3>
+
+<p>
+<hiragana>douyatte</hiragana> is used to ask how to do something.
+</p>
+
+<h3><hiragana>dono</hiragana> N</h3>
+
+<p>
+<hiragana>dono</hiragana> is used to ask the listener to define one item among three or more that are present.
+</p>
+
+<h2><a name="chapter17">Chapter 17</a></h2>
+
+<h3>Verb <hiragana>nai</hiragana> form</h3>
+
+<p>
+The V-<hiragana>nai</hiragana> form is also known as the V<sub>1</sub> base.
+</p>
+
+<h3>V<sub>1</sub><hiragana>naide kudasai</hiragana></h3>
+
+<p>
+This form is used to instruct or to ask the listener not to do something.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>koko ni shashinn wo toranaide kudasai.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3>V<sub>1</sub><hiragana>nakereba narimasen</hiragana></h3>
+
+<p>
+This sentence pattern indicates that something <em>must</em> be done irrespective of the will
+of the actor. There is no negative meaning associated with this expression.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>kusuri wo nominakereba narimasenn.</hiragana> </td> </tr>
+</table>
+</p>
+</p>
+
+<h3>V<sub>1</sub><hiragana>nakute mo ii desu</hiragana></h3>
+
+<p>
+This sentence indicates that the action described by the verb does not have to be done.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>ashita konakutemo ii desu.</hiragana> </td> </tr>
+<tr class="en"> <td> You don't have to come tomorrow.</td> </tr>
+</table>
+</p>
 
 <h3>N<sub>object</sub><hiragana>ha</hiragana></h3>
 
+<p>
+The particle <hiragana>wo</hiragana> marking a direct object can be replaced with
+<hiragana>ha</hiragana> if the object is to be made a topic.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>koko ni nimotsu wo okanaide kudasai.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>nimotsu ha koko ni okanaide kudasai.</hiragana> </td> </tr>
+</table>
+</p>
+
 <h3>N<sub>time</sub><hiragana>made ni</hiragana> V</h3>
 
-<h2><a name="chapter18">Chapter 18 (TBD)</a></h2>
+<p>
+The point in time marked by <hiragana>madeni</hiragana> is the time limit by which
+an action is to be completed.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>kaigi ha 5ji madeni owarimasu</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>doyoubi madeni honn wo kaesanakereba narimasenn.</hiragana> </td> </tr>
+</table>
+</p>
+<h2><a name="chapter18">Chapter 18</a></h2>
 
 <h3>Verb Dictionary Form</h3>
 
-<h3>dekimasu</h3>
+<p>
+This is the basic form of a verb and is the form in which it will be found in a dictionary. All other forms should
+be regarded as derived from this form (rather than from the <hiragana>masu</hiragana> form).
+</p>
 
-<h3>#3</h3>
+<h3><hiragana>dekiru</hiragana></h3>
 
-<h3>#4</h3>
+<p>
+<hiragana>dekiru</hiragana> is the verb which expresses ability or possibility.
+The pattern N <hiragana>ga dekiru</hiragana> indicates that which is possible. N may be replaced by
+V<sub>3</sub> <hiragana>koto</hiragana>.
+<table class="sentence">
+<tr class="jp"> <td> <katakana>mira-</katakana><hiragana>sann ha nihongo ga dekimasu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>kotoshi ha <katakana>suki-</katakana>ga dekimasu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <katakana>ka-do</katakana><hiragana>de harau koto ga dekimasu.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3Hobbies</h3>
+
+<p>
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>watashi no shumi ha ongaku desu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>watashi no shumi ha ongaku wo kiku koto desu.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3>V<sub>1</sub> <hiragana>mae ni,</hiragana> V<sub>2</sub></h3>
+
+<p>
+This pattern indicates that V<sub>2</sub> occurs before V<sub>1</sub> happens.
+V<sub>1</sub> may be replaced by N<hiragana>no</hiragana> or by a quantifier specifying time.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>nihonn he kuru mae ni, nihongo wo benkyou shimashita.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>shokuji no mae ni, te wo araimasu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>tanakasann ha 1jikann mae ni, dekakemashita.</hiragana> </td> </tr>
+</table>
+</p>
 
 <h3><hiragana>nakanaka</hiragana></h3>
 
+<p>
+When accompaned by a negative expression, this means "not easily" or "not as expected".
+</p>
+
 <h3><hiragana>zehi</hiragana></h3>
 
-<h2><a name="chapter19">Chapter 19 (TBD)</a></h2>
+<p>
+<hiragana>zehi</hiragana> is used with expressions of hope and request and emphasises the meaning of the expression.
+</p>
 
-<h3>Verb ta-form</h3>
+<h2><a name="chapter19">Chapter 19</a></h2>
 
-<h3>Verb ta-form kotoga arimasu</h3>
+<h3>Verb <hiragana>ta</hiragana>-form</h3>
 
-<h3>Verb ta-form ri, V ta-form ri shimasu</h3>
+<p>
+The <hiragana>ta</hiragana>-form is derived in the same was as the <hiragana>te</hiragana>-form
+except that <hiragana>te</hiragana> is replaced by <hiragana>ta</hiragana>.
+</p>
 
-<h3>narimasu</h3>
+<h3>Verb <hiragana>ta</hiragana>-form <hiragana>kotoga arimasu</hiragana></h3>
 
-<h3>sou desu ne</h3>
+<p>
+This sentence pattern is used to describe an experience that one has already had. It indicates that something
+has been experienced in the past and is subtly different to a sentence stating that an action was performed
+at a specific point in the past.
+</p>
 
-<h2><a name="chapter20">Chapter 20 (TBD)</a></h2>
+<h3>V <hiragana>ta ri,</hiragana> V <hiragana>ta ri suru</hiragana></h3>
 
-<h3>Polite vs Plain Style</h3>
+<p>
+This sentence pattern indicates that a number of actions amongst many actions are performed. The tense of
+the sentence depends on the tense of the final verb. It is often translated by "and so on". It differs from
+the use of the <hiragana>te</hiragana>-form in that there is no implied temporal sequence in the verbs.
+</p>
 
-<h3>Proper Use of Polite and Plain Style</h3>
+<h3><hiragana>narimasu</hiragana></h3>
 
-<h3>Conversation in Plain Style</h3>
+<p>
+<hiragana>narimasu</hiragana> is appended to an adverb to indicate a change in a state or a condition.
+</p>
 
-<h2><a name="chapter21">Chapter 21 (TBD)</a></h2>
+<h3><hiragana>sou desu ne</hiragana></h3>
 
-<h3>to moimasu</h3>
+<p>
+<hiragana>sou desu ne</hiragana> is used to agree with the speaker or to sympathise with the speaker.
+</p>
 
-<h3>to iimasu</h3>
+<h2><a name="chapter20">Chapter 20</a></h2>
 
-<h3>deshou</h3>
+<h3><a name="polite-vs-plain">Polite vs Plain Style</a></h3>
 
-<h3>#4</h3>
+<p>
+Japanese language is either in polite style or plain style. The former is characterised by a sentence-final copula in 
+<hiragana>desu</hiragana> form or a sentence-final verb in <hiragana>masu</hiragana> form.
 
-<h3>N<occasion> de</h3>
+<h3><a name="polite-plain-use">Proper Use of Polite and Plain Style</a></h3>
 
-<h3>N de mo V</h3>
+<p>
+Polite style is used for:
+<ol>
+<li> Daily communication between adults who are not close friends.
+<li> Most letters.
+</ol>
 
-<h3>V-nai nai to</h3>
+The plain style is used for:
+<ol>
+<li> Talking with one's close friends, colleagues and family members.
+<li> Written works such as newspapers, diaries and books.
+</ol>
+</p>
 
-<h2><a name="chapter22">Chapter 22 (TBD)</a></h2>
+<h3><a name="plain-conversation">Conversation in Plain Style</a></h3>
 
-<h3>Noun Modification</h3>
+<p>
+Conversations in plain style have a number of characteristics.
+<ol>
+<li> Questions generally omit <hiragana>ka</hiragana> and use a rising intonation at the end of the sentence instead.
+<li> In noun and <hiragana>na</hiragana>-adjective replies <hiragana>da</hiragana> is usually omitted.
+<li> Certain particles are omitted if the meaning of the sentence is still clear from the context.
+<li> V<hiragana>te iru</hiragana> often becomes V<hiragana>te ru</hiragana> (i.e. the <hiragana>i</hiragana> is dropped.
+<li> <hiragana>kedo</hiragana> is often used in place of the connective <hiragana>ga</hiragana>.
+</ol>
 
-<h3>Noun Modification by Sentences</h3>
+</p>
 
-<h3>N <hiragana>ga</hiragana></h3>
+<h2><a name="chapter21">Chapter 21</a></h2>
 
-<h3>V-dictionary jikan/?/youji</h3>
+<h3><a name="to-omoimasu"><hiragana>to moimasu</hiragana></a></h3>
 
-<h2><a name="chapter23">Chapter 23 (TBD)</a></h2>
+<p>
+This construct is used after an expression in the plain form to:
+<ol>
+<li> express conjecture
+<li> express an opinion
+</ol>
+</p>
 
-<h3><hiragana>toki</hiragana></h3>
+<h3><a name="to-iimasu"><hiragana>to iimasu</hiragana></a></h3>
 
-<h3><hiragana>toki</hiragana></h3>
+<p>
+This sentence pattern may be used in two ways.
+<ol>
+<li> To directly quote what someone says or has said, repeat their words exactly and follow with <hiragana>to iimasu</hiragana>.
+<li> To quote indirectly, use the plain form before <hiragana>to iimasu</hiragana>. The tense of the quoted text is 
+unaffected by the tense of the main sentence.
+</ol>
+</p>
 
-<h3><hiragana>to</hiragana></h3>
+<h3><a name="deshou"><hiragana>deshou</hiragana></a></h3>
 
-<h3>N ga adjective/V</h3>
+<p>
+When the speaker expects the listener to have some knowledge of the topic at hand and believes that the
+listener will agree with the speaker's view, <hiragana>deshou</hiragana> is used with a rising intonation
+to confirm the listener's agreement.
+</p>
 
-<h3>N<sub>place</sub> wo V<sub>movement</sub></h3>
+<h3><a name="to-be-held">N<sub>place</sub><hiragana> de</hiragana> N<sub>2</sub> <hiragana>ga arimasu</hiragana></a></h3>
 
-<h2><a name="chapter24">Chapter 24 (TBD)</a></h2>
+<p>
+When N<sub>2</sub> is an event or a partyy etc., <hiragana>arimasu</hiragana> means "to be held" and N<sub>place</sub>
+is where the event will happen.
+</p>
 
-<h3>kuremasu</h3>
+<h3><a name="occasion">N<occasion> <hiragana>de</hiragana></a></h3>
 
-<h3>V-te ... (giving)</h3>
+<p>
+When an action happens on a certain occasion, the occasion is marked by <hiragana>de</hiragana>.
+</p>
 
-<h3>N<sub>person</sub> ga V</h3>
+<h3><a name="N-de-mo">N <hiragana>de mo</hiragana> V</a></h3>
 
-<h3>Interrogative ga V</h3>
+<p>
+When making a suggestion or advising, <hiragana>de mo</hiragana> is used to give an example of the
+class of things that could be done.
+</p>
 
-<h2><a name="chapter25">Chapter 25 (TBD)</a></h2>
+<h3><a name="nai-to">V-<hiragana>nai to</hiragana></a></h3>
 
-<h3>Plain past ra</h3>
+<p>
+This form is used to express the construct "have to".
+</p>
 
-<h3>V-ta ra</h3>
+<h2><a name="chapter22">Chapter 22</a></h2>
 
-<h3>V-te etc. mo</h3>
+<h3><a name="noun-modification">Noun Modification</a></h3>
 
-<h3>moshi and ikura</h3>
+<p>
+Anything that modifies a noun <em>always</em> precedes that noun.
+</p>
 
-<h3>N ga</h3>
+<h3><a name="noun-modification-by-sentence">Noun Modification by Sentences</a></h3>
+
+<p>
+<ol>
+<li> The predicate of the sentence which modifies a noun is in the plain form.
+<li> The noun modified by a sentence can be used in various parts of a new sentence.
+</ol>
+</p>
+<h3><a name="N-ga-in-modifiers">N <hiragana>ga</hiragana></a></h3>
+
+<p>
+When a sentence modifies a noun, the subject in that sentence is indicated by <hiragana>ga</hiragana>.
+</p>
+
+<h3><a name="time-for-doing">V-dictionary <hiragana>jikann/yakusoku/youji</hiragana></a></h3>
+
+<p>
+When expressing the time for doing some activity, put the dictionary form of the action before
+<hiragana>jikann</hiragana>.
+</p>
+
+<h2><a name="chapter23">Chapter 23</a></h2>
+
+<h3><a name="toki"><hiragana>toki</hiragana></a></h3>
+
+<p>
+<hiragana>toki</hiragana> is used to link two sentences and expresses the time when the action described in the
+main sentence occurs.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>toshokann de kariru toki, <katakana>ka-do</katakana>ga irimasu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>tsuma ga byouki no toki, kaisha wo yasumimasu.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3><a name="toki-V"><hiragana>toki</hiragana></a></h3>
+
+<p>
+When a dictionary form of a predicate is followed by <hiragana>toki</hiragana>, it indicates that the action has not been
+completed; when the <hiragana>ta</hiragana>-form is used, it indicates that the action has been completed.
+</p>
+
+<p>
+Consider these two sentences:
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>kuni he kaeru toki, kabann wo kaimashita.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>kuni he kaetta toki, kabann wo kaimashita.</hiragana> </td> </tr>
+</table>
+In the first sentence, the speaker has not yet reached his destination and that the bag was purchased sometime during the trip.
+In the second sentence, the speaker bought a bag after arriving at the destination.
+</p>
+
+<h3><a name="inevitable-to">V<sub>dictionary</sub> <hiragana>to</hiragana></h3>
+
+<p>
+This sentence pattern is used when expressing the idea that a consequence is an inevitable outcome
+of a specified action.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>kono <katakana>botann</katakana>osu to, otsuri ga demasu.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3><a name="ga-scene">N <hiragana>ga</hiragana> adjective/V</a></h3>
+
+<p>
+When describing a state or a scene, the subject is indicated by <hiragana>ga</hiragana>.
+</p>
+
+<h3><a name="wo-passing">N<sub>place</sub> <hiragana>wo</hiragana> V<sub>movement</sub></a></h3>
+
+<p>
+The particle <hiragana>wo</hiragana> is used with a verb of movement to indicate the place where a person
+or thing passes.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>koenn wo sannposhimasu.</hiragana> </td> </tr>
+</table>
+
+</p>
+
+<h2><a name="chapter24">Chapter 24</a></h2>
+
+<h3><a name="kuremasu"><hiragana>kuremasu</hiragana></a></h3>
+
+<p>
+<hiragana>ageru</hiragana> is used when the speaker gives something to someone else. Hwoever, when the speaker,
+or a member of his family etc., is given something, the verb <hiragana>kureru</hiragana> is used instead.
+</p>
+
+<h3><a name="te-giving">V-<hiragana>te</hiragana> ... (giving)</a></h3>
+
+<p>
+<ol>
+<li> V-<hiragana>te ageru</hiragana> indicates that someone does something for someone else with a sense of goodwill.
+<li> V-<hiragana>te morau</hiragana> indicates that the speaker receives something with a sense of gratitude.
+<li> V-<hiragana>te kureru</hiragana> indicates that the speaker receives something with a sense of gratitude.
+</ol>
+</p>
+
+<h3>N<sub>person</sub> <hiragana>ga</hiragana> V</h3>
+
+<p>
+In reply to a statement or question, the converstaional partner offers new information.
+</p>
+
+
+<h3>Interrogative <hiragana>ga</hiragana> V</h3>
+
+<h2><a name="chapter25">Chapter 25</a></h2>
+
+<h3><a name="past-ra">Plain past <hiragana>ra</hiragana></a></h3>
+
+<p>
+When <hiragana>ra</hiragana> is attached to the plain past form of a verb, adjective etc., the preceding clause is
+changed into a conditional expression. This pattern is used by the speaker to state an opinion, situation, request etc.
+</p>
+
+<h3><a name="V-ta-ra">V-<hiragana>ta ra</hiragana></a></h3>
+
+<p>
+This pattern is used to express that an action will be performed once another action, which is certain to happen in
+the future, has been completed.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>10jini nattara, dekakemashou.</hiragana> </td> </tr>
+</table>
+</p>
+
+<h3><a name="V-te-mo">V-<hiragana>te mo</hiragana></a></h3>
+
+<p>
+This sentence pattern is used to express a reverse condition. It is used when something which was expected
+to happen does not materialise.
+</p>
+
+<h3><a name="moshi-ikura"><hiragana>moshi</hiragana> and <hiragana>ikura</hiragana></a></h3>
+
+<p>
+<hiragana>moshi</hiragana> is used in a sentence in the plain past form to indicate that the sentence will present
+a condition.
+<hiragana>ikura</hiragana> is used with -<hiragana>te mo</hiragana> to do the same.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>moshi 1okuenn attara, iroiro na kuni wo ryokou shitai desu.</hiragana> </td> </tr>
+<tr class="jp"> <td> <hiragana>ikura kangaetemo, wakarimasenn.</hiragana> </td> </tr>
+</table>
+</p>
+</p>
+
+<h3><a name="subordinate-ga">N <hiragana>ga</hiragana></a></h3>
+
+<p>
+In subordinate clauses using <hiragana>tara</hiragana>, <hiragana>temo</hiragana>, <hiragana>toki</hiragana>,
+<hiragana>to</hiragana>, <hiragana>maeni</hiragana> etc., in addition to <hiragana>kara</hiragana>, the subject
+is marked by <hiragana>ga</hiragana>.
+<table class="sentence">
+<tr class="jp"> <td> <hiragana>tomodachi ga kuru maeni, heya wo souji shimasu.</hiragana> </td> </tr>
+</table>
+</p>
 
 </body>
 </html>
