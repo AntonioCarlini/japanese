@@ -940,8 +940,11 @@ Kanji Audio: #35: present and verified. </br>
 <h3><a name="BG-S2">Beginner - Season 2</a></h3>
 
 <p>
-Informal audio for lesson #1: present and verified </br>
-Combo dialog for lessons #43, #48 and #53: present and verified </br>
+Informal audio for lesson #1: present and verified. </br>
+Combo dialog for lessons #43, #48 and #53: present and verified. </br>
+"Fabrizio" audio for #50: present and verified. </br>
+Videos for #53: 640x480 &amp; 320x240: present and verified. </br>
+Dialog for #9 is actually a copy of the audio track; this is also the case on the website. </br>
 </p>
 
 <table class="progress">
@@ -992,7 +995,7 @@ Combo dialog for lessons #43, #48 and #53: present and verified </br>
 </tr>
 <tr>
   <td class="done"> 9 </td>
-  <td class="ok"> &radic; </td> <td class="missing">  </td> <td class="none"> </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="none"> </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
@@ -1092,7 +1095,7 @@ Combo dialog for lessons #43, #48 and #53: present and verified </br>
 </tr>
 <tr>
   <td class="done"> 29 </td>
-  <td class="ok"> &radic; </td> <td class="missing">  </td> <td class="none"> </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="none"> </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
@@ -1157,13 +1160,13 @@ Combo dialog for lessons #43, #48 and #53: present and verified </br>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 42 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 42 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 43 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 43 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
@@ -1172,63 +1175,63 @@ Combo dialog for lessons #43, #48 and #53: present and verified </br>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 45 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 45 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 46 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 46 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 47 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 47 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 48 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 48 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 49 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 49 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 50 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 50 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 51 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 51 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 52 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 52 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 53 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 53 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 54 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 54 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 55 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 55 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 56 </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td> <td> </td>
+  <td class="done"> 56 </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 </table>
