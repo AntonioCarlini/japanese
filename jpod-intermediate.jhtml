@@ -19,13 +19,15 @@
 </tr>
 <tr>
   <td> 1 </td>
-  <td> </td> <td>  </td> <td> </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td> <td>  </td>
+  <td class="ok"> &radic; </td> <td>  </td> <td> </td> <td> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td>  </td>
 </tr>
 <tr>
   <td> 2 </td>
   <td> </td> <td>  </td> <td> </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td> <td>  </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td>  </td>
 </tr>
 <tr>
   <td> 3 </td>
