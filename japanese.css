@@ -44,7 +44,11 @@ div.toc li.h3 { margin-left: 3.0em; }
 
 /* General */
 
-p { margin-left: 1.5em; }
+p {
+    margin-left: 1.5em;
+    padding-left: 3%;
+    padding-right: 20%;
+}
 
 /* Examples */
 
@@ -52,7 +56,8 @@ table.example {
     background-color: #ffff00;
     text-align: left;
     border: 1px solid black;
-    padding: 10px;
+    padding-left: 3%;
+    padding-right: 20%;
 }
 
 table.example th {
@@ -91,7 +96,8 @@ table.sentence {
     background-color: cyan;
     text-align: left;
     border: 0px solid black;
-    padding: 10px;
+    padding-left: 3%;
+    padding-right: 20%;
 }
 
 table.sentence tr.jp {
