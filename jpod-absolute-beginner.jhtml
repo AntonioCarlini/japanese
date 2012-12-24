@@ -238,68 +238,48 @@ Bonus track for lessons #1: present and verified
 </tr>
 <tr>
   <td class="done"> 17 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic;</td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
-  <td> </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 23 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
+  <td class="done"> 23 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 24 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
+  <td class="done"> 24 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 <tr>
-  <td> 25 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
-</tr>
-<tr>
-  <td> 26 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
-</tr>
-<tr>
-  <td> 27 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
-</tr>
-<tr>
-  <td> 28 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
-</tr>
-<tr>
-  <td> 29 </td>
-  <td> </td> <td>  </td> <td> </td>
-  <td> </td> <td> </td> <td>  </td>
+  <td class="done"> 25 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td>  </td>
 </tr>
 </table>
 
