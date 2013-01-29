@@ -7,6 +7,7 @@ JHTML_SRCS += jpod-advanced.jhtml
 JHTML_SRCS += jpod-beginner.jhtml
 JHTML_SRCS += jpod-intermediate.jhtml
 JHTML_SRCS += jpod-lower-intermediate.jhtml
+JHTML_SRCS += jpod-miscellaneous.jhtml
 JHTML_SRCS += jpod-upper-intermediate.jhtml
 JHTML_SRCS += kana.jhtml
 JHTML_SRCS += mnn.jhtml
