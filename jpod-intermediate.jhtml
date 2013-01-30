@@ -15,7 +15,7 @@
 Bonus: #25, #29, #74, 75, #83: present and verified.</br>
 L15: bouns, translation, alternate: present and verified.</br>
 JLPT: #79: present and verified.</br>
-Dialog: #78 seems to be identical to the audio track.</br>
+Dialog: #78 seems to be identical to the audio track but it does match the website.</br>
 </p>
 
 <table class="progress">
@@ -47,7 +47,7 @@ Dialog: #78 seems to be identical to the audio track.</br>
 </tr>
 <tr>
   <td class="done"> 4 </td>
-  <td class=""> &radic; </td> <td class="none">  </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="none">  </td> <td class="none"> </td>
   <td class="none"> </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td>  </td>
@@ -566,7 +566,7 @@ Dialog: #78 seems to be identical to the audio track.</br>
 </tr>
 <tr>
   <td class="done"> 78 </td>
-  <td class="ok"> &radic; </td> <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
   <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td>  </td>
