@@ -695,33 +695,33 @@ Bonus: #10: present and verified.</br>
 </tr>
 <tr>
   <td class="done">  8 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class="none"> </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done">  9 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class="none"> </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="none">  </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
-  <td class=""> &radic; </td> <td class="none"> </td>
-  <td class=""> &radic; </td> <td class="none"> </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class=""> &radic; </td> <td class="ok"> &radic; </td>
   <td class=""> &radic; </td> <td class="none"> </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class=""> &radic; </td> <td class="ok"> &radic; </td>
   <td class="ok"> &radic; </td> <td class="none"> </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
