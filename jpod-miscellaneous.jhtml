@@ -35,7 +35,7 @@ Bonus: #5, #6: present and verified.</br>
 </tr>
 <tr>
   <td class="done"> 3 </td>
-  <td class="missing"> &radic; </td>
+  <td class=""> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
   <td> </td>
 </tr>
@@ -47,7 +47,7 @@ Bonus: #5, #6: present and verified.</br>
 </tr>
 <tr>
   <td class="done"> 5 </td>
-  <td class="missing"> &radic; </td>
+  <td class=""> &radic; </td>
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
   <td> </td>
 </tr>
@@ -61,7 +61,182 @@ Bonus: #5, #6: present and verified.</br>
 
 <h3><a name="JL-S2">JLPT Season 2 - JLPT N4 </a></h3>
 
+<p>
+All Practice: #9, #10: NOT present and verified.</br>
+Bonus Practice: #9, #10: NOT present and verified.</br>
+</p>
+
+<table class="progress">
+<tr>
+  <th> Session </th>
+  <th> Audio </th> <th> Bonus </th>
+  <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
+</tr>
+<tr>
+  <td class="done">  1 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  2 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  3 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  4 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  5 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  6 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  7 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  8 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done">  9 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done"> 10 </td>
+  <td class=""> &radic; </td> <td class="none"> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done"> 11 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="done"> 12 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="none"> </td>
+  <td> </td>
+</tr>
+</table>
+
 <h3><a name="JL-S3">JLPT Season 3 - JLPT N3 </a></h3>
+
+<p>
+All pracitce: #9, #10, #11, #12, #13: NOT present and verified.</br>
+</p>
+
+<table class="progress">
+<tr>
+  <th> Session </th>
+  <th> Audio </th>
+  <th> Lesson </th> <th> Embedded </th> <th> SRS </th>
+</tr>
+<tr>
+  <td class="">  1 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  2 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  3 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  4 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  5 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  6 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  7 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  8 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class="">  9 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class=""> 10 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class=""> 11 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class=""> 12 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+<tr>
+  <td class=""> 13 </td>
+  <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td> </td>
+</tr>
+</table>
 
 <h3><a name="SO">Children's Songs</a></h3>
 
