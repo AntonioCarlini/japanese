@@ -685,128 +685,128 @@ Extras (not checked): #10, #17, #65, #67, #76.</br>
 </tr>
 <tr>
   <td class="done"> 1 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="missing"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="missing"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="missing"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="missing"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="missing"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td><td class=""> &radic;</td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td><td class="ok"> &radic;</td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="missing"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="missing"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
-  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="missing"> &radic; </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
   <td> </td>
 </tr>
 <tr>
