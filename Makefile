@@ -1,4 +1,4 @@
-OUTPUT = output
+OUTPUT = bin
 
 JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
@@ -24,9 +24,9 @@ TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
 default: $(TARGETS)
 
 $(OUTPUT)/%.html: %.jhtml japanese-to-codes.rb
-	mkdir -p $(OUTPUT)
+	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< $@
 
 $(OUTPUT)/%.css: %.css
-	mkdir -p $(OUTPUT)
+	@mkdir -p $(OUTPUT)
 	cp $< $@
