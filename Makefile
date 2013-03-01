@@ -1,3 +1,5 @@
+OUTPUT = output
+
 JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
 JHTML_SRCS += index.jhtml
@@ -14,7 +16,17 @@ JHTML_SRCS += mnn.jhtml
 JHTML_SRCS += study-material.jhtml
 JHTML_SRCS += verbs.jhtml
 
-default: $(foreach JH,$(JHTML_SRCS),$(subst .jhtml,.html,$(JH)))
+CSS_SRCS += japanese.css
 
-%.html: %.jhtml japanese-to-codes.rb
+TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
+TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
+
+default: $(TARGETS)
+
+$(OUTPUT)/%.html: %.jhtml japanese-to-codes.rb
+	mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< $@
+
+$(OUTPUT)/%.css: %.css
+	mkdir -p $(OUTPUT)
+	cp $< $@
