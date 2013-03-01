@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>Kanji with a Single Reading</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<h1>Kanji with a Single Reading</h1>
+
+<table class="progress">
+<tr>
+  <th> Kanji </th>
+  <th> Reading </th>
+</tr>
+<tr> <td> &#x96fb; </td> <td> <katakana>denn</katakana></td>
+<tr> <td> &#x610f; </td> <td> <katakana>i</katakana></td>
+<tr> <td> &#x54e1; </td> <td> <katakana>inn</katakana></td>
+<tr> <td> &#x9662; </td> <td> <katakana>inn</katakana></td>
+<tr> <td> &#x99c5; </td> <td> <katakana>eki</katakana></td>
+<tr> <td> &#x754c; </td> <td> <katakana>kai</katakana></td>
+<tr> <td> &#x65cf; </td> <td> <katakana>zoku</katakana></td>
+<tr> <td> &#x984c; </td> <td> <katakana>dai</katakana></td>
+<tr> <td> &#x5802; </td> <td> <katakana>dou</katakana></td>
+<tr> <td> &#x7279; </td> <td> <katakana>toku</katakana></td>
+<tr> <td> &#x798f; </td> <td> <katakana>fuku</katakana></td>
+<tr> <td> &#x670d; </td> <td> <katakana>fuku</katakana></td>
+<tr> <td> &#x66dc; </td> <td> <katakana>you</katakana></td>
+<tr> <td> &#x6d0b; </td> <td> <katakana>you</katakana></td>
+<tr> <td> &#x6599; </td> <td> <katakana>ryou</katakana></td>
+<tr> <td> &#x80c3; </td> <td> <katakana>i</katakana></td>
+<tr> <td> &#x57df; </td> <td> <katakana>iki</katakana></td>
+<tr> <td> &#x5b87; </td> <td> <katakana>u</katakana></td>
+<tr> <td> &#x6db2; </td> <td> <katakana>eki</katakana></td>
+<tr> <td> &#x6bd2; </td> <td> <katakana>doku</katakana></td>
+<tr> <td> &#x6f14; </td> <td> <katakana>enn</katakana></td>
+<tr> <td> &#x592e; </td> <td> <katakana>ou</katakana></td>
+<tr> <td> &#x79d1; </td> <td> <katakana>ka</katakana></td>
+<tr> <td> &#x8ab2; </td> <td> <katakana>ka</katakana></td>
+<tr> <td> &#x83d3; </td> <td> <katakana>ka</katakana></td>
+<tr> <td> &#x4ecb; </td> <td> <katakana>kai</katakana></td>
+<tr> <td> &#x5bb3; </td> <td> <katakana>gai</katakana></td>
+<tr> <td> &#x5b98; </td> <td> <katakana>kan</katakana></td>
+<tr> <td> &#x5b8c; </td> <td> <katakana>kan</katakana></td>
+<tr> <td> &#x520a; </td> <td> <katakana>kan</katakana></td>
+<tr> <td> &#x7c21; </td> <td> <katakana>kan</katakana></td>
+<tr> <td> &#x5b63; </td> <td> <katakana>ki</katakana></td>
+<tr> <td> &#x898f; </td> <td> <katakana>ki</katakana></td>
+<tr> <td> &#x8b70; </td> <td> <katakana>gi</katakana></td>
+<tr> <td> &#x7d3a; </td> <td> <katakana>kon</katakana></td>
+<tr> <td> &#x968a; </td> <td> <katakana>tai</katakana></td>
+<!-- http://www.jaist.ac.jp/~sjittisa/kanji1000.pdf -->
+</table>
+
+</body>
+</html>

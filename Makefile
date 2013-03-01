@@ -2,6 +2,7 @@ OUTPUT = bin
 
 JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
+JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += index.jhtml
 JHTML_SRCS += jpod.jhtml
 JHTML_SRCS += jpod-absolute-beginner.jhtml
