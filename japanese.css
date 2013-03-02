@@ -67,7 +67,7 @@ table.example th {
 }
 
 table.example td {
-    color: teal;
+    color: navy;
     border: 1px solid black;
     border-collapse: collapse;
     padding: 3px 7px 2px 7px;
@@ -77,6 +77,8 @@ table.example td.heading {
     color: black;
     border: 1px solid black;
     padding: 3px 7px 2px 7px;
+    text-align: center;
+    font-weight: bold;
 }
 
 table.example td.kanji {
@@ -181,3 +183,20 @@ table.progress tr {
     text-align: center;
 }
 
+.verb_conj_col {
+    min-width: 6em;
+}
+
+.verb_form_col {
+    min-width: 8em;
+}
+
+
+.verb_conj_section {
+    background-color: khaki
+    color: black;
+}
+
+.verb_form_title {
+    color: black;
+}

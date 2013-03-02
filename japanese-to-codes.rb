@@ -29,7 +29,9 @@ end
 def convert_to_kanji(text)
   kanji = {
     :hon => 0x672c, :watashi => 0x79c1,
-    :chiga => 0x9055, :i => 0x884c, :ku => 0x6765, # reconsider
+    :chiga => 0x9055, :i => 0x884c,
+    :ku => 0x6765, # reconsider
+    :rai => 0x6765, # also ku
     :kae => 0x5e30, # reconsider
     :samui => 0x5bd2,
     :arinashi => 0x6709, # possess
@@ -38,7 +40,12 @@ def convert_to_kanji(text)
     :ookii => 0x5927,
     :manabu => 0x5b66,
     :ichi => 0x4e00, :ni => 0x4e8c, :san => 0x4e09, :yon => 0x56db, :go => 0x4e94,
-    :roku => 0x516d, :nana => 0x4e03, :hachi => 0x516b, :kyuu => 0x4e5d, :juu => 0x5341
+    :roku => 0x516d, :nana => 0x4e03, :hachi => 0x516b, :kyuu => 0x4e5d, :juu => 0x5341,
+    :dan => 0x6bb5,
+    :kai => 0x4f1a,
+    :kou => 0x884c,
+    :shoku => 0x98df,
+    :mi => 0x898b,
   }
 
   result = ""
@@ -176,7 +183,7 @@ def convert_to_hiragana(text)
     end
 
     if current.length() >= 4
-      puts("BROKEN at #{pos} trying to handle [#{current}]")
+      puts("HIRAGANA: BROKEN at #{pos} trying to handle [#{current}] in [#{text}]")
       exit
     end
   }
@@ -333,8 +340,57 @@ File.open(file, "r").each_line() {
   line.chomp!()
   line_num += 1
   to_handle = line
+  debug_out("Line #{line_num}")
   debug_out("state is #{state}, line is [#{to_handle}]")
   until to_handle.empty?()
+    # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
+    to_handle.gsub!(/@([[:alpha:]|[0-9]]{2}){{}}/) {
+      |type|
+      case $1
+      when /V1/  then "V<sub>1</sub>"
+      when /V2/  then "V<sub>2</sub>"
+      when /V3/  then "V<sub>3</sub>"
+      when /V4/  then "V<sub>4</sub>"
+      when /V5/  then "V<sub>5</sub>"
+      when /V6/  then "V<sub>#{convert_to_hiragana('te')}</sub>"
+      when /V7/  then "V<sub>#{convert_to_hiragana('ta')}</sub>"
+      when /1D/  then "#{convert_to_kanji('ichi dan')}"
+      when /5D/  then "#{convert_to_kanji('go dan')}"
+
+      else $stderr.puts("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
+      end
+    }
+      
+    # Handle conversions that may contain embedded conversions
+    # Do NOT assume that a valid conversion must be on one line
+    # On seeing a start of conversion, behave as for <hiragana> etc.
+    # Do not allow mixing of new style and old style
+    if to_handle =~ %r{^([^{}]*?)(@([[:alpha:]|[0-9]]{2}){{|}})(.*)$}
+      prefix = $1
+      full_match = $2
+      action = $3
+      suffix = $4
+
+      # If a new state has been declared, save the old state
+      state_stack << state unless action.nil?()
+
+      debug_out("CHANGE state=#{state} prefix=[#{prefix}] [#{full_match}] [#{action}]  suffix=#{suffix}")
+
+      # Display the prefix according to the old state and process the suffix next time around
+      op.print(display(state, prefix))
+      to_handle = suffix
+
+      # Select the new state according to the action
+      case action
+        when /^HI$/   then state = HIRAGANA
+        when /^KT$/   then state = KATAKANA
+        when /^KJ$/   then state = KANJI
+        when nil      then state = state_stack.pop() if action.nil?()
+      end
+
+      debug_out("CHANGE end-state=#{state} stack-state=#{state_stack.last()}")
+    end
+
     if to_handle =~ %r{^(.*?)(<nihongo>|<hiragana>|<katakana>|<kanji>|</nihongo>|</hiragana>|</katakana>|</kanji>)(.*)$}
       prefix = $1
       style = $2
@@ -357,22 +413,22 @@ File.open(file, "r").each_line() {
         state = KANJI
         to_handle = suffix
       when "</hiragana>", "</nihongo>"
-        raise("Closing #{style} in state #{state}") if state != HIRAGANA
+        raise("Line #{line_num}: Closing #{style} in state #{state}") if state != HIRAGANA
         op.print(display(state, prefix))
         to_handle = suffix
       when "</katakana>"
-        raise("Closing #{style} in state #{state}") if state != KATAKANA
+        raise("Line #{line_num}: Closing #{style} in state #{state}") if state != KATAKANA
         op.print(display(state, prefix))
         to_handle = suffix
       when "</kanji>"
-        raise("Closing #{style} in state #{state}") if state != KANJI
+        raise("Line #{line_num}: Closing #{style} in state #{state}") if state != KANJI
         op.print(display(state, prefix))
         to_handle = suffix
       end
       state = state_stack.pop() if style[0,2] == "</"
 
       debug_out("CHANGE end-state=#{state} stack-state=#{state_stack.last()}")
-    else
+    elsif to_handle !~ /}}/
       op.print(display(state, to_handle))
       to_handle = ""
     end

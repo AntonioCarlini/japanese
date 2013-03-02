@@ -11,74 +11,74 @@
 <h3> Basic Characters </h3>
 <table>
   <tr>
-    <td> <hiragana>a</hiragana> <br/> a </td>
-    <td> <hiragana>i</hiragana> <br/> i </td>
-    <td> <hiragana>u</hiragana> <br/> u </td>
-    <td> <hiragana>e</hiragana> <br/> e </td>
-    <td> <hiragana>o</hiragana> <br/> o </td>
+    <td> @HI{{a}} <br/> a </td>
+    <td> @HI{{i}} <br/> i </td>
+    <td> @HI{{u}} <br/> u </td>
+    <td> @HI{{e}} <br/> e </td>
+    <td> @HI{{o}} <br/> o </td>
   </tr>
   <tr>
-    <td> <hiragana>ka</hiragana> <br/> ka </td>
-    <td> <hiragana>ki</hiragana> <br/> ki </td>
-    <td> <hiragana>ku</hiragana> <br/> ku </td>
-    <td> <hiragana>ke</hiragana> <br/> ke </td>
-    <td> <hiragana>ko</hiragana> <br/> ko </td>
+    <td> @HI{{ka}} <br/> ka </td>
+    <td> @HI{{ki}} <br/> ki </td>
+    <td> @HI{{ku}} <br/> ku </td>
+    <td> @HI{{ke}} <br/> ke </td>
+    <td> @HI{{ko}} <br/> ko </td>
   </tr>
   <tr>
-    <td> <hiragana>sa</hiragana> <br/> sa </td>
-    <td> <hiragana>shi</hiragana> <br/> si </td>
-    <td> <hiragana>su</hiragana> <br/> su </td>
-    <td> <hiragana>se</hiragana> <br/> se </td>
-    <td> <hiragana>so</hiragana> <br/> so </td>
+    <td> @HI{{sa}} <br/> sa </td>
+    <td> @HI{{shi}} <br/> si </td>
+    <td> @HI{{su}} <br/> su </td>
+    <td> @HI{{se}} <br/> se </td>
+    <td> @HI{{so}} <br/> so </td>
   </tr>
   <tr>
-    <td> <hiragana>ta</hiragana> <br/> ta </td>
-    <td> <hiragana>chi</hiragana> <br/> chi </td>
-    <td> <hiragana>tsu</hiragana> <br/> tsu </td>
-    <td> <hiragana>te</hiragana> <br/> te </td>
-    <td> <hiragana>to</hiragana> <br/> to </td>
+    <td> @HI{{ta}} <br/> ta </td>
+    <td> @HI{{chi}} <br/> chi </td>
+    <td> @HI{{tsu}} <br/> tsu </td>
+    <td> @HI{{te}} <br/> te </td>
+    <td> @HI{{to}} <br/> to </td>
   </tr>
   <tr>
-    <td> <hiragana>na</hiragana> <br/> na </td>
-    <td> <hiragana>ni</hiragana> <br/> ni </td>
-    <td> <hiragana>nu</hiragana> <br/> nu </td>
-    <td> <hiragana>ne</hiragana> <br/> ne </td>
-    <td> <hiragana>no</hiragana> <br/> no </td>
+    <td> @HI{{na}} <br/> na </td>
+    <td> @HI{{ni}} <br/> ni </td>
+    <td> @HI{{nu}} <br/> nu </td>
+    <td> @HI{{ne}} <br/> ne </td>
+    <td> @HI{{no}} <br/> no </td>
   </tr>
   <tr>
-    <td> <hiragana>ha</hiragana> <br/> ha </td>
-    <td> <hiragana>hi</hiragana> <br/> hi </td>
-    <td> <hiragana>hu</hiragana> <br/> fu </td>
-    <td> <hiragana>he</hiragana> <br/> he </td>
-    <td> <hiragana>ho</hiragana> <br/> ho </td>
+    <td> @HI{{ha}} <br/> ha </td>
+    <td> @HI{{hi}} <br/> hi </td>
+    <td> @HI{{hu}} <br/> fu </td>
+    <td> @HI{{he}} <br/> he </td>
+    <td> @HI{{ho}} <br/> ho </td>
   </tr>
   <tr>
-    <td> <hiragana>ma</hiragana> <br/> ma </td>
-    <td> <hiragana>mi</hiragana> <br/> mi </td>
-    <td> <hiragana>mu</hiragana> <br/> mu </td>
-    <td> <hiragana>me</hiragana> <br/> me </td>
-    <td> <hiragana>mo</hiragana> <br/> mo </td>
+    <td> @HI{{ma}} <br/> ma </td>
+    <td> @HI{{mi}} <br/> mi </td>
+    <td> @HI{{mu}} <br/> mu </td>
+    <td> @HI{{me}} <br/> me </td>
+    <td> @HI{{mo}} <br/> mo </td>
   </tr>
   <tr>
-    <td> <hiragana>ya</hiragana> <br/> ya </td>
+    <td> @HI{{ya}} <br/> ya </td>
     <td> &nbsp; </td>
-    <td> <hiragana>yu</hiragana> <br/> yu </td>
+    <td> @HI{{yu}} <br/> yu </td>
     <td> &nbsp; </td>
-    <td> <hiragana>o</hiragana> <br/> yo </td>
+    <td> @HI{{o}} <br/> yo </td>
   </tr>
   <tr>
-    <td> <hiragana>ra</hiragana> <br/> ra </td>
-    <td> <hiragana>ri</hiragana> <br/> ri </td>
-    <td> <hiragana>ru</hiragana> <br/> ru </td>
-    <td> <hiragana>re</hiragana> <br/> re </td>
-    <td> <hiragana>ro</hiragana> <br/> ro </td>
+    <td> @HI{{ra}} <br/> ra </td>
+    <td> @HI{{ri}} <br/> ri </td>
+    <td> @HI{{ru}} <br/> ru </td>
+    <td> @HI{{re}} <br/> re </td>
+    <td> @HI{{ro}} <br/> ro </td>
   </tr>
   <tr>
-    <td> <hiragana>wa</hiragana> <br/> wa </td>
+    <td> @HI{{wa}} <br/> wa </td>
     <td> &nbsp; </td>
     <td> &nbsp; </td>
     <td> &nbsp; </td>
-    <td> <hiragana>wo</hiragana> <br/> wo </td>
+    <td> @HI{{wo}} <br/> wo </td>
   </tr>
 </table>
 
@@ -86,39 +86,39 @@
 
 <table>
   <tr>
-    <td> <hiragana>ga</hiragana> <br/> ga </td>
-    <td> <hiragana>gi</hiragana> <br/> gi </td>
-    <td> <hiragana>gu</hiragana> <br/> gu </td>
-    <td> <hiragana>ge</hiragana> <br/> ge </td>
-    <td> <hiragana>go</hiragana> <br/> go </td>
+    <td> @HI{{ga}} <br/> ga </td>
+    <td> @HI{{gi}} <br/> gi </td>
+    <td> @HI{{gu}} <br/> gu </td>
+    <td> @HI{{ge}} <br/> ge </td>
+    <td> @HI{{go}} <br/> go </td>
   </tr>
   <tr>
-    <td> <hiragana>za</hiragana> <br/> za </td>
-    <td> <hiragana>ji</hiragana> <br/> ji </td>
-    <td> <hiragana>zu</hiragana> <br/> zu </td>
-    <td> <hiragana>ze</hiragana> <br/> ze </td>
-    <td> <hiragana>zo</hiragana> <br/> zo </td>
+    <td> @HI{{za}} <br/> za </td>
+    <td> @HI{{ji}} <br/> ji </td>
+    <td> @HI{{zu}} <br/> zu </td>
+    <td> @HI{{ze}} <br/> ze </td>
+    <td> @HI{{zo}} <br/> zo </td>
   </tr>
   <tr>
-    <td> <hiragana>da</hiragana> <br/> da </td>
-    <td> <hiragana>ji</hiragana> <br/> ji </td>
-    <td> <hiragana>zu</hiragana> <br/> zu </td>
-    <td> <hiragana>de</hiragana> <br/> de </td>
-    <td> <hiragana>do</hiragana> <br/> do </td>
+    <td> @HI{{da}} <br/> da </td>
+    <td> @HI{{ji}} <br/> ji </td>
+    <td> @HI{{zu}} <br/> zu </td>
+    <td> @HI{{de}} <br/> de </td>
+    <td> @HI{{do}} <br/> do </td>
   </tr>
   <tr>
-    <td> <hiragana>ba</hiragana> <br/> ba </td>
-    <td> <hiragana>bi</hiragana> <br/> bi </td>
-    <td> <hiragana>bu</hiragana> <br/> bu </td>
-    <td> <hiragana>be</hiragana> <br/> be </td>
-    <td> <hiragana>bo</hiragana> <br/> bo </td>
+    <td> @HI{{ba}} <br/> ba </td>
+    <td> @HI{{bi}} <br/> bi </td>
+    <td> @HI{{bu}} <br/> bu </td>
+    <td> @HI{{be}} <br/> be </td>
+    <td> @HI{{bo}} <br/> bo </td>
   </tr>
   <tr>
-    <td> <hiragana>pa</hiragana> <br/> pa </td>
-    <td> <hiragana>pi</hiragana> <br/> pi </td>
-    <td> <hiragana>pu</hiragana> <br/> pu </td>
-    <td> <hiragana>pe</hiragana> <br/> pe </td>
-    <td> <hiragana>po</hiragana> <br/> po </td>
+    <td> @HI{{pa}} <br/> pa </td>
+    <td> @HI{{pi}} <br/> pi </td>
+    <td> @HI{{pu}} <br/> pu </td>
+    <td> @HI{{pe}} <br/> pe </td>
+    <td> @HI{{po}} <br/> po </td>
   </tr>
 </table>
 
@@ -126,59 +126,59 @@
 
 <table>
   <tr>
-    <td> <hiragana>kya</hiragana> <br/> kyo </td>
-    <td> <hiragana>kyu</hiragana> <br/> kyu </td>
-    <td> <hiragana>kyo</hiragana> <br/> kyo </td>
+    <td> @HI{{kya}} <br/> kyo </td>
+    <td> @HI{{kyu}} <br/> kyu </td>
+    <td> @HI{{kyo}} <br/> kyo </td>
   </tr>
   <tr>
-    <td> <hiragana>sha</hiragana> <br/> sha </td>
-    <td> <hiragana>shu</hiragana> <br/> shu </td>
-    <td> <hiragana>sho</hiragana> <br/> sho </td>
+    <td> @HI{{sha}} <br/> sha </td>
+    <td> @HI{{shu}} <br/> shu </td>
+    <td> @HI{{sho}} <br/> sho </td>
   </tr>
   <tr>
-    <td> <hiragana>cha</hiragana> <br/> cha </td>
-    <td> <hiragana>chu</hiragana> <br/> chu </td>
-    <td> <hiragana>cho</hiragana> <br/> cho </td>
+    <td> @HI{{cha}} <br/> cha </td>
+    <td> @HI{{chu}} <br/> chu </td>
+    <td> @HI{{cho}} <br/> cho </td>
   </tr>
   <tr>
-    <td> <hiragana>nya</hiragana> <br/> nyo </td>
-    <td> <hiragana>nyu</hiragana> <br/> nyu </td>
-    <td> <hiragana>nyo</hiragana> <br/> nyo </td>
+    <td> @HI{{nya}} <br/> nyo </td>
+    <td> @HI{{nyu}} <br/> nyu </td>
+    <td> @HI{{nyo}} <br/> nyo </td>
   </tr>
   <tr>
-    <td> <hiragana>hya</hiragana> <br/> hyo </td>
-    <td> <hiragana>hyu</hiragana> <br/> hyu </td>
-    <td> <hiragana>hyo</hiragana> <br/> hyo </td>
+    <td> @HI{{hya}} <br/> hyo </td>
+    <td> @HI{{hyu}} <br/> hyu </td>
+    <td> @HI{{hyo}} <br/> hyo </td>
   </tr>
   <tr>
-    <td> <hiragana>mya</hiragana> <br/> myo </td>
-    <td> <hiragana>myu</hiragana> <br/> myu </td>
-    <td> <hiragana>myo</hiragana> <br/> myo </td>
+    <td> @HI{{mya}} <br/> myo </td>
+    <td> @HI{{myu}} <br/> myu </td>
+    <td> @HI{{myo}} <br/> myo </td>
   </tr>
   <tr>
-    <td> <hiragana>rya</hiragana> <br/> ryo </td>
-    <td> <hiragana>ryu</hiragana> <br/> ryu </td>
-    <td> <hiragana>ryo</hiragana> <br/> ryo </td>
+    <td> @HI{{rya}} <br/> ryo </td>
+    <td> @HI{{ryu}} <br/> ryu </td>
+    <td> @HI{{ryo}} <br/> ryo </td>
   </tr>
   <tr>
-    <td> <hiragana>gya</hiragana> <br/> gyo </td>
-    <td> <hiragana>gyu</hiragana> <br/> gyu </td>
-    <td> <hiragana>gyo</hiragana> <br/> gyo </td>
+    <td> @HI{{gya}} <br/> gyo </td>
+    <td> @HI{{gyu}} <br/> gyu </td>
+    <td> @HI{{gyo}} <br/> gyo </td>
   </tr>
   <tr>
-    <td> <hiragana>ja</hiragana> <br/> jo </td>
-    <td> <hiragana>ju</hiragana> <br/> ju </td>
-    <td> <hiragana>jo</hiragana> <br/> jo </td>
+    <td> @HI{{ja}} <br/> jo </td>
+    <td> @HI{{ju}} <br/> ju </td>
+    <td> @HI{{jo}} <br/> jo </td>
   </tr>
   <tr>
-    <td> <hiragana>bya</hiragana> <br/> byo </td>
-    <td> <hiragana>byu</hiragana> <br/> byu </td>
-    <td> <hiragana>byo</hiragana> <br/> byo </td>
+    <td> @HI{{bya}} <br/> byo </td>
+    <td> @HI{{byu}} <br/> byu </td>
+    <td> @HI{{byo}} <br/> byo </td>
   </tr>
   <tr>
-    <td> <hiragana>pya</hiragana> <br/> pyo </td>
-    <td> <hiragana>pyu</hiragana> <br/> pyu </td>
-    <td> <hiragana>pyo</hiragana> <br/> pyo </td>
+    <td> @HI{{pya}} <br/> pyo </td>
+    <td> @HI{{pyu}} <br/> pyu </td>
+    <td> @HI{{pyo}} <br/> pyo </td>
   </tr>
 
 </table>
@@ -187,74 +187,74 @@
 
 <table>
   <tr>
-    <td> <katakana>a</katakana> <br/> a </td>
-    <td> <katakana>i</katakana> <br/> i </td>
-    <td> <katakana>u</katakana> <br/> u </td>
-    <td> <katakana>e</katakana> <br/> e </td>
-    <td> <katakana>o</katakana> <br/> o </td>
+    <td> @KT{{a}} <br/> a </td>
+    <td> @KT{{i}} <br/> i </td>
+    <td> @KT{{u}} <br/> u </td>
+    <td> @KT{{e}} <br/> e </td>
+    <td> @KT{{o}} <br/> o </td>
   </tr>
   <tr>
-    <td> <katakana>ka</katakana> <br/> ka </td>
-    <td> <katakana>ki</katakana> <br/> ki </td>
-    <td> <katakana>ku</katakana> <br/> ku </td>
-    <td> <katakana>ke</katakana> <br/> ke </td>
-    <td> <katakana>ko</katakana> <br/> ko </td>
+    <td> @KT{{ka}} <br/> ka </td>
+    <td> @KT{{ki}} <br/> ki </td>
+    <td> @KT{{ku}} <br/> ku </td>
+    <td> @KT{{ke}} <br/> ke </td>
+    <td> @KT{{ko}} <br/> ko </td>
   </tr>
   <tr>
-    <td> <katakana>sa</katakana> <br/> sa </td>
-    <td> <katakana>shi</katakana> <br/> si </td>
-    <td> <katakana>su</katakana> <br/> su </td>
-    <td> <katakana>se</katakana> <br/> se </td>
-    <td> <katakana>so</katakana> <br/> so </td>
+    <td> @KT{{sa}} <br/> sa </td>
+    <td> @KT{{shi}} <br/> si </td>
+    <td> @KT{{su}} <br/> su </td>
+    <td> @KT{{se}} <br/> se </td>
+    <td> @KT{{so}} <br/> so </td>
   </tr>
   <tr>
-    <td> <katakana>ta</katakana> <br/> ta </td>
-    <td> <katakana>chi</katakana> <br/> chi </td>
-    <td> <katakana>tsu</katakana> <br/> tsu </td>
-    <td> <katakana>te</katakana> <br/> te </td>
-    <td> <katakana>to</katakana> <br/> to </td>
+    <td> @KT{{ta}} <br/> ta </td>
+    <td> @KT{{chi}} <br/> chi </td>
+    <td> @KT{{tsu}} <br/> tsu </td>
+    <td> @KT{{te}} <br/> te </td>
+    <td> @KT{{to}} <br/> to </td>
   </tr>
   <tr>
-    <td> <katakana>na</katakana> <br/> na </td>
-    <td> <katakana>ni</katakana> <br/> ni </td>
-    <td> <katakana>nu</katakana> <br/> nu </td>
-    <td> <katakana>ne</katakana> <br/> ne </td>
-    <td> <katakana>no</katakana> <br/> no </td>
+    <td> @KT{{na}} <br/> na </td>
+    <td> @KT{{ni}} <br/> ni </td>
+    <td> @KT{{nu}} <br/> nu </td>
+    <td> @KT{{ne}} <br/> ne </td>
+    <td> @KT{{no}} <br/> no </td>
   </tr>
   <tr>
-    <td> <katakana>ha</katakana> <br/> ha </td>
-    <td> <katakana>hi</katakana> <br/> hi </td>
-    <td> <katakana>hu</katakana> <br/> hu </td>
-    <td> <katakana>he</katakana> <br/> he </td>
-    <td> <katakana>ho</katakana> <br/> ho </td>
+    <td> @KT{{ha}} <br/> ha </td>
+    <td> @KT{{hi}} <br/> hi </td>
+    <td> @KT{{hu}} <br/> hu </td>
+    <td> @KT{{he}} <br/> he </td>
+    <td> @KT{{ho}} <br/> ho </td>
   </tr>
   <tr>
-    <td> <katakana>ma</katakana> <br/> ma </td>
-    <td> <katakana>mi</katakana> <br/> mi </td>
-    <td> <katakana>mu</katakana> <br/> mu </td>
-    <td> <katakana>me</katakana> <br/> me </td>
-    <td> <katakana>mo</katakana> <br/> mo </td>
+    <td> @KT{{ma}} <br/> ma </td>
+    <td> @KT{{mi}} <br/> mi </td>
+    <td> @KT{{mu}} <br/> mu </td>
+    <td> @KT{{me}} <br/> me </td>
+    <td> @KT{{mo}} <br/> mo </td>
   </tr>
   <tr>
-    <td> <katakana>ya</katakana> <br/> ya </td>
+    <td> @KT{{ya}} <br/> ya </td>
     <td> &nbsp; </td>
-    <td> <katakana>yu</katakana> <br/> yu </td>
+    <td> @KT{{yu}} <br/> yu </td>
     <td> &nbsp; </td>
-    <td> <katakana>o</katakana> <br/> yo </td>
+    <td> @KT{{o}} <br/> yo </td>
   </tr>
   <tr>
-    <td> <katakana>ra</katakana> <br/> ra </td>
-    <td> <katakana>ri</katakana> <br/> ri </td>
-    <td> <katakana>ru</katakana> <br/> ru </td>
-    <td> <katakana>re</katakana> <br/> re </td>
-    <td> <katakana>ro</katakana> <br/> ro </td>
+    <td> @KT{{ra}} <br/> ra </td>
+    <td> @KT{{ri}} <br/> ri </td>
+    <td> @KT{{ru}} <br/> ru </td>
+    <td> @KT{{re}} <br/> re </td>
+    <td> @KT{{ro}} <br/> ro </td>
   </tr>
   <tr>
-    <td> <katakana>wa</katakana> <br/> wa </td>
+    <td> @KT{{wa}} <br/> wa </td>
     <td> &nbsp; </td>
     <td> &nbsp; </td>
     <td> &nbsp; </td>
-    <td> <katakana>wo</katakana> <br/> wo </td>
+    <td> @KT{{wo}} <br/> wo </td>
   </tr>
 </table>
 
@@ -262,39 +262,39 @@
 
 <table>
   <tr>
-    <td> <katakana>ga</katakana> <br/> ga </td>
-    <td> <katakana>gi</katakana> <br/> gi </td>
-    <td> <katakana>gu</katakana> <br/> gu </td>
-    <td> <katakana>ge</katakana> <br/> ge </td>
-    <td> <katakana>go</katakana> <br/> go </td>
+    <td> @KT{{ga}} <br/> ga </td>
+    <td> @KT{{gi}} <br/> gi </td>
+    <td> @KT{{gu}} <br/> gu </td>
+    <td> @KT{{ge}} <br/> ge </td>
+    <td> @KT{{go}} <br/> go </td>
   </tr>
   <tr>
-    <td> <katakana>za</katakana> <br/> za </td>
-    <td> <katakana>ji</katakana> <br/> ji </td>
-    <td> <katakana>zu</katakana> <br/> zu </td>
-    <td> <katakana>ze</katakana> <br/> ze </td>
-    <td> <katakana>zo</katakana> <br/> zo </td>
+    <td> @KT{{za}} <br/> za </td>
+    <td> @KT{{ji}} <br/> ji </td>
+    <td> @KT{{zu}} <br/> zu </td>
+    <td> @KT{{ze}} <br/> ze </td>
+    <td> @KT{{zo}} <br/> zo </td>
   </tr>
   <tr>
-    <td> <katakana>da</katakana> <br/> da </td>
-    <td> <katakana>ji</katakana> <br/> ji </td>
-    <td> <katakana>zu</katakana> <br/> zu </td>
-    <td> <katakana>de</katakana> <br/> de </td>
-    <td> <katakana>do</katakana> <br/> do </td>
+    <td> @KT{{da}} <br/> da </td>
+    <td> @KT{{ji}} <br/> ji </td>
+    <td> @KT{{zu}} <br/> zu </td>
+    <td> @KT{{de}} <br/> de </td>
+    <td> @KT{{do}} <br/> do </td>
   </tr>
   <tr>
-    <td> <katakana>ba</katakana> <br/> ba </td>
-    <td> <katakana>bi</katakana> <br/> bi </td>
-    <td> <katakana>bu</katakana> <br/> bu </td>
-    <td> <katakana>be</katakana> <br/> be </td>
-    <td> <katakana>bo</katakana> <br/> bo </td>
+    <td> @KT{{ba}} <br/> ba </td>
+    <td> @KT{{bi}} <br/> bi </td>
+    <td> @KT{{bu}} <br/> bu </td>
+    <td> @KT{{be}} <br/> be </td>
+    <td> @KT{{bo}} <br/> bo </td>
   </tr>
   <tr>
-    <td> <katakana>pa</katakana> <br/> pa </td>
-    <td> <katakana>pi</katakana> <br/> pi </td>
-    <td> <katakana>pu</katakana> <br/> pu </td>
-    <td> <katakana>pe</katakana> <br/> pe </td>
-    <td> <katakana>po</katakana> <br/> po </td>
+    <td> @KT{{pa}} <br/> pa </td>
+    <td> @KT{{pi}} <br/> pi </td>
+    <td> @KT{{pu}} <br/> pu </td>
+    <td> @KT{{pe}} <br/> pe </td>
+    <td> @KT{{po}} <br/> po </td>
   </tr>
 </table>
 
@@ -302,59 +302,59 @@
 
 <table>
   <tr>
-    <td> <katakana>kya</katakana> <br/> kyo </td>
-    <td> <katakana>kyu</katakana> <br/> kyu </td>
-    <td> <katakana>kyo</katakana> <br/> kyo </td>
+    <td> @KT{{kya}} <br/> kyo </td>
+    <td> @KT{{kyu}} <br/> kyu </td>
+    <td> @KT{{kyo}} <br/> kyo </td>
   </tr>
   <tr>
-    <td> <katakana>sha</katakana> <br/> sha </td>
-    <td> <katakana>shu</katakana> <br/> shu </td>
-    <td> <katakana>sho</katakana> <br/> sho </td>
+    <td> @KT{{sha}} <br/> sha </td>
+    <td> @KT{{shu}} <br/> shu </td>
+    <td> @KT{{sho}} <br/> sho </td>
   </tr>
   <tr>
-    <td> <katakana>cha</katakana> <br/> cha </td>
-    <td> <katakana>chu</katakana> <br/> chu </td>
-    <td> <katakana>cho</katakana> <br/> cho </td>
+    <td> @KT{{cha}} <br/> cha </td>
+    <td> @KT{{chu}} <br/> chu </td>
+    <td> @KT{{cho}} <br/> cho </td>
   </tr>
   <tr>
-    <td> <katakana>nya</katakana> <br/> nyo </td>
-    <td> <katakana>nyu</katakana> <br/> nyu </td>
-    <td> <katakana>nyo</katakana> <br/> nyo </td>
+    <td> @KT{{nya}} <br/> nyo </td>
+    <td> @KT{{nyu}} <br/> nyu </td>
+    <td> @KT{{nyo}} <br/> nyo </td>
   </tr>
   <tr>
-    <td> <katakana>hya</katakana> <br/> hyo </td>
-    <td> <katakana>hyu</katakana> <br/> hyu </td>
-    <td> <katakana>hyo</katakana> <br/> hyo </td>
+    <td> @KT{{hya}} <br/> hyo </td>
+    <td> @KT{{hyu}} <br/> hyu </td>
+    <td> @KT{{hyo}} <br/> hyo </td>
   </tr>
   <tr>
-    <td> <katakana>mya</katakana> <br/> myo </td>
-    <td> <katakana>myu</katakana> <br/> myu </td>
-    <td> <katakana>myo</katakana> <br/> myo </td>
+    <td> @KT{{mya}} <br/> myo </td>
+    <td> @KT{{myu}} <br/> myu </td>
+    <td> @KT{{myo}} <br/> myo </td>
   </tr>
   <tr>
-    <td> <katakana>rya</katakana> <br/> ryo </td>
-    <td> <katakana>ryu</katakana> <br/> ryu </td>
-    <td> <katakana>ryo</katakana> <br/> ryo </td>
+    <td> @KT{{rya}} <br/> ryo </td>
+    <td> @KT{{ryu}} <br/> ryu </td>
+    <td> @KT{{ryo}} <br/> ryo </td>
   </tr>
   <tr>
-    <td> <katakana>gya</katakana> <br/> gyo </td>
-    <td> <katakana>gyu</katakana> <br/> gyu </td>
-    <td> <katakana>gyo</katakana> <br/> gyo </td>
+    <td> @KT{{gya}} <br/> gyo </td>
+    <td> @KT{{gyu}} <br/> gyu </td>
+    <td> @KT{{gyo}} <br/> gyo </td>
   </tr>
   <tr>
-    <td> <katakana>ja</katakana> <br/> jo </td>
-    <td> <katakana>ju</katakana> <br/> ju </td>
-    <td> <katakana>jo</katakana> <br/> jo </td>
+    <td> @KT{{ja}} <br/> jo </td>
+    <td> @KT{{ju}} <br/> ju </td>
+    <td> @KT{{jo}} <br/> jo </td>
   </tr>
   <tr>
-    <td> <katakana>bya</katakana> <br/> byo </td>
-    <td> <katakana>byu</katakana> <br/> byu </td>
-    <td> <katakana>byo</katakana> <br/> byo </td>
+    <td> @KT{{bya}} <br/> byo </td>
+    <td> @KT{{byu}} <br/> byu </td>
+    <td> @KT{{byo}} <br/> byo </td>
   </tr>
   <tr>
-    <td> <katakana>pya</katakana> <br/> pyo </td>
-    <td> <katakana>pyu</katakana> <br/> pyu </td>
-    <td> <katakana>pyo</katakana> <br/> pyo </td>
+    <td> @KT{{pya}} <br/> pyo </td>
+    <td> @KT{{pyu}} <br/> pyu </td>
+    <td> @KT{{pyo}} <br/> pyo </td>
   </tr>
 
 </table>

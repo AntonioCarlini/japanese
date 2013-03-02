@@ -13,7 +13,7 @@
 <table class="example">
  <tr>
    <th> &nbsp; </th>
-   <th> ~<hiragana>ru</hiragana> </th>
+   <th> ~@HI{{ru}} </th>
  </tr>
  <tr>
    <td class="heading"> V<sub>1</sub> </td>
@@ -25,23 +25,23 @@
  </tr>
  <tr>
    <td class="heading"> V<sub>3</sub> </td>
-   <td> ~<hiragana>ru</hiragana></td>
+   <td> ~@HI{{ru}}</td>
  </tr>
  <tr>
    <td class="heading"> V<sub>4</sub> </td>
-   <td> ~<hiragana>re</hiragana></td>
+   <td> ~@HI{{re}}</td>
  </tr>
  <tr>
    <td class="heading"> V<sub>5</sub> </td>
-   <td> ~<hiragana>you</hiragana></td>
+   <td> ~@HI{{you}}</td>
  </tr>
  <tr>
-   <td class="heading"> V<sub>6</sub> (~<hiragana>te</hiragana>)</td>
-   <td> ~<hiragana>te</hiragana></td>
+   <td class="heading"> V<sub>6</sub> (~@HI{{te}})</td>
+   <td> ~@HI{{te}}</td>
  </tr>
  <tr>
-   <td class="heading"> V<sub>7</sub> (~<hiragana>ta</hiragana>)</td>
-   <td> ~<hiragana>ta</hiragana></td>
+   <td class="heading"> V<sub>7</sub> (~@HI{{ta}})</td>
+   <td> ~@HI{{ta}}</td>
  </tr>
 </table>
 
@@ -50,39 +50,39 @@
 <table class="example">
  <tr>
    <th> &nbsp; </th>
-   <th> ~<hiragana>su</hiragana> </th>
-   <th> ~<hiragana>ku</hiragana> </th>
-   <th> ~<hiragana>gu</hiragana> </th>
-   <th> ~<hiragana>tsu</hiragana> </th>
-   <th> ~<hiragana>ru</hiragana> </th>
-   <th> ~<hiragana>u</hiragana> </th>
-   <th> ~<hiragana>nu</hiragana> </th>
-   <th> ~<hiragana>mu</hiragana> </th>
-   <th> ~<hiragana>bu</hiragana> </th>
+   <th> ~@HI{{su}} </th>
+   <th> ~@HI{{ku}} </th>
+   <th> ~@HI{{gu}} </th>
+   <th> ~@HI{{tsu}} </th>
+   <th> ~@HI{{ru}} </th>
+   <th> ~@HI{{u}} </th>
+   <th> ~@HI{{nu}} </th>
+   <th> ~@HI{{mu}} </th>
+   <th> ~@HI{{bu}} </th>
  </tr>
  <tr>
    <td class="heading"> V<sub>1</sub> </td>
-   <td> ~<hiragana>sa</hiragana></td>
-   <td> ~<hiragana>ka</hiragana></td>
-   <td> ~<hiragana>ga</hiragana></td>
-   <td> ~<hiragana>ta</hiragana></td>
-   <td> ~<hiragana>ra</hiragana></td>
-   <td> ~<hiragana>wa</hiragana></td>
-   <td> ~<hiragana>na</hiragana></td>
-   <td> ~<hiragana>ma</hiragana></td>
-   <td> ~<hiragana>ba</hiragana></td>
+   <td> ~@HI{{sa}}</td>
+   <td> ~@HI{{ka}}</td>
+   <td> ~@HI{{ga}}</td>
+   <td> ~@HI{{ta}}</td>
+   <td> ~@HI{{ra}}</td>
+   <td> ~@HI{{wa}}</td>
+   <td> ~@HI{{na}}</td>
+   <td> ~@HI{{ma}}</td>
+   <td> ~@HI{{ba}}</td>
  </tr>
  <tr>
    <td class="heading"> V<sub>2</sub> </td>
-   <td> ~<hiragana>shi</hiragana></td>
-   <td> ~<hiragana>ki</hiragana></td>
-   <td> ~<hiragana>gi</hiragana></td>
-   <td> ~<hiragana>chi</hiragana></td>
-   <td> ~<hiragana>ri</hiragana></td>
-   <td> ~<hiragana>i</hiragana></td>
-   <td> ~<hiragana>ni</hiragana></td>
-   <td> ~<hiragana>mi</hiragana></td>
-   <td> ~<hiragana>bi</hiragana></td>
+   <td> ~@HI{{shi}}</td>
+   <td> ~@HI{{ki}}</td>
+   <td> ~@HI{{gi}}</td>
+   <td> ~@HI{{chi}}</td>
+   <td> ~@HI{{ri}}</td>
+   <td> ~@HI{{i}}</td>
+   <td> ~@HI{{ni}}</td>
+   <td> ~@HI{{mi}}</td>
+   <td> ~@HI{{bi}}</td>
  </tr>
  <tr>
    <td class="heading"> V<sub>3</sub> </td>
@@ -98,51 +98,51 @@
  </tr>
  <tr>
    <td class="heading"> V<sub>4</sub> </td>
-   <td> ~<hiragana>se</hiragana></td>
-   <td> ~<hiragana>ke</hiragana></td>
-   <td> ~<hiragana>ge</hiragana></td>
-   <td> ~<hiragana>te</hiragana></td>
-   <td> ~<hiragana>re</hiragana></td>
-   <td> ~<hiragana>e</hiragana></td>
-   <td> ~<hiragana>ne</hiragana></td>
-   <td> ~<hiragana>me</hiragana></td>
-   <td> ~<hiragana>be</hiragana></td>
+   <td> ~@HI{{se}}</td>
+   <td> ~@HI{{ke}}</td>
+   <td> ~@HI{{ge}}</td>
+   <td> ~@HI{{te}}</td>
+   <td> ~@HI{{re}}</td>
+   <td> ~@HI{{e}}</td>
+   <td> ~@HI{{ne}}</td>
+   <td> ~@HI{{me}}</td>
+   <td> ~@HI{{be}}</td>
  </tr>
  <tr>
    <td class="heading"> V<sub>5</sub> </td>
-   <td> ~<hiragana>sou</hiragana></td>
-   <td> ~<hiragana>kou</hiragana></td>
-   <td> ~<hiragana>gou</hiragana></td>
-   <td> ~<hiragana>tou</hiragana></td>
-   <td> ~<hiragana>rou</hiragana></td>
-   <td> ~<hiragana>ou</hiragana></td>
-   <td> ~<hiragana>nou</hiragana></td>
-   <td> ~<hiragana>mou</hiragana></td>
-   <td> ~<hiragana>bou</hiragana></td>
+   <td> ~@HI{{sou}}</td>
+   <td> ~@HI{{kou}}</td>
+   <td> ~@HI{{gou}}</td>
+   <td> ~@HI{{tou}}</td>
+   <td> ~@HI{{rou}}</td>
+   <td> ~@HI{{ou}}</td>
+   <td> ~@HI{{nou}}</td>
+   <td> ~@HI{{mou}}</td>
+   <td> ~@HI{{bou}}</td>
  </tr>
  <tr>
-   <td class="heading"> V<sub>6</sub> (~<hiragana>te</hiragana>)</td>
-   <td> ~<hiragana>shite</hiragana></td>
-   <td> ~<hiragana>ite</hiragana></td>
-   <td> ~<hiragana>ide</hiragana></td>
-   <td> ~<hiragana>tte</hiragana></td>
-   <td> ~<hiragana>tte</hiragana></td>
-   <td> ~<hiragana>tte</hiragana></td>
-   <td> ~<hiragana>nde</hiragana></td>
-   <td> ~<hiragana>nde</hiragana></td>
-   <td> ~<hiragana>nde</hiragana></td>
+   <td class="heading"> V<sub>6</sub> (~@HI{{te}})</td>
+   <td> ~@HI{{shite}}</td>
+   <td> ~@HI{{ite}}</td>
+   <td> ~@HI{{ide}}</td>
+   <td> ~@HI{{tte}}</td>
+   <td> ~@HI{{tte}}</td>
+   <td> ~@HI{{tte}}</td>
+   <td> ~@HI{{nde}}</td>
+   <td> ~@HI{{nde}}</td>
+   <td> ~@HI{{nde}}</td>
  </tr>
  <tr>
-   <td class="heading"> V<sub>7</sub> (~<hiragana>ta</hiragana>)</td>
-   <td> ~<hiragana>shita</hiragana></td>
-   <td> ~<hiragana>ita</hiragana></td>
-   <td> ~<hiragana>ida</hiragana></td>
-   <td> ~<hiragana>tta</hiragana></td>
-   <td> ~<hiragana>tta</hiragana></td>
-   <td> ~<hiragana>tta</hiragana></td>
-   <td> ~<hiragana>nda</hiragana></td>
-   <td> ~<hiragana>nda</hiragana></td>
-   <td> ~<hiragana>nda</hiragana></td>
+   <td class="heading"> V<sub>7</sub> (~@HI{{ta}})</td>
+   <td> ~@HI{{shita}}</td>
+   <td> ~@HI{{ita}}</td>
+   <td> ~@HI{{ida}}</td>
+   <td> ~@HI{{tta}}</td>
+   <td> ~@HI{{tta}}</td>
+   <td> ~@HI{{tta}}</td>
+   <td> ~@HI{{nda}}</td>
+   <td> ~@HI{{nda}}</td>
+   <td> ~@HI{{nda}}</td>
  </tr>
 </table>
 

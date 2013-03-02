@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1><hiragana>i</hiragana>-adjectives</h1>
+<h1>@HI{{i}}-adjectives</h1>
 
 <table class="example">
  <tr>
@@ -16,37 +16,37 @@
  </tr>
  <tr>
    <td> Present </td>
-   <td> <hiragana>taka</hiragana><span><hiragana>i</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>i desu</hiragana></span></td>
+   <td> @HI{{taka}}<span>@HI{{i}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{i desu}}</span></td>
  </tr>
  <tr>
    <td> Present Negative </td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kunai</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kunai desu</hiragana></span></td>
+   <td> @HI{{taka}}<span>@HI{{kunai}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{kunai desu}}</span></td>
  </tr>
  <tr>
    <td> Past</td>
-   <td> <hiragana>taka</hiragana><span><hiragana>katta</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>katta desu</hiragana></span></td>
+   <td> @HI{{taka}}<span>@HI{{katta}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{katta desu}}</span></td>
  </tr>
  <tr>
    <td> Past Negative</td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kunakatta</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kunakatta desu</hiragana><span></td>
+   <td> @HI{{taka}}<span>@HI{{kunakatta}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{kunakatta desu}}<span></td>
  </tr>
  <tr>
-   <td> <hiragana>te</hiragana>-form</td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kute</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>kute</hiragana><span></td>
+   <td> @HI{{te}}-form</td>
+   <td> @HI{{taka}}<span>@HI{{kute}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{kute}}<span></td>
  </tr>
  <tr>
    <td> Adverb</td>
-   <td> <hiragana>taka</hiragana><span><hiragana>ku</hiragana></span></td>
-   <td> <hiragana>taka</hiragana><span><hiragana>ku</hiragana><span></td>
+   <td> @HI{{taka}}<span>@HI{{ku}}</span></td>
+   <td> @HI{{taka}}<span>@HI{{ku}}<span></td>
  </tr>
 </table>
 
-<h1><hiragana>na</hiragana>-adjectives</h1>
+<h1>@HI{{na}}-adjectives</h1>
 
 <table class="example">
  <tr>
@@ -56,49 +56,49 @@
  </tr>
  <tr>
    <td> Present </td>
-   <td> <hiragana>benri</hiragana><span><hiragana> da</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana> desu</hiragana></span></td>
+   <td> @HI{{benri}}<span>@HI{{ da}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{ desu}}</span></td>
  </tr>
  <tr>
    <td> Present Negative </td>
-   <td> <hiragana>benri</hiragana><span><hiragana> dewa nai</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana> dewa arimasenn</hiragana></span></td>
+   <td> @HI{{benri}}<span>@HI{{ dewa nai}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{ dewa arimasenn}}</span></td>
  </tr>
  <tr>
    <td> Past</td>
-   <td> <hiragana>benri</hiragana><span><hiragana> datta</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana> deshita</hiragana></span></td>
+   <td> @HI{{benri}}<span>@HI{{ datta}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{ deshita}}</span></td>
  </tr>
  <tr>
    <td> Past Negative</td>
-   <td> <hiragana>benri</hiragana><span><hiragana>dewa nakatta</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana>dewa arimasenn deshita</hiragana><span></td>
+   <td> @HI{{benri}}<span>@HI{{dewa nakatta}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{dewa arimasenn deshita}}<span></td>
  </tr>
  <tr>
-   <td> <hiragana>te</hiragana>-form</td>
-   <td> <hiragana>benri</hiragana><span><hiragana>de</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana>de</hiragana><span></td>
+   <td> @HI{{te}}-form</td>
+   <td> @HI{{benri}}<span>@HI{{de}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{de}}<span></td>
  </tr>
  <tr>
    <td> Adverb</td>
-   <td> <hiragana>benri</hiragana><span><hiragana>ni</hiragana></span></td>
-   <td> <hiragana>benri</hiragana><span><hiragana>ni</hiragana><span></td>
+   <td> @HI{{benri}}<span>@HI{{ni}}</span></td>
+   <td> @HI{{benri}}<span>@HI{{ni}}<span></td>
  </tr>
 </table>
 
 <h1>Comparatives</h1>
 
 <p>
-In a comparison the other item is marked with <hiragana>yori</hiragana> and the adjective is left unchanged.
+In a comparison the other item is marked with @HI{{yori}} and the adjective is left unchanged.
 </p>
 
 <TBD - needs katakana>
 
 <table class="sentence" border=0>
-  <tr> <td> <hiragana>toukyou ha rondonn yori ooki desu. </hiragana> </td> </tr>
+  <tr> <td> @HI{{toukyou ha rondonn yori ooki desu. }} </td> </tr>
   <tr class="eigo"> <td> Tokyo is bigger than London. </td> </tr>
   <tr> <td> &nbsp; </td> </tr>
-  <tr> <td> <hiragana>nihongo ha doitsugo yori kanntann desu. </hiragana> </td> </tr>
+  <tr> <td> @HI{{nihongo ha doitsugo yori kanntann desu. }} </td> </tr>
   <tr class="eigo"> <td> Japanese is simpler than German. </td> </tr>
 </table>
 

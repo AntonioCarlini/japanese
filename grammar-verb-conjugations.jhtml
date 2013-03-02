@@ -1,0 +1,518 @@
+<html>
+<head>
+<title>Verb Conjugations</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Verb Conjugations</h1>
+
+<h2> Verb Bases </h2>
+
+<p>
+Verb conjugations are based on the basic forms shown in the table below.
+</p>
+
+<table class="example">
+ <tr>
+   <th class="verb_conj_col"> Verb </th>
+   <th class="verb_conj_col"> @V1{{}} </th>
+   <th class="verb_conj_col"> @V2{{}} </th>
+   <th class="verb_conj_col"> @V3{{}} </th>
+   <th class="verb_conj_col"> @V4{{}} </th>
+   <th class="verb_conj_col"> @V5{{}} </th>
+   <th class="verb_conj_col"> @V6{{}} </th>
+   <th class="verb_conj_col"> @V7{{}} </th>
+ </tr>
+
+ <tr>
+    <td colspan="8" class="heading"> @KJ{{ichi dan}} Verbs </td>
+ </tr>
+
+ <tr>
+   <td> @HI{{ka<span>u</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ka<span>wa</span>}}</td>
+   <td> @HI{{ka<span>i</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{kau}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ka<span>e</span>}}</td>
+   <td> @HI{{ka<span>ou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ka<span>tte</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ka<span>tta</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{ki<span>ku</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ki<span>ka</span>}}</td>
+   <td> @HI{{ki<span>ki</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{kiku}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ki<span>ke</span>}}</td>
+   <td> @HI{{ki<span>kou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ki<span>ite</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ki<span>ita</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{iso<span>gu</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{iso<span>ga</span>}}</td>
+   <td> @HI{{iso<span>gi</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{isogu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{iso<span>ge</span>}}</td>
+   <td> @HI{{iso<span>gou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{iso<span>ide</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{iso<span>ida</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{ka<span>su</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ka<span>sa</span>}}</td>
+   <td> @HI{{ka<span>shi</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{kasu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ka<span>se</span>}}</td>
+   <td> @HI{{ka<span>sou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ka<span>shite</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ka<span>shita</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{ma<span>tsu</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ma<span>ta</span>}}</td>
+   <td> @HI{{ma<span>chi</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{matsu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ma<span>te</span>}}</td>
+   <td> @HI{{ma<span>tou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ma<span>tte</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ma<span>tta</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{shi<span>nu</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{shi<span>na</span>}}</td>
+   <td> @HI{{shi<span>ni</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{shinu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{shi<span>ne</span>}}</td>
+   <td> @HI{{shi<span>nou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{shi<span>nde</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{shi<span>nda</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{yo<span>bu</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{yo<span>ba</span>}}</td>
+   <td> @HI{{yo<span>bi</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{yobu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{yo<span>be</span>}}</td>
+   <td> @HI{{yo<span>bou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{yo<span>nde</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{yo<span>nda</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{no<span>mu</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{no<span>ma</span>}}</td>
+   <td> @HI{{no<span>mi</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{nomu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{no<span>me</span>}}</td>
+   <td> @HI{{no<span>mou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{no<span>nde</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{no<span>nda</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{kae<span>ru</span>}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{kae<span>ra</span>}}</td>
+   <td> @HI{{kae<span>ri</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{kaeru}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{kae<span>re</span>}}</td>
+   <td> @HI{{kae<span>rou</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{kae<span>tte</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{kae<span>tta</span>}}</td>
+ </tr>
+
+ <tr>
+   <td colspan="8" class="heading"> @KJ{{go dan}} Verbs </td>
+ </tr>
+
+ <tr>
+   <td> @HI{{taberu}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{tabe}}</td>
+   <td> @HI{{tabe}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{taberu}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{taberare}}</td>
+   <td> @HI{{tabeyou}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{tabe<span>te</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{tabe<span>ta</span>}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{miru}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{mi}}</td>
+   <td> @HI{{mi}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{miru}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{mirare}}</td>
+   <td> @HI{{miyou}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{mi<span>te</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{mi<span>ta</span>}}</td>
+ </tr>
+
+ <tr>
+   <td colspan="8" class="heading"> Irregular Verbs </td>
+ </tr>
+
+ <tr>
+   <td> @HI{{suru}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{shi}}</td>
+   <td> @HI{{shi}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{suru}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{dekiru}}</td>
+   <td> @HI{{shiyou}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{shite}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{shita}}</td>
+ </tr>
+
+ <tr>
+   <td> @HI{{kuru}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ko}}</td>
+   <td> @HI{{ki}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{kuru}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{korare}}</td>
+   <td> @HI{{koyou}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{kite}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{kita}}</td>
+ </tr>
+
+ <tr> <td colspan="8" class="heading"> Slightly Irregular Verbs </td> </tr>
+
+ <tr>
+   <td> @HI{{iku}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{iku}}</td>
+   <td> @HI{{i<span>ki</span>}}</td>
+   <td title="MNN-J Chapter 18 p148"> @HI{{iku}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ike}}</td>
+   <td> @HI{{ikou}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{itte}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{itta}}</td>
+ </tr>
+
+<!--
+ <tr>
+   <td> @HI{{kiku}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ki<span>ka</span>}}</td>
+   <td> @HI{{ki<span>ki</span>}}</td>
+   <td> @HI{{kiku}}</td>
+   <td> @HI{{ki<span>ke</span>}}</td>
+   <td> @HI{{ki<span>ko</span>}}</td>
+   <td> @HI{{ki<span>te</span>}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ki<span>ta</span>}}</td>
+ </tr>
+-->
+
+</table>
+
+<h2> Verb Formations </h2>
+
+<table class="example">
+ <tr>
+   <th> Tense  </th> <th colspan="2"> Positive </th> <th colspan="2"> Negative </th>
+ </tr>
+ <tr>
+   <th> &nbsp; </th> 
+   <th class="verb_form_col"> Polite </th>
+   <th class="verb_form_col"> Plain </th>
+   <th class="verb_form_col"> Polite </th>
+   <th class="verb_form_col"> Plain </th> 
+ </tr>
+
+ <tr>
+   <td class="heading"> Present </td>
+   <td> @V2{{}} @HI{{masu}} </td>
+   <td title="MNN-E Chapter 18 p118"> @V3{{}}                           </td>
+   <td> @V2{{}} @HI{{masenn}} </td>
+   <td title="MNN-J Chapter 17 p140"> @V1{{}} @HI{{nai}}  </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Past </td>
+   <td> @V2{{}} @HI{{mashita}}       </td>
+   <td title="MNN-J Chapter 19 p156"> @V7{{}}              </td>
+   <td> @V2{{}} @HI{{masenn deshita}} </td>
+   <td> @V1{{}} @HI{{nakatta}}       </td>
+ </tr>
+
+ <tr>
+ <!-- NOTE: -iru/-eru -->
+   <td class="heading"> Imperative </td>
+   <td> @V6{{}}@HI{{kudasai}}     </td>
+   <td title="MNN-J Chapter 33 p62"> @V4{{}}                          </td>
+   <td> @V1{{}}@HI{{naide kudasai}}                     </td>
+   <td title="MNN-J Chapter 33 p62"> @V3{{}}@HI{{na}}   </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Progressive </td>
+   <td> @V6{{}} @HI{{imasu}}           </td>
+   <td> @V6{{}} @HI{{iru}}             </td>
+   <td> @V6{{}} @HI{{imasen}}          </td>
+   <td> @V6{{}} @HI{{inai}}            </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Volitional </td>
+   <td title="MNN-E Chapter 14 p95"> @V2{{}} @HI{{mashou}}          </td>
+   <td> @V5{{}}                                      </td>
+   <td> @V1{{}}@HI{{nai deshou}}       </td>
+   <td> @V1{{}}@HI{{nai darou}}        </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Potential </td>
+   <td title="MNN-J Chapter 27 p12"> @V4{{}}@HI{{masu}}  </td>
+   <td>                                                    </td>
+   <td>                                                    </td>
+   <td>                                                    </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Causative </td>
+   <td title="MNN-J Chapter 48 p188"> @V1{{}}@HI{{semasu}}   </td>
+   <td title="MNN-J Chapter 48 p188"> @V1{{}}@HI{{seru}}   </td>
+   <td>                                                    </td>
+   <td>                                                    </td>
+ </tr>
+
+ <tr>
+   <td class="heading"> Passive </td>
+   <td title="MNN-J Chapter 37 p96"> @V2{{}}@HI{{remasu}}    </td>
+   <td title="MNN-J Chapter 37 p96"> @V2{{}}@HI{{reru}}      </td>
+   <td>                                                    </td>
+   <td>                                                    </td>
+ </tr>
+
+ <tr>
+ <!-- NOTE: -iru/-eru -->
+   <td class="heading"> Provisional </td>
+   <td> @V2{{}}@HI{{maseba}}           </td>
+   <td title="MNN-J Chapter 35 p78"> @V4{{}}@HI{{ba}}               </td>
+   <td>                                                    </td>
+   <td> @V1{{}}@HI{{nakereba}}         </td>
+ </tr>
+</table>
+
+</table>   
+<h2> Verb Conjugations </h2>
+
+<table class="example">
+ <tr>
+   <th class="verb_conj_col"> Root </th>
+   <th class="verb_conj_col"> Kana </th>
+   <th width="3em"> Class </th>
+   <th class="verb_conj_col"> Polite </br> Present </th>
+   <th class="verb_conj_col"> Plain -ve </th>
+   <th class="verb_conj_col"> @HI{{te}} </th>
+   <th class="verb_conj_col"> Plain </br> Volitional </th>
+   <th class="verb_conj_col"> Plain </br> Imperative </th>
+   <th class="verb_conj_col"> Plain </br> Potential </th>
+   <th class="verb_conj_col"> Plain </br> Causative </th>
+   <th class="verb_conj_col"> Plain </br> Passive </th>
+ </tr>
+
+<!-- iku, unchecked -->
+ <tr>
+   <td> @HI{{suru}}    </td>
+   <td> @HI{{suru}}    </td>
+   <td>                </td>
+   <td> @HI{{shimasu}} </td>
+   <td> @HI{{shinai}}  </td>
+   <td> @HI{{shite}}   </td>
+   <td>  </td>
+   <td> @HI{{shiro}}   </td>
+   <td> @HI{{dekiru}}  </td>
+   <td> @HI{{saseru}}  </td>
+   <td> @HI{{sareru}}  </td>
+ </tr>
+
+<!-- iku, unchecked -->
+ <tr>
+   <td> @KJ{{rai}}@HI{{ru}}                </td>
+   <td> @HI{{kuru}}                        </td>
+   <td>                                    </td>
+   <td> @KJ{{rai}}<span>@HI{{masu}}</span> </td>
+   <td> @HI{{konai}}                       </td>
+   <td> @HI{{kite}}                        </td>
+   <td>                                    </td>
+   <td> @HI{{koi}} </td>
+   <td> @HI{{korareru}} </td>
+   <td> @HI{{kosareru}} </td>
+   <td> @HI{{korareru}} </td>
+ </tr>
+
+<!-- iku, unchecked -->
+ <tr>
+   <td> @KJ{{kou}}@HI{{u}} </td>
+   <td> @HI{{iku}} </td>
+   <td> @5D{{}}        </td>
+   <td> @KJ{{kou}}<span>@HI{{imasu}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{anai}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{tte}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{ou}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{e}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{eru}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{aseru}}</span> </td>
+   <td> @KJ{{kou}}<span>@HI{{areru}}</span> </td>
+ </tr>
+
+<!-- iru, unchecked -->
+ <tr>
+   <td> @HI{{iru}}     </td>
+   <td> @HI{{iru}}     </td>
+   <td> @1D{{}}        </td>
+   <td> @HI{{imasu}}   </td>
+   <td> @HI{{inai}}    </td>
+   <td> @HI{{ite}}     </td>
+   <td> @HI{{iyou}}    </td>
+   <td> @HI{{iro}}     </td>
+   <td> @HI{{irareru}} </td>
+   <td> @HI{{isaseru}} </td>
+   <td> @HI{{irareru}}  </td>
+ </tr>
+
+<!-- aru, unchecked -->
+ <tr>
+   <td> @HI{{aru}}     </td>
+   <td> @HI{{aru}}     </td>
+   <td> @5D{{}}        </td>
+   <td> @HI{{arimasu}}   </td>
+   <td> <span>@HI{{nai}}</span>    </td>
+   <td> @HI{{atte}}     </td>
+   <td> @HI{{arou}}    </td>
+   <td> @HI{{iro}}     </td>
+   <td> @HI{{areru}} </td>
+   <td> @HI{{araseru}} </td>
+   <td> @HI{{arareru}}  </td>
+ </tr>
+
+<!-- taberu, unchecked -->
+
+ <tr>
+   <td> @KJ{{shoku}}@HI{{ru}} </td>
+   <td> @HI{{taberu}} </td>
+   <td> @1D{{}}        </td>
+   <td> @KJ{{shoku}}<span>@HI{{masu}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{nai}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{te}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{you}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{eyo}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{raeru}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{saseru}}</span> </td>
+   <td> @KJ{{shoku}}<span>@HI{{rareru}}</span> </td>
+ </tr>
+
+<!-- miru, unchecked -->
+ <tr>
+   <td> @KJ{{mi}}@HI{{ru}} </td>
+   <td> @HI{{taberu}} </td>
+   <td> @1D{{}}        </td>
+   <td> @KJ{{mi}}<span>@HI{{masu}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{nai}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{te}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{you}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{eyo}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{raeru}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{saseru}}</span> </td>
+   <td> @KJ{{mi}}<span>@HI{{rareru}}</span> </td>
+ </tr>
+
+<!-- au, unchecked -->
+ <tr>
+   <td> @KJ{{kai}}@HI{{u}} </td>
+   <td> @HI{{au}} </td>
+   <td> @5D{{}}        </td>
+   <td> @KJ{{kai}}<span>@HI{{imasu}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{wanai}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{tte}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{ou}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{e}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{eru}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{waseru}}</span> </td>
+   <td> @KJ{{kai}}<span>@HI{{wareru}}</span> </td>
+ </tr>
+
+<!--
+
+iru (to need)
+
+asobu
+arau
+
+aruku
+
+iu
+
+isogu
+
+oyogu
+
+utau
+
+osu
+
+oku
+
+kau
+
+kaeru
+
+kaku
+
+kiku
+
+kakaru
+
+motsu
+
+matsu
+
+kesu
+
+kasu
+
+kariru
+
+sumu
+
+yomu
+
+yobu
+
+shinu
+
+tsuku
+
+tsukareru
+
+tsukeru
+
+tsukuru
+
+
+naru
+
+nomu
+
+-->
+</table>
+
+<p>
+Tests here </br>
+
+This line contains some hiragana: @HI{{hiragana ichi}} and a suffix. </br>
+This line contains some katakana: @KT{{terebi}} and a suffix. </br>
+
+This line contains some hiragana with embedded katakana: @HI{{hiragana @KA{{terebi}} ichi}} and a suffix. </br>
+
+This line contains some kanji: @KJ{{ichi dan}} and @KJ{{go dan}}.</br>
+
+Test lines:</br>
+@HI{{ sore ha @KJ{{hon}} desu ka.}}</br>
+</body>
+</html>
