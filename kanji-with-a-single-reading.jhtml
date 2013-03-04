@@ -8,47 +8,1523 @@
 <h1>Kanji with a Single Reading</h1>
 
 <table class="progress">
-<tr>
-  <th> Kanji </th>
-  <th> Reading </th>
-</tr>
-<tr> <td> &#x96fb; </td> <td> @KT{{denn}}</td>
-<tr> <td> &#x610f; </td> <td> @KT{{i}}</td>
-<tr> <td> &#x54e1; </td> <td> @KT{{inn}}</td>
-<tr> <td> &#x9662; </td> <td> @KT{{inn}}</td>
-<tr> <td> &#x99c5; </td> <td> @KT{{eki}}</td>
-<tr> <td> &#x754c; </td> <td> @KT{{kai}}</td>
-<tr> <td> &#x65cf; </td> <td> @KT{{zoku}}</td>
-<tr> <td> &#x984c; </td> <td> @KT{{dai}}</td>
-<tr> <td> &#x5802; </td> <td> @KT{{dou}}</td>
-<tr> <td> &#x7279; </td> <td> @KT{{toku}}</td>
-<tr> <td> &#x798f; </td> <td> @KT{{fuku}}</td>
-<tr> <td> &#x670d; </td> <td> @KT{{fuku}}</td>
-<tr> <td> &#x66dc; </td> <td> @KT{{you}}</td>
-<tr> <td> &#x6d0b; </td> <td> @KT{{you}}</td>
-<tr> <td> &#x6599; </td> <td> @KT{{ryou}}</td>
-<tr> <td> &#x80c3; </td> <td> @KT{{i}}</td>
-<tr> <td> &#x57df; </td> <td> @KT{{iki}}</td>
-<tr> <td> &#x5b87; </td> <td> @KT{{u}}</td>
-<tr> <td> &#x6db2; </td> <td> @KT{{eki}}</td>
-<tr> <td> &#x6bd2; </td> <td> @KT{{doku}}</td>
-<tr> <td> &#x6f14; </td> <td> @KT{{enn}}</td>
-<tr> <td> &#x592e; </td> <td> @KT{{ou}}</td>
-<tr> <td> &#x79d1; </td> <td> @KT{{ka}}</td>
-<tr> <td> &#x8ab2; </td> <td> @KT{{ka}}</td>
-<tr> <td> &#x83d3; </td> <td> @KT{{ka}}</td>
-<tr> <td> &#x4ecb; </td> <td> @KT{{kai}}</td>
-<tr> <td> &#x5bb3; </td> <td> @KT{{gai}}</td>
-<tr> <td> &#x5b98; </td> <td> @KT{{kan}}</td>
-<tr> <td> &#x5b8c; </td> <td> @KT{{kan}}</td>
-<tr> <td> &#x520a; </td> <td> @KT{{kan}}</td>
-<tr> <td> &#x7c21; </td> <td> @KT{{kan}}</td>
-<tr> <td> &#x5b63; </td> <td> @KT{{ki}}</td>
-<tr> <td> &#x898f; </td> <td> @KT{{ki}}</td>
-<tr> <td> &#x8b70; </td> <td> @KT{{gi}}</td>
-<tr> <td> &#x7d3a; </td> <td> @KT{{kon}}</td>
-<tr> <td> &#x968a; </td> <td> @KT{{tai}}</td>
-<!-- http://www.jaist.ac.jp/~sjittisa/kanji1000.pdf -->
+ <tr>
+   <th> Kanji </th>
+   <th> Heisig# </th>
+   <th> Grade </th>
+   <th> Reading </th>
+   <th> Meaning </th>
+ </tr>
+array_of_1r_kanji.class array_of_1r_kanji.first.class
+ <tr>
+   <td> &#x9031 </td> <td>   318 </td> <td>   2 </td> <td> @KT{{SHYUU}} </td></td>
+   <td> week </td>
+ </tr>
+ <tr>
+   <td> &#x96fb </td> <td>   535 </td> <td>   2 </td> <td> @KT{{DEN}} </td></td>
+   <td> electricity </td>
+ </tr>
+ <tr>
+   <td> &#x66dc </td> <td>   576 </td> <td>   2 </td> <td> @KT{{YOU}} </td></td>
+   <td> weekday </td>
+ </tr>
+ <tr>
+   <td> &#x624d </td> <td>   681 </td> <td>   2 </td> <td> @KT{{SAI}} </td></td>
+   <td> genius,years old,cubic shaku </td>
+ </tr>
+ <tr>
+   <td> &#x79d1 </td> <td>  1179 </td> <td>   2 </td> <td> @KT{{KA}} </td></td>
+   <td> department,course,section </td>
+ </tr>
+ <tr>
+   <td> &#x6c7d </td> <td>  1886 </td> <td>   2 </td> <td> @KT{{KI}} </td></td>
+   <td> vapor,steam </td>
+ </tr>
+ <tr>
+   <td> &#x54e1 </td> <td>    56 </td> <td>   3 </td> <td> @KT{{IN}} </td></td>
+   <td> employee,member,number,the one in charge </td>
+ </tr>
+ <tr>
+   <td> &#x662d </td> <td>    87 </td> <td>   3 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> shining,bright </td>
+ </tr>
+ <tr>
+   <td> &#x754c </td> <td>   251 </td> <td>   3 </td> <td> @KT{{KAI}} </td></td>
+   <td> world </td>
+ </tr>
+ <tr>
+   <td> &#x8ac7 </td> <td>   350 </td> <td>   3 </td> <td> @KT{{DAN}} </td></td>
+   <td> discuss,talk </td>
+ </tr>
+ <tr>
+   <td> &#x5f0f </td> <td>   353 </td> <td>   3 </td> <td> @KT{{SHIKI}} </td></td>
+   <td> style,ceremony,rite,function,method,system,form,expression </td>
+ </tr>
+ <tr>
+   <td> &#x984c </td> <td>   389 </td> <td>   3 </td> <td> @KT{{DAI}} </td></td>
+   <td> topic,subject </td>
+ </tr>
+ <tr>
+   <td> &#x7ae0 </td> <td>   433 </td> <td>   3 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> badge,chapter,composition,poem,design </td>
+ </tr>
+ <tr>
+   <td> &#x6d0b </td> <td>   549 </td> <td>   3 </td> <td> @KT{{YOU}} </td></td>
+   <td> ocean,western style </td>
+ </tr>
+ <tr>
+   <td> &#x610f </td> <td>   608 </td> <td>   3 </td> <td> @KT{{I}} </td></td>
+   <td> idea,mind,heart,taste,thought,desire,care,liking </td>
+ </tr>
+ <tr>
+   <td> &#x611f </td> <td>   615 </td> <td>   3 </td> <td> @KT{{KAN}} </td></td>
+   <td> emotion,feeling,sensation </td>
+ </tr>
+ <tr>
+   <td> &#x79d2 </td> <td>   899 </td> <td>   3 </td> <td> @KT{{BYOU}} </td></td>
+   <td> second (1/60 minute) </td>
+ </tr>
+ <tr>
+   <td> &#x500d </td> <td>   992 </td> <td>   3 </td> <td> @KT{{BAI}} </td></td>
+   <td> double,twice,times,fold </td>
+ </tr>
+ <tr>
+   <td> &#x798f </td> <td>  1090 </td> <td>   3 </td> <td> @KT{{HUKU}} </td></td>
+   <td> blessing,fortune,luck,wealth </td>
+ </tr>
+ <tr>
+   <td> &#x65cf </td> <td>  1222 </td> <td>   3 </td> <td> @KT{{ZOKU}} </td></td>
+   <td> tribe,family </td>
+ </tr>
+ <tr>
+   <td> &#x9662 </td> <td>  1304 </td> <td>   3 </td> <td> @KT{{IN}} </td></td>
+   <td> Inst.,institution,temple,mansion,school </td>
+ </tr>
+ <tr>
+   <td> &#x7d1a </td> <td>  1353 </td> <td>   3 </td> <td> @KT{{KYUU}} </td></td>
+   <td> class,rank,grade </td>
+ </tr>
+ <tr>
+   <td> &#x670d </td> <td>  1399 </td> <td>   3 </td> <td> @KT{{HUKU}} </td></td>
+   <td> clothing,admit,obey,discharge </td>
+ </tr>
+ <tr>
+   <td> &#x6f22 </td> <td>  1578 </td> <td>   3 </td> <td> @KT{{KAN}} </td></td>
+   <td> Sino-,China </td>
+ </tr>
+ <tr>
+   <td> &#x592e </td> <td>  1740 </td> <td>   3 </td> <td> @KT{{OU}} </td></td>
+   <td> center,middle </td>
+ </tr>
+ <tr>
+   <td> &#x99c5 </td> <td>  1984 </td> <td>   3 </td> <td> @KT{{EKI}} </td></td>
+   <td> station </td>
+ </tr>
+ <tr>
+   <td> &#x8fb2 </td> <td>  2014 </td> <td>   3 </td> <td> @KT{{NOU}} </td></td>
+   <td> agriculture,farmers </td>
+ </tr>
+ <tr>
+   <td> &#x80c3 </td> <td>    29 </td> <td>   4 </td> <td> @KT{{I}} </td></td>
+   <td> stomach,paunch,crop,craw </td>
+ </tr>
+ <tr>
+   <td> &#x526f </td> <td>    89 </td> <td>   4 </td> <td> @KT{{HUKU}} </td></td>
+   <td> vice-,assistant,aide,duplicate,copy </td>
+ </tr>
+ <tr>
+   <td> &#x9806 </td> <td>   129 </td> <td>   4 </td> <td> @KT{{JUN}} </td></td>
+   <td> obey,order,turn,right,docility,occasion </td>
+ </tr>
+ <tr>
+   <td> &#x5b8c </td> <td>   187 </td> <td>   4 </td> <td> @KT{{KAN}} </td></td>
+   <td> perfect,completion,end </td>
+ </tr>
+ <tr>
+   <td> &#x7279 </td> <td>   246 </td> <td>   4 </td> <td> @KT{{TOKU}} </td></td>
+   <td> special </td>
+ </tr>
+ <tr>
+   <td> &#x666f </td> <td>   314 </td> <td>   4 </td> <td> @KT{{KEI}} </td></td>
+   <td> scenery,view </td>
+ </tr>
+ <tr>
+   <td> &#x8b70 </td> <td>   642 </td> <td>   4 </td> <td> @KT{{GI}} </td></td>
+   <td> deliberation,consultation,debate,consideration </td>
+ </tr>
+ <tr>
+   <td> &#x6750 </td> <td>   683 </td> <td>   4 </td> <td> @KT{{ZAI}} </td></td>
+   <td> lumber,log,timber,wood,materials,ingredients,talent </td>
+ </tr>
+ <tr>
+   <td> &#x53f2 </td> <td>   692 </td> <td>   4 </td> <td> @KT{{SHI}} </td></td>
+   <td> history,chronicle </td>
+ </tr>
+ <tr>
+   <td> &#x5802 </td> <td>   798 </td> <td>   4 </td> <td> @KT{{DOU}} </td></td>
+   <td> public chamber,hall </td>
+ </tr>
+ <tr>
+   <td> &#x5354 </td> <td>   872 </td> <td>   4 </td> <td> @KT{{KYOU}} </td></td>
+   <td> co-,cooperation </td>
+ </tr>
+ <tr>
+   <td> &#x5b63 </td> <td>   912 </td> <td>   4 </td> <td> @KT{{KI}} </td></td>
+   <td> seasons </td>
+ </tr>
+ <tr>
+   <td> &#x4fe1 </td> <td>   969 </td> <td>   4 </td> <td> @KT{{SHIN}} </td></td>
+   <td> faith,truth,fidelity,trust </td>
+ </tr>
+ <tr>
+   <td> &#x5104 </td> <td>   983 </td> <td>   4 </td> <td> @KT{{OKU}} </td></td>
+   <td> hundred million,10**8 </td>
+ </tr>
+ <tr>
+   <td> &#x5e9c </td> <td>  1002 </td> <td>   4 </td> <td> @KT{{HU}} </td></td>
+   <td> borough,urban prefecture,govt office,representative body,storehouse </td>
+ </tr>
+ <tr>
+   <td> &#x5bdf </td> <td>  1103 </td> <td>   4 </td> <td> @KT{{SATSU}} </td></td>
+   <td> guess,presume,surmise,judge,understand </td>
+ </tr>
+ <tr>
+   <td> &#x8ab2 </td> <td>  1123 </td> <td>   4 </td> <td> @KT{{KA}} </td></td>
+   <td> chapter,lesson,section,department,division,counter for chapters (of a book) </td>
+ </tr>
+ <tr>
+   <td> &#x6628 </td> <td>  1140 </td> <td>   4 </td> <td> @KT{{SAKU}} </td></td>
+   <td> yesterday,previous </td>
+ </tr>
+ <tr>
+   <td> &#x5eb7 </td> <td>  1159 </td> <td>   4 </td> <td> @KT{{KOU}} </td></td>
+   <td> ease,peace </td>
+ </tr>
+ <tr>
+   <td> &#x6599 </td> <td>  1178 </td> <td>   4 </td> <td> @KT{{RYOU}} </td></td>
+   <td> fee,materials </td>
+ </tr>
+ <tr>
+   <td> &#x5b98 </td> <td>  1271 </td> <td>   4 </td> <td> @KT{{KAN}} </td></td>
+   <td> bureaucrat,the government </td>
+ </tr>
+ <tr>
+   <td> &#x968a </td> <td>  1306 </td> <td>   4 </td> <td> @KT{{TAI}} </td></td>
+   <td> regiment,party,company,squad </td>
+ </tr>
+ <tr>
+   <td> &#x7d00 </td> <td>  1354 </td> <td>   4 </td> <td> @KT{{KI}} </td></td>
+   <td> chronicle,account,narrative,history,annals,geologic period </td>
+ </tr>
+ <tr>
+   <td> &#x4ee4 </td> <td>  1401 </td> <td>   4 </td> <td> @KT{{REI}} </td></td>
+   <td> orders,ancient laws,command,decree </td>
+ </tr>
+ <tr>
+   <td> &#x6bd2 </td> <td>  1531 </td> <td>   4 </td> <td> @KT{{DOKU}} </td></td>
+   <td> poison,virus,venom,germ,harm,injury,spite </td>
+ </tr>
+ <tr>
+   <td> &#x5bb3 </td> <td>  1551 </td> <td>   4 </td> <td> @KT{{GAI}} </td></td>
+   <td> harm,injury </td>
+ </tr>
+ <tr>
+   <td> &#x5ff5 </td> <td>  1590 </td> <td>   4 </td> <td> @KT{{NEN}} </td></td>
+   <td> wish,sense,idea,thought,feeling,desire,attention </td>
+ </tr>
+ <tr>
+   <td> &#x7968 </td> <td>  1606 </td> <td>   4 </td> <td> @KT{{HYOU}} </td></td>
+   <td> ballot,label,ticket,sign </td>
+ </tr>
+ <tr>
+   <td> &#x822a </td> <td>  1870 </td> <td>   4 </td> <td> @KT{{KOU}} </td></td>
+   <td> navigate,sail,cruise,fly </td>
+ </tr>
+ <tr>
+   <td> &#x53e5 </td> <td>    65 </td> <td>   5 </td> <td> @KT{{KU}} </td></td>
+   <td> phrase,clause,sentence,passage,paragraph,counter for haiku </td>
+ </tr>
+ <tr>
+   <td> &#x72b6 </td> <td>   239 </td> <td>   5 </td> <td> @KT{{JOU}} </td></td>
+   <td> status quo,conditions,circumstances,form,appearance </td>
+ </tr>
+ <tr>
+   <td> &#x5236 </td> <td>   418 </td> <td>   5 </td> <td> @KT{{SEI}} </td></td>
+   <td> system,law,rule </td>
+ </tr>
+ <tr>
+   <td> &#x88fd </td> <td>   419 </td> <td>   5 </td> <td> @KT{{SEI}} </td></td>
+   <td> made in...,manufacture </td>
+ </tr>
+ <tr>
+   <td> &#x8907 </td> <td>   465 </td> <td>   5 </td> <td> @KT{{HUKU}} </td></td>
+   <td> duplicate,double,compound,multiple </td>
+ </tr>
+ <tr>
+   <td> &#x8cc7 </td> <td>   473 </td> <td>   5 </td> <td> @KT{{SHI}} </td></td>
+   <td> assets,resources,capital,funds,data,be conducive to,contribute to </td>
+ </tr>
+ <tr>
+   <td> &#x6069 </td> <td>   606 </td> <td>   5 </td> <td> @KT{{ON}} </td></td>
+   <td> grace,kindness,goodness,favor,mercy,blessing,benefit </td>
+ </tr>
+ <tr>
+   <td> &#x7fa9 </td> <td>   641 </td> <td>   5 </td> <td> @KT{{GI}} </td></td>
+   <td> righteousness,justice,morality,honor,loyalty,meaning </td>
+ </tr>
+ <tr>
+   <td> &#x898f </td> <td>   841 </td> <td>   5 </td> <td> @KT{{KI}} </td></td>
+   <td> standard,measure </td>
+ </tr>
+ <tr>
+   <td> &#x8cc0 </td> <td>   868 </td> <td>   5 </td> <td> @KT{{GA}} </td></td>
+   <td> congratulations,joy </td>
+ </tr>
+ <tr>
+   <td> &#x5fb3 </td> <td>   885 </td> <td>   5 </td> <td> @KT{{TOKU}} </td></td>
+   <td> benevolence,virtue,goodness,commanding respect </td>
+ </tr>
+ <tr>
+   <td> &#x7a0e </td> <td>   895 </td> <td>   5 </td> <td> @KT{{ZEI}} </td></td>
+   <td> tax,duty </td>
+ </tr>
+ <tr>
+   <td> &#x6db2 </td> <td>  1038 </td> <td>   5 </td> <td> @KT{{EKI}} </td></td>
+   <td> fluid,liquid,juice,sap,secretion </td>
+ </tr>
+ <tr>
+   <td> &#x7981 </td> <td>  1098 </td> <td>   5 </td> <td> @KT{{KIN}} </td></td>
+   <td> prohibition,ban,forbid </td>
+ </tr>
+ <tr>
+   <td> &#x5238 </td> <td>  1206 </td> <td>   5 </td> <td> @KT{{KEN}} </td></td>
+   <td> ticket </td>
+ </tr>
+ <tr>
+   <td> &#x7248 </td> <td>  1213 </td> <td>   5 </td> <td> @KT{{HAN}} </td></td>
+   <td> printing block,printing plate,edition,impression,label </td>
+ </tr>
+ <tr>
+   <td> &#x8cbf </td> <td>  1424 </td> <td>   5 </td> <td> @KT{{BOU}} </td></td>
+   <td> trade,exchange </td>
+ </tr>
+ <tr>
+   <td> &#x8a55 </td> <td>  1487 </td> <td>   5 </td> <td> @KT{{HYOU}} </td></td>
+   <td> evaluate,criticism,comment </td>
+ </tr>
+ <tr>
+   <td> &#x7e3e </td> <td>  1542 </td> <td>   5 </td> <td> @KT{{SEKI}} </td></td>
+   <td> exploits,achievements,unreeling cocoons </td>
+ </tr>
+ <tr>
+   <td> &#x520a </td> <td>  1650 </td> <td>   5 </td> <td> @KT{{KAN}} </td></td>
+   <td> publish,carve,engrave </td>
+ </tr>
+ <tr>
+   <td> &#x7956 </td> <td>  1779 </td> <td>   5 </td> <td> @KT{{SO}} </td></td>
+   <td> ancestor,pioneer,founder </td>
+ </tr>
+ <tr>
+   <td> &#x67fb </td> <td>  1781 </td> <td>   5 </td> <td> @KT{{SA}} </td></td>
+   <td> investigate </td>
+ </tr>
+ <tr>
+   <td> &#x8b1b </td> <td>  1816 </td> <td>   5 </td> <td> @KT{{KOU}} </td></td>
+   <td> lecture,club,association </td>
+ </tr>
+ <tr>
+   <td> &#x50cf </td> <td>  1977 </td> <td>   5 </td> <td> @KT{{ZOU}} </td></td>
+   <td> statue,picture,image,figure,portrait </td>
+ </tr>
+ <tr>
+   <td> &#x6f14 </td> <td>  2007 </td> <td>   5 </td> <td> @KT{{EN}} </td></td>
+   <td> performance,act,play,render,stage </td>
+ </tr>
+ <tr>
+   <td> &#x5bf8 </td> <td>    45 </td> <td>   6 </td> <td> @KT{{SUN}} </td></td>
+   <td> measurement,foot/10 </td>
+ </tr>
+ <tr>
+   <td> &#x57df </td> <td>   356 </td> <td>   6 </td> <td> @KT{{IKI}} </td></td>
+   <td> range,region,limits,stage,level </td>
+ </tr>
+ <tr>
+   <td> &#x8a95 </td> <td>   393 </td> <td>   6 </td> <td> @KT{{TAN}} </td></td>
+   <td> nativity,be born,declension,lie,be arbitrary </td>
+ </tr>
+ <tr>
+   <td> &#x80ba </td> <td>   414 </td> <td>   6 </td> <td> @KT{{HAI}} </td></td>
+   <td> lungs </td>
+ </tr>
+ <tr>
+   <td> &#x7fcc </td> <td>   575 </td> <td>   6 </td> <td> @KT{{YOKU}} </td></td>
+   <td> the following,next </td>
+ </tr>
+ <tr>
+   <td> &#x8a8c </td> <td>   601 </td> <td>   6 </td> <td> @KT{{SHI}} </td></td>
+   <td> document,records </td>
+ </tr>
+ <tr>
+   <td> &#x5fe0 </td> <td>   602 </td> <td>   6 </td> <td> @KT{{CHYUU}} </td></td>
+   <td> loyalty,fidelity,faithfulness </td>
+ </tr>
+ <tr>
+   <td> &#x6279 </td> <td>   649 </td> <td>   6 </td> <td> @KT{{HI}} </td></td>
+   <td> criticism,strike </td>
+ </tr>
+ <tr>
+   <td> &#x7a40 </td> <td>   917 </td> <td>   6 </td> <td> @KT{{KOKU}} </td></td>
+   <td> cereals,grain </td>
+ </tr>
+ <tr>
+   <td> &#x7b56 </td> <td>   948 </td> <td>   6 </td> <td> @KT{{SAKU}} </td></td>
+   <td> scheme,plan,policy,step,means </td>
+ </tr>
+ <tr>
+   <td> &#x8cc3 </td> <td>  1004 </td> <td>   6 </td> <td> @KT{{CHIN}} </td></td>
+   <td> fare,fee,hire,rent,wages,charge </td>
+ </tr>
+ <tr>
+   <td> &#x5c64 </td> <td>  1065 </td> <td>   6 </td> <td> @KT{{SOU}} </td></td>
+   <td> stratum,social class,layer,story,floor </td>
+ </tr>
+ <tr>
+   <td> &#x5c3a </td> <td>  1070 </td> <td>   6 </td> <td> @KT{{SHYAKU}} </td></td>
+   <td> shaku,Japanese foot,measure,scale,rule </td>
+ </tr>
+ <tr>
+   <td> &#x5b99 </td> <td>  1109 </td> <td>   6 </td> <td> @KT{{CHYUU}} </td></td>
+   <td> mid-air,air,space,sky,memorization,interval of time </td>
+ </tr>
+ <tr>
+   <td> &#x7cd6 </td> <td>  1158 </td> <td>   6 </td> <td> @KT{{TOU}} </td></td>
+   <td> sugar </td>
+ </tr>
+ <tr>
+   <td> &#x73ed </td> <td>  1229 </td> <td>   6 </td> <td> @KT{{HAN}} </td></td>
+   <td> squad,corps,unit,group </td>
+ </tr>
+ <tr>
+   <td> &#x7f72 </td> <td>  1259 </td> <td>   6 </td> <td> @KT{{SHYO}} </td></td>
+   <td> signature,govt office,police station </td>
+ </tr>
+ <tr>
+   <td> &#x965b </td> <td>  1310 </td> <td>   6 </td> <td> @KT{{HEI}} </td></td>
+   <td> highness,steps (of throne) </td>
+ </tr>
+ <tr>
+   <td> &#x78c1 </td> <td>  1390 </td> <td>   6 </td> <td> @KT{{JI}} </td></td>
+   <td> magnet,porcelain </td>
+ </tr>
+ <tr>
+   <td> &#x7cfb </td> <td>  1391 </td> <td>   6 </td> <td> @KT{{KEI}} </td></td>
+   <td> lineage,system </td>
+ </tr>
+ <tr>
+   <td> &#x76df </td> <td>  1450 </td> <td>   6 </td> <td> @KT{{MEI}} </td></td>
+   <td> alliance,oath </td>
+ </tr>
+ <tr>
+   <td> &#x7d14 </td> <td>  1494 </td> <td>   6 </td> <td> @KT{{JUN}} </td></td>
+   <td> genuine,purity,innocence,net (profit) </td>
+ </tr>
+ <tr>
+   <td> &#x61b2 </td> <td>  1554 </td> <td>   6 </td> <td> @KT{{KEN}} </td></td>
+   <td> constitution,law </td>
+ </tr>
+ <tr>
+   <td> &#x68d2 </td> <td>  1575 </td> <td>   6 </td> <td> @KT{{BOU}} </td></td>
+   <td> rod,stick,cane,pole,club,line </td>
+ </tr>
+ <tr>
+   <td> &#x95a3 </td> <td>  1624 </td> <td>   6 </td> <td> @KT{{KAKU}} </td></td>
+   <td> tower,tall building,palace </td>
+ </tr>
+ <tr>
+   <td> &#x4ff3 </td> <td>  1633 </td> <td>   6 </td> <td> @KT{{HAI}} </td></td>
+   <td> haiku,actor </td>
+ </tr>
+ <tr>
+   <td> &#x5b87 </td> <td>  1656 </td> <td>   6 </td> <td> @KT{{U}} </td></td>
+   <td> eaves,roof,house,heaven </td>
+ </tr>
+ <tr>
+   <td> &#x8ad6 </td> <td>  1820 </td> <td>   6 </td> <td> @KT{{RON}} </td></td>
+   <td> argument,discourse </td>
+ </tr>
+ <tr>
+   <td> &#x90f5 </td> <td>  1847 </td> <td>   6 </td> <td> @KT{{YUU}} </td></td>
+   <td> mail,stagecoach stop </td>
+ </tr>
+ <tr>
+   <td> &#x6d3e </td> <td>  1855 </td> <td>   6 </td> <td> @KT{{HA}} </td></td>
+   <td> faction,group,party,clique,sect,school </td>
+ </tr>
+ <tr>
+   <td> &#x8a5e </td> <td>  1865 </td> <td>   6 </td> <td> @KT{{SHI}} </td></td>
+   <td> part of speech,words,poetry </td>
+ </tr>
+ <tr>
+   <td> &#x5b85 </td> <td>  1916 </td> <td>   6 </td> <td> @KT{{TAKU}} </td></td>
+   <td> home,house,residence,our house,my husband </td>
+ </tr>
+ <tr>
+   <td> &#x5c55 </td> <td>  1925 </td> <td>   6 </td> <td> @KT{{TEN}} </td></td>
+   <td> unfold,expand </td>
+ </tr>
+ <tr>
+   <td> &#x6669 </td> <td>  1974 </td> <td>   6 </td> <td> @KT{{BAN}} </td></td>
+   <td> nightfall,night </td>
+ </tr>
+ <tr>
+   <td> &#x5287 </td> <td>  1997 </td> <td>   6 </td> <td> @KT{{GEKI}} </td></td>
+   <td> drama,play </td>
+ </tr>
+ <tr>
+   <td> &#x6676 </td> <td>    22 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> sparkle,clear,crystal </td>
+ </tr>
+ <tr>
+   <td> &#x5353 </td> <td>    51 </td> <td>   8 </td> <td> @KT{{TAKU}} </td></td>
+   <td> eminent,table,desk,high </td>
+ </tr>
+ <tr>
+   <td> &#x4e86 </td> <td>    97 </td> <td>   8 </td> <td> @KT{{RYOU}} </td></td>
+   <td> complete,finish </td>
+ </tr>
+ <tr>
+   <td> &#x785d </td> <td>   115 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> nitrate,saltpeter </td>
+ </tr>
+ <tr>
+   <td> &#x5398 </td> <td>   178 </td> <td>   8 </td> <td> @KT{{RIN}} </td></td>
+   <td> rin,1/10sen,1/10bu </td>
+ </tr>
+ <tr>
+   <td> &#x80f4 </td> <td>   182 </td> <td>   8 </td> <td> @KT{{DOU}} </td></td>
+   <td> trunk,torso,hull (ship),hub of wheel </td>
+ </tr>
+ <tr>
+   <td> &#x67a0 </td> <td>   200 </td> <td>   8 </td> <td> @HI{{waku}} </td></td>
+   <td> frame,framework,spindle,spool,bounding-box,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x6f20 </td> <td>   230 </td> <td>   8 </td> <td> @KT{{BAKU}} </td></td>
+   <td> vague,obscure,desert,wide </td>
+ </tr>
+ <tr>
+   <td> &#x819c </td> <td>   233 </td> <td>   8 </td> <td> @KT{{MAKU}} </td></td>
+   <td> membrane </td>
+ </tr>
+ <tr>
+   <td> &#x4ecb </td> <td>   250 </td> <td>   8 </td> <td> @KT{{KAI}} </td></td>
+   <td> jammed in,shellfish,mediate,concern oneself with </td>
+ </tr>
+ <tr>
+   <td> &#x5854 </td> <td>   254 </td> <td>   8 </td> <td> @KT{{TOU}} </td></td>
+   <td> pagoda,tower,steeple </td>
+ </tr>
+ <tr>
+   <td> &#x5448 </td> <td>   262 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> display,offer,present,send,exhibit </td>
+ </tr>
+ <tr>
+   <td> &#x6813 </td> <td>   264 </td> <td>   8 </td> <td> @KT{{SEN}} </td></td>
+   <td> plug,bolt,cork,bung,stopper </td>
+ </tr>
+ <tr>
+   <td> &#x9298 </td> <td>   275 </td> <td>   8 </td> <td> @KT{{MEI}} </td></td>
+   <td> inscription,signature (of artisan) </td>
+ </tr>
+ <tr>
+   <td> &#x8fc5 </td> <td>   280 </td> <td>   8 </td> <td> @KT{{JIN}} </td></td>
+   <td> swift,fast </td>
+ </tr>
+ <tr>
+   <td> &#x8ecc </td> <td>   288 </td> <td>   8 </td> <td> @KT{{KI}} </td></td>
+   <td> rut,wheel,track,model,way of doing </td>
+ </tr>
+ <tr>
+   <td> &#x5197 </td> <td>   300 </td> <td>   8 </td> <td> @KT{{JOU}} </td></td>
+   <td> superfluous,uselessness </td>
+ </tr>
+ <tr>
+   <td> &#x5751 </td> <td>   306 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> pit,hole </td>
+ </tr>
+ <tr>
+   <td> &#x587e </td> <td>   309 </td> <td>   8 </td> <td> @KT{{JUKU}} </td></td>
+   <td> cram school,private school </td>
+ </tr>
+ <tr>
+   <td> &#x7344 </td> <td>   338 </td> <td>   8 </td> <td> @KT{{GOKU}} </td></td>
+   <td> prison,jail </td>
+ </tr>
+ <tr>
+   <td> &#x8a02 </td> <td>   339 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> revise,correct,decide </td>
+ </tr>
+ <tr>
+   <td> &#x8afe </td> <td>   351 </td> <td>   8 </td> <td> @KT{{DAKU}} </td></td>
+   <td> consent,assent,agreement </td>
+ </tr>
+ <tr>
+   <td> &#x8cca </td> <td>   357 </td> <td>   8 </td> <td> @KT{{ZOKU}} </td></td>
+   <td> burglar,rebel,traitor,robber </td>
+ </tr>
+ <tr>
+   <td> &#x683d </td> <td>   358 </td> <td>   8 </td> <td> @KT{{SAI}} </td></td>
+   <td> plantation,planting </td>
+ </tr>
+ <tr>
+   <td> &#x9320 </td> <td>   383 </td> <td>   8 </td> <td> @KT{{JOU}} </td></td>
+   <td> lock,fetters,shackles </td>
+ </tr>
+ <tr>
+   <td> &#x6606 </td> <td>   448 </td> <td>   8 </td> <td> @KT{{KON}} </td></td>
+   <td> descendants,elder brother,insect </td>
+ </tr>
+ <tr>
+   <td> &#x8b01 </td> <td>   452 </td> <td>   8 </td> <td> @KT{{ETSU}} </td></td>
+   <td> audience,audience (with king) </td>
+ </tr>
+ <tr>
+   <td> &#x8910 </td> <td>   453 </td> <td>   8 </td> <td> @KT{{KATSU}} </td></td>
+   <td> brown,woollen kimono </td>
+ </tr>
+ <tr>
+   <td> &#x559d </td> <td>   454 </td> <td>   8 </td> <td> @KT{{KATSU}} </td></td>
+   <td> hoarse,scold </td>
+ </tr>
+ <tr>
+   <td> &#x8ce0 </td> <td>   476 </td> <td>   8 </td> <td> @KT{{BAI}} </td></td>
+   <td> compensation,indemnify </td>
+ </tr>
+ <tr>
+   <td> &#x5256 </td> <td>   478 </td> <td>   8 </td> <td> @KT{{BOU}} </td></td>
+   <td> divide </td>
+ </tr>
+ <tr>
+   <td> &#x97fb </td> <td>   481 </td> <td>   8 </td> <td> @KT{{IN}} </td></td>
+   <td> rhyme,elegance,tone </td>
+ </tr>
+ <tr>
+   <td> &#x80aa </td> <td>   494 </td> <td>   8 </td> <td> @KT{{BOU}} </td></td>
+   <td> obese,fat </td>
+ </tr>
+ <tr>
+   <td> &#x5ef7 </td> <td>   508 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> courts,imperial court,government office </td>
+ </tr>
+ <tr>
+   <td> &#x8cd3 </td> <td>   511 </td> <td>   8 </td> <td> @KT{{HIN}} </td></td>
+   <td> V.I.P.,guest </td>
+ </tr>
+ <tr>
+   <td> &#x6803 </td> <td>   514 </td> <td>   8 </td> <td> @HI{{tochi}} </td></td>
+   <td> horse chestnut,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x80de </td> <td>   531 </td> <td>   8 </td> <td> @KT{{HOU}} </td></td>
+   <td> placenta,sac,sheath </td>
+ </tr>
+ <tr>
+   <td> &#x7832 </td> <td>   532 </td> <td>   8 </td> <td> @KT{{HOU}} </td></td>
+   <td> cannon,gun </td>
+ </tr>
+ <tr>
+   <td> &#x9010 </td> <td>   539 </td> <td>   8 </td> <td> @KT{{CHIKU}} </td></td>
+   <td> pursue,drive away,chase,accomplish,attain,commit </td>
+ </tr>
+ <tr>
+   <td> &#x7901 </td> <td>   558 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> reef,sunken rock </td>
+ </tr>
+ <tr>
+   <td> &#x51c6 </td> <td>   560 </td> <td>   8 </td> <td> @KT{{JUN}} </td></td>
+   <td> quasi-,semi-,associate </td>
+ </tr>
+ <tr>
+   <td> &#x59fb </td> <td>   584 </td> <td>   8 </td> <td> @KT{{IN}} </td></td>
+   <td> matrimony,marry </td>
+ </tr>
+ <tr>
+   <td> &#x5be1 </td> <td>   617 </td> <td>   8 </td> <td> @KT{{KA}} </td></td>
+   <td> widow,minority,few </td>
+ </tr>
+ <tr>
+   <td> &#x60f0 </td> <td>   629 </td> <td>   8 </td> <td> @KT{{DA}} </td></td>
+   <td> lazy,laziness </td>
+ </tr>
+ <tr>
+   <td> &#x61b6 </td> <td>   632 </td> <td>   8 </td> <td> @KT{{OKU}} </td></td>
+   <td> recollection,think,remember </td>
+ </tr>
+ <tr>
+   <td> &#x62b9 </td> <td>   644 </td> <td>   8 </td> <td> @KT{{MATSU}} </td></td>
+   <td> rub,paint,erase </td>
+ </tr>
+ <tr>
+   <td> &#x642d </td> <td>   646 </td> <td>   8 </td> <td> @KT{{TOU}} </td></td>
+   <td> board,load (a vehicle),ride </td>
+ </tr>
+ <tr>
+   <td> &#x6284 </td> <td>   647 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> extract,selection,summary,copy,spread thin </td>
+ </tr>
+ <tr>
+   <td> &#x62d0 </td> <td>   656 </td> <td>   8 </td> <td> @KT{{KAI}} </td></td>
+   <td> kidnap,falsify </td>
+ </tr>
+ <tr>
+   <td> &#x5211 </td> <td>   679 </td> <td>   8 </td> <td> @KT{{KEI}} </td></td>
+   <td> punish,penalty,sentence,punishment </td>
+ </tr>
+ <tr>
+   <td> &#x540f </td> <td>   693 </td> <td>   8 </td> <td> @KT{{RI}} </td></td>
+   <td> officer,an official </td>
+ </tr>
+ <tr>
+   <td> &#x96bb </td> <td>   699 </td> <td>   8 </td> <td> @KT{{SEKI}} </td></td>
+   <td> vessels,counter for ships,fish,birds,arrows,one of a pair </td>
+ </tr>
+ <tr>
+   <td> &#x80a2 </td> <td>   714 </td> <td>   8 </td> <td> @KT{{SHI}} </td></td>
+   <td> limb,arms & legs </td>
+ </tr>
+ <tr>
+   <td> &#x53d4 </td> <td>   718 </td> <td>   8 </td> <td> @KT{{SHYUKU}} </td></td>
+   <td> uncle,youth </td>
+ </tr>
+ <tr>
+   <td> &#x7763 </td> <td>   719 </td> <td>   8 </td> <td> @KT{{TOKU}} </td></td>
+   <td> coach,command,urge,lead,supervise </td>
+ </tr>
+ <tr>
+   <td> &#x8ca9 </td> <td>   726 </td> <td>   8 </td> <td> @KT{{HAN}} </td></td>
+   <td> marketing,sell,trade </td>
+ </tr>
+ <tr>
+   <td> &#x59a5 </td> <td>   728 </td> <td>   8 </td> <td> @KT{{DA}} </td></td>
+   <td> gentle,peace,depravity </td>
+ </tr>
+ <tr>
+   <td> &#x80ce </td> <td>   748 </td> <td>   8 </td> <td> @KT{{TAI}} </td></td>
+   <td> womb,uterus </td>
+ </tr>
+ <tr>
+   <td> &#x64a4 </td> <td>   760 </td> <td>   8 </td> <td> @KT{{TETSU}} </td></td>
+   <td> remove,withdraw,disarm,dismantle,reject,exclude </td>
+ </tr>
+ <tr>
+   <td> &#x786b </td> <td>   763 </td> <td>   8 </td> <td> @KT{{RYUU}} </td></td>
+   <td> sulphur </td>
+ </tr>
+ <tr>
+   <td> &#x5ce0 </td> <td>   773 </td> <td>   8 </td> <td> @HI{{touge}} </td></td>
+   <td> mountain peak,mountain pass,climax,crest,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x8a1f </td> <td>   787 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> sue,accuse </td>
+ </tr>
+ <tr>
+   <td> &#x88d5 </td> <td>   793 </td> <td>   8 </td> <td> @KT{{YUU}} </td></td>
+   <td> abundant,rich,fertile </td>
+ </tr>
+ <tr>
+   <td> &#x62ab </td> <td>   805 </td> <td>   8 </td> <td> @KT{{HI}} </td></td>
+   <td> expose,open </td>
+ </tr>
+ <tr>
+   <td> &#x6b89 </td> <td>   809 </td> <td>   8 </td> <td> @KT{{JUN}} </td></td>
+   <td> martyrdom,follow by resigning </td>
+ </tr>
+ <tr>
+   <td> &#x6162 </td> <td>   829 </td> <td>   8 </td> <td> @KT{{MAN}} </td></td>
+   <td> ridicule,laziness </td>
+ </tr>
+ <tr>
+   <td> &#x8fed </td> <td>   847 </td> <td>   8 </td> <td> @KT{{TETSU}} </td></td>
+   <td> transfer,alternation </td>
+ </tr>
+ <tr>
+   <td> &#x5de8 </td> <td>   856 </td> <td>   8 </td> <td> @KT{{KYO}} </td></td>
+   <td> gigantic,big,large,great </td>
+ </tr>
+ <tr>
+   <td> &#x5f81 </td> <td>   881 </td> <td>   8 </td> <td> @KT{{SEI}} </td></td>
+   <td> subjugate,attack the rebellious,collect taxes </td>
+ </tr>
+ <tr>
+   <td> &#x5fb9 </td> <td>   886 </td> <td>   8 </td> <td> @KT{{TETSU}} </td></td>
+   <td> penetrate,clear,pierce,strike home,sit up (all night) </td>
+ </tr>
+ <tr>
+   <td> &#x8861 </td> <td>   891 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> equilibrium,measuring rod,scale </td>
+ </tr>
+ <tr>
+   <td> &#x79e9 </td> <td>   903 </td> <td>   8 </td> <td> @KT{{CHITSU}} </td></td>
+   <td> regularity,salary,order </td>
+ </tr>
+ <tr>
+   <td> &#x7a6b </td> <td>   908 </td> <td>   8 </td> <td> @KT{{KAKU}} </td></td>
+   <td> harvest,reap </td>
+ </tr>
+ <tr>
+   <td> &#x83cc </td> <td>   918 </td> <td>   8 </td> <td> @KT{{KIN}} </td></td>
+   <td> germ,fungus,bacteria </td>
+ </tr>
+ <tr>
+   <td> &#x7ca7 </td> <td>   923 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> cosmetics,adorn (one's person) </td>
+ </tr>
+ <tr>
+   <td> &#x83ca </td> <td>   927 </td> <td>   8 </td> <td> @KT{{KIKU}} </td></td>
+   <td> chrysanthemum </td>
+ </tr>
+ <tr>
+   <td> &#x7c3f </td> <td>   949 </td> <td>   8 </td> <td> @KT{{BO}} </td></td>
+   <td> register,record book </td>
+ </tr>
+ <tr>
+   <td> &#x4f50 </td> <td>   952 </td> <td>   8 </td> <td> @KT{{SA}} </td></td>
+   <td> assistant,help </td>
+ </tr>
+ <tr>
+   <td> &#x60a0 </td> <td>   958 </td> <td>   8 </td> <td> @KT{{YUU}} </td></td>
+   <td> permanence,distant,long time,leisure </td>
+ </tr>
+ <tr>
+   <td> &#x4f2f </td> <td>   967 </td> <td>   8 </td> <td> @KT{{HAKU}} </td></td>
+   <td> chief,count,earl,uncle,Brazil </td>
+ </tr>
+ <tr>
+   <td> &#x4fd7 </td> <td>   968 </td> <td>   8 </td> <td> @KT{{ZOKU}} </td></td>
+   <td> vulgar,customs,manners,worldliness,mundane things </td>
+ </tr>
+ <tr>
+   <td> &#x4f73 </td> <td>   970 </td> <td>   8 </td> <td> @KT{{KA}} </td></td>
+   <td> excellent,beautiful,good,pleasing,skilled </td>
+ </tr>
+ <tr>
+   <td> &#x5075 </td> <td>   981 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> spy </td>
+ </tr>
+ <tr>
+   <td> &#x50e7 </td> <td>   982 </td> <td>   8 </td> <td> @KT{{SOU}} </td></td>
+   <td> Buddhist priest,monk </td>
+ </tr>
+ <tr>
+   <td> &#x5100 </td> <td>   984 </td> <td>   8 </td> <td> @KT{{GI}} </td></td>
+   <td> ceremony,rule,affair,case,a matter </td>
+ </tr>
+ <tr>
+   <td> &#x7b26 </td> <td>  1001 </td> <td>   8 </td> <td> @KT{{HU}} </td></td>
+   <td> token,sign,mark,tally,charm </td>
+ </tr>
+ <tr>
+   <td> &#x4fca </td> <td>  1014 </td> <td>   8 </td> <td> @KT{{SHYUN}} </td></td>
+   <td> sagacious,genius,excellence </td>
+ </tr>
+ <tr>
+   <td> &#x5f0a </td> <td>  1041 </td> <td>   8 </td> <td> @KT{{HEI}} </td></td>
+   <td> abuse,evil,vice,breakage </td>
+ </tr>
+ <tr>
+   <td> &#x65cb </td> <td>  1046 </td> <td>   8 </td> <td> @KT{{SEN}} </td></td>
+   <td> rotation,go around </td>
+ </tr>
+ <tr>
+   <td> &#x5c3f </td> <td>  1053 </td> <td>   8 </td> <td> @KT{{NYOU}} </td></td>
+   <td> urine </td>
+ </tr>
+ <tr>
+   <td> &#x7949 </td> <td>  1091 </td> <td>   8 </td> <td> @KT{{SHI}} </td></td>
+   <td> welfare,happiness </td>
+ </tr>
+ <tr>
+   <td> &#x6b3e </td> <td>  1097 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> goodwill,article,section,friendship,collusion </td>
+ </tr>
+ <tr>
+   <td> &#x8ef8 </td> <td>  1112 </td> <td>   8 </td> <td> @KT{{JIKU}} </td></td>
+   <td> axis,pivot,stem,stalk,counter for book scrolls </td>
+ </tr>
+ <tr>
+   <td> &#x83d3 </td> <td>  1122 </td> <td>   8 </td> <td> @KT{{KA}} </td></td>
+   <td> candy,cakes,fruit </td>
+ </tr>
+ <tr>
+   <td> &#x65a4 </td> <td>  1125 </td> <td>   8 </td> <td> @KT{{KIN}} </td></td>
+   <td> axe,1.32 lb,catty,counter for loaves of bread,axe radical (no. 69) </td>
+ </tr>
+ <tr>
+   <td> &#x6790 </td> <td>  1126 </td> <td>   8 </td> <td> @KT{{SEKI}} </td></td>
+   <td> chop,divide,tear,analyze </td>
+ </tr>
+ <tr>
+   <td> &#x902e </td> <td>  1160 </td> <td>   8 </td> <td> @KT{{TAI}} </td></td>
+   <td> apprehend,chase </td>
+ </tr>
+ <tr>
+   <td> &#x9700 </td> <td>  1165 </td> <td>   8 </td> <td> @KT{{JU}} </td></td>
+   <td> demand,request,need </td>
+ </tr>
+ <tr>
+   <td> &#x5112 </td> <td>  1166 </td> <td>   8 </td> <td> @KT{{JU}} </td></td>
+   <td> Confucian </td>
+ </tr>
+ <tr>
+   <td> &#x5eb8 </td> <td>  1182 </td> <td>   8 </td> <td> @KT{{YOU}} </td></td>
+   <td> commonplace,ordinary,employment </td>
+ </tr>
+ <tr>
+   <td> &#x5eb6 </td> <td>  1191 </td> <td>   8 </td> <td> @KT{{SHYO}} </td></td>
+   <td> commoner,all,bastard </td>
+ </tr>
+ <tr>
+   <td> &#x58b3 </td> <td>  1198 </td> <td>   8 </td> <td> @KT{{HUN}} </td></td>
+   <td> tomb,mound </td>
+ </tr>
+ <tr>
+   <td> &#x8b04 </td> <td>  1211 </td> <td>   8 </td> <td> @KT{{TOU}} </td></td>
+   <td> mimeograph,copy </td>
+ </tr>
+ <tr>
+   <td> &#x62f7 </td> <td>  1255 </td> <td>   8 </td> <td> @KT{{GOU}} </td></td>
+   <td> torture,beat </td>
+ </tr>
+ <tr>
+   <td> &#x5e25 </td> <td>  1270 </td> <td>   8 </td> <td> @KT{{SUI}} </td></td>
+   <td> commander,leading troops,governor </td>
+ </tr>
+ <tr>
+   <td> &#x68fa </td> <td>  1272 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> coffin,casket </td>
+ </tr>
+ <tr>
+   <td> &#x9ac4 </td> <td>  1290 </td> <td>   8 </td> <td> @KT{{ZUI}} </td></td>
+   <td> marrow,pith </td>
+ </tr>
+ <tr>
+   <td> &#x966a </td> <td>  1299 </td> <td>   8 </td> <td> @KT{{BAI}} </td></td>
+   <td> obeisance,follow,accompany,attend on </td>
+ </tr>
+ <tr>
+   <td> &#x9663 </td> <td>  1305 </td> <td>   8 </td> <td> @KT{{JIN}} </td></td>
+   <td> camp,battle array,ranks,position </td>
+ </tr>
+ <tr>
+   <td> &#x7a92 </td> <td>  1321 </td> <td>   8 </td> <td> @KT{{CHITSU}} </td></td>
+   <td> plug up,obstruct </td>
+ </tr>
+ <tr>
+   <td> &#x7dad </td> <td>  1341 </td> <td>   8 </td> <td> @KT{{I}} </td></td>
+   <td> fiber,tie,rope </td>
+ </tr>
+ <tr>
+   <td> &#x7d39 </td> <td>  1359 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> introduce,inherit,help </td>
+ </tr>
+ <tr>
+   <td> &#x7d33 </td> <td>  1361 </td> <td>   8 </td> <td> @KT{{SHIN}} </td></td>
+   <td> sire,good belt,gentleman </td>
+ </tr>
+ <tr>
+   <td> &#x7d2f </td> <td>  1364 </td> <td>   8 </td> <td> @KT{{RUI}} </td></td>
+   <td> accumulate,involvement,trouble,tie up,continually </td>
+ </tr>
+ <tr>
+   <td> &#x7d22 </td> <td>  1365 </td> <td>   8 </td> <td> @KT{{SAKU}} </td></td>
+   <td> cord,rope </td>
+ </tr>
+ <tr>
+   <td> &#x7384 </td> <td>  1383 </td> <td>   8 </td> <td> @KT{{GEN}} </td></td>
+   <td> mysterious,occultness </td>
+ </tr>
+ <tr>
+   <td> &#x755c </td> <td>  1384 </td> <td>   8 </td> <td> @KT{{CHIKU}} </td></td>
+   <td> livestock,domestic fowl and animals </td>
+ </tr>
+ <tr>
+   <td> &#x64c1 </td> <td>  1387 </td> <td>   8 </td> <td> @KT{{YOU}} </td></td>
+   <td> hug,embrace,possess,protect,lead </td>
+ </tr>
+ <tr>
+   <td> &#x6ecb </td> <td>  1388 </td> <td>   8 </td> <td> @KT{{JI}} </td></td>
+   <td> nourishing,more & more,be luxuriant,planting,turbidity </td>
+ </tr>
+ <tr>
+   <td> &#x7bc4 </td> <td>  1413 </td> <td>   8 </td> <td> @KT{{HAN}} </td></td>
+   <td> pattern,example,model </td>
+ </tr>
+ <tr>
+   <td> &#x5384 </td> <td>  1415 </td> <td>   8 </td> <td> @KT{{YAKU}} </td></td>
+   <td> unlucky,misfortune,bad luck,disaster </td>
+ </tr>
+ <tr>
+   <td> &#x9175 </td> <td>  1430 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> fermentation </td>
+ </tr>
+ <tr>
+   <td> &#x916a </td> <td>  1433 </td> <td>   8 </td> <td> @KT{{RAKU}} </td></td>
+   <td> dairy products,whey,broth,fruit juice </td>
+ </tr>
+ <tr>
+   <td> &#x76c6 </td> <td>  1449 </td> <td>   8 </td> <td> @KT{{BON}} </td></td>
+   <td> basin,lantern festival,tray </td>
+ </tr>
+ <tr>
+   <td> &#x76e3 </td> <td>  1453 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> oversee,official,govt office,rule,administer </td>
+ </tr>
+ <tr>
+   <td> &#x731b </td> <td>  1456 </td> <td>   8 </td> <td> @KT{{MOU}} </td></td>
+   <td> fierce,rave,rush,become furious,wildness,strength </td>
+ </tr>
+ <tr>
+   <td> &#x7235 </td> <td>  1463 </td> <td>   8 </td> <td> @KT{{SHYAKU}} </td></td>
+   <td> baron,peerage,court rank </td>
+ </tr>
+ <tr>
+   <td> &#x6d6a </td> <td>  1470 </td> <td>   8 </td> <td> @KT{{ROU}} </td></td>
+   <td> wandering,waves,billows </td>
+ </tr>
+ <tr>
+   <td> &#x6168 </td> <td>  1483 </td> <td>   8 </td> <td> @KT{{GAI}} </td></td>
+   <td> rue,be sad,sigh,lament </td>
+ </tr>
+ <tr>
+   <td> &#x51f6 </td> <td>  1490 </td> <td>   8 </td> <td> @KT{{KYOU}} </td></td>
+   <td> villain,evil,bad luck,disaster </td>
+ </tr>
+ <tr>
+   <td> &#x5bb0 </td> <td>  1499 </td> <td>   8 </td> <td> @KT{{SAI}} </td></td>
+   <td> superintend,manager,rule </td>
+ </tr>
+ <tr>
+   <td> &#x6838 </td> <td>  1520 </td> <td>   8 </td> <td> @KT{{KAKU}} </td></td>
+   <td> nucleus,core,kernel </td>
+ </tr>
+ <tr>
+   <td> &#x8a72 </td> <td>  1522 </td> <td>   8 </td> <td> @KT{{GAI}} </td></td>
+   <td> above-stated,the said,that specific </td>
+ </tr>
+ <tr>
+   <td> &#x52be </td> <td>  1523 </td> <td>   8 </td> <td> @KT{{GAI}} </td></td>
+   <td> censure,criminal investigation </td>
+ </tr>
+ <tr>
+   <td> &#x50b5 </td> <td>  1544 </td> <td>   8 </td> <td> @KT{{SAI}} </td></td>
+   <td> bond,loan,debt </td>
+ </tr>
+ <tr>
+   <td> &#x7272 </td> <td>  1559 </td> <td>   8 </td> <td> @KT{{SEI}} </td></td>
+   <td> animal sacrifice,offering </td>
+ </tr>
+ <tr>
+   <td> &#x9686 </td> <td>  1561 </td> <td>   8 </td> <td> @KT{{RYUU}} </td></td>
+   <td> hump,high,noble,prosperity </td>
+ </tr>
+ <tr>
+   <td> &#x7c4d </td> <td>  1567 </td> <td>   8 </td> <td> @KT{{SEKI}} </td></td>
+   <td> enroll,domiciliary register,membership </td>
+ </tr>
+ <tr>
+   <td> &#x6cf0 </td> <td>  1570 </td> <td>   8 </td> <td> @KT{{TAI}} </td></td>
+   <td> peaceful,calm,peace,easy,Thailand </td>
+ </tr>
+ <tr>
+   <td> &#x4ff8 </td> <td>  1574 </td> <td>   8 </td> <td> @KT{{HOU}} </td></td>
+   <td> stipend,salary </td>
+ </tr>
+ <tr>
+   <td> &#x7761 </td> <td>  1583 </td> <td>   8 </td> <td> @KT{{SUI}} </td></td>
+   <td> drowsy,sleep,die </td>
+ </tr>
+ <tr>
+   <td> &#x541f </td> <td>  1589 </td> <td>   8 </td> <td> @KT{{GIN}} </td></td>
+   <td> versify,singing,recital </td>
+ </tr>
+ <tr>
+   <td> &#x8b19 </td> <td>  1600 </td> <td>   8 </td> <td> @KT{{KEN}} </td></td>
+   <td> self-effacing,humble oneself,condescend,be modest </td>
+ </tr>
+ <tr>
+   <td> &#x5ec9 </td> <td>  1601 </td> <td>   8 </td> <td> @KT{{REN}} </td></td>
+   <td> bargain,reason,charge,suspicion,point,account,purity,honest,low price,cheap,rested,contented,peaceful </td>
+ </tr>
+ <tr>
+   <td> &#x95a5 </td> <td>  1619 </td> <td>   8 </td> <td> @KT{{BATSU}} </td></td>
+   <td> clique,lineage,pedigree,faction,clan </td>
+ </tr>
+ <tr>
+   <td> &#x9591 </td> <td>  1625 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> leisure </td>
+ </tr>
+ <tr>
+   <td> &#x6392 </td> <td>  1634 </td> <td>   8 </td> <td> @KT{{HAI}} </td></td>
+   <td> repudiate,exclude,expel,reject </td>
+ </tr>
+ <tr>
+   <td> &#x4faf </td> <td>  1639 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> marquis,lord,daimyo </td>
+ </tr>
+ <tr>
+   <td> &#x75d8 </td> <td>  1684 </td> <td>   8 </td> <td> @KT{{TOU}} </td></td>
+   <td> pox,smallpox </td>
+ </tr>
+ <tr>
+   <td> &#x75c7 </td> <td>  1685 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> symptoms,illness </td>
+ </tr>
+ <tr>
+   <td> &#x75e2 </td> <td>  1687 </td> <td>   8 </td> <td> @KT{{RI}} </td></td>
+   <td> diarrhea </td>
+ </tr>
+ <tr>
+   <td> &#x50da </td> <td>  1707 </td> <td>   8 </td> <td> @KT{{RYOU}} </td></td>
+   <td> colleague,official,companion </td>
+ </tr>
+ <tr>
+   <td> &#x5bee </td> <td>  1708 </td> <td>   8 </td> <td> @KT{{RYOU}} </td></td>
+   <td> dormitory,hostel,villa,tea pavillion </td>
+ </tr>
+ <tr>
+   <td> &#x7642 </td> <td>  1709 </td> <td>   8 </td> <td> @KT{{RYOU}} </td></td>
+   <td> heal,cure </td>
+ </tr>
+ <tr>
+   <td> &#x5f70 </td> <td>  1715 </td> <td>   8 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> patent,clear </td>
+ </tr>
+ <tr>
+   <td> &#x7d0b </td> <td>  1727 </td> <td>   8 </td> <td> @KT{{MON}} </td></td>
+   <td> family crest,figures </td>
+ </tr>
+ <tr>
+   <td> &#x8d66 </td> <td>  1744 </td> <td>   8 </td> <td> @KT{{SHYA}} </td></td>
+   <td> pardon,forgiveness </td>
+ </tr>
+ <tr>
+   <td> &#x7d3a </td> <td>  1758 </td> <td>   8 </td> <td> @KT{{KON}} </td></td>
+   <td> dark blue,navy </td>
+ </tr>
+ <tr>
+   <td> &#x7881 </td> <td>  1766 </td> <td>   8 </td> <td> @KT{{GO}} </td></td>
+   <td> Go </td>
+ </tr>
+ <tr>
+   <td> &#x52d8 </td> <td>  1769 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> intuition,perception </td>
+ </tr>
+ <tr>
+   <td> &#x79df </td> <td>  1778 </td> <td>   8 </td> <td> @KT{{SO}} </td></td>
+   <td> tariff,crop tax,borrowing </td>
+ </tr>
+ <tr>
+   <td> &#x8b5c </td> <td>  1787 </td> <td>   8 </td> <td> @KT{{HU}} </td></td>
+   <td> musical score,music,note,staff,table,genealogy </td>
+ </tr>
+ <tr>
+   <td> &#x7e4a </td> <td>  1790 </td> <td>   8 </td> <td> @KT{{SEN}} </td></td>
+   <td> slender,fine,thin kimono </td>
+ </tr>
+ <tr>
+   <td> &#x64b2 </td> <td>  1793 </td> <td>   8 </td> <td> @KT{{BOKU}} </td></td>
+   <td> slap,strike,hit,beat,tell,speak </td>
+ </tr>
+ <tr>
+   <td> &#x6d2a </td> <td>  1799 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> deluge,flood,vast </td>
+ </tr>
+ <tr>
+   <td> &#x8cfc </td> <td>  1817 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> subscription,buy </td>
+ </tr>
+ <tr>
+   <td> &#x502b </td> <td>  1821 </td> <td>   8 </td> <td> @KT{{RIN}} </td></td>
+   <td> ethics,companion </td>
+ </tr>
+ <tr>
+   <td> &#x5a5a </td> <td>  1830 </td> <td>   8 </td> <td> @KT{{KON}} </td></td>
+   <td> marriage </td>
+ </tr>
+ <tr>
+   <td> &#x62b5 </td> <td>  1832 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> resist,reach,touch </td>
+ </tr>
+ <tr>
+   <td> &#x8217 </td> <td>  1839 </td> <td>   8 </td> <td> @KT{{HO}} </td></td>
+   <td> shop,store </td>
+ </tr>
+ <tr>
+   <td> &#x90ca </td> <td>  1844 </td> <td>   8 </td> <td> @KT{{KOU}} </td></td>
+   <td> outskirts,suburbs,rural area </td>
+ </tr>
+ <tr>
+   <td> &#x5eca </td> <td>  1852 </td> <td>   8 </td> <td> @KT{{ROU}} </td></td>
+   <td> corridor,hall,tower </td>
+ </tr>
+ <tr>
+   <td> &#x5faa </td> <td>  1854 </td> <td>   8 </td> <td> @KT{{JUN}} </td></td>
+   <td> sequential,fellow </td>
+ </tr>
+ <tr>
+   <td> &#x55e3 </td> <td>  1867 </td> <td>   8 </td> <td> @KT{{SHI}} </td></td>
+   <td> heir,succeed </td>
+ </tr>
+ <tr>
+   <td> &#x8236 </td> <td>  1869 </td> <td>   8 </td> <td> @KT{{HAKU}} </td></td>
+   <td> liner,ship </td>
+ </tr>
+ <tr>
+   <td> &#x822c </td> <td>  1871 </td> <td>   8 </td> <td> @KT{{HAN}} </td></td>
+   <td> carrier,carry,all </td>
+ </tr>
+ <tr>
+   <td> &#x76e4 </td> <td>  1872 </td> <td>   8 </td> <td> @KT{{BAN}} </td></td>
+   <td> tray,shallow bowl,platter,tub,board,phonograph record </td>
+ </tr>
+ <tr>
+   <td> &#x642c </td> <td>  1873 </td> <td>   8 </td> <td> @KT{{HAN}} </td></td>
+   <td> conveyor,carry,transport </td>
+ </tr>
+ <tr>
+   <td> &#x8266 </td> <td>  1875 </td> <td>   8 </td> <td> @KT{{KAN}} </td></td>
+   <td> warship </td>
+ </tr>
+ <tr>
+   <td> &#x8247 </td> <td>  1876 </td> <td>   8 </td> <td> @KT{{TEI}} </td></td>
+   <td> rowboat,small boat </td>
+ </tr>
+ <tr>
+   <td> &#x5f27 </td> <td>  1878 </td> <td>   8 </td> <td> @KT{{KO}} </td></td>
+   <td> arc,arch,bow </td>
+ </tr>
+ <tr>
+   <td> &#x5b64 </td> <td>  1879 </td> <td>   8 </td> <td> @KT{{KO}} </td></td>
+   <td> orphan,alone </td>
+ </tr>
+ <tr>
+   <td> &#x8877 </td> <td>  1891 </td> <td>   8 </td> <td> @KT{{CHYUU}} </td></td>
+   <td> inmost,heart,mind,inside </td>
+ </tr>
+ <tr>
+   <td> &#x5a2f </td> <td>  1898 </td> <td>   8 </td> <td> @KT{{GO}} </td></td>
+   <td> recreation,pleasure </td>
+ </tr>
+ <tr>
+   <td> &#x85e9 </td> <td>  1912 </td> <td>   8 </td> <td> @KT{{HAN}} </td></td>
+   <td> clan,enclosure </td>
+ </tr>
+ <tr>
+   <td> &#x63f4 </td> <td>  1951 </td> <td>   8 </td> <td> @KT{{EN}} </td></td>
+   <td> abet,help,save </td>
+ </tr>
+ <tr>
+   <td> &#x525b </td> <td>  1964 </td> <td>   8 </td> <td> @KT{{GOU}} </td></td>
+   <td> sturdy,strength </td>
+ </tr>
+ <tr>
+   <td> &#x9676 </td> <td>  1966 </td> <td>   8 </td> <td> @KT{{TOU}} </td></td>
+   <td> pottery,porcelain </td>
+ </tr>
+ <tr>
+   <td> &#x58be </td> <td>  1971 </td> <td>   8 </td> <td> @KT{{KON}} </td></td>
+   <td> ground-breaking,open up farmland </td>
+ </tr>
+ <tr>
+   <td> &#x9a0e </td> <td>  1981 </td> <td>   8 </td> <td> @KT{{KI}} </td></td>
+   <td> equestrian,riding on horses,counter for equestrians </td>
+ </tr>
+ <tr>
+   <td> &#x99d0 </td> <td>  1982 </td> <td>   8 </td> <td> @KT{{CHYUU}} </td></td>
+   <td> stop-over,reside in,resident </td>
+ </tr>
+ <tr>
+   <td> &#x5a20 </td> <td>  2012 </td> <td>   8 </td> <td> @KT{{SHIN}} </td></td>
+   <td> with child,pregnancy </td>
+ </tr>
+ <tr>
+   <td> &#x9b54 </td> <td>  2022 </td> <td>   8 </td> <td> @KT{{MA}} </td></td>
+   <td> witch,demon,evil spirit </td>
+ </tr>
+ <tr>
+   <td> &#x9b45 </td> <td>  2023 </td> <td>   8 </td> <td> @KT{{MI}} </td></td>
+   <td> fascination,charm,bewitch </td>
+ </tr>
+ <tr>
+   <td> &#x6715 </td> <td>  2027 </td> <td>   8 </td> <td> @KT{{CHIN}} </td></td>
+   <td> majestic plural,imperial we </td>
+ </tr>
+ <tr>
+   <td> &#x96f0 </td> <td>  2028 </td> <td>   8 </td> <td> @KT{{HUN}} </td></td>
+   <td> atmosphere,fog </td>
+ </tr>
+ <tr>
+   <td> &#x9075 </td> <td>  2031 </td> <td>   8 </td> <td> @KT{{JUN}} </td></td>
+   <td> abide by,follow,obey,learn </td>
+ </tr>
+ <tr>
+   <td> &#x5c6f </td> <td>  2033 </td> <td>   8 </td> <td> @KT{{TON}} </td></td>
+   <td> barracks,police station,camp </td>
+ </tr>
+ <tr>
+   <td> &#x7483 </td> <td>  2048 </td> <td>   8 </td> <td> @KT{{RI}} </td></td>
+   <td> glassy,lapis lazuli </td>
+ </tr>
+ <tr>
+   <td> &#x74bd </td> <td>  2075 </td> <td>   8 </td> <td> @KT{{JI}} </td></td>
+   <td> emperor's seal </td>
+ </tr>
+ <tr>
+   <td> &#x82af </td> <td>  2368 </td> <td>   8 </td> <td> @KT{{SHIN}} </td></td>
+   <td> wick </td>
+ </tr>
+ <tr>
+   <td> &#x814e </td> <td>  2453 </td> <td>   8 </td> <td> @KT{{JIN}} </td></td>
+   <td> kidney </td>
+ </tr>
+ <tr>
+   <td> &#x817a </td> <td>  2466 </td> <td>   8 </td> <td> @KT{{SEN}} </td></td>
+   <td> gland </td>
+ </tr>
+ <tr>
+   <td> &#x6905 </td> <td>  2480 </td> <td>   8 </td> <td> @KT{{I}} </td></td>
+   <td> chair </td>
+ </tr>
+ <tr>
+   <td> &#x52fa </td> <td>    68 </td> <td>   9 </td> <td> @KT{{SHYAKU}} </td></td>
+   <td> ladle,one tenth of a go,dip </td>
+ </tr>
+ <tr>
+   <td> &#x9291 </td> <td>   270 </td> <td>   9 </td> <td> @KT{{SEN}} </td></td>
+   <td> pig iron </td>
+ </tr>
+ <tr>
+   <td> &#x8fbb </td> <td>   279 </td> <td>   9 </td> <td> @HI{{tsuji}} </td></td>
+   <td> crossing,crossroad,street corners,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x8776 </td> <td>   521 </td> <td>   9 </td> <td> @KT{{CHYOU}} </td></td>
+   <td> butterfly </td>
+ </tr>
+ <tr>
+   <td> &#x7b39 </td> <td>   940 </td> <td>   9 </td> <td> @HI{{sasa}} </td></td>
+   <td> bamboo grass,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x667a </td> <td>  1224 </td> <td>   9 </td> <td> @KT{{CHI}} </td></td>
+   <td> wisdom,intellect,reason </td>
+ </tr>
+ <tr>
+   <td> &#x9e9f </td> <td>  2053 </td> <td>   9 </td> <td> @KT{{RIN}} </td></td>
+   <td> Chinese unicorn,genius,giraffe,bright,shining </td>
+ </tr>
+ <tr>
+   <td> &#x4fe3 </td> <td>  2127 </td> <td>   9 </td> <td> @HI{{mata}} </td></td>
+   <td> crotch,thigh,groin,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x5b8b </td> <td>  2215 </td> <td>   9 </td> <td> @KT{{SOU}} </td></td>
+   <td> dwell,Sung dynasty </td>
+ </tr>
+ <tr>
+   <td> &#x5d1a </td> <td>  2225 </td> <td>   9 </td> <td> @KT{{RYOU}} </td></td>
+   <td> mountains towering in a row </td>
+ </tr>
+ <tr>
+   <td> &#x6d38 </td> <td>  2286 </td> <td>   9 </td> <td> @KT{{KOU}} </td></td>
+   <td> sparkling water </td>
+ </tr>
+ <tr>
+   <td> &#x6d1b </td> <td>  2302 </td> <td>   9 </td> <td> @KT{{RAKU}} </td></td>
+   <td> Kyoto,the capital </td>
+ </tr>
+ <tr>
+   <td> &#x8299 </td> <td>  2361 </td> <td>   9 </td> <td> @KT{{HU}} </td></td>
+   <td> lotus,Mt Fuji </td>
+ </tr>
+ <tr>
+   <td> &#x84c9 </td> <td>  2362 </td> <td>   9 </td> <td> @KT{{YOU}} </td></td>
+   <td> lotus </td>
+ </tr>
+ <tr>
+   <td> &#x83d6 </td> <td>  2366 </td> <td>   9 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> iris </td>
+ </tr>
+ <tr>
+   <td> &#x8549 </td> <td>  2367 </td> <td>   9 </td> <td> @KT{{SHYOU}} </td></td>
+   <td> banana </td>
+ </tr>
+ <tr>
+   <td> &#x8304 </td> <td>  2372 </td> <td>   9 </td> <td> @KT{{KA}} </td></td>
+   <td> eggplant </td>
+ </tr>
+ <tr>
+   <td> &#x8fc2 </td> <td>  2415 </td> <td>   9 </td> <td> @KT{{U}} </td></td>
+   <td> roundabout way </td>
+ </tr>
+ <tr>
+   <td> &#x907c </td> <td>  2419 </td> <td>   9 </td> <td> @KT{{RYOU}} </td></td>
+   <td> distant </td>
+ </tr>
+ <tr>
+   <td> &#x90c1 </td> <td>  2424 </td> <td>   9 </td> <td> @KT{{IKU}} </td></td>
+   <td> cultural progress,perfume </td>
+ </tr>
+ <tr>
+   <td> &#x8154 </td> <td>  2465 </td> <td>   9 </td> <td> @KT{{KOU}} </td></td>
+   <td> body cavity </td>
+ </tr>
+ <tr>
+   <td> &#x698a </td> <td>  2490 </td> <td>   9 </td> <td> @HI{{sakaki}} </td></td>
+   <td> sacred Shinto tree,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x6a2b </td> <td>  2491 </td> <td>   9 </td> <td> @HI{{kashi}} </td></td>
+   <td> evergreen oak,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x7433 </td> <td>  2554 </td> <td>   9 </td> <td> @KT{{RIN}} </td></td>
+   <td> jewel,tinkling of jewelry </td>
+ </tr>
+ <tr>
+   <td> &#x745b </td> <td>  2566 </td> <td>   9 </td> <td> @KT{{EI}} </td></td>
+   <td> sparkle of jewelry,crystal </td>
+ </tr>
+ <tr>
+   <td> &#x73b2 </td> <td>  2568 </td> <td>   9 </td> <td> @KT{{REI}} </td></td>
+   <td> sound of jewels </td>
+ </tr>
+ <tr>
+   <td> &#x7b51 </td> <td>  2637 </td> <td>   9 </td> <td> @KT{{CHIKU}} </td></td>
+   <td> an ancient musical instrument </td>
+ </tr>
+ <tr>
+   <td> &#x7b08 </td> <td>  2644 </td> <td>   9 </td> <td> @KT{{KYUU}} </td></td>
+   <td> backpack bookcase </td>
+ </tr>
+ <tr>
+   <td> &#x7bc7 </td> <td>  2645 </td> <td>   9 </td> <td> @KT{{HEN}} </td></td>
+   <td> volume,chapter,book,editing,compilation </td>
+ </tr>
+ <tr>
+   <td> &#x7c7e </td> <td>  2651 </td> <td>   9 </td> <td> @HI{{momi}} </td></td>
+   <td> unhulled rice,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x7d62 </td> <td>  2664 </td> <td>   9 </td> <td> @KT{{KEN}} </td></td>
+   <td> brilliant fabric design </td>
+ </tr>
+ <tr>
+   <td> &#x8a3b </td> <td>  2727 </td> <td>   9 </td> <td> @KT{{CHYUU}} </td></td>
+   <td> notes,comment,annotate </td>
+ </tr>
+ <tr>
+   <td> &#x9c2f </td> <td>  2813 </td> <td>   9 </td> <td> @HI{{iwashi}} </td></td>
+   <td> sardine,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x9e92 </td> <td>  2840 </td> <td>   9 </td> <td> @KT{{KI}} </td></td>
+   <td> Chinese unicorn,genius,giraffe,bright,shining </td>
+ </tr>
+ <tr>
+   <td> &#x9ebf </td> <td>  2894 </td> <td>   9 </td> <td> @HI{{maro}} </td></td>
+   <td> I,you,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x821c </td> <td>  2915 </td> <td>   9 </td> <td> @KT{{SHYUN}} </td></td>
+   <td> type of morning glory,rose of Sharon,althea </td>
+ </tr>
+ <tr>
+   <td> &#x8d73 </td> <td>  2936 </td> <td>   9 </td> <td> @KT{{KYUU}} </td></td>
+   <td> strong and brave </td>
+ </tr>
+ <tr>
+   <td> &#x83e9 </td> <td>  2957 </td> <td>   9 </td> <td> @KT{{BO}} </td></td>
+   <td> kind of grass,sacred tree </td>
+ </tr>
+ <tr>
+   <td> &#x71d0 </td> <td>  2052 </td> <td> &nbsp; </td> <td> @KT{{RIN}} </td></td>
+   <td> phosphorus </td>
+ </tr>
+ <tr>
+   <td> &#x50d1 </td> <td>  2120 </td> <td> &nbsp; </td> <td> @KT{{KYOU}} </td></td>
+   <td> temporary home </td>
+ </tr>
+ <tr>
+   <td> &#x567a </td> <td>  2176 </td> <td> &nbsp; </td> <td> @HI{{hanashi}} </td></td>
+   <td> talk,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x80f1 </td> <td>  2457 </td> <td> &nbsp; </td> <td> @KT{{KOU}} </td></td>
+   <td> bladder </td>
+ </tr>
+ <tr>
+   <td> &#x809b </td> <td>  2459 </td> <td> &nbsp; </td> <td> @KT{{KOU}} </td></td>
+   <td> anus </td>
+ </tr>
+ <tr>
+   <td> &#x6919 </td> <td>  2528 </td> <td> &nbsp; </td> <td> @HI{{sugi}} </td></td>
+   <td> Japanese cedar,cryptomeria,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x75f0 </td> <td>  2573 </td> <td> &nbsp; </td> <td> @KT{{TAN}} </td></td>
+   <td> sputum,phlegm </td>
+ </tr>
+ <tr>
+   <td> &#x764c </td> <td>  2576 </td> <td> &nbsp; </td> <td> @KT{{GAN}} </td></td>
+   <td> cancer,cancerous evil </td>
+ </tr>
+ <tr>
+   <td> &#x7ad9 </td> <td>  2620 </td> <td> &nbsp; </td> <td> @KT{{TAN}} </td></td>
+   <td> stop,halt </td>
+ </tr>
+ <tr>
+   <td> &#x7d68 </td> <td>  2657 </td> <td> &nbsp; </td> <td> @KT{{JUU}} </td></td>
+   <td> wool cloth </td>
+ </tr>
+ <tr>
+   <td> &#x86cb </td> <td>  2683 </td> <td> &nbsp; </td> <td> @KT{{TAN}} </td></td>
+   <td> barbarian,egg </td>
+ </tr>
+ <tr>
+   <td> &#x92f2 </td> <td>  2763 </td> <td> &nbsp; </td> <td> @HI{{byou}} </td></td>
+   <td> rivet,tack,thumbtack,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x9453 </td> <td>  2767 </td> <td> &nbsp; </td> <td> @HI{{yari}} </td></td>
+   <td> spear,javelin,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x777e </td> <td>  2929 </td> <td> &nbsp; </td> <td> @KT{{KOU}} </td></td>
+   <td> testicles </td>
+ </tr>
+ <tr>
+   <td> &#x7c81 </td> <td>  2946 </td> <td> &nbsp; </td> <td> @KT{{KIROME-TORU}} </td></td>
+   <td> kilometer,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x5678 </td> <td>  2949 </td> <td> &nbsp; </td> <td> @KT{{TON}} </td></td>
+   <td> tonnage,(kokuji) </td>
+ </tr>
+ <tr>
+   <td> &#x617e </td> <td>  2984 </td> <td> &nbsp; </td> <td> @KT{{YOKU}} </td></td>
+   <td> covetousness,greed,passion,desire,craving </td>
+ </tr>
+ <tr>
+   <td> &#x9945 </td> <td>  2998 </td> <td> &nbsp; </td> <td> @KT{{MAN}} </td></td>
+   <td> bean-jam dumpling,manjuu </td>
+ </tr>
+
+<!-- below here are some found by manual inspection -->
+
+<tr> <td> &#x7c21; </td> <td> </td> <td> </td> <td> @KT{{kan}}</td> <td> </td> </tr>
+
 </table>
 
 </body>
