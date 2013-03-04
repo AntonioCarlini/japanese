@@ -93,7 +93,8 @@ def convert_to_hiragana(text)
     :wa => 0x308f, :wi => 0x3090,                :we => 0x3091, :wo => 0x3092,
     :nn => 0x3093,
     # Alternatives below here
-    :ji => 0x3058
+    :ji => 0x3058,
+    :hu => 0x3075,
   }
   three = { :shi => 0x3057, :chi => 0x3061, :tsu => 0x3064 }
   digraph2 = { :ya => 0x3083, :yu => 0x3085, :yo => 0x3087 }
@@ -164,6 +165,15 @@ def convert_to_hiragana(text)
       second = $2.downcase()
       result << jp_unicode(two[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
       current = ""
+    elsif current =~ /^j(a|u|o)$/ix
+      begin
+        second = "y" + $1.downcase()
+        result << jp_unicode(two[:ji]) + jp_unicode(digraph2[second.to_sym()])
+      rescue
+        debug_out("Messed up katakana for [#{first}][#{second}]")
+        raise
+      end
+      current = ""
     elsif current =~ /^(sh|ch|j)(a|u|o)$/
       first = $1 + "i"
       second = "y" + $2
@@ -204,7 +214,6 @@ def convert_to_katakana(text)
     :da => 0x30c0, :di => 0x30c2, :du => 0x30c5, :de => 0x30c7, :do => 0x30c9,
     :na => 0x30ca, :ni => 0x30cb, :nu => 0x30cc, :ne => 0x30cd, :no => 0x30ce,
     :ha => 0x30cf, :hi => 0x30d2, :fu => 0x30d5, :he => 0x30d8, :ho => 0x30db,
-    :hu => 0x30d5, 
     :ba => 0x30d0, :bi => 0x30d3, :bu => 0x30d6, :be => 0x30d9, :bo => 0x30dc,
     :pa => 0x30d1, :pi => 0x30d4, :pu => 0x30d7, :pe => 0x30da, :po => 0x30dd,
     :ma => 0x30de, :mi => 0x30df, :mu => 0x30e0, :me => 0x30e1, :mo => 0x30e2,
@@ -214,6 +223,7 @@ def convert_to_katakana(text)
     :nn => 0x30f3,
     # Alternatives below here
     :ji => 0x30b8,
+    :hu => 0x30d5,
     :shi => 0x30b7, :chi => 0x30c1
   }
   three = { :shi => 0x30b7, :chi => 0x30c1, :tsu => 0x30c4 }
@@ -274,6 +284,15 @@ def convert_to_katakana(text)
       second = $2.downcase()
       begin
         result << jp_unicode(two[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
+      rescue
+        debug_out("Messed up katakana for [#{first}][#{second}]")
+        raise
+      end
+      current = ""
+    elsif current =~ /^j(a|u|o)$/ix
+      begin
+        second = "y" + $1.downcase()
+        result << jp_unicode(two[:ji]) + jp_unicode(digraph2[second.to_sym()])
       rescue
         debug_out("Messed up katakana for [#{first}][#{second}]")
         raise

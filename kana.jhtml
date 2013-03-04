@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td> @HI{{sa}} <br/> sa </td>
-    <td> @HI{{shi}} <br/> si </td>
+    <td> @HI{{shi}} <br/> shi </td>
     <td> @HI{{su}} <br/> su </td>
     <td> @HI{{se}} <br/> se </td>
     <td> @HI{{so}} <br/> so </td>
@@ -64,7 +64,7 @@
     <td> &nbsp; </td>
     <td> @HI{{yu}} <br/> yu </td>
     <td> &nbsp; </td>
-    <td> @HI{{o}} <br/> yo </td>
+    <td> @HI{{yo}} <br/> yo </td>
   </tr>
   <tr>
     <td> @HI{{ra}} <br/> ra </td>
@@ -126,7 +126,7 @@
 
 <table>
   <tr>
-    <td> @HI{{kya}} <br/> kyo </td>
+    <td> @HI{{kya}} <br/> kya </td>
     <td> @HI{{kyu}} <br/> kyu </td>
     <td> @HI{{kyo}} <br/> kyo </td>
   </tr>
@@ -141,12 +141,12 @@
     <td> @HI{{cho}} <br/> cho </td>
   </tr>
   <tr>
-    <td> @HI{{nya}} <br/> nyo </td>
+    <td> @HI{{nya}} <br/> nya </td>
     <td> @HI{{nyu}} <br/> nyu </td>
     <td> @HI{{nyo}} <br/> nyo </td>
   </tr>
   <tr>
-    <td> @HI{{hya}} <br/> hyo </td>
+    <td> @HI{{hya}} <br/> hya </td>
     <td> @HI{{hyu}} <br/> hyu </td>
     <td> @HI{{hyo}} <br/> hyo </td>
   </tr>
@@ -202,7 +202,7 @@
   </tr>
   <tr>
     <td> @KT{{sa}} <br/> sa </td>
-    <td> @KT{{shi}} <br/> si </td>
+    <td> @KT{{shi}} <br/> shi </td>
     <td> @KT{{su}} <br/> su </td>
     <td> @KT{{se}} <br/> se </td>
     <td> @KT{{so}} <br/> so </td>
@@ -240,7 +240,7 @@
     <td> &nbsp; </td>
     <td> @KT{{yu}} <br/> yu </td>
     <td> &nbsp; </td>
-    <td> @KT{{o}} <br/> yo </td>
+    <td> @KT{{yo}} <br/> yo </td>
   </tr>
   <tr>
     <td> @KT{{ra}} <br/> ra </td>
@@ -302,7 +302,7 @@
 
 <table>
   <tr>
-    <td> @KT{{kya}} <br/> kyo </td>
+    <td> @KT{{kya}} <br/> kya </td>
     <td> @KT{{kyu}} <br/> kyu </td>
     <td> @KT{{kyo}} <br/> kyo </td>
   </tr>
@@ -317,42 +317,42 @@
     <td> @KT{{cho}} <br/> cho </td>
   </tr>
   <tr>
-    <td> @KT{{nya}} <br/> nyo </td>
+    <td> @KT{{nya}} <br/> nya </td>
     <td> @KT{{nyu}} <br/> nyu </td>
     <td> @KT{{nyo}} <br/> nyo </td>
   </tr>
   <tr>
-    <td> @KT{{hya}} <br/> hyo </td>
+    <td> @KT{{hya}} <br/> hya </td>
     <td> @KT{{hyu}} <br/> hyu </td>
     <td> @KT{{hyo}} <br/> hyo </td>
   </tr>
   <tr>
-    <td> @KT{{mya}} <br/> myo </td>
+    <td> @KT{{mya}} <br/> mya </td>
     <td> @KT{{myu}} <br/> myu </td>
     <td> @KT{{myo}} <br/> myo </td>
   </tr>
   <tr>
-    <td> @KT{{rya}} <br/> ryo </td>
+    <td> @KT{{rya}} <br/> rya </td>
     <td> @KT{{ryu}} <br/> ryu </td>
     <td> @KT{{ryo}} <br/> ryo </td>
   </tr>
   <tr>
-    <td> @KT{{gya}} <br/> gyo </td>
+    <td> @KT{{gya}} <br/> gya </td>
     <td> @KT{{gyu}} <br/> gyu </td>
     <td> @KT{{gyo}} <br/> gyo </td>
   </tr>
   <tr>
-    <td> @KT{{ja}} <br/> jo </td>
+    <td> @KT{{ja}} <br/> ja </td>
     <td> @KT{{ju}} <br/> ju </td>
     <td> @KT{{jo}} <br/> jo </td>
   </tr>
   <tr>
-    <td> @KT{{bya}} <br/> byo </td>
+    <td> @KT{{bya}} <br/> bya </td>
     <td> @KT{{byu}} <br/> byu </td>
     <td> @KT{{byo}} <br/> byo </td>
   </tr>
   <tr>
-    <td> @KT{{pya}} <br/> pyo </td>
+    <td> @KT{{pya}} <br/> pya </td>
     <td> @KT{{pyu}} <br/> pyu </td>
     <td> @KT{{pyo}} <br/> pyo </td>
   </tr>
