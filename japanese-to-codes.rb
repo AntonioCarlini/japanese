@@ -159,12 +159,12 @@ def convert_to_hiragana(text)
       end
     end
     # Look for the hiragana digraphs
-    if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/
+    if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/ix
       first = ($1 + "i").downcase()
       second = $2.downcase()
       result << jp_unicode(two[first.to_sym()]) + jp_unicode(digraph2[second.to_sym()])
       current = ""
-      elsif current =~ /^(sh|ch)(a|u|o)$/
+    elsif current =~ /^(sh|ch|j)(a|u|o)$/
       first = $1 + "i"
       second = "y" + $2
       begin
@@ -196,7 +196,7 @@ def convert_to_katakana(text)
     :","  => 0x3001, :"." =>  0x3002, "[".to_sym() =>  0x300c, :"]"  => 0x300d
   }
   two = {
-    :ka => 0x30ab, :ki => 0x30ad, :ku => 0x30af, :ke => 0x3051, :ko => 0x3053,
+    :ka => 0x30ab, :ki => 0x30ad, :ku => 0x30af, :ke => 0x30b1, :ko => 0x30b3,
     :ga => 0x30ac, :gi => 0x30ae, :gu => 0x30b0, :ge => 0x30b2, :go => 0x30b4,
     :sa => 0x30b5, :si => 0x30b7, :su => 0x30b9, :se => 0x30bb, :so => 0x30bd,
     :za => 0x30b6, :ji => 0x30b8, :zu => 0x30ba, :ze => 0x30bc, :zo => 0x30be,
@@ -269,7 +269,7 @@ def convert_to_katakana(text)
       end
     end
     # Look for the hiragana digraphs
-    if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/
+    if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/ix
       first = ($1 + "i").downcase()
       second = $2.downcase()
       begin
@@ -279,7 +279,7 @@ def convert_to_katakana(text)
         raise
       end
       current = ""
-      elsif current =~ /^(sh|ch)(a|u|o)$/
+    elsif current =~ /^(sh|ch|j|z)(a|u|o)$/ix
       first = ($1 + "i").downcase()
       second = ("y" + $2).downcase()
       begin
@@ -292,7 +292,7 @@ def convert_to_katakana(text)
     end
 
     if current.length() >= 4
-      puts("BROKEN at #{pos} trying to handle [#{current}]")
+      puts("KATAKANA: BROKEN at #{pos} trying to handle [#{current}]")
       exit
     end
   }
@@ -305,7 +305,7 @@ def display(state, text)
   when HIRAGANA   then return convert_to_hiragana(text)
   when KATAKANA   then return convert_to_katakana(text)
   when KANJI      then return convert_to_kanji(text)
-  else                 raise("No #{state} support yet")
+  else                 raise("No support yet for state [#{state}]")
   end
 end
 
