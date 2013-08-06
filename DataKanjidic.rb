@@ -3,47 +3,13 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
+require 'Kanji.rb'
+
 #+
 # Provide support for reading data from a kanjidic file.
 # The format is described here: http://www.csse.monash.edu.au/~jwb/kanjidic.html.
 # Not all fields are currently supported.
 #-
-
-# Each kanji is represented by one Kanji object
-class Kanji
-
-  attr_reader :english
-  attr_reader :heisig
-  attr_reader :idents
-  attr_reader :jlpt
-  attr_reader :jouyou
-  attr_reader :kunyomi
-  attr_reader :nanori
-  attr_reader :onyomi
-  attr_reader :unicode
-
-  def initialize(heisig, unicode, onyomi, kunyomi, nanori, english, jouyou, jlpt)
-    @heisig = heisig
-    @unicode = unicode
-    @onyomi = onyomi
-    @kunyomi = kunyomi
-    @nanori = nanori
-    @english = english
-    @jouyou = jouyou
-    @jlpt = jlpt
-    @idents = []
-  end
-
-  def grade()
-    @jouyou
-  end
-
-  def add_reading(reading)
-    # Stop if the reading does not show up in onyomi or kunyomi
-    raise("Claimed reading [#{reading}] for [#{@unicode}] is wrong") unless @onyomi.include?(reading) || @kunyomi.include?(reading)
-    @idents << reading
-  end
-end
 
 # Given a unicode japanese kana stream, turn it back into SOMETHING
 
@@ -349,6 +315,7 @@ class DataKanjidic
       unicode = -1
       grade = nil
       heisig = nil
+      jlpt = nil
       nanori = []
       onyomi = []
       kunyomi = []
@@ -359,8 +326,9 @@ class DataKanjidic
         when 'U'  then unicode = entry[1..-1].to_i(16)
         when 'G'  then grade = entry[1..-1].to_i()
         when 'L'  then heisig = entry[1..-1].to_i()
+        when 'J'  then jlpt = entry[1..-1].to_i()
         when /N|B|C|S|H|F|P|K|I|Q|M|E|Y/ then ;
-        when /D|J|X|V|W|O|Z/ then;  # seemingly undocumented
+        when /D|X|V|W|O|Z/ then;  # seemingly undocumented
         when /T/ then  processing_nanori = true
         when '{'  then raise("Bad line at #{line_num}: [#{full_line}]")
         else
@@ -381,7 +349,7 @@ class DataKanjidic
       # Ignore non-Heisig kanji for now
       next if heisig.nil?()
 
-      all_kanji[heisig] = Kanji.new(heisig, unicode, onyomi, kunyomi, nanori, meaning, grade, nil)
+      all_kanji[heisig] = Kanji.new(heisig, unicode, onyomi, kunyomi, nanori, meaning, grade, jlpt)
     }
 
     return all_kanji
