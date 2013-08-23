@@ -1,5 +1,10 @@
 #!/usr/bin/ruby -w
 
+$LOAD_PATH << File.dirname(__FILE__)
+
+require 'DataKanji.rb'
+require 'Kanji.rb'
+
 def debug_out(text)
   #$stderr.puts(text)
 end
@@ -13,6 +18,29 @@ def jp_unicode(x)
   end
 end
 
+$kanji_data = nil
+$kanji_by_keyword = {} # hash of keyword (as symbol) to kanji unicode
+
+def find_kanji_unicode_from_keyword(keyword)
+  # read and process the kanji datafile if needed
+  if $kanji_data.nil?()
+    kanji_data_file = "kanji.data" # Hard code this for now
+    $kanji_data = DataKanji.create_from_file(kanji_data_file)
+    $kanji_data.kanji().each() {
+      |k|
+      k.english().each() {
+        |word|
+        idx = word.downcase()
+        if $kanji_by_keyword[idx].nil?()
+          $kanji_by_keyword[idx] = k
+        end
+      }
+    }
+  end
+
+  k = $kanji_by_keyword[keyword.downcase()]
+  return k.nil?() ? nil : k.unicode()
+end
 
 # :tu => 3063
 # :vu => 3093
@@ -50,17 +78,18 @@ def convert_to_kanji(text)
 
   result = ""
   sep = ""
-  text.split(/[^a-zA-Z]/).each() {
+  text.split(/[^a-zA-Z.]/).each() {
     |word|
     if word.empty?()
       next
-    elsif word !~ /[a-zA-Z]+/
+    elsif word !~ /[a-zA-Z.]+/
       result += sep + word
       sep = " "
     else
       code = kanji[word.downcase().to_sym()]
+      code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
       if code.nil?()
-        result += sep + "!!UNKNOWN KANJI [#{word}]!!"
+        result += sep + "&gt;UNKNOWN KANJI [#{word}]&lt;"
         sep = " "
       else
         result += sep + jp_unicode(code)
