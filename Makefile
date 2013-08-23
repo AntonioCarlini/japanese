@@ -4,6 +4,7 @@ JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
 JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += grammar.jhtml
+JHTML_SRCS += grammar-rashii.jhtml
 JHTML_SRCS += grammar-verb-conjugations.jhtml
 JHTML_SRCS += index.jhtml
 JHTML_SRCS += jpod.jhtml
