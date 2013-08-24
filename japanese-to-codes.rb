@@ -3,6 +3,7 @@
 $LOAD_PATH << File.dirname(__FILE__)
 
 require 'DataKanji.rb'
+require 'DataRefs.rb'
 require 'Kanji.rb'
 
 def debug_out(text)
@@ -18,6 +19,21 @@ def jp_unicode(x)
   end
 end
 
+$ref_data = nil
+def convert_ref(ref)
+  if $ref_data.nil?()
+    ref_data_file = "references.data" # Hard code this for now
+    $ref_data = DataRefs.create_from_file(ref_data_file)
+  end
+  r = $ref_data.refs()[ref]
+  if r.nil?()
+    debug_out("@REF{{#{ref}}} => nil")
+  else
+    debug_out("@REF{{#{ref}}} => [#{r.text()} / #{r.alternate()}]")
+  end
+  return r
+end
+
 $kanji_data = nil
 $kanji_by_keyword = {} # hash of keyword (as symbol) to kanji unicode
 
@@ -30,11 +46,13 @@ def find_kanji_unicode_from_keyword(keyword)
       |k|
       k.english().each() {
         |word|
-        idx = word.downcase()
+        idx = word.upcase()
         if $kanji_by_keyword[idx].nil?()
           $kanji_by_keyword[idx] = k
         end
       }
+      # The first heisig keyword is used as a lowercase key
+      $kanji_by_keyword[k.english().first().downcase()] = k
     }
   end
 
@@ -89,7 +107,7 @@ def convert_to_kanji(text)
       code = kanji[word.downcase().to_sym()]
       code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
       if code.nil?()
-        result += sep + "&gt;UNKNOWN KANJI [#{word}]&lt;"
+        result += sep + "&lt;UNKNOWN KANJI [#{word}]&gt;"
         sep = " "
       else
         result += sep + jp_unicode(code)
@@ -427,6 +445,22 @@ File.open(file, "r").each_line() {
       end
     }
       
+    to_handle.gsub!(/@REF{{(.*?)}}/) {
+      |m|
+      res = ""
+      ident = m.sub(/@REF{{(.*)}}/, '\1')
+      ref = convert_ref(ident)
+      if ref.nil?()
+        res = "&lt;UNKNOWN REF [#{ident}]&gt;"
+      else
+        alt = ref.alternate()
+        res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
+        res += ref.text()
+        res += "</span> "unless alt.nil?() || alt.empty?()
+      end
+      res
+    }
+
     # Handle conversions that may contain embedded conversions
     # Do NOT assume that a valid conversion must be on one line
     # On seeing a start of conversion, behave as for <hiragana> etc.
@@ -457,6 +491,7 @@ File.open(file, "r").each_line() {
       debug_out("CHANGE end-state=#{state} stack-state=#{state_stack.last()}")
     end
 
+    debug_out("Is [#{to_handle}]")
     if to_handle =~ %r{^(.*?)(<nihongo>|<hiragana>|<katakana>|<kanji>|</nihongo>|</hiragana>|</katakana>|</kanji>)(.*)$}
       prefix = $1
       style = $2
