@@ -438,9 +438,11 @@ File.open(file, "r").each_line() {
       when /Vreru/       then "V#{convert_to_hiragana('reru')}"              # potential
       when /Vrareru/     then "V#{convert_to_hiragana('rareru')}"            # passive
       when /Vsaseru/     then "V#{convert_to_hiragana('saseru')}"            # causative
-      when /Ai/          then "A-#{convert_to_hiragana('i')}"                # i-adjective
-      when /Ana/         then "A-#{convert_to_hiragana('na')}"               # na-adjective
-      when /N/           then "N"
+      when /^Ai$/        then "A-#{convert_to_hiragana('i')}"                # i-adjective
+      when /Aistem/      then "A-<del>#{convert_to_hiragana('i')}</del>"     # i-adjective stem
+      when /^Ana$/       then "A-#{convert_to_hiragana('na')}"               # na-adjective
+      when /Anastem/     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
+      when /^N$/         then "N"
       else $stderr.puts("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
       end
     }

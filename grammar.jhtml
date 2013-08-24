@@ -8,8 +8,22 @@
 
 <h1>Grammar</h1>
 
-@HI{{a i u e o ka ki ku ke ko sa shi su se so ta chi tsu te to}}
-@HI{{na ni nu ne no ha hi hu he ho ma mi mu me mo ya yu yo <a href="#hi-ra"> ra </a> ri ru re ro wa wo n}}
+@HI{{a i u e o ka ki ku ke ko
+<a href="#hi-sa"> sa </a>
+shi su se so ta chi tsu
+<a href="#hi-te"> te </a>
+to}}
+@HI{{na ni nu ne no ha hi hu he ho ma mi mu me mo ya yu yo
+<a href="#hi-ra"> ra </a>
+ri ru re ro wa wo n}}
+
+<h2> <a name="hi-te">@HI{{sa}}</a> </h2>
+
+<h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
+
+<h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
+
+<h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
 
 <h2> <a name="hi-ra">@HI{{ra}}</a> </h2>
 
