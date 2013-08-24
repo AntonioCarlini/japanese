@@ -16,6 +16,7 @@ JHTML_SRCS += jpod-lower-intermediate.jhtml
 JHTML_SRCS += jpod-miscellaneous.jhtml
 JHTML_SRCS += jpod-upper-intermediate.jhtml
 JHTML_SRCS += kana.jhtml
+JHTML_SRCS += mnn.jhtml
 JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += study-material.jhtml
 JHTML_SRCS += verbs.jhtml
