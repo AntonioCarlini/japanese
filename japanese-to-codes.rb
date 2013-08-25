@@ -409,6 +409,8 @@ File.open(file, "r").each_line() {
   debug_out("Line #{line_num}")
   debug_out("state is #{state}, line is [#{to_handle}]")
   until to_handle.empty?()
+    orig_to_handle = to_handle.dup()
+
     # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
     to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,7}){{}}/) {
       |type|
@@ -426,6 +428,7 @@ File.open(file, "r").each_line() {
       when /N2/   then "N<sub>2</sub>"
 
       # forms based on those used in Nihongo So-Matome
+      when /^S$/         then "S"                                            # sentence (either plain or polite)
       when /Splain/      then "S<sub>plain</sub>"                            # plain form sentence
       when /Vplain/      then "V<sub>plain</sub>"                            # plain form
       when /Vru/         then "V#{convert_to_hiragana('ru')}"                # dictionary form
@@ -443,7 +446,9 @@ File.open(file, "r").each_line() {
       when /^Ana$/       then "A-#{convert_to_hiragana('na')}"               # na-adjective
       when /Anastem/     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
       when /^N$/         then "N"
-      else $stderr.puts("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
+      else
+        debug_out("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
+        "&lt;UNKNOWN @code [#{$1}]&gt;"
       end
     }
       
@@ -494,6 +499,7 @@ File.open(file, "r").each_line() {
     end
 
     debug_out("Is [#{to_handle}]")
+
     if to_handle =~ %r{^(.*?)(<nihongo>|<hiragana>|<katakana>|<kanji>|</nihongo>|</hiragana>|</katakana>|</kanji>)(.*)$}
       prefix = $1
       style = $2
@@ -534,6 +540,10 @@ File.open(file, "r").each_line() {
     elsif to_handle !~ /}}/
       op.print(display(state, to_handle))
       to_handle = ""
+    end
+
+    if to_handle == orig_to_handle
+      raise("on line #{line_num} to_handle unchanged: [#{to_handle}]")
     end
   end
   op.puts()
