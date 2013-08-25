@@ -74,7 +74,7 @@ class DataRefs
       # Skip commented out lines
       next if line =~ /^ \s+ #/
 
-      fields = line.split(':')
+      fields = line.split('|')
 
       next if fields.nil?()
 
