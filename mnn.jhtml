@@ -1,1464 +1,233 @@
 <html>
 <head>
-<title>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e;</title>
+<title>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 <body>
-<h1>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e;</h1>
+<h1>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}}</h1>
 
-<!-- update TOC as chapters are completed -->
+<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} &#x521d;@KJ{{class}} I</h2>
 
-<div class="toc">
-<h1>Table of Contents</h1>
-<ol>
-</ol>
-<li><a href="#chapter1">Chapter 1</a>
-<li class="h3"><a href="#wa-desu">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{desu}}</a>
-<li><a href="#chapter2">Chapter 2</a>
-<li class="h3"><a href="#kosoado">@HI{{kosoado}} demontratives</a>
-<li class="h3"><a href="#kono-N">@HI{{kono}}N / @HI{{sono}}N / @HI{{ano}}N</a>
-<li class="h3"><a href="#sou-desu">@HI{{sou desu /sou jya arimasenn}}</a>
-<li class="h3"><a href="#ka-ka">S1 @HI{{ka,}} S2 @HI{{ka}}</a>
-<li class="h3"><a href="#N1-no-N2">N<sub>1</sub> @HI{{no}} N<sub>2</sub></a>
-<li class="h3"><a href="#sou-desu-ka">@HI{{sou desu ka}}</a>
-<li><a href="#chapter3">Chapter 3</a>
-<li class="h3"><a href="#kochira">@HI{{koko/soko/asoko/kochira/sochira/achira}}</a>
-<li class="h3"><a href="#doko-dochira">@HI{{doko/dochira}}</a>
-<li><a href="#chapter4">Chapter 4</a>
-<li class="h3"><a href="#time">Time
-<li class="h3"><a href="#masu">V@HI{{masu}}</a>
-<li class="h3"><a href="#masen">@HI{{masu, masenn, mashita, masenn deshita}}</a>
-<li class="h3"><a href="#time-ni">N<sub>time</sub> @HI{{ni}} V</a>
-<li class="h3"><a href="#kara-made">N<sub>1</sub>@HI{{kara}} N@HI{{2}} @HI{{made}}</a>
-<li class="h3"><a href="#ne">S @HI{{ne}}</a>
-<li><a href="#chapter5">Chapter 5</a>
-<li class="h3"><a href="#place-he">N<sub>place</sub> @HI{{he}} @KK{{i}}@HI{{kimasu}}/@KK{{ku}}@HI{{masu}}/
-@KK{{kae}}@HI{{rimasu}}</a>
-<li class="h3"><a href="#mo-negative">interrogative + @HI{{mo}} + negative verb</a>
-<li class="h3"><a href="#vehicle-de">N<sub>vehicle</sub> @HI{{de}} V<sub>motion</motion></a>
-<li class="h3"><a href="#person-to">N<sub>person</sub> or N<sub>animal</sub> @HI{{to}}</a>
-<li class="h3"><a href="#itsu">@HI{{itsu}}</a>
-<li class="h3"><a href="#yo">S @HI{{yo}}</a>
-<li><a href="#chapter6">Chapter 6</a>
-<li class="h3"><a href="#wo-V">N @HI{{wo}} V<sub>transitive</sub></a>
-<li class="h3"><a href="#wo-shimasu">N @HI{{wo shimasu}}</a>
-<li class="h3"><a href="#nani-wo">@HI{{nani wo shimasu ka}}</a>
-<li class="h3"><a href="#nani-vs-nan">@HI{{nani}} and @HI{{nann}}</a></a>
-<li class="h3"><a href="#place-de">N<sub>place</sub> @HI{{he}} v</a>
-<li class="h3"><a href="#masen-ka">V @HI{{masen ka}}</a>
-<li class="h3"><a href="#mashou-ka">V @HI{{mashou ka}}</a>
-<li><a href="#chapter7">Chapter 7</a>
-<li class="h3"><a href="#tool-de">N<sub>tool/means</sub> @HI{{de}}</a>
-<li class="h3"><a href="#word-sentence">Word Sentence</a>
-<li class="h3"><a href="#ni-agemasu">N<sub>person</sub> @HI{{ni arimasu}}</a>
-<li class="h3"><a href="#ni-moraimasu">N<sub>person</sub> ni moraimasu</a>
-<li class="h3"><a href="#mou-V">@HI{{mou>}} V @HI{{mashita}}</a>
-<li><a href="#chapter8">Chapter 8</a>
-<li class="h3"><a href="#adjectives">adjectives</a>
-<li class="h3"><a href="#totemo">@HI{{totemo, amari}}</a>
-<li class="h3"><a href="#dou-desu-ka">N @HI{{ha dou desu ka}}</a>
-<li class="h3"><a href="#donna">N<sub>1</sub> @HI{{donnna}} N<sub>2</sub> @HI{{desu ka}}</a>
-<li class="h3"><a href="#S-ga-S">S<sub>1</sub> @HI{{ga,}} S<sub>2</sub></a>
-<li class="h3"><a href="#dore">@HI{{dore}}</a>
-<li><a href="#chapter9">Chapter 9</a>
-<li class="h3"><a href="#donna-N">@HI{{donna}} N</a>
-<li class="h3"><a href="#daitai">@HI{{yoku}}, @HI{{daitai}} etc.</a>
-<li class="h3"><a href="#S-kara">S<sub>1</sub> @HI{{kara,}} S<sub>2</sub></a>
-<li class="h3"><a href="#doushite">@HI{{doushite}}</a>
-<li><a href="#chapter10">Chapter 10</a>
-<li class="h3"><a href="#existence">Existence: N @HI{{ga arimasu/imasu}}</a>
-<li class="h3"><a href="exist-place">N<sub>place</sub> @HI{{ni}} N<sub>2</sub> 
-@HI{{ga arimasu/imasu}}</a>
-<li class="h3"><a href="#exist-topic">N<sub>1</sub> ni N<sub>2(place)</sub> ga arimasu/imasu</a>
-<li class="h3"><a href="#thing-no-place">N<sub>place,person,thing</sub>@HI{{no}}N<sub>position</sub></a>
-<li class="h3"><a href="#ya">N1 @HI{{ya}} N2</a>
-<li class="h3"><a href="#desu-ka">Word(s) @HI{{desu ka}}</a>
-<li class="h3"><a href="#arimasen-ka">@HI{{arimasenn ka}}</a>
-<li><a href="#chapter11">Chapter 11</a>
-<li class="h3"><a href="#numbers">Numbers</a>
-<li class="h3"><a href="#counters">Counters</a>
-<li class="h3"><a href="#interrogatives">Interrogatives</a>
-<li class="h3"><a href="#kai">Quantifier<sub>period</sub> @HI{{ni ichi kai}} V</a>
-<li class="h3"><a href="#dake">Quantifier @HI{{dake}}/N @HI{{dake}}</a>
-<li><a href="#chapter12">Chapter 12</a>
-<li class="h3"><a href="#na-adj-past">Past Tense of Noun and @HI{{na}}-adjective Sentences</a>
-<li class="h3"><a href="#i-adj-past">Past Tense of @HI{{i}}-adjective Sentences</a>
-<li class="h3"><a href="#yori-adj">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{yori}}
-    adjective @HI{{desu}}</a>
-<li class="h3"><a href="#no-hou-ga">N<sub>1</sub>@HI{{to}} N<sub>2</sub>@HI{{to dochira ga}} adjective @HI{{desu ka.}}</a>
-<li class="h3"><a href="#ichiban">N @HI{{no naka de}} interrogative @HI{{ ga ichibann}}
- adjective @HI{{desu ka.}}</a>
-<li><a href="#chapter13">Chapter 13</a>
-<li class="h3"><a href="#hoshii">N @HI{{ga hoshii desu}}</a>
-<li class="h3"><a href="#tai-desu">-tai desu</a>
-<li class="h3"><a href="#purpose">N<sub>place</sub> @HI{{he}} V-@HI{{masu ni}} V<sub>motion</sub></a>
-<li class="h3"><a href="#goal">N @HI{{ni}} V/N @HI{{wo}} V</a>
-<li class="h3"><a href="#dokoka">@HI{{dokoka/nanika}}</a>
-<!-- unprocessed from here-->
-<li><a href="#chapter14">Chapter 14</a>
-<li class="h3"><a href="">Verb Conjugation</a>
-<li class="h3"><a href="">Verb Groups</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{kudasai}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{imasu}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{mashou ka}}</a>
-<li class="h3"><a href="">S<sub>1</sub> ga, S<sub>2</sub></a>
-<li class="h3"><a href="">N ga V</a>
-<li><a href="#chapter15">Chapter 15</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{mou ii desu}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{ha ikemasen}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{imasu}}</a>
-<li class="h3"><a href="">shirimasen</a>
-<li><a href="#chapter16">Chapter 16</a>
-<li class="h3"><a href="">Connecting Verb Sentences with te-form</a>
-<li class="h3"><a href="">Joining i-adjectives</a>
-<li class="h3"><a href="">Joining N or na-adjectives</a>
-<li class="h3"><a href="">V1-te kara, V2</a>
-<li class="h3"><a href="">N1 ha N2 ga adjective</a>
-<li class="h3"><a href="">douyatte</a>
-<li class="h3"><a href="">dono N</a>
-<li><a href="#chapter17">Chapter 17</a>
-<li class="h3"><a href="">Verb nai form</a>
-<li class="h3"><a href="">naide kudasai</a>
-<li class="h3"><a href="">nakereba narimasen</a>
-<li class="h3"><a href="">nakuta mo ii desu</a>
-<li class="h3"><a href="">N<sub>object</sub>@HI{{ha}}</a>
-<li class="h3"><a href="">N<sub>time</sub>@HI{{made ni}} V</a>
-<li><a href="#chapter18">Chapter 18</a>
-<li class="h3"><a href="">Verb Dictionary Form</a>
-<li class="h3"><a href="">dekimasu</a>
-<li class="h3"><a href="">#3</a>
-<li class="h3"><a href="">#4</a>
-<li class="h3"><a href="">@HI{{nakanaka}}</a>
-<li class="h3"><a href="">@HI{{zehi}}</a>
-<li><a href="#chapter19">Chapter 19</a>
-<li class="h3"><a href="">Verb ta-form</a>
-<li class="h3"><a href="">Verb ta-form kotoga arimasu</a>
-<li class="h3"><a href="">Verb ta-form ri, V ta-form ri shimasu</a>
-<li class="h3"><a href="">narimasu</a>
-<li class="h3"><a href="">sou desu ne</a>
-<li><a href="#chapter20">Chapter 20</a>
-<li class="h3"><a href="#polite-vs-plain">Polite vs Plain Style</a>
-<li class="h3"><a href="#polite-plain-use">Proper Use of Polite and Plain Style</a>
-<li class="h3"><a href="#plain-conversation">Conversation in Plain Style</a>
-<li><a href="#chapter21">Chapter 21</a>
-<li class="h3"><a href="#to-omoimasu">@HI{{to moimasu}}</a>
-<li class="h3"><a href="#to-iimasu">@HI{{to iimasu}}</a>
-<li class="h3"><a href="#deshou">@HI{{deshou}}</a>
-<li class="h3"><a href="#to-be-held">N<sub>place</sub>@HI{{ de}} N<sub>2</sub> @HI{{ga arimasu}}</a>
-<li class="h3"><a href="#occasion">N<occasion> @HI{{de}}</a>
-<li class="h3"><a href="#N-de-mo">N @HI{{de mo}} V</a>
-<li class="h3"><a href="#nai-to">V-@HI{{nai to}}</a>
-<li><a href="#chapter22">Chapter 22</a>
-<li class="h3"><a href="#noun-modification">Noun Modification</a>
-<li class="h3"><a href="#noun-modification-by-sentence">Noun Modification by Sentences</a>
-<li class="h3"><a href="#N-ga-in-modifiers">N @HI{{ga}}</a>
-<li class="h3"><a href="#time-for-doing">V-dictionary @HI{{jikann/yakusoku/youji}}</a>
-<li><a href="#chapter23">Chapter 23</a>
-<li class="h3"><a href="#toki">@HI{{toki}}</a>
-<li class="h3"><a href="#toki-V">@HI{{toki}}</a>
-<li class="h3"><a href="#inevitable-to">@HI{{to}}</a>
-<li class="h3"><a href="#ga-scene">N @HI{{ga}} adjective/V</a>
-<li class="h3"><a href="#wo-passing">N<sub>place</sub> @HI{{wo}} V<sub>movement</sub></a>
-<li><a href="#chapter24">Chapter 24</a>
-<li class="h3"><a href="#kuremasu">@HI{{kuremasu}}</a>
-<li class="h3"><a href="#te-giving">V-@HI{{te}} ... (giving)</a>
-<li class="h3"><a href="">N<sub>person</sub> @HI{{ga}} V</a>
-<li class="h3"><a href="">Interrogative @HI{{ga}} V</a>
-<li><a href="#chapter25">Chapter 25</a>
-<li class="h3"><a href="#past-ra">Plain past ra</a>
-<li class="h3"><a href="#V-ta-ra">V-ta ra</a>
-<li class="h3"><a href="#V-te-mo">V-@HI{{te mo}}</a>
-<li class="h3"><a href="#moshi-ikura">@HI{{moshi}} and @HI{{ikura}}</a>
-<li class="h3"><a href="#subordinate-ga">N @HI{{ga}}</a>
-</div>
-
-<h2><a name="chapter1">Chapter 1</a></h2>
-
-<h3><a name="wa-desu"N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{desu}}</a></h3>
-
-<p>
-N<sub>1</sub> is the topic of the sentence and is marked by @HI{{ha}}. <br/>
-N<sub>2</sub> gives more information about the topic. <br/>
-@HI{{desu}} serves to indicate both assertion and the politeness level. <br/>
-@HI{{desu}} can inflect to indicate negation, past tense or both.
-</p>
-
-<h2><a name="chapter2">Chapter 2</a></h2>
-
-<h3><name="kosoado">@HI{{kosoado}} demontratives</a></h3>
-
-<p>
-@HI{{kore, sore}} and @HI{{are}} are demonstratives and work as nouns.</br>
-@HI{{kore}} refers to things near to the speaker.</br>
-@HI{{sore}} refers to things near to the listener.</br>
-@HI{{are}} refers to things far from both the speaker and the listener.</br>
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{ kore ha nann desu ka. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{ sore ha jisho desu ka.}} </td> </tr>
-  <tr class="jp"> <td> @HI{{ kore wo kudasai.}} </td> </tr>
+<table class="progress">
+<tr>
+  <th> Chapter </th>
+  <th> Vocabulary </th> <th> Grammar </th> <th> Exercises </th> <th> Notes </th>
+</tr>
+<tr>
+  <td class=""> 1 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 2 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 3 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 4 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 5 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 6 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 7 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 8 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 9 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 10 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 11 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 12 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 13 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 14 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 15 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 16 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 17 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 18 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 19 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 20 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 21 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 22 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 23 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 24 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 25 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
 </table>
 
-<h3><a name="kono-N">@HI{{kono}}N / @HI{{sono}}N / @HI{{ano}}N</a></h3>
+<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} &#x521d;@KJ{{class}} II</h2>
 
-<p>
-@HI{{kono, sono}} and @HI{{ano}} are used to modify nouns.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{ kono }} &#x672c @HI{{ ha }}
-             &#x79c1@HI{{no desu.}} </td> </tr>
-  <tr class="jp"> <td> @HI{{ ano kata ha donata desu ka.}} </td> </tr>
+<table class="progress">
+<tr>
+  <th> Chapter </th>
+  <th> Vocabulary </th> <th> Grammar </th> <th> Exercises </th> <th> Notes </th>
+</tr>
+<tr>
+  <td class=""> 26 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 27 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 28 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 29 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 30 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 31 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 32 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 33 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 34 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 35 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 36 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 37 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 38 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 39 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 40 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 41 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 42 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 43 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 44 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 45 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 46 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 47 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 48 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 49 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 50 </td>
+  <td class=""> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td>
+</tr>
 </table>
 
-<h3><a name="sou-desu">@HI{{sou desu /sou jya arimasenn}}</a></h3>
+<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} @KJ{{in}}@KJ{{class}} II</h2>
 
-<p>
-@HI{{sou}} is used to answer a noun sentence in either the affirmative (with @HI{{sou desu}})
-or the negative (with @HI{{sou jya arimasenn}}). An equivalent negative response
-would be to use @KJ{{chiga}}@HI{{masu}}.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ hai, sou desu.}}</td> </tr>
-  <tr class="jp"> <td> &nbsp;</td> </tr>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ iie, sou jya arimasenn.}}</td> </tr>
-  <tr class="jp"> <td> &nbsp;</td> </tr>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{iie, @KJ{{chiga}}imasu.}}</td> </tr>
-</table>
-
-<h3><a name="ka-ka">S1 @HI{{ka,}} S2 @HI{{ka}}</a></h3>
-
-<p>
-This form is used to ask a listener to choose between alternatives S<sub>1</sub> and S<sub>2</sub>.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{ kore ha [9] desu ka, [7] desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ [9] desu}}</td> </tr>
-</table>
-
-<h3><a name="N1-no-N2">N<sub>1</sub> @HI{{no}} N<sub>2</sub></a></h3>
-
-<p>
-There are several meanings for this construction.
-<ol>
-<li> N<sub>1</sub> explains what N<sub>2</sub> is about.
-<li> N<sub>1</sub> explains who owns N<sub>2</sub>.
-</ol>
-</p>
-
-<h3><a name="sou-desu-ka">@HI{{sou desu ka}}</a></h3>
-
-<p>
-This expression is used to show that the speaker has understood some new information.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{ kono kasa ha anatanodesuka. }}</td> </tr>
-  <tr class="jp"> <td> @HI{{ iie, chigaimasu. tanakasannnodesu. }}</td> </tr>
-  <tr class="jp"> <td> @HI{{ sou desu ka. }}</td> </tr>
-</table>
-
-<h2><a name="chapter3">Chapter 3</a></h2>
-
-<h3><a name="kochira">@HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3>
-
-<p>
-@HI{{koko}}, @HI{{soko}} and @HI{{asoko}} refer to a place.</br>
-@HI{{kochira}}, @HI{{sochira}} and @HI{{achira}} are demonstratives
-that refer to a direction. They can also be used to refer to a place, in which case they are considered more
-polite than @HI{{koko}}, @HI{{soko}} and @HI{{asoko}}.
-</p>
-
-<h3><a name="doko-dochira">@HI{{doko/dochira}}</a></h3>
-
-<p>
-@HI{{doko}} means "where" and @HI{{dochira}} means "which direction".
-@HI{{dochira}} can also mean "where", in which case it is more polite than
-@HI{{doko}}. <br/>
-@HI{{doko}} or @HI{{dochira}} are also used to ask the name of a country, school,
-company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
-used for this purpose.
-</p>
-
-<h2><a name="chapter4">Chapter 4</a></h2>
-
-<h3><a name="time">Time</a></h3>
-
-The time is expressed using the counters ? and ?. To ask about the time use @HI{{nann}} with one of these
- counters.
-
-<h3><a name="masu">V@HI{{masu}}</a></h3>
-
-<p>
-A verb in the @HI{{masu}} form functions as a predicate. It also makes the sentence polite.
-</p>
-
-<h3><a name="masen">@HI{{masu, masenn, mashita, masenn deshita}}</a></h3>
-
-The following forms are used to express various constructs in polite speech.
-
-<table class="example">
-  <tr> <th> &nbsp; </th> <th> non-past </th> <th> past </th> </tr>
-  <tr>
-    <td> affirmative </td>
-    <td> ~@HI{{masu}} </td>
-    <td> ~@HI{{mashita}}</td>
-  </tr>
-  <tr>
-    <td> negative </td>
-    <td> ~@HI{{masenn}} </td>
-    <td> ~@HI{{masenn deshita}}</td>
-  </tr>
-</table>
-
-<h3><a name="time-ni">N<sub>time</sub> @HI{{ni}} V</a></h3>
-
-<p>
-When a verb denotes a momentary action or movement, the time is marked with the particle @HI{{ni}}.
-@HI{{ni}} is also used when the noun before it uses a numeral. It can also be used with days of the
-week but it is often omitted in this case.
-</p>
-
-<h3><a name="kara-made">N<sub>1</sub>@HI{{kara}} N@HI{{2}} @HI{{made}}</a></h3>
-
-<p>
-@HI{{kara}} denotes a starting time or place and @HI{{made}} denotes an ending time or place.
-They often occur as a pair.
-</p>
-
-<h3><a name="n1-to-n2">N<sub>1</sub>@HI{{to}} N<sub>2</sub></a></h3>
-
-<p>
-@HI{{to}} links two (or more) nouns as an exhaustive list and is usually translated as "and".
-</p>
-
-<h3><a name="ne">S @HI{{ne}}</a></h3>
-
-<p>
-@HI{{ne}} is attached to the end of a sentence to add feeling to what the speaker says and shows the speaker expects
-the listener to agree. It is often used to confirm or to elicit confirmation.
-</p>
-
-<h2><a name="chapter5">Chapter 5</a></h2>
-
-<h3><a name="place-he">N<sub>place</sub> @HI{{he @KJ{{i}}kimasu/@KJ{{ku}}masu/
-@KJ{{kae}}rimasu}}</a></h3>
-
-<p>
-With a verb of motion, the particle @HI{{he}} is put after the place noun to show the direction
-of the move.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{kyoto <em>he</em> @KJ{{i}}kimasu.}} </td> </tr>
-  <tr class="jp"> <td> @HI{{nihonn <em>he</em> @KJ{{ku}}mashita. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{uchi <em>he</em> @KJ{{kae}}rimasu. }} </td> </tr>
-</table>
-
-<h3><a name="mo-negative">interrogative + @HI{{mo}} + negative verb</a></h3>
-
-<p>
-When an interrogative is followed by the particle @HI{{mo}} and the associated verb is in the
-negative, everything represented by the interrogative is denied.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{doko he mo @KJ{{i}}kimasenn. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{nani mo tabemasenn. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{dare mo imasenn. }} </td> </tr>
-</table>
-
-<h3><a name="vehicle-de">N<sub>vehicle</sub> @HI{{de}} V<sub>motion</motion></a></h3>
-
-<p>
-In this sentence pattern, @HI{{de}} indicates a means of transportation. <br/>
-Note that if you walk somewhere, the expression @HI{{aruite}} is used and the particle
-@HI{{de}} is not used in this case.
-</p>
-
-<h3><a name="person-to">N<sub>person</sub><> or N<sub>animal</sub> @HI{{to}}</a></h3>
-
-<p>
-When an action takes place with a person or animal, that person or animal is marked with the particle @HI{{to}},
-which is translated as "with".
-</p>
-
-<h3><a name="itsu">@HI{{itsu}}</a></h3>
-
-<p>
-@HI{{nann}} is often used to ask about time, but @HI{{itsu}} can also be used to ask when something
-will happen or when something happened. @HI{{itsu}} does not take the particle @HI{{ni}}.
-</p>
-
-<h3><a name="yo">S @HI{{yo}}</a></h3>
-
-<p>
-@HI{{yo}} is used at the end of a sentence to emphasise the information. It can also show that you are expressing
-your views assertively.
-</p>
-
-<h2><a name="chapter6">Chapter 6</a></h2>
-
-<h3><a name="wo-V">N @HI{{wo}} V<sub>transitive</sub></a></h3>
-
-<p>
-The particle @HI{{wo}} is used to mark the object of a transitive verb. Note that a verb that is transitive in
-English is not necessarily transitive in japanese, and vice-versa.
-
-</p>
-
-<h3><a name="wo-shimasu">N @HI{{wo shimasu}}</a></h3>
-
-<p>
-This construction is used to create new verbs: the action denoted by the noun is performed.
-</p>
-
-<h3><a name="nani-wo">@HI{{nani wo shimasu ka}}</a></h3>
-
-<p>
-This expression is used to ask what someone will do. If @HI{{shimasu}} is changed to @HI{{shimashita}}
-then the expression is asking what someone has already done.
-</p>
-
-<h3><a name="nani-vs-nan">@HI{{nani}} and @HI{{nann}}</a></h3>
-
-<p>
-@HI{{nann}} is used:
-<ol>
-<li> before a word whose first mora is in the @HI{{ta}}, @HI{{da}} or @HI{{na}}
-row.
-<li> when it is followed by a counter suffix or similar
-</ol>
-
-In all other cases @HI{{nani}} is used. Note that the kanji is always the same.
-</p>
-
-<h3><a name="place-de">N<sub>place</sub> @HI{{de}} V</a></h3>
-
-<p>
-When @HI{{de}} follows a noun denoting a place, the noun is the place where an action occurs.
-</p>
-
-<h3><a name="masen-ka">V @HI{{masen ka}}<a/></h3>
-
-<p>
-If you wish to invite a listener to do something.
-</p>
-
-<h3><a name="mashou-ka">V @HI{{mashou ka}}</a></h3>
-
-<p>
-This expression is used to invite a listener positively to do something. It is also used when responfding positively to an
-invitation. Note that an invitation using @HI{{masen ka}} shows more consideration for the listener (because it
-anticipates a possible negative reply) and so is considered more polite.
-</p>
-
-<h2><a name="chapter7">Chapter 7</a></h2>
-
-<h3><a name="tool-de">N<sub>tool/means</sub> @HI{{de}}</a></h3>
-
-<p>
-The particle @HI{{de}} indicates a method or a means used for an action.
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{ hashi de tabemasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ nihongo de repo-to wo kakimasu.}} </td> </tr>
-</table>
-
-<h3><a name="word-sentence">Word Sentence</a></h3>
-
-<p>
-To ask how to say a word in an other language use this sentence pattern:
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{[arigatou] ha eigo de nann desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{[}}Thank you@HI{{] desu.}} </td> </tr>
-</table>
-
-<h3><a name="ni-agemasu">N<sub>person</sub> @HI{{ni agemasu}}</a></h3>
-
-<p>
-Verbs such as @HI{{agemasu}}, @HI{{kashimasu}} and @HI{{oshiemasu}} mark the
-person to whom something is given, lent or taught with @HI{{ni}}.
-</p>
-
-<h3><a name="ni-moraimasu">N<sub>person</sub> @HI{{ni moraimasu}}</a></h3>
-
-<p>
-Verbs such as @HI{{moraimasu}}, @HI{{karimasu}} and @HI{{naraimasu}} express
-actions from the point of view of the receiver. With these verbs the agent from whom the action is received is marked
-with the particle @HI{{ni}}.
-</p>
-
-<p>
-@HI{{kara}} is sometimes used instead of @HI{{ni}}. When the agent is an organisation such as
-a school or a company, @HI{{kara}} must be used.
-</p>
-
-<h3><a name="mou-V">@HI{{mou}} V @HI{{mashita}}</a></h3>
-
-<p>
-@HI{{mou}} means already and is used with V@HI{{mashita}} to indicate that an action has
-been completed.
-</p>
-
-<h2><a name="chapter8">Chapter 8</a></h2>
-
-<h3><a name="adjectives">adjectives</a></h3>
-
-<p>
-See <a name="adjectives.html"> the adjectives page</a> for further information.
-</p>
-
-<h3><a name="totemo">@HI{{totemo, amari}}</a></h3>
-
-<p>
-@HI{{totemo}} and @HI{{amari}} are adverbs of degree. They immediately precede the 
-adjectives they modify.
-<br/>
-@HI{{totemo}} means "very" and is used in affirmative sentences.<br/>
-@HI{{amari}} means "not very" and is used in negative sentences.
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @KT{{pekinn}} @HI{{ha <em>totemo</em> @KJ{{samui}}ii desu.}}</td> </tr>
-  <tr class="en"> <td> Beijing is very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{ kore ha <em>totemo</em> @KJ{{arinashi namae}}na
-	@KJ{{utsuru yonkaku}} desu.}}</td> </tr>
-  <tr class="en"> <td> This is a very famous film.</td> </tr>
-  <tr class="jp"> <td> @KT{{shyannhai}} @HI{{ha <em>amari</em> @KJ{{samui}}kunai desu.
-}}</td> </tr>
-  <tr class="en"> <td> Shanghai is not very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{sakura@KJ{{ookii manabu}} ha <em>amari</em>
-  @KJ{{arinashi namae}}na @KJ{{ookii manabu}}jya arimasen.}}</td> </tr>
-  <tr class="en"> <td> </td> </tr>
-</table>
-
-<h3><a name="dou-desu-ka">N @HI{{ha dou desu ka}}</a></h3>
-
-<p>
-This question is used to ask for the listener's impression about a place or a thing.
-</p>
-
-<h3><a name="donna">N<sub>1</sub> @HI{{donnna}} N<sub>2</sub> @HI{{desu ka}}</a></h3>
-
-<p>
-This sentence pattern is used when the speaker wants the listener to describe or explain N<sub>1</sub>.
-N<sub>2</sub> is a category to which N<sub>1</sub> belongs.
-</p>
-
-<h3><a name="S-ga-S">S<sub>1</sub> @HI{{ga,}} S<sub>2</sub></a></h3>
-
-<p>
-@HI{{ga}} is a particle used to link sentences and in this usage means "but".
-</p>
-
-<h3><a name="dore">@HI{{dore}}</a></h3>
-
-<p>
-@HI{{dore}} is an interrogative used to ask the listener to choose one item from a
-set of <em>three</em> or more things.
-</p>
-
-<h2><a name="chapter9">Chapter 9</a></h2>
-
-<h3><a name="donna-N">@HI{{donna}} N</a></h3>
-
-<p>
-@HI{{donna}} is used to ask the listener to name one of a group which N describes.
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{donna@KT{{supotsu}} ga suki desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} ga suki desu.}}</td> </tr>
-</table>
-
-<h3><a name="daitai">@HI{{yoku, daitai}} etc.</a></h3>
-
-<p>
-These adverbs are placed before verbs to modify them.
-</p>
-
-<table>
-<tr> <th>degree</th> <th> adverb + affirmative </th> <th> adverb + negative </th> </tr>
-<tr> <td> high   </td> <td> @HI{{yoku wakarimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> &nbsp; </td> <td> @HI{{daitai wakarimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> low    </td> <td> @HI{{sukoshi wakarimasu}} </td> <td> amari wakarimasenn </td> </tr>
-<tr> <td> &nbsp; </td> <td> &nbsp;</td> <td> zennzenn wakarimasenn </td> </tr>
-</table>
-
-<table>
-<tr> <th>amount</th> <th> adverb + affirmative </th> <th> adverb + negative </th> </tr>
-<tr> <td> large  </td> <td> @HI{{takusann arimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> small  </td> <td> @HI{{sukoshi  arimasu}} </td> <td> amari arimasenn </td> </tr>
-<tr> <td> &nbsp; </td> <td> &nbsp; </td> <td> zennzenn arimasenn </td> </tr>
-</table>
-
-<h3><a name="S-kara">S<sub>1</sub> @HI{{kara,}} S<sub>2</sub></a></h3>
-
-<p>
-@HI{{kara}} connects to sentences and indicates a causal relationship, S<sub>1</sub> is the
-reason for S<sub>2</sub>.
-</p>
-
-<h3><a name="doushite">@HI{{doushite}}</a></h3>
-
-<p>
-@HI{{doushite}} is used to ask a reason for something. The reply should end in @HI{{kara}}.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{doushite asa shinnbunn yomimasenn ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{jikann ga arimasenn kara.}}</td> </tr>
-</table>
-
-<h2><a name="chapter10">Chapter 10</a></h2>
-
-<h3><a name="existence">Existence: N ga @HI{{arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to indicate the existence or presence of a thing or a person. The thing or person
-is treated as the subject and marked with the particle @HI{{ga}}.<br/>
-@HI{{aru}} is used for inanimate or non-moving items; plants fall into this category.<br/>
-@HI{{iru}} is used for animate items, for example people and animals.
-</p>
-
-<h3><a name="exist-place">N<sub>place</sub> @HI{{ni}} N<sub>2</sub>
-@HI{{ga arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to inidcate that N<sub>2</sub> is present at location N<sub>1</sub>.
-</p>
-
-<h3><a name="exist-topic">N<sub>1</sub> @HI{{ha}} N<sub>place</sub>
-@HI{{ni arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to inidcate that N<sub>1</sub> is present at location N<sub>place</sub>.
-</p>
-
-<h3><a name="thing-no-place">N<sub>place,person,thing</sub>@HI{{no}}N<sub>position</sub></a></h3>
-
-<p>
-This sentence pattern is used to indicate where an item is relative to another noun.<br/>
-Some nouns denoting position are:
-@HI{{
-<ol>
-<li> ue
-<li> shita
-<li> mae
-<li> ushiro
-<li> migi
-<li> hidari
-<li> naka
-<li> soto
-<li> tonari
-<li> chikaku
-<li> aida
-</ol>
-}}
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{tsukue ue ni shashinn ga arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{yuubinnkyoku ha ginnkou no tonari arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{eki no chikaku de tomodachi ni aimasu.}}</td> </tr>
-</table>
-
-<p>
-Note that as these are place nouns they can sometimes take the particle @HI{{de}}, as shown
-in the third example sentence.
-</p>
-
-
-<h3><a name="ya">N<sub>1</sub> @HI{{ya}} N<sub>2</sub></a></h3>
-
-<p>
-@HI{{ya}} is used to link nouns in a non-exhaustive list. This is in contrast to
-@HI{{to}} which links nouns in an exhaustive list. Sometimes the last noun is followed by
-@HI{{nado}} to explictly indicate that there some other items not enumerated in the list.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{hako no naka ni tegami ya shashinn ga arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{hako no naka ni tegami ya shashinn nado ga arimasu.}}</td> </tr>
-</table>
-
-<h3><a name="desu-ka">Word(s) @HI{{desu ka}}</a></h3>
-
-<p>
-@HI{{ka}} can be used to confirm using this pattern.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{sumimasenn. @KT{{yunyu-ya sutoa}} ha doko desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{yunyu-ya sutoa}} desu ka. ano
-  @KT{{bitu}} no nako desu.}}</td> </tr>
-</table>
-
-<h3><a name="arimasen-ka">@HI{{arimasenn ka}}</a></h3>
-
-<p>
-By using the negative form @HI{{arimasenn ka}} the speaker is being polite by preparing for a 
-possible negative answer.
-</p>
-
-<h2><a name="chapter11">Chapter 11</a></h2>
-
-<h3><a name="numbers">Numbers</a></h3>
-
-<p>
-These words are used to count the numbers from 1 to 10.
-<table>
-<tr> <td> 1  </td> <td>@HI{{hitotsu}}</td>   <td> @KJ{{ichi}}@HI{{tsu}} </td></tr>
-<tr> <td> 2  </td> <td>@HI{{futatsu}}</td>   <td> @KJ{{ni}}@HI{{tsu}} </td></tr>
-<tr> <td> 3  </td> <td>@HI{{mittsu}}</td>    <td> @KJ{{san}}@HI{{tsu}} </td></tr>
-<tr> <td> 4  </td> <td>@HI{{yottsu}}</td>    <td> @KJ{{yon}}@HI{{tsu}} </td></tr>
-<tr> <td> 5  </td> <td>@HI{{itsutsu}}</td>   <td> @KJ{{go}}@HI{{tsu}} </td></tr>
-<tr> <td> 6  </td> <td>@HI{{muttsu}}</td>    <td> @KJ{{roku}}@HI{{tsu}} </td></tr>
-<tr> <td> 7  </td> <td>@HI{{nanatsu}}</td>   <td> @KJ{{nana}}@HI{{tsu}} </td></tr>
-<tr> <td> 8  </td> <td>@HI{{yattsu}}</td>    <td> @KJ{{hachi}}@HI{{tsu}} </td></tr>
-<tr> <td> 9  </td> <td>@HI{{kokonotsu}}</td> <td> @KJ{{kyuu}}@HI{{tsu}} </td></tr>
-<tr> <td> 10 </td> <td>@HI{{too}}</td>       <td> 10 </td></tr>
-</table>
-
-Elevent and higher are counted using the numbers themselves.
-</p>
-
-<h3><a name="counters">Counters</a></h3>
-
-<p>
-Counter suffixes are used when counting some sorts of things or expressing quantities.
-
-<table>
-<tr> <td> @HI{{ninn}} </td> <td> number of people </td> </tr>
-<tr> <td> @HI{{dai}} </td> <td> number of machines or vehicles </td> </tr>
-<tr> <td> @HI{{mai}} </td> <td> number of thin or flat things </td> </tr>
-<tr> <td> @HI{{kai}} </td> <td> times</td> </tr>
-<tr> <td> @HI{{funn}} </td> <td> minutes  </td> </tr>
-<tr> <td> @HI{{jikann}} </td> <td> hours  </td> </tr>
-<tr> <td> @HI{{nichi}} </td> <td> days  </td> </tr>
-<tr> <td> @HI{{shuukann}} </td> <td> weeks  </td> </tr>
-<tr> <td> @HI{{ka getsu}} </td> <td> months  </td> </tr>
-<tr> <td> @HI{{nenn}} </td> <td> years  </td> </tr>
-</table>
-
-Counters usually follow the noun and particle to which they apply. However, with lengths of time this is not
-always the case.
-</p>
-
-<h3><a name="interrogatives">Interrogatives</a></h3>
-
-<p>
-@HI{{ikutsu}} is used to as "how many" for those things counted with the general counter 
-@HI{{hitotsu}}, @HI{{futotsu}}.<br/>
-@HI{{nann}} is used with a counter suffix to ask "how many".<br/>
-@HI{{donogurai}} is used to ask how long something takes.<br/>
-@HI{{gurai}} is added after a quantifier to mean "about".
-</p>
-
-<h3><a name="#kai">Quantifier<sub>period</sub> @HI{{ni ichi kai}} V</a></h3>
-
-<p>
-With this expression you can say how often you do something.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{1ka getsu ni 2kai eiga wo mimasu.}}</td> </tr>
-</table>
-</p>
-
-<h3><a name="dake">Quantifier @HI{{dake}}/N @HI{{dake}}</a></h3>
-
-<p>
-@HI{{dake}} means "only". It is added after quantifiers or nouns to express
-that there is no more or nothing else.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{@KT{{pawa-}}denki ni gaigokujinn no shain ga
-	hitotsu dake imasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{yasumi ha nichiyoubi dake desu.}}</td> </tr>
-</table>
-</p>
-
-<h2><a name="chapter12">Chapter 12</a></h2>
-
-<h3><a name="#na-adj-past">Past Tense of Noun and na-adjective Sentences</a></h3>
-
-<p>
-See the <a href="adjectives.html">adjectives</a> page.
-</p>
-
-<h3><a name="i-adj-past">Past Tense of @HI{{i}}-adjective Sentences</a></h3>
-
-<p>
-See the <a href="adjectives.html">adjectives</a> page.
-</p>
-
-<h3><a name="yori-adj">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{yori}} adjective 
-@HI{{desu}}</a></h3>
-
-<p>
-This sentence pattern describes the quality or state of N<sub>1</sub> in comparison to N<sub>2</sub>.
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{kono kuruma ha ano kuruma <em>yori</em> @KJ{{ookii}}kii desu.}}</td> </tr>
-</table>
-</p>
-
-<h3><a name="no-hou-ga">N<sub>1</sub>@HI{{to}} N<sub>2</sub>@HI{{to dochira ga}} adjective @HI{{desu ka.}}</a></h3>
-
-<p>
-The question asks the listener to choose between two items; the interrogative @HI{{dochira}} is used
-since two items are invovled.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} to yakyuu to <em>dochira</em> ga omoshiroi 
-	desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} <em>no hou ga</em> omoshiroi desu.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="ichiban">N @HI{{no naka de}} interrogative @HI{{ ga ichibann}}
- adjective @HI{{desu ka.}}</a></h3>
-
-<p>
-This sentence pattern is used to ask the listener to select the "best". The interrogative used depends on the category
-and may be one of @HI{{nani}}, @HI{{doko}}, @HI{{dare}} and
-@HI{{itsu}}.
-
-<table class="sentence">
-  <tr class="jp"> <td>@HI{{nihonn ryouri no naka de nani ga ichibann oishii desu ka.}} </td> </tr>
-  <tr class="jp"> <td>@HI{{tennpura ga ichibann oishii desu.}} </td> </tr>
-  <tr class="jp"> <td>@KT{{E-roppa}} @HI{{de doko ga ichibann yokatta desu ka.}}</td></tr>
-  <tr class="jp"> <td>@KT{{suisu}} @HI{{ga ichibann yokatta desu.}}</td></tr>
-</table>
-</p>
-
-<h2><a name="chapter13">Chapter 13</a></h2>
-
-<h3><a name="hoshii">N @HI{{ga hoshii desu}}</a></h3>
-
-<p>
-This sentence pattern is used to express the speaker's desire to possess an object. It can also be used
-to ask about what the speaker wants. The object is marked with the particle @HI{{ga}}.
-
-<table class="sentence">
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha tomodachi ga hoshii desu.}} </td> </tr>
-<tr class="jp"> <td>@HI{{ima nani ga ichibann hoshii desu ka.}}</td> </tr>
-<tr class="jp"> <td>@HI{{kuruma ga hoshii desu.}}</td></tr>
-</table>
-
-</p>
-
-<h3><a name="tai-desu"> -tai desu</a></h3>
-
-<p>
-The suffix @HI{{tai}} is attached to the @HI{{masu}} stem of a verb to form
-an expression that expresses the speaker's desire to do something. The particle @HI{{wo}} may
-be replaced by the particle @HI{{ga}} (other particles are not replaced). The @HI{{tai}} for conjugates as an @HI{{i}} adjective.
-
-<table class="sentence">
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha okinawa he ikitai desu.}} </td> </tr>
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha tennpura ga tabetai desu.}} </td> </tr>
-<tr class="jp"> <td>@HI{{onaka ga itai desu kara, nanimo tabetakunai desu.}} </td></tr>
-</table>
-</p>
-
-<h3><a name="purpose"> N<sub>place</sub> @HI{{he}} V-@HI{{masu ni}} 
-    V<sub>motion</sub></a></h3>
-
-<p>
-The purpose for the movement is expressed in this sentence pattern.
-
-<table class="sentence">
-<tr class="jp"> <td>@HI{{kobe he @KT{{inndo}} ryouri wo <em>tabe</em> ni ikimasu.}}
-    </td></tr>
-</table>
-
-</p>
-
-<h3><a name="goal">N @HI{{ni}} V/N @HI{{wo}} V</a></h3>
-
-<p>
-<table class="sentence">
-  <tr class="jp"> <tr> <td>@HI{{7ji ni uchi wo demasu.}}</td></tr>
-</table>
-</p>
-
-<h3><a name="dokoka">@HI{{dokoka/nanika}}</a></h3>
-
-<p>
-@HI{{dokoka}} means "anywhere" or "somewhere".<br/>
-@HI{{nanika}} means "anything" or "something".<br/>
-
-<table class="sentence">
-  <tr class="jp"> <td>@HI{{fuyuyasumi ha dokoka he ikimashita ka.}}</td></tr>
-  <tr class="jp"> <td>@HI{{hai, ikimashita.}}</td></tr>
-  <tr class="jp"> <td>@HI{{nodo ga kawakimashita kara, nanika wo nomitaidesu.}}</td></tr>
-</table>
-</p>
-
-<h2><a name="chapter14">Chapter 14</a></h2>
-
-<h3>Verb Conjugation and Verb Groups</h3>
-
-<p>
-Japanese verbs are split into 3 categories:
-<ol>
-<li> @HI{{godann}} verbs
-<li> @HI{{ichidann}} verbs
-<li> irregular verbs (@HI{{suru}} and @HI{{kuru}})
-</ol>
-</p>
-
-<h3>Verb @HI{{te}}-form</h3>
-
-<p>
-The formation of the -@HI{{te}} form of a verb is described elsewhere.
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{kudasai}}</h3>
-
-<p>
-In this sentence pattern the speaker encourages or asks the listener to perform some action.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{sumimasenn, kono kanji no yomikata wo oshiete kudasai.}} </td> </tr>
-<tr class="jp"> <td> @HI{{ koko ni jyuusho to namae wo kiite kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{imasu}}</h3>
-
-<p>
-The form -@HI{{te imasu}} is used to indicate that an action or state is ongoing.
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{mashou ka}}</h3>
-
-<p>
-This sentence pattern is used to frame a question of the form "Shall I ...".
-</p>
-
-<h3>S<sub>1</sub> @HI{{ga,}} S<sub>2</sub></h3>
-
-<p>
-In this sentence pattern, @HI{{ga}} is used to lightly connect S<sub>1</sub> to S<sub>2</sub>.
-</p>
-
-<h3>N @HI{{ga}} V</h3>
-
-<p>
-When describing a natural phenomenon, the subject is indicated by @HI{{ga}}.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{ame ga futte imasu.}} </td> </tr>
-</table>
-</p>
-
-<h2><a name="chapter15">Chapter 15</a></h2>
-
-<h3>Verb @HI{{te}}-form @HI{{mou ii desu}}</h3>
-
-<p>
-This sentence pattern is used to grant permission.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{shashinn wo totte mo ii desu.}} </td> </tr>
-</table>
-With the addition of @HI{{ka}}, this becomes a request for permission.
-<table class="sentence">
-<tr class="jp"> <td> tabako wo sutte mo ii desu ka.</td> </tr>
-</table>
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{ha ikemasenn}}</h3>
-
-<p>
-This sentence pattern is used to express prohibition ("must not do").
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{imasu}}</h3>
-
-<p>
-In addition to other uses, this sentence pattern is used to describe a state that continues in the present
-which results from an action in the past.
-</p>
-
-<p>
-A further use of this form is to express a habitual action, that is, the same action performed repeatedly
-over a period of time.
-</P>
-
-<h3>@HI{{shirimasenn}}</h3>
-
-<p>
-The negative form of @HI{{shitte}} is @HI{{shirimasenn}}. That is, knowing something
-is expressed with the -@HI{{te}} form but not knowing is expressed with the non-past negative.
-</p>
-
-<h2><a name="chapter16">Chapter 16</a></h2>
-
-<h3>Connecting Verb Sentences with -@HI{{te}} form</h3>
-
-<p>
-A further use of the -@HI{{te}} form is to connect together two or more actions that happen
-in succession. The tense of the sentence as a whole is determined by the tense of the final verb.
-</p>
-
-<h3>Joining @HI{{i}}-adjectives</h3>
-
-<p>
-To join an @HI{{i}}-adjective to a subsequent sentence, remove the @HI{{i}} and
-add @HI{{kute}}.
-
-<h3>Joining N or @HI{{na}}-adjectives</h3>
-
-<p>
-When joining a noun N or a @HI{{na}}-adjective to a subsequent sentence, remove the final
-@HI{{desu}} and replace it with @HI{{de}}.
-</p>
-
-<h3>V<sub>1</sub>-@HI{{te kara,}} V<sub>2</sub2></h3>
-
-<p>
-This sentence pattern states that once V<sub>1</sub> has happened, V<sub>2</sub> will happen. The tense of the whole sentence
-is determined by the tense of the final verb.
-<table class="sentence">
-<tr class="jp"> <td> @KT{{konsa-to}}@HI{{ga owatte kara, @KT{{resutorann}}
-      de shokuji shimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3>N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{ga}} adjective</h3>
-
-<p>
-This sentence pattern is used to describe an attribute of a thing or a person.
-N<sub>1</sub> is the topic.
-N<sub>2</sub> is the subject of the adjective's description.
-</p>
-
-<h3>@HI{{douyatte}}</h3>
-
-<p>
-@HI{{douyatte}} is used to ask how to do something.
-</p>
-
-<h3>@HI{{dono}} N</h3>
-
-<p>
-@HI{{dono}} is used to ask the listener to define one item among three or more that are present.
-</p>
-
-<h2><a name="chapter17">Chapter 17</a></h2>
-
-<h3>Verb @HI{{nai}} form</h3>
-
-<p>
-The V-@HI{{nai}} form is also known as the V<sub>1</sub> base.
-</p>
-
-<h3>V<sub>1</sub>@HI{{naide kudasai}}</h3>
-
-<p>
-This form is used to instruct or to ask the listener not to do something.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{koko ni shashinn wo toranaide kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>V<sub>1</sub>@HI{{nakereba narimasen}}</h3>
-
-<p>
-This sentence pattern indicates that something <em>must</em> be done irrespective of the will
-of the actor. There is no negative meaning associated with this expression.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kusuri wo nominakereba narimasenn.}} </td> </tr>
-</table>
-</p>
-</p>
-
-<h3>V<sub>1</sub>@HI{{nakute mo ii desu}}</h3>
-
-<p>
-This sentence indicates that the action described by the verb does not have to be done.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{ashita konakutemo ii desu.}} </td> </tr>
-<tr class="en"> <td> You don't have to come tomorrow.</td> </tr>
-</table>
-</p>
-
-<h3>N<sub>object</sub>@HI{{ha}}</h3>
-
-<p>
-The particle @HI{{wo}} marking a direct object can be replaced with
-@HI{{ha}} if the object is to be made a topic.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{koko ni nimotsu wo okanaide kudasai.}} </td> </tr>
-<tr class="jp"> <td> @HI{{nimotsu ha koko ni okanaide kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>N<sub>time</sub>@HI{{made ni}} V</h3>
-
-<p>
-The point in time marked by @HI{{madeni}} is the time limit by which
-an action is to be completed.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kaigi ha 5ji madeni owarimasu}} </td> </tr>
-<tr class="jp"> <td> @HI{{doyoubi madeni honn wo kaesanakereba narimasenn.}} </td> </tr>
-</table>
-</p>
-<h2><a name="chapter18">Chapter 18</a></h2>
-
-<h3>Verb Dictionary Form</h3>
-
-<p>
-This is the basic form of a verb and is the form in which it will be found in a dictionary. All other forms should
-be regarded as derived from this form (rather than from the @HI{{masu}} form).
-</p>
-
-<h3>@HI{{dekiru}}</h3>
-
-<p>
-@HI{{dekiru}} is the verb which expresses ability or possibility.
-The pattern N @HI{{ga dekiru}} indicates that which is possible. N may be replaced by
-V<sub>3</sub> @HI{{koto}}.
-<table class="sentence">
-<tr class="jp"> <td> @KT{{mira-}}@HI{{sann ha nihongo ga dekimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{kotoshi ha @KT{{suki-}}ga dekimasu.}} </td> </tr>
-<tr class="jp"> <td> @KT{{ka-do}}@HI{{de harau koto ga dekimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3Hobbies</h3>
-
-<p>
-<table class="sentence">
-<tr class="jp"> <td> @HI{{watashi no shumi ha ongaku desu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{watashi no shumi ha ongaku wo kiku koto desu.}} </td> </tr>
-</table>
-</p>
-
-<h3>V<sub>1</sub> @HI{{mae ni,}} V<sub>2</sub></h3>
-
-<p>
-This pattern indicates that V<sub>2</sub> occurs before V<sub>1</sub> happens.
-V<sub>1</sub> may be replaced by N@HI{{no}} or by a quantifier specifying time.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{nihonn he kuru mae ni, nihongo wo benkyou shimashita.}} </td> </tr>
-<tr class="jp"> <td> @HI{{shokuji no mae ni, te wo araimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{tanakasann ha 1jikann mae ni, dekakemashita.}} </td> </tr>
-</table>
-</p>
-
-<h3>@HI{{nakanaka}}</h3>
-
-<p>
-When accompaned by a negative expression, this means "not easily" or "not as expected".
-</p>
-
-<h3>@HI{{zehi}}</h3>
-
-<p>
-@HI{{zehi}} is used with expressions of hope and request and emphasises the meaning of the expression.
-</p>
-
-<h2><a name="chapter19">Chapter 19</a></h2>
-
-<h3>Verb @HI{{ta}}-form</h3>
-
-<p>
-The @HI{{ta}}-form is derived in the same was as the @HI{{te}}-form
-except that @HI{{te}} is replaced by @HI{{ta}}.
-</p>
-
-<h3>Verb @HI{{ta}}-form @HI{{kotoga arimasu}}</h3>
-
-<p>
-This sentence pattern is used to describe an experience that one has already had. It indicates that something
-has been experienced in the past and is subtly different to a sentence stating that an action was performed
-at a specific point in the past.
-</p>
-
-<h3>V @HI{{ta ri,}} V @HI{{ta ri suru}}</h3>
-
-<p>
-This sentence pattern indicates that a number of actions amongst many actions are performed. The tense of
-the sentence depends on the tense of the final verb. It is often translated by "and so on". It differs from
-the use of the @HI{{te}}-form in that there is no implied temporal sequence in the verbs.
-</p>
-
-<h3>@HI{{narimasu}}</h3>
-
-<p>
-@HI{{narimasu}} is appended to an adverb to indicate a change in a state or a condition.
-</p>
-
-<h3>@HI{{sou desu ne}}</h3>
-
-<p>
-@HI{{sou desu ne}} is used to agree with the speaker or to sympathise with the speaker.
-</p>
-
-<h2><a name="chapter20">Chapter 20</a></h2>
-
-<h3><a name="polite-vs-plain">Polite vs Plain Style</a></h3>
-
-<p>
-Japanese language is either in polite style or plain style. The former is characterised by a sentence-final copula in 
-@HI{{desu}} form or a sentence-final verb in @HI{{masu}} form.
-
-<h3><a name="polite-plain-use">Proper Use of Polite and Plain Style</a></h3>
-
-<p>
-Polite style is used for:
-<ol>
-<li> Daily communication between adults who are not close friends.
-<li> Most letters.
-</ol>
-
-The plain style is used for:
-<ol>
-<li> Talking with one's close friends, colleagues and family members.
-<li> Written works such as newspapers, diaries and books.
-</ol>
-</p>
-
-<h3><a name="plain-conversation">Conversation in Plain Style</a></h3>
-
-<p>
-Conversations in plain style have a number of characteristics.
-<ol>
-<li> Questions generally omit @HI{{ka}} and use a rising intonation at the end of the sentence instead.
-<li> In noun and @HI{{na}}-adjective replies @HI{{da}} is usually omitted.
-<li> Certain particles are omitted if the meaning of the sentence is still clear from the context.
-<li> V@HI{{te iru}} often becomes V@HI{{te ru}} (i.e. the @HI{{i}} is dropped.
-<li> @HI{{kedo}} is often used in place of the connective @HI{{ga}}.
-</ol>
-
-</p>
-
-<h2><a name="chapter21">Chapter 21</a></h2>
-
-<h3><a name="to-omoimasu">@HI{{to moimasu}}</a></h3>
-
-<p>
-This construct is used after an expression in the plain form to:
-<ol>
-<li> express conjecture
-<li> express an opinion
-</ol>
-</p>
-
-<h3><a name="to-iimasu">@HI{{to iimasu}}</a></h3>
-
-<p>
-This sentence pattern may be used in two ways.
-<ol>
-<li> To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to iimasu}}.
-<li> To quote indirectly, use the plain form before @HI{{to iimasu}}. The tense of the quoted text is 
-unaffected by the tense of the main sentence.
-</ol>
-</p>
-
-<h3><a name="deshou">@HI{{deshou}}</a></h3>
-
-<p>
-When the speaker expects the listener to have some knowledge of the topic at hand and believes that the
-listener will agree with the speaker's view, @HI{{deshou}} is used with a rising intonation
-to confirm the listener's agreement.
-</p>
-
-<h3><a name="to-be-held">N<sub>place</sub>@HI{{ de}} N<sub>2</sub> @HI{{ga arimasu}}</a></h3>
-
-<p>
-When N<sub>2</sub> is an event or a partyy etc., @HI{{arimasu}} means "to be held" and N<sub>place</sub>
-is where the event will happen.
-</p>
-
-<h3><a name="occasion">N<occasion> @HI{{de}}</a></h3>
-
-<p>
-When an action happens on a certain occasion, the occasion is marked by @HI{{de}}.
-</p>
-
-<h3><a name="N-de-mo">N @HI{{de mo}} V</a></h3>
-
-<p>
-When making a suggestion or advising, @HI{{de mo}} is used to give an example of the
-class of things that could be done.
-</p>
-
-<h3><a name="nai-to">V-@HI{{nai to}}</a></h3>
-
-<p>
-This form is used to express the construct "have to".
-</p>
-
-<h2><a name="chapter22">Chapter 22</a></h2>
-
-<h3><a name="noun-modification">Noun Modification</a></h3>
-
-<p>
-Anything that modifies a noun <em>always</em> precedes that noun.
-</p>
-
-<h3><a name="noun-modification-by-sentence">Noun Modification by Sentences</a></h3>
-
-<p>
-<ol>
-<li> The predicate of the sentence which modifies a noun is in the plain form.
-<li> The noun modified by a sentence can be used in various parts of a new sentence.
-</ol>
-</p>
-<h3><a name="N-ga-in-modifiers">N @HI{{ga}}</a></h3>
-
-<p>
-When a sentence modifies a noun, the subject in that sentence is indicated by @HI{{ga}}.
-</p>
-
-<h3><a name="time-for-doing">V-dictionary @HI{{jikann/yakusoku/youji}}</a></h3>
-
-<p>
-When expressing the time for doing some activity, put the dictionary form of the action before
-@HI{{jikann}}.
-</p>
-
-<h2><a name="chapter23">Chapter 23</a></h2>
-
-<h3><a name="toki">@HI{{toki}}</a></h3>
-
-<p>
-@HI{{toki}} is used to link two sentences and expresses the time when the action described in the
-main sentence occurs.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{toshokann de kariru toki, @KT{{ka-do}}ga irimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{tsuma ga byouki no toki, kaisha wo yasumimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="toki-V">@HI{{toki}}</a></h3>
-
-<p>
-When a dictionary form of a predicate is followed by @HI{{toki}}, it indicates that the action has not been
-completed; when the @HI{{ta}}-form is used, it indicates that the action has been completed.
-</p>
-
-<p>
-Consider these two sentences:
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kuni he kaeru toki, kabann wo kaimashita.}} </td> </tr>
-<tr class="jp"> <td> @HI{{kuni he kaetta toki, kabann wo kaimashita.}} </td> </tr>
-</table>
-In the first sentence, the speaker has not yet reached his destination and that the bag was purchased sometime during the trip.
-In the second sentence, the speaker bought a bag after arriving at the destination.
-</p>
-
-<h3><a name="inevitable-to">V<sub>dictionary</sub> @HI{{to}}</h3>
-
-<p>
-This sentence pattern is used when expressing the idea that a consequence is an inevitable outcome
-of a specified action.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kono @KT{{botann}}osu to, otsuri ga demasu.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="ga-scene">N @HI{{ga}} adjective/V</a></h3>
-
-<p>
-When describing a state or a scene, the subject is indicated by @HI{{ga}}.
-</p>
-
-<h3><a name="wo-passing">N<sub>place</sub> @HI{{wo}} V<sub>movement</sub></a></h3>
-
-<p>
-The particle @HI{{wo}} is used with a verb of movement to indicate the place where a person
-or thing passes.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{koenn wo sannposhimasu.}} </td> </tr>
-</table>
-
-</p>
-
-<h2><a name="chapter24">Chapter 24</a></h2>
-
-<h3><a name="kuremasu">@HI{{kuremasu}}</a></h3>
-
-<p>
-@HI{{ageru}} is used when the speaker gives something to someone else. Hwoever, when the speaker,
-or a member of his family etc., is given something, the verb @HI{{kureru}} is used instead.
-</p>
-
-<h3><a name="te-giving">V-@HI{{te}} ... (giving)</a></h3>
-
-<p>
-<ol>
-<li> V-@HI{{te ageru}} indicates that someone does something for someone else with a sense of goodwill.
-<li> V-@HI{{te morau}} indicates that the speaker receives something with a sense of gratitude.
-<li> V-@HI{{te kureru}} indicates that the speaker receives something with a sense of gratitude.
-</ol>
-</p>
-
-<h3>N<sub>person</sub> @HI{{ga}} V</h3>
-
-<p>
-In reply to a statement or question, the converstaional partner offers new information.
-</p>
-
-
-<h3>Interrogative @HI{{ga}} V</h3>
-
-<h2><a name="chapter25">Chapter 25</a></h2>
-
-<h3><a name="past-ra">Plain past @HI{{ra}}</a></h3>
-
-<p>
-When @HI{{ra}} is attached to the plain past form of a verb, adjective etc., the preceding clause is
-changed into a conditional expression. This pattern is used by the speaker to state an opinion, situation, request etc.
-</p>
-
-<h3><a name="V-ta-ra">V-@HI{{ta ra}}</a></h3>
-
-<p>
-This pattern is used to express that an action will be performed once another action, which is certain to happen in
-the future, has been completed.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{10jini nattara, dekakemashou.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="V-te-mo">V-@HI{{te mo}}</a></h3>
-
-<p>
-This sentence pattern is used to express a reverse condition. It is used when something which was expected
-to happen does not materialise.
-</p>
-
-<h3><a name="moshi-ikura">@HI{{moshi}} and @HI{{ikura}}</a></h3>
-
-<p>
-@HI{{moshi}} is used in a sentence in the plain past form to indicate that the sentence will present
-a condition.
-@HI{{ikura}} is used with -@HI{{te mo}} to do the same.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{moshi 1okuenn attara, iroiro na kuni wo ryokou shitai desu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{ikura kangaetemo, wakarimasenn.}} </td> </tr>
-</table>
-</p>
-</p>
-
-<h3><a name="subordinate-ga">N @HI{{ga}}</a></h3>
-
-<p>
-In subordinate clauses using @HI{{tara}}, @HI{{temo}}, @HI{{toki}},
-@HI{{to}}, @HI{{maeni}} etc., in addition to @HI{{kara}}, the subject
-is marked by @HI{{ga}}.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{tomodachi ga kuru maeni, heya wo souji shimasu.}} </td> </tr>
-</table>
-</p>
+<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} @KJ{{in}}@KJ{{class}} II</h2>
 
 </body>
 </html>
