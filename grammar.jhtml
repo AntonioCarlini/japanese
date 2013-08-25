@@ -8,18 +8,58 @@
 
 <h1>Grammar</h1>
 
-@HI{{a i u e o ka ki ku ke ko
-<a href="#hi-sa"> sa </a>
-shi su se so ta chi tsu
-<a href="#hi-te"> te </a>
-to}}
-@HI{{na ni nu ne no ha hi hu he ho ma mi mu me mo ya yu yo
-<a href="#hi-ra"> ra </a>
-ri ru re ro wa wo n}}
+@HI{{
+a
+i 
+u 
+e 
+o 
 
-<h2> <a name="hi-te">@HI{{sa}}</a> </h2>
+<a href="#hi-ka"> ka </a>
+ki 
+ku 
+ke 
+ko
+
+<a href="#hi-sa"> sa </a>
+shi 
+su 
+se 
+so 
+
+ta 
+chi 
+tsu
+<a href="#hi-te"> te </a>
+to
+}}
+
+@HI{{
+na ni nu ne no
+ha hi hu he ho 
+ma mi mu me mo 
+ya yu yo
+
+<a href="#hi-ra"> ra </a>
+ri 
+ru 
+re 
+ro 
+
+wa 
+wo 
+
+n
+}}
+
+<h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
+
+<h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
+
+<h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
+<h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
