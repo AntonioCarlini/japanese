@@ -1,0 +1,49 @@
+<html>
+
+<head>
+<title>@HI{{sou desu}} (hearsay)</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{sou desu}} (hearsay)</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<li>@Vplain{{}} <strong>@HI{{sou desu}}</strong>
+<li>@Ai{{}} <strong>@HI{{sou desu}}</strong>
+<li>@Anastem{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
+<li>@N{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+This sentence pattern is used to relay information that the speaker has obtained from another source. In using this
+sentence pattern the speaker is not adding his own point of view.
+
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+To specify the source of the information, use N @HI{{ni yoruto}}
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 47).
+<li> @REF{{DOBJG}}. (p 407).
+</ol>
+</p>
+
+</body>
+
+</html>

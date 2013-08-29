@@ -1,0 +1,48 @@
+<html>
+
+<head>
+<title>@HI{{you desu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{you desu}} </h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<li>@Vplain{{}} <strong>@HI{{you desu}}</strong>
+<li>@Ai{{}} <strong>@HI{{you desu}}</strong>
+<li>@Ana{{}} <strong>@HI{{you desu}}</strong>
+<li>@N{{}} @HI{{no}} <strong>@HI{{you desu}}</strong>
+<li>demonstartive <strong>@HI{{you desu}}</strong>
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+This sentence pattern is used to convey the speaker's subjective conjecture based on information
+the speaker directly perceives. The speaker bases his judgement on first-hand reliable
+information, usually visual information.
+
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 47).
+<li> @REF{{DOBJG}}. (p 547).
+</ol>
+</p>
+
+</body>
+
+</html>

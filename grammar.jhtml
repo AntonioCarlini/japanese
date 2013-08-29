@@ -25,7 +25,7 @@ ko
 shi 
 su 
 se 
-so 
+<a href="#hi-so"> so </a>
 
 ta 
 chi 
@@ -38,7 +38,10 @@ to
 na ni nu ne no
 ha hi hu he ho 
 ma mi mu me mo 
-ya yu yo
+
+<a href="#hi-ya"> ya </a>
+<a href="#hi-yu"> yu </a>
+<a href="#hi-yo"> yo </a>
 
 <a href="#hi-ra"> ra </a>
 ri 
@@ -64,6 +67,15 @@ n
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
+
+<h2> <a name="hi-so">@HI{{so}}</a> </h2>
+
+<h3> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a> </h3>
+<h3> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a> </h3>
+
+<h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
+
+<h3> <a href="grammar-you-desu.html"> @HI{{you desu}} </a> </h3>
 
 <h2> <a name="hi-ra">@HI{{ra}}</a> </h2>
 
