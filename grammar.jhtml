@@ -10,7 +10,7 @@
 
 @HI{{
 a
-i 
+<a href="#hi-i"> i  </a>
 u 
 e 
 o 
@@ -55,13 +55,19 @@ wo
 n
 }}
 
+<h2> <a name="hi-i">@HI{{i}}</a> </h2>
+
+<h3> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a> </h3>
+
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
 
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
+<h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
+<h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
@@ -84,6 +90,7 @@ n
 <ol class="toc">
 <li> <a href="adjectives.html"> <span> Adjectives </span> </a>
 <li> <a href="grammar-giving-receiving.html"> <span> Giving &amp; Receiving </span> </a>
+<li> <a href="grammar-phenomenon-senses-ga-suru.html"> <span> Phenomena perceived by the senses </span> </a>
 <li> Passive sentences
 <li> <a href="verbs.html"> <span> Verbs </span> </a>
 </ol>
