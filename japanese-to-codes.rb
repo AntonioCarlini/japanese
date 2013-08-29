@@ -424,6 +424,7 @@ File.open(file, "r").each_line() {
       when /V7/   then "V<sub>#{convert_to_hiragana('ta')}</sub>"
       when /1D/   then "#{convert_to_kanji('ichi dan')}"
       when /5D/   then "#{convert_to_kanji('go dan')}"
+      when /Nplace/   then "N<sub>place</sub>"
       when /N1/   then "N<sub>1</sub>"
       when /N2/   then "N<sub>2</sub>"
 
