@@ -1,0 +1,91 @@
+<html>
+
+<head>
+<title>Giving and Receiving</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Giving and Receiving</h1>
+
+<h2> Formation </h2>
+
+
+<p>
+<dl>
+<dt>(A) A person the speaker considers to be @KT{{soto}} is given something:
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{sashiageru}}</strong> <em>&starf;</em>
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{ageru}}</strong>
+<li><em>giver</em> @HI{{ha}} <em>receiver</em>               @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{yaru}}</strong>
+<p></p>
+<dt>(B) The speaker or a person the speaker considers to be @KT{{uchi}} receives something:
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{itadaku}}</strong> <em>&#x203B;</em>
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{morau}}</strong>
+<p></p>
+<dt>(C) A person the speaker considers to be @KT{{uchi}} is given something:
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{kudasaru}}</strong> <em>&#x203B;</em>
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{kureru}}</strong>
+</p>
+
+&starf; @HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used when showing respect to the receiver.
+<p></p>
+&#x203B; humble form used to show respect to the other party
+<p></p>
+
+<h2> Definition </h2>
+
+@HI{{ageru}} is used when something is given by the speaker, or someone with whom the speaker empathises, to someone not
+part of the speaker's in-group. The giver is the subject and the receiver is marked with @HI{{ni}}.
+<p></p>
+@HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used to show respect to the receiver.
+<p></p>
+@HI{{yaru}} is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
+<p></p>
+
+@HI{{morau}} is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
+be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
+<p></p>
+@HI{{itadaku}} is the humble polite version of @HI{{morau}} used to show respect to the giver.
+<p></p>
+
+@HI{{kureru}} is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
+The giver is the subject and the receiver is marked by @HI{{ni}}.
+<p></p>
+@HI{{kudasaru}} is the honorific polite version of @HI{{morau}} used to show respect to the giver.
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+@HI{{ageru}} requires the speaker's point of view or a neutral point of view, so if the recipient is the speaker or
+part of the speaker's in-group (@KT{{uchi}}) then a conflict arises and the sentence is ungrammatical.
+<p></p>
+
+@HI{{morau}} requires the receiver's point of view. So if the giver is the speaker, a conflict arises. Therefore @HI{{morau}} is only
+used if the giver is not the speaker or part of the speaker's in-group. In the event that the giver is an organisation, @HI{{kara}} is
+more likely to be used.
+<p></p>
+
+@HI{{kureru}} is only used when the receiver is the speaker or someone with whom the speaker empathises. It cannot be used when the
+giver is the speaker or someone with whom the speaker empathises, even if the giver is also such a person; in this case @HI{{ageru}}
+must be used.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-TR-I}}. (Chapter 24).
+<li> @REF{{MNN-TR-I}}. (Chapter 41).
+<li> @REF{{DOBJG}}. (p63).
+<li> @REF{{DOBJG}}. (p261).
+<li> @REF{{DOBJG}}. (p213).
+</ol>
+</p>
+
+</body>
+
+</html>

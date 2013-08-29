@@ -6,6 +6,7 @@ JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += grammar.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-deshou-ka.jhtml
+JHTML_SRCS += grammar-giving-receiving.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-rashii.jhtml
 JHTML_SRCS += grammar-te-miru.jhtml
