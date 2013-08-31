@@ -44,9 +44,17 @@ CSS_SRCS += japanese.css
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
 
+DATA_FILES += kanji.data
+DATA_FILES += references.data
+
+SCRIPT_FILES += japanese-to-codes.rb 
+
+GLOBAL_DEPENDENCIES += $(DATA_FILES)
+GLOBAL_DEPENDENCIES += $(SCRIPT_FILES)
+
 default: $(TARGETS)
 
-$(OUTPUT)/%.html: %.jhtml japanese-to-codes.rb
+$(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< $@
 
