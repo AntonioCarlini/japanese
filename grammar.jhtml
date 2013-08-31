@@ -27,7 +27,7 @@ su
 se 
 <a href="#hi-so"> so </a>
 
-ta 
+<a href="#hi-ta"> ta </a>
 chi 
 tsu
 <a href="#hi-te"> te </a>
@@ -52,8 +52,39 @@ ro
 wa 
 wo 
 
-n
+<a href="#hi-n"> nn </a>
 }}
+
+<p></p>
+
+<a href="#en-A"> A </a>
+<a href="#en-B"> B </a>
+<a href="#en-C"> C </a>
+<a href="#en-D"> D </a>
+<a href="#en-E"> E </a>
+<a href="#en-F"> F </a>
+<a href="#en-G"> G </a>
+<a href="#en-H"> H </a>
+<a href="#en-I"> I </a>
+<a href="#en-J"> J </a>
+<a href="#en-K"> K </a>
+<a href="#en-L"> L </a>
+<a href="#en-M"> M </a>
+<a href="#en-N"> N </a>
+<a href="#en-O"> O </a>
+<a href="#en-P"> P </a>
+<a href="#en-Q"> Q </a>
+<a href="#en-R"> R </a>
+<a href="#en-S"> S </a>
+<a href="#en-T"> T </a>
+<a href="#en-U"> U </a>
+<a href="#en-V"> V </a>
+<a href="#en-W"> W </a>
+<a href="#en-X"> X </a>
+<a href="#en-Y"> Y </a>
+<a href="#en-Z"> Z </a>
+<p></p>
+
 
 <h2> <a name="hi-i">@HI{{i}}</a> </h2>
 
@@ -63,8 +94,12 @@ n
 
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
 
+<h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
+<h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
+
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
+<h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
 <h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
@@ -87,12 +122,24 @@ n
 
 <h3> <a href="grammar-rashii.html"> @HI{{rashii}} </a> </h3>
 
+<h2> <a name="hi-n">@HI{{nn}}</a> </h2>
+<h3> <a href="grammar-n-desu.html"> @HI{{ndesu}} </h3>
+
+<h2> <a name="en-A"> A </a> </h2>
+
+<h3> <a href="adjectives.html"> Adjectives </a> </h3>
+
+<h2> <a name="en-G"> G </a> </h2>
+<h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>
+
+<h2> <a name="en-S"> S </a> </h2>
+<h3> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a> </h3>
+
+<h2> <a name="en-V"> V </a> </h2>
+<h3> <a href="verbs.html"> Verbs </a> </h3>
+
 <ol class="toc">
-<li> <a href="adjectives.html"> <span> Adjectives </span> </a>
-<li> <a href="grammar-giving-receiving.html"> <span> Giving &amp; Receiving </span> </a>
-<li> <a href="grammar-phenomenon-senses-ga-suru.html"> <span> Phenomena perceived by the senses </span> </a>
 <li> Passive sentences
-<li> <a href="verbs.html"> <span> Verbs </span> </a>
 </ol>
 
 
