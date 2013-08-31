@@ -30,9 +30,11 @@ NKZM-N1R       | New Kanzen Master N1 Reading Comprehension |
 DOBJG          | Dictionary of Basic Japanese Grammar |
 DOIJG          | Dictionary of Intermediate Japanese Grammar |
 DOAJG          | Dictionary of Advanced Japanese Grammar |
-MNN-TR-I       | Minna no Nihongo I. Translation &amp; Grammatical Notes |
-MNN-JP-I       | Minna no Nihongo I. Japanese Textbook |
-MNN-TR-II      | Minna no Nihongo II. Translation &amp; Grammatical Notes |
-MNN-JP-II      | Minna no Nihongo II. Japanese Textbook |
-MNN-INT-TR-I   | Minna no Nihongo II. Translation &amp; Grammatical Notes |
-MNN-INT-JP-I   | Minna no Nihongo II. Japanese Textbook |
+MNN-TR-I       | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} I. Translation &amp; Grammatical Notes |
+MNN-JP-I       | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} I. Japanese Textbook |
+MNN-TR-II      | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} II. Translation &amp; Grammatical Notes |
+MNN-JP-II      | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} II. Japanese Textbook |
+MNN-INT-TR-I   | Minna no Nihongo @KJ{{in}}@KJ{{class}} I. Translation &amp; Grammatical Notes |
+MNN-INT-JP-I   | Minna no Nihongo @KJ{{in}}@KJ{{class}} I. Japanese Textbook |
+MNN-INT-TR-II  | Minna no Nihongo @KJ{{in}}@KJ{{class}} II. Translation &amp; Grammatical Notes |
+MNN-INT-JP-II  | Minna no Nihongo @KJ{{in}}@KJ{{class}} II. Japanese Textbook |

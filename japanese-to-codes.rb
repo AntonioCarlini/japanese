@@ -46,13 +46,13 @@ def find_kanji_unicode_from_keyword(keyword)
       |k|
       k.english().each() {
         |word|
-        idx = word.upcase()
+        idx = word.upcase().gsub(' ', "*")
         if $kanji_by_keyword[idx].nil?()
           $kanji_by_keyword[idx] = k
         end
       }
       # The first heisig keyword is used as a lowercase key
-      $kanji_by_keyword[k.english().first().downcase()] = k
+      $kanji_by_keyword[k.english().first().downcase().sub(' ', "*")] = k
     }
   end
 
@@ -96,11 +96,11 @@ def convert_to_kanji(text)
 
   result = ""
   sep = ""
-  text.split(/[^a-zA-Z.]/).each() {
+  text.split(/[^a-zA-Z.*]/).each() {
     |word|
     if word.empty?()
       next
-    elsif word !~ /[a-zA-Z.]+/
+    elsif word !~ /[a-zA-Z.*]+/
       result += sep + word
       sep = " "
     else
