@@ -29,7 +29,7 @@ se
 
 <a href="#hi-ta"> ta </a>
 chi 
-tsu
+<a href="#hi-tsu"> tsu </a>
 <a href="#hi-te"> te </a>
 to
 }}
@@ -97,6 +97,9 @@ wo
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
 
+<h2> <a name="hi-tsu">@HI{{tsu}}</a> </h2>
+<h3> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a> </h3>
+
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
@@ -132,16 +135,15 @@ wo
 <h2> <a name="en-G"> G </a> </h2>
 <h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>
 
+<h2> <a name="en-P"> P </a> </h2>
+<h3> <a href="grammar-passive-verbs.html"> How to make passive verbs </a> </h3>
+<h3> <a href="grammar-use-of-passive.html"> Uses of the passive </a> </h3>
+
 <h2> <a name="en-S"> S </a> </h2>
 <h3> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a> </h3>
 
 <h2> <a name="en-V"> V </a> </h2>
 <h3> <a href="verbs.html"> Verbs </a> </h3>
-
-<ol class="toc">
-<li> Passive sentences
-</ol>
-
 
 </body>
 </html>

@@ -412,8 +412,10 @@ File.open(file, "r").each_line() {
     orig_to_handle = to_handle.dup()
 
     # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
-    to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,7}){{}}/) {
+    to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,7}){{(\w*)}}/) {
       |type|
+      style = $1
+      brkt = $2
       case $1
       when /V1/   then "V<sub>1</sub>"
       when /V2/   then "V<sub>2</sub>"
@@ -425,8 +427,11 @@ File.open(file, "r").each_line() {
       when /1D/   then "#{convert_to_kanji('ichi dan')}"
       when /5D/   then "#{convert_to_kanji('go dan')}"
       when /Nplace/   then "N<sub>place</sub>"
-      when /N1/   then "N<sub>1</sub>"
-      when /N2/   then "N<sub>2</sub>"
+      when /N\d?/  then
+        sub = style[1..-1] # lose first character
+        string = "N<sub>#{sub}</sub>"
+        string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
+        string
 
       # forms based on those used in Nihongo So-Matome
       when /^S$/         then "S"                                            # sentence (either plain or polite)
@@ -446,7 +451,9 @@ File.open(file, "r").each_line() {
       when /Aistem/      then "A-<del>#{convert_to_hiragana('i')}</del>"     # i-adjective stem
       when /^Ana$/       then "A-#{convert_to_hiragana('na')}"               # na-adjective
       when /Anastem/     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
-      when /^N$/         then "N"
+      when /^(HI|KT|KJ|REF)$/
+        # These codes should be left alone ... they'll be handled below
+        string = "@#{style}{{#{brkt}}}"
       else
         debug_out("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
         "&lt;UNKNOWN @code [#{$1}]&gt;"

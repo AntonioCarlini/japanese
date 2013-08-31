@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<title>Passive Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Passive Verbs</h1>
+
+<h2> Formation </h2>
+
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikareru}} </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumareru}} </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}  </td> <td> @HI{{yobareru}} </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}  </td> <td> @HI{{torareru}} </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}    </td> <td> @HI{{iwareru}}  </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}} </td> <td> @HI{{motareru}} </td> </tr>
+</table>
+<p></p>
+
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homerareru}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mirareru}} </td> </tr>
+</table>
+<p></p>
+
+<dt> Irregular verbs:
+<p></p>
+<table>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{korareru}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{sareru}} </td> </tr>
+</table>
+<p></p>
+
+</dl>
+
+<h2> Definition </h2>
+
+@KJ{{five}}@KJ{{grade}} verbs form the passive by taking the @HI{{nai}} stem and adding the
+suffix @HI{{reru}}.
+<p></p>
+
+@KJ{{ichi}}@KJ{{grade}} verbs form the passive by dropping the final @HI{{ru}} and adding the
+suffix @HI{{rareru}}.
+<p></p>
+
+The two irregular verbs conjugate as shown above.
+<p></p>
+
+All passive verbs conjugate into further forms as @KJ{{ichi}}@KJ{{grade}} verbs.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-JP-I}}. (Chapter 37).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

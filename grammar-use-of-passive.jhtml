@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<title>Use of the Passive</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Use of the Passive</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt>(A) Passive sentence:
+<ol>
+<li>@N1{{person}} @HI{{ha}} @N2{{person}} @Vrareru{{}}
+</ol>
+<dt>(B) Suffering passive:
+<ol>
+<li>@N1{{person}} @HI{{ha}} @N2{{person}} @N3{{}} @HI{{wo}} @Vrareru{{}}
+</ol>
+</dl>
+<dt>(C) No subject required:
+<ol>
+<li>@N{{thing}} @HI{{ha/ga}} @N{{person}} @Vrareru{{}}
+</ol>
+</dl>
+<dt>(D) Creation or discovery:
+<ol>
+<li>@N1{{}} @HI{{ha}} @N2{{person}} @HI{{ni yotte}} @Vrareru{{}}
+</ol>
+</dl>
+</p>
+
+<h2> Definition </h2>
+
+When a sentence is stated from the viewpoint of the person towards whom an action is directed,
+sentence pattern A with a passive verb is used. In this case the performer of the action is
+marked by @HI{{ni}}.
+<p></p>
+
+When a person's actions are directed towards an object belonging to a second person, and this
+second person feels troubled or annoyed, sentence pattern B is used.
+<p></p>
+
+When there is no need to mention the person who performs the action denoted by the verb,
+sentence pattern C is often used.
+<p></p>
+
+When something is created or discovered, sentence pattern D can be used.
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 37).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}1@KJ{{day}}@KJ{{eye}})
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
