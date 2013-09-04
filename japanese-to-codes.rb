@@ -412,11 +412,12 @@ File.open(file, "r").each_line() {
     orig_to_handle = to_handle.dup()
 
     # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
-    to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,7}){{(\w*)}}/) {
+    to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,8}){{(\w*)}}/) {
       |type|
       style = $1
       brkt = $2
       case $1
+      when /masustem/ then "<sub><del>#{convert_to_hiragana('masu')}</del></sub>"
       when /V1/   then "V<sub>1</sub>"
       when /V2/   then "V<sub>2</sub>"
       when /V3/   then "V<sub>3</sub>"
