@@ -100,6 +100,7 @@
 
 <h2> <a name="hi-i">@HI{{i}}</a> </h2>
 
+<h3> <a href="grammar-iru.html"> @HI{{te}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a> </h3>
 
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
@@ -114,6 +115,7 @@
 
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
+<h3> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
@@ -135,6 +137,7 @@
 
 <h2> <a name="hi-mo">@HI{{shi}}</a> </h2>
 
+<h3> <a href="grammar-plain-form-shi.html"> @HI{{shi}} ... @HI{{shi}} </a> </h3>
 <h3> <a href="grammar-particle-shika.html"> @HI{{shika}} (particle) </a> </h3>
 
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
