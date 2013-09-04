@@ -9,51 +9,60 @@
 <h1>Grammar</h1>
 
 @HI{{
-a
-<a href="#hi-i"> i  </a>
-u 
-e 
-o 
+<a href="#hi-a">   a   </a>
+<a href="#hi-i">   i   </a>
+<a href="#hi-u">   u   </a>
+<a href="#hi-e">   e   </a>
+<a href="#hi-o">   o   </a>
 
-<a href="#hi-ka"> ka </a>
-ki 
-ku 
-ke 
-ko
+<a href="#hi-ka">  ka  </a>
+<a href="#hi-ki">  ki  </a>
+<a href="#hi-ku">  ku  </a>
+<a href="#hi-ke">  ke  </a>
+<a href="#hi-ko">  ko  </a>
 
-<a href="#hi-sa"> sa </a>
+<a href="#hi-sa">  sa  </a>
 <a href="#hi-shi"> shi </a>
-su 
-se 
-<a href="#hi-so"> so </a>
+<a href="#hi-su">  su  </a>
+<a href="#hi-se">  se  </a>
+<a href="#hi-so">  so  </a>
 
-<a href="#hi-ta"> ta </a>
-chi 
+<a href="#hi-ta">  ta  </a>
+<a href="#hi-chi"> chi </a>
 <a href="#hi-tsu"> tsu </a>
-<a href="#hi-te"> te </a>
-to
+<a href="#hi-te">  te  </a>
+<a href="#hi-to">  to  </a>
 }}
 
 @HI{{
-na ni nu ne no
-ha hi hu 
-<a href="#hi-he"> he </a>
-ho 
-ma mi mu me 
-<a href="#hi-mo"> mo  </a>
+<a href="#hi-na">  na  </a>
+<a href="#hi-ni">  ni  </a>
+<a href="#hi-nu">  nu  </a>
+<a href="#hi-ne">  ne  </a>
+<a href="#hi-no">  no  </a>
+<a href="#hi-ha">  ha  </a>
+<a href="#hi-hi">  hi  </a>
+<a href="#hi-hu">  hu  </a>
+<a href="#hi-he">  he  </a>
+<a href="#hi-ho">  ho  </a>
+<a href="#hi-ma">  ma  </a>
+<a href="#hi-mi">  mi  </a>
+<a href="#hi-mu">  mu  </a>
+<a href="#hi-me">  me  </a>
+<a href="#hi-mo">  mo  </a>
 
-<a href="#hi-ya"> ya </a>
-<a href="#hi-yu"> yu </a>
-<a href="#hi-yo"> yo </a>
+<a href="#hi-ya">  ya  </a>
+<a href="#hi-yu">  yu  </a>
+<a href="#hi-yo">  yo  </a>
 
-<a href="#hi-ra"> ra </a>
-ri 
-ru 
-re 
-ro 
+<a href="#hi-ra">  ra  </a>
+<a href="#hi-ri">  ri  </a>
+<a href="#hi-ru">  ru  </a>
+<a href="#hi-re">  re  </a>
+<a href="#hi-ro">  ro  </a>
 
-wa 
-wo 
+<a href="#hi-wa">  wa  </a>
+<a href="#hi-wo">  wo  </a>
 
 <a href="#hi-n"> nn </a>
 }}
