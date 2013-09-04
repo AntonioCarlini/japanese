@@ -22,7 +22,7 @@ ke
 ko
 
 <a href="#hi-sa"> sa </a>
-shi 
+<a href="#hi-shi"> shi </a>
 su 
 se 
 <a href="#hi-so"> so </a>
@@ -37,7 +37,8 @@ to
 @HI{{
 na ni nu ne no
 ha hi hu he ho 
-ma mi mu me mo 
+ma mi mu me 
+<a href="#hi-mo"> mo  </a>
 
 <a href="#hi-ya"> ya </a>
 <a href="#hi-yu"> yu </a>
@@ -106,16 +107,25 @@ wo
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
 <h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
+<h3> <a href="grammar-dekiru.html"> @HI{{dekiru}} </a> </h3>
 <h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
 
+<h2> <a name="hi-mo">@HI{{shi}}</a> </h2>
+
+<h3> <a href="grammar-particle-shika.html"> @HI{{shika}} (particle) </a> </h3>
+
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
 
 <h3> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a> </h3>
 <h3> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a> </h3>
+
+<h2> <a name="hi-mo">@HI{{mo}}</a> </h2>
+
+<h3> <a href="grammar-particle-mo.html"> @HI{{mo}} (particle) </a> </h3>
 
 <h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
 
@@ -124,6 +134,10 @@ wo
 <h2> <a name="hi-ra">@HI{{ra}}</a> </h2>
 
 <h3> <a href="grammar-rashii.html"> @HI{{rashii}} </a> </h3>
+
+<h2> <a name="hi-wa">@HI{{wa}}</a> </h2>
+
+<h3> <a href="grammar-particle-wa.html"> @HI{{ha}} (particle) </a> </h3>
 
 <h2> <a name="hi-n">@HI{{nn}}</a> </h2>
 <h3> <a href="grammar-n-desu.html"> @HI{{ndesu}} </h3>
@@ -136,8 +150,10 @@ wo
 <h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>
 
 <h2> <a name="en-P"> P </a> </h2>
-<h3> <a href="grammar-passive-verbs.html"> How to make passive verbs </a> </h3>
-<h3> <a href="grammar-use-of-passive.html"> Uses of the passive </a> </h3>
+<h3> <a href="grammar-verb-formation-passive.html"> How to make passive verbs </a> </h3>
+<h3> <a href="grammar-verb-use-of-passive.html"> Uses of the passive </a> </h3>
+<h3> <a href="grammar-verb-formation-potential.html"> How to make potential verbs </a> </h3>
+<h3> <a href="grammar-verb-use-of-potential.html"> Uses of the potential </a> </h3>
 
 <h2> <a name="en-S"> S </a> </h2>
 <h3> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a> </h3>
