@@ -27,6 +27,7 @@ JHTML_SRCS += grammar-te-iru.jhtml
 JHTML_SRCS += grammar-te-itadakemasenka.jhtml
 JHTML_SRCS += grammar-te-kuru.jhtml
 JHTML_SRCS += grammar-te-miru.jhtml
+JHTML_SRCS += grammar-te-shimau.jhtml
 JHTML_SRCS += grammar-tsukuru.jhtml
 JHTML_SRCS += grammar-verb-conjugations.jhtml
 JHTML_SRCS += grammar-verb-formation-passive.jhtml

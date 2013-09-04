@@ -17,16 +17,39 @@
 <h2> Definition </h2>
 
 <strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a customary action.
+<p></p>
+
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a state which is the of the action expressed
+by the verb. If the verb describes an action that can be repeated or continued,
+<strong>@Vte{{}}@HI{{iru}}</strong> expresses the continuation of that action. Otherwise if the
+verb expresses a momentary action, <strong>@Vte{{}}@HI{{iru}}</strong> expresses the idea
+that the action happened and the resulting state continues. Verbs used in this construction
+are intransitive ones.
+<p></p>
 
 <h2> Examples </h2>
 
 <h2> Notes </h2>
+
+When the verb is one of motion, such as @HI{{kuru}} or @HI{{kaeru}}, 
+the meaning is to have performed the motion and its results persist. 
+For example, @HI{{itte iru}} means to have gone somewhere and still be there.
+<p></p>
+
+@HI{{sumu}} requires this sentence pattern if the sentence expresses a continuing state.
+<p></p>
+
+Verbs such as @HI{{iu}} and @HI{{omou}} require this sentence pattern if the subject is the
+third person and the sentence expresses a present state.
+<p></p>
 
 <h2> References </h2>
 
 <p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
+<li> @REF{{MNN-TR-II}}. (Chapter 29).
+<li> @REF{{DOBJG}}. (p 155).
 </ol>
 </p>
 <p></p>
