@@ -12,6 +12,7 @@ JHTML_SRCS += grammar-dekakete-kuru.jhtml
 JHTML_SRCS += grammar-dekiru.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-n-desu.jhtml
+JHTML_SRCS += grammar-particle-e.jhtml
 JHTML_SRCS += grammar-particle-mo.jhtml
 JHTML_SRCS += grammar-particle-shika.jhtml
 JHTML_SRCS += grammar-particle-wa.jhtml

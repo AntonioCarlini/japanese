@@ -1,0 +1,60 @@
+<html>
+
+<head>
+<title>@HI{{he}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{he}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> (A) direction of motion
+<ol>
+<li> @N{{location}} <strong>@HI{{he}}</strong>
+</ol>
+<dt> (B) recipient of an action
+<ol>
+<li> @N{{location}} <strong>@HI{{he}}</strong>
+</ol>
+</dl>
+</p>
+
+<h2> Definition </h2>
+
+
+<strong>@HI{{he}}</strong> is used to indicate the direction in which someone is moving.
+Strictly speaking, @HI{{ni}} indicates the destination.
+<p></p>
+
+<strong>@HI{{he}}</strong> is used to indicate the recipient of an action.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<strong>@HI{{he}}</strong> can always be replaced by @HI{{ni}} except when it is followed by @HI{{no}}.
+
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 28).
+<li> @REF{{AAP}}. (p 60).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

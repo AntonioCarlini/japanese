@@ -36,7 +36,9 @@ to
 
 @HI{{
 na ni nu ne no
-ha hi hu he ho 
+ha hi hu 
+<a href="#hi-he"> he </a>
+ho 
 ma mi mu me 
 <a href="#hi-mo"> mo  </a>
 
@@ -109,6 +111,10 @@ wo
 <h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-dekiru.html"> @HI{{dekiru}} </a> </h3>
 <h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
+
+<h2> <a name="hi-he">@HI{{he}}</a> </h2>
+
+<h3> <a href="grammar-particle-e.html"> @HI{{e}} (particle) </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
