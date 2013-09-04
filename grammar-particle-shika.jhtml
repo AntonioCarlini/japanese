@@ -1,0 +1,51 @@
+<html>
+
+<head>
+<title>@HI{{shika}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{shika}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @N{{}} <strong>@HI{{shika}}</strong> ... V(negative)
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<strong>@HI{{shika}}</strong> follows nouns and quantifiers and is always used with a negative
+predicate. Its function is to highlight the word and express the idea that everything except the
+marked word is negated. It carries a negative nuance.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+When <strong>@HI{{shika}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}},
+<strong>@HI{{shika}}</strong> replaces those particles.
+For all other particles, <strong>@HI{{shika}}</strong> follows them rather than replacing them.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 27).
+<li> @REF{{AAP}}. (p 85).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

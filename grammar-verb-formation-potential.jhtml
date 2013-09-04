@@ -1,0 +1,86 @@
+<html>
+
+<head>
+<title>Potential Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Potential Verbs</h1>
+
+<h2> Formation </h2>
+
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikeru}} </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}} </td> <td> @HI{{oyogeru}} </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumeru}} </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}  </td> <td> @HI{{yoberu}} </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}  </td> <td> @HI{{toreru}} </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}    </td> <td> @HI{{ieru}}  </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}} </td> <td> @HI{{moteru}} </td> </tr>
+</table>
+<p></p>
+
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homerareru}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mirareru}} </td> </tr>
+</table>
+<p></p>
+
+<dt> Irregular verbs:
+<p></p>
+<table>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{korareru}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{dekiru}} </td> </tr>
+</table>
+<p></p>
+
+</dl>
+
+<h2> Definition </h2>
+
+@KJ{{five}}@KJ{{grade}} verbs form the potential by changing the final kana to the @HI{{e}}-row
+and adding the suffix @HI{{ru}}.
+<p></p>
+
+@KJ{{ichi}}@KJ{{grade}} verbs form the potential by dropping the final @HI{{ru}}
+and adding the suffix @HI{{rareru}}. This means that the potential form and
+<a href="grammar-verb-formation-passive.html"> passive form </a> of @KJ{{ichi}}@KJ{{grade}} verbs
+are identical and must be distinguished based on context.
+<p></p>
+
+The two irregular verbs conjugate as shown above.
+<p></p>
+
+All potential verbs conjugate into further forms as @KJ{{ichi}}@KJ{{grade}} verbs.
+<p></p>
+
+@HI{{wakaru}}, which already includes the meaning of possibility withion itself, does not form
+a potential verb.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-JP-II}}. (Chapter 27).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
