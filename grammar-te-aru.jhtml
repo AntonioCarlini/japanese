@@ -1,0 +1,73 @@
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{aru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vte{{}}@HI{{aru}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li><strong>@Vte{{}}@HI{{aru}}</strong>
+</p>
+
+<h2> Definition </h2>
+
+<strong>@Vte{{}}@HI{{aru}}</strong>
+
+<strong>@Vte{{}}@HI{{aru}}</strong> is used as an auxiliary verb with the @HI{{te}}-form.
+This sentence pattern expresses the idea that someone performed an action and the state
+resulting from that action persists until the present time. The agent that performed
+the action is most often omitted, because the agent is unknown, unimportant or obvious.
+<p></p>
+
+
+<h2> Examples </h2>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td> @HI{{mado ga aite aru.}}</td> </tr>
+</table>
+
+<h2> Notes </h2>
+
+The sentence
+<table class="sentence" border=0>
+  <tr class="jp"> <td> @KJ{{window}}@HI{{ga}}@KJ{{open}}@HI{{kete aru.}}</td> </tr>
+</table>
+implies not only that the window is open but that someone opened it.
+<p></p>
+
+The sentence
+<table class="sentence" border=0>
+  <tr class="jp"> <td> @KJ{{window}}@HI{{ga}}@KJ{{open}}@HI{{te iru.}}</td> </tr>
+</table>
+implies only that the window is open, making no inference about how it reached that state.
+<p></p>
+
+Finally, The sentence
+<table class="sentence" border=0>
+  <tr class="jp"> <td> @KJ{{private}}@HI{{ha}}@KJ{{window}}@HI{{wo}}@KJ{{open}}@HI{{kete oku.}}</td> </tr>
+</table>
+indicates that I opened the window for a future purpose.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 76).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

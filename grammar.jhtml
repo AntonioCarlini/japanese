@@ -40,11 +40,13 @@
 <a href="#hi-nu">  nu  </a>
 <a href="#hi-ne">  ne  </a>
 <a href="#hi-no">  no  </a>
+
 <a href="#hi-ha">  ha  </a>
 <a href="#hi-hi">  hi  </a>
 <a href="#hi-hu">  hu  </a>
 <a href="#hi-he">  he  </a>
 <a href="#hi-ho">  ho  </a>
+
 <a href="#hi-ma">  ma  </a>
 <a href="#hi-mi">  mi  </a>
 <a href="#hi-mu">  mu  </a>
@@ -98,23 +100,36 @@
 <p></p>
 
 
+<h2> <a name="hi-i">@HI{{a}}</a> </h2>
+
+<h3> <a href="grammar-aida.html"> @HI{{aida}} </a> </h3>
+<h3> <a href="grammar-amari.html"> @HI{{amari}} </a> </h3>
+<h3> <a href="grammar-aru.html"> @HI{{aru}} </a> </h3>
+<h3> <a href="grammar-ato-de.html"> @HI{{ato de}} </a> </h3>
+
 <h2> <a name="hi-i">@HI{{i}}</a> </h2>
 
-<h3> <a href="grammar-iru.html"> @HI{{te}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a> </h3>
 
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
 
+<h2> <a name="hi-ko">@HI{{ko}}</a> </h2>
+
+<h3> <a href="grammar-goro.html"> @HI{{goro}} </a> </h3>
+
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
+<h3> <a href="grammar-dai.html"> @HI{{dai}} </a> </h3>
+<h3> <a href="grammar-particle-dake.html"> @HI{{dake}} </a> </h3>
 
 <h2> <a name="hi-tsu">@HI{{tsu}}</a> </h2>
 <h3> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a> </h3>
 
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
+<h3> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a> </h3>
 <h3> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
@@ -122,15 +137,25 @@
 <h3> <a href="grammar-te-shimau.html"> @Vte{{}}@HI{{shimau}} </a> </h3>
 <h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-dekiru.html"> @HI{{dekiru}} </a> </h3>
+<h3> <a href="grammar-demo.html"> @HI{{demo}} </a> </h3>
 <h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
+
+<h2> <a name="hi-to">@HI{{to}}</a> </h2>
+
+<h3> <a href="grammar-dou.html"> @HI{{dou}} </a> </h3>
 
 <h2> <a name="hi-na">@HI{{na}}</a> </h2>
 
 <h3> <a href="grammar-nagara.html"> @HI{{nagara}} </a> </h3>
 
+<h2> <a name="hi-ha">@HI{{ha}}</a> </h2>
+
+<h3> <a href="grammar-hazu.html"> @HI{{hazu}} </a> </h3>
+<h3> <a href="grammar-bakari.html"> @HI{{bakari}} </a> </h3>
+
 <h2> <a name="hi-he">@HI{{he}}</a> </h2>
 
-<h3> <a href="grammar-particle-e.html"> @HI{{e}} (particle) </a> </h3>
+<h3> <a href="grammar-particle-e.html"> @HI{{he}} (particle) </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 

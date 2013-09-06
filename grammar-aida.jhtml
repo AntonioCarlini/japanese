@@ -1,0 +1,58 @@
+<html>
+
+<head>
+<title>@HI{{aida}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{aida}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li>@Vte{{}} @HI{{iru}} <strong>@HI{{aida}}</strong>
+<li>@HI{{iru}} <strong>@HI{{aida}}</strong>
+<li>@Ai{{}} <strong>@HI{{aida}}</strong>
+<li>@Ana{{}} <strong>@HI{{aida}}</strong>
+<li>@N{{}} @HI{{no}} <strong>@HI{{aida}}</strong>
+</p>
+
+<h2> Definition </h2>
+
+The <strong>@HI{{aida}}</strong> clause expresses the idea of "while" or "during".
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+The subjects in the <strong>@HI{{aida}}</strong> clause and the main clause can be the same or different.
+If they are different, the subject in the <strong>@HI{{aida}}</strong> clause is marked by @HI{{ga}} and not by @HI{{ha}}.
+<p></p>
+
+The verb before <strong>@HI{{aida}}</strong> is either @Vte{{}}@HI{{iru}} or @HI{{iru}}.
+<p></p>
+
+If the <strong>@HI{{aida}}</strong> clause is followed by @HI{{ni}} then the time span of the main clause
+falls within that of the <strong>@HI{{aida}}</strong> clause. Otherwise the two clauses are expected
+to cover the same span of time.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 67).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

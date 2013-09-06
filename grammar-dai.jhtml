@@ -1,0 +1,57 @@
+<html>
+
+<head>
+<title>@HI{{dai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{dai}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt>(A)
+<ol>
+<li>@Ana{{}} <strong>@HI{{dai}}</strong>
+<li>@N{{}} <strong>@HI{{dai}}</strong>
+</ol>
+<dt>(B)
+<ol>
+<li>@Vplain{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
+<li>@Ai{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
+<li>@Ana{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
+<li>@N{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
+</ol>
+</dl>
+</p>
+
+<h2> Definition </h2>
+
+<strong>@HI{{dai}}</strong> is a sentence-final particle which is used in informal male speech to mark a WH-question.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+When <strong>@HI{{dai}}</strong> is used with a question, it must be an interrogative one: @HI{{kai}} is used with yes-no questions.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 90).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
