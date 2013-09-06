@@ -1,0 +1,82 @@
+<html>
+
+<head>
+<title>Potential Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Conditional Verbs</h1>
+
+<h2> Formation </h2>
+
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikeba}} </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}} </td> <td> @HI{{oyogeba}} </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumeba}} </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}  </td> <td> @HI{{yobeba}} </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}  </td> <td> @HI{{toreba}} </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}    </td> <td> @HI{{ieba}}  </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}} </td> <td> @HI{{moteba}} </td> </tr>
+</table>
+<p></p>
+
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homereba}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mireba}} </td> </tr>
+</table>
+<p></p>
+
+<dt> Irregular verbs:
+<p></p>
+<table>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kureba}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{sureba}} </td> </tr>
+</table>
+<p></p>
+
+<dt> Adjectives and nouns:
+<table>
+<tr> <td> @Ai{{}}       </td> <td> @Aistem{{}}@HI{{kereba}} </td> </tr>
+<tr> <td> @Anastem{{}}  </td> <td> @Anastem{{}}@HI{{nara}} </td> </tr>
+<tr> <td> @N{{}}        </td> <td> @N{{}}@HI{{nara}} </td> </tr>
+</table></dl>
+
+<h2> Definition </h2>
+
+@KJ{{five}}@KJ{{grade}} verbs form the conditional by changing the final kana to the @HI{{e}}-row
+and adding the suffix @HI{{ba}}.
+<p></p>
+
+@KJ{{ichi}}@KJ{{grade}} verbs form the conditional by dropping the final @HI{{ru}}
+and adding the suffix @HI{{reba}}.
+<p></p>
+
+The two irregular verbs conjugate as shown above.
+<p></p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-JP-II}}. (Chapter 35).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
