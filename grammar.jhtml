@@ -190,6 +190,7 @@
 <h3> <a href="grammar-goro.html"> @HI{{goro}} </a> </h3>
 
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
+<h3> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a> </h3>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
 <h3> <a href="grammar-dai.html"> @HI{{dai}} </a> </h3>
 <h3> <a href="grammar-particle-dake.html"> @HI{{dake}} </a> </h3>
@@ -218,8 +219,13 @@
 
 <h3> <a href="grammar-nagara.html"> @HI{{nagara}} </a> </h3>
 
+<h2> <a name="hi-ni">@HI{{ni}}</a> </h2>
+
+<h3> <a href="grammar-purpose-ni.html"> <em>purpose</em> @HI{{ni}} </a> </h3>
+
 <h2> <a name="hi-ha">@HI{{ha}}</a> </h2>
 
+<h3> <a href="grammar-quantifier-wa.html"> <em>quantifier</ha> @HI{{ha}} </a> </h3>
 <h3> <a href="grammar-hazu.html"> @HI{{hazu}} </a> </h3>
 <h3> <a href="grammar-ba-hodo.html"> @HI{{ba}} ... @HI{{hodo}} </a> </h3>
 <h3> <a href="grammar-bakari.html"> @HI{{bakari}} </a> </h3>
@@ -232,7 +238,7 @@
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
 
-<h2> <a name="hi-mo">@HI{{shi}}</a> </h2>
+<h2> <a name="hi-shi">@HI{{shi}}</a> </h2>
 
 <h3> <a href="grammar-plain-form-shi.html"> @HI{{shi}} ... @HI{{shi}} </a> </h3>
 <h3> <a href="grammar-particle-shika.html"> @HI{{shika}} (particle) </a> </h3>
@@ -247,6 +253,7 @@
 <h2> <a name="hi-mo">@HI{{mo}}</a> </h2>
 
 <h3> <a href="grammar-particle-mo.html"> @HI{{mo}} (particle) </a> </h3>
+<h3> <a href="grammar-quantifier-mo.html"> <em>quantifier</em> @HI{{mo}} </a> </h3>
 
 <h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
 
