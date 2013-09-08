@@ -412,7 +412,7 @@ File.open(file, "r").each_line() {
     orig_to_handle = to_handle.dup()
 
     # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
-    to_handle.gsub!(/@([[:alpha:]|[0-9]]{1,8}){{(\w*)}}/) {
+    to_handle.gsub!(/@([a-zA-Z0-9]{1,8})\{\{(\w*)\}\}/) {
       |type|
       style = $1
       brkt = $2
@@ -461,10 +461,10 @@ File.open(file, "r").each_line() {
       end
     }
       
-    to_handle.gsub!(/@REF{{(.*?)}}/) {
+    to_handle.gsub!(/@REF\{\{(.*?)\}\}/) {
       |m|
       res = ""
-      ident = m.sub(/@REF{{(.*)}}/, '\1')
+      ident = m.sub(/@REF\{\{(.*)\}\}/, '\1')
       ref = convert_ref(ident)
       if ref.nil?()
         res = "&lt;UNKNOWN REF [#{ident}]&gt;"
@@ -481,7 +481,7 @@ File.open(file, "r").each_line() {
     # Do NOT assume that a valid conversion must be on one line
     # On seeing a start of conversion, behave as for <hiragana> etc.
     # Do not allow mixing of new style and old style
-    if to_handle =~ %r{^([^{}]*?)(@([[:alpha:]|[0-9]]{2}){{|}})(.*)$}
+    if to_handle =~ %r{^([^\{\}]*?)(@([a-zA-Z0-9]{2})\{\{|\}\})(.*)$}
       prefix = $1
       full_match = $2
       action = $3
@@ -546,7 +546,7 @@ File.open(file, "r").each_line() {
       state = state_stack.pop() if style[0,2] == "</"
 
       debug_out("CHANGE end-state=#{state} stack-state=#{state_stack.last()}")
-    elsif to_handle !~ /}}/
+    elsif to_handle !~ /\}\}/
       op.print(display(state, to_handle))
       to_handle = ""
     end
