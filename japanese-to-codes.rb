@@ -52,7 +52,13 @@ def find_kanji_unicode_from_keyword(keyword)
         end
       }
       # The first heisig keyword is used as a lowercase key
-      $kanji_by_keyword[k.english().first().downcase().sub(' ', "*")] = k
+      kwd = k.english().first().downcase().sub(' ', "*")
+      if $kanji_by_keyword[kwd] != nil
+        oh = $kanji_by_keyword[kwd].heisig()
+        $stderr.puts("WARNING: seen [#{kwd}] again; this for [#{k.heisig()}], already stored for [#{oh}]") unless k.heisig() > 2042
+      else
+        $kanji_by_keyword[kwd] = k
+      end
     }
   end
 

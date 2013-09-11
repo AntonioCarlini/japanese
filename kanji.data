@@ -27,7 +27,7 @@
    27 :  0x65ed : asahi :  KYOKU :  asahi :  akira aki teru hi :  {rising sun} {morning sun} :  9 :  1
    28 :  0x4e16 : sanjuu :  SEI SE SOU :  yo sanjuu :  toshi yu yuki :  {generation} {world} {society} {public} :  3 :  3
    29 :  0x80c3 :  :  I :   :   :  {stomach} {paunch} {crop} {craw} :  4 :  2
-   30 :  0x65e6 : akira tadashi :  TAN DAN :  aki.raka akira tadashi asa ashita :   :  {daybreak} {dawn} {morning} :  8 :  1
+   30 :  0x65e6 : akira tadashi :  TAN DAN :  aki.raka akira tadashi asa ashita :   :  {nightbreak} {daybreak} {dawn} {morning} :  8 :  1
    31 :  0x80c6 :  :  TAN :  kimo :  i makoto :  {gall bladder} {courage} {pluck} {nerve} :  8 :  1
    32 :  0x4e98 :  :  KOU KAN :  wata.ru moto.meru :  sen nobu touru wataru hisashi :  {span} {request} :  9 :  1
    33 :  0x51f9 : boko heko.mu :  OU :  kubo.mu heko.mu boko :   :  {concave} {hollow} {sunken} :  8 :  1
@@ -213,8 +213,8 @@
   213 :  0x66a6 : koyomi ryaku :  REKI :  koyomi ryaku :   :  {calendar} {almanac} :  8 :  1
   214 :  0x6848 :  :  AN :  tsukue :   :  {plan} {suggestion} {draft} {ponder} {fear} {proposition} {idea} {expectation} {worry} {table} {bench} :  4 :  2
   215 :  0x71e5 : hashya.gu :  SOU :  hashya.gu :   :  {parch} {dry up} :  8 :  2
-  216 :  0x672a : ima.da ma.da :  MI BI :  ima.da ma.da hitsuji :   :  {un-} {not yet} {hitherto} {still} {even now} {sign of the ram} {1-3PM} {eighth sign of Chinese zodiac} :  4 :  2
-  217 :  0x672b : sue :  MATSU BATSU :  sue :   :  {end} {close} {tip} {powder} {posterity} :  4 :  2
+  216 :  0x672a : ima.da ma.da :  MI BI :  ima.da ma.da hitsuji :   :  {not yet} {un-} {hitherto} {still} {even now} {sign of the ram} {1-3PM} {eighth sign of Chinese zodiac} :  4 :  2
+  217 :  0x672b : sue :  MATSU BATSU :  sue :   :  {extremity} {end} {close} {tip} {powder} {posterity} :  4 :  2
   218 :  0x6cab : shibuki :  MATSU BATSU :  awa shibuki tsubaki :   :  {splash} {suds} :  9 :  
   219 :  0x5473 : aji.wau :  MI :  aji aji.wau :   :  {flavor} {taste} :  3 :  3
   220 :  0x59b9 : imouto :  MAI :  imouto :  su se mo :  {younger sister} :  2 :  3
@@ -229,7 +229,7 @@
   229 :  0x6a21 :  :  MO BO :   :  gami :  {imitation} {copy} {mock} :  6 :  1
   230 :  0x6f20 :  :  BAKU :   :   :  {vague} {obscure} {desert} {wide} :  8 :  1
   231 :  0x5893 : haka :  BO :  haka :   :  {grave} {tomb} :  5 :  1
-  232 :  0x66ae : ku.rasu :  BO :  ku.reru ku.rasu :  gurashi gure po :  {evening} {twilight} {season's end} {livelihood} {make a living} {spend time} :  6 :  2
+  232 :  0x66ae : ku.rasu :  BO :  ku.reru ku.rasu :  gurashi gure po :  {livelihood} {evening} {twilight} {season's end} {make a living} {spend time} :  6 :  2
   233 :  0x819c :  :  MAKU :   :   :  {membrane} :  8 :  1
   234 :  0x82d7 : nae nawa- :  BYOU MYOU :  nae nawa- :  nei nora miu mitsu :  {seedling} {sapling} {shoot} :  8 :  1
   235 :  0x5146 :  :  CHYOU :  kiza.su kiza.shi :   :  {portent} {10**12} {trillion} {sign} {omen} {symptoms} :  4 :  2
@@ -356,7 +356,7 @@
   356 :  0x57df :  :  IKI :   :   :  {range} {region} {limits} {stage} {level} :  6 :  2
   357 :  0x8cca :  :  ZOKU :   :   :  {burglar} {rebel} {traitor} {robber} :  8 :  1
   358 :  0x683d :  :  SAI :   :   :  {plantation} {planting} :  8 :  1
-  359 :  0x8f09 :  :  SAI :  no.seru no.ru :  toshi nori :  {ride} {board} {get on} {place} {spread} {10**44} :  8 :  1
+  359 :  0x8f09 :  :  SAI :  no.seru no.ru :  toshi nori :  {load} {ride} {board} {get on} {place} {spread} {10**44} :  8 :  1
   360 :  0x8302 :  :  MO :  shige.ru :  umusa ki shi tsutomu mu mote :  {overgrown} {grow thick} {be luxuriant} :  8 :  1
   361 :  0x6210 : -na.su :  SEI JOU :  na.ru na.su -na.su :  aki akira shige son tae nao nari naru nori hira masa yoshi ri :  {turn into} {become} {get} {grow} {elapse} {reach} :  4 :  2
   362 :  0x57ce :  :  JOU :  shiro :  iku gaki ki kuni gushiku gusuku shiki suku zei tachi nari :  {castle} :  6 :  2
@@ -431,7 +431,7 @@
   431 :  0x7acb : -da.teru -ta.te -ta.teru -ta.tsu RITORU ta.chi- ta.te- tate- :  RITSU RYUU RITORU :  ta.tsu -ta.tsu ta.chi- ta.teru -ta.teru ta.te- tate- -ta.te -da.te -da.teru :  tachi tachisai_tsu tatsu date tsui :  {stand up} {rise} {set up} {erect} :  1 :  4
   432 :  0x6ce3 :  :  KYUU :  na.ku :   :  {cry} {weep} {moan} :  4 :  2
   433 :  0x7ae0 :  :  SHYOU :   :  aki akira aya fumi :  {badge} {chapter} {composition} {poem} {design} :  3 :  2
-  434 :  0x7af6 : kiso.u se.ru :  KYOU KEI :  kiso.u se.ru kura.beru :  kai watanabe :  {emulate} {compete with} {bid} {sell at auction} {bout} {contest} {race} :  4 :  2
+  434 :  0x7af6 : kiso.u se.ru :  KYOU KEI :  kiso.u se.ru kura.beru :  kai watanabe :  {vie} {emulate} {compete with} {bid} {sell at auction} {bout} {contest} {race} :  4 :  2
   435 :  0x5e1d : mikado :  TEI :  mikado :   :  {sovereign} {the emperor} {god} {creator} :  8 :  1
   436 :  0x7ae5 :  :  DOU :  warabe :  pa :  {juvenile} {child} :  3 :  2
   437 :  0x77b3 :  :  DOU TOU :  hitomi :  akira :  {pupil} :  8 :  1
@@ -454,7 +454,7 @@
   454 :  0x559d :  :  KATSU :   :   :  {hoarse} {scold} :  8 :  1
   455 :  0x65e8 :  :  SHI :  mune uma.i :   :  {delicious} {relish} {show a liking for} {purport} {will} {clever} {expert} :  8 :  1
   456 :  0x8102 :  :  SHI :  abura :   :  {fat} {grease} {tallow} {lard} {rosin} {gum} {tar} :  8 :  2
-  457 :  0x58f1 : hitotsu :  ICHI ITSU :  hitotsu :  i kazu :  {I} {one} :  8 :  1
+  457 :  0x58f1 : hitotsu :  ICHI ITSU :  hitotsu :  i kazu :  {I (one)} {I} {one} :  8 :  1
   458 :  0x6bce : -goto.ni goto :  MAI :  goto -goto.ni :  tsune :  {every} :  2 :  4
   459 :  0x654f :  :  BIN :  satoi :  satoshi chyou toshi bi :  {cleverness} {agile} {alert} :  8 :  1
   460 :  0x6885 : ume :  BAI :  ume :   :  {plum} :  4 :  1
@@ -575,7 +575,7 @@
   575 :  0x7fcc :  :  YOKU :   :   :  {the following} {next} :  6 :  2
   576 :  0x66dc :  :  YOU :   :  teru :  {weekday} :  2 :  3
   577 :  0x6fef : yusu.gu :  TAKU :  susu.gu yusu.gu :   :  {laundry} {wash} {pour on} {rinse} :  8 :  2
-  578 :  0x66f0 : iwa.ku notama.waku :  ETSU :  iwa.ku notama.u notama.waku kokoni :  hirabi :  {say} {reason} {pretext} {history} {past} {flat sun radical (no. 73)} :   :  
+  578 :  0x66f0 : iwa.ku notama.waku :  ETSU :  iwa.ku notama.u notama.waku kokoni :  hirabi :  {sayeth} {say} {reason} {pretext} {history} {past} {flat sun radical (no. 73)} :   :  
   579 :  0x56f0 : koma.ru :  KON :  koma.ru :   :  {quandary} {become distressed} {annoyed} :  6 :  2
   580 :  0x56fa : kata.mari kata.maru kata.meru :  KO :  kata.meru kata.maru kata.mari kata.i :   :  {harden} {set} {clot} {curdle} :  4 :  2
   581 :  0x56fd :  :  KOKU :  kuni :  kuna ko :  {country} :  2 :  4
@@ -681,7 +681,7 @@
   681 :  0x624d :  :  SAI :   :   :  {genius} {years old} {cubic shaku} :  2 :  2
   682 :  0x8ca1 :  :  ZAI SAI ZOKU :  takara :   :  {property} {money} {wealth} {assets} :  5 :  2
   683 :  0x6750 :  :  ZAI :   :  ki sai :  {lumber} {log} {timber} {wood} {materials} {ingredients} {talent} :  4 :  2
-  684 :  0x5b58 : ZON :  SON ZON :   :  masa :  {exist} {suppose} {be aware of} {believe} {feel} :  6 :  2
+  684 :  0x5b58 : ZON :  SON ZON :   :  masa :  {suppose} {exist} {be aware of} {believe} {feel} :  6 :  2
   685 :  0x5728 :  :  ZAI :  a.ru :  ari :  {exist} {outskirts} {suburbs} {located in} :  5 :  2
   686 :  0x4e43 : NO :  NAI DAI NO AI :  no sunawa.chi nanji :  osamu o nori :  {from} {possessive particle} {whereupon} {accordingly} :  9 :  1
   687 :  0x643a : tazusa.eru tazusa.waru :  KEI :  tazusa.eru tazusa.waru :   :  {portable} {carry (in hand)} {armed with} {bring along} :  8 :  1
@@ -780,7 +780,7 @@
   780 :  0x8fbc : -ko.mi -ko.mu ko.mi :   :  -ko.mu ko.mu ko.mi -ko.mi ko.meru :  komi gome :  {crowded} {mixture} {in bulk} {included} {(kokuji)} :  8 :  2
   781 :  0x5206 : wa.kareru wa.karu wa.katsu wa.ke :  BUN HUN BU :  wa.keru wa.ke wa.kareru wa.karu wa.katsu :  ita wake :  {part} {minute of time} {segment} {share} {degree} {one's lot} {duty} {understand} {know} {rate} {1%} {chances} {shaku/100} :  2 :  4
   782 :  0x8ca7 : mazu.shii :  HIN BIN :  mazu.shii :   :  {poverty} {poor} :  5 :  2
-  783 :  0x9812 : waka.tsu :  HAN :  waka.tsu :   :  {distribute} {disseminate} {partition} {understand} :  8 :  1
+  783 :  0x9812 : waka.tsu :  HAN :  waka.tsu :   :  {partition} {distribute} {disseminate} {understand} :  8 :  1
   784 :  0x516c : ooyake :  KOU KU :  ooyake :  akira ki kimi kin taka tadashi tomo hiro masa :  {public} {prince} {official} {governmental} :  2 :  2
   785 :  0x677e :  :  SHYOU :  matsu :  oo shyo ma machisai_tsu :  {pine tree} :  4 :  1
   786 :  0x7fc1 : okina :  OU :  okina :  o ona :  {venerable old man} :  8 :  1
@@ -906,7 +906,7 @@
   906 :  0x5229 :  :  RI :  ki.ku :  kaga to toshi nori mi rii :  {profit} {advantage} {benefit} :  4 :  2
   907 :  0x68a8 :  :  RI :  nashi :  ka :  {pear tree} :  8 :  1
   908 :  0x7a6b :  :  KAKU :   :   :  {harvest} {reap} :  8 :  1
-  909 :  0x7a42 :  :  SUI :  ho :  o kou nori hoi :  {ear} {ear (grain)} {head} {crest (wave)} :  8 :  1
+  909 :  0x7a42 :  :  SUI :  ho :  o kou nori hoi :  {ear (of a plant)} {ear} {ear (grain)} {head} {crest (wave)} :  8 :  1
   910 :  0x7a32 : TE ina- ine :  TOU TE :  ine ina- :  ino shine se na :  {rice plant} :  8 :  1
   911 :  0x9999 : kao.ri :  KOU KYOU :  ka kao.ri kao.ru :  ko koo hyan yoshi :  {incense} {smell} {perfume} :  8 :  2
   912 :  0x5b63 :  :  KI :   :  sue toshi :  {seasons} :  4 :  2
@@ -925,7 +925,7 @@
   925 :  0x7c8b :  :  SUI :  iki :   :  {chic} {style} {purity} {essence} {pith} {cream} {elite} {choice} :  8 :  1
   926 :  0x7ce7 : kate :  RYOU ROU :  kate :   :  {provisions} {food} {bread} :  8 :  1
   927 :  0x83ca :  :  KIKU :   :   :  {chrysanthemum} :  8 :  1
-  928 :  0x5965 : oku oku.maru :  OU :  oku oku.maru kuma :  o oo on tsu noku :  {heart} {interior} :  8 :  2
+  928 :  0x5965 : oku oku.maru :  OU :  oku oku.maru kuma :  o oo on tsu noku :  {core} {heart} {interior} :  8 :  2
   929 :  0x6570 : kazo.eru kazu wazurawa.shii :  SUU SU SAKU SOKU SHYU :  kazu kazo.eru shibashiba se.meru wazurawa.shii :  ju :  {number} {strength} {fate} {law} {figures} :  2 :  2
   930 :  0x697c : takadono :  ROU :  takadono :   :  {watchtower} {lookout} {high building} :  8 :  1
   931 :  0x985e : tagu.i :  RUI :  tagu.i :   :  {sort} {kind} {variety} {class} {genus} :  4 :  2
@@ -1193,7 +1193,7 @@
  1193 :  0x5e2d : mushiro :  SEKI :  mushiro :   :  {seat} {mat} {occasion} {place} :  4 :  2
  1194 :  0x5ea6 : -ta.i :  DO TO TAKU :  tabi -ta.i :  nori :  {degrees} {occurrence} {time} {counter for occurrences} :  3 :  3
  1195 :  0x6e21 : -wata.ru wata.su :  TO :  wata.ru -wata.ru wata.su :  o tari watana watara watari :  {transit} {ford} {ferry} {cross} {import} {deliver} {diameter} {migrate} :  8 :  2
- 1196 :  0x5954 :  :  HON :  hashi.ru :   :  {run} {bustle} :  8 :  1
+ 1196 :  0x5954 :  :  HON :  hashi.ru :   :  {bustle} {run} :  8 :  1
  1197 :  0x5674 :  :  HUN :  fu.ku :   :  {erupt} {spout} {emit} {flush out} :  8 :  1
  1198 :  0x58b3 :  :  HUN :   :   :  {tomb} {mound} :  8 :  1
  1199 :  0x61a4 : ikidoo.ru :  HUN :  ikidoo.ru :   :  {aroused} {resent} {be indignant} {anger} :  8 :  1
@@ -1264,7 +1264,7 @@
  1264 :  0x8ced : kake :  TO :  ka.keru kake :   :  {gamble} {wager} {bet} :  8 :  
  1265 :  0x5ce1 : hazama :  KYOU KOU :  hazama :  ki ba :  {gorge} {ravine} :  8 :  1
  1266 :  0x72ed : seba.maru seba.meru :  KYOU KOU :  sema.i seba.meru seba.maru sa :  haza :  {cramped} {narrow} {contract} {tight} :  8 :  2
- 1267 :  0x631f : hasa.maru sashihasa.mu wakibasa.mu :  KYOU SHYOU :  hasa.mu hasa.maru wakibasa.mu sashihasa.mu :   :  {pinch} {between} :  8 :  2
+ 1267 :  0x631f : hasa.maru sashihasa.mu wakibasa.mu :  KYOU SHYOU :  hasa.mu hasa.maru wakibasa.mu sashihasa.mu :   :  {sandwiched} {pinch} {between} :  8 :  2
  1268 :  0x8ffd :  :  TSUI :  o.u :  oi :  {chase} {drive away} {follow} {pursue} {meanwhile} :  3 :  2
  1269 :  0x5e2b : moromoro :  SHI SU :  moromoro nara.u :  noshi nori moro kazu tsukasa mitsu :  {expert} {teacher} {master} {model} {exemplar} {army (incl. counter)} {war} :  5 :  2
  1270 :  0x5e25 :  :  SUI :   :   :  {commander} {leading troops} {governor} :  8 :  1
@@ -1424,7 +1424,7 @@
  1424 :  0x8cbf :  :  BOU :   :   :  {trade} {exchange} :  5 :  2
  1425 :  0x5370 : -jirushi :  IN :  shirushi -jirushi shiru.su :   :  {stamp} {seal} {mark} {imprint} {symbol} {emblem} {trademark} {evidence} {souvenir} {India} :  4 :  2
  1426 :  0x8208 :  :  KOU KYOU :  oko.ru oko.su :  oki okochisai_tsu tomo :  {entertain} {revive} {retrieve} {interest} {pleasure} :  5 :  1
- 1427 :  0x9149 :  :  YUU :  tori :  naga minoru hiyorinotori torihen :  {west} {bird} {sign of the bird} {5-7PM} {tenth sign of Chinese zodiac} {sake radical (no. 164)} :  9 :  1
+ 1427 :  0x9149 :  :  YUU :  tori :  naga minoru hiyorinotori torihen :  {sign of the bird} {west} {bird} {5-7PM} {tenth sign of Chinese zodiac} {sake radical (no. 164)} :  9 :  1
  1428 :  0x9152 : saka- :  SHYU :  sake saka- :  ki sa shi :  {sake} {alcohol} :  3 :  2
  1429 :  0x914c :  :  SHYAKU :  ku.mu :   :  {bar-tending} {serving sake} {the host} {draw (water)} {ladle} {scoop} {pump} :  8 :  1
  1430 :  0x9175 :  :  KOU :   :   :  {fermentation} :  8 :  1
@@ -1585,7 +1585,7 @@
  1585 :  0x4e57 : -no.ri :  JOU SHYOU :  no.ru -no.ri no.seru :  nori :  {ride} {power} {multiplication} {record} {counter for vehicles} {board} {mount} {join} :  3 :  3
  1586 :  0x5270 : amatsusae :  JOU :  amatsusae ama.ri ama.ru :   :  {surplus} {besides} :  8 :  1
  1587 :  0x4eca : ima :  KON KIN :  ima :  na :  {now} :  2 :  4
- 1588 :  0x542b : fuku.meru fuku.mu :  GAN :  fuku.mu fuku.meru :   :  {contain} {include} {hold in the mouth} {bear in mind} {understand} {cherish} :  8 :  2
+ 1588 :  0x542b : fuku.meru fuku.mu :  GAN :  fuku.mu fuku.meru :   :  {include} {contain} {hold in the mouth} {bear in mind} {understand} {cherish} :  8 :  2
  1589 :  0x541f :  :  GIN :   :   :  {versify} {singing} {recital} :  8 :  1
  1590 :  0x5ff5 :  :  NEN :   :   :  {wish} {sense} {idea} {thought} {feeling} {desire} {attention} :  4 :  2
  1591 :  0x7434 :  :  KIN :  koto :   :  {harp} {koto} :  8 :  1
@@ -2046,7 +2046,7 @@
  2046 :  0x4e9b : isasaka :  SA SHYA :  chi.to chi.to isasaka :   :  {a little bit} {sometimes} :  9 :  
  2047 :  0x9aed : kuchihige :  SHI :  hige kuchihige :   :  {beard} {mustache} :   :  
  2048 :  0x7483 :  :  RI :   :  aki :  {glassy} {lapis lazuli} :  8 :  1
- 2049 :  0x79bd :  :  KIN :  tori toriko :   :  {bird} {captive} {capture} :  9 :  
+ 2049 :  0x79bd :  :  KIN :  tori toriko :   :  {fowl} {bird} {captive} {capture} :  9 :  
  2050 :  0x6a8e :  :  KIN GON GO :   :   :  {apple} :  9 :  
  2051 :  0x6190 :  :  REN :  awa.remu awa.re :   :  {pity} {have mercy} {sympathise} {compassion} :  9 :  
  2052 :  0x71d0 :  :  RIN :   :   :  {phosphorus} :   :  
@@ -2256,7 +2256,7 @@
  2256 :  0x634c : ha.ke saba.keru :  HATSU HACHI BETSU :  saba.ku saba.keru ha.ke :   :  {handle} {deal with} {dispose of} {sell} {be in demand} {be worldly} {be frank} {be sensible} {be sociable} {drainage} {sale} {demand for} {eight} :   :  
  2257 :  0x64b9 :  :  KAKU KOU :  mida.su :   :  {disturb} {throw into confusion} :   :  
  2258 :  0x647a : hida :  SHYOU SHYUU ROU :  su.ru hida :  suru zuri :  {rub} {fold} {print (on cloth)} :  9 :  
- 2259 :  0x6309 :  :  AN :  osa.eru shira.beru :   :  {hold} {consider} {investigate} :  9 :  
+ 2259 :  0x6309 :  :  AN :  osa.eru shira.beru :   :  {press down on} {hold} {consider} {investigate} :  9 :  
  2260 :  0x6349 :  :  SOKU SAKU :  tora.eru :   :  {catch} {capture} :  8 :  
  2261 :  0x62f6 :  :  SATSU :  sema.ru :   :  {be imminent} {draw close} :  8 :  
  2262 :  0x64ad :  :  HA BAN HAN :  ma.ku :  hari :  {plant} {sow} :  9 :  
