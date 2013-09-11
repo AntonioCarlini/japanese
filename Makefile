@@ -8,6 +8,7 @@ JHTML_SRCS += grammar-amari.jhtml
 JHTML_SRCS += grammar-aru.jhtml
 JHTML_SRCS += grammar-ato-de.jhtml
 JHTML_SRCS += grammar-ba-hodo.jhtml
+JHTML_SRCS += grammar-ba-yokatta.jhtml
 JHTML_SRCS += grammar-bakari.jhtml
 JHTML_SRCS += grammar-dai.jhtml
 JHTML_SRCS += grammar-dekakete-kuru.jhtml
