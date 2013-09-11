@@ -177,6 +177,12 @@ table.progress td.done {
     text-align: center;
 }
 
+/* Item status commenced */
+table.progress td.started {
+    background-color: lightgreen;
+    text-align: center;
+}
+
 /* Item status unknown */
 table.progress tr {
     background-color: yellow;
