@@ -1,7 +1,7 @@
 body  {
     /* background-color: #ccffcc; */
     background-color: #fff0e0;
-    font-faily: verdana;
+    font-family: verdana;
 }
 
 h1 {
@@ -47,7 +47,7 @@ div.toc li.h3 { margin-left: 3.0em; }
 p {
     margin-left: 1.5em;
     padding-left: 3%;
-    padding-right: 20%;
+    padding-right: 10%;
 }
 
 /* Examples */
@@ -98,8 +98,6 @@ table.sentence {
     background-color: cyan;
     text-align: left;
     border: 0px solid black;
-    padding-left: 3%;
-    padding-right: 20%;
 }
 
 table.sentence tr.jp {
