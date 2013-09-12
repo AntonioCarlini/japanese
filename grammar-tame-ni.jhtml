@@ -21,16 +21,41 @@
 
 <h2> Definition </h2>
 
-These sentence patterns indicate a purpose. The pattern @N{{}} @HI{{no tame ni}} can also indicate
+These sentence patterns indicate a purpose. The pattern @N{{}} @HI{{no <strong>tame ni</strong>}} can also indicate
 "for the benefit of @N{{}}".
 <p></p>
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} <strong>@HI{{tame ni}}</strong>,
+      @KJ{{savings}}@KJ{{gold}}@HI{{shite imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am saving money in order to have my own shop.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{house}}@KJ{{tribe}}@HI{{no}}<strong>@HI{{tame ni}}</strong>, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will build a house for my family.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 The similar expression @HI{{you ni}} is used in clauses with verbs that do not contain volition,
-whereas @HI{{tame ni}} is used with verbs that do.
+whereas <strong>@HI{{tame ni}}</strong> is used with verbs that do. Note that if the verb involved
+is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
+<p></p>
+
 <h2> References </h2>
 
 <p>

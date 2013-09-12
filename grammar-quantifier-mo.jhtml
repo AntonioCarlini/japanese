@@ -26,6 +26,19 @@ the amount mentioned to be a lot.
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{station}}@HI{{made}} @KJ{{going}}@HI{{kunoni}} 2<strong>@KJ{{time}}@KJ{{interval}}
+      @HI{{mo}}</strong> @HI{{kakarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It took as long as two hours to get to the station.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 <p>

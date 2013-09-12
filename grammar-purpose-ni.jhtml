@@ -14,8 +14,8 @@
 
 <p>
 <ol>
-<li> <strong>@Vru{{}} @HI{{no ni}}</strong>
-<li> <strong>@N{{}} @HI{{ni}}</strong>
+<li> @Vru{{}} @HI{{no <strong>ni</strong>}}
+<li> @N{{}} <strong>@HI{{ni}}</strong>
 </ol>
 </p>
 
@@ -26,6 +26,18 @@ When the sentence patterns above are followed by expressions such as @HI{{tsukau
 <p></p>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono hasamiha}} @KJ{{flower}}@HI{{wo}} @KJ{{cut}}@HI{{runo<strong>ni</strong>}} @KJ{{use}}@HI{{imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This pair of scissors is used to cut flowers.
+  </td> </tr>
+</table>      
+</ol>
 
 <h2> Notes </h2>
 
