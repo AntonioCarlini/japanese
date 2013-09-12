@@ -98,6 +98,10 @@ def convert_to_kanji(text)
     :kou => 0x884c,
     :shoku => 0x98df,
     :mi => 0x898b,
+    :noma => 0x3005, # repetition symbol
+    :yuubin => 0x3012, # indicates Japanese post office on a map
+    :jisuma => 0x3004, # shows that a product complies with a Japanese Industrial Standard
+    :maruhi => 3299, # "secret"
   }
 
   result = ""
