@@ -21,6 +21,7 @@ JHTML_SRCS += grammar-goro.jhtml
 JHTML_SRCS += grammar-hazu.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
+JHTML_SRCS += grammar-kosoado-wh.jhtml
 JHTML_SRCS += grammar-n-desu.jhtml
 JHTML_SRCS += grammar-nagara.jhtml
 JHTML_SRCS += grammar-particle-dake.jhtml
