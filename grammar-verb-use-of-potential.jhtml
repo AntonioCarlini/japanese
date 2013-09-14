@@ -28,6 +28,39 @@ A potential verb is used to express a person's ability to perform an action and 
 the possibility of a an action in a given situation.
 <p></p>
 
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @KJ{{private}}@HI{{ha}} @KJ{{day}}@KJ{{book}}@KJ{{word}}@HI{{ga}}@KJ{{tale}}@HI{{shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I can speak Japanese.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono}}@KJ{{silver}}@KJ{{going}}@HI{{de}} @KT{{doru}}@HI{{ga}}
+      @KJ{{interchange}}@HI{{eraremasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You can change dollars at this bank.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @KJ{{new}}@KJ{{dry}}@KJ{{line}}@HI{{kara}} @KJ{{wealth}}@KJ{{gentleman}}@HI{{sanga}}@KJ{{see}}@HI{{emasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mt. Fuji can be seen from the Shinkansen.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 @KJ{{see}}@HI{{ru}} forms the potential @KJ{{see}}@HI{{rareru}},

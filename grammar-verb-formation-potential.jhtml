@@ -4,6 +4,39 @@
 <title>Potential Verbs</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+<style media="screen" type="text/css">
+
+table
+{
+  border-collapse: collapse;
+  border-width: medium;
+  border: none;
+}
+
+table, th, td
+{
+  margin-left: 1em;
+  text-alignment: left;
+}
+
+th
+{
+  border: 1px solid black;
+  min-width: 7em;
+}
+
+td
+{
+  cell-spacing: 2em;
+  border: none
+}
+
+tr:hover
+{
+  font-weight: bold;
+}
+</style>
 </head>
 
 <body>
@@ -16,6 +49,8 @@
 <dt> @KJ{{five}}@KJ{{grade}} verbs:
 <p></p>
 <table>
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> potential </th>
 <tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikeru}} </td> </tr>
 <tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}} </td> <td> @HI{{oyogeru}} </td> </tr>
 <tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumeru}} </td> </tr>
@@ -29,6 +64,8 @@
 <dt> @KJ{{ichi}}@KJ{{grade}} verbs:
 <p></p>
 <table>
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> potential </th>
 <tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homerareru}} </td> </tr>
 <tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mirareru}} </td> </tr>
 </table>
@@ -37,6 +74,7 @@
 <dt> Irregular verbs:
 <p></p>
 <table>
+<tr> <th> verb </th> <th> dictionary </th> <th> potential </th>
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{korareru}} </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{dekiru}} </td> </tr>
 </table>
@@ -62,13 +100,11 @@ The two irregular verbs conjugate as shown above.
 All potential verbs conjugate into further forms as @KJ{{ichi}}@KJ{{grade}} verbs.
 <p></p>
 
+<h2> Notes </h2>
+
 @HI{{wakaru}}, which already includes the meaning of possibility withion itself, does not form
 a potential verb.
 <p></p>
-
-<h2> Examples </h2>
-
-<h2> Notes </h2>
 
 <h2> References </h2>
 

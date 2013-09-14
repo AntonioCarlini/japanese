@@ -27,6 +27,18 @@ marked word is negated. It carries a negative nuance.
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @KT{{ro-maji}}@KJ{{character}}<strong>@HI{{shika}}</strong>@KJ{{write}}@HI{{masen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot write anything except Roman letters.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 When <strong>@HI{{shika}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}},

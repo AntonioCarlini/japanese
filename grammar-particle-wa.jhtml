@@ -34,6 +34,29 @@ sentence.
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de<strong>ha</strong>}}
+      @KJ{{in}}@KJ{{country}}@KJ{{word}}@HI{{ga}} @KJ{{learn}}@HI{{emasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In my school we can learn Chinese.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kinou<strong>ha</strong>}}@KJ{{mountain}}@HI{{ga}}@KJ{{see}}@HI{{emashitaga,}}
+      @HI{{kyou<strong>ha</strong>}}@KJ{{see}}@HI{{emasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday we could see mountaisn bu today we can't.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 When <strong>@HI{{ha}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}}, <strong>@HI{{ha}}</strong>
