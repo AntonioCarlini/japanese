@@ -64,25 +64,16 @@ def convert_to_kanji(text)
   }
 
   result = ""
-  sep = ""
-  text.split(/[^a-zA-Z.*-]/).each() {
+  text.gsub!(/[a-zA-Z.*-]+/).each() {
     |word|
-    if word.empty?()
-      next
-    elsif word !~ /[a-zA-Z.*-]+/
-      result += sep + word
-      sep = " "
+    code = kanji[word.downcase().to_sym()]
+    code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
+    if code.nil?()
+      result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
     else
-      code = kanji[word.downcase().to_sym()]
-      code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
-      if code.nil?()
-        result += sep + "&lt;UNKNOWN KANJI [#{word}]&gt;"
-        sep = " "
-      else
-        result += sep + jp_unicode(code)
-        sep = " "
-      end
+      result += jp_unicode(code)
     end
+    result
   }
   return result
 end

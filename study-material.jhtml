@@ -8,7 +8,7 @@
 <h1>&#x65e5;&#x672c;&#x8a9e; Study Progress</h1>
 
 <ol class="toc">
-<li><a href="mnn.html"><span>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}}</span></a>
+<li><a href="mnn.html"><span>@HI{{minnna no}} @KJ{{day^book}}@KJ{{word}}</span></a>
 <li><a href="mnn-toc.html"><span>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e; (table of contents)</span></a>
 <li><a href="jpod.html"><span>JapanesePOD101.com</span></a>
 <li><a href="jstep.html"><span>Japanese Step by Step</span></a>
