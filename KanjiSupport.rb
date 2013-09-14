@@ -63,9 +63,9 @@ def convert_to_kanji(text)
     :maruhi => 3299, # "secret"
   }
 
-  result = ""
   text.gsub!(/[a-zA-Z.*-]+/).each() {
     |word|
+    result = ""
     code = kanji[word.downcase().to_sym()]
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
@@ -75,5 +75,5 @@ def convert_to_kanji(text)
     end
     result
   }
-  return result
+  return text.gsub("^", "")
 end

@@ -79,8 +79,8 @@ def processing()
         when /V5/   then "V<sub>5</sub>"
         when /V6/   then "V<sub>#{convert_to_hiragana('te')}</sub>"
         when /V7/   then "V<sub>#{convert_to_hiragana('ta')}</sub>"
-        when /1D/   then "#{convert_to_kanji('ichi dan')}"
-        when /5D/   then "#{convert_to_kanji('go dan')}"
+        when /1D/   then "#{convert_to_kanji('ichi^dan')}"
+        when /5D/   then "#{convert_to_kanji('go^dan')}"
         when /Nplace/   then "N<sub>place</sub>"
         when /N\d?/  then
           sub = style[1..-1] # lose first character

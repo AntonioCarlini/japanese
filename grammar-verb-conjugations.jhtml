@@ -27,7 +27,7 @@ Verb conjugations are based on the basic forms shown in the table below.
  </tr>
 
  <tr>
-    <td colspan="8" class="heading"> @KJ{{ichi dan}} Verbs </td>
+    <td colspan="8" class="heading"> @KJ{{ichi^dan}} Verbs </td>
  </tr>
 
  <tr>
@@ -130,7 +130,7 @@ Verb conjugations are based on the basic forms shown in the table below.
  </tr>
 
  <tr>
-   <td colspan="8" class="heading"> @KJ{{go dan}} Verbs </td>
+   <td colspan="8" class="heading"> @KJ{{go^dan}} Verbs </td>
  </tr>
 
  <tr>
@@ -510,7 +510,7 @@ This line contains some katakana: @KT{{terebi}} and a suffix. </br>
 
 This line contains some hiragana with embedded katakana: @HI{{hiragana @KA{{terebi}} ichi}} and a suffix. </br>
 
-This line contains some kanji: @KJ{{ichi dan}} and @KJ{{go dan}}.</br>
+This line contains some kanji: @KJ{{ichi^dan}} and @KJ{{go^dan}}.</br>
 
 Test lines:</br>
 @HI{{ sore ha @KJ{{hon}} desu ka.}}</br>

@@ -530,14 +530,14 @@ adjectives they modify.
 <table class="sentence">
   <tr class="jp"> <td> @KT{{pekinn}} @HI{{ha <em>totemo</em> @KJ{{samui}}ii desu.}}</td> </tr>
   <tr class="en"> <td> Beijing is very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{ kore ha <em>totemo</em> @KJ{{arinashi namae}}na
-	@KJ{{utsuru yonkaku}} desu.}}</td> </tr>
+  <tr class="jp"> <td> @HI{{ kore ha <em>totemo</em> @KJ{{arinashi^namae}}na
+	@KJ{{utsuru^yonkaku}} desu.}}</td> </tr>
   <tr class="en"> <td> This is a very famous film.</td> </tr>
   <tr class="jp"> <td> @KT{{shyannhai}} @HI{{ha <em>amari</em> @KJ{{samui}}kunai desu.
 }}</td> </tr>
   <tr class="en"> <td> Shanghai is not very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{sakura@KJ{{ookii manabu}} ha <em>amari</em>
-  @KJ{{arinashi namae}}na @KJ{{ookii manabu}}jya arimasen.}}</td> </tr>
+  <tr class="jp"> <td> @HI{{sakura@KJ{{ookii^manabu}} ha <em>amari</em>
+  @KJ{{arinashi^namae}}na @KJ{{ookii^manabu}}jya arimasen.}}</td> </tr>
   <tr class="en"> <td> </td> </tr>
 </table>
 
