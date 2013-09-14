@@ -65,11 +65,11 @@ def convert_to_kanji(text)
 
   result = ""
   sep = ""
-  text.split(/[^a-zA-Z.*]/).each() {
+  text.split(/[^a-zA-Z.*-]/).each() {
     |word|
     if word.empty?()
       next
-    elsif word !~ /[a-zA-Z.*]+/
+    elsif word !~ /[a-zA-Z.*-]+/
       result += sep + word
       sep = " "
     else

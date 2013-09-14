@@ -111,7 +111,7 @@ def processing()
           string = "@#{style}{{#{brkt}}}"
         else
           debug_out("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
-          "&lt;UNKNOWN @code [#{$1}]&gt;"
+          "&lt;UNKNOWN @code [#{style}]&gt;"
         end
       }
       
