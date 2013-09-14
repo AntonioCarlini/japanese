@@ -204,6 +204,7 @@
 <h3> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a> </h3>
 <h3> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
+<h3> <a href="grammar-te-oku.html"> @Vte{{}}@HI{{oku}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
 <h3> <a href="grammar-te-shimau.html"> @Vte{{}}@HI{{shimau}} </a> </h3>
@@ -236,6 +237,10 @@
 
 <h3> <a href="grammar-particle-e.html"> @HI{{he}} (particle) </a> </h3>
 
+<h2> <a name="hi-ma">@HI{{ma}}</a> </h2>
+
+<h3> <a href="grammar-mada.html"> @HI{{mada}} </a> </h3>
+
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
@@ -248,6 +253,7 @@
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
 
 <h3> <a href="grammar-sore-de.html"> @HI{{sore de}} </a> </h3>
+<h3> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a> </h3>
 <h3> <a href="grammar-sore-ni.html"> @HI{{sore ni}} </a> </h3>
 <h3> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a> </h3>
 <h3> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a> </h3>
@@ -292,6 +298,8 @@
 
 <h2> <a name="en-V"> V </a> </h2>
 <h3> <a href="verbs.html"> Verbs </a> </h3>
+
+Back to the <a href="index.html"> main index</a>.
 
 </body>
 </html>

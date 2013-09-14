@@ -1,0 +1,62 @@
+<html>
+
+<head>
+<title>@HI{{soreha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{soreha}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> <strong>@HI{{soreha}}</strong> ...
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<strong>@HI{{soreha}}</strong> is used to refer to something that has just been stated.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @KJ{{come}}@KJ{{month}}@HI{{kara}}@KJ{{large}}@KJ{{heights}}@HI{{no}}
+      @KJ{{book}}@KJ{{company}}@HI{{ni}}@KJ{{revolve}}@KJ{{diligence}}@HI{{nandesu.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{<strong>soreha</strong> omedetou gozaimas.}}
+  </td> </tr>
+  <tr class="en"> <td> 
+      A: I will be transferred to the Osaka head office next month.
+  </td> </tr>
+  <tr class="en"> <td> 
+      B: Congratulations!
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 30).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
