@@ -8,7 +8,8 @@ require 'UnicodeSupport.rb'
 def convert_to_katakana(text)
   one = {
     :a  => 0x30a2, :i =>  0x30a4, :u =>  0x30a6, :e  => 0x30a8, :o  => 0x30aa,
-    :","  => 0x3001, :"." =>  0x3002, "[".to_sym() =>  0x300c, :"]"  => 0x300d
+    :","  => 0x3001, :"." =>  0x3002, "[".to_sym() =>  0x300c, :"]"  => 0x300d,
+    :"-" => 0x30FC
   }
   two = {
     :ka => 0x30ab, :ki => 0x30ad, :ku => 0x30af, :ke => 0x30b1, :ko => 0x30b3,
