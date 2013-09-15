@@ -198,6 +198,7 @@
 
 <h2> <a name="hi-tsu">@HI{{tsu}}</a> </h2>
 <h3> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a> </h3>
+<h3> <a href="grammar-tsumori.html"> @HI{{tsumori}} </a> </h3>
 
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
@@ -240,6 +241,7 @@
 <h2> <a name="hi-ma">@HI{{ma}}</a> </h2>
 
 <h3> <a href="grammar-mada.html"> @HI{{mada}} </a> </h3>
+<h3> <a href="grammar-mada-te-inai.html"> @HI{{mada}} @Vte{{}}@HI{{inai}} </a> </h3>
 
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
@@ -266,6 +268,7 @@
 <h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
 
 <h3> <a href="grammar-you-desu.html"> @HI{{you desu}} </a> </h3>
+<h3> <a href="grammar-yotei.html"> @HI{{yotei desu}} </a> </h3>
 
 <h2> <a name="hi-ra">@HI{{ra}}</a> </h2>
 
@@ -292,6 +295,8 @@
 <h3> <a href="grammar-verb-use-of-passive.html"> Uses of the passive </a> </h3>
 <h3> <a href="grammar-verb-formation-potential.html"> How to make potential verbs </a> </h3>
 <h3> <a href="grammar-verb-use-of-potential.html"> Uses of the potential </a> </h3>
+<h3> <a href="grammar-verb-formation-volitional.html"> How to make volitional verbs </a> </h3>
+<h3> <a href="grammar-verb-use-of-volitional.html"> Uses of the volitional </a> </h3>
 
 <h2> <a name="en-S"> S </a> </h2>
 <h3> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a> </h3>

@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<title>@HI{{tsumori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tsumori}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li>@Vru{{}}@HI{{ <strong>tsumori</strong>desu}}
+<li>@Vnai{{}}@HI{{ <strong>tsumori</strong>desu}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+The @Vru{{}} form indicates the speaker's intention of doing something and the @HI{{nai}} form
+indicates the speaker's intention of not doing something.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo @KJ{{continue}}keru <strong>tsumori</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even when I go back to my country, I'll continue my judo.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashita karaha tabakowo @KJ{{suck}}wanai <strong>tsumori</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm determined not to smoke from tomorrow.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}} @HI{{<strong>tsumori</strong>desu.}} sounds more determined.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

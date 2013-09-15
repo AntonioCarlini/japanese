@@ -1,0 +1,115 @@
+<html>
+
+<head>
+<title>Volitional Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+<style media="screen" type="text/css">
+
+table
+{
+  border-collapse: collapse;
+  border-width: medium;
+  border: none;
+}
+
+table, th, td
+{
+  margin-left: 1em;
+  text-alignment: left;
+}
+
+th
+{
+  border: 1px solid black;
+  min-width: 7em;
+}
+
+td
+{
+  padding-left: 1em;
+  cell-spacing: 2em;
+  border: none
+}
+
+tr:hover
+{
+  font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Volitional Verbs</h1>
+
+<h2> Formation </h2>
+
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> volitional </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikou}}    </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyogou}}   </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumou}}    </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobou}}    </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{torou}}    </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motou}}    </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iou}}      </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanasou}}  </td> </tr>
+</table>
+<p></p>
+
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+<p></p>
+<table>
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> volitional </th>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homeyou}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{miyou}} </td> </tr>
+</table>
+<p></p>
+
+<dt> Irregular verbs:
+<p></p>
+<table>
+<tr> <th> verb </th> <th> dictionary </th> <th> volitional </th>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{koyou}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shiyou}} </td> </tr>
+</table>
+<p></p>
+
+</dl>
+
+<h2> Definition </h2>
+
+@KJ{{five}}@KJ{{grade}} verbs form the volitional by changing the final kana to the @HI{{o}}-row
+and adding the suffix @HI{{u}}.
+<p></p>
+
+@KJ{{ichi}}@KJ{{grade}} verbs form the volitional by dropping the final @HI{{ru}}
+and adding the suffix @HI{{you}}.
+<p></p>
+
+The two irregular verbs conjugate as shown above.
+<p></p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-JP-II}}. (Chapter 31).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
