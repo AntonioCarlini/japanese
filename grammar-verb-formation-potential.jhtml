@@ -28,6 +28,7 @@ th
 
 td
 {
+  padding-left: 1em;
   cell-spacing: 2em;
   border: none
 }
