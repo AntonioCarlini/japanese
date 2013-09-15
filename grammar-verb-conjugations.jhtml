@@ -502,20 +502,6 @@ nomu
 -->
 </table>
 
-<p>
-Tests here </br>
-
-This line contains some hiragana: @HI{{hiragana ichi}} and a suffix. </br>
-This line contains some katakana: @KT{{terebi}} and a suffix. </br>
-
-This line contains some hiragana with embedded katakana: @HI{{hiragana @KA{{terebi}} ichi}} and a suffix. </br>
-
-This line contains some kanji: @KJ{{ichi^dan}} and @KJ{{go^dan}}.</br>
-
-Test lines:</br>
-@HI{{ sore ha @KJ{{hon}} desu ka.}}</br>
-
-<p></p>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

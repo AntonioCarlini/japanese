@@ -74,6 +74,7 @@ JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += mnn.jhtml
 JHTML_SRCS += study-material.jhtml
+JHTML_SRCS += test.jhtml
 JHTML_SRCS += verbs.jhtml
 
 CSS_SRCS += japanese.css
@@ -84,6 +85,16 @@ TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
 DATA_FILES += kanji.data
 DATA_FILES += references.data
 
+SCRIPT_FILES += DataKanji.rb
+SCRIPT_FILES += DataKanjidic.rb
+SCRIPT_FILES += DataRefs.rb
+SCRIPT_FILES += DebugSupport.rb
+SCRIPT_FILES += HiraganaSupport.rb
+SCRIPT_FILES += Kanji.rb
+SCRIPT_FILES += KanjiSupport.rb
+SCRIPT_FILES += KatakanaSupport.rb
+SCRIPT_FILES += RefsSupport.rb
+SCRIPT_FILES += UnicodeSupport.rb
 SCRIPT_FILES += japanese-to-codes.rb 
 
 GLOBAL_DEPENDENCIES += $(DATA_FILES)
