@@ -88,6 +88,12 @@ def processing()
           string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
           string
 
+        when /S\d?/  then
+          sub = style[1..-1] # lose first character
+          string = "S<sub>#{sub}</sub>"
+          string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
+          string
+
           # forms based on those used in Nihongo So-Matome
         when /^S$/         then "S"                                            # sentence (either plain or polite)
         when /Splain/      then "S<sub>plain</sub>"                            # plain form sentence
