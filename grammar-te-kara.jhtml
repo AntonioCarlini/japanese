@@ -1,0 +1,58 @@
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{kara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vte{{}}@HI{{kara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li><strong>@Vte{{}}@HI{{kara}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<strong>@Vte{{}}@HI{{kara}}</strong> means that the action of the main sentence
+takes place (or took place) after the subordinate clause. So the meaning might
+be rendered as "after X, " or "since X, " where X is the subordinate clause.
+
+<p></p>
+
+
+<h2> Examples </h2>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{exertion^strong}}ga @KJ{{end}}wa<strong>tte kara</strong>, @KT{{tenisu}}wo shimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Let's play tennis after we've finished studying.
+  </td> </tr>
+</table>
+
+<h2> Notes </h2>
+
+<strong>@HI{{kara}}</strong> can be omitted if the main verb does not have a high degree of volition
+on the part of the speaker.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 177).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

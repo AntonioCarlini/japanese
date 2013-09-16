@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>@HI{{ni shite ha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{ni shite ha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{ni shite ha}}</strong>
+<li> @N{{}} @HI{{datta <strong>ni shite ha</strong>}}
+<li> @Vplain{{}} <strong>@HI{{ni shite ha}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<strong>@HI{{ni shite ha}}</strong> is used to mean that there is a generally agreed upon standard and that the sentence containing
+this phrase is a deviation from that standard in some way. It can be translated as "considering that ...".
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{tall^mountain}}sanha @KJ{{day^book^person}} <strong>ni shite ha</strong> @KJ{{large}}kiidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Mr. Takayama is big for a Japanese person.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{bobu}}ha @KJ{{day^book^word}}wo yoku @KJ{{exertion^strong}}shite iru <strong>ni shita ha</strong> @KJ{{below^hand}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Considering that Bob is studying Japanese hard, he is poor at it.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{he}}ha @KT{{resura-}} datta <strong>ni shite ha</strong> @KJ{{body}}ga@KJ{{little}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Considering that he was a wrestler, he is small.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<strong>@HI{{ni shite ha}}</strong> is the @HI{{te}}-form of @HI{{ni suru}} and literally means "if one makes it ~".
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 309).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

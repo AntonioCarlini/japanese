@@ -1,0 +1,81 @@
+<html>
+
+<head>
+<title>@KJ{{direction}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{direction}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> V<strong>@masustem{{}} @KJ{{direction}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<strong>@KJ{{direction}}</strong> forms a noun from the @HI{{masu}} stem of a verb.
+<p></p>
+
+The meaning can be either "way" or "manner" and is determined by the context.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{ke-ki}}no @KJ{{make}}ri<strong>@KJ{{direction}}</strong>wo @KJ{{teach}}ete kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Please show me how to make a cake.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no<strong>@KJ{{direction}}</strong>wo @KJ{{teach}}ete kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Please teach me how to learn Japanese.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no<strong>@KJ{{direction^method}}</strong>wo @KJ{{teach}}ete kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Please teach me a method to learn Japanese.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+Sino-Japanese @HI{{suru}} verbs take the particle @HI{{no}} before @HI{{shi<strong>@KJ{{direction}}</strong>}},
+for example @KJ{{electricity^tale}}@HI{{no shi}}<strong>@KJ{{direction}}</strong>.
+<p></p>
+
+When <strong>@KJ{{direction}}</strong> means "method", it can be replaced by <strong>@KJ{{direction^method}}</strong>.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 183).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

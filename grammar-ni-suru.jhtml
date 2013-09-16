@@ -1,0 +1,79 @@
+<html>
+
+<head>
+<title>@HI{{ni suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{ni suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{ni suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<strong>@HI{{ni suru}}</strong> means that someone has decided on something.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    A: @HI{{anataha @KJ{{what}}<strong>ni shimasuka</strong>.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+    B: @HI{{@KJ{{private}}ha @KT{{sute-ki}}<strong>ni shimasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    A: What will you have?
+  </td> </tr>
+  <tr class="en"> <td>
+    B: I'll have steak.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{mount^rice*field}}sanha @KT{{amerika}}no @KJ{{car}}<strong>ni shimashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Mr. Okada has decided on an American car.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<strong>@HI{{ni suru}}</strong> usually follows a noun although it can follow a noun plus particle.
+<p></p>
+
+If the tense is nonpast it implies that the decision has just been taken. If it is past, then it is ambiguous
+as to whether the decision has yet been enacted.
+<p></p>
+
+@HI{{ni kimeru}} has the same meaning and can be used interchangeably with <strong>@HI{{ni suru}}</strong>, although @HI{{ni kimeru}}
+is usually used only when the decision is considered to be important.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 310).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

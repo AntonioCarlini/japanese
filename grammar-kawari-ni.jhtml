@@ -1,0 +1,92 @@
+<html>
+
+<head>
+<title>@HI{{kawari ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kawari ni}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @N{{}} @HI{{no <strong>kawari ni</strong>}}
+<li> @Vplain{{}} @HI{{<strong>kawari ni</strong>}}
+<li> @Ai{{}} @HI{{<strong>kawari ni</strong>}}
+<li> @Ana{{}} @HI{{<strong>kawari ni</strong>}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that something (including an action) replaces something else.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{before^life}}no <strong>kawari ni</strong> @KJ{{private}}ga @KJ{{teach}}emashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I taught in place of my teacher.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{soil^weekday^day}}ni @KJ{{attend^matter}}wo suru <strong>kawari ni</strong> @KJ{{month^weekday^day}}ha @KJ{{rest}}mimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    To make up for working on Saturdays I take Mondays off.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{I}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na<strong>kawari ni</strong> @KJ{{house^fare}}ga@KJ{{relax}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    My apartment is inconvenient but the rent is cheap.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta <strong>kawari ni</strong> yoku @KJ{{happenstance^hinder}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    My apartment is inconvenient but the rent is cheap.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+In @N1{{}} <strong>@HI{{kawari ni}}</strong> @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
+@S1{{}} @HI{{<strong>kawari ni</strong>}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
+<p></p>
+
+In @S1{{}} @HI{{<strong>kawari ni</strong>}} @S2{{}}, @HI{{<strong>kawari ni</strong>}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 184).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
