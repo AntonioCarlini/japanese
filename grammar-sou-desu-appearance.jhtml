@@ -30,6 +30,46 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{now}}ni mo @KJ{{rain}}ga @KJ{{descend}}ri<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    It lools like it will rain at any moment.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KJ{{fee^logic}}ha @KJ{{spicy}}<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This dish looks spicy.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{he^woman}}ha @KJ{{head}}ga yosa<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    She seems to be bright.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono @KJ{{desk}}ha @KJ{{length^husband}}<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This desk looks strong and durable.
+  </td> </tr>
+</table>
+</ol>
+
+
 <h2> Notes </h2>
 
 @HI{{ii}} becomes @HI{{yosa sou desu}} and @HI{{nai}} becomes @HI{{nasa sou desu}} in this sentence pattern.
