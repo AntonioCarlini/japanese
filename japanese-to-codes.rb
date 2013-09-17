@@ -54,8 +54,23 @@ def processing()
   state_stack = []
   state = NORMAL
 
+  # Read the file and process includes to an arbirary depth
+  file_data = IO.read(file)
+  include_seen = false
+  begin
+    include_seen = false
+    file_data.gsub!(/@include\{\{\"([^\}]+)\"\}\}/m) {
+      |what|
+      include_seen = true
+      filename = $1
+      result = IO.read(filename)
+      debug_out("inserting for:[#{result}]")
+      result
+    }
+  end while include_seen
+  
   line_num = 0
-  File.open(file, "r").each_line() {
+  file_data.each_line() {
     |line, index|
     line.chomp!()
     line_num += 1
