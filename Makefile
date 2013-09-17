@@ -86,6 +86,7 @@ JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += mnn.jhtml
 JHTML_SRCS += study-material.jhtml
+JHTML_SRCS += test-include.jhtml
 JHTML_SRCS += test.jhtml
 JHTML_SRCS += verbs.jhtml
 
