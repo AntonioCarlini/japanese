@@ -1,7 +1,40 @@
+1. split read-kanjidic into build-kanji-data.rb and build-kanji-with-N-readings.rb
+
+2. decide on acceptable romanisations and fix parsing for all of them
+
+3. generate a page of all acceptable romanisations and the corresponding kanji
+
  - semi-automatic TOC generation?
+
+confusibles
 
 adverbs
 
 counters
+
+<!--
+
+verb tenses (formal + casual):
+
+non-past
+past
+presumptive
+non-presumptive
+imperative
+provisional
+conditional
+potential
+causative
+
+-->
+
+verbs - giving and receiving
+
+verbs - te form usage
+
+set phrases
+
+see "Book - Japanese Verbs and Essentials of Grammar" for V1, V2 etc. forms
+
 
 
