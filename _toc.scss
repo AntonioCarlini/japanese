@@ -1,0 +1,29 @@
+ol.toc {
+    background-color: #ccffcc;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+ol.toc li {
+    background-color: #ccffcc;
+    background: url(dot.gif) repeat-x bottom left;
+    overflow: hidden;
+    padding-bottom: 2px;
+}
+
+ol.toc a,
+ol.toc span {
+    background-color: #ccffcc;
+    display: inline-block;
+    background: #fff;
+    position: relative;
+    bottom: -4px;
+}
+
+ol.toc span {
+    background-color: #ccffcc;
+    float: left;
+    padding: 0 2px 3px 0;
+}
+
+div.toc li.h3 { margin-left: 3.0em; }

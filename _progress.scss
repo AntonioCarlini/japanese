@@ -1,0 +1,49 @@
+/* progress charts */
+table.progress {
+    background-color: cyan;
+    text-align: right;
+    border: 5px solid black;
+    padding: 10px;
+}
+
+/* Item does not exist */
+table.progress tr.none {
+    background-color: white;
+    text-align: center;
+}
+
+/* Item exists and is present */
+table.progress td.ok {
+    background-color: #33ff00;
+    text-align: center;
+}
+
+/* Item exists but is not present */
+table.progress td.missing {
+    background-color: red;
+    text-align: center;
+}
+
+/* Item does not exist */
+table.progress td.none {
+    background-color: white;
+    text-align: center;
+}
+
+/* Item status completed */
+table.progress td.done {
+    background-color: cyan;
+    text-align: center;
+}
+
+/* Item status commenced */
+table.progress td.started {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+/* Item status unknown */
+table.progress tr {
+    background-color: yellow;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+/*
+ * Japanese-English sentences
+ * Mark Japanese with class="jp" and English with class="en".
+ */
+table.sentence {
+    background-color: cyan;
+    text-align: left;
+    border: 0px solid black;
+}
+
+table.sentence tr.jp {
+}
+
+table.sentence tr.jp em {
+    color: #cc3399;
+    color: red;
+    font-weight: bold;
+}
+
+table.sentence tr.en {
+    background-color: white;
+}
+
+table.sentence th {
+    color: black;
+    border: 0px solid black;
+    padding: 3px 7px 2px 7px;
+}
+
+table.sentence td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    padding: 3px 7px 2px 7px;
+}
+
+table.sentence td.heading {
+    color: black;
+    border: 0px solid black;
+    padding: 3px 7px 2px 7px;
+}
+
+
+table.sentence span {
+    color: CC3399;
+    font-weight: bold;
+}

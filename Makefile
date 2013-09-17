@@ -114,10 +114,12 @@ GLOBAL_DEPENDENCIES += $(SCRIPT_FILES)
 
 default: $(TARGETS)
 
+CSS_PARTIALS += $(wildcard _*.scss)
+
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< $@
 
-$(OUTPUT)/%.css: %.css
+$(OUTPUT)/%.css: %.scss $(CSS_PARTIALS)
 	@mkdir -p $(OUTPUT)
-	cp $< $@
+	sass --style compressed $<:$@

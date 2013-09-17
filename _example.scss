@@ -1,0 +1,39 @@
+/* Examples */
+
+table.example {
+    background-color: #ffff00;
+    text-align: left;
+    border: 1px solid black;
+    padding-left: 3%;
+    padding-right: 20%;
+}
+
+table.example th {
+    color: black;
+    border: 1px solid black;
+    padding: 3px 7px 2px 7px;
+}
+
+table.example td {
+    color: navy;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px 7px 2px 7px;
+}
+
+table.example td.heading {
+    color: black;
+    border: 1px solid black;
+    padding: 3px 7px 2px 7px;
+    text-align: center;
+    font-weight: bold;
+}
+
+table.example td.kanji {
+    font-size: 1.5em;
+}
+
+table.example span {
+    color: CC3399;
+    font-weight: bold;
+}

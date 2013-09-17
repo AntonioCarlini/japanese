@@ -1,0 +1,42 @@
+body  {
+    /* background-color: #ccffcc; */
+    background-color: #fff0e0;
+    font-family: verdana;
+}
+
+h1 {
+    color: teal
+}
+
+#harold {color: red}
+
+@import "toc";
+@import "example";
+@import "sentence";
+@import "progress";
+
+p {
+    margin-left: 1.5em;
+    padding-left: 3%;
+    padding-right: 10%;
+}
+
+
+
+.verb_conj_col {
+    min-width: 6em;
+}
+
+.verb_form_col {
+    min-width: 8em;
+}
+
+
+.verb_conj_section {
+    background-color: khaki;
+    color: black;
+}
+
+.verb_form_title {
+    color: black;
+}
