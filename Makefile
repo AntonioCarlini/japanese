@@ -19,6 +19,7 @@ JHTML_SRCS += grammar-dou.jhtml
 JHTML_SRCS += grammar-giving-receiving.jhtml
 JHTML_SRCS += grammar-goro.jhtml
 JHTML_SRCS += grammar-hazu.jhtml
+JHTML_SRCS += grammar-honorific-humble.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-kata.jhtml

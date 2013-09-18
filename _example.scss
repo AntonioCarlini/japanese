@@ -37,3 +37,8 @@ table.example span {
     color: CC3399;
     font-weight: bold;
 }
+// A quick hack to keep the honorific/humble table looking OK
+table.example span.normal {
+    color: navy;
+    font-weight: normal;
+}

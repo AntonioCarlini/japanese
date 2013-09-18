@@ -1,0 +1,73 @@
+<html>
+
+<head>
+<title>Honorific and Humble Language</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Honorific and Humble Language</h1>
+
+<h2> Formation </h2>
+
+@include{{"honorific-humble-verbs-table.inc"}}
+
+<h2> Definition </h2>
+
+The speaker is often expected to show respect for other people and Japanese uses three sorts of devices to achieve this:
+<ul>
+<li> @HI{{sonkeigo}} are expressions of respect for another party
+<li> @HI{{kenjougo}} are expressions that the speaker uses to humble himself
+<li> @HI{{teineigo}} are expressions of politeness
+</ul>
+
+<p></p>
+
+<h3> @HI{{sonkeigo}} </h3>
+
+@HI{{sonkeigo}} is used when referring to the other party's actions or state and serves show respect to that party.
+<p></p>
+
+Verbs are affected in one of two ways.
+<p></p>
+
+<h4> Passive verbs as @HI{{sonkeigo}} </h4>
+Passive verbs are considered to be respectful. 
+<p></p>
+
+<h4> @HI{{o ~ ni naru}} </h4>
+
+The @HI{{o ~ ni naru}} construction can be used for most verbs to produce a respectful form of most verbs. This form is considered
+to be more respectful than using the passive.
+
+<h4> Special Respectful Verb Forms </h4>
+
+The @HI{{o ~ ni naru}} construction cannot be used with some verbs. These verbs have special respectful forms, as shown
+in the table above. These are considered to have the same level of respectfulness as  the @HI{{o ~ ni naru}} construction.
+
+<h4> Nouns, Adjectives and Adverbs </h4>
+
+Nouns, adjectives and adverbs also have a respectful form. This is formed by prefixing with @HI{{o}} or @HI{{go}}.
+<p></p>
+
+<h2> Examples </h2>
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 49).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
