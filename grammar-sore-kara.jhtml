@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>@HI{{sore kara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{sore kara}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @Vte{{}} <strong>@HI{{sore kara}}</strong> ...
+<li> @Vmasu{{}}  <strong>@HI{{sore kara}}</strong> ...
+<li> @Aistem{{}} (@HI{{kute}}) <strong>@HI{{sore kara}}</strong> ...
+<li> @Anastem{{}} @HI{{de}} <strong>@HI{{sore kara}}</strong> ...
+<li> @N1{{}} (@HI{{to}}) @N2{{}} (@HI{{to}}) <strong>@HI{{sore kara}}</strong> @N3{{}} ...
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<strong>@HI{{sore kara}}</strong> is a conjunction that indicates adding to a listing or to a set of states. It means "and then" or "in addition to that".
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kinou ha @KJ{{two^time^interval}} gurai @KJ{{friend^accomplished}}to @KJ{{drink}}nde <strong>sore kara</strong> uchini @KJ{{homecoming}}rimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday I went drinking with my friend for about 2 hours and then went home.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kinou ha @KJ{{two^time^interval}} gurai @KJ{{friend^accomplished}}to @KJ{{drink}}nda. <strong>sore kara</strong> @KJ{{book^roof}}ni @KJ{{draw*near}}tte uchini @KJ{{homecoming}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday I drank with my friend for about 2 hours. Then I dropped by a bookstore and then went home.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+@HI{{<strong>sore kara</strong>}} can be used to add an item that the speaker almost forgot to mention.
+<p></p>
+
+@HI{{<strong>sore kara</strong>}} can be used by the listener to elicit more information during a story telling: "and then?".
+<p></p>
+
+The tense of the clause before @HI{{<strong>sore kara</strong>}} is determined by the tense of the main clause.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 416).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

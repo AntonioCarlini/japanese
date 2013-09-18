@@ -1,0 +1,73 @@
+<html>
+
+<head>
+<title>@HI{{noni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{noni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}} @HI{{<strong>noni</strong>}}
+<li> @Ai{{}} @HI{{<strong>noni</strong>}}
+<li> @Ana{{}} @HI{{<strong>noni</strong>}}
+<li> @N{{}} @HI{{na <strong>noni</strong>}}
+</ol>
+
+<h2> Definition </h2>
+
+Contrary to the expectations set by the clause preceding <strong>@HI{{noni}}</strong>, the clause following <strong>@HI{{noni}}</strong> is actually the case.
+<p></p>
+
+The speaker is in some way personally involved with the preceding clause.
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{every^day Sino^character}}wo @KJ{{exertion^study}}shite iru <strong>noni</strong> yoku @KJ{{memorize}}eraremasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Even though I study kanji every day I cannot memorise them well.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<strong>@HI{{noni}}</strong> carries some emotive overtones.
+<p></p>
+
+@HI{{ga}} can be used in place <strong>@HI{{noni}}</strong> although it is a weaker disjunctive. However, it is also free of the restrictions that apply to <strong>@HI{{noni}}</strong>. The clause
+that precedes @HI{{ga}} may be in the polite style if the main clause is also in the polite style, whereas the clause preceding <strong>@HI{{noni}}</strong> is always in the plain style.
+<p></p>
+
+@HI{{keredo(mo)}}, and not <strong>@HI{{noni}}</strong>, must be used when:
+<ul>
+<li> the main clause involves a question, command, request or suggestion
+<li> the main clause involves an expression of intention
+</ul>
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 331).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
