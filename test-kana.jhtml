@@ -1,0 +1,398 @@
+<html>
+<head>
+<title>Tests</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Japanese Kana</h1>
+
+<h2>Hiragana</h2>
+
+<h3> Basic Characters </h3>
+<table>
+  <tr>
+    <td> @HI{{a}} <br/> a </td>
+    <td> @HI{{i}} <br/> i </td>
+    <td> @HI{{u}} <br/> u </td>
+    <td> @HI{{e}} <br/> e </td>
+    <td> @HI{{o}} <br/> o </td>
+  </tr>
+  <tr>
+    <td> @HI{{ka}} <br/> ka </td>
+    <td> @HI{{ki}} <br/> ki </td>
+    <td> @HI{{ku}} <br/> ku </td>
+    <td> @HI{{ke}} <br/> ke </td>
+    <td> @HI{{ko}} <br/> ko </td>
+  </tr>
+  <tr>
+    <td> @HI{{sa}} <br/> sa </td>
+    <td> @HI{{shi}} <br/> shi </td>
+    <td> @HI{{su}} <br/> su </td>
+    <td> @HI{{se}} <br/> se </td>
+    <td> @HI{{so}} <br/> so </td>
+  </tr>
+  <tr>
+    <td> @HI{{ta}} <br/> ta </td>
+    <td> @HI{{chi}} <br/> chi </td>
+    <td> @HI{{tsu}} <br/> tsu </td>
+    <td> @HI{{te}} <br/> te </td>
+    <td> @HI{{to}} <br/> to </td>
+  </tr>
+  <tr>
+    <td> @HI{{na}} <br/> na </td>
+    <td> @HI{{ni}} <br/> ni </td>
+    <td> @HI{{nu}} <br/> nu </td>
+    <td> @HI{{ne}} <br/> ne </td>
+    <td> @HI{{no}} <br/> no </td>
+  </tr>
+  <tr>
+    <td> @HI{{ha}} <br/> ha </td>
+    <td> @HI{{hi}} <br/> hi </td>
+    <td> @HI{{hu}} <br/> fu </td>
+    <td> @HI{{he}} <br/> he </td>
+    <td> @HI{{ho}} <br/> ho </td>
+  </tr>
+  <tr>
+    <td> @HI{{ma}} <br/> ma </td>
+    <td> @HI{{mi}} <br/> mi </td>
+    <td> @HI{{mu}} <br/> mu </td>
+    <td> @HI{{me}} <br/> me </td>
+    <td> @HI{{mo}} <br/> mo </td>
+  </tr>
+  <tr>
+    <td> @HI{{ya}} <br/> ya </td>
+    <td> &nbsp; </td>
+    <td> @HI{{yu}} <br/> yu </td>
+    <td> &nbsp; </td>
+    <td> @HI{{yo}} <br/> yo </td>
+  </tr>
+  <tr>
+    <td> @HI{{ra}} <br/> ra </td>
+    <td> @HI{{ri}} <br/> ri </td>
+    <td> @HI{{ru}} <br/> ru </td>
+    <td> @HI{{re}} <br/> re </td>
+    <td> @HI{{ro}} <br/> ro </td>
+  </tr>
+  <tr>
+    <td> @HI{{wa}} <br/> wa </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> @HI{{wo}} <br/> wo </td>
+  </tr>
+  <tr>
+    <td> @HI{{n}}  <br/> n  </td>
+    <td> @HI{{nn}} <br/> nn </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+  </tr>
+</table>
+
+<h3> Voiced Characters </h3>
+
+<table>
+  <tr>
+    <td> @HI{{ga}} <br/> ga </td>
+    <td> @HI{{gi}} <br/> gi </td>
+    <td> @HI{{gu}} <br/> gu </td>
+    <td> @HI{{ge}} <br/> ge </td>
+    <td> @HI{{go}} <br/> go </td>
+  </tr>
+  <tr>
+    <td> @HI{{za}} <br/> za </td>
+    <td> @HI{{ji}} <br/> ji </td>
+    <td> @HI{{zu}} <br/> zu </td>
+    <td> @HI{{ze}} <br/> ze </td>
+    <td> @HI{{zo}} <br/> zo </td>
+  </tr>
+  <tr>
+    <td> @HI{{da}} <br/> da </td>
+    <td> @HI{{ji}} <br/> ji </td>
+    <td> @HI{{zu}} <br/> zu </td>
+    <td> @HI{{de}} <br/> de </td>
+    <td> @HI{{do}} <br/> do </td>
+  </tr>
+  <tr>
+    <td> @HI{{ba}} <br/> ba </td>
+    <td> @HI{{bi}} <br/> bi </td>
+    <td> @HI{{bu}} <br/> bu </td>
+    <td> @HI{{be}} <br/> be </td>
+    <td> @HI{{bo}} <br/> bo </td>
+  </tr>
+  <tr>
+    <td> @HI{{pa}} <br/> pa </td>
+    <td> @HI{{pi}} <br/> pi </td>
+    <td> @HI{{pu}} <br/> pu </td>
+    <td> @HI{{pe}} <br/> pe </td>
+    <td> @HI{{po}} <br/> po </td>
+  </tr>
+</table>
+
+<h3>Hiragana Trigraphs</h3>
+
+<table>
+  <tr>
+    <td> @HI{{kya}} <br/> kya </td>
+    <td> @HI{{kyu}} <br/> kyu </td>
+    <td> @HI{{kyo}} <br/> kyo </td>
+  </tr>
+  <tr>
+    <td> @HI{{sha}} <br/> sha </td>
+    <td> @HI{{shu}} <br/> shu </td>
+    <td> @HI{{sho}} <br/> sho </td>
+  </tr>
+  <tr>
+    <td> @HI{{cha}} <br/> cha </td>
+    <td> @HI{{chu}} <br/> chu </td>
+    <td> @HI{{cho}} <br/> cho </td>
+  </tr>
+  <tr>
+    <td> @HI{{nya}} <br/> nya </td>
+    <td> @HI{{nyu}} <br/> nyu </td>
+    <td> @HI{{nyo}} <br/> nyo </td>
+  </tr>
+  <tr>
+    <td> @HI{{hya}} <br/> hya </td>
+    <td> @HI{{hyu}} <br/> hyu </td>
+    <td> @HI{{hyo}} <br/> hyo </td>
+  </tr>
+  <tr>
+    <td> @HI{{mya}} <br/> myo </td>
+    <td> @HI{{myu}} <br/> myu </td>
+    <td> @HI{{myo}} <br/> myo </td>
+  </tr>
+  <tr>
+    <td> @HI{{rya}} <br/> ryo </td>
+    <td> @HI{{ryu}} <br/> ryu </td>
+    <td> @HI{{ryo}} <br/> ryo </td>
+  </tr>
+  <tr>
+    <td> @HI{{gya}} <br/> gyo </td>
+    <td> @HI{{gyu}} <br/> gyu </td>
+    <td> @HI{{gyo}} <br/> gyo </td>
+  </tr>
+  <tr>
+    <td> @HI{{ja}} <br/> jo </td>
+    <td> @HI{{ju}} <br/> ju </td>
+    <td> @HI{{jo}} <br/> jo </td>
+  </tr>
+  <tr>
+    <td> @HI{{bya}} <br/> byo </td>
+    <td> @HI{{byu}} <br/> byu </td>
+    <td> @HI{{byo}} <br/> byo </td>
+  </tr>
+  <tr>
+    <td> @HI{{pya}} <br/> pyo </td>
+    <td> @HI{{pyu}} <br/> pyu </td>
+    <td> @HI{{pyo}} <br/> pyo </td>
+  </tr>
+
+</table>
+
+<h3>Hiragana Symbols</h3>
+
+<table>
+  <tr>
+    <td> @HI{{.}} <br/> . </td>
+    <td> @HI{{,}} <br/> , </td>
+    <td> @HI{{[}} <br/> [ </td>
+    <td> @HI{{]}} <br/> ] </td>
+  </tr>
+  <tr>
+    <td> @HI{{wi}} <br/> wi </td>
+    <td> @HI{{we}} <br/> we </td>
+    <td> @HI{{vu}} <br/> vu </td>
+  </tr>
+</table>
+
+<h2>Katakana</h2>
+
+<table>
+  <tr>
+    <td> @KT{{a}} <br/> a </td>
+    <td> @KT{{i}} <br/> i </td>
+    <td> @KT{{u}} <br/> u </td>
+    <td> @KT{{e}} <br/> e </td>
+    <td> @KT{{o}} <br/> o </td>
+  </tr>
+  <tr>
+    <td> @KT{{ka}} <br/> ka </td>
+    <td> @KT{{ki}} <br/> ki </td>
+    <td> @KT{{ku}} <br/> ku </td>
+    <td> @KT{{ke}} <br/> ke </td>
+    <td> @KT{{ko}} <br/> ko </td>
+  </tr>
+  <tr>
+    <td> @KT{{sa}} <br/> sa </td>
+    <td> @KT{{shi}} <br/> shi </td>
+    <td> @KT{{su}} <br/> su </td>
+    <td> @KT{{se}} <br/> se </td>
+    <td> @KT{{so}} <br/> so </td>
+  </tr>
+  <tr>
+    <td> @KT{{ta}} <br/> ta </td>
+    <td> @KT{{chi}} <br/> chi </td>
+    <td> @KT{{tsu}} <br/> tsu </td>
+    <td> @KT{{te}} <br/> te </td>
+    <td> @KT{{to}} <br/> to </td>
+  </tr>
+  <tr>
+    <td> @KT{{na}} <br/> na </td>
+    <td> @KT{{ni}} <br/> ni </td>
+    <td> @KT{{nu}} <br/> nu </td>
+    <td> @KT{{ne}} <br/> ne </td>
+    <td> @KT{{no}} <br/> no </td>
+  </tr>
+  <tr>
+    <td> @KT{{ha}} <br/> ha </td>
+    <td> @KT{{hi}} <br/> hi </td>
+    <td> @KT{{hu}} <br/> hu </td>
+    <td> @KT{{he}} <br/> he </td>
+    <td> @KT{{ho}} <br/> ho </td>
+  </tr>
+  <tr>
+    <td> @KT{{ma}} <br/> ma </td>
+    <td> @KT{{mi}} <br/> mi </td>
+    <td> @KT{{mu}} <br/> mu </td>
+    <td> @KT{{me}} <br/> me </td>
+    <td> @KT{{mo}} <br/> mo </td>
+  </tr>
+  <tr>
+    <td> @KT{{ya}} <br/> ya </td>
+    <td> &nbsp; </td>
+    <td> @KT{{yu}} <br/> yu </td>
+    <td> &nbsp; </td>
+    <td> @KT{{yo}} <br/> yo </td>
+  </tr>
+  <tr>
+    <td> @KT{{ra}} <br/> ra </td>
+    <td> @KT{{ri}} <br/> ri </td>
+    <td> @KT{{ru}} <br/> ru </td>
+    <td> @KT{{re}} <br/> re </td>
+    <td> @KT{{ro}} <br/> ro </td>
+  </tr>
+  <tr>
+    <td> @KT{{wa}} <br/> wa </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> @KT{{wo}} <br/> wo </td>
+  </tr>
+  <tr>
+    <td> @KT{{n}}  <br/> n  </td>
+    <td> @KT{{nn}} <br/> nn </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+    <td> &nbsp; </td>
+  </tr>
+</table>
+
+<h3> Voiced Characters </h3>
+
+<table>
+  <tr>
+    <td> @KT{{ga}} <br/> ga </td>
+    <td> @KT{{gi}} <br/> gi </td>
+    <td> @KT{{gu}} <br/> gu </td>
+    <td> @KT{{ge}} <br/> ge </td>
+    <td> @KT{{go}} <br/> go </td>
+  </tr>
+  <tr>
+    <td> @KT{{za}} <br/> za </td>
+    <td> @KT{{ji}} <br/> ji </td>
+    <td> @KT{{zu}} <br/> zu </td>
+    <td> @KT{{ze}} <br/> ze </td>
+    <td> @KT{{zo}} <br/> zo </td>
+  </tr>
+  <tr>
+    <td> @KT{{da}} <br/> da </td>
+    <td> @KT{{ji}} <br/> ji </td>
+    <td> @KT{{zu}} <br/> zu </td>
+    <td> @KT{{de}} <br/> de </td>
+    <td> @KT{{do}} <br/> do </td>
+  </tr>
+  <tr>
+    <td> @KT{{ba}} <br/> ba </td>
+    <td> @KT{{bi}} <br/> bi </td>
+    <td> @KT{{bu}} <br/> bu </td>
+    <td> @KT{{be}} <br/> be </td>
+    <td> @KT{{bo}} <br/> bo </td>
+  </tr>
+  <tr>
+    <td> @KT{{pa}} <br/> pa </td>
+    <td> @KT{{pi}} <br/> pi </td>
+    <td> @KT{{pu}} <br/> pu </td>
+    <td> @KT{{pe}} <br/> pe </td>
+    <td> @KT{{po}} <br/> po </td>
+  </tr>
+</table>
+
+<h3>Katakana Trigraphs</h3>
+
+<table>
+  <tr>
+    <td> @KT{{kya}} <br/> kya </td>
+    <td> @KT{{kyu}} <br/> kyu </td>
+    <td> @KT{{kyo}} <br/> kyo </td>
+  </tr>
+  <tr>
+    <td> @KT{{sha}} <br/> sha </td>
+    <td> @KT{{shu}} <br/> shu </td>
+    <td> @KT{{sho}} <br/> sho </td>
+  </tr>
+  <tr>
+    <td> @KT{{cha}} <br/> cha </td>
+    <td> @KT{{chu}} <br/> chu </td>
+    <td> @KT{{cho}} <br/> cho </td>
+  </tr>
+  <tr>
+    <td> @KT{{nya}} <br/> nya </td>
+    <td> @KT{{nyu}} <br/> nyu </td>
+    <td> @KT{{nyo}} <br/> nyo </td>
+  </tr>
+  <tr>
+    <td> @KT{{hya}} <br/> hya </td>
+    <td> @KT{{hyu}} <br/> hyu </td>
+    <td> @KT{{hyo}} <br/> hyo </td>
+  </tr>
+  <tr>
+    <td> @KT{{mya}} <br/> mya </td>
+    <td> @KT{{myu}} <br/> myu </td>
+    <td> @KT{{myo}} <br/> myo </td>
+  </tr>
+  <tr>
+    <td> @KT{{rya}} <br/> rya </td>
+    <td> @KT{{ryu}} <br/> ryu </td>
+    <td> @KT{{ryo}} <br/> ryo </td>
+  </tr>
+  <tr>
+    <td> @KT{{gya}} <br/> gya </td>
+    <td> @KT{{gyu}} <br/> gyu </td>
+    <td> @KT{{gyo}} <br/> gyo </td>
+  </tr>
+  <tr>
+    <td> @KT{{ja}} <br/> ja </td>
+    <td> @KT{{ju}} <br/> ju </td>
+    <td> @KT{{jo}} <br/> jo </td>
+  </tr>
+  <tr>
+    <td> @KT{{bya}} <br/> bya </td>
+    <td> @KT{{byu}} <br/> byu </td>
+    <td> @KT{{byo}} <br/> byo </td>
+  </tr>
+  <tr>
+    <td> @KT{{pya}} <br/> pya </td>
+    <td> @KT{{pyu}} <br/> pyu </td>
+    <td> @KT{{pyo}} <br/> pyo </td>
+  </tr>
+
+</table>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+</html>

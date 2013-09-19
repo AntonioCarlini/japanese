@@ -97,14 +97,19 @@ JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += mnn.jhtml
 JHTML_SRCS += study-material.jhtml
-JHTML_SRCS += test-include.jhtml
-JHTML_SRCS += test.jhtml
 JHTML_SRCS += verbs.jhtml
+
+TEST_JHTML_SRCS += test-include.jhtml
+TEST_JHTML_SRCS += test-kana.jhtml
+TEST_JHTML_SRCS += test.jhtml
 
 CSS_SRCS += japanese.css
 
+TEST_TARGETS += $(foreach JH,$(TEST_JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
+
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
+TARGETS += $(TEST_TARGETS)
 
 DATA_FILES += kanji.data
 DATA_FILES += references.data
