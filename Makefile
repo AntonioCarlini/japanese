@@ -82,6 +82,7 @@ JHTML_SRCS += grammar-verb-use-of-potential.jhtml
 JHTML_SRCS += grammar-verb-use-of-volitional.jhtml
 JHTML_SRCS += grammar-yotei.jhtml
 JHTML_SRCS += grammar-you-desu.jhtml
+JHTML_SRCS += grammar-zutsu.jhtml
 JHTML_SRCS += grammar.jhtml
 JHTML_SRCS += index.jhtml
 JHTML_SRCS += jpod-absolute-beginner.jhtml

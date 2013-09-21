@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{zutsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{zutsu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>quantifier</em>  <strong>@HI{{zutsu}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<strong>@HI{{zutsu}}</strong> is a particle that indicates that a quantity is equally distributed.
+</br>
+
+<strong>@HI{{zutsu}}</strong> always follows a quantifier.
+</br>
+
+If <strong>@HI{{zutsu}}</strong> is removed from the sentence the maning hardly changes. 
+<strong>@HI{{zutsu}}</strong> serves only focus on the equal distribution.
+</br>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{dono @KT{{kurasu}}ni mo @KJ{{woman^child^study^life}}ga @KJ{{six^person}} <strong>zutsu</strong> ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There were six girl students in each class.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p 572).
+</ol>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
