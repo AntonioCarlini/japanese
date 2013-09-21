@@ -99,7 +99,8 @@ def processing()
         when /Nplace/   then "N<sub>place</sub>"
         when /N\d?/  then
           sub = style[1..-1] # lose first character
-          string = "N<sub>#{sub}</sub>"
+          string = "N"
+          string += "<sub>#{sub}</sub>" unless sub.nil?() || sub.empty?()
           string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
           string
 

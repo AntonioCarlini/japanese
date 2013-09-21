@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,18 +13,16 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li>@Vru{{}}(<em>volitional</em>) <strong>@HI{{tame ni}}</strong>, <em>volitional expression</em>
 <li>@N{{}} @HI{{no}} <strong>@HI{{tame ni}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
 These sentence patterns indicate a purpose. The pattern @N{{}} @HI{{no <strong>tame ni</strong>}} can also indicate
 "for the benefit of @N{{}}".
-<p></p>
+</br>>
 
 <h2> Examples </h2>
 
@@ -54,17 +53,15 @@ These sentence patterns indicate a purpose. The pattern @N{{}} @HI{{no <strong>t
 The similar expression @HI{{you ni}} is used in clauses with verbs that do not contain volition,
 whereas <strong>@HI{{tame ni}}</strong> is used with verbs that do. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
-<p></p>
+</br>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 </ol>
-</p>
 
-<p></p>
+</br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
