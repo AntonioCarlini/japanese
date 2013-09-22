@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -13,17 +14,49 @@
 <h2> Formation </h2>
 
 <ol>
+<li> @Aistem{{}} @HI{{ku}}<strong>@HI{{suru}}</strong>
+<li> @Anastem{{}} @HI{{ni}}<strong>@HI{{suru}}</strong>
 <li> @N{{}} <strong>@HI{{ni suru}}</strong>
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{ni suru}}</strong> means that someone has decided on something.
-<p></p>
+<strong>@HI{{ni suru}}</strong> means that someone turns something into a certain state.
+</br>
+
+<strong>@N{{}}@HI{{ni suru}}</strong> can also mean that someone has decided on something.
+</br>
 
 <h2> Examples </h2>
 
 <ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{metropolis^roof}}wo kirei<strong>ni shimasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I will clean my room.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{salt}}no @KJ{{quantity}}wo @KJ{{half^part}}<strong>ni shimasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I will reduce the amount of salt by half.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{sound}}wo @KJ{{large}}kiku shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I will turn up the volume.
+  </td> </tr>
+</table>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -68,6 +101,7 @@ is usually used only when the decision is considered to be important.
 <p>
 <ol>
 <li> @REF{{DOBJG}}. (p 310).
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
 </ol>
 </p>
 

@@ -261,10 +261,12 @@
 
 <h2> <a name="hi-su">@HI{{su}}</a> </h2>
 
+<h3> <a href="grammar-sugiru.html"> @HI{{sugiru}} </a> </h3>
 <h3> <a href="grammar-zutsu.html"> @HI{{zutsu}} </a> </h3>
 
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
 
+<h3> <a href="grammar-soshite.html"> @HI{{soshite}} </a> </h3>
 <h3> <a href="grammar-sore-de.html"> @HI{{sore de}} </a> </h3>
 <h3> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a> </h3>
 <h3> <a href="grammar-sore-ni.html"> @HI{{sore ni}} </a> </h3>
@@ -275,6 +277,10 @@
 
 <h3> <a href="grammar-particle-mo.html"> @HI{{mo}} (particle) </a> </h3>
 <h3> <a href="grammar-quantifier-mo.html"> <em>quantifier</em> @HI{{mo}} </a> </h3>
+
+<h2> <a name="hi-ya">@HI{{ya}}</a> </h2>
+
+<h3> <a href="grammar-yasui.html"> @HI{{yasui}} </a> </h3>
 
 <h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
 
@@ -295,6 +301,7 @@
 <h2> <a name="en-A"> A </a> </h2>
 
 <h3> <a href="adjectives.html"> Adjectives </a> </h3>
+<h3> <a href="grammar-adverbs.html"> How to make adverbs from adjectives </a> </h3>
 
 <h2> <a name="en-G"> G </a> </h2>
 <h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>

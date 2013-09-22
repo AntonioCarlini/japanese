@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Adverbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Adverbs</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}<strong>@HI{{ku}}</strong>V
+<li> @Anastem{{}}<strong>@HI{{ni}}</strong>V
+</ol>
+
+<h2> Definition </h2>
+
+Both forms of adjectives can form adverbs.
+</br>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{plains^vegetable}}wo @KJ{{dainty}}ka<strong>ku</strong>@KJ{{cut}}te kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please cut the vegetables into small pieces.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^spirit}}ya @KJ{{water}}ha @KJ{{large^cut}}<strong>ni</strong> @KJ{{use}}imashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's conserve electricity and water.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
+</ol>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
