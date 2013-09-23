@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,39 +13,60 @@
 
 <h2> Formation </h2>
 
-<p>
 <dl>
 <li>@Vplain{{}} <strong>@HI{{sou desu}}</strong>
 <li>@Ai{{}} <strong>@HI{{sou desu}}</strong>
 <li>@Anastem{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
 <li>@N{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
 This sentence pattern is used to relay information that the speaker has obtained from another source. In using this
 sentence pattern the speaker is not adding his own point of view.
-
-<p></p>
+</br>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{heavens^spirit^beforehand^report}}ni yoruto, ashitaha @KJ{{cold}}ku naru<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    According to the weather report, it will be cold tomorrow.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{bari}}@KJ{{island}}ha totemo kireida<strong>sou desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I hear that Bali is very beautiful.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
 To specify the source of the information, use N @HI{{ni yoruto}}
-<p></p>
+</br>
+
+In the @HI{{<strong>sou desu</strong>}} construction the source of the information may be 3rd hand. When 
+@HI{{to @KJ{{say}}tte imashita}} is used the source of the information is always whoever is said to
+have spoken.
+</br>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 47).
 <li> @REF{{DOBJG}}. (p 407).
 </ol>
-</p>
 
-<p></p>
+</br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

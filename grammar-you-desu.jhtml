@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,7 +13,6 @@
 
 <h2> Formation </h2>
 
-<p>
 <dl>
 <li>@Vplain{{}} <strong>@HI{{you desu}}</strong>
 <li>@Ai{{}} <strong>@HI{{you desu}}</strong>
@@ -20,7 +20,6 @@
 <li>@N{{}} @HI{{no}} <strong>@HI{{you desu}}</strong>
 <li>demonstartive <strong>@HI{{you desu}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -28,22 +27,42 @@ This sentence pattern is used to convey the speaker's subjective conjecture base
 the speaker directly perceives. The speaker bases his judgement on first-hand reliable
 information, usually visual information.
 
-<p></p>
+</br>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{matter^happenstance}}no<strong>you desu</strong> ne. @KT{{patoka-}}to
+    @KJ{{salvation^hurry^car}}ga @KJ{{come}}te imasuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    It looks like there has been an accident. A patrol car and ambulance are there.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sekimo @KJ{{exit}}rushi, @KJ{{head}}mo @KJ{{pain}}i. doumo kaze wo hita<strong>you desu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I have a cough and a headache. It looks like I've caught a cold.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 47).
 <li> @REF{{DOBJG}}. (p 547).
 </ol>
-</p>
 
-<p></p>
+</br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
