@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tokoro}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tokoro}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
+<li> @Vte{{}} @HI{{iru}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
+<li> @Vta{{}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
+</ol>
+
+<h2> Definition </h2>
+
+@HI{{tokoro}} can mean a physical place, but in these constructions it has come to indicate a temporal position. In the
+sentence patterns above, it means a specific point in time during the course of an action.
+</br>
+
+In @Vru{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action is about to start.
+</br>
+
+In @Vte{{}} @HI{{iru <strong>tokoro</strong>}} the meaning is that the action is happening now.
+</br>
+
+In @Vte{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action has just been completed.
+</br>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    A: @HI{{@KJ{{daytime}}go@KJ{{meal}}ha mou @KJ{{eat}}mashitaka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+    B: @HI{{iie, korekara @KJ{{eat}}beru <strong>tokoro</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    A: Have you had lunch yet?
+  </td> </tr>
+  <tr class="en"> <td>
+    B: No, I'm just about to have it now.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    A: @HI{{@KJ{{happenstance^hinder}}no @KJ{{meadow^cause}}ga wakarimashitaka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+    B: @HI{{iie, @KJ{{now tune}}bete iru <strong>tokoro</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    A: Do you know what caused the breakdown?
+  </td> </tr>
+  <tr class="en"> <td>
+    B: No, We are investigating it at the moment.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{tatta@KJ{{now}} @KT{{basu}}ga @KJ{{exit}}ta <strong>tokoro</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The bus left just now.
+  </td> </tr>
+</table>
+</ol>
+
+
+<h2> Notes </h2>
+
+@HI{{<strong>tokoro</strong>desu}} is a noun sentence and can be used in various structures.
+</br>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 46).
+<li> @REF{{DOBJG}}. (p 496).
+</ol>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

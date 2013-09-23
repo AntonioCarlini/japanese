@@ -28,7 +28,8 @@
 <strong>@HI{{bakari}}</strong> is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
 <p></p>
 
-@Vta{{}} <strong>@HI{{bakari}}</strong> indicates that something has just happened or has just been done.
+@Vta{{}} <strong>@HI{{bakari}}</strong> indicates that something has just happened or has just been done. It is the
+speaker's feeling that determines whether the action is recent or not.
 <p></p>
 
 @Vte{{}} <strong>@HI{{bakari}}</strong> indicates that something is being done, with a nuance that nothing else is being done.
@@ -39,6 +40,18 @@
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sakki @KJ{{daytime}}gohanwo @KJ{{eat}}beta <strong>bakari</strong> desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I had lunch just a little while ago.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -46,6 +59,7 @@
 <p>
 <ol>
 <li> @REF{{DOBJG}}. (p 84).
+<li> @REF{{MNN-TR-II}}. (Chapter 46).
 </ol>
 </p>
 

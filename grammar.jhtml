@@ -219,6 +219,7 @@
 
 <h2> <a name="hi-to">@HI{{to}}</a> </h2>
 
+<h3> <a href="grammar-tokoro.html"> @HI{{tokoro}} </a> </h3>
 <h3> <a href="grammar-dou.html"> @HI{{dou}} </a> </h3>
 
 <h2> <a name="hi-na">@HI{{na}}</a> </h2>
@@ -232,6 +233,11 @@
 <h3> <a href="grammar-ni-shite-wa.html"> @HI{{ni shite ha}} </a> </h3>
 <h3> <a href="grammar-ni-suru.html"> @HI{{ni suru}} </a> </h3>
 
+<h2> <a name="hi-no">@HI{{no}}</a> </h2>
+
+<h3> <a href="grammar-noni-although.html"> @HI{{noni}} (although) </a> </h3>
+<h3> <a href="grammar-noni-purpose.html"> @HI{{noni}} (purpose) </a> </h3>
+
 <h2> <a name="hi-ha">@HI{{ha}}</a> </h2>
 
 <h3> <a href="grammar-quantifier-wa.html"> <em>quantifier</ha> @HI{{ha}} </a> </h3>
@@ -239,6 +245,7 @@
 <h3> <a href="grammar-ba-hodo.html"> @HI{{ba}} ... @HI{{hodo}} </a> </h3>
 <h3> <a href="grammar-ba-yokatta.html"> @HI{{ba yokatta}} </a> </h3>
 <h3> <a href="grammar-bakari.html"> @HI{{bakari}} </a> </h3>
+<h3> <a href="grammar-baai.html"> @HI{{baai}} </a> </h3>
 
 <h2> <a name="hi-he">@HI{{he}}</a> </h2>
 
