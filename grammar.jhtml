@@ -185,7 +185,12 @@
 
 <h3> <a href="grammar-kata.html"> @HI{{kata}} </a> </h3>
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
+<h3> <a href="grammar-kamo-shiremasen.html"> @HI{{kamo shiremasen}} </a> </h3>
 <h3> <a href="grammar-kawari-ni.html"> @HI{{kawari ni}} </a> </h3>
+
+<h2> <a name="hi-ki">@HI{{ki}}</a> </h2>
+
+<h3> <a href="grammar-kitto-tabun-moshikashitara.html"> @HI{{kitto/tabunn/moshikashitara}} </a> </h3>
 
 <h2> <a name="hi-ko">@HI{{ko}}</a> </h2>
 
@@ -212,9 +217,11 @@
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
 <h3> <a href="grammar-te-shimau.html"> @Vte{{}}@HI{{shimau}} </a> </h3>
+<h3> <a href="grammar-quantifier-de.html"> <em>quantifier</em> @HI{{de}} </a> </h3>
 <h3> <a href="grammar-dekakete-kuru.html"> @KJ{{exit}}@HI{{kakete}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-dekiru.html"> @HI{{dekiru}} </a> </h3>
 <h3> <a href="grammar-demo.html"> @HI{{demo}} </a> </h3>
+<h3> <a href="grammar-deshou.html"> @HI{{deshou}} </a> </h3>
 <h3> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a> </h3>
 
 <h2> <a name="hi-to">@HI{{to}}</a> </h2>
@@ -226,6 +233,7 @@
 
 <h3> <a href="grammar-nai-de.html"> @HI{{nai de}} </a> </h3>
 <h3> <a href="grammar-nagara.html"> @HI{{nagara}} </a> </h3>
+<h3> <a href="grammar-nanika-shinpai-na-koto.html"> @HI{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}} </a> </h3>
 
 <h2> <a name="hi-ni">@HI{{ni}}</a> </h2>
 
@@ -250,6 +258,10 @@
 <h2> <a name="hi-he">@HI{{he}}</a> </h2>
 
 <h3> <a href="grammar-particle-e.html"> @HI{{he}} (particle) </a> </h3>
+
+<h2> <a name="hi-he">@HI{{he}}</a> </h2>
+
+<h3> <a href="grammar-hou-ga-ii.html"> @HI{{hou ga ii}} </a> </h3>
 
 <h2> <a name="hi-ma">@HI{{ma}}</a> </h2>
 

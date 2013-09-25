@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hou ga ii}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{hou ga ii}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li>@Vta{{}} <strong>@HI{{hou ga ii}}</strong>
+<li>@Vnai{{}} <strong>@HI{{hou ga ii}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{hou ga ii}}</strong> is used to make a suggestion or to give advice. This construction may come across
+as though the speaker is imposing his opinion on the listener, and so it should be used with care.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^day carry^move}}shita <strong>hou ga ii</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is good to exercise every day.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@KJ{{heat}}ga arundesu.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{jaa, ofuroni @KJ{{enter}}ranai <strong>hou ga ii</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: I have a fever.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: So you'd better not take a bath.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{<strong>hou ga ii</strong>}} implies a choice between two alternatives, even if one is only implied. If a simple
+suggestion is being made then @HI{{tara ii}} should be used instead.
+</p>
+
+<p>
+It is possible to use @Vru{{}} @HI{{<strong>hou ga ii</strong>}}, in which case the suggestion is slightly less strong.
+However, it is not possible to use the negative past form instead of @Vnai{{}}.
+</p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{DOBJG}}. (p 138).
+</ol>
+</p>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
