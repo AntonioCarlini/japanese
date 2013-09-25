@@ -3,11 +3,73 @@
 <title>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e;</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+div.nav {
+    position:fixed;
+}
+
+ul.nav {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+ul.nav a {
+    display:block;
+    width:60px;
+}
+
+ul.nav li {
+    float:left;
+}
+
+ul.nav a:hover {
+    color:grey;
+}
+
+div.main {
+    margin-top:200px;
+}
+
+</style>
 </head>
 <body>
-<h1>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e;</h1>
+<h1>@HI{{minnna no}} @KJ{{day^book^word}} &#x521d;@KJ{{class}} II</h1>
 
+<div class="nav">
+<ul class="nav">
+  <li> <a href="#chapter1">1</a> <li> <a href="#chapter2">2</a> <li> <a href="#chapter3">3</a>
+  <li> <a href="#chapter4">4</a> <li> <a href="#chapter5">5</a> <li> <a href="#chapter6">6</a>
+  <li> <a href="#chapter7">7</a> <li> <a href="#chapter8">8</a> <li> <a href="#chapter9">9</a>
+
+  <li> <a href="#chapter10">10</a>
+  <li> <a href="#chapter11">11</a> <li> <a href="#chapter12">12</a> <li> <a href="#chapter13">13</a>
+  <li> <a href="#chapter14">14</a> <li> <a href="#chapter15">15</a> <li> <a href="#chapter16">16</a>
+  <li> <a href="#chapter17">17</a> <li> <a href="#chapter18">18</a> <li> <a href="#chapter19">19</a>
+
+  <li> <a href="#chapter20">20</a>
+  <li> <a href="#chapter21">21</a> <li> <a href="#chapter22">22</a> <li> <a href="#chapter23">23</a>
+  <li> <a href="#chapter24">24</a> <li> <a href="#chapter25">25</a> <li> <a href="#chapter26">26</a>
+  <li> <a href="#chapter27">27</a> <li> <a href="#chapter28">28</a> <li> <a href="#chapter29">29</a>
+
+  <li> <a href="#chapter30">30</a>
+  <li> <a href="#chapter31">31</a> <li> <a href="#chapter32">32</a> <li> <a href="#chapter33">33</a>
+  <li> <a href="#chapter34">34</a> <li> <a href="#chapter35">35</a> <li> <a href="#chapter36">36</a>
+  <li> <a href="#chapter37">37</a> <li> <a href="#chapter38">38</a> <li> <a href="#chapter39">39</a>
+
+  <li> <a href="#chapter40">40</a>
+  <li> <a href="#chapter41">41</a> <li> <a href="#chapter42">42</a> <li> <a href="#chapter43">43</a>
+  <li> <a href="#chapter44">44</a> <li> <a href="#chapter45">45</a> <li> <a href="#chapter46">46</a>
+  <li> <a href="#chapter47">47</a> <li> <a href="#chapter48">48</a> <li> <a href="#chapter49">49</a>
+
+  <li> <a href="#chapter50">50</a>
+</ul>
+</div>
+
+<div class="main">
 <!-- update TOC as chapters are completed -->
+</br></br>
 
 <div class="toc">
 <h1>Table of Contents</h1>
@@ -1592,6 +1654,6 @@ is marked by @HI{{ga}}.
 <h2><a name="chapter49">Chapter 49</a></h2>
 
 <h2><a name="chapter50">Chapter 50</a></h2>
-
+</div>
 </body>
 </html>
