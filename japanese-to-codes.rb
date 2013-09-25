@@ -81,7 +81,7 @@ def processing()
       orig_to_handle = to_handle.dup()
 
       # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
-      to_handle.gsub!(/@([a-zA-Z0-9]{1,8})\{\{(\w*)\}\}/) {
+      to_handle.gsub!(/@([a-zA-Z0-9]{1,9})\{\{(\w*)\}\}/) {
         |type|
         style = $1
         brkt = $2
@@ -116,7 +116,12 @@ def processing()
         when /Vplain/      then "V<sub>plain</sub>"                            # plain form
         when /Vru/         then "V#{convert_to_hiragana('ru')}"                # dictionary form
         when /Vnai/        then "V#{convert_to_hiragana('nai')}"               # negative
-        when /Vte/         then "V#{convert_to_hiragana('te')}"                # te form
+        when /Vnaistem/    then "V<del>#{convert_to_hiragana('nai')}</del>"    # negative stem
+        when /Vru/         then "V#{convert_to_hiragana('ru')}"                # dictionary form
+        when /Vmasu/       then "V#{convert_to_hiragana('masu')}"              # masu form
+        when /Vmasustem/   then "V<del>#{convert_to_hiragana('masu')}</del>"   # masu stem
+        when /Vnai/        then "V#{convert_to_hiragana('nai')}"               # negative
+        when /Vte/         then "V#{convert_to_hiragana('te')}"                # te-form
         when /Vta/         then "V#{convert_to_hiragana('ta')}"                # past
         when /Vteiru/      then "V#{convert_to_hiragana('teiru')}"             # te iru form
         when /Vba/         then "V#{convert_to_hiragana('ba')}"                # ba (conditional)
