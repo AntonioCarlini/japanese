@@ -132,6 +132,7 @@ SCRIPT_FILES += DataKanji.rb
 SCRIPT_FILES += DataKanjidic.rb
 SCRIPT_FILES += DataRefs.rb
 SCRIPT_FILES += DebugSupport.rb
+SCRIPT_FILES += FastKanji.rb
 SCRIPT_FILES += HiraganaSupport.rb
 SCRIPT_FILES += Kanji.rb
 SCRIPT_FILES += KanjiSupport.rb

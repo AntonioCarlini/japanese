@@ -9,7 +9,7 @@ require 'Kanji.rb'
 kanji_by_keyword = {} # hash of keyword (as symbol) to kanji unicode
 
 def kanji_keyword(k)
-  return k.english().first().downcase().sub(' ', "*")
+  return k.english().first().downcase().gsub(' ', "*")
 end
 
 # read and process the kanji datafile 
