@@ -1,0 +1,27 @@
+table.highlight
+{
+  border-collapse: collapse;
+  border-width: medium;
+  border: none;
+}
+
+table.highlight, th.highlight, td.highlight
+{
+  margin-left: 1em;
+  text-alignment: left;
+}
+
+table.highlight th {
+  border: 1px solid black;
+  min-width: 7em;
+}
+
+table.highlight td {
+  padding-left: 1em;
+  cell-spacing: 2em;
+  border: none
+}
+
+table.highlight tr:hover {
+  font-weight: bold;
+}
