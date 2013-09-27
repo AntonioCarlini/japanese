@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -34,6 +35,27 @@ to indicate completion or regret can only be determined by context.
 <p></p>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{sino-^character}}no@KJ{{inn^topic}}ha mou ya<strong>tte shimaimashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have already done my kanji homework.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{pasupo-to}}wo nukaushi<strong>te shimaimashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I lost my passport.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
