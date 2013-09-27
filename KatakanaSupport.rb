@@ -69,7 +69,7 @@ def convert_to_katakana(text)
         result << jp_unicode(s)
         current = ""
       elsif current[0,1] == current[1,1]
-        result << jp_unicode(0x3063)
+        result << jp_unicode(0x30c3)  # Katakana small tsu
         current = current[1,1]
       elsif current[0,1] =~ /n/ix && current != "ny"
         # n followed by anything other than aiueo or y (nya etc. should be left alone)
