@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to @KJ{{say}}tte imashita}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to @KJ{{say}}tte imashita}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @Splain{{}} @HI{{<strong>to @KJ{{say}}tte imashita</strong>}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This pattern is used to convey the words of a third person.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rice*field^in}}sanha ashita @KJ{{rest}}mu<strong>to @KJ{{say}}tte imashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka said that he would take a day off tomorrow.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+The related pattern @HI{{to iimashita}} is used to quote a third person's words.
+</p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

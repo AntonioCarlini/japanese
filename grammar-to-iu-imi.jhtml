@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to iu @KJ{{idea^flavor}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to iu @KJ{{idea^flavor}}}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> X@HI{{ha <strong>to iu @KJ{{idea^flavor}}</strong>desu}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This pattern is used to ask the meaning of the word or phrase represented by "X".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{stand*up^enter^prohibition^stop}}a @KJ{{enter}}runa<strong>to iu @KJ{{idea^flavor}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      "Tachiri-Kinshi" means don't enter.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}} @HI{{<strong>to iu @KJ{{idea^flavor}}</strong>desu.}} sounds more determined.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

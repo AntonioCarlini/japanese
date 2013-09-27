@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Use of the Imperative and Prohibitive</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Use of the Imperative and Prohibitive</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{person}} @HI{{wo}} <strong>@Vsaseru{{}}</strong>(intransitive)
+<li> @N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} <strong>@Vsaseru{{}}</strong>(transitive)
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The imperative is used to command a person to do something and the prohibitive form is used to order
+a person not to do something. Both forms have strong coercive overtones and as such their use is
+limited.
+</br>
+They can be used :
+<ol>
+<li> by a father to his children
+<li> by a senior man to his juniors
+<li> between males who are friends (in which case the sentence ending particle @HI{{yo}} is often
+used to soften the utterance)
+<li> in situations when there is not enough time to be polite (for example, an emergency)
+<li> when giving instructions to a large number of people
+<li> when a command is required during training
+<li> when cheering at sports events
+<li> when a strong impact or brevity is required, such as in traffic signs
+</ol>
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{early}}ku @KJ{{sleep}}ro}}.
+  </td> </tr>
+  <tr class="en"> <td>
+      Go to bed immediately.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{amari @KJ{{drink}}munayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Don't drink too much.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{escape}}ro.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Run!
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rest}}na.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Don't rest.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{stop}}mare.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Stop.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+Women do not usually use the imperative, instead they usually use @Vmasu{{}} @HI{{nasai}} when a male would
+employ the imperative.
+</p>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
