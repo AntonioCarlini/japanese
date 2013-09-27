@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
 
 <head>
-<title>@HI{{kosoado}}/title>
+<title>@HI{{kosoado}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.xcss"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style media="screen" type="text/css">
@@ -113,34 +114,66 @@ tr:hover
 
 <h2> Definition </h2>
 
+<p>
 The <strong>@HI{{ko}}-</strong> demonstratives generally relate to something near to the speaker, either physically or emotionally.
-<p></p>
+</p>
 
+<p>
 The <strong>@HI{{so}}-</strong> demonstratives generally relate to something near to the listener. They can be used to
 refer to something that is not close to either the speaker or the listener if information about that
 thing has already been provided.
-<p></p>
+</p>
 
+<p>
 The <strong>@HI{{a}}-</strong> demonstratives generally relate to something that is not near to either the speaker
 or the listener.
-<p></p>
+</p>
 
+<p>
 The <strong>@HI{{do}}-</strong> demonstratives refer to something about which a question is being asked.
-<p></p>
+</p>
 
+<p>
 <strong>@HI{{kore}}</strong>, <strong>@HI{{sore}}</strong> and <strong>@HI{{are}}</strong> are demonstratives and function as pronouns.
-<p></p>
+</p>
 
+<p>
+<strong>@HI{{dore}}</strong> is an interrogative used to ask the listener to choose one item from a
+set of <em>three</em> or more things.
+</p>
+
+
+<p>
 <strong>@HI{{kono}}</strong>, <strong>@HI{{sono}}</strong> and <strong>@HI{{ano}}</strong> are pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is used with a following noun to ask "which" noun.
-<p></p>
+</p>
 
-<strong>@HI{{donnna}}</strong> is used with a following noun to mean "what kind of".
-<p></p>
+<p>
+<strong>@HI{{donnna}}</strong> is used with a following noun to mean "what kind of". 
+It can be used to ask the listener to name one of a group which the following noun describes describes.
+</p>
+
+<p>
+<strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <stron>@HI{{asoko}}</strong> refer to a place.
+</p>
+
+<p>
+<strong>@HI{{kochira}}</strong>, <stron>@HI{{sochira}}</strong> and <strong>@HI{{achira}}</strong> are demonstratives
+that refer to a direction. They can also be used to refer to a place, in which case they are considered more
+polite than <strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <strong>@HI{{asoko}}</strong>.
+</p>
+
+<p>
+<strong>@HI{{doko}}</strong> means "where" and <strong>@HI{{dochira}}</strong> means "which direction".
+<strong>@HI{{dochira}}</strong> can also mean "where", in which case it is more polite than
+<strong>@HI{{doko}}</strong>. <br/>
+<strong>@HI{{doko}}</strong> or <strong>@HI{{dochira}}</strong> are also used to ask the name of a country, school,
+company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
+used for this purpose.
+</p>
 
 <h2> Examples </h2>
 
 <ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{<strong>sore</strong>ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
@@ -188,6 +221,21 @@ The <strong>@HI{{do}}-</strong> demonstratives refer to something about which a 
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
+      A: @HI{{<strong>donna</strong>@KT{{supotsu}} ga suki desu ka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @KT{{sakka-}} @HI{{ga suki desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: What sports do you like?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: I like football.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
       @KT{{santosu}}@HI{{sanha <strong>dono</strong>}}@KJ{{person}}@HI{{desuka.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -222,6 +270,7 @@ as though it really existed then and there.
 <li> @REF{{DOBJG}}. (p 600).
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-TR-I}}. (Chapter 16).
 <li> @REF{{MNN-TR-I}}. (Chapter 31).
 </ol>

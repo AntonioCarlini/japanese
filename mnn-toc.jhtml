@@ -250,32 +250,12 @@ N<sub>2</sub> gives more information about the topic. <br/>
 
 <h2><a name="chapter2">Chapter 2</a></h2>
 
+<ol>
+<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kore/sore/are}} </a>
+<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kono/sono/ano}} </a>
+</ol>
+
 <h3><name="kosoado">@HI{{kosoado}} demontratives</a></h3>
-
-<p>
-@HI{{kore, sore}} and @HI{{are}} are demonstratives and work as nouns.</br>
-@HI{{kore}} refers to things near to the speaker.</br>
-@HI{{sore}} refers to things near to the listener.</br>
-@HI{{are}} refers to things far from both the speaker and the listener.</br>
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{ kore ha nann desu ka. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{ sore ha jisho desu ka.}} </td> </tr>
-  <tr class="jp"> <td> @HI{{ kore wo kudasai.}} </td> </tr>
-</table>
-
-<h3><a name="kono-N">@HI{{kono}}N / @HI{{sono}}N / @HI{{ano}}N</a></h3>
-
-<p>
-@HI{{kono, sono}} and @HI{{ano}} are used to modify nouns.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{ kono }} &#x672c @HI{{ ha }}
-             &#x79c1@HI{{no desu.}} </td> </tr>
-  <tr class="jp"> <td> @HI{{ ano kata ha donata desu ka.}} </td> </tr>
-</table>
 
 <h3><a name="sou-desu">@HI{{sou desu /sou jya arimasenn}}</a></h3>
 
@@ -331,25 +311,10 @@ This expression is used to show that the speaker has understood some new informa
 
 <h2><a name="chapter3">Chapter 3</a></h2>
 
-<h3><a name="kochira">@HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3>
-
-<p>
-@HI{{koko}}, @HI{{soko}} and @HI{{asoko}} refer to a place.</br>
-@HI{{kochira}}, @HI{{sochira}} and @HI{{achira}} are demonstratives
-that refer to a direction. They can also be used to refer to a place, in which case they are considered more
-polite than @HI{{koko}}, @HI{{soko}} and @HI{{asoko}}.
-</p>
-
-<h3><a name="doko-dochira">@HI{{doko/dochira}}</a></h3>
-
-<p>
-@HI{{doko}} means "where" and @HI{{dochira}} means "which direction".
-@HI{{dochira}} can also mean "where", in which case it is more polite than
-@HI{{doko}}. <br/>
-@HI{{doko}} or @HI{{dochira}} are also used to ask the name of a country, school,
-company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
-used for this purpose.
-</p>
+<ol>
+<li> <a href="grammar-kosoado.html"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
+<li> <a href="grammar-kosoado.html"> @HI{{doko/dochira}}</a></h3>
+</ol>
 
 <h2><a name="chapter4">Chapter 4</a></h2>
 
@@ -575,6 +540,10 @@ been completed.
 
 <h2><a name="chapter8">Chapter 8</a></h2>
 
+<ol>
+<li> <a href="grammar-kosoado.html"> @HI{{dore}}</a>
+</ol>
+
 <h3><a name="adjectives">adjectives</a></h3>
 
 <p>
@@ -623,24 +592,15 @@ N<sub>2</sub> is a category to which N<sub>1</sub> belongs.
 @HI{{ga}} is a particle used to link sentences and in this usage means "but".
 </p>
 
-<h3><a name="dore">@HI{{dore}}</a></h3>
-
-<p>
-@HI{{dore}} is an interrogative used to ask the listener to choose one item from a
-set of <em>three</em> or more things.
-</p>
-
 <h2><a name="chapter9">Chapter 9</a></h2>
 
-<h3><a name="donna-N">@HI{{donna}} N</a></h3>
+<ol>
+<li> <a href="grammar-kosoado.html"> @HI{{donna}} N</a>
+</ol>
 
 <p>
-@HI{{donna}} is used to ask the listener to name one of a group which N describes.
+
 </p>
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{donna@KT{{supotsu}} ga suki desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} ga suki desu.}}</td> </tr>
-</table>
 
 <h3><a name="daitai">@HI{{yoku, daitai}} etc.</a></h3>
 
