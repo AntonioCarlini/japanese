@@ -734,78 +734,12 @@ possible negative answer.
 
 <h2><a name="chapter11">Chapter 11</a></h2>
 
-<h3><a name="numbers">Numbers</a></h3>
-
-<p>
-These words are used to count the numbers from 1 to 10.
-<table>
-<tr> <td> 1  </td> <td>@HI{{hitotsu}}</td>   <td> @KJ{{ichi}}@HI{{tsu}} </td></tr>
-<tr> <td> 2  </td> <td>@HI{{futatsu}}</td>   <td> @KJ{{ni}}@HI{{tsu}} </td></tr>
-<tr> <td> 3  </td> <td>@HI{{mittsu}}</td>    <td> @KJ{{san}}@HI{{tsu}} </td></tr>
-<tr> <td> 4  </td> <td>@HI{{yottsu}}</td>    <td> @KJ{{yon}}@HI{{tsu}} </td></tr>
-<tr> <td> 5  </td> <td>@HI{{itsutsu}}</td>   <td> @KJ{{go}}@HI{{tsu}} </td></tr>
-<tr> <td> 6  </td> <td>@HI{{muttsu}}</td>    <td> @KJ{{roku}}@HI{{tsu}} </td></tr>
-<tr> <td> 7  </td> <td>@HI{{nanatsu}}</td>   <td> @KJ{{nana}}@HI{{tsu}} </td></tr>
-<tr> <td> 8  </td> <td>@HI{{yattsu}}</td>    <td> @KJ{{hachi}}@HI{{tsu}} </td></tr>
-<tr> <td> 9  </td> <td>@HI{{kokonotsu}}</td> <td> @KJ{{kyuu}}@HI{{tsu}} </td></tr>
-<tr> <td> 10 </td> <td>@HI{{too}}</td>       <td> 10 </td></tr>
-</table>
-
-Elevent and higher are counted using the numbers themselves.
-</p>
-
-<h3><a name="counters">Counters</a></h3>
-
-<p>
-Counter suffixes are used when counting some sorts of things or expressing quantities.
-
-<table>
-<tr> <td> @HI{{ninn}} </td> <td> number of people </td> </tr>
-<tr> <td> @HI{{dai}} </td> <td> number of machines or vehicles </td> </tr>
-<tr> <td> @HI{{mai}} </td> <td> number of thin or flat things </td> </tr>
-<tr> <td> @HI{{kai}} </td> <td> times</td> </tr>
-<tr> <td> @HI{{funn}} </td> <td> minutes  </td> </tr>
-<tr> <td> @HI{{jikann}} </td> <td> hours  </td> </tr>
-<tr> <td> @HI{{nichi}} </td> <td> days  </td> </tr>
-<tr> <td> @HI{{shuukann}} </td> <td> weeks  </td> </tr>
-<tr> <td> @HI{{ka getsu}} </td> <td> months  </td> </tr>
-<tr> <td> @HI{{nenn}} </td> <td> years  </td> </tr>
-</table>
-
-Counters usually follow the noun and particle to which they apply. However, with lengths of time this is not
-always the case.
-</p>
-
-<h3><a name="interrogatives">Interrogatives</a></h3>
-
-<p>
-@HI{{ikutsu}} is used to as "how many" for those things counted with the general counter 
-@HI{{hitotsu}}, @HI{{futotsu}}.<br/>
-@HI{{nann}} is used with a counter suffix to ask "how many".<br/>
-@HI{{donogurai}} is used to ask how long something takes.<br/>
-@HI{{gurai}} is added after a quantifier to mean "about".
-</p>
-
-<h3><a name="#kai">Quantifier<sub>period</sub> @HI{{ni ichi kai}} V</a></h3>
-
-<p>
-With this expression you can say how often you do something.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{1ka getsu ni 2kai eiga wo mimasu.}}</td> </tr>
-</table>
-</p>
-
-<h3><a name="dake">Quantifier @HI{{dake}}/N @HI{{dake}}</a></h3>
-
-<p>
-@HI{{dake}} means "only". It is added after quantifiers or nouns to express
-that there is no more or nothing else.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{@KT{{pawa-}}denki ni gaigokujinn no shain ga
-	hitotsu dake imasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{yasumi ha nichiyoubi dake desu.}}</td> </tr>
-</table>
-</p>
+<ol>
+<li> <a href="grammar-counters.html"> Counters </a>
+<li> <a href="grammar-interrogatives.html"> Interrogatives </a>
+<li> <a href="grammar-quantifier-dake.html"> Quantifier @HI{{dake}} </a>
+<li> <a href="grammar-quantifier-ni.html"> Quantifier @HI{{ni}} </a>
+</ol>
 
 <h2><a name="chapter12">Chapter 12</a></h2>
 

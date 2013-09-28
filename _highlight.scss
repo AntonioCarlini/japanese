@@ -25,3 +25,7 @@ table.highlight td {
 table.highlight tr:hover {
   font-weight: bold;
 }
+
+table.highlight td.irregular {
+  color: green;
+}

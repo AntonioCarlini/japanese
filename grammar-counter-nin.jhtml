@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{person}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @KJ{{person}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{hitori}}</td>      <td> @KJ{{one^person}} </td></tr>
+<tr> <td> 2  </td> <td class="irregular"> @HI{{futari}}</td>      <td> @KJ{{two^person}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannninn}}</td>    <td> @KJ{{three^person}} </td></tr>
+<tr> <td> 4  </td> <td class="irregular"> @HI{{yoninn}}</td>      <td> @KJ{{four^person}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{goninn}}</td>      <td> @KJ{{five^person}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokuninn}}</td>    <td> @KJ{{six^person}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nananinn}}</td>    <td> @KJ{{seven^person}} </td></tr>
+<tr> <td> 8  </td> <td>                   @HI{{hachininn}}</td>   <td> @KJ{{eight^person}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuninn}}</td>    <td> @KJ{{nine^person}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{juuninn}}</td>     <td> @KJ{{ten^person}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannninn}}</td>    <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count people.
+</p>
+<p>
+To ask "how many people?", use @HI{{nannninn}}.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{outside^country^person}}no@KJ{{study^life}}ga <strong>2@KJ{{person}}</strong> imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are two foreign students.
+  </td> </tr>
+</table>
+</ol>
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

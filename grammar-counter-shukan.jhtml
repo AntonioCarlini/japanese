@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{week^interval}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @KJ{{week^interval}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{isshukann}}</td>    <td> @KJ{{one^week^interval}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nishukann}}</td>      <td> @KJ{{two^week^interval}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannshukann}}</td>    <td> @KJ{{three^week^interval}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonshukann}}</td>     <td> @KJ{{four^week^interval}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{goshukann}}</td>      <td> @KJ{{five^week^interval}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokushukann}}</td>    <td> @KJ{{six^week^interval}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanashukann}}</td>    <td> @KJ{{seven^week^interval}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hasshukann}}</td>   <td> @KJ{{eight^week^interval}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuushukann}}</td>    <td> @KJ{{nine^week^interval}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juusshukann}}</td>     <td> @KJ{{ten^week^interval}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannshukann}}</td>    <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count a period of weeks.
+</p>
+<p>
+To ask "how many weeks?", use @HI{{nannshukann}}.
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

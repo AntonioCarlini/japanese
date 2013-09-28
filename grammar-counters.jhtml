@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Counters</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Counters</h1>
+
+<h2> Formation </h2>
+
+<p>
+These counters:
+<table class="highlight">
+<tr>
+	<td> <a href="grammar-counter-tsu.html"> @HI{{tsu}} </a> </td>
+	<td> @HI{{tsu}} </td>
+	<td> general </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-nin.html"> @KJ{{person}} </a> </td>
+	<td> @HI{{ninn}} </td>
+	<td> people </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-dai.html"> @KJ{{pedestal}} </a> </td>
+	<td> @HI{{dai}} </td>
+	<td> machines or vehicles </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-mai.html"> @KJ{{sheet*of...}} </a> </td>
+	<td> @HI{{mai}} </td>
+	<td> thin or flat things </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-kai.html"> @KJ{{-times}} </a> </td>
+	<td> @HI{{kai}} </td>
+	<td> times (occurrences) </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-bun.html"> @KJ{{part}} </a> </td>
+	<td> @HI{{bunn}} </td>
+	<td> minutes </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-jikan.html"> @KJ{{time^interval}} </a> </td>
+	<td> @HI{{jikann}} </td>
+	<td> hours </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-nichi.html"> @KJ{{day}}  </a> </td>
+	<td> @HI{{nichi}} </td>
+	<td> days </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-shukan.html"> @KJ{{week^interval}}  </a> </td>
+	<td> @HI{{shuukann}} </td>
+	<td> weeks </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-kagetsu.html"> @HI{{ka}}@KJ{{month}}  </a> </td>
+	<td> @HI{{kagetsu}} </td>
+	<td> months </td>
+</tr>
+<tr>
+	<td> <a href="grammar-counter-nen.html"> @KJ{{year}}  </a> </td>
+	<td> @HI{{nenn}} </td>
+	<td> years </td>
+</tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+When counting things or expressing a quantity Japanese uses counter words. The counter follows the noun and its
+particle and is usually put before the verb it modifies.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{ringo}}wo <strong>4tsu</strong> @KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I bought 4 apples.
+  </td> </tr>
+</table>
+</ol>
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

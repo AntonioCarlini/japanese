@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Interrogatives</title>
+<link rel="stylesheet" type="text/css" href="japanese.xcss"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Interrogatives</h1>
+
+<h2> Formation </h2>
+
+
+<h2> Definition </h2>
+
+<p>
+The <strong>@HI{{ikutsu}}</strong> is used to ask "how many" about things that are counted with
+<a href="grammar-counter-tsu.html">@HI{{tsu}}</a>.
+</p>
+
+<p>
+The <strong>@HI{{nan}}</strong> is used with a counter to ask for "how many" for things counted with
+that counter.
+</p>
+
+<p>
+The <strong>@HI{{donogurai}}-</strong> is used to ask about the length of time something takes.
+</p>
+
+<p>
+The <strong>@HI{{gurai}}-</strong> is added after quantifiers to mean "about" or "approximately".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono @KJ{{meeting^company}}ni @KJ{{outside^country^person}}ga
+      <strong>@KJ{{what^person}}</strong> imasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How many foreigners are there in this company?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>donogurai</strong> @KJ{{day^book^word}}wo @KJ{{exertion^stron}}shimashitaka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How long did you study Japanese?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^exam}}ni @KJ{{before^life}}ga 30@KJ{{person}}<strong>gurai</strong> imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are about 30 teachers in our school.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+</ol>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

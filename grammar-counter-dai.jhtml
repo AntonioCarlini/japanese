@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{pedestal}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @KJ{{pedestal}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td>                   @HI{{ichidai}}</td>    <td> @KJ{{one^pedestal}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nidai}}</td>      <td> @KJ{{two^pedestal}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sanndai}}</td>    <td> @KJ{{three^pedestal}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yondai}}</td>     <td> @KJ{{four^pedestal}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{godai}}</td>      <td> @KJ{{five^pedestal}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokudai}}</td>    <td> @KJ{{six^pedestal}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanadai}}</td>    <td> @KJ{{seven^pedestal}} </td></tr>
+<tr> <td> 8  </td> <td>                   @HI{{hachidai}}</td>   <td> @KJ{{eight^pedestal}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuudai}}</td>    <td> @KJ{{nine^pedestal}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{juudai}}</td>     <td> @KJ{{ten^pedestal}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanndai}}</td>    <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count machines and vehicles.
+</p>
+<p>
+To ask "how many machines?", use @HI{{nanndai}}.
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

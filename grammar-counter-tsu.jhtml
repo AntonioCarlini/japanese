@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @HI{{tsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @HI{{tsu}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular">@HI{{hitotsu}}</td>   <td> @KJ{{ichi}}@HI{{tsu}} </td></tr>
+<tr> <td> 2  </td> <td class="irregular">@HI{{futatsu}}</td>   <td> @KJ{{ni}}@HI{{tsu}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular">@HI{{mittsu}}</td>    <td> @KJ{{san}}@HI{{tsu}} </td></tr>
+<tr> <td> 4  </td> <td class="irregular">@HI{{yottsu}}</td>    <td> @KJ{{yon}}@HI{{tsu}} </td></tr>
+<tr> <td> 5  </td> <td class="irregular">@HI{{itsutsu}}</td>   <td> @KJ{{go}}@HI{{tsu}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular">@HI{{muttsu}}</td>    <td> @KJ{{roku}}@HI{{tsu}} </td></tr>
+<tr> <td> 7  </td> <td class="irregular">@HI{{nanatsu}}</td>   <td> @KJ{{nana}}@HI{{tsu}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular">@HI{{yattsu}}</td>    <td> @KJ{{hachi}}@HI{{tsu}} </td></tr>
+<tr> <td> 9  </td> <td class="irregular">@HI{{kokonotsu}}</td> <td> @KJ{{kyuu}}@HI{{tsu}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular">@HI{{too}}</td>       <td> 10 </td></tr>
+<tr> <td> ?  </td> <td class="irregular">@HI{{ikutsu}}</td>    <td> &nbsp; </td></tr>
+</table>
+
+Eleven and higher are counted using the numbers themselves.
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count general items or items that have no more specific counter available or for
+which the speaker does not know the more specific counter. The counter usually follows the noun and its particle.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{ringo}}wo <strong>4tsu</strong> @KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I bought 4 apples.
+  </td> </tr>
+</table>
+</ol>
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

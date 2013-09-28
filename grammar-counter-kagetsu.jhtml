@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @HI{{ka}}@KJ{{month}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @HI{{ka}}@KJ{{month}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{ikkagetsu}}</td>     <td> @KJ{{one}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nikagetsu}}</td>      <td> @KJ{{two}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannkagetsu}}</td>    <td> @KJ{{three}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonkagetsu}}</td>     <td> @KJ{{four}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gokagetsu}}</td>      <td> @KJ{{five}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{rokkagetsu}}</td>    <td> @KJ{{six}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanakagetsu}}</td>    <td> @KJ{{seven}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hakkagetsu}}</td>   <td> @KJ{{eight}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuukagetsu}}</td>    <td> @KJ{{nine}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{jukkagetsu}}</td>     <td> @KJ{{ten}}@HI{{ka}}@KJ{{month}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannkagetsu}}</td>    <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count a period of months.
+</p>
+<p>
+To ask "how many months?", use @HI{{nannkagetsu}}.
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

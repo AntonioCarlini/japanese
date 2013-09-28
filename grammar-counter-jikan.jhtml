@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{time^interval}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>counter @KJ{{time^interval}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td>                   @HI{{ichijikann}}</td>    <td> @KJ{{one^time^interval}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nijikann}}</td>      <td> @KJ{{two^time^interval}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannjikann}}</td>    <td> @KJ{{three^time^interval}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonjikann}}</td>     <td> @KJ{{four^time^interval}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gojikann}}</td>      <td> @KJ{{five^time^interval}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokujikann}}</td>    <td> @KJ{{six^time^interval}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanajikann}}</td>    <td> @KJ{{seven^time^interval}} </td></tr>
+<tr> <td> 8  </td> <td>                   @HI{{hachijikann}}</td>   <td> @KJ{{eight^time^interval}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyujikann}}</td>    <td> @KJ{{nine^time^interval}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{juujikann}}</td>     <td> @KJ{{ten^time^interval}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannjikann}}</td>    <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count intervals of hours.
+</p>
+<p>
+To ask "how many hours?", use @HI{{nannjikann}}.
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+</p>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
