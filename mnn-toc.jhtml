@@ -7,7 +7,9 @@
 <style>
 
 div.nav {
-    position:fixed;
+    position: fixed;
+    background-color: #fff0e0;
+    top: 0px;
 }
 
 ul.nav {
@@ -30,13 +32,11 @@ ul.nav a:hover {
 }
 
 div.main {
-    margin-top:200px;
 }
 
 </style>
 </head>
 <body>
-<h1>@HI{{minnna no}} @KJ{{day^book^word}} &#x521d;@KJ{{class}} II</h1>
 
 <div class="nav">
 <ul class="nav">
@@ -66,11 +66,16 @@ div.main {
 
   <li> <a href="#chapter50">50</a>
 </ul>
+<p>&nbsp;</p>
 </div>
 
 <div class="main">
 <!-- update TOC as chapters are completed -->
-</br></br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h1>@HI{{minnna no}} @KJ{{day^book^word}} &#x521d;@KJ{{class}} II</h1>
 
 <div class="toc">
 <h1>Table of Contents</h1>
