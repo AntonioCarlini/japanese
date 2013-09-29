@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -37,31 +38,66 @@
 
 <h2> Definition </h2>
 
+<p>
 When a sentence is stated from the viewpoint of the person towards whom an action is directed,
 sentence pattern A with a passive verb is used. In this case the performer of the action is
 marked by @HI{{ni}}.
-<p></p>
+</p>
 
+<p>
 When a person's actions are directed towards an object belonging to a second person, and this
 second person feels troubled or annoyed, sentence pattern B is used.
-<p></p>
+</p>
 
+<p>
 When there is no need to mention the person who performs the action denoted by the verb,
 sentence pattern C is often used.
-<p></p>
+</p>
 
+<p>
 When something is created or discovered, sentence pattern D can be used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{before^life}}ni @KJ{{praise}}meraremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was praised by my teacher.
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{younger*brother}}ni @KT{{pasokonn}}wo @KJ{{demolition}}saremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had my PC broken by my brother.
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@KJ{{car}}ha @KJ{{generation^world^in}}he @KJ{{transport^exit}}sarete imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese cars are exported all over the world.
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{[@KJ{{source^family*name^thing^word}}]ha @KJ{{purple^style}}bu ni yotte @KJ{{write}}karemashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      "The Tale of Genji" was written by Murasaki Shikibu.
+  </td> </tr>
+</table>
+<ol>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 37).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
-</p>
 
-<p></p>
+</br></br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -14,54 +15,60 @@
 
 <dl>
 <dt> @KJ{{five}}@KJ{{grade}} verbs:
-<p></p>
-<table>
-<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikareru}} </td> </tr>
-<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}} </td> <td> @HI{{oyogareru}} </td> </tr>
-<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumareru}} </td> </tr>
-<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}  </td> <td> @HI{{yobareru}} </td> </tr>
-<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}  </td> <td> @HI{{torareru}} </td> </tr>
-<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}    </td> <td> @HI{{iwareru}}  </td> </tr>
-<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}} </td> <td> @HI{{motareru}} </td> </tr>
+</br></br>
+<table class="highlight">
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}   </td> <td> @HI{{kikareru}}   </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}  </td> <td> @HI{{oyogareru}}  </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}   </td> <td> @HI{{fumareru}}   </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}   </td> <td> @HI{{yobareru}}   </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}  </td> <td> @HI{{shinareru}}  </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}     </td> <td> @HI{{iwareru}}    </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}   </td> <td> @HI{{torareru}}   </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}  </td> <td> @HI{{motareru}}   </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}} </td> <td> @HI{{hanasareru}} </td> </tr>
 </table>
-<p></p>
+</br></br>
 
 <dt> @KJ{{ichi}}@KJ{{grade}} verbs:
-<p></p>
-<table>
+</br></br>
+<table class="highlight">
 <tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homerareru}} </td> </tr>
 <tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mirareru}} </td> </tr>
 </table>
-<p></p>
+</br></br>
 
 <dt> Irregular verbs:
-<p></p>
-<table>
+</br></br>
+<table class="highlight">
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{korareru}} </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{sareru}} </td> </tr>
 </table>
-<p></p>
+</br></br>
 
 </dl>
 
 <h2> Definition </h2>
 
+<p>
 @KJ{{five}}@KJ{{grade}} verbs form the passive by taking the @HI{{nai}} stem and adding the
 suffix @HI{{reru}}.
-<p></p>
+</p>
 
+<p>
 @KJ{{ichi}}@KJ{{grade}} verbs form the passive by dropping the final @HI{{ru}} and adding the
 suffix @HI{{rareru}}. This means that the
 <a href="grammar-verb-formation-potential.html"> potential </a> form and
 passive form of @KJ{{ichi}}@KJ{{grade}} verbs
 are identical and must be distinguished based on context.
-<p></p>
+</p>
 
+<p>
 The two irregular verbs conjugate as shown above.
-<p></p>
+</p>
 
+<p>
 All passive verbs conjugate into further forms as @KJ{{ichi}}@KJ{{grade}} verbs.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 
@@ -69,13 +76,11 @@ All passive verbs conjugate into further forms as @KJ{{ichi}}@KJ{{grade}} verbs.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-JP-II}}. (Chapter 37).
 </ol>
-</p>
 
-<p></p>
+</br></br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
