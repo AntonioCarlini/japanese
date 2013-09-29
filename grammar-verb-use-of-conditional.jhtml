@@ -16,35 +16,61 @@
 <dl>
 <dt>(A) 
 <ol>
-<li> <em>relative clause</em> @Vba{{}}, <em> main clause</em>
+<li> <em>relative clause</em> <strong>@Vba{{}}</strong>, <em> main clause</em>
 </ol>
 <dt>(B)
 <ol>
-<li> @N{{}} @HI{{nara}}, ...
+<li> @N{{}} <strong>@HI{{nara}}</strong>, ...
 </ol>
 </dl>
 <dt>(C)
 <ol>
-<li> <em>interrogative</em> @Vba{{}} @HI{{ii desuka.}}
+<li> <em>interrogative</em> <strong>@Vba{{}}</strong> @HI{{ii desuka.}}
 </ol>
 </dl>
 </p>
 
 <h2> Definition </h2>
 
+<p>
 The conditional form is used in a relative clause at the beginning of a sentence
 to describe the conditions for an event, described in the remainder of the sentence,
 to occur. This is shown in sentence pattern (A).
 If the subject of the relative clause and the main sentence is the same then
-it is not permitted to use verbs ofvolition in both clauses.
-<p></p>
+it is not permitted to use verbs of volition in both clauses.
+</p>
 
+<p>
 When a speaker wishes to take up a topic and give further information, sentence pattern (B)
 may be used. In this case it may be considered to mean "if you are talking about @N{{}} ...".
-<p></p>
+</p>
 
+<p>
 Sentence pattern (C) can be used to ask about the best course of action.
-<p></p>
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{botann}}wo <strong>@KJ{{push}}seba</strong>, @KJ{{window}}ga @KJ{{open}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you push the button, the window will open.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{hokani @KJ{{idea^see}}ga <strong>nakereba</strong> korede @KJ{{end}}warimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you don't have any other opinions, let's finish this meeting now.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 

@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Potential Verbs</title>
+<title>Conditional Verbs</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -14,36 +14,38 @@
 
 <dl>
 <dt> @KJ{{five}}@KJ{{grade}} verbs:
-<p></p>
-<table>
-<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}  </td> <td> @HI{{kikeba}} </td> </tr>
-<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}} </td> <td> @HI{{oyogeba}} </td> </tr>
-<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}  </td> <td> @HI{{fumeba}} </td> </tr>
-<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}  </td> <td> @HI{{yobeba}} </td> </tr>
-<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}  </td> <td> @HI{{toreba}} </td> </tr>
-<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}    </td> <td> @HI{{ieba}}  </td> </tr>
-<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}} </td> <td> @HI{{moteba}} </td> </tr>
+</br></br>
+<table class="highlight">
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}   </td> <td> @HI{{kikeba}}   </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}  </td> <td> @HI{{oyogeba}}  </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}   </td> <td> @HI{{fumeba}}   </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}   </td> <td> @HI{{yobeba}}   </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}  </td> <td> @HI{{shineba}}  </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}     </td> <td> @HI{{ieba}}     </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}   </td> <td> @HI{{toreba}}   </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}  </td> <td> @HI{{moteba}}   </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}} </td> <td> @HI{{hanaseba}} </td> </tr>
 </table>
-<p></p>
+</br></br>
 
 <dt> @KJ{{ichi}}@KJ{{grade}} verbs:
-<p></p>
-<table>
+</br></br>
+<table class="highlight">
 <tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homereba}} </td> </tr>
 <tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mireba}} </td> </tr>
 </table>
-<p></p>
+<br></br>
 
 <dt> Irregular verbs:
-<p></p>
-<table>
+</br></br>
+<table class="highlight">
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kureba}} </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{sureba}} </td> </tr>
 </table>
-<p></p>
+</br></br>
 
 <dt> Adjectives and nouns:
-<table>
+<table class="highlight">
 <tr> <td> @Ai{{}}       </td> <td> @Aistem{{}}@HI{{kereba}} </td> </tr>
 <tr> <td> @Anastem{{}}  </td> <td> @Anastem{{}}@HI{{nara}} </td> </tr>
 <tr> <td> @N{{}}        </td> <td> @N{{}}@HI{{nara}} </td> </tr>
@@ -51,16 +53,19 @@
 
 <h2> Definition </h2>
 
+<p>
 @KJ{{five}}@KJ{{grade}} verbs form the conditional by changing the final kana to the @HI{{e}}-row
 and adding the suffix @HI{{ba}}.
-<p></p>
+</p>
 
+<p>
 @KJ{{ichi}}@KJ{{grade}} verbs form the conditional by dropping the final @HI{{ru}}
 and adding the suffix @HI{{reba}}.
-<p></p>
+</p>
 
+<p>
 The two irregular verbs conjugate as shown above.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 

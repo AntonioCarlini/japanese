@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li>@N{{}} <strong>@HI{{nara}}</strong>
+</ol>
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+When a speaker wishes to take up a topic introduced by another person and give some information,
+@N{{}}<strong>@HI{{nara}}</strong> is used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@KJ{{warm^spring}}ni @KJ{{going}}kitaindesuga, dokoka ii @KJ{{place}}arimasenka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@KJ{{warm^spring}}<strong>nara</strong>, @KJ{{white^horse}}ga ii desu yo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: I'd like to visit a hot spring resort. Don't you know a good place?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: If you're talking about hot spring resorts, Hakuba would be good.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 35).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

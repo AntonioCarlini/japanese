@@ -1499,7 +1499,6 @@ is marked by @HI{{ga}}.
 
 <h2><a name="chapter34">Chapter 34</a></h2>
 
-<-- incomplete -->
 <ol>
 <li> <a href="grammar-toori-ni.html"> @HI{{toori ni}} </a>
 <li> <a href="grammar-ato-de.html"> @HI{{ato de}} </a>
@@ -1509,12 +1508,11 @@ is marked by @HI{{ga}}.
 
 <h2><a name="chapter35">Chapter 35</a></h2>
 
-<-- incomplete -->
 <ol>
 <li> <a href="grammar-verb-formation-conditional.html"> How to make the conditional form </a>
 <li> <a href="grammar-verb-use-of-conditional.html"> Uses of the conditional form </a>
-<li> @N{{}}@HI{{nara}}
-<li> interrogative @Vba{{}} @HI{{iidesuka}}
+<li> <a href="grammar-nara.html"> @HI{{nara}} </a>
+<li> <a href="grammar-ba-ii.html"> @Vba{{}} @HI{{ii desu ka}} </a>
 <li> <a href="grammar-ba-hodo.html"> @HI{{ba}} ... @HI{{hodo}} </a>
 </ol>
 
