@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,21 +13,42 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li>@Vta{{}} <strong>@HI{{ato de}}</strong>
 <li>@N{{}} @HI{{no}} <strong>@HI{{ato de}}</strong>
 </ol>
 </dl>
-</p>
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{ato de}}</strong> states that the main clause
 occurred after the clause preceding the <strong>@HI{{ato de}}</strong>.
-<p></p>
+</p>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{attend^matter}}no <strong>ato de</strong>,@KJ{{drink}}mini @KJ{{going}}kimasenka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Shall we go and have a drink after work?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{new}}shiinowo @KJ{{buy}}tta <strong>ato de</strong>, nakushita @KJ{{time^plot}}ga
+      @KJ{{see}}tsukarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      After I bought  anew watch I found the old one I'd lost.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
@@ -34,13 +56,12 @@ In informal conversations, @HI{{de}} may be dropped.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 78).
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
 </ol>
-</p>
 
-<p></p>
+</br></br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toori ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toori ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@HI{{toori ni}}</strong>,
+<li> @Vta{{}} <strong>@HI{{toori ni}}</strong>,
+<li> @N{{}} @HI{{no}} <strong>@HI{{toori ni}}</strong>,
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+These sentence patterns mean to copy exactly in words or actions whatever V describes.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ga yaru <strong>toori ni</strong>, yatte kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please do as I do.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{see}}ta<strong>toori ni</strong>, @KJ{{tale}}shite kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please tell us what you saw as it was.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{line}}no<strong>toori ni</strong>, @KJ{{paper}}wo@KJ{{cut}}tte kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please cut the paper folowing the line.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+The dictionary form is used when the action is going to be performed from now and the @HI{{ta}}-form is used
+when the action has already been performed.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
+</ol>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te/shinaide}} (accompany)</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te/shinaide}} (accompany)</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@Vnai{{}} @HI{{de}}</strong> @V2{{}}
+</ol>
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@Vnai{{}} @HI{{de}}</strong> can be used to indicate which action is chosen among two
+possible alternatives.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^weekday^day}}ha dokomo <strong>@KJ{{going}}kenaide</strong>, uchide yukkuri @KJ{{rest}}mimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Next Sunday I won't go anywhere. I will rest at home instead.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
