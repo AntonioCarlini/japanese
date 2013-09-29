@@ -1,0 +1,138 @@
+<html>
+
+<head>
+<title>Giving and Receiving Actions</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Giving and Receiving Actions</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}} @HI{{ageru}}
+<li> @Vte{{}} @HI{{morau}}
+<li> @Vte{{}} @HI{{kureru}}
+<li> @Vte{{}} @HI{{yaru}}
+<li> @Vte{{}} @HI{{itadaku}}
+<li> @Vte{{}} @HI{{kudasaru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@Vte{{}}@HI{{ageru}} is used when something is done by the speaker for someone with a sense of goodwill. When the
+doer is the speaker and the receiver of the action is the listener, this could give the impression that
+the speaker is being patronising. Under these circumstances the expression should only be used to
+someone the speaker is close. Otherwise the speaker should use @Vmasustem{{}}@HI{{mashouka}} instead.
+</p>
+
+<p>
+@Vte{{}}@HI{{morau}} is used to indicate that the speaker has had something done for him (has received an action).
+The expression conveys a sense of gratitude on the part of the receiver.
+</p>
+
+<p>
+@Vte{{}}@HI{{kureru}} indicates that an action is performed for the speaker. Like @Vte@HI{{morau}},
+this expression conveys a sense of gratitude on the part of the receiver. The difference is that the
+subject of the sentence if the performer of the action, implying that the actor has performed the
+action voluntarily.
+</p>
+
+<p>
+@Vte{{}}@HI{{yaru}} has the same basic meaning as @Vte{{}}@HI{{ageru}}. It is used when the 
+giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
+@Vte{{}}@HI{{yaru}}, like @Vte{{}}@HI{{ageru}}, may leave an impression of arrogance under some circumstances.
+</p>
+
+<p>
+@Vte{{}}@HI{{itadaku}} is the humble form of @Vte{{}}@HI{{morau}} and is used when an action if performed
+for the receiver by a person of higher social
+status.
+</p>
+
+<p>
+@Vte{{}}@HI{{kudasaru}} is the honorific form of @Vte{{}}@HI{{kureru}} and is used when a person of higher
+social status performs an action for the receiver.
+
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{tree^village}}sann ni @KJ{{book}}wo @KJ{{lend}}shite agemashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I lent Ms. Kimura a book.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{mountain^rice*field}}sann ni @KJ{{map^write^building}}no
+      @KJ{{electricity^tale^turn^nickname}}wo @KJ{{teach}}ete moraimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Yamada told me the telephone number of the library.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mother}}ha @KJ{{private}}ni @KT{{se-ta-}}wo @KJ{{escort}}tte kuremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My mother sent me a sweater.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{dog}}wo @KJ{{scatter^walk}}ni @KJ{{take*along}}rete @KJ{{going}}tte yarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I took my dog for a walk.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{chapter^long}}ni @KJ{{hand^paper}}no machigaiwo @KJ{{straightaway}}shite
+      itadakimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had my letter corrected by the manager.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{section^long}}ha @KJ{{private}}wo @KJ{{station}}de @KJ{{escort}}tte kudasaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The general manager took me to the station.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 24).
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
+</ol>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

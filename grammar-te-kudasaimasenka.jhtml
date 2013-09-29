@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}} @HI{{kudasaimasenka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vte{{}} @HI{{kudasaimasenka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@Vte{{}} @HI{{kudasaimasenka}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@Vte{{}} @HI{{kudasaimasenka}}</strong> is a polite expression of request, although it is less
+polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}} @HI{{itadakemasenka}}</a>.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{kopi-}}@KJ{{mechanism}}no @KJ{{use}}i@KJ{{direction}}wo @KJ{{teach}}e<strong>te kudasaimasenka</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Will you kindly teach me how to use the photocopier?
+  </td> </tr>
+</table>      
+</ol>
+
+<h2> Notes </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -217,6 +217,7 @@
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-oku.html"> @Vte{{}}@HI{{oku}} </a> </h3>
 <h3> <a href="grammar-te-kara.html"> @Vte{{}}@HI{{kara}} </a> </h3>
+<h3> <a href="grammar-te-kudasaimasenka.html"> @Vte{{}} @HI{{kudasaimasenka}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
 <h3> <a href="grammar-te-shimau.html"> @Vte{{}}@HI{{shimau}} </a> </h3>
@@ -249,6 +250,7 @@
 
 <h3> <a href="grammar-quantifier-ni.html"> <em>quantifier</em> @HI{{ni}} </a> </h3>
 <h3> <a href="grammar-purpose-ni.html"> <em>purpose</em> @HI{{ni}} </a> </h3>
+<h3> <a href="grammar-token-ni.html"> <em>in memory of</em> @HI{{ni}} </a> </h3>
 <h3> <a href="grammar-ni-shite-wa.html"> @HI{{ni shite ha}} </a> </h3>
 <h3> <a href="grammar-ni-suru.html"> @HI{{ni suru}} </a> </h3>
 
@@ -344,6 +346,7 @@
 
 <h2> <a name="en-G"> G </a> </h2>
 <h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>
+<h3> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions</a> </h3>
 
 <h2> <a name="en-I"> I </a> </h2>
 <h3> <a href="grammar-interrogatives.html"> Interrogatives </a> </h3>
