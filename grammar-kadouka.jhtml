@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -34,28 +35,50 @@
 
 <h2> Definition </h2>
 
+<p>
 In sentence pattern (A) a question with an interrogative is embedded in another sentence. Note that, optionally, 
 @HI{{kadouka}} can be used in this sentence pattern.
-<p></p>
+</p>
 
-In sentence pattern (B) a question <em>without</em> interrogative is embedded in another sentence. Note that 
+<p>
+In sentence pattern (B) a question <em>without</em> an interrogative is embedded in another sentence. Note that 
 @HI{{kadouka}} <em>must</em> be used in this sentence pattern.
-<p></p>
+</p>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      JL107@HI{{@KJ{{convenience}}ha @KJ{{what^time}}ni @KJ{{arrival^don}}suru<strong>ka</strong>,
+      @KJ{{tune}}bete kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please check what time JL107 will arrive.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@KJ{{tale}}ha hountou <strong>ka douka</strong>, wakarimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know whether the story is true or not.
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p168).
 <li> @REF{{MNN-TR-II}}. (Chapter 40).
 </ol>
-</p>
 
-<p></p>
+</br></br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

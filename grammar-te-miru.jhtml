@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -16,24 +17,35 @@
 
 <h2> Definition </h2>
 
+<p>
 <strong>@Vte{{}}@HI{{miru}}</strong> means to make an attempt at doing something to see what happens or to see what it is like.
 It can also mean that the attempt is a trial.
-
+</p>
 
 <h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{zubonn}}wo haite <strong>mitemo</strong> ii desu ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      May I try on this pair of trousers?
+  </td> </tr>
+</table>
+</ol>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p246).
 <li> @REF{{MNN-TR-II}}. (Chapter 40).
 </ol>
-</p>
 
-<p></p>
+</br></br>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
