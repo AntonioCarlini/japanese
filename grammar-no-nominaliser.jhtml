@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{no}} (nominaliser)</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{no}} (nominaliser)</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@HI{{no}}</strong>
+<li> @Ai{{}} <strong>@HI{{no}}</strong>
+<li> @Ana{{}} <strong>@HI{{no}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{no}}</strong> turns a whole sentence into a noun phrase which can then be used anywhere that a noun
+phrase can normally be used.
+</p>
+
+<p>
+<strong>@HI{{no}}</strong> cannot occur in position B of the sentence pattern:
+<table class="sentence">
+  <tr class="jp"> <td>
+      A@HI{{ha}} B @HI{{desu}}.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+nominalised sentences are subordinate clauses and so @HI{{ha}} cannot appear and usually becomes either
+@HI{{ga}} or @HI{{no}}.
+</p>
+
+<p>
+Unlike the nominaliser <a href="grammar-koto.html">@HI{{koto}}</a>, <strong>@HI{{no}}</strong> tends to indicate
+something to which the speaker does not feel very close.
+</p>
+
+<p>
+<strong>@HI{{no}}</strong> tends to be used when the nominalised clause indicates something concrete or perceptible
+whereas <a href="grammar-no-koto.html">@HI{{koto}}</a> tends to be used when it indicates something
+abstract or imperceptible.
+</p>
+
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tenisu}}wo suru<strong>no</strong>ha omoshiroidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Playing tennis is fun.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{cow^milk}}wo @KJ{{buy}}u<strong>no</strong>wo @KJ{{forget}}remashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I forgto to buy milk.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{no}}</strong> is used in various cases:
+<ul>
+<li> @Vru{{}} @HI{{<strong>no</strong>ha}} <em>adjective</em> @HI{{desu}}.
+<li> @Vru{{}} @HI{{<strong>no</strong>ga}} <em>adjective</em> @HI{{desu}}.
+<li> @Vru{{}} @HI{{<strong>no</strong>wo}} @KJ{{forget}}@HI{{remashita}}.
+<li> @Vplain{{}} @HI{{<strong>no</strong>wo}} @KJ{{know}}@HI{{tte imasuka}}.
+</ul>
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 38).
+<li> @REF{{DOBJG}} (p 318).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
