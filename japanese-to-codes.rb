@@ -86,17 +86,17 @@ def processing()
         style = $1
         brkt = $2
         case $1
-        when /masustem/ then "<sub><del>#{convert_to_hiragana('masu')}</del></sub>"
-        when /V1/   then "V<sub>1</sub>"
-        when /V2/   then "V<sub>2</sub>"
-        when /V3/   then "V<sub>3</sub>"
-        when /V4/   then "V<sub>4</sub>"
-        when /V5/   then "V<sub>5</sub>"
-        when /V6/   then "V<sub>#{convert_to_hiragana('te')}</sub>"
-        when /V7/   then "V<sub>#{convert_to_hiragana('ta')}</sub>"
-        when /1D/   then "#{convert_to_kanji('ichi^dan')}"
-        when /5D/   then "#{convert_to_kanji('go^dan')}"
-        when /Nplace/   then "N<sub>place</sub>"
+        when /^masustem$/ then "<sub><del>#{convert_to_hiragana('masu')}</del></sub>"
+        when "V1"   then "V<sub>1</sub>"
+        when "V2"   then "V<sub>2</sub>"
+        when "V3"   then "V<sub>3</sub>"
+        when "V4"   then "V<sub>4</sub>"
+        when "V5"   then "V<sub>5</sub>"
+        when "V6"   then "V<sub>#{convert_to_hiragana('te')}</sub>"
+        when "V7"   then "V<sub>#{convert_to_hiragana('ta')}</sub>"
+        when "1D"   then "#{convert_to_kanji('ichi^dan')}"
+        when "5D"   then "#{convert_to_kanji('go^dan')}"
+        when "Nplace"   then "N<sub>place</sub>"
         when /N\d?/  then
           sub = style[1..-1] # lose first character
           string = "N"
@@ -111,28 +111,26 @@ def processing()
           string
 
           # forms based on those used in Nihongo So-Matome
-        when /^S$/         then "S"                                            # sentence (either plain or polite)
-        when /Splain/      then "S<sub>plain</sub>"                            # plain form sentence
-        when /Vplain/      then "V<sub>plain</sub>"                            # plain form
-        when /Vru/         then "V#{convert_to_hiragana('ru')}"                # dictionary form
-        when /Vnai/        then "V#{convert_to_hiragana('nai')}"               # negative
-        when /Vnaistem/    then "V<del>#{convert_to_hiragana('nai')}</del>"    # negative stem
-        when /Vru/         then "V#{convert_to_hiragana('ru')}"                # dictionary form
-        when /Vmasu/       then "V#{convert_to_hiragana('masu')}"              # masu form
-        when /Vmasustem/   then "V<del>#{convert_to_hiragana('masu')}</del>"   # masu stem
-        when /Vnai/        then "V#{convert_to_hiragana('nai')}"               # negative
-        when /Vte/         then "V#{convert_to_hiragana('te')}"                # te-form
-        when /Vta/         then "V#{convert_to_hiragana('ta')}"                # past
-        when /Vteiru/      then "V#{convert_to_hiragana('teiru')}"             # te iru form
-        when /Vba/         then "V#{convert_to_hiragana('ba')}"                # ba (conditional)
-        when /Vyou/        then "V#{convert_to_hiragana('you')}"               # volitional
-        when /Vreru/       then "V#{convert_to_hiragana('reru')}"              # potential
-        when /Vrareru/     then "V#{convert_to_hiragana('rareru')}"            # passive
-        when /Vsaseru/     then "V#{convert_to_hiragana('saseru')}"            # causative
-        when /^Ai$/        then "A-#{convert_to_hiragana('i')}"                # i-adjective
-        when /Aistem/      then "A-<del>#{convert_to_hiragana('i')}</del>"     # i-adjective stem
-        when /^Ana$/       then "A-#{convert_to_hiragana('na')}"               # na-adjective
-        when /Anastem/     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
+        when "S"           then "S"                                            # sentence (either plain or polite)
+        when "Splain"      then "S<sub>plain</sub>"                            # plain form sentence
+        when "Vplain"      then "V<sub>plain</sub>"                            # plain form
+        when "Vru"         then "V#{convert_to_hiragana('ru')}"                # dictionary form
+        when "Vnai"        then "V#{convert_to_hiragana('nai')}"               # negative
+        when "Vnaistem"    then "V<del>#{convert_to_hiragana('nai')}</del>"    # negative stem
+        when "Vmasu"       then "V#{convert_to_hiragana('masu')}"              # masu form
+        when "Vmasustem"   then "V<del>#{convert_to_hiragana('masu')}</del>"   # masu stem
+        when "Vte"         then "V#{convert_to_hiragana('te')}"                # te-form
+        when "Vta"         then "V#{convert_to_hiragana('ta')}"                # past
+        when "Vteiru"      then "V#{convert_to_hiragana('teiru')}"             # te iru form
+        when "Vba"         then "V#{convert_to_hiragana('ba')}"                # ba (conditional)
+        when "Vyou"        then "V#{convert_to_hiragana('you')}"               # volitional
+        when "Vreru"       then "V#{convert_to_hiragana('reru')}"              # potential
+        when "Vrareru"     then "V#{convert_to_hiragana('rareru')}"            # passive
+        when "Vsaseru"     then "V#{convert_to_hiragana('saseru')}"            # causative
+        when "Ai"          then "A-#{convert_to_hiragana('i')}"                # i-adjective
+        when "Aistem"      then "A-<del>#{convert_to_hiragana('i')}</del>"     # i-adjective stem
+        when "Ana"         then "A-#{convert_to_hiragana('na')}"               # na-adjective
+        when "Anastem"     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
         when /^(HI|KT|KJ|REF)$/
           # These codes should be left alone ... they'll be handled below
           string = "@#{style}{{#{brkt}}}"
