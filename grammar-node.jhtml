@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -21,12 +22,14 @@
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{node}}</strong> is a subordinate conjunction that expresses a reason or a cause.
-<p></p>
+</p>
 
+<p>
 <strong>@HI{{node}}</strong> implies that the speaker believes the subordinate clause to be the reason or cause
 for the main clause.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 
@@ -44,32 +47,37 @@ for the main clause.
 
 <h2> Notes </h2>
 
-@HI{{de}} also expresses a reason or cause, however, it can only be used with nouns whereas <strong>@HI{{node}}</strong> (and @HI{{kara}}) are only used with sentences.
-<p></p>
+<p>
+<a href="grammar-de.html">@HI{{de}}</a> also expresses a reason or cause, however,
+it can only be used with nouns whereas <strong>@HI{{node}}</strong> (and @HI{{kara}}) are only used with sentences.
+</p>
 
-<strong>@HI{{node}}</strong> and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that the speaker believes that the subordinate clause is the reason or cause for the main clause.
-<p></p>
+<p>
+<strong>@HI{{node}}</strong> and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that
+the speaker believes that the subordinate clause is the reason or cause for the main clause.
+</p>
 
+<p>
 @HI{{kara}}, and not <strong>@HI{{node}}</strong>, must be used when:
 <ul>
 <li> the subordinate clause involves conjecture
 <li> the subordinate clause involves volition or personal opinion
 <li> the main clause involves a command, request, suggestion or invitation
-<ul>
-<p></p>
+</ul>
+</p>
 
+<p>
 In @S1{{}} @HI{{<strong>node</strong>}} @S2{{}}, @HI{{<strong>node</strong>}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
-<p></p>
+</p>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 328).
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

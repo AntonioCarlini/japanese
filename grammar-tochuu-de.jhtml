@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{route^in}}@HI{{de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{route^in}}@HI{{de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@KJ{{route^in}}@HI{{de}}</strong>
+<li> @N{{}} <strong>@KJ{{route^in}}@HI{{de}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@KJ{{route^in}}@HI{{de}}</strong> means "en route" or "during".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{reality}}ha @KJ{{come}}ru <strong>@KJ{{route^in}}@HI{{de}}</strong> @KJ{{matter^happenstance}}ga
+      atte, @KT{{basu}}ga @KJ{{slow}}rete shimattandesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Actually on my way here there was an accident and the bus was delayed.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{marasonn}}no <strong>@KJ{{route^in}}@HI{{de}}</strong> @KJ{{spirit^part}}ga
+      @KJ{{bad}}ku narimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I got sick during the marathon.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

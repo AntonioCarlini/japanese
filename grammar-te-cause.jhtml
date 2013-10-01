@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te}}-form cause</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te}}-form cause</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}, ...
+<li> @Vnaistem{{}}@HI{{nakute}}, ...
+<li> @Aistem{{}}@HI{{kute}}, ...
+<li> @Anastem{{}}@HI{{de}}, ...
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The subordinate clause presents a cause and the main clause states the consequence produced by that cause. Note that
+this pattern, unlike @HI{{kara}} has many restrictions on its usage.
+</p>
+
+<p>
+The contents of the main clause must not contain volition.
+</p>
+
+<p>
+The main clause often contains:
+<ul>
+<li> verbs and adjectives that express feelings
+<li> potential verbs to express states
+<li> situations in the past
+</ul>
+</p>
+
+<p>
+The subordinate clause must occur chronologically before the main clause. So it is not allowed, for example,
+for the subordinate clause to represent a future event and the main clause to represent an event in the present.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{house^tribe}}ni <strong>@KJ{{meeting}}enakute</strong>, @KJ{{loneliness}}shiidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I miss my family.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{tale}}ga <strong>@KJ{{duplicate^miscellaneous}}de</strong>, yoku wakarimasendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The story was complicated so I could not understand it well.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{matter^happenstance}}ga <strong>atte</strong>, @KT{{basu}}ga @KJ{{slow}}rete shimaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The bus was delayed by an accident.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

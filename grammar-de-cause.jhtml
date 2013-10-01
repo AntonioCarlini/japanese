@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{de}} (cause)</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{de}} (cause)</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{de}}</strong> ...
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The particle <strong>@HI{{de}}</strong> can indicate a weak causal releationship.
+</p>
+
+<p>
+The nouns used are those which indicate natural phenomena, happenings and events.
+</p>
+
+<p>
+The predicate cannot include volition.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ground^quake}}<strong>de</strong> @KT{{biru}}ga @KJ{{overthrow}}remashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because of the earthquake, a building collapsed.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
+<li> @REF{{DOBJG}}. (p 107).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
