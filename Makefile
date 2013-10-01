@@ -47,6 +47,7 @@ JHTML_SRCS += grammar-kata.jhtml
 JHTML_SRCS += grammar-kawari-ni.jhtml
 JHTML_SRCS += grammar-kitto-tabun-moshikashitara.jhtml
 JHTML_SRCS += grammar-kosoado.jhtml
+JHTML_SRCS += grammar-koto.jhtml
 JHTML_SRCS += grammar-mada-te-inai.jhtml
 JHTML_SRCS += grammar-mada.jhtml
 JHTML_SRCS += grammar-mama.jhtml
