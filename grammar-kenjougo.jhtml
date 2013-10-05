@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kenjougo}}: Humble Language</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kenjougo}}: Humble Language</h1>
+
+<h2> Formation </h2>
+
+@include{{"honorific-humble-verbs-table.inc"}}
+
+<h2> Definition </h2>
+
+<p>
+@HI{{kenjougo}} is used when referring to the one's own actions or state and serves to humble
+oneself to show respect to the other party.
+</p>
+
+<p>
+Verbs are affected in various ways.
+</p>
+
+<h3> @HI{{o}}@Vmasustem{{}} @HI{{shimasu}} </h3>
+
+<p>
+The @HI{{o}}@Vmasustem{{}} @HI{{shimasu}} construction can be used for most regular @1D{{}}
+and @5D{{}} verbs to produce a humble form of the verb.
+</p>
+
+<p>
+It cannot be used with verbs whose stem is jus tone mora.
+</p>
+
+<h3> @HI{{go}}@Vmasustem{{}} </h3>
+
+<p>
+The @HI{{go}}@Vmasustem{{}}  construction can be used for verbs that involve @HI{{suru}} or
+@HI{{kuru}}. Only those verbs which imply some connection with the listener can be used.
+</p>
+
+<p>
+@HI{{denwashimasu}} and @HI{{yakusokushimasu}} are exceptions to the pattern that take @HI{{o}} instead of
+@HI{{go}}.
+</p>
+
+<h3> Special Humble Verb Forms </h3>
+
+<p>
+The above constructions cannot be used with some verbs.
+These verbs have special humble forms, as shown
+in the table above.
+
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{heavy}}soudesune. o@KJ{{hold}}chishimashouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It looks heavy. Shall I carry it for you? 
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kyouno@KJ{{beforehand^determine}}wo go@KJ{{opinion^bright}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will explain today's schedule.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{ashitaha darega @KJ{{hand^transmit}}ini @KJ{{come}}te kuremasuka.}}
+  <tr class="jp"> <td>
+      B: @HI{{@KJ{{private}}ga @KJ{{pay*respects}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Who will come over to help me tomorrow?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: I will.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 50).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

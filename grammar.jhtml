@@ -192,6 +192,10 @@
 
 <h3> <a href="grammar-kitto-tabun-moshikashitara.html"> @HI{{kitto/tabunn/moshikashitara}} </a> </h3>
 
+<h2> <a name="hi-ke">@HI{{ke}}</a> </h2>
+
+<h3> <a href="grammar-kenjougo.html"> @HI{{kenjogo}}: Humble Language </a> </h3>
+
 <h2> <a name="hi-ko">@HI{{ko}}</a> </h2>
 
 <h3> <a href="grammar-kosoado.html"> @HI{{kosoado}}</a> </h3>
@@ -212,6 +216,7 @@
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
 
 
+<h3> <a href="grammar-teineigo.html"> @HI{{teineigo}}: Polite Language </a> </h3>
 <h3> <a href="grammar-te-cause.html"> @HI{{te}}-form cause </a> </h3>
 <h3> <a href="grammar-te-causative-itadakemasenka.html"> @Vte{{}}(causative)@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a> </h3>
@@ -306,6 +311,7 @@
 
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
 
+<h3> <a href="grammar-sonkeigo.html"> @HI{{sonkeigo}}: Honorific Language </a> </h3>
 <h3> <a href="grammar-soshite.html"> @HI{{soshite}} </a> </h3>
 <h3> <a href="grammar-sore-de.html"> @HI{{sore de}} </a> </h3>
 <h3> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a> </h3>
