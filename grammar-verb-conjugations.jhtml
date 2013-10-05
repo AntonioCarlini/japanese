@@ -17,13 +17,13 @@ Verb conjugations are based on the basic forms shown in the table below.
 <table class="example">
  <tr>
    <th class="verb_conj_col"> Verb </th>
-   <th class="verb_conj_col"> @V1{{}} </th>
-   <th class="verb_conj_col"> @V2{{}} </th>
-   <th class="verb_conj_col"> @V3{{}} </th>
+   <th class="verb_conj_col"> @Vnaistem{{}} </th>
+   <th class="verb_conj_col"> @Vmasustem{{}} </th>
+   <th class="verb_conj_col"> @Vru{{}} </th>
    <th class="verb_conj_col"> @V4{{}} </th>
    <th class="verb_conj_col"> @V5{{}} </th>
-   <th class="verb_conj_col"> @V6{{}} </th>
-   <th class="verb_conj_col"> @V7{{}} </th>
+   <th class="verb_conj_col"> @Vte{{}} </th>
+   <th class="verb_conj_col"> @Vta{{}} </th>
  </tr>
 
  <tr>

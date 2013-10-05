@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nai}}-form</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nai}}-form</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikanai}}       </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyoganai}}      </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumanai}}       </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobanai}}       </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinanai}}      </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iwanai}}        </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{toranai}}       </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motanai}}       </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanasanai}}     </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homenai}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{minai}} </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> Irregular verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> verb </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{konai}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shinai}} </td> </tr>
+</table>
+</p>
+
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{five^grade}} verbs form the @HI{{nai}}-form by changing the final kana to the @HI{{a}}-row
+and adding the suffix @HI{{nai}}. Note that ~@HI{{u}} changes to ~@HI{{wa}}.
+</p>
+
+<p>
+@KJ{{ichi^grade}} verbs form the @HI{{nai}}-formby dropping the final @HI{{ru}}
+and adding the suffix @HI{{nai}}.
+</p>
+
+<p>
+The two irregular verbs conjugate as shown above.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-JP-I}}. (Chapter 17).
+</ol>
+
+<p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+</p>
+
+</body>
+
+</html>

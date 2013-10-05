@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te}}-form</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te}}-form</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kiite}}          </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyoide}}         </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{funde}}          </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yonde}}          </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinde}}         </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{itte}}           </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{totte}}          </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motte}}          </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanashite}}      </td> </tr>
+<tr> <td> @HI{{iku}}  </td> <td> @HI{{iku}}      </td> <td> @HI{{itte}}           </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homete}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mite}}   </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> Irregular verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> verb </th> <th> dictionary </th> <th> causative </th>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kite}}     </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shite}}    </td> </tr>
+</table>
+</p>
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{five^grade}} verbs form the @HI{{te}}-form in an irregular manner as shown in the table above.
+Note that @HI{{iku}} has an irregular @HI{{te}}-form.
+</p>
+
+<p>
+@KJ{{ichi^grade}} verbs form the @HI{{te}}-form by dropping the final @HI{{ru}}
+and adding the suffix @HI{{te}}.
+</p>
+
+<p>
+The two irregular verbs conjugate as shown above.
+</p>
+
+<p>
+Note that the @HI{{te}}-form and the <a href="grammar-verb-formation-ta.html">@HI{{ta}}-form</a> (@Vta{{}})
+are formed idenitcally except that
+@HI{{te}} in the former becomes @HI{{ta}} in the latter and @HI{{de}} becomes @HI{{da}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-JP-I}}. (Chapter 14).
+</ol>
+
+<br/></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
