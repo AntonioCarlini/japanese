@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{koro}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{koro}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}} <strong>@HI{{koro}}</strong>
+<li> @Ai{{}} <strong>@HI{{koro}}</strong>
+<li> @Ana{{}} <strong>@HI{{koro}}</strong>
+<li> @N{{}} @HI{{no}} <strong>@HI{{koro}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{koro}}</strong> specifies a time period and behaves as a noun. It indicates an approximate
+time and is often translated as "when".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{watashi}}@HI{{no}}@KJ{{child}}domono<strong>koro</strong>wo @KJ{{teach}}ete okitai desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want to talk about when I was a child.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JACG}}. (p 212).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
