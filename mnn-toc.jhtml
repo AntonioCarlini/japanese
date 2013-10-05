@@ -244,6 +244,15 @@ div.main {
 
 <h2><a name="chapter1">Chapter 1</a></h2>
 
+<ol>
+<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}
+<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasen}}
+<li> S@HI{{ka}}
+<li> @N{{}}@HI{{mo}}
+<li> @N1{{}}@HI{{no}}@N2{{}}
+<li> @HI{{san}}
+</ol>
+
 <h3><a name="wa-desu"N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{desu}}</a></h3>
 
 <p>
@@ -258,6 +267,10 @@ N<sub>2</sub> gives more information about the topic. <br/>
 <ol>
 <li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kore/sore/are}} </a>
 <li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kono/sono/ano}} </a>
+<li> @HI{{sou desu}}/@HI{{sou ja arimasen}}
+<li> @S1{{}}@HI{{ka,}} @S2{{}}@HI{{ka}}
+<li> @N1{{}}@HI{{no}}@N2{{}}
+<li> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a>
 </ol>
 
 <h3><name="kosoado">@HI{{kosoado}} demontratives</a></h3>
@@ -318,7 +331,11 @@ This expression is used to show that the speaker has understood some new informa
 
 <ol>
 <li> <a href="grammar-kosoado.html"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
+<li> @HI{{wa}} place
 <li> <a href="grammar-kosoado.html"> @HI{{doko/dochira}}</a></h3>
+<li> @N1{{}}@HI{{no}}@N2{{}}
+<li> <a href="grammar-kosoado.html"> @HI{{kosoado}} demonstratives</a></h3> </a>
+<li> @HI{{o}} (respect)
 </ol>
 
 <h2><a name="chapter4">Chapter 4</a></h2>
@@ -1377,6 +1394,11 @@ In reply to a statement or question, the converstaional partner offers new infor
 <h3>Interrogative @HI{{ga}} V</h3>
 
 <h2><a name="chapter25">Chapter 25</a></h2>
+
+<ol>
+<li> <a href="grammar-tara.html"> @HI{{tara}} </a>
+<li> <a href="grammar-te-mo.html"> @HI{{te mo}} </a>
+</ol>
 
 <h3><a name="past-ra">Plain past @HI{{ra}}</a></h3>
 

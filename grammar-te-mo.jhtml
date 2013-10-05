@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te mo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te mo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}} <strong>@HI{{mo}}</strong>, ...
+<li> @Aistem{{}}kute <strong>@HI{{mo}}</strong>, ...
+<li> @Anastem{{}}de <strong>@HI{{mo}}</strong>, ...
+<li> @N{{}}de <strong>@HI{{mo}}</strong>, ...
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This expression is used to mean "even if" or "even though" the conditon in the subordinate clause is true,
+the action expressed in the main clause will take place. The subordinate clause is not what would be
+expected from the main clause.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rain}}ga @KJ{{descend}}ttemo, @KJ{{wash^laundry}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if it rains I'll do the laundry.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^weekday^day}}demo, @KJ{{work}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if it is Sunday I will work.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what}}wo @KJ{{eat}}betemo, oishii desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter what I eat it tastes good.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{te mo ii desuka}} is an idiomatic expression used to request permission to do something.
+</p>
+
+<p>
+With a WH word @HI{{te mo}} means "no matter WH".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 25).
+<li> @REF{{DOBJG}}. (p 468).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

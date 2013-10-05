@@ -204,6 +204,7 @@
 
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
 <h3> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a> </h3>
+<h3> <a href="grammar-tara.html"> @HI{{tara}} </a> </h3>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
 <h3> <a href="grammar-dai.html"> @HI{{dai}} </a> </h3>
 <h3> <a href="grammar-quantifier-dake.html"> <em>quantifier</em> @HI{{dake}} </a> </h3>
@@ -227,6 +228,7 @@
 <h3> <a href="grammar-te-kudasaimasenka.html"> @Vte{{}} @HI{{kudasaimasenka}} </a> </h3>
 <h3> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a> </h3>
 <h3> <a href="grammar-te-miru.html"> @Vte{{}}@HI{{miru}} </a> </h3>
+<h3> <a href="grammar-te-mo.html"> @HI{{te mo}} </a> </h3>
 <h3> <a href="grammar-te-shimau.html"> @Vte{{}}@HI{{shimau}} </a> </h3>
 <h3> <a href="grammar-te-shinaide-accompany.html"> @Vte{{}}/@Vnai{{}} @HI{{de}} (accompany)</a> </h3>
 <h3> <a href="grammar-de-cause.html"> @HI{{de}} (cause) </a> </h3>
@@ -318,6 +320,7 @@
 <h3> <a href="grammar-sore-ni.html"> @HI{{sore ni}} </a> </h3>
 <h3> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a> </h3>
 <h3> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a> </h3>
+<h3> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a> </h3>
 
 <h2> <a name="hi-mo">@HI{{mo}}</a> </h2>
 

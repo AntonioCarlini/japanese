@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}<strong>@HI{{ra}}</strong>
+<li> @Aistem{{}}katta<strong>@HI{{ra}}</strong>
+<li> @Anastem{{}}datta<strong>@HI{{ra}}</strong>
+<li> @N{{}}datta<strong>@HI{{ra}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+When <strong>@HI{{ra}}</strong> is attached to the plain past form of verbs, adjectives and nouns, it
+changes the preceding clause into a conditional expression. When a speaker wishes to state his opinion, request
+etc. in the conditional, this pattern is used. It is translated as "if ...".
+</p>
+
+<p>
+<strong>@Vta{{}}@HI{{ra}}</strong> can also be used to express that a certain action will be done or a
+certain situation will appear when something which is sure to happen in the future has been completed.
+In this case it is translated as "when ...". The main clause in this pattern is always in the present tense.
+</p>
+
+<p>
+To distinguish the "if" case from the "when" case, remember that if the subordiante clause represents a
+certainty then the expression means "when", otherwise it means "if".
+</p>
+
+<p>
+The main clause <em>can</em> contain a request, suggestion, command or volition.
+</p>
+
+<p>
+In both these constructions, the subordinate clause represents something that logically precedes the main clause.
+If thisis not the case then this sentence pattern cannot be used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}ga <strong>attara</strong>, @KJ{{trip^going}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I had money I would travel.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      10@HI{{@KJ{{time}}ni nattara, @KJ{{exit}}kakemashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's go out when it gets to 10.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 25).
+<li> @REF{{DOBJG}}. (p 452).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
