@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te}} conjunctive forms</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te}} conjunctive forms</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}},
+<li> @Aistem{{}}kute,
+<li> @Anastem{{}}de,
+<li> @N{{}}de,
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The conjunctive forms are used to connect sentences. The sentences are joined in the order 
+that the actions mentioned in them occur. The tense of the whole sentence is determined by
+the tense form of the end ofthe sentence.
+</p>
+
+<p>
+These forms can be used to connect sentences with different topics. However, if the sentences
+express contradictory notions, then this form cannot be used and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>
+should be used instead.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{gods^door}}he @KJ{{going}}tte, @KJ{{reflect^brush-stroke}}wo @KJ{{see}}te,
+      o@KJ{{tea}}wo @KJ{{drink}}mimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I went to Kobe, saw a film and drank tea.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kinouha @KJ{{heavens^spirit}}ga yokute, @KJ{{sultry}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday it was fine and hot.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{nara^good}}ha @KJ{{quiet}}kade, kireina @KJ{{town}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Nara is a quiet and beautiful town.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

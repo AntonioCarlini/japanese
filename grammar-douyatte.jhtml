@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>@HI{{douyatte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{douyatte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{douyatte}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{douyatte}}</strong> is used to ask the way or the method of doing something.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{large^study}}made <strong>@HI{{douyatte}}</strong> @KJ{{going}}kimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How do you get to your university?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

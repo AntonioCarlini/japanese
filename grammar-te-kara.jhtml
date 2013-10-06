@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -18,12 +19,15 @@
 
 <h2> Definition </h2>
 
+<p>
 <strong>@Vte{{}}@HI{{kara}}</strong> means that the action of the main sentence
 takes place (or took place) after the subordinate clause. So the meaning might
 be rendered as "after X, " or "since X, " where X is the subordinate clause.
+</p>
 
-<p></p>
-
+<p>
+The tense of the whole sentence is determined by the tense of the final verb.
+</p>
 
 <h2> Examples </h2>
 
@@ -38,19 +42,19 @@ be rendered as "after X, " or "since X, " where X is the subordinate clause.
 
 <h2> Notes </h2>
 
+<p>
 <strong>@HI{{kara}}</strong> can be omitted if the main verb does not have a high degree of volition
 on the part of the speaker.
-<p></p>
+</p>
 
 <h2> References </h2>
 
-<p>
 <ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
 <li> @REF{{DOBJG}}. (p 177).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
