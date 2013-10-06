@@ -95,6 +95,9 @@ def convert_to_katakana(text)
         raise
       end
       current = ""
+    elsif current =~ /^fi$/ix
+      result << jp_unicode(two[:hu]) + jp_unicode(0x30a3)
+      current = ""
     elsif current =~ /^j(a|u|o)$/ix
       begin
         second = "y" + $1.downcase()
