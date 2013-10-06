@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mashouka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{mashouka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{mashouka}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+When the speaker wishes to offer to do something for the listener, this sentence pattern can be used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashitamo @KJ{{come}}mashouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Shall I come tomorrow too?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

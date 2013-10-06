@@ -13,20 +13,28 @@
 
 <h2> Formation </h2>
 
-<strong>@Vte{{}}@HI{{iru}}</strong>
+<ol>
+<li> <strong>@Vte{{}}@HI{{iru}}</strong>
+</ol>
 
 <h2> Definition </h2>
 
+<p>
 <strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a customary action.
-<p></p>
+</p>
 
+<p>
 <strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a state which is the of the action expressed
 by the verb. If the verb describes an action that can be repeated or continued,
 <strong>@Vte{{}}@HI{{iru}}</strong> expresses the continuation of that action. Otherwise if the
 verb expresses a momentary action, <strong>@Vte{{}}@HI{{iru}}</strong> expresses the idea
 that the action happened and the resulting state continues. Verbs used in this construction
 are intransitive ones.
-<p></p>
+</p>
+
+<p>
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is in progress.
+</p>
 
 <h2> Examples </h2>
 
@@ -43,7 +51,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mado}}ga @KJ{{proportion}}re<strong>te imasu</strong>.}}
+      @HI{{@KJ{{window}}ga @KJ{{proportion}}re<strong>te imasu</strong>.}}
   </td> </tr>
   <tr class="en"> <td>
       The window is broken.
@@ -56,6 +64,15 @@ are intransitive ones.
   </td> </tr>
   <tr class="en"> <td>
       The light is on.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha @KJ{{now electricity^tale}}wo kakete imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller is making a phone call now.
   </td> </tr>
 </table>
 </ol>
@@ -81,7 +98,8 @@ third person and the sentence expresses a present state.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
-<li> @REF{{MNN-TR-II}}. (Chapter 29).
+<li> @REF{{MNN-TR-II}}. (Chapter 28).
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
 <li> @REF{{DOBJG}}. (p 155).
 </ol>
 

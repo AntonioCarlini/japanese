@@ -885,66 +885,12 @@ The purpose for the movement is expressed in this sentence pattern.
 <ol>
 <li><a href="grammar-verb-conjugations.html"> Verb Conjugations </a>
 <li> <a href="grammar-verb-formation-te.html"> How to make the @HI{{te}}-form </a> </h3>
-<li> @HI{{te kudasai}}
+<li> <a href="grammar-te-kudasai.html"> @Vte{{}} @HI{{kudasai}} </a>
 <li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
-<li> @Vmasustem{{}}@HI{{mashouka}}
-<li> @S1{{}} @HI{{ga}}, @S2{{}}
-<li> @N{{}}@HI{{ga}} @V{{}}
+<li> <a href="grammar-mashouka.html"> @Vmasustem{{}}@HI{{mashouka}} </a> </h3>
+<li> <a href="grammar-ga-conjunction.html"> @HI{{ga}} conjunction </a>
+<li> @N{{}}@HI{{ga}} V
 </ol>
-
-<h3>Verb Conjugation and Verb Groups</h3>
-
-<p>
-Japanese verbs are split into 3 categories:
-<ol>
-<li> @HI{{godann}} verbs
-<li> @HI{{ichidann}} verbs
-<li> irregular verbs (@HI{{suru}} and @HI{{kuru}})
-</ol>
-</p>
-
-<h3>Verb @HI{{te}}-form</h3>
-
-<p>
-The formation of the -@HI{{te}} form of a verb is described elsewhere.
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{kudasai}}</h3>
-
-<p>
-In this sentence pattern the speaker encourages or asks the listener to perform some action.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{sumimasenn, kono kanji no yomikata wo oshiete kudasai.}} </td> </tr>
-<tr class="jp"> <td> @HI{{ koko ni jyuusho to namae wo kiite kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{imasu}}</h3>
-
-<p>
-The form -@HI{{te imasu}} is used to indicate that an action or state is ongoing.
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{mashou ka}}</h3>
-
-<p>
-This sentence pattern is used to frame a question of the form "Shall I ...".
-</p>
-
-<h3>S<sub>1</sub> @HI{{ga,}} S<sub>2</sub></h3>
-
-<p>
-In this sentence pattern, @HI{{ga}} is used to lightly connect S<sub>1</sub> to S<sub>2</sub>.
-</p>
-
-<h3>N @HI{{ga}} V</h3>
-
-<p>
-When describing a natural phenomenon, the subject is indicated by @HI{{ga}}.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{ame ga futte imasu.}} </td> </tr>
-</table>
-</p>
 
 <h2><a name="chapter15">Chapter 15</a></h2>
 

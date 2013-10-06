@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ga}} conjunction</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{ga}} conjunction</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}} <strong>@HI{{ga}}</strong> @S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{ga}} can operate as a conjunction that lightly links two sentences of contrasting meaning.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^salute}}<strong>ga</strong>, o@KJ{{evening^in*front}}ha?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Excuse me, but may I have your name?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@S1{{}} and @S2{{}} may be either formal or casual, but they must both be the same form.
+</p>
+
+<p>
+In some utterances @S1{{}} and @S2{{}} do not need to express contrasting notions.
+</p>
+
+<p>
+@S2{{}} can be omitted if the meaning is obvious.
+</p>
+
+<p>
+@S1{{}} and @S2{{}} are independent clauses and each can stand on their own. Contrast this with
+@HI{{keredomo}}, where @S1{{}} would be a subordinate clause.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{DOBJG}}. (p 120)
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
