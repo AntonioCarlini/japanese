@@ -894,43 +894,12 @@ The purpose for the movement is expressed in this sentence pattern.
 
 <h2><a name="chapter15">Chapter 15</a></h2>
 
-<h3>Verb @HI{{te}}-form @HI{{mou ii desu}}</h3>
-
-<p>
-This sentence pattern is used to grant permission.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{shashinn wo totte mo ii desu.}} </td> </tr>
-</table>
-With the addition of @HI{{ka}}, this becomes a request for permission.
-<table class="sentence">
-<tr class="jp"> <td> tabako wo sutte mo ii desu ka.</td> </tr>
-</table>
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{ha ikemasenn}}</h3>
-
-<p>
-This sentence pattern is used to express prohibition ("must not do").
-</p>
-
-<h3>Verb @HI{{te}}-form @HI{{imasu}}</h3>
-
-<p>
-In addition to other uses, this sentence pattern is used to describe a state that continues in the present
-which results from an action in the past.
-</p>
-
-<p>
-A further use of this form is to express a habitual action, that is, the same action performed repeatedly
-over a period of time.
-</P>
-
-<h3>@HI{{shirimasenn}}</h3>
-
-<p>
-The negative form of @HI{{shitte}} is @HI{{shirimasenn}}. That is, knowing something
-is expressed with the -@HI{{te}} form but not knowing is expressed with the non-past negative.
-</p>
+<ol>
+<li> <a href="grammar-te-mo-ii.html"> @HI{{te mo ii}} </a>
+<li> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{ha ikemasen}}</a>
+<li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
+<li> @HI{{shirimasen}}
+</ol>
 
 <h2><a name="chapter16">Chapter 16</a></h2>
 

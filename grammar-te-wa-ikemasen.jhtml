@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{te ha ikemasen}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{te ha ikemasen}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}} <strong>@HI{{mo ii}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This pattern is used to express prohibition.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasen. @KJ{{prohibit^smoke}}desu kara.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You may not smoke here because it is a no-smoking area.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+To <em>strongly</em> refuse permission, use @HI{{iee, ikemasen}}. This form cannot be used to
+a superior.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 15).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

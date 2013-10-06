@@ -24,7 +24,7 @@
 </p>
 
 <p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a state which is the of the action expressed
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a state which is the result of the action expressed
 by the verb. If the verb describes an action that can be repeated or continued,
 <strong>@Vte{{}}@HI{{iru}}</strong> expresses the continuation of that action. Otherwise if the
 verb expresses a momentary action, <strong>@Vte{{}}@HI{{iru}}</strong> expresses the idea
@@ -34,6 +34,10 @@ are intransitive ones.
 
 <p>
 <strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is in progress.
+</p>
+
+<p>
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is habitual.
 </p>
 
 <h2> Examples </h2>
@@ -75,6 +79,24 @@ are intransitive ones.
       Mr. Miller is making a phone call now.
   </td> </tr>
 </table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{tie^marriage}}shite imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm married.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{su-pa-}}de @KT{{firumu}}wo @KJ{{sell}}tte imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Supermarkets sell films.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
@@ -100,6 +122,7 @@ third person and the sentence expresses a present state.
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{MNN-TR-I}}. (Chapter 15).
 <li> @REF{{DOBJG}}. (p 155).
 </ol>
 
