@@ -911,57 +911,6 @@ The purpose for the movement is expressed in this sentence pattern.
 <li> <a href="grammar-kosoado.html"> @HI{{dono}} @N{{}} </a>
 </ol>
 
-<h3>Connecting Verb Sentences with -@HI{{te}} form</h3>
-
-<p>
-A further use of the -@HI{{te}} form is to connect together two or more actions that happen
-in succession. The tense of the sentence as a whole is determined by the tense of the final verb.
-</p>
-
-<h3>Joining @HI{{i}}-adjectives</h3>
-
-<p>
-To join an @HI{{i}}-adjective to a subsequent sentence, remove the @HI{{i}} and
-add @HI{{kute}}.
-
-<h3>Joining N or @HI{{na}}-adjectives</h3>
-
-<p>
-When joining a noun N or a @HI{{na}}-adjective to a subsequent sentence, remove the final
-@HI{{desu}} and replace it with @HI{{de}}.
-</p>
-
-<h3>V<sub>1</sub>-@HI{{te kara,}} V<sub>2</sub2></h3>
-
-<p>
-This sentence pattern states that once V<sub>1</sub> has happened, V<sub>2</sub> will happen. The tense of the whole sentence
-is determined by the tense of the final verb.
-<table class="sentence">
-<tr class="jp"> <td> @KT{{konsa-to}}@HI{{ga owatte kara, @KT{{resutorann}}
-      de shokuji shimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3>N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{ga}} adjective</h3>
-
-<p>
-This sentence pattern is used to describe an attribute of a thing or a person.
-N<sub>1</sub> is the topic.
-N<sub>2</sub> is the subject of the adjective's description.
-</p>
-
-<h3>@HI{{douyatte}}</h3>
-
-<p>
-@HI{{douyatte}} is used to ask how to do something.
-</p>
-
-<h3>@HI{{dono}} N</h3>
-
-<p>
-@HI{{dono}} is used to ask the listener to define one item among three or more that are present.
-</p>
-
 <h2><a name="chapter17">Chapter 17</a></h2>
 
 <ol>
