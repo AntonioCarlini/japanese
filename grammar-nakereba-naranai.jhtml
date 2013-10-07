@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vnai{{}} @HI{{nakereba naranai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vnai{{}} @HI{{nakereba naranai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vnaistem{{}} @HI{{<strong>nakereba naranai</strong>}}
+<li> @Aistem{{}} @HI{{ku <strong>nakereba naranai</strong>}}
+<li> @Anastem{{}} @HI{{de <strong>nakereba naranai</strong>}}
+<li> @N{{}} @HI{{de <strong>nakereba naranai</strong>}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{nakereba naranai}}</strong> expresses the idea of obligation: "if something is not, then it will not do".
+Something has to be done regardless of the will of the actor: "must" is often a good translation.
+</p>
+
+<p>
+The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{nakute mo ii}}</a>.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{medicine}}wo @KJ{{drink}}manakereba narimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I must take medicine.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{basukettoboru}}no@KJ{{elect^hand}}ha @KJ{{large}}kiku nakereba narimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Baskeball players have to be big.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{map^write^building}}ha @KJ{{quiet}}kade nakereba narimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Libraries have to be quiet.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{DOBJG}}. (p 274).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

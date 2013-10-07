@@ -915,65 +915,13 @@ The purpose for the movement is expressed in this sentence pattern.
 
 <ol>
 <li> <a href="grammar-verb-formation-nai.html"> How to make the @HI{{nai}}-form </a> </h3>
+<li> <a href="grammar-nai-de.html"> @HI{{nai de kudasai}} </a>
+<li> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba narimasen}} </a>
+<li> <a href="grammar-nakute-mo-ii.html"> @HI{{nakute mo ii}} </a>
+<li> @N{{object}}@HI{{ha}}
+<li> <a href="grammar-made-ni.html"> @HI{{made ni}} </a>
 </ol>
 
-<h3>Verb @HI{{nai}} form</h3>
-
-<p>
-The V-@HI{{nai}} form is also known as the V<sub>1</sub> base.
-</p>
-
-<h3>V<sub>1</sub>@HI{{naide kudasai}}</h3>
-
-<p>
-This form is used to instruct or to ask the listener not to do something.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{koko ni shashinn wo toranaide kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>V<sub>1</sub>@HI{{nakereba narimasen}}</h3>
-
-<p>
-This sentence pattern indicates that something <em>must</em> be done irrespective of the will
-of the actor. There is no negative meaning associated with this expression.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kusuri wo nominakereba narimasenn.}} </td> </tr>
-</table>
-</p>
-</p>
-
-<h3>V<sub>1</sub>@HI{{nakute mo ii desu}}</h3>
-
-<p>
-This sentence indicates that the action described by the verb does not have to be done.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{ashita konakutemo ii desu.}} </td> </tr>
-<tr class="en"> <td> You don't have to come tomorrow.</td> </tr>
-</table>
-</p>
-
-<h3>N<sub>object</sub>@HI{{ha}}</h3>
-
-<p>
-The particle @HI{{wo}} marking a direct object can be replaced with
-@HI{{ha}} if the object is to be made a topic.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{koko ni nimotsu wo okanaide kudasai.}} </td> </tr>
-<tr class="jp"> <td> @HI{{nimotsu ha koko ni okanaide kudasai.}} </td> </tr>
-</table>
-</p>
-
-<h3>N<sub>time</sub>@HI{{made ni}} V</h3>
-
-<p>
-The point in time marked by @HI{{madeni}} is the time limit by which
-an action is to be completed.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kaigi ha 5ji madeni owarimasu}} </td> </tr>
-<tr class="jp"> <td> @HI{{doyoubi madeni honn wo kaesanakereba narimasenn.}} </td> </tr>
-</table>
-</p>
 <h2><a name="chapter18">Chapter 18</a></h2>
 
 <h3>Verb Dictionary Form</h3>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{made ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{made ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru <strong>@HI{{made ni}}</strong> V
+<li> @N{{time}} <strong>@HI{{made ni}}</strong> V
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern expresses that the point in time indicated by <strong>@HI{{made ni}}</strong>
+is the time limit by which an action is to be completed.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{meeting^deliberation}}ha 5@KJ{{time}}<strong>made ni</strong> @KJ{{end}}warimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The meeting will be over by 5.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jetto}}@KJ{{mechanism}}ga @KT{{pari}}ni @KJ{{don}}ku<strong>made ni</strong>
+      @KJ{{book}}wo@KJ{{three^tome^read}}de shimaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      By the time the jet arrived in Paris I had finished reading 3 books.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{DOBJG}}. (p 228).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
