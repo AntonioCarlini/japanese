@@ -19,7 +19,7 @@
 </br></br>
 <table class="highlight">
 <tr> <th> &nbsp; </th> <th colspan="2"> example </th>
-<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> @HAI{{ta}}-form </th>
 <tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kiita}}          </td> </tr>
 <tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyoida}}         </td> </tr>
 <tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{funda}}          </td> </tr>
@@ -38,7 +38,7 @@
 </br></br>
 <table class="highlight">
 <tr> <th> &nbsp; </th> <th colspan="2"> example </th>
-<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> @HAI{{ta}}-form </th>
 <tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{hometa}} </td> </tr>
 <tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mita}}   </td> </tr>
 </table>
@@ -48,7 +48,7 @@
 <dt> Irregular verbs:
 </br></br>
 <table class="highlight">
-<tr> <th> verb </th> <th> dictionary </th> <th> causative </th>
+<tr> <th> verb </th> <th> dictionary </th> <th> @HAI{{ta}}-form </th>
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kita}}     </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shita}}    </td> </tr>
 </table>
