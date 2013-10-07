@@ -175,7 +175,7 @@ div.main {
 <li class="h3"><a href="">N ga V</a>
 <li><a href="#chapter15">Chapter 15</a>
 <li class="h3"><a href="">Verb @HI{{te}}-form @HI{{mou ii desu}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{ha ikemasen}}</a>
+<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{ha ikemasenn}}</a>
 <li class="h3"><a href="">Verb @HI{{te}}-form @HI{{imasu}}</a>
 <li class="h3"><a href="">shirimasen</a>
 <li><a href="#chapter16">Chapter 16</a>
@@ -246,7 +246,7 @@ div.main {
 
 <ol>
 <li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}
-<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasen}}
+<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasenn}}
 <li> S@HI{{ka}}
 <li> @N{{}}@HI{{mo}}
 <li> @N1{{}}@HI{{no}}@N2{{}}
@@ -267,7 +267,7 @@ N<sub>2</sub> gives more information about the topic. <br/>
 <ol>
 <li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kore/sore/are}} </a>
 <li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kono/sono/ano}} </a>
-<li> @HI{{sou desu}}/@HI{{sou ja arimasen}}
+<li> @HI{{sou desu}}/@HI{{sou ja arimasenn}}
 <li> @S1{{}}@HI{{ka,}} @S2{{}}@HI{{ka}}
 <li> @N1{{}}@HI{{no}}@N2{{}}
 <li> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a>
@@ -896,9 +896,9 @@ The purpose for the movement is expressed in this sentence pattern.
 
 <ol>
 <li> <a href="grammar-te-mo-ii.html"> @HI{{te mo ii}} </a>
-<li> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{ha ikemasen}}</a>
+<li> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{ha ikemasenn}}</a>
 <li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
-<li> @HI{{shirimasen}}
+<li> @HI{{shirimasenn}}
 </ol>
 
 <h2><a name="chapter16">Chapter 16</a></h2>
@@ -916,7 +916,7 @@ The purpose for the movement is expressed in this sentence pattern.
 <ol>
 <li> <a href="grammar-verb-formation-nai.html"> How to make the @HI{{nai}}-form </a> </h3>
 <li> <a href="grammar-nai-de.html"> @HI{{nai de kudasai}} </a>
-<li> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba narimasen}} </a>
+<li> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba narimasenn}} </a>
 <li> <a href="grammar-nakute-mo-ii.html"> @HI{{nakute mo ii}} </a>
 <li> @N{{object}}@HI{{ha}}
 <li> <a href="grammar-made-ni.html"> @HI{{made ni}} </a>
@@ -1305,7 +1305,7 @@ is marked by @HI{{ga}}.
 <ol>
 <li> <a href="grammar-hou-ga-ii.html"> @HI{{hou ga ii}} </a>
 <li> <a href="grammar-deshou.html"> @HI{{deshou}} </a>
-<li> <a href="grammar-kamo-shiremasen.html"> @HI{{kamo shiremasen}} </a>
+<li> <a href="grammar-kamo-shiremasen.html"> @HI{{kamo shiremasenn}} </a>
 <li> <a href="grammar-kitto-tabun-moshikashitara.html"> @HI{{kitto/tabunn/moshikashitara}} </a>
 <li> <a href="grammar-nanika-shinpai-na-koto.html"> @HI{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}} </a>
 <li> <a href="grammar-quantifier-de.html"> <em>quantifier</em> @HI{{de}} </a>

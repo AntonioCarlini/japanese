@@ -2,14 +2,14 @@
 <html>
 
 <head>
-<title>@HI{{te ha ikemasen}}</title>
+<title>@HI{{te ha ikemasenn}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
 <body>
 
-<h1>@HI{{te ha ikemasen}}</h1>
+<h1>@HI{{te ha ikemasenn}}</h1>
 
 <h2> Formation </h2>
 
@@ -29,7 +29,7 @@ This pattern is used to express prohibition.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasen. @KJ{{prohibit^smoke}}desu kara.}}
+      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasenn. @KJ{{prohibit^smoke}}desu kara.}}
   </td> </tr>
   <tr class="en"> <td>
       You may not smoke here because it is a no-smoking area.
@@ -40,7 +40,7 @@ This pattern is used to express prohibition.
 <h2> Notes </h2>
 
 <p>
-To <em>strongly</em> refuse permission, use @HI{{iee, ikemasen}}. This form cannot be used to
+To <em>strongly</em> refuse permission, use @HI{{iee, ikemasenn}}. This form cannot be used to
 a superior.
 </p>
 
