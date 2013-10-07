@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nakanaka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nakanaka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{nakanaka}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+When accompanied by a negative expression, <strong>@HI{{nakanaka}}</strong> means "not easily" or "not as expected."
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}deha <strong>nakanaka</strong> @KJ{{horse}}wo@KJ{{see}}ru koto ga dekimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In Japan we can rarely see horses.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

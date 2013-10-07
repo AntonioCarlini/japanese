@@ -591,7 +591,7 @@ adjectives they modify.
 }}</td> </tr>
   <tr class="en"> <td> Shanghai is not very cold.</td> </tr>
   <tr class="jp"> <td> @HI{{sakura@KJ{{ookii^manabu}} ha <em>amari</em>
-  @KJ{{arinashi^namae}}na @KJ{{ookii^manabu}}jya arimasen.}}</td> </tr>
+  @KJ{{arinashi^namae}}na @KJ{{ookii^manabu}}jya arimasenn.}}</td> </tr>
   <tr class="en"> <td> </td> </tr>
 </table>
 
@@ -924,58 +924,14 @@ The purpose for the movement is expressed in this sentence pattern.
 
 <h2><a name="chapter18">Chapter 18</a></h2>
 
-<h3>Verb Dictionary Form</h3>
-
-<p>
-This is the basic form of a verb and is the form in which it will be found in a dictionary. All other forms should
-be regarded as derived from this form (rather than from the @HI{{masu}} form).
-</p>
-
-<h3>@HI{{dekiru}}</h3>
-
-<p>
-@HI{{dekiru}} is the verb which expresses ability or possibility.
-The pattern N @HI{{ga dekiru}} indicates that which is possible. N may be replaced by
-V<sub>3</sub> @HI{{koto}}.
-<table class="sentence">
-<tr class="jp"> <td> @KT{{mira-}}@HI{{sann ha nihongo ga dekimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{kotoshi ha @KT{{suki-}}ga dekimasu.}} </td> </tr>
-<tr class="jp"> <td> @KT{{ka-do}}@HI{{de harau koto ga dekimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3Hobbies</h3>
-
-<p>
-<table class="sentence">
-<tr class="jp"> <td> @HI{{watashi no shumi ha ongaku desu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{watashi no shumi ha ongaku wo kiku koto desu.}} </td> </tr>
-</table>
-</p>
-
-<h3>V<sub>1</sub> @HI{{mae ni,}} V<sub>2</sub></h3>
-
-<p>
-This pattern indicates that V<sub>2</sub> occurs before V<sub>1</sub> happens.
-V<sub>1</sub> may be replaced by N@HI{{no}} or by a quantifier specifying time.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{nihonn he kuru mae ni, nihongo wo benkyou shimashita.}} </td> </tr>
-<tr class="jp"> <td> @HI{{shokuji no mae ni, te wo araimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{tanakasann ha 1jikann mae ni, dekakemashita.}} </td> </tr>
-</table>
-</p>
-
-<h3>@HI{{nakanaka}}</h3>
-
-<p>
-When accompaned by a negative expression, this means "not easily" or "not as expected".
-</p>
-
-<h3>@HI{{zehi}}</h3>
-
-<p>
-@HI{{zehi}} is used with expressions of hope and request and emphasises the meaning of the expression.
-</p>
+<ol>
+<li> <a href="grammar-verb-formation-dictionary.html"> How to make the dictionary form from the @HI{{masu}} form</a>
+<li> <a href="grammar-koto-ga-dekiru.html"> @HI{{koto ga dekiru}}</a>
+<li> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a>
+<li> <a href="grammar-mae-ni.html"> @HI{{mae ni}} </a>
+<li> <a href="grammar-nakanaka.html"> @HI{{nakanaka}} </a>
+<li> <a href="grammar-zehi.html"> @HI{{zehi}} </a>
+</ol>
 
 <h2><a name="chapter19">Chapter 19</a></h2>
 

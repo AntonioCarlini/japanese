@@ -36,6 +36,22 @@ Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, <str
 something to which the speaker does not feel very close.
 </p>
 
+<p>
+In the pattern:
+<br/>
+A@HI{{ha}}B@HI{{desu}}
+<br/>
+@HI{{koto}} can be used in position B but @HI{{no}} cannot.
+</p>
+
+<p>
+The pattern
+<br/>
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}} @Vru{{}} @HI{{koto desu.}}
+<br/>
+can be usd to better define a hobby.
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -48,6 +64,15 @@ something to which the speaker does not feel very close.
       From photographs I know that Switzerland is beautiful.
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku koto desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My hobby is listening to music.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
@@ -57,7 +82,7 @@ There are various structures where <strong>@HI{{koto}}</strong> is used and @HI{
 <ul>
 <li> ... @HI{{ha <strong>koto</strong> desu.}}
 <li> ... @HI{{<strong>koto</strong> ga aru}} ...
-<li> ... @HI{{<strong>koto</strong> ga dekiru}} ...
+<li> ... <a href="grammar-koto-ga-dekiru.html">@HI{{<strong>koto</strong> ga dekiru}} ... </a>
 <li> ... @HI{{<strong>koto</strong> ni naru}} ...
 <li> ... @HI{{<strong>koto</strong> ni suru}} ...
 <li> ... @HI{{<strong>koto</strong> ha}} ...
@@ -67,6 +92,7 @@ There are various structures where <strong>@HI{{koto}}</strong> is used and @HI{
 <h2> References </h2>
 
 <ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
 <li> @REF{{DOBJG}}. (p 193).
 </ol>
 

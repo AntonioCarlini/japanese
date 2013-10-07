@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nai}}-form</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nai}}-form</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> @Vmasu{{}} </th> <th> @Vru{{}} </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kikimasu}}     </td> <td> @HI{{kiku}}       </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogimasu}}    </td> <td> @HI{{oyogu}}      </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumimasu}}     </td> <td> @HI{{fumu}}       </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobimasu}}     </td> <td> @HI{{yobu}}       </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinimasu}}    </td> <td> @HI{{shinu}}      </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iwimasu}}       </td> <td> @HI{{iu}}        </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{torimasu}}     </td> <td> @HI{{toru}}       </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motimasu}}    </td> <td> @HI{{motsu}}       </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasimasu}}   </td> <td> @HI{{hanasu}}     </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> @Vmasu{{}} </th> <th> @Vru{{}} </th>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homemasu}}  </td> <td> @HI{{homeru}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{mimasu}}    </td> <td> @HI{{miru}} </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> Irregular verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> verb </th> <th> @Vmasu{{}} </th> <th> @Vru{{}} </th>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kimasu}}   </td> <td> @HI{{kuru}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{shimasu}}  </td> <td> @HI{{suru}} </td> </tr>
+</table>
+</p>
+
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+The dictionary form is normally considered to be the form from which all others are derived. As
+the @HI{{masu}} form if often introduced first, it can be useful to dreive the dictionary from from it.
+</p>
+
+<p>
+@KJ{{five^grade}} verbs form the dictionary form by dropping @HI{{masu}} and
+changing the final kana to the @HI{{u}}-row.
+</p>
+
+<p>
+@KJ{{ichi^grade}} verbs form the dictionary form by dropping the final @HI{{masu}}
+and adding the suffix @HI{{ru}}.
+</p>
+
+<p>
+The two irregular verbs conjugate as shown above.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-JP-I}}. (Chapter 18).
+</ol>
+
+<p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+</p>
+
+</body>
+
+</html>

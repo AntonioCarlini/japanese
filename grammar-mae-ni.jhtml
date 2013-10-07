@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mae ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{mae ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@HI{{mae ni}}</strong>, @V2{{}}
+<li> @N{{}} @HI{{no}} <strong>@HI{{mae ni}}</strong>, @V2{{}}
+<li> <em>quantifier(period)</em> <strong>@HI{{mae ni}}</strong>, @V2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern indicates that @V2{{}} happens before whatever is stated in the subordinate clause.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}he @KJ{{come}}ru <strong>mae ni</strong>, @KJ{{day^book^word}}wo
+      @KJ{{determine^strong}}shimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I studied Japanese before I came to Japan.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{eat^matter}}no <strong>mae ni</strong>, @KJ{{hand}}wo@KJ{{wash}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wash my hands before eating.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rice*field^in}}sanha 1@KJ{{time^interval}}<strong>mae ni</strong>, @KJ{{exit}}kakemashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka left an hour ago.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+The verb before <strong>@HI{{mae ni}}</strong> is always non-past even if the sentence itself is in the past.
+</p>
+
+<p>
+<strong>@HI{{mae ni}}</strong> is used when the speaker something is going to take place. If the speaker
+is unsure when the event might take place, @HI{{uchi ni}} should be used instead.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{DOBJG}}. (p 231).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

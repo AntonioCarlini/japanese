@@ -202,6 +202,7 @@
 
 <h3> <a href="grammar-kosoado.html"> @HI{{kosoado}}</a> </h3>
 <h3> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a> </h3>
+<h3> <a href="grammar-koto-ga-dekiru.html"> @HI{{koto ga dekiru}}</a> </h3>
 <h3> <a href="grammar-koro.html"> @HI{{koro}} </a> </h3>
 <h3> <a href="grammar-goro.html"> @HI{{goro}} </a> </h3>
 
@@ -260,6 +261,7 @@
 <h2> <a name="hi-na">@HI{{na}}</a> </h2>
 
 <h3> <a href="grammar-nai-de.html"> @HI{{nai de}} </a> </h3>
+<h3> <a href="grammar-nakanaka.html"> @HI{{nakanaka}} </a> </h3>
 <h3> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba naranai}} </a> </h3>
 <h3> <a href="grammar-nakute-mo-ii.html"> @HI{{nakute mo ii}} </a> </h3>
 <h3> <a href="grammar-nagara.html"> @HI{{nagara}} </a> </h3>
@@ -301,6 +303,7 @@
 
 <h2> <a name="hi-ma">@HI{{ma}}</a> </h2>
 
+<h3> <a href="grammar-mae-ni.html"> @HI{{mae ni}} </a> </h3>
 <h3> <a href="grammar-mada.html"> @HI{{mada}} </a> </h3>
 <h3> <a href="grammar-mada-te-inai.html"> @HI{{mada}} @Vte{{}}@HI{{inai}} </a> </h3>
 <h3> <a href="grammar-made-ni.html"> @HI{{made ni}} </a> </h3>
@@ -321,6 +324,10 @@
 
 <h3> <a href="grammar-sugiru.html"> @HI{{sugiru}} </a> </h3>
 <h3> <a href="grammar-zutsu.html"> @HI{{zutsu}} </a> </h3>
+
+<h2> <a name="hi-se">@HI{{se}}</a> </h2>
+
+<h3> <a href="grammar-zehi.html"> @HI{{zehi}} </a> </h3>
 
 <h2> <a name="hi-so">@HI{{so}}</a> </h2>
 
@@ -383,6 +390,7 @@
 <h3> <a href="grammar-verb-use-of-causative.html"> Uses of the causative form </a> </h3>
 <h3> <a href="grammar-verb-formation-conditional.html"> How to make the conditional form </a> </h3>
 <h3> <a href="grammar-verb-use-of-conditional.html"> Uses of the conditional form </a> </h3>
+<h3> <a href="grammar-verb-formation-dictionary.html"> How to make the dictionary form from the @HI{{masu}} form</a> </h3>
 <h3> <a href="grammar-verb-formation-imperative.html"> How to make the imperative form </a> </h3>
 <h3> <a href="grammar-verb-use-of-imperative-prohibitive.html"> Uses of the imperative &amp; prohibitive forms </a> </h3>
 <h3> <a href="grammar-verb-formation-nai.html"> How to make the @HI{{nai}}-form </a> </h3>

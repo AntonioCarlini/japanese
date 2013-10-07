@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{koto ga dekiru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{koto ga dekiru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{ga dekiru}}</strong>
+<li> @Vru{{}} <strong>@HI{{koto ga dekiru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+These two sentence patterns express an ability or possibility.
+</p>
+
+<p>
+@HI{{dekiru}} is the <a href="grammar-verb-formation-potential.html">potential</a> form of @HI{{suru}}
+and means "can" or "able to".
+</p>
+
+<p>
+Nouns used in this sentence pattern are mostly those which indicate an action, such as skiing, dancing
+or playing a sport.
+</p>
+
+<p>
+When a verb is used to describe an ability or possibility, the dictionary form is nominalised by
+<a href="grammar-koto-nominaliser.html">@HI{{koto}}</a> and it is then used as the noun part of the
+sentence pattern above.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha @KJ{{day^book^word}}ga dekimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller can speak Japanese.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha @KJ{{sino-^character}}wo@KJ{{read}}mu koto ga dekimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller can read kanji.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
