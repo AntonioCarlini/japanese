@@ -208,8 +208,10 @@
 
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
 <h3> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a> </h3>
+<h3> <a href="grammar-ta-koto-ga-aru.html"> @Vta{{}} @HI{{koto ga aru}} </a> </h3>
 <h3> <a href="grammar-tara.html"> @HI{{tara}} </a> </h3>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
+<h3> <a href="grammar-tari.html"> @Vta{{}}@HI{{ri}} </a> </h3>
 <h3> <a href="grammar-dai.html"> @HI{{dai}} </a> </h3>
 <h3> <a href="grammar-quantifier-dake.html"> <em>quantifier</em> @HI{{dake}} </a> </h3>
 <h3> <a href="grammar-particle-dake.html"> @HI{{dake}} </a> </h3>
@@ -260,6 +262,7 @@
 
 <h2> <a name="hi-na">@HI{{na}}</a> </h2>
 
+<h3> <a href="grammar-adverb-naru.html"> <em>adverb</em> + @HI{{naru}} </a> </h3>
 <h3> <a href="grammar-nai-de.html"> @HI{{nai de}} </a> </h3>
 <h3> <a href="grammar-nakanaka.html"> @HI{{nakanaka}} </a> </h3>
 <h3> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba naranai}} </a> </h3>

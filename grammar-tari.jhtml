@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vta{{}}@HI{{ri}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vta{{}}@HI{{ri}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@Vta{{}}@HI{{ri}}</strong>, ... suru.
+<li> <strong>@Aistem{{}}@HI{{kattari}}</strong>, ... suru.
+<li> <strong>@Anastem{{}}@HI{{dattari}}</strong>, ... suru.
+<li> <strong>@N{{}}@HI{{dattari}}</strong>, ... suru.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern is used to refer to a few actions amongst many. The tense of the sentence is determined
+by the tense of the end of the sentence. There is no implied ordering in this pattern (unlike,
+for example the use of @Vte{{}} as a conjunction).
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^weekday^day}}ha @KT{{tenisu}}wo shitari, @KJ{{reflect^brush-stroke}}wo @KJ{{see}}tari shimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Last Sunday I played tennis, saw a film and so on.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono @KT{{resutorann}}no@KT{{sute-ki}}ha @KJ{{large}}kikattari @KJ{{little}}sakattari shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Steaks at this restaurant are sometimes big and sometimes small.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@KJ{{before^life}}ha @KJ{{day^book^person}}dattari @KT{{amerika}}@KJ{{person}}dattari
+      shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Teachers of Japanese are sometimes Japanese and sometimes American.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 19).
+<li> @REF{{DOBJG}}. (page 458).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

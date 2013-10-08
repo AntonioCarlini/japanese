@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title><em>adverb</em> + @HI{{naru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1><em>adverb</em> + @HI{{naru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}@HI{{ku naru}}
+<li> @Anastem{{}}@HI{{ni naru}}
+<li> @N{{}}@HI{{ni naru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{naru}} means "to become" so this sentence pattern indicates a change in state or condition.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{cold}}muku narimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To become cold.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{beginning^spirit}}ni narimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To become well (healthy).
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{25@KJ{{year-end}}ni narimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To turn 25 years old.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 19).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
