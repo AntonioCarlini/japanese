@@ -180,6 +180,7 @@ JHTML_SRCS += kana.jhtml
 JHTML_SRCS += kanji-with-a-single-reading.jhtml
 JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += mnn.jhtml
+JHTML_SRCS += nsm-n3g-toc.jhtml
 JHTML_SRCS += study-material.jhtml
 JHTML_SRCS += verbs.jhtml
 
