@@ -97,9 +97,9 @@ def processing()
         when "1D"   then "#{convert_to_kanji('ichi^dan')}"
         when "5D"   then "#{convert_to_kanji('go^dan')}"
         when "Nplace"   then "N<sub>place</sub>"
-        when /N\d?/  then
+        when /(V|N)\d?/  then
+          string = $1
           sub = style[1..-1] # lose first character
-          string = "N"
           string += "<sub>#{sub}</sub>" unless sub.nil?() || sub.empty?()
           string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
           string
