@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Verb Contractions</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Verb Contractions</h1>
+
+<h2> Formation </h2>
+
+<table>
+<tr> <th> Original form             </th>        <th> Contracted form          </th> </tr>
+<tr> <td> @Vte{{}}@HI{{iru}}        </td>        <td> @Vte{{}}@HI{{ru}}        </td> </tr>
+<tr> <td> @Vte{{}}@HI{{oku}}        </td>        <td> @V{{}}@HI{{toku}}        </td> </tr>
+<tr> <td> @V{{}}@HI{{deoku}}        </td>        <td> @V{{}}@HI{{doku}}        </td> </tr>
+<tr> <td> @Vte{{}}@HI{{shimau}}     </td>        <td> @Vte{{}} @HI{{chau}}     </td> </tr>
+<tr> <td> @HI{{de}}@HI{{shimau}}    </td>        <td> @HI{{de}}@HI{{jau}}      </td> </tr>
+<tr> <td> @Vte{{}}@HI{{ha}}         </td>        <td> @V{{}}@HI{{cha}}         </td> </tr>
+<tr> <td> @V{{}}@HI{{deha}}         </td>        <td> @V{{}}@HI{{ja}}          </td> </tr>
+<tr> <td> @HI{{nakuteha}}           </td>        <td> @HI{{nakucha}}           </td> </tr>
+<tr> <td> @HI{{to iu}}              </td>        <td> @HI{{tte}}               </td> </tr>
+</table>
+
+<h2> Definition </h2>
+
+<p>
+In informal speech the contractions listed above are often employed.
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p 358).
+<li> @REF{{DOBJG}}. (p 405).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

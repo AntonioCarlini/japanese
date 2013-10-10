@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{uchi ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{uchi ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @Vnai{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @Vte{{}} @HI{{iru}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @Ai{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @Ana{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @N{{}} @HI{{no}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> <em>quantifier(period)</em> <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{uchi ni}}</strong> expresses the general time in which a state or action occurs.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{consider}}eteiru<strong>@HI{{uchi ni}}@KJ{{part}}kara naku natta.
+  </td> </tr>
+  <tr class="en"> <td>
+      While thinking about it, I got lost.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rain}}ga@KJ{{descend}}ranai <strong>uchi ni</strong>@KT{{tenisu}}wo shite kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll go and play tennis (and come back) before it rains.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{warm}}kai<strong>uchi ni</strong>@KJ{{drink}}de kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please drink it while it is warm.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rest}}mino<strong>uchi ni</strong>yoku@KJ{{sleep}}teokimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll sleep a lot during the summer holiday.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+The expression before <strong>@HI{{uchi ni}}</strong> is always non-past even if the sentence itself is in the past.
+</p>
+
+<p>
+<strong>@HI{{uchi ni}}</strong> cannot be used where the noun used is an event such as a class.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p 512).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
