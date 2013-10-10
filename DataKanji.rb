@@ -106,9 +106,9 @@ class DataKanji
       onyomi = fields.shift().split(' ')   # split onyomi on space boundaries
       kunyomi = fields.shift().split(' ')  # split kunyomi on space boundaries
       nanori = fields.shift().split(' ')   # split nanori on space boundaries
-      meanings = fields.shift().split(/\s*}\s*{\s*/)
-      meanings.first().sub!(/^\s*{/, "") # Eliminate initial { on first meaning
-      meanings.last().sub!(/}\s*$/, "")  # Eliminate final } on last meaning
+      meanings = fields.shift().split(/\s*\}\s*\{\s*/)
+      meanings.first().sub!(/^\s*\{/, "") # Eliminate initial { on first meaning
+      meanings.last().sub!(/\}\s*$/, "")  # Eliminate final } on last meaning
       
       grade = fields.shift().to_i()
       jlpt = fields.shift().to_i()
