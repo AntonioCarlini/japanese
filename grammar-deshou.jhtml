@@ -26,6 +26,10 @@
 <strong>@HI{{deshou}}</strong> expresses the speaker's conjecture, possibly from some information he has.
 </p>
 
+<p>
+When used with a rising intonation, it is being used by the speaker to confirm the listener's agreement.
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -35,7 +39,7 @@
       @HI{{ashitaha @KJ{{rain}}ga @KJ{{descend}}ru<strong>deshou</strong>.}}
   </td> </tr>
   <tr class="en"> <td>
-      It is good to exercise every day.
+      It is probably going to rain tomorrow.
   </td> </tr>
 </table>
 </ol>
@@ -46,6 +50,7 @@
 
 <p>
 <ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 21).
 <li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @REF{{DOBJG}}. (p 100).
 </ol>

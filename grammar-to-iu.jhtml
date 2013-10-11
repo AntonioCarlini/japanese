@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to @KJ{{say}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to @KJ{{say}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{to @KJ{{say}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to @KJ{{say}}}}.
+To quote indirectly, use the plain form before @HI{{to @KJ{{say}}}}. The tense of the quoted text is 
+unaffected by the tense of the main sentence.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{lie*down}}ru maeni [o@KJ{{rest}}minasai]to @KJ{{say}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We say "Good night" before we go to bed.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha @KJ{{come^week east^capital}}he @KJ{{exit^long}}suruto @KJ{{say}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller said that he would go to Tokyou on a business trip next week.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
