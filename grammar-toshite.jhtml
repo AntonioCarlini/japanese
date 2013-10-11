@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toshite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toshite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{toshite}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This particle follows a noun and indicates that something functions in a particular capacity or role.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rice*field^in}}sanha @KT{{se-rusumann}}<strong>toshite</strong> @KJ{{pick^utilize}}saremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka was hired as a salesman.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p 501)
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

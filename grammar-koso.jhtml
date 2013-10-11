@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{koso}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{koso}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}(particle)<strong>@HI{{koso}}</strong>
+<li> @Vte{{}}<strong>@HI{{koso}}</strong>
+<li> @Splain{{}}<strong>@HI{{koso}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{koso}}</strong> is a particle that emphasises a word, phrase or clause.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kore <strong>koso</strong>@KJ{{ego^noma}}ga @KJ{{grope}}shi @KJ{{request}}meteitamonoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is the very thing we've been looking for.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p 132).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

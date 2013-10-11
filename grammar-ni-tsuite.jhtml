@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni tsuite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{ni tsuite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}<strong>@HI{{ni tsuite}}</strong>
+<li> @Splain{{}}<strong>@HI{{ni tsuite}}</strong>
+<li> @N1{{}}/@Splain{{}} @HI{{no koto}}<strong>@HI{{ni tsuite}}</strong>@N2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{ni tsuite}}</strong> means "about" or "concerning".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{sumisu}}sanha @KJ{{day^book}}he @KJ{{detain^study}}suru koto <strong>ni tsuite</strong>
+      iroiro @KJ{{private}}ni @KJ{{inquire}}neta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Smith asked me various questions about his going to Japan for study.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{honorable^house^tribe}}<strong>ni tsuite</strong>@KJ{{tale}}shite kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please talk about your family.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p 280).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

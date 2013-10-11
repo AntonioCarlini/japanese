@@ -138,7 +138,7 @@ div.main {
 <h2><a name="w1d6"> @KJ{{No.}}1@KJ{{week}}6@KJ{{day^eye}} </a></h2>
 
 <ol>
-<li> @Vyou{{}}@HI{{to omou}}
+<li> <a href="grammar-you-to-omou.html">@Vyou{{}}@HI{{to omou}} </a>
 <li> @Vyou{{}}@HI{{to suru}}
 <li> @Vyou{{}}@HI{{to shinai}}
 </ol>
@@ -148,14 +148,14 @@ div.main {
 <ol>
 <li> <a href="grammar-bakari.html"> @HI{{bakari}} <a/>
 <li> @HI{{dake shika}} @Vnai{{}}
-<li> @N{{}}@HI{{koso}}
+<li> <a href="grammar-koso.html">@N{{}}@HI{{koso}} </a>
 </ol>
 
 <h2><a name="w2d2"> @KJ{{No.}}2@KJ{{week}}2@KJ{{day^eye}} </a></h2>
 
 <ol>
 <li> @HI{{kanshite}}
-<li> @HI{{ni tsuite}}
+<li> <a href="grammar-ni-tsuite.html">@HI{{ni tsuite}}</a>
 <li> @N{{}}@HI{{ni areba}}
 <li> @HI{{yotte}}/@HI{{yori}}/@HI{{yoru}}
 </ol>
@@ -204,7 +204,7 @@ div.main {
 <h2><a name="w3d2"> @KJ{{No.}}3@KJ{{week}}2@KJ{{day^eye}} </a></h2>
 
 <ol>
-<li> @N{{}}@HI{{toshite}}
+<li> <a href="grammar-toshite.html">@N{{}}@HI{{toshite}}</a>
 <li> ... @HI{{shiteha}}
 <li> ... @HI{{shitemo}}
 <li> ... @HI{{shitara}}/@HI{{sureba}}
@@ -274,7 +274,7 @@ div.main {
 <h2><a name="w4d4"> @KJ{{No.}}4@KJ{{week}}4@KJ{{day^eye}} </a></h2>
 
 <ol>
-<li> @Vru@@HI{{koto ha nai}}
+<li> @Vru{{}}@HI{{koto ha nai}}
 <li> @HI{{to iu koto da}}
 <li> @Vru{{}}@HI{{koto da}}
 <li> @HI{{koto ka}}

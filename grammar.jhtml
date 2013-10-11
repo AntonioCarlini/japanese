@@ -182,10 +182,6 @@
 
 <h3> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a> </h3>
 
-<h2> <a name="hi-u">@HI{{u}}</a> </h2>
-
-<h3> <a href="grammar-uchi-ni.html"> @HI{{uchi ni}} </a> </h3>
-
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
 <h3> <a href="grammar-kata.html"> @HI{{kata}} </a> </h3>
@@ -207,6 +203,7 @@
 <h3> <a href="grammar-kosoado.html"> @HI{{kosoado}}</a> </h3>
 <h3> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a> </h3>
 <h3> <a href="grammar-koto-ga-dekiru.html"> @HI{{koto ga dekiru}}</a> </h3>
+<h3> <a href="grammar-koso.html"> @HI{{koso}} </a> </h3>
 <h3> <a href="grammar-koro.html"> @HI{{koro}} </a> </h3>
 <h3> <a href="grammar-goro.html"> @HI{{goro}} </a> </h3>
 
@@ -225,7 +222,6 @@
 <h3> <a href="grammar-tsumori.html"> @HI{{tsumori}} </a> </h3>
 
 <h2> <a name="hi-te">@HI{{te}}</a> </h2>
-
 
 <h3> <a href="grammar-teineigo.html"> @HI{{teineigo}}: Polite Language </a> </h3>
 <h3> <a href="grammar-te-cause.html"> @HI{{te}}-form cause </a> </h3>
@@ -257,6 +253,8 @@
 <h3> <a href="grammar-to-iu-imi.html"> @HI{{to iu @KJ{{idea^flavor}}}} </a> </h3>
 <h3> <a href="grammar-to-itte-imashita.html"> @HI{{to @KJ{{say}}tte imashita}} </a> </h3>
 <h3> <a href="grammar-to-tsutaete-itadakemasenka.html"> @HI{{to @KJ{{transmit}}ete itadakemasenka}} </a> </h3>
+<h3> <a href="grammar-toshite.html"> @HI{{toshite}} </a> </h3>
+<h3> <a href="grammar-toshite-wa.html"> @HI{{toshite ha}} </a> </h3>
 <h3> <a href="grammar-toori-ni.html"> @HI{{toori ni}} </a> </h3>
 <h3> <a href="grammar-toka.html"> @HI{{toka}} </a> </h3>
 <h3> <a href="grammar-tokoro.html"> @HI{{tokoro}} </a> </h3>
@@ -282,6 +280,7 @@
 <h3> <a href="grammar-token-ni.html"> <em>in memory of</em> @HI{{ni}} </a> </h3>
 <h3> <a href="grammar-ni-shite-wa.html"> @HI{{ni shite ha}} </a> </h3>
 <h3> <a href="grammar-ni-suru.html"> @HI{{ni suru}} </a> </h3>
+<h3> <a href="grammar-ni-tsuite.html"> @HI{{ni tsuite}} </a> </h3>
 
 <h2> <a name="hi-no">@HI{{no}}</a> </h2>
 
@@ -368,6 +367,7 @@
 <h3> <a href="grammar-you-ni.html"> @HI{{you ni}} </a> </h3>
 <h3> <a href="grammar-you-ni-naru.html"> @HI{{you ni naru}} </a> </h3>
 <h3> <a href="grammar-you-ni-suru.html"> @HI{{you ni suru}} </a> </h3>
+<h3> <a href="grammar-you-to-omou.html"> @Vyou{{}}@HI{{to@KJ{{think}}u}} </a> </h3>
 <h3> <a href="grammar-yotei.html"> @HI{{yotei desu}} </a> </h3>
 
 <h2> <a name="hi-ra">@HI{{ra}}</a> </h2>
