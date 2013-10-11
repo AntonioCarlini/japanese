@@ -168,6 +168,7 @@ JHTML_SRCS += grammar-you-desu.jhtml
 JHTML_SRCS += grammar-you-ni.jhtml
 JHTML_SRCS += grammar-you-ni-naru.jhtml
 JHTML_SRCS += grammar-you-ni-suru.jhtml
+JHTML_SRCS += grammar-you-to-omou.jhtml
 JHTML_SRCS += grammar-zehi.jhtml
 JHTML_SRCS += grammar-zutsu.jhtml
 JHTML_SRCS += grammar.jhtml

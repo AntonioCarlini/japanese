@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{you to @KJ{{think}}u}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{you to @KJ{{think}}u}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vyou{{}}@HI{{to @KJ{{think}}u}}
+<li> @Vyou{{}}@HI{{to @KJ{{think}}tteiru}}
+<li> @Vru{{}}@HI{{mai to @KJ{{think}}u}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+A sentence ending in the plain volitional followed by @HI{{to @KJ{{think}}u}} indicates something that the speaker wishes to do.
+@HI{{to @KJ{{think}}tteiru}} expresses a similar meaning except it implies that the decision was made some time ago.
+</p>
+
+<p>
+The negative form is @Vru{{}}@HI{{mai to @KJ{{think}}u}}.
+</p>
+
+<p>
+The verb before @HI{{to@KJ{{think}}u}} must be something controllable by human volition.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{summer^rest}}mini @KJ{{day^book}}@KT{{arupusu}}ni@KJ{{ascend}}rou to@KJ{{think}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think I will climb the Japanese Alps during the summer holiday.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{week^end}}ha @KJ{{sea}}ni @KJ{{going}}kou to @KJ{{think}}tte imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm thinking of going to the beach at the weekend.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now}}kara @KJ{{silver^going}}he @KJ{{going}}kou to @KJ{{think}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm going to the bank.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha ano@KJ{{person}}to ha mou @KJ{{tale}}sumai to@KJ{{think}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think I won't talk to that person any more.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+When the subject is not the speaker, this sentence pattern cannot be used. This is because @HI{{to @KJ{{think}}u}}
+refers only to the speaker's thoughts.
+Under these circumstances use @HI{{@KJ{{think}}tte iru}} to indicate that the subject "has indicated that he feels".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
+<li> @REF{{DOBJG}}. (p. 569).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
