@@ -89,6 +89,7 @@ JHTML_SRCS += grammar-particle-shika.jhtml
 JHTML_SRCS += grammar-particle-wa.jhtml
 JHTML_SRCS += grammar-phenomenon-senses-ga-suru.jhtml
 JHTML_SRCS += grammar-plain-form-shi.jhtml
+JHTML_SRCS += grammar-polite-and-plain.jhtml
 JHTML_SRCS += grammar-ppoi.jhtml
 JHTML_SRCS += grammar-purpose-ni.jhtml
 JHTML_SRCS += grammar-quantifier-dake.jhtml

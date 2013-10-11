@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Polite and Plain Styles</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Polite and Plain Styles</h1>
+
+<h2> Definition </h2>
+
+<p>
+If a sentence predicate uses @HI{{desu}} or @HI{{masu}} then it is considered to be in the polite (or formal) style. Otherwise
+it is in the plain (or casual or informal) style.
+</p>
+
+<p>
+The polite style may be used to anybody at any time. It is commonly used between adults who are not close friends. It is
+used towards adults whom one has just met for the first time, to one's superiors in society and to any adult to whom
+one does not feel close. It may also optionally be used when talking to younger people or those lower in rank.
+</p>
+
+<p>
+The plain style is used when talking to one's close friends, colleagues and family members. It is also used in written work
+such as newspapers, books, theses and diaries. Letters, however, are usually written in the polite style.
+</p>
+
+<h2> Chaarcteristics of the plain style </h2>
+
+<ol>
+<li> questions usually omit @HI{{ka}}, ending instead in a rising intonation.
+<li> in noun and @HI{{na}}-adjective questions, @HI{{da}} is usually omitted.
+<li> particles are often omitted if the meaning of the sentence is still clear.
+<li> @V{{}}@HI{{te iru}} often becomes @V{{}}@HI{{teru}}.
+<li> @HI{{kedo}} is used as a conjunction rather than @HI{{ga}}.
+</ol>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{ko-hi}}wo @KJ{{drink}}mu?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Do you want a coffee?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{now^nightfall}} @KJ{{spare*time}}?
+  </td> </tr>
+  <tr class="en"> <td>
+      Are you free tonight?
+  </td> </tr>
+  <tr class="jp"> <td>
+      @KJ{{spare*time}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yes I am.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 20).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
