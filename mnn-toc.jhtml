@@ -961,40 +961,6 @@ The purpose for the movement is expressed in this sentence pattern.
 <li> <a href="grammar-nai-to.html"> @HI{{nai to}} </a>
 </ol>
 
-<h3><a name="deshou">@HI{{deshou}}</a></h3>
-
-<p>
-When the speaker expects the listener to have some knowledge of the topic at hand and believes that the
-listener will agree with the speaker's view, @HI{{deshou}} is used with a rising intonation
-to confirm the listener's agreement.
-</p>
-
-<h3><a name="to-be-held">N<sub>place</sub>@HI{{ de}} N<sub>2</sub> @HI{{ga arimasu}}</a></h3>
-
-<p>
-When N<sub>2</sub> is an event or a partyy etc., @HI{{arimasu}} means "to be held" and N<sub>place</sub>
-is where the event will happen.
-</p>
-
-<h3><a name="occasion">N<occasion> @HI{{de}}</a></h3>
-
-<p>
-When an action happens on a certain occasion, the occasion is marked by @HI{{de}}.
-</p>
-
-<h3><a name="N-de-mo">N @HI{{de mo}} V</a></h3>
-
-<p>
-When making a suggestion or advising, @HI{{de mo}} is used to give an example of the
-class of things that could be done.
-</p>
-
-<h3><a name="nai-to">V-@HI{{nai to}}</a></h3>
-
-<p>
-This form is used to express the construct "have to".
-</p>
-
 <h2><a name="chapter22">Chapter 22</a></h2>
 
 <h3><a name="noun-modification">Noun Modification</a></h3>
@@ -1026,43 +992,13 @@ When expressing the time for doing some activity, put the dictionary form of the
 
 <h2><a name="chapter23">Chapter 23</a></h2>
 
-<h3><a name="toki">@HI{{toki}}</a></h3>
+<ol>
+<li> <a href="grammar-toki.html"> @HI{{toki}} </a>
+<li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
+<li> @N{{}}@HI{{ga}} adjective
+<li> @N{{}}@HI{{wo}} @V{{movement}}
+</ol>
 
-<p>
-@HI{{toki}} is used to link two sentences and expresses the time when the action described in the
-main sentence occurs.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{toshokann de kariru toki, @KT{{ka-do}}ga irimasu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{tsuma ga byouki no toki, kaisha wo yasumimasu.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="toki-V">@HI{{toki}}</a></h3>
-
-<p>
-When a dictionary form of a predicate is followed by @HI{{toki}}, it indicates that the action has not been
-completed; when the @HI{{ta}}-form is used, it indicates that the action has been completed.
-</p>
-
-<p>
-Consider these two sentences:
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kuni he kaeru toki, kabann wo kaimashita.}} </td> </tr>
-<tr class="jp"> <td> @HI{{kuni he kaetta toki, kabann wo kaimashita.}} </td> </tr>
-</table>
-In the first sentence, the speaker has not yet reached his destination and that the bag was purchased sometime during the trip.
-In the second sentence, the speaker bought a bag after arriving at the destination.
-</p>
-
-<h3><a name="inevitable-to">V<sub>dictionary</sub> @HI{{to}}</h3>
-
-<p>
-This sentence pattern is used when expressing the idea that a consequence is an inevitable outcome
-of a specified action.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{kono @KT{{botann}}osu to, otsuri ga demasu.}} </td> </tr>
-</table>
-</p>
 
 <h3><a name="ga-scene">N @HI{{ga}} adjective/V</a></h3>
 
@@ -1084,25 +1020,11 @@ or thing passes.
 <h2><a name="chapter24">Chapter 24</a></h2>
 
 <ol>
-<li> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions</a>
+<li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
+<li> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions </a>
+<li> @N{{person}}@HI{{ga}} @V{{}}
+<li> interrogative @HI{{ga}} @V{{}}
 </ol>
-
-<h3><a name="kuremasu">@HI{{kuremasu}}</a></h3>
-
-<p>
-@HI{{ageru}} is used when the speaker gives something to someone else. Hwoever, when the speaker,
-or a member of his family etc., is given something, the verb @HI{{kureru}} is used instead.
-</p>
-
-<h3><a name="te-giving">V-@HI{{te}} ... (giving)</a></h3>
-
-<p>
-<ol>
-<li> V-@HI{{te ageru}} indicates that someone does something for someone else with a sense of goodwill.
-<li> V-@HI{{te morau}} indicates that the speaker receives something with a sense of gratitude.
-<li> V-@HI{{te kureru}} indicates that the speaker receives something with a sense of gratitude.
-</ol>
-</p>
 
 <h3>N<sub>person</sub> @HI{{ga}} V</h3>
 
@@ -1118,55 +1040,10 @@ In reply to a statement or question, the converstaional partner offers new infor
 <ol>
 <li> <a href="grammar-tara.html"> @HI{{tara}} </a>
 <li> <a href="grammar-te-mo.html"> @HI{{te mo}} </a>
+<li> <a href="grammar-tara.html"> @HI{{moshi}} ... condition </a>
+<li> <a href="grammar-te-mo.html"> @HI{{ikura}} ... condition </a>
+<li> @HI{{ga}} and subordinate clauses
 </ol>
-
-<h3><a name="past-ra">Plain past @HI{{ra}}</a></h3>
-
-<p>
-When @HI{{ra}} is attached to the plain past form of a verb, adjective etc., the preceding clause is
-changed into a conditional expression. This pattern is used by the speaker to state an opinion, situation, request etc.
-</p>
-
-<h3><a name="V-ta-ra">V-@HI{{ta ra}}</a></h3>
-
-<p>
-This pattern is used to express that an action will be performed once another action, which is certain to happen in
-the future, has been completed.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{10jini nattara, dekakemashou.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="V-te-mo">V-@HI{{te mo}}</a></h3>
-
-<p>
-This sentence pattern is used to express a reverse condition. It is used when something which was expected
-to happen does not materialise.
-</p>
-
-<h3><a name="moshi-ikura">@HI{{moshi}} and @HI{{ikura}}</a></h3>
-
-<p>
-@HI{{moshi}} is used in a sentence in the plain past form to indicate that the sentence will present
-a condition.
-@HI{{ikura}} is used with -@HI{{te mo}} to do the same.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{moshi 1okuenn attara, iroiro na kuni wo ryokou shitai desu.}} </td> </tr>
-<tr class="jp"> <td> @HI{{ikura kangaetemo, wakarimasenn.}} </td> </tr>
-</table>
-</p>
-</p>
-
-<h3><a name="subordinate-ga">N @HI{{ga}}</a></h3>
-
-<p>
-In subordinate clauses using @HI{{tara}}, @HI{{temo}}, @HI{{toki}},
-@HI{{to}}, @HI{{maeni}} etc., in addition to @HI{{kara}}, the subject
-is marked by @HI{{ga}}.
-<table class="sentence">
-<tr class="jp"> <td> @HI{{tomodachi ga kuru maeni, heya wo souji shimasu.}} </td> </tr>
-</table>
-</p>
 
 <h2><a name="chapter26">Chapter 26</a></h2>
 

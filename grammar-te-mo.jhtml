@@ -28,6 +28,11 @@ the action expressed in the main clause will take place. The subordinate clause 
 expected from the main clause.
 </p>
 
+<p>
+@HI{{ikura}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+@HI{{ikura}} stresses the degree of conditionality.
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -58,6 +63,15 @@ expected from the main clause.
       No matter what I eat it tastes good.
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ikura @KJ{{tall}}kutemo, @KJ{{buy}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how expensive it is I will buy it.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
@@ -74,6 +88,7 @@ With a WH word @HI{{te mo}} means "no matter WH".
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 25).
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p 468).
 </ol>
 

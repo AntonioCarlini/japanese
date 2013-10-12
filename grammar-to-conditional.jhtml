@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to}} conditional</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to}} conditional</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li>  @Vru{{}}<strong>@HI{{to}}</strong>
+<li>  @Ai{{}}<strong>@HI{{to}}</strong>
+<li>  @Anastem{{}}@HI{{da}}<strong>@HI{{to}}</strong>
+<li>  @N{{}}@HI{{da}}<strong>@HI{{to}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The <strong>@HI{{to}}</strong> conditional expresses that as a result of the action in the subordinate clause,
+the action in the main clause happens as an inevitable consequence. As such, the main clause cannot be one of
+volition, hope invitation or request.
+</p>
+
+<p>
+The subordinate clause must be non-past even if it refers to a past event or action.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono @KT{{botann}}wo @KJ{{push}}<strong>to</strong>, o@KJ{{angling}}riga @KJ{{exit}}masu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Press this button and the change will come out.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{taiya}}ha @KJ{{old}}i<strong>to</strong> @KJ{{dangerous}}nai desu yo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Tyres are dangerous if they are old.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}da<strong>to</strong> @KJ{{proportion^pull}} ga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a discount if you are a student.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
+<li> @REF{{DOBJG}}. (p 480).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

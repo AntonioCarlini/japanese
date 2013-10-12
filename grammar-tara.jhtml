@@ -18,6 +18,7 @@
 <li> @Aistem{{}}katta<strong>@HI{{ra}}</strong>
 <li> @Anastem{{}}datta<strong>@HI{{ra}}</strong>
 <li> @N{{}}datta<strong>@HI{{ra}}</strong>
+<li> @HI{{moshi}} ... @HI{{ta}}<strong>@HI{{ra}}</strong>
 </ol>
 
 <h2> Definition </h2>
@@ -48,6 +49,11 @@ In both these constructions, the subordinate clause represents something that lo
 If thisis not the case then this sentence pattern cannot be used.
 </p>
 
+<p>
+@HI{{moshi}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+@HI{{moshi}} implies that an emphasis is on the speaker's supposition.
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -69,6 +75,15 @@ If thisis not the case then this sentence pattern cannot be used.
       Let's go out when it gets to 10.
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{moshi 1@KJ{{hundred*million^circle}} attara, iroirona @KJ{{country}}wo @KJ{{trip^coming}}shitai desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I had 100 million yen I would want to travel in various countries.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
@@ -77,6 +92,7 @@ If thisis not the case then this sentence pattern cannot be used.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 25).
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p 452).
 </ol>
 

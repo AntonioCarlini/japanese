@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toki}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toki}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li>  @Vplain{{}}<strong>@HI{{toki}}</strong>
+<li>  @Ai{{}}<strong>@HI{{toki}}</strong>
+<li>  @Ana{{}}<strong>@HI{{toki}}</strong>
+<li>  @N{{}}@HI{{no}}<strong>@HI{{toki}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{toki}}</strong> is a noun that indicates the time when something is or was done. It is often translated
+as "at the time when".
+</p>
+
+<p>
+@Vru{{}}<strong>@HI{{toki}}</strong> means that the action in the main clause happens <em>right before</em> that in the
+relative clause.
+</p>
+
+<p>
+@Vta{{}}<strong>@HI{{toki}}</strong> means that the action in the main clause happens <em>right after</em> that in the
+relative clause.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beru<strong>toki</strong> @KJ{{hand}}wo @KJ{{wash}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will wash my hands right before I eat my meal.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beta<strong>toki</strong> @KJ{{hand}}wo @KJ{{wash}}u.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I will wash my hands right after I eat my meal.      
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{hiroshiha @KJ{{test^verification}}no<strong>toki</strong> kaze wo hikimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hiroshi caught a cold at exam time.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{teri-}}ha @KT{{ju-su}}ga @KJ{{relax}}i<strong>toki</strong>ni takusan @KJ{{buy}}tte oita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Terry bought a lot of juice when it was cheap.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}ru <strong>toki</strong>, kabann wo @KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I bought a bag when I was going back to my country (and I bought it before I finished my journey).
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}tta <strong>toki</strong>, kabann wo @KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I bought a bag when I went back to my country (after my trip had been completed and I had already arrived in my country).
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{toki}}</strong> can be followed by an optional @HI{{ni}}, in which the time at which the relative clause
+happened comes under particular focus.
+</p>
+
+<p>
+A <strong>@HI{{toki}}</strong> clause never indicates a condiftion.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
+<li> @REF{{DOBJG}}. (p 490).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
