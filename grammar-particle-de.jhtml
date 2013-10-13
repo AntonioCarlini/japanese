@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} @HI{{de}} ... 
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the location of an action.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates a means or an implement.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the materials used.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the greatest, least etc. in a comparison.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the amount and scope.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the mode or condition of the agent of an action.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates time or age.
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the reason for something.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kinou @KJ{{silver^squat}}no@KT{{resutorann}}<strong>de</strong> @KJ{{nightfall}}gohanwo @KJ{{eat}}bemashita}}.
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday I had dinner at a restaurant in Ginza.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{day^book}}he @KJ{{boat}}<strong>de</strong>@KJ{{come}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I came to Japan by boat.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono @KT{{ke-ki}}ha, @KJ{{eggs}}to@KJ{{sugar}}<strong>de</strong> @KJ{{make}}rimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This cake is made of butter and eggs.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{generation^world}}<strong>de</strong>@KJ{{one^turn^tall}}i@KJ{{mountain}}ha @KJ{{what}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What is the tallest mountain in the world?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{book}}ha 1@KJ{{time^interval}}<strong>de</strong> @KJ{{read}}memasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You can read this book in an hour.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field}}sanha @KT{{apa-to}}ni 1@KJ{{person}}<strong>de</strong>@KJ{{dwell}}ndeimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamada lives in an apartment by himself.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{poem^person}}ha 25@KJ{{year-end}}<strong>de</strong>@KJ{{death}}nda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That poet died at 25.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ill^spirit}}<strong>de</strong>@KJ{{trip^going}}ni@KJ{{going}}kenakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I was ill, I couldn't go on the trip.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 49).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -955,9 +955,9 @@ The purpose for the movement is expressed in this sentence pattern.
 <li> <a href="grammar-to-omou.html"> @HI{{to@KJ{{think}}u}} </a>
 <li> <a href="grammar-to-iu.html"> @HI{{to@KJ{{say}}}} </a>
 <li> <a href="grammar-deshou.html"> @HI{{deshou}} </a>
-<li> @N1{{place}}@HI{{de}} @N2{{}}@HI{{ga aru}}
-<li> @N{{occasion}}@HI{{de}}
-<li> @N{{}}@HI{{demo}}@V{{}}
+<li> <a href="grammar-place-de-aru.html"> @N{{place}}@HI{{de}} @N2{{}}@HI{{ga aru}} </a>
+<li> <a href="grammar-particle-de.html"> @N{{occasion}}@HI{{de}} </a>
+<li> <a href="grammar-particle-demo.html"> @N{{}}@HI{{demo}}@V{{}} (... or something)</a>
 <li> <a href="grammar-nai-to.html"> @HI{{nai to}} </a>
 </ol>
 

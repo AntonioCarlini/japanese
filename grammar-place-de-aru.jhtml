@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@N{{place}}@HI{{de}} ... @HI{{aru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@N{{place}}@HI{{de}} ... @HI{{aru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{place}}@HI{{de}} @N2{{}}@HI{{ga}} @HI{{aru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern is used when @N2{{}} represents an event and the speaker wishes to say where it takes place.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{east^capital}}<strong>de</strong> @KJ{{day^book}}to@KT{{burajiru}}no @KT{{sakka-}}no @KJ{{test^fit}}ga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A football game between Japan and Brazil will take place in Tokyo.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
