@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Relative Clause</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Relative Clause</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}} @N{{}}
+<li> @Vplain{{}} @N{{}}
+<li> @Ai{{}} @N{{}}
+<li> @Ana{{}} @N{{}}
+<li> @N1{{}} @HI{{no}} @N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Japanese does not have relative pronouns, such as who, that and which. Instead a relative clause precedes a noun to modify it. 
+Note that anything which modifies a noun <em>always</em> precedes.
+</p>
+
+<p>
+The predicate of the sentence which forms the relative clause is in the plain form.
+<p>
+
+<p>
+The relative clause plus modified noun can be used anywhere in a sentence that a plain noun would be.
+</p>
+
+<p>
+Particles attached to the noun that acquires a relative clause are deleted.
+</p>
+
+<p>
+The topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
+@HI{{ga}} or @HI{{no}}. However, if the subject of the sentence is followed by a noun and @HI{{no}} then
+the meaning of the sentence would not be as intended.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanga @KJ{{dwell}}nde ita uchihe @KJ{{going}}tta kotoga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have been to the house where Mr. Miller lived.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KT{{karina}}sanga kaita @KJ{{picture}}ga @KJ{{fond}}ki desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I like the picture that Ms. Karina drew.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}<strong>ga</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom Tom gave a football ticket.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}<strong>no</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom someone gave Tom's football ticket.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 22).
+<li> @REF{{DOBJG}}. (p 376).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

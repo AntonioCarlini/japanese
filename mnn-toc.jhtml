@@ -963,25 +963,9 @@ The purpose for the movement is expressed in this sentence pattern.
 
 <h2><a name="chapter22">Chapter 22</a></h2>
 
-<h3><a name="noun-modification">Noun Modification</a></h3>
-
-<p>
-Anything that modifies a noun <em>always</em> precedes that noun.
-</p>
-
-<h3><a name="noun-modification-by-sentence">Noun Modification by Sentences</a></h3>
-
-<p>
 <ol>
-<li> The predicate of the sentence which modifies a noun is in the plain form.
-<li> The noun modified by a sentence can be used in various parts of a new sentence.
+<li> <a href="grammar-relative-clause.html"> Noun modification by a relative clause </a>
 </ol>
-</p>
-<h3><a name="N-ga-in-modifiers">N @HI{{ga}}</a></h3>
-
-<p>
-When a sentence modifies a noun, the subject in that sentence is indicated by @HI{{ga}}.
-</p>
 
 <h3><a name="time-for-doing">V-dictionary @HI{{jikann/yakusoku/youji}}</a></h3>
 
@@ -996,7 +980,7 @@ When expressing the time for doing some activity, put the dictionary form of the
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
 <li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
 <li> @N{{}}@HI{{ga}} adjective
-<li> @N{{}}@HI{{wo}} @V{{movement}}
+<li> <a href="grammar-particle-wo.html"> @HI{{wo}} (particle) </a>
 </ol>
 
 
