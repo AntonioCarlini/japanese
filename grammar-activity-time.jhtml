@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Time for Activity</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Time for Activity</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}} @KJ{{time^interval}}
+<li> @Vru{{}} @KJ{{promise^bundle}}
+<li> @Vru{{}} @KJ{{utilize^matter}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+When expressing the time at which some activity should be performed, place the dictionary form of the verb before @HI{{jikann}}.
+To express the content of an appointment or other arrangement, place the dictionary form of the verb before @HI{{yakusoku}}
+or @HI{{youji}} etc.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{morning}}gohanwo @KJ{{eat}}beru@KJ{{time^interval}}ga arimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have no time to eat breakfast.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{friend^accomplished}}to @KJ{{reflect^brush-stroke}}wo @KJ{{see}}ru @KJ{{promise^bundle}} ga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have an arrangement to see a film with a friend of mine.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kyouha @KJ{{market^duty^place}}he @KJ{{going}}ku @KJ{{utilize^matter}}ga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have something to do at the town hall today.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 22).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
