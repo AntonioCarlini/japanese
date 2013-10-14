@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,25 +13,31 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
-<li> @N1{{}} @HI{{ha}} ... 
+<li> @N{{}} <strong>@HI{{ha}}</strong> ... 
 </ol>
-</p>
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{ha}}</strong> is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
-<p></p>
+</p>
 
+<p>
 <strong>@HI{{ha}}</strong> is used to mark a topic, which is then explained or described in the rest of the
 sentence.
-<p></p>
+</p>
 
+<p>
+The sentence pattern @N1{{}}<strong>@HI{{ha}}</strong>@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
+quality or property, @N2{{}}, is explained.
+</p>
+
+<p>
 <strong>@HI{{ha}}</strong> is used to indicate a contrast.
 sentence.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 
@@ -52,28 +59,27 @@ sentence.
       @HI{{kyou<strong>ha</strong>}}@KJ{{see}}@HI{{emasenn.}}
   </td> </tr>
   <tr class="en"> <td>
-      Yesterday we could see mountaisn bu today we can't.
+      Yesterday we could see mountains but today we can't.
   </td> </tr>
 </table>
 </ol>
 
 <h2> Notes </h2>
 
+<p>
 When <strong>@HI{{ha}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}}, <strong>@HI{{ha}}</strong>
 replaces those particles. For all other particles, <strong>@HI{{ha}}</strong> follows them rather than
 replacing them.
-<p></p>
+</p>
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @REF{{AAP}}. (p 10).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
