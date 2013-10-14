@@ -21,7 +21,7 @@
 </ol>
 <dt> (B) recipient of an action
 <ol>
-<li> @N{{location}} <strong>@HI{{he}}</strong>
+<li> @N{{recipient}} <strong>@HI{{he}}</strong>
 </ol>
 </dl>
 </p>
@@ -39,6 +39,24 @@ Strictly speaking, @HI{{ni}} indicates the destination.
 <h2> Examples </h2>
 
 <ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{itsu@KJ{{capital^metropolis}}<strong>he</strong>@KJ{{going}}kimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When are you going to Kyoto?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{outside^country}}niiru@KJ{{friend^accomplished}}<strong>he</strong>@KJ{{hand^paper}}wo@KJ{{write}}ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wrote a letter to a friend abroad.
+  </td> </tr>
+</table>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>

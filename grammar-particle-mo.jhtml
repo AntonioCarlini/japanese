@@ -32,16 +32,35 @@
 
 <h2> Definition </h2>
 
+<p>
 In sentence pattern (A) a topic is introduced in the first utterance and in a subsequent sentence
 <strong>@HI{{mo}}</strong> is used to increase the scope of the topic.
-<p></p>
+</p>
 
+<p>
 In sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel.
-<p></p>
+</p>
 
+<p>
 In sentence pattern (C) <strong>@HI{{mo}}</strong> follows a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
-<p></p>
+</p>
+
+<p>
+<strong>@HI{{mo}}</strong> can indicate an addition such as "as well as".
+</p>
+
+<p>
+<strong>@HI{{mo}}</strong> can be used to show emphasis about a time or quantity.
+</p>
+
+<p>
+<strong>@HI{{mo}}</strong> can be used to indicate a total negation when used with a negative verb.
+</p>
+
+<p>
+<strong>@HI{{mo}}</strong> can be used to indicate an approximation.
+</p>
 
 <h2> Examples </h2>
 
@@ -54,6 +73,60 @@ idea that the speaker believes that the amount or number mentioned is large.
   </td> </tr>
   <tr class="en"> <td>
       Klara can speak English. She can speak French too.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{flower^child}}sanha sushi<strong>mo</strong>tenpura<strong>mo</strong>@KJ{{fond}}kidesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hanako likes both sushi and tempura.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{sumisu}}sanha @KJ{{sino-^character}}wo5000<strong>mo</strong>@KJ{{know}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Smith knows as many as 5000 kanji.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{black}}desukara,@KJ{{white}}i@KJ{{shoes}}<strong>mo</strong>arimasuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      These are black but we have white shoes as well.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{what^degrees}}<strong>mo</strong>@KJ{{see}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've seen that film any number of times.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{section^roof}}niha,dare<strong>mo</strong>imasenyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is noone in that room.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{1@KJ{{time^interval}}<strong>mo</strong>areba,@KT{{hoteru}}kara@KJ{{empty^harbor}}he@KJ{{going}}kemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You can get from the hotel to the airport in an hour or so.
   </td> </tr>
 </table>
 </ol>
