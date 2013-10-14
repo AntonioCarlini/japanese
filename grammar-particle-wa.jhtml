@@ -45,11 +45,29 @@ sentence.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
+      @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune. are <strong>ha</strong>@KJ{{sino-^character}}no@KJ{{book}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Over there is a red book. It's a kanji book.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
       @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de<strong>ha</strong>}}
       @KJ{{in}}@KJ{{country}}@KJ{{word}}@HI{{ga}} @KJ{{learn}}@HI{{emasu.}}
   </td> </tr>
   <tr class="en"> <td>
       In my school we can learn Chinese.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{elephant}}<strong>ha</strong>@KJ{{nose}}ga@KJ{{long}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The elephant has a long nose.
   </td> </tr>
 </table>
 <li>
