@@ -92,6 +92,7 @@ JHTML_SRCS += grammar-particle-e.jhtml
 JHTML_SRCS += grammar-particle-ga.jhtml
 JHTML_SRCS += grammar-particle-mo.jhtml
 JHTML_SRCS += grammar-particle-shika.jhtml
+JHTML_SRCS += grammar-particle-to.jhtml
 JHTML_SRCS += grammar-particle-wa.jhtml
 JHTML_SRCS += grammar-particle-wo.jhtml
 JHTML_SRCS += grammar-phenomenon-senses-ga-suru.jhtml

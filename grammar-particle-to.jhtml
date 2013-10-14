@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{to}}</strong> ... 
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{to}}</strong> follows nouns to indicate "and".
+It can only be used with nouns and not phrases or clauses.
+In this usage <strong>to</strong> follows each noun except the last.
+</p>
+
+<p>
+<strong>@HI{{to}}</strong> can be used to mark a comparison or contrast.
+sentence.
+</p>
+
+<p>
+<strong>@HI{{to}}</strong> can mean "with" to indicate participants in an action.
+</p>
+
+<p>
+<strong>@HI{{to}}</strong> can indicate a change or a result.
+</p>
+
+<p>
+Following an expression of quantity, <strong>@HI{{to}}</strong> reinforces the negative idea of the sentence.
+</p>
+
+<p>
+<strong>@HI{{to}}</strong> can indicate what someone says, asks or orders or <a href="grammar-to-omou.html">thinks</a>.
+In this usage it acts as a quotation marker.
+</p>
+
+<p>
+In the form <strong>@HI{{to}}</strong>@HI{{iu}} it indicates the name of something about which an explanation follows.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{white}}iyuri<strong>to</strong>@KJ{{red}}ibarano@KJ{{flower}}wo@KJ{{buy}}imashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's buy some white lillies and red roses.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{ringo}}<strong>to</strong>mikann<strong>to</strong>dochiraga@KJ{{fond}}kidesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Which do you like better, apples or mandarin oranges.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{company^long}}ha @KJ{{section^long}}<strong>to</strong>@KJ{{eat^matter}}woshiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The company president is eating out with the division manager.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^year}}ni@KJ{{sea^outside^trip^going^someone}}ha 1000@KJ{{ten*thousand^person}}<strong>to</strong>natta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This year the number of overseas travellers reached ten million.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{mountain}}ni@KJ{{ascend}}runiha, 2@KJ{{time^interval}}<strong>to</strong>kakarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It won't even take two hours to climb that mountain.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^book}}sanga, atode@KJ{{electricity^tale}}suru<strong>to</strong>osshaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamamoto said that she would phone later.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{come^year}}ha,@KT{{amerika}}he@KJ{{going}}kou<strong>to</strong>@KJ{{consider}}eteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm thinking of going to the US next year.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{generation^world}}<strong>to</strong>iu@KJ{{miscellaneous^document}}wo@KJ{{know}}tteimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Do you know the magazine called <em>Sekai</em>?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+When <strong>@HI{{to}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}}, <strong>@HI{{to}}</strong>
+replaces those particles. For all other particles, <strong>@HI{{to}}</strong> follows them rather than
+replacing them.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 33).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
