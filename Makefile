@@ -1,6 +1,7 @@
 OUTPUT = bin
 
 JHTML_SRCS += adjectives.jhtml
+JHTML_SRCS += aap.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
 JHTML_SRCS += grammar-activity-time.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
