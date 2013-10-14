@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -67,13 +68,11 @@ When <strong>@KJ{{direction}}</strong> means "method", it can be replaced by <st
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 183).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

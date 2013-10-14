@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -38,13 +39,11 @@ the listener for advice or instruction about what to do.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 26).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

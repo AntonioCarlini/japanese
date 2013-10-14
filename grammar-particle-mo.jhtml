@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -66,14 +67,12 @@ replacing them.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @REF{{AAP}}. (p 26).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

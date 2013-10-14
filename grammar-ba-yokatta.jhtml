@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,7 +13,6 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> <strong>@Vba{{}} @HI{{yokatta}}</strong>
 </ol>
@@ -32,13 +32,11 @@ This sentence pattern expresses the speaker's regret and is often translated as 
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 87).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

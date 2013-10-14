@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -17,14 +18,14 @@
 <dl>
 <dt>(A)
 <ol>
-<li>@N1{{}} <strong>@HI{{rashii}}</strong> @N2{{}}
+<li> @N1{{}} <strong>@HI{{rashii}}</strong> @N2{{}}
 </ol>
 <dt>(B)
 <ol>
-<li>@Vplain{{}} <strong>@HI{{rashii}}</strong>
-<li>@Ai{{}} <strong>@HI{{rashii}}</strong>
-<li>@Ana{{}} <strong>@HI{{rashii}}</strong>
-<li>@N{{}} <strong>@HI{{rashii}}</strong>
+<li> @Vplain{{}} <strong>@HI{{rashii}}</strong>
+<li> @Ai{{}} <strong>@HI{{rashii}}</strong>
+<li> @Ana{{}} <strong>@HI{{rashii}}</strong>
+<li> @N{{}} <strong>@HI{{rashii}}</strong>
 </ol>
 </dl>
 </p>
@@ -44,16 +45,14 @@ is the speaker's conjecture based on what he has heard, seen or read. First-hand
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{DOBJG}}. (p373 &amp; p550).
 <li> @REF{{NKZM-N3G}}. (p97 &amp; p 99).
 <li> @REF{{MNN-INT-TR-I}}. Chapter 11, #4 &amp; #5.
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

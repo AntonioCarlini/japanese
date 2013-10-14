@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,7 +13,6 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @Vte{{}} <strong>@HI{{sore kara}}</strong> ...
 <li> @Vmasu{{}}  <strong>@HI{{sore kara}}</strong> ...
@@ -20,7 +20,6 @@
 <li> @Anastem{{}} @HI{{de}} <strong>@HI{{sore kara}}</strong> ...
 <li> @N1{{}} (@HI{{to}}) @N2{{}} (@HI{{to}}) <strong>@HI{{sore kara}}</strong> @N3{{}} ...
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -63,13 +62,11 @@ The tense of the clause before @HI{{<strong>sore kara</strong>}} is determined b
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 416).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

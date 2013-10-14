@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li>@Vru{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
-<li>@Vta{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
-<li>@Vnai{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
-<li>@Ai{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
-<li>@Ana{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
-<li>@N{{}} @HI{{no}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @Vru{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @Vta{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @Vnai{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @Ai{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @Ana{{}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
+<li> @N{{}} @HI{{no}} <strong>@KJ{{location^fit}}@HI{{ha}}</strong>
 </ol>
 
 <h2> Definition </h2>
@@ -47,11 +47,9 @@ clause indicates how to cope with the situation or its consequences.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 45).
 </ol>
-</p>
 
 </br>
 Back to the <a href="../grammar.html"> grammar page</a>.

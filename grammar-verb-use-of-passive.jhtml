@@ -17,21 +17,21 @@
 <dl>
 <dt>(A) Passive sentence:
 <ol>
-<li>@N1{{person}} @HI{{ha}} @N2{{person}} @Vrareru{{}}
+<li> @N1{{person}} @HI{{ha}} @N2{{person}} @Vrareru{{}}
 </ol>
 <dt>(B) Suffering passive:
 <ol>
-<li>@N1{{person}} @HI{{ha}} @N2{{person}} @N3{{}} @HI{{wo}} @Vrareru{{}}
+<li> @N1{{person}} @HI{{ha}} @N2{{person}} @N3{{}} @HI{{wo}} @Vrareru{{}}
 </ol>
 </dl>
 <dt>(C) No subject required:
 <ol>
-<li>@N{{thing}} @HI{{ha/ga}} @N{{person}} @Vrareru{{}}
+<li> @N{{thing}} @HI{{ha/ga}} @N{{person}} @Vrareru{{}}
 </ol>
 </dl>
 <dt>(D) Creation or discovery:
 <ol>
-<li>@N1{{}} @HI{{ha}} @N2{{person}} @HI{{ni yotte}} @Vrareru{{}}
+<li> @N1{{}} @HI{{ha}} @N2{{person}} @HI{{ni yotte}} @Vrareru{{}}
 </ol>
 </dl>
 </p>

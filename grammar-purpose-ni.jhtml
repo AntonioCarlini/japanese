@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,12 +13,10 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @Vru{{}} @HI{{no <strong>ni</strong>}}
 <li> @N{{}} <strong>@HI{{ni}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -41,13 +40,11 @@ When the sentence patterns above are followed by expressions such as @HI{{tsukau
 
 <h2> Notes </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

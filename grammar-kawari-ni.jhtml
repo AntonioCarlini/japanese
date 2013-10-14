@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,14 +13,12 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @N{{}} @HI{{no <strong>kawari ni</strong>}}
 <li> @Vplain{{}} @HI{{<strong>kawari ni</strong>}}
 <li> @Ai{{}} @HI{{<strong>kawari ni</strong>}}
 <li> @Ana{{}} @HI{{<strong>kawari ni</strong>}}
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -78,13 +77,11 @@ In @S1{{}} @HI{{<strong>kawari ni</strong>}} @S2{{}}, @HI{{<strong>kawari ni</st
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 184).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

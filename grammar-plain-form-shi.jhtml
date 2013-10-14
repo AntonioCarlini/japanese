@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,14 +13,12 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
-<li>@Vplain{{}} <strong>@HI{{shi}}</strong>,
-<li>@Ai{{}} <strong>@HI{{shi}}</strong>,
-<li>@Anastem{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
-<li>@N{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
+<li> @Vplain{{}} <strong>@HI{{shi}}</strong>,
+<li> @Ai{{}} <strong>@HI{{shi}}</strong>,
+<li> @Anastem{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
+<li> @N{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -49,14 +48,12 @@ explictly it is implied that other causes or reasons exist.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{DOBJG}}. (p 395).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

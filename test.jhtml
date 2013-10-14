@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title>Tests</title>
@@ -26,7 +27,7 @@ Test lines:</br>
 
 @HI{{shyou}}</br>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,12 +13,10 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
-<li>@Vru{{}}@HI{{ <strong>@KJ{{beforehand^determine}}</strong>desu}}
-<li>@N{{}}@HI{{no <strong>@KJ{{beforehand^determine}}</strong>desu}}
+<li> @Vru{{}}@HI{{ <strong>@KJ{{beforehand^determine}}</strong>desu}}
+<li> @N{{}}@HI{{no <strong>@KJ{{beforehand^determine}}</strong>desu}}
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -53,13 +52,11 @@ This sentence pattern is used to pass on information about schedules.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

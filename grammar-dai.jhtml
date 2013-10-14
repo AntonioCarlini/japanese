@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -16,15 +17,15 @@
 <dl>
 <dt>(A)
 <ol>
-<li>@Ana{{}} <strong>@HI{{dai}}</strong>
-<li>@N{{}} <strong>@HI{{dai}}</strong>
+<li> @Ana{{}} <strong>@HI{{dai}}</strong>
+<li> @N{{}} <strong>@HI{{dai}}</strong>
 </ol>
 <dt>(B)
 <ol>
-<li>@Vplain{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
-<li>@Ai{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
-<li>@Ana{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
-<li>@N{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
+<li> @Vplain{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
+<li> @Ai{{}} @HI{{n}} <strong>@HI{{dai}}</strong>
+<li> @Ana{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
+<li> @N{{}} @HI{{na n}} <strong>@HI{{dai}}</strong>
 </ol>
 </dl>
 </p>
@@ -43,13 +44,11 @@ When <strong>@HI{{dai}}</strong> is used with a question, it must be an interrog
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 90).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

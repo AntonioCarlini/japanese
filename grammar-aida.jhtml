@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,15 +13,13 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
-<li>@Vte{{}} @HI{{iru}} <strong>@HI{{aida}}</strong>
-<li>@HI{{iru}} <strong>@HI{{aida}}</strong>
-<li>@Ai{{}} <strong>@HI{{aida}}</strong>
-<li>@Ana{{}} <strong>@HI{{aida}}</strong>
-<li>@N{{}} @HI{{no}} <strong>@HI{{aida}}</strong>
+<li> @Vte{{}} @HI{{iru}} <strong>@HI{{aida}}</strong>
+<li> @HI{{iru}} <strong>@HI{{aida}}</strong>
+<li> @Ai{{}} <strong>@HI{{aida}}</strong>
+<li> @Ana{{}} <strong>@HI{{aida}}</strong>
+<li> @N{{}} @HI{{no}} <strong>@HI{{aida}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -45,13 +44,11 @@ to cover the same span of time.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 67).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

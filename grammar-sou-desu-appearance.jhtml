@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -14,11 +15,10 @@
 
 <p>
 <dl>
-<li>@V2{{}} <strong>@HI{{sou desu}}</strong>
-<li>@Aistem{{}} <strong>@HI{{sou desu}}</strong>
-<li>@Anastem{{}} <strong>@HI{{sou desu}}</strong>
+<li> @V2{{}} <strong>@HI{{sou desu}}</strong>
+<li> @Aistem{{}} <strong>@HI{{sou desu}}</strong>
+<li> @Anastem{{}} <strong>@HI{{sou desu}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -83,14 +83,12 @@ Neither N + @HI{{sou desu}} nor N @HI{{da sou desu}} are permitted but N + @HI{{
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 <li> @REF{{DOBJG}}. (p 410).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

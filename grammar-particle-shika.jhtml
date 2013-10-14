@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,11 +13,9 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @N{{}} <strong>@HI{{shika}}</strong> ... V(negative)
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -48,14 +47,12 @@ For all other particles, <strong>@HI{{shika}}</strong> follows them rather than 
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @REF{{AAP}}. (p 85).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

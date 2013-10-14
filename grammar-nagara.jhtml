@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,11 +13,9 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @V1{{}}@masustem{{}} <strong>@HI{{nagara}}</strong>, @V2{{}}
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -50,14 +49,12 @@ A possible alternative in this case would be @HI{{aida}}.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{DOBJG}}. (p 269).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

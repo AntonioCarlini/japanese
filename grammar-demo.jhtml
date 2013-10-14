@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -12,11 +13,9 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
-<li>@N{{}} <strong>@HI{{demo}}</strong>
+<li> @N{{}} <strong>@HI{{demo}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -35,13 +34,11 @@
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{DOBJG}}. (p 111).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

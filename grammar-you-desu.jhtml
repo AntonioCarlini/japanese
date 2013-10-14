@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <dl>
-<li>@Vplain{{}} <strong>@HI{{you desu}}</strong>
-<li>@Ai{{}} <strong>@HI{{you desu}}</strong>
-<li>@Ana{{}} <strong>@HI{{you desu}}</strong>
-<li>@N{{}} @HI{{no}} <strong>@HI{{you desu}}</strong>
+<li> @Vplain{{}} <strong>@HI{{you desu}}</strong>
+<li> @Ai{{}} <strong>@HI{{you desu}}</strong>
+<li> @Ana{{}} <strong>@HI{{you desu}}</strong>
+<li> @N{{}} @HI{{no}} <strong>@HI{{you desu}}</strong>
 <li>demonstartive <strong>@HI{{you desu}}</strong>
 </ol>
 

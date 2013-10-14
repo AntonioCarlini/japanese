@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -13,14 +14,12 @@
 <h2> Formation </h2>
 
 
-<p>
 <ol>
-<li>@Vplain{{}} <strong>@HI{{ndesu}}</strong>
-<li>@Ai{{}} <strong>@HI{{ndesu}}</strong>
-<li>@Ana{{}} <strong>@HI{{ndesu}}</strong>
-<li>@N{{}}@HI{{na}} <strong>@HI{{ndesu}}</strong>
+<li> @Vplain{{}} <strong>@HI{{ndesu}}</strong>
+<li> @Ai{{}} <strong>@HI{{ndesu}}</strong>
+<li> @Ana{{}} <strong>@HI{{ndesu}}</strong>
+<li> @N{{}}@HI{{na}} <strong>@HI{{ndesu}}</strong>
 </ol>
-</p>
 
 <h2> Definition </h2>
 
@@ -88,14 +87,12 @@ and may therefore cause offence, It should be used with care.
 
 <h2> References </h2>
 
-<p>
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 26).
 <li> @REF{{DOBJG}}. (p 325).
 </ol>
-</p>
 
-<p></p>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>
