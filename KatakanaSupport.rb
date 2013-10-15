@@ -30,7 +30,9 @@ def convert_to_katakana(text)
     # Alternatives below here
     :ji => 0x30b8,
     :hu => 0x30d5,
-    :shi => 0x30b7, :chi => 0x30c1
+    :shi => 0x30b7, :chi => 0x30c1,
+    # small characters
+    :xa => 0x30a1, :xi => 0x30a3, :xu => 0x30a5, :xe => 0x30a7, :xo => 0x30a9
   }
   three = { :shi => 0x30b7, :chi => 0x30c1, :tsu => 0x30c4 }
   digraph2 = { :ya => 0x30e3, :yu => 0x30e5, :yo => 0x30e7 }
