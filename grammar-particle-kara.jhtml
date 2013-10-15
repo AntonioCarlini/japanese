@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}<strong>@HI{{kara}}</strong>.
+<li> @Vte{{}}<strong>@HI{{kara}}</strong>.
+<li> @S{{}}<strong>@HI{{kara}}</strong>, ...
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{kara}}</strong> is a particle which can be used in a number of ways, generally with a meaning
+of "from" or "after".
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> can follow nouns to indicate the time at which something starts or the place from which something begins.
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> appears in certain idiomatic usages where figurative references to place are made.
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
+to mean that an action immediately follows the end of a previous action; the meaning here may be "after" or "since".
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> can follow a noun to indicate the raw material from which something 
+is <a href="grammar-tsukuru.html">made</a>. If the process is not complex and the original material can be clearly
+discerned then @HI{{de}} is preferred.
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> can be used after a clause to mark it as a reason for something.
+</p>
+
+<p>
+<strong>@HI{{kara}}</strong> can be used trailingly at the end of a sentence to indicate censure of the listener.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{gold^going}}ha9@KJ{{time}}<strong>kara@KJ{{open}}iteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bamks open at 9 o'clock.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{marasonn}}hakoko<strong>kara</strong>@KJ{{exit^departure}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The marathon starts from here.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{new^hear}}wosumi<strong>kara</strong>sumimade@KJ{{read}}nda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I read the news paper from cover to cover.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}no@KJ{{evening}},@KJ{{eat^matter}}woshite<strong>kara</strong>@KJ{{reflect^brush-stroke}}wo
+      @KJ{{see}}masenka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How about a seeing a film after dinner tomorrow evening?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field}}sanga@KJ{{large^study}}wo@KJ{{graduate^business}}shite<strong>kara</strong>
+      5@KJ{{year}}ninarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Five years have passed since Yamada graduated from university.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{wainn}}habudou<strong>kara</strong>@KJ{{make}}rimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Wine is made from grapes.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{large^use}}<strong>kara</strong>@KT{{pa-texi-}}ni@KJ{{beckon^wait}}saremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was invited to a party by the ambassador.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 61).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

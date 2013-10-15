@@ -184,6 +184,7 @@
 
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
+<h3> <a href="grammar-particle-kara.html"> @HI{{kara}} (particle)</a> </h3>
 <h3> <a href="grammar-kata.html"> @HI{{kata}} </a> </h3>
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
 <h3> <a href="grammar-kamo-shiremasen.html"> @HI{{kamo shiremasenn}} </a> </h3>
@@ -292,6 +293,10 @@
 <h3> <a href="grammar-ni-suru.html"> @HI{{ni suru}} </a> </h3>
 <h3> <a href="grammar-ni-tsuite.html"> @HI{{ni tsuite}} </a> </h3>
 
+<h2> <a name="hi-ne">@HI{{ne}}</a> </h2>
+
+<h3> <a href="grammar-particle-ne.html"> @HI{{ne}} (particle)</a> </h3>
+
 <h2> <a name="hi-no">@HI{{no}}</a> </h2>
 
 <h3> <a href="grammar-no-nominaliser.jhtml"> @HI{{no}} (nominaliser) </a> </h3>
@@ -373,6 +378,7 @@
 
 <h2> <a name="hi-yo">@HI{{yo}}</a> </h2>
 
+<h3> <a href="grammar-particle-yo.html"> @HI{{yo}} (particle)</a> </h3>
 <h3> <a href="grammar-you-desu.html"> @HI{{you desu}} </a> </h3>
 <h3> <a href="grammar-you-ni.html"> @HI{{you ni}} </a> </h3>
 <h3> <a href="grammar-you-ni-naru.html"> @HI{{you ni naru}} </a> </h3>

@@ -90,8 +90,8 @@
 </tr>
 <tr>
   <td class=""> 15 </td>
-  <td class=""> @HI{{kara}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-kara.html">@HI{{kara}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr> 
 <tr>
   <td class=""> 16 </td>
@@ -285,13 +285,13 @@
 </tr>
 <tr>
   <td class=""> 54 </td>
-  <td class=""> @HI{{ne}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-ne.html">@HI{{ne}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 55 </td>
-  <td class=""> @HI{{yo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-yo.html">@HI{{yo}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr> 
 <tr>
   <td class=""> 56 </td>
