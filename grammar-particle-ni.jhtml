@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{ni}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{ni}}</strong> is a particle which:
+<ul>
+<li> indicates where something is "in", "at" or "on"
+<li> indicates the location of an action "in" or "at"
+<li> indicates time
+<li> indicates movement from a larger place to a smaller place
+<li> indicates movement towards a place
+<li> indicates the object of an action
+<li> indicates the recipient of an action
+<li> indicates the result of a change or impending change
+<li> indicates a condition that already exists
+<li> marks the agent of a passive verb
+<li> indicates the person made to do something in a causative sentence
+<li> indicates the agent of a causative-passive verb
+<li> joins nouns (usually three or more)
+<li> indicates a pair of people ofthings that are often mentioned together
+<li> indicates the basis on whichan action takes place
+</ul>
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field^before^life}}haima@KJ{{map^write^building}}niirasshaimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Professor Yamada is in the library now.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{new^hear}}ha@KJ{{desk}}no@KJ{{above}}<strong>ni</strong>@KJ{{placement}}itekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please put the newspaper on the desk.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{meeting^company}}ha9@KJ{{time}}<strong>ni</strong>@KJ{{commence}}marimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Work begins at 9 o'clock.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{gone^year^transit^environs}}sanha@KJ{{curriculum^history^study^meeting}}<strong>ni</strong>@KJ{{enter}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Last year Watanabe joined a historical society.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{amerika}}<strong>ni</strong>@KJ{{going}}kitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want to go to America.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{buy}}i@KJ{{thing}}<strong>ni</strong>@KJ{{going}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm going shopping.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{kurisumasu}}ni@KJ{{friend^accomplished}}<strong>ni</strong>@KT{{purezento}}womoratta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I received a presnet from my friend at Christmas.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{ke-ki}}wo3tsu<strong>ni</strong>@KJ{{part}}ketekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please cut this cake into 3 parts.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{build^thing}}no@KJ{{right^side}}ga@KJ{{teach^room}}<strong>ni</strong>natteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The right side of this building is a classroom.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^car}}no@KJ{{in}}desuri<strong>ni</strong>o@KJ{{gold}}wo@KJ{{take}}rareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My money was taken by a pickpocket in the train.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^life}}ha@KJ{{study^life}}<strong>ni</strong>@KJ{{sino-^character}}wo@KJ{{write}}kasemashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The teacher had the students write kanji.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}ha@KJ{{before^life}}<strong>ni</strong>@KJ{{sino-^character}}wo@KJ{{write}}kasaremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The students were made to write kanji by the teacher.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{pa-texi-}}no@KJ{{drink^thing}}ha,@KJ{{day^book^sake}}<strong>ni</strong>@KT{{uisuki-}}<strong>ni</strong>,
+      @KT{{wainn}}deshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The drinks available at the party were sake, whiskey and wine.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{romeo}}<strong>ni</strong>@KT{{jurietto}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Romeo and Juliette.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{possess^name}}na@KJ{{little^opinion}}<strong>ni</strong>
+      @KJ{{fundamentals}}duite@KJ{{make}}raremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That film was based on a famous novel.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 32).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

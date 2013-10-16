@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{no}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{no}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}} <strong>@HI{{no}}</strong> @N2{{}}
+<li> @Splain{{}} <strong>@HI{{no}}</strong> ...
+<li> @S{{}} <strong>@HI{{no}}</strong>.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{no}}</strong> can be used between two nouns to:
+<ul>
+<li> indicate possession
+<li> indicate position or location
+<li> indicate that the first noun modifies the second in terms of position or location
+<li> inicate that the two nouns are in apposition
+</ul>
+</p>
+
+<p>
+<strong>@HI{{no}}</strong> can be used in place of @HI{{ga}} to mark the subject in a
+<a href="grammar-relative-clause.html">relative clause</a>.
+</p>
+
+<p>
+<strong>@HI{{no}}</strong> can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs and adjectives:
+<ul>
+<li> as a simple nominaliser corresponding to "~ing" or "what"
+<li> as a nominaliser before verbs of perception
+</ul>
+</p>
+
+<p>
+<strong>@HI{{no}}</strong> can be used as a sentence ending particle:
+<ul>
+<li> as a question marker in colloquial sentences
+<li> to soften a sentence
+<li> to indicate a mild command
+</ul>
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{tall^tree}}<strong>no</strong>@KJ{{umbrella}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is Takagi's umbrella.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{desk}}<strong>no</strong>@KJ{{above}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      on the desk
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field^before^life}}ha@KJ{{england^word}}<strong>no</strong>@KJ{{before^life}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamada is a teacher of English.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kochiraga@KJ{{assistant^mountain}}sannoo@KJ{{elder*sister}}sann<strong>no</strong>@KJ{{thousand^incense^child}}sandesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is Chikako, Sayama's elder sister.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{slope^book}}sann<strong>no</strong>@KJ{{sketch}}ita@KJ{{oil^picture}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is the oil painting that Sakamoto painted.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}ga@KJ{{longing}}shii<strong>no</strong>ha,@KJ{{new}}shii@KT{{piano}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What she wants is a new piano.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{woman}}no@KJ{{person}}ga@KJ{{song}}tteiru<strong>no</strong>ga@KJ{{hear}}koemasune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You can hear a woman singing can't you?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{meeting^company}},@KJ{{book^hit}}niyameru<strong>no</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You're really quitting the company?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}},@KJ{{come^month}}@KT{{furansu}}ni@KJ{{detain^study}}suru<strong>no</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Next month I'm going to France to study.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{Sonnnakotoiwanai<strong>no</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Don't say things like that.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 68).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
