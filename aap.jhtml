@@ -310,8 +310,8 @@
 </tr>
 <tr>
   <td class=""> 59 </td>
-  <td class=""> @HI{{na}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-na.html">@HI{{na}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 60 </td>
@@ -340,18 +340,18 @@
 </tr>
 <tr>
   <td class=""> 65 </td>
-  <td class=""> @HI{{mono}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono.html">@HI{{mono}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr> 
 <tr>
   <td class=""> 66 </td>
-  <td class=""> @HI{{ze}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-ze.html">@HI{{ze}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 67 </td>
-  <td class=""> @HI{{zo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-zo.html">@HI{{zo}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 68 </td>

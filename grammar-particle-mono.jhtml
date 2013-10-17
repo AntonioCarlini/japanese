@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{mono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{mono}}</strong>.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{mono}}</strong> is a sentence ending particle that, in a vague way, means "because" or "the reason is".
+</p>
+
+<p>
+It can indicate an excuse. This usage is mostly employed by women.
+</p>
+
+<p>
+It can indicate dissatisfaction, and is mostly used in this way by women.
+</p>
+
+<p>
+It can indicate a desire to be indulged or pampered.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{mask^white}}kunaindesu<strong>mono</strong>. dakara,@KJ{{going}}kanakattanoyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That film is simply too boring. That's why I didn't go.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bamboo^inside}}sanha@KJ{{one^thong}}ni@KJ{{attend^matter}}woshitakunainoyo. chittomo@KJ{{work}}
+      nainda<strong>mono</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't want to work with Takeuchi. He just doesn't work.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{exit}}kakemashouyo. tamaniha@KJ{{outside}}de@KJ{{eat^matter}}gashitaindesu<strong>mono</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Come on, let's go out. I'd like to eat out once in a while.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 141).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
