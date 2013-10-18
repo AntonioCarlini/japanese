@@ -1,3 +1,5 @@
-*.html
 *.*~
 bin
+.sass-cache/
+backup/
+old-bin/
