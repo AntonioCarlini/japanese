@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Expressing Time</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Expressing Time</h1>
+
+<p>
+To express a time the counter suffixes <a href="grammar-counter-jikan.html">@KJ{{time}}<a> (o'clock)
+and <a href="grammar-counter-bun.html">@KJ{{part}}<a> (minutes) are used.
+</p>
+
+<p>
+To ask about the time or a time interval, @HI{{nann}} is used with the above counter suffixes.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^what^time}}desuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{7@KJ{{time}}10@KJ{{part}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What time is it now?
+  </td> </tr>
+  <tr class="en"> <td>
+      It's 7:10.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

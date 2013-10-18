@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Basic Sentence Patterns</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Basic Sentence Patterns</h1>
+
+<h2> @N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}} </h2>
+
+<p>
+In this pattern <a href="grammar-particle-wa.html">@HI{{ha}}</a> marks the topic of the sentence, the remainder of
+the sentence offers information about the topic. To make a predicate, a noun needs to be followed by a form of the 
+<a href="grammar-copula.html">copula</a>; in
+this case @HI{{desu}} is used as this is a polite sentence. For a negative sentence @HI{{desu}} would be
+replaced by @HI{{jaarimasenn}}.
+</p>
+
+<p>
+If @N2{{}} describes a place then this sentence pattern explains where a place, a thing or a person is.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KT{{maiku mira-}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am Mike Miller.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KT{{enjinia}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am Mike Miller.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{santos}}sanha@KJ{{study^life}}jaarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am Mike Miller.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field}}sanha@KJ{{matter^task^place}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Yamada is in the office.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

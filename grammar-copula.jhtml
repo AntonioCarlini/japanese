@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>The Copula</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>The Copula</h1>
+
+<h2> Formation </h2>
+
+<table class="example">
+ <tr>
+   <th> &nbsp; </th>
+   <th colspan="2"> Present </th>
+   <th colspan="2"> Past</th>
+   <th colspan="2"> Conjectural</th>
+ </tr>
+ <tr>
+   <th> &nbsp; </th>
+   <th> Affirmative </th>
+   <th> Negative </th>
+   <th> Affirmative </th>
+   <th> Negative </th>
+   <th> Affirmative </th>
+   <th> Negative </th>
+ </tr>
+ <tr>
+   <td> Polite </td>
+   <td> @HI{{desu}}</td>
+   <td> @HI{{jaarimasenn}}<br/>@HI{{deha arimasenn}}</td>
+   <td> @HI{{deshita}}</td>
+   <td> @HI{{jaarimasenndeshita}}<br/>@HI{{deha arimasenndeshita}}</td>
+   <td> @HI{{deshou}}</td>
+   <td> ??</td>
+ </tr>
+ <tr>
+   <td> Plain </td>
+   <td> @HI{{da}}</td>
+   <td> @HI{{janai}}<br/>@HI{{dehanai}}</td>
+   <td> @HI{{datta}}</td>
+   <td> @HI{{janakatta}}<br/>@HI{{dehanakatta}}</td>
+   <td> @HI{{darou}}</td>
+   <td> ??</td>
+ </tr>
+ <tr>
+   <td> Literary (plain)</td>
+   <td> @HI{{dearu}}</td>
+   <td> @HI{{dehanai}}</td>
+   <td> @HI{{deatta}}</td>
+   <td> @HI{{dehanakatta}}</td>
+   <td> @HI{{dearou}}</td>
+   <td> @HI{{dehanakarou}}</td>
+ </tr>
+ <tr>
+   <td> Literary (polite)</td>
+   <td> @HI{{dearimasu}}</td>
+   <td> @HI{{dehaarimasenn}}</td>
+   <td> @HI{{dearimashita}}</td>
+   <td> @HI{{dehaarimasenndeshita}}</td>
+   <td> @HI{{dearimashou}}</td>
+   <td> @HI{{dehanaideshou}}</td>
+ </tr>
+</table>
+
+<h2> Definition </h2>
+
+<p>
+
+</p>
+
+<h2> Examples </h2>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{darou}} was originally the informal conjecture form of @HI{{da}} but is now used as an auxiliary of conjecture.
+<p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p 521).
+<li> @REF{{DOBJG}}. (p 100).
+<li> @REF{{DOBJG}}. (p 576).
+<li> @REF{{DOIJG}}. (p 30).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

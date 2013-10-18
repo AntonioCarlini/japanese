@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Polite Suffixes</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Polite Suffixes</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>name or noun</em><strong>@HI{{sann}}</strong>
+<li> <strong>@HI{{o}}</strong>@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{sann}}</strong> is added as a suffix to the name of the listener or to a third person, or to nouns
+describing these, to show the speaker's respect for the person. It is <em>never</em> used by the speaker when
+referring to himself. Note that in Japanese speech the pronoun for "you", @HI{{anata}}, is not often used;
+instead refer to the listener by using their family name followed by @HI{{sann}} or by an appropriate title.
+</p>
+
+<p>
+<strong>@HI{{o}}</strong> can be added to some words in order to show respect for another person.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{direction}}ha @KT{{mira-}}sandesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That's Mr. Miller.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{country}}hadochiradesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Where are you from?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

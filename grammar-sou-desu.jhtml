@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sou desu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{sou desu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{sou desu}}</strong>
+<li> <strong>@HI{{sou jaarimasenn}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{sou desu}}</strong> can be used to reply to a noun sentence in the affirmative.
+To anser in the negative, use <strong>@HI{{sou jaarimasenn}}</strong>. An equivalent negative response
+would be to use @KJ{{difference}}@HI{{imasu}}.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{soreha@KJ{{book}}desuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{hai, sou desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is this a book?      
+  </td> </tr>
+  <tr class="en"> <td>
+      Yes it is.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{soreha@KJ{{hon}}desuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{iie, sou jaarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is this a book?
+  </td> </tr>
+  <tr class="en"> <td>
+      No it isn't.
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{soreha@KJ{{hon}}desuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{iie, @KJ{{chiga}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is this a book?
+  </td> </tr>
+  <tr class="en"> <td>
+      No, you are mistaken.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 2).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

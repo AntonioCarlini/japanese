@@ -150,10 +150,21 @@
 
 <h2> Notes </h2>
 
+<p>
+@N1{{}}@HI{{no}}@N2{{}} can mean:
+<ul>
+<li> @N2{{}} belongs to a group identified by @N1{{}} (e.g "Mr. Miller is an IMC employee.")
+<li> @N2{{}} is of a type described by @N1{{}} (e.g. "This is a book about computers.")
+<li> @N2{{}} is made in the country or by the company described by @N1{{}}
+</ul>
+</p>
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p 68).
+<li> @REF{{MNN-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-TR-I}}. (Chapter 2).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
 </ol>
 
 <br/><br/>

@@ -245,99 +245,47 @@ div.main {
 <h2><a name="chapter1">Chapter 1</a></h2>
 
 <ol>
-<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}
-<li> @N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasenn}}
-<li> S@HI{{ka}}
-<li> @N{{}}@HI{{mo}}
-<li> @N1{{}}@HI{{no}}@N2{{}}
-<li> @HI{{san}}
+<li> <a href="grammar-basic-sentence-patterns.html">@N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}</a>
+<li> <a href="grammar-basic-sentence-patterns.html">@N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasenn}}</a>
+<li> <a href="grammar-particle-ka.html">S@HI{{ka}}</a>
+<li> <a href="grammar-particle-mo.html">@N{{}}@HI{{mo}}</a>
+<li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a>
+<li> <a href="grammar-respect-markers.html">@HI{{sann}}</a>
 </ol>
-
-<h3><a name="wa-desu"N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{desu}}</a></h3>
-
-<p>
-N<sub>1</sub> is the topic of the sentence and is marked by @HI{{ha}}. <br/>
-N<sub>2</sub> gives more information about the topic. <br/>
-@HI{{desu}} serves to indicate both assertion and the politeness level. <br/>
-@HI{{desu}} can inflect to indicate negation, past tense or both.
-</p>
 
 <h2><a name="chapter2">Chapter 2</a></h2>
 
 <ol>
-<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kore/sore/are}} </a>
-<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}} @HI{{kono/sono/ano}} </a>
-<li> @HI{{sou desu}}/@HI{{sou ja arimasenn}}
-<li> @S1{{}}@HI{{ka,}} @S2{{}}@HI{{ka}}
-<li> @N1{{}}@HI{{no}}@N2{{}}
+<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}}: @HI{{kore/sore/are}} </a>
+<li> <a href="grammar-kosoado.html"> @HI{{ko}} vs @HI{{so}}: @HI{{kono/sono/ano}} </a>
+<li> <a href="grammar-sou-desu.html">@HI{{sou desu}}/@HI{{sou ja arimasenn}}</a>
+<li> <a href="grammar-particle-ka.html">@S1{{}}@HI{{ka,}} @S2{{}}@HI{{ka}}</a>
+<li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a>
 <li> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a>
 </ol>
-
-<h3><name="kosoado">@HI{{kosoado}} demontratives</a></h3>
-
-<h3><a name="sou-desu">@HI{{sou desu /sou jya arimasenn}}</a></h3>
-
-<p>
-@HI{{sou}} is used to answer a noun sentence in either the affirmative (with @HI{{sou desu}})
-or the negative (with @HI{{sou jya arimasenn}}). An equivalent negative response
-would be to use @KJ{{chiga}}@HI{{masu}}.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ hai, sou desu.}}</td> </tr>
-  <tr class="jp"> <td> &nbsp;</td> </tr>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ iie, sou jya arimasenn.}}</td> </tr>
-  <tr class="jp"> <td> &nbsp;</td> </tr>
-  <tr class="jp"> <td> @HI{{sore ha @KJ{{hon}} desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{iie, @KJ{{chiga}}imasu.}}</td> </tr>
-</table>
-
-<h3><a name="ka-ka">S1 @HI{{ka,}} S2 @HI{{ka}}</a></h3>
-
-<p>
-This form is used to ask a listener to choose between alternatives S<sub>1</sub> and S<sub>2</sub>.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{ kore ha [9] desu ka, [7] desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{ [9] desu}}</td> </tr>
-</table>
-
-<h3><a name="N1-no-N2">N<sub>1</sub> @HI{{no}} N<sub>2</sub></a></h3>
-
-<p>
-There are several meanings for this construction.
-<ol>
-<li> N<sub>1</sub> explains what N<sub>2</sub> is about.
-<li> N<sub>1</sub> explains who owns N<sub>2</sub>.
-</ol>
-
-<h3><a name="sou-desu-ka">@HI{{sou desu ka}}</a></h3>
-
-<p>
-This expression is used to show that the speaker has understood some new information.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{ kono kasa ha anatanodesuka. }}</td> </tr>
-  <tr class="jp"> <td> @HI{{ iie, chigaimasu. tanakasannnodesu. }}</td> </tr>
-  <tr class="jp"> <td> @HI{{ sou desu ka. }}</td> </tr>
-</table>
 
 <h2><a name="chapter3">Chapter 3</a></h2>
 
 <ol>
 <li> <a href="grammar-kosoado.html"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
-<li> @HI{{wa}} place
+<li> <a href="grammar-basic-sentence-patterns.html">@HI{{wa}} @N{{place}}</a>
 <li> <a href="grammar-kosoado.html"> @HI{{doko/dochira}}</a></h3>
-<li> @N1{{}}@HI{{no}}@N2{{}}
+<li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a> (made in/by)
 <li> <a href="grammar-kosoado.html"> @HI{{kosoado}} demonstratives</a></h3> </a>
-<li> @HI{{o}} (respect)
+<li> <a href="grammar-respect-markers.html">@HI{{o}} (respect)</a>
 </ol>
 
 <h2><a name="chapter4">Chapter 4</a></h2>
+
+<ol>
+<li> <a href="grammar-expressing-time.html">Expressing time</a>
+<li> @Vmasu{{}}-form
+<li> @Vmasu{{}}-form conjugations
+<li> <a href="grammar-particle-ni.html">@N{{time}}@HI{{ni}} ... @V{{}}</a>
+<li> @N1{{}}<a href="grammar-particle-kara.html">@HI{{kara}}</a>@N2{{}}<a href="grammar-particle-made.html">@HI{{made}}</a>
+<li> <a href="grammar-particle-to.html">@N1{{}}@HI{{to}}@N2{{}}</a>
+<li> <a href="grammar-particle-ne.html">@S{{}}@HI{{ne}}</a> (sentence ending particle)
+</ol>
 
 <h3><a name="time">Time</a></h3>
 

@@ -339,6 +339,7 @@
 <h3> <a href="grammar-mae-ni.html"> @HI{{mae ni}} </a> </h3>
 <h3> <a href="grammar-mada.html"> @HI{{mada}} </a> </h3>
 <h3> <a href="grammar-mada-te-inai.html"> @HI{{mada}} @Vte{{}}@HI{{inai}} </a> </h3>
+<h3> <a href="grammar-particle-made.html"> @HI{{made}} </a> </h3>
 <h3> <a href="grammar-made-ni.html"> @HI{{made ni}} </a> </h3>
 <h3> <a href="grammar-mashouka.html"> @Vmasustem{{}}@HI{{mashouka}} </a> </h3>
 <h3> <a href="grammar-mama.html"> @HI{{mama}} </a> </h3>
@@ -373,6 +374,7 @@
 <h3> <a href="grammar-sore-de.html"> @HI{{sore de}} </a> </h3>
 <h3> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a> </h3>
 <h3> <a href="grammar-sore-ni.html"> @HI{{sore ni}} </a> </h3>
+<h3> <a href="grammar-sou-desu.html"> @HI{{sou desu}} (anser to a @N{{}} sentence) </a> </h3>
 <h3> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a> </h3>
 <h3> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a> </h3>
 <h3> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a> </h3>
@@ -418,6 +420,10 @@
 <h3> <a href="grammar-adverbs.html"> How to make adverbs from adjectives </a> </h3>
 <h3> <a href="grammar-activity-time.html"> Expressing the time for an activity </a> </h3>
 
+<h2> <a name="en-B"> B </a> </h2>
+
+<h3> <a href="grammar-basic-sentence-patterns.html"> basic Sentence Patterns </a> </h3>
+
 <h2> <a name="en-C"> C </a> </h2>
 
 <h3> <a href="grammar-verb-formation-causative.html"> How to make the causative form </a> </h3>
@@ -425,6 +431,7 @@
 <h3> <a href="grammar-verb-formation-conditional.html"> How to make the conditional form </a> </h3>
 <h3> <a href="grammar-verb-use-of-conditional.html"> Uses of the conditional form </a> </h3>
 <h3> <a href="grammar-te-conjunctive-forms.html"> @HI{{te}} conjunctive forms </a> </h3>
+<h3> <a href="grammar-copula.html"> Copula </a> </h3>
 <h3> <a href="grammar-counters.html"> Counters </a> </h3>
 
 <h2> <a name="en-D"> D </a> </h2>
@@ -448,6 +455,7 @@
 <h3> <a href="grammar-verb-formation-passive.html"> How to make passive verbs </a> </h3>
 <h3> <a href="grammar-verb-use-of-passive.html"> Uses of the passive </a> </h3>
 <h3> <a href="grammar-polite-and-plain.html"> Polite and Plain Style </a> </h3>
+<h3> <a href="grammar-respect-markers.html"> Polite Suffixes </a> </h3>
 <h3> <a href="grammar-verb-formation-potential.html"> How to make potential verbs </a> </h3>
 <h3> <a href="grammar-verb-use-of-potential.html"> Uses of the potential </a> </h3>
 <h3> <a href="grammar-verb-formation-prohibitive.html"> How to make the prohibitive form </a> </h3>
@@ -461,6 +469,7 @@
 <h2> <a name="en-T"> T </a> </h2>
 <h3> <a href="grammar-verb-formation-ta.html"> How to make the @HI{{ta}}-form </a> </h3>
 <h3> <a href="grammar-verb-formation-te.html"> How to make the @HI{{te}}-form </a> </h3>
+<h3> <a href="grammar-expressing-time.html">Expressing time</a> </h3>
 
 <h2> <a name="en-V"> V </a> </h2>
 <h3> <a href="verbs.html"> Verbs </a> </h3>
