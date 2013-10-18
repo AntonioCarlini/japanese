@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{beki}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{beki}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @Vplain{{}}(non-past) <strong>@HI{{beki}}</strong> @HI{{desu}}
+<li> @Anastem{{}}@HI{{dearu}} <strong>@HI{{beki}}</strong>
+<li> @N{{}}@HI{{dearu}} <strong>@HI{{beki}}</strong>
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{beki}}</strong> is an auxiliary that expresses the speaker's judgement that somethign should be
+in some state.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KJ{{argument^sentence}}ha@KJ{{write}}ki@KJ{{straightaway}}su<strong>beki</strong>da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This thesis should be rewritten.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sonnnakotowo@KJ{{person}}ni@KJ{{say}}u<strong>beki</strong>jaarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    You shouldn't say that kind of thing to people.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{mister}}mo@KJ{{come}}ru<strong>beki</strong>deshitayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    You should have come too.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{tale}}su<strong>beki</strong>kotoha@KJ{{whole^section^tale}}shimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I told you everything I should tell you.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{he}}ha@KJ{{tie^marriage}}nankasu<strong>beki</strong>janakattanda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    He shouldn't have married.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KJ{{status*quo^attitude}}ga@KJ{{present^reality}}dearu<strong>beki</strong>da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This state should be the reality.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+Either @HI{{suru<strong>beki</strong>}} or @HI{{su<strong>beki</strong>}} is acceptable.
+</p>
+
+<p>
+<strong>@HI{{beki}}</strong> can immediately precede a noun.
+</p>
+
+<p>
+<strong>@HI{{beki}}</strong> expresses the idea that something should be in a certain state because it is their
+responisbility or duty or because it is the right thing to do. It can also express the idea that somone is expected to do something.
+</p>
+
+<p>
+<strong>@HI{{beki}}</strong>  should not be used to someone of higher status.
+</p>
+
+<p>
+<strong>@HI{{beki}}</strong> is similar to @HI{{mono da}} but the latter expresses a social norm (e.g. "Students should study")
+and cannot be applied to a specific situation (e.g. "<em>You</em> should study.").
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p 11).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -1,7 +1,7 @@
 OUTPUT = bin
 
-JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += aap.jhtml
+JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
 JHTML_SRCS += grammar-activity-time.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
@@ -16,6 +16,9 @@ JHTML_SRCS += grammar-ba-ii.jhtml
 JHTML_SRCS += grammar-ba-yokatta.jhtml
 JHTML_SRCS += grammar-baai.jhtml
 JHTML_SRCS += grammar-bakari.jhtml
+JHTML_SRCS += grammar-bakarika-sae.jhtml
+JHTML_SRCS += grammar-beki.jhtml
+JHTML_SRCS += grammar-bun.jhtml
 JHTML_SRCS += grammar-counter-bun.jhtml
 JHTML_SRCS += grammar-counter-dai.jhtml
 JHTML_SRCS += grammar-counter-jikan.jhtml
@@ -28,6 +31,7 @@ JHTML_SRCS += grammar-counter-nin.jhtml
 JHTML_SRCS += grammar-counter-shukan.jhtml
 JHTML_SRCS += grammar-counter-tsu.jhtml
 JHTML_SRCS += grammar-counters.jhtml
+JHTML_SRCS += grammar-daga.jhtml
 JHTML_SRCS += grammar-dai.jhtml
 JHTML_SRCS += grammar-de-cause.jhtml
 JHTML_SRCS += grammar-dekakete-kuru.jhtml
