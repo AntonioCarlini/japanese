@@ -192,6 +192,7 @@
 <h3> <a href="grammar-kawari-ni.html"> @HI{{kawari ni}} </a> </h3>
 <h3> <a href="grammar-particle-ga.html"> @HI{{ga}} (particle) </a> </h3>
 <h3> <a href="grammar-ga-conjunction.html"> @HI{{ga}} conjunction </a> </h3>
+<h3> <a href="grammar-garu.html"> @HI{{garu}} </a> </h3>
 
 <h2> <a name="hi-ki">@HI{{ki}}</a> </h2>
 
@@ -220,6 +221,7 @@
 <h3> <a href="grammar-daga.html"> @HI{{daga}} </a> </h3>
 <h3> <a href="grammar-quantifier-dake.html"> <em>quantifier</em> @HI{{dake}} </a> </h3>
 <h3> <a href="grammar-particle-dake.html"> @HI{{dake}} </a> </h3>
+<h3> <a href="grammar-dasu.html"> @KJ{{exit}}@HI{{su}} </a> </h3>
 
 <h2> <a name="hi-tsu">@HI{{tsu}}</a> </h2>
 <h3> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a> </h3>
