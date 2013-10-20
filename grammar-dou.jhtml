@@ -11,6 +11,12 @@
 
 <h1>@HI{{dou}}</h1>
 
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}<strong>dou</strong>
+</ol>
+
 <h2> Definition </h2>
 
 <p>
@@ -23,10 +29,10 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{o@KJ{{mother}}sanha<strong>dou</strong>desuka.}}
+      @HI{{o@KJ{{mother}}sanha<strong>dou</strong>desuka.}}
   </td> </tr>
   <tr class="en"> <td>
-      How is your mother.
+      How is your mother?
   </td> </tr>
 </table>
 </ol>
@@ -41,17 +47,22 @@
 <strong>@HI{{dou}}</strong> can be used to make an offer.
 </p>
 
+<p>
 <strong>@HI{{dou}}</strong> can be used to ask how to do something. @HI{{ikaga}} is not
 normally used in this case.
-<p></p>
+</p>
 
-The idiomatic expression @HI{{doushite}} is used to ask about manner, reason or causes.
-<p></p>
+<p>
+The idiomatic expression @HI{{doushite}} is used to ask about manner, reason or causes. The reply should
+normally end in @HI{{kara}} ("because").
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p 114).
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 <br/><br/>

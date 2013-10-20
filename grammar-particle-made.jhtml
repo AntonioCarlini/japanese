@@ -29,6 +29,46 @@
 
 <h2> Examples </h2>
 
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{depa-to}}ha,@KJ{{soil^weekday^day}}to@KJ{{day^weekday^day}}ha8@KJ{{time}}<strong>made</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This department store is open until 8 on Saturdays and Sundays.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kokokara@KJ{{capital^metropolis}}<strong>made</strong>@KJ{{what^time^interval}}kakarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How long does it take to get from here to Kyoto?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child^submit}}dakedenaku@KJ{{large^person}}<strong>made</strong>,sono@KT{{ge-mu}}wo@KJ{{music}}shinda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Not only children but even adults enjoyed that game.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{adjusted^wisteria}}sanha,ano@KJ{{male}}no@KJ{{person}}to@KJ{{tie^marriage}}dekinakereba@KJ{{death}}nouto
+      <strong>made</strong>@KJ{{think}}itsumetasoudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Saito was apparently even contemplating suicide if she were unable to marry the man.
+  </td> </tr>
+</table>
+</ol>
+
 <h2> References </h2>
 
 <ol>

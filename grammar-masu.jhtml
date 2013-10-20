@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{masu}}-forms</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{masu}}-forms</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{masu}}
+<li> @Vmasustem{{}}@HI{{masenn}}
+<li> @Vmasustem{{}}@HI{{mashita}}
+<li> @Vmasustem{{}}@HI{{masendeshita}}
+<li> @Vmasustem{{}}@HI{{mashou}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Formation of the basic @HI{{masu}}-stem is described <a href="grammar-verb-formation-masu.html">here</a>.
+</p>
+
+<p>
+A verb in the @HI{{masu}}-form works as a predicate and also makes a sentence polite.
+</p>
+
+<p>
+There is no future conjugation in Japanese. Instead the context makes places a sentence in the future.
+</p>
+
+<p>
+To form the past conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashita}}.
+This form corresponds to the plain negative <a href="grammar-verb-formation-ta.html">@Vta{{}}</a>.
+<p>
+
+<p>
+To form the past negative conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{masenndeshita}}.
+This form corresponds to the plain past negative @HI{{nakatta}}, 
+where the plain past form, <a href="grammar-verb-formation-nai.html">@HI{{nai}}</a>, has been conjugated into the
+past as an <a href="adjectives.html">@HI{{i}}-adjective</a>.
+<p>
+
+<p>
+To form the volitional of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashou}}.
+This form corresponds to the plain volitional <a href="grammar-verb-formation-volitional.html">@Vyou{{}}</a>.
+In a volitional sentence, if the subject is explicitly stated it is marked with @HI{{ga}} and the implication is
+that the stated subject, rather than anyone else, will perform the action.
+<p>
+
+<p>
+The question forms of sentences are answered by repeating the same verb. @HI{{soudesu}} <em>cannot</em> be used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{every^day^exertion^strong}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I study every day.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^morning}}6@KJ{{time}}ni@KJ{{rouse}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wake up at 6AM every morning.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashita6@KJ{{time}}ni@KJ{{rouse}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll get up at 6AM tomorrow.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kesa6@KJ{{time}}ni@KJ{{rouse}}kimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I got up at 6AM this morning.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{chotto@KJ{{rest}}mimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's have a break.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^morning}}@KJ{{what^time}}ni@KJ{{rouse}}kimasuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{6@KJ{{what^time}}ni@KJ{{rouse}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What time do you get up every morning?
+  </td> </tr>
+  <tr class="en"> <td>
+      I get up at 6AM.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{DOBJG}}. (p. 240).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

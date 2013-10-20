@@ -15,17 +15,17 @@
 
 <p>
 <table class="highlight">
-<tr> <td> 1  </td> <td class="irregular"> @HI{{ibbunn}}</td>     <td> @KJ{{one^part}} </td></tr>
+<tr> <td> 1  </td> <td class="irregular"> @HI{{ippunn}}</td>     <td> @KJ{{one^part}} </td></tr>
 <tr> <td> 2  </td> <td>                   @HI{{nifunn}}</td>      <td> @KJ{{two^part}} </td></tr>
-<tr> <td> 3  </td> <td class="irregular"> @HI{{sannbunn}}</td>    <td> @KJ{{three^part}} </td></tr>
-<tr> <td> 4  </td> <td class="irregular"> @HI{{yonbunn}}</td>     <td> @KJ{{four^part}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular"> @HI{{sannpunn}}</td>    <td> @KJ{{three^part}} </td></tr>
+<tr> <td> 4  </td> <td class="irregular"> @HI{{yonpunn}}</td>     <td> @KJ{{four^part}} </td></tr>
 <tr> <td> 5  </td> <td>                   @HI{{gofunn}}</td>      <td> @KJ{{five^part}} </td></tr>
-<tr> <td> 6  </td> <td class="irregular"> @HI{{robbunn}}</td>    <td> @KJ{{six^part}} </td></tr>
-<tr> <td> 7  </td> <td>                   @HI{{nanabunn}}</td>    <td> @KJ{{seven^part}} </td></tr>
-<tr> <td> 8  </td> <td class="irregular"> @HI{{habbunn}}</td>   <td> @KJ{{eight^part}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{roppunn}}</td>    <td> @KJ{{six^part}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanafunn}}</td>    <td> @KJ{{seven^part}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{happunn}}</td>   <td> @KJ{{eight^part}} </td></tr>
 <tr> <td> 9  </td> <td>                   @HI{{kyuufunn}}</td>    <td> @KJ{{nine^part}} </td></tr>
-<tr> <td> 10 </td> <td class="irregular"> @HI{{jubbunn}}</td>     <td> @KJ{{ten^part}} </td></tr>
-<tr> <td> ?  </td> <td>                   @HI{{nannbunn}}</td>    <td> &nbsp; </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juppunn}}</td>     <td> @KJ{{ten^part}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannpunn}}</td>    <td> &nbsp; </td></tr>
 </table>
 </p>
 
@@ -35,7 +35,12 @@
 This counter is used to count a time duration in minutes.
 </p>
 <p>
-To ask "how many minutes?", use @HI{{nannbunn}}.
+To ask "how many minutes?", use @HI{{nannpunn}}.
+</p>
+
+<p>
+@HI{{nanafunn}} may also be expressed as @HI{{shichifunn}}.<br/>
+@HI{{juppunn}} may also be expressed as @HI{{juupunn}}.
 </p>
 
 <h2> Examples </h2>
@@ -45,6 +50,7 @@ To ask "how many minutes?", use @HI{{nannbunn}}.
 <h2> References </h2>
 
 <ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
 <li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>

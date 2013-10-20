@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{masu}}-Form Verb Stem</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{masu}}-Form Verb Stem</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> @HI{{masu}}-form </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikimasu}}       </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyogimasu}}      </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumimasu}}       </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobimasu}}       </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinimasu}}      </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iimasu}}         </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{torimasu}}       </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{mochimasu}}      </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanashimasu}}    </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> @HI{{masu}}-form </th>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homemasu}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{mimasu}}   </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> Irregular verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> verb </th> <th> dictionary </th> <th> @HI{{masu}}-form </th>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kimasu}}  </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shimasu}} </td> </tr>
+</table>
+</p>
+
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{five^grade}} verbs form the @HI{{masu}}-stem by changing the final kana to the @HI{{i}}-row.
+To form the @HI{{masu}}-form, append @HI{{masu}} to this stem.
+</p>
+
+<p>
+@KJ{{ichi^grade}} verbs form the @HI{{masu}}-stem by dropping the final @HI{{ru}}.
+To form the @HI{{masu}}-form, append @HI{{masu}} to this stem.
+</p>
+
+<p>
+The two irregular verbs conjugate as shown above.
+</p>
+
+<p>
+The @HI{{masu}}-stem is also known as the verb stem, or sometimes as the infinitive.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-JP-I}}. (Chapter 4).
+</ol>
+
+<p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+</p>
+
+</body>
+
+</html>

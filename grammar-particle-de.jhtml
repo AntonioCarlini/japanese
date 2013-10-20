@@ -75,7 +75,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KT{{ke-ki}}ha, @KJ{{eggs}}to@KJ{{sugar}}<strong>de</strong> @KJ{{make}}rimasu.}}
+      @HI{{kono @KT{{ke-ki}}ha, @KJ{{egg}}to@KJ{{sugar}}<strong>de</strong> @KJ{{make}}rimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       This cake is made of butter and eggs.
@@ -130,10 +130,15 @@
 
 <h2> Notes </h2>
 
+<p>
+Note that if you walk somewhere, the expression @HI{{aruite}} is used and the particle @HI{{de}} is not used in this case.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p 49).
+<li> @REF{{MNN-TR-I}}. (Chapter 5).
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
