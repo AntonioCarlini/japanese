@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A Homestay in Japan: vocabulary</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>A Homestay in Japan: vocabulary</h1>
+
+<table class="example">
+ <!-- Unit 1 -->
+ <tr>
+   <th> Kanji Word </th>
+   <th> Kana </th>
+   <th> Meaning </th>
+   <th> Part of speech </th>
+ </tr>
+ <tr>
+   <td> @KJ{{don}}@HI{{ku}}                                      </td>
+   <td> @HI{{tsuku}}                                             </td>
+   <td> to arrive at                                             </td>
+   <td> v                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{three^day^interval}}                                </td>
+   <td> @HI{{mikkakann}}                                         </td>
+   <td> three days (an interval of)                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{four^day^eye}}                                      </td>
+   <td> @HI{{yokkame}}                                           </td>
+   <td> the 4th day                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{mingle^interchange^detain^study^life}}              </td>
+   <td> @HI{{koukanryuugakusei}}                                 </td>
+   <td> foreign exchange student                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{first*time}}@HI{{mete}}                             </td>
+   <td> @KJ{{hajimete}}                                          </td>
+   <td> for the first time                                       </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{what^degrees}}@HI{{mo}}                             </td>
+   <td> @HI{{nandomo}}                                           </td>
+   <td> many times                                               </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sweat}}                                             </td>
+   <td> @HI{{ase}}                                               </td>
+   <td> sweat                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{go-between}}                                        </td>
+   <td> @HI{{naka}}                                              </td>
+   <td> relationship                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^house}}                                         </td>
+   <td> @HI{{ikka}}                                              </td>
+   <td> household; family                                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{introduce^jammed*in}}                               </td>
+   <td> @HI{{shoukai}}                                           </td>
+   <td> introduce                                                </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{oneself^part}}                                      </td>
+   <td> @HI{{jibunn}}                                            </td>
+   <td> oneself                                                  </td>
+   <td> pn                                                       </td>
+ </tr>
+ <tr>
+   <td> @KJ{{husband^lady}}                                      </td>
+   <td> @HI{{fuufu}}                                             </td>
+   <td> married couple                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{entertain^flavor}}                                  </td>
+   <td> @HI{{kyoumi}}                                            </td>
+   <td> interest                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{bake}}@HI{{ki}}@KJ{{thing}}                         </td>
+   <td> @HI{{yakimono}}                                          </td>
+   <td> pottery; earthenware                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{rejoice}}@HI{{bu}}                                  </td>
+   <td> @HI{{yorokobu}}                                          </td>
+   <td> to be delighted                                          </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{whole^section}}                                     </td>
+   <td> @HI{{zenbu}}                                             </td>
+   <td> all; entire; whole                                       </td>
+   <td> adv-n                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{teach}}@HI{{eru}}                                   </td>
+   <td> @HI{{oshieru}}                                           </td>
+   <td> to teach; to tell                                        </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <!-- Unit 2 -->
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+</table>
+
+</body>
+</html>
