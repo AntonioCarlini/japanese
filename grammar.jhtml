@@ -185,7 +185,9 @@
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
 <h3> <a href="grammar-particle-ka.html"> @HI{{ka}} (particle)</a> </h3>
+<h3> <a href="grammar-particle-kana.html"> @HI{{kana}} (particle) </a> </h3>
 <h3> <a href="grammar-particle-kara.html"> @HI{{kara}} (particle)</a> </h3>
+<h3> <a href="grammar-particle-kana.html"> @HI{{kashira}} (particle) </a> </h3>
 <h3> <a href="grammar-kata.html"> @HI{{kata}} </a> </h3>
 <h3> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a> </h3>
 <h3> <a href="grammar-kamo-shiremasen.html"> @HI{{kamo shiremasenn}} </a> </h3>
@@ -353,6 +355,7 @@
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
+<h3> <a href="grammar-particle-sa.html"> @HI{{sa}} (particle) </a> </h3>
 
 <h2> <a name="hi-shi">@HI{{shi}}</a> </h2>
 
@@ -408,6 +411,7 @@
 <h2> <a name="hi-wa">@HI{{wa}}</a> </h2>
 
 <h3> <a href="grammar-particle-wa.html"> @HI{{ha}} (particle) </a> </h3>
+<h3> <a href="grammar-particle-sentence-ending-wa.html"> @HI{{wa}} (particle) </a> </h3>
 
 <h2> <a name="hi-wa">@HI{{wo}}</a> </h2>
 
