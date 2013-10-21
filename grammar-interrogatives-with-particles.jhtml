@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Interrogatives with Particles</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<h1>Interrogatives with Particles</h1>
+
+<table class="example">
+ <tr> <td colspan="2"> @KJ{{what}} </td> </tr>
+ <tr> <td> @KJ{{what}}@HI{{ka}} </td> <td> something </td> </tr>
+ <tr> <td> @KJ{{what}}@HI{{mo}} </td> <td> nothing <em> with negative verbs)</em> </td> </tr>
+ <tr> <td> @HI{{nande}} </td> <td> why; what for </td> </tr>
+ <tr> <td> @HI{{nandemo}} </td> <td> anything; by any means</td> </tr>
+ <tr> <td colspan="2"> @HI{{dare}} </td> </tr>
+ <tr> <td> @HI{{dareka}} </td> <td> someone; somebody </td> </tr>
+ <tr> <td> @HI{{daremo}} </td> <td> everyone <em>(with positive verb)</em>; no-one <em>(with negative verb)</em> </td> </tr>
+ <tr> <td> @HI{{daredemo}} </td> <td> anyone; everyone </td> </tr>
+ <tr> <td colspan="2"> @HI{{itsu}} </td> </tr>
+ <tr> <td> @HI{{itsuka}} </td>  <td> sometime; someday  </td> </tr>
+ <tr> <td> @HI{{itsumo}} </td>  <td> always </td> </tr>
+ <tr> <td> @HI{{itsudemo}} </td>  <td> at any time; whenever  </td> </tr>
+ <tr> <td colspan="2"> @HI{{dore}} </td> </tr>
+ <tr> <td> @HI{{doreka}}    </td>  <td> which one  </td> </tr>
+ <tr> <td> @HI{{doremo}}    </td>  <td> both; either; any  </td> </tr>
+ <tr> <td> @HI{{doredemo}}  </td>  <td> any one  </td> </tr>
+ <tr> <td colspan="2"> @HI{{doko}} </td> </tr>
+ <tr> <td> @HI{{dokoka}}     </td>  <td> somewhere; anywhere  </td> </tr>
+ <tr> <td> @HI{{dokomo}}     </td>  <td> nowhere <em>(with a negative verb)</em>  </td> </tr>
+ <tr> <td> @HI{{dokodemo}}   </td>  <td> nowhere <em>(with a negative verb)</em>  </td> </tr>
+ <tr> <td colspan="2"> @HI{{docchi}} </td> </tr>
+ <tr> <td> @HI{{docchika}}   </td>  <td> either one (of the two)  </td> </tr>
+ <tr> <td colspan="2"> @HI{{dochira}} </td> </tr>
+ <tr> <td> @HI{{dochiraka}}   </td>  <td> either one (of the two)  </td> </tr>
+ <tr> <td> @HI{{dochiramo}}   </td>  <td> both  </td> </tr>
+ <tr> <td colspan="2"> @HI{{donata}} </td> </tr>
+ <tr> <td> @HI{{donataka}}   </td>  <td> someone  </td> </tr>
+ <tr> <td colspan="2"> @HI{{naze}} </td> </tr>
+ <tr> <td> @HI{{nazeka}}   </td>  <td> somehow; for some reason  </td> </tr>
+</table>
+
+</body>
+</html>
