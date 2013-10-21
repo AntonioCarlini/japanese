@@ -200,6 +200,10 @@
 
 <h3> <a href="grammar-kitto-tabun-moshikashitara.html"> @HI{{kitto/tabunn/moshikashitara}} </a> </h3>
 
+<h2> <a name="hi-ku">@HI{{ku}}</a> </h2>
+
+<h3> <a href="grammar-particle-kuse-ni.html"> @HI{{kuseni}} </a> </h3>
+
 <h2> <a name="hi-ke">@HI{{ke}}</a> </h2>
 
 <h3> <a href="grammar-kenjougo.html"> @HI{{kenjogo}}: Humble Language </a> </h3>
@@ -336,6 +340,7 @@
 <h2> <a name="hi-ho">@HI{{ho}}</a> </h2>
 
 <h3> <a href="grammar-hou-ga-ii.html"> @HI{{hou ga ii}} </a> </h3>
+<h3> <a href="grammar-particle-hodo.html"> @HI{{hodo}} </a> </h3>
 <h3> <a href="grammar-ppoi.html"> @HI{{ppoi}} </a> </h3>
 
 <h2> <a name="hi-ma">@HI{{ma}}</a> </h2>

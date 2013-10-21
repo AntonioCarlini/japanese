@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hodo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{hodo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{hodo}}</strong> ... 
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{hodo}}</strong> is used to indicate an approximate amount or an approximate maximum.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{come^month}}ha,@KJ{{one^week^interval}}<strong>hodo</strong>@KJ{{nine^state}}he@KJ{{exit^lengthen}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Next month I'll be going on a business trip to Kyushu for as long as a week.
+  </td> </tr>
+</table>
+<br/><br/>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^degrees}}no@KJ{{matter^happenstance}}de,100@KJ{{person}}<strong>hodo</strong>no@KJ{{person}}ga
+      @KJ{{death}}ndasoudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I　heard that some 100 people died in this accident.
+  </td> </tr>
+</table>
+<hr>
+</p>
+
+<p>
+<strong>@HI{{hodo}}</strong> is used to indicate a comparison.
+sentence.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^year}}ha@KJ{{gone^year}}<strong>hodo</strong>@KJ{{cold}}kunaidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This year is not as cold as last year.
+  </td> </tr>
+</table>
+<hr>
+</p>
+
+<p>
+<strong>@HI{{hodo}}</strong> indicates the extent of an action or condition by citing a specific example.
+
+<ul>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^day}}ha,@KJ{{exertion^study}}gadekinai<strong>hodo</strong>@KJ{{exhausted}}reta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Today I'm so tired that I cannot study.
+  </td> </tr>
+</table>
+</ul>
+<hr>
+</p>
+
+<p>
+<strong>@HI{{hodo}}</strong> is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
+<hr>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p 77).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
