@@ -43,7 +43,7 @@
  </tr>
  <tr>
    <td> @KJ{{first*time}}@HI{{mete}}                             </td>
-   <td> @KJ{{hajimete}}                                          </td>
+   <td> @HI{{hajimete}}                                          </td>
    <td> for the first time                                       </td>
    <td> adv                                                      </td>
  </tr>
@@ -120,6 +120,121 @@
    <td> v1t                                                      </td>
  </tr>
  <!-- Unit 2 -->
+ <tr>
+   <td> @KJ{{separate}}@HI{{reru}}                               </td>
+   <td> @HI{{wakareru}}                                          </td>
+   <td> to be divided; to part from                              </td>
+   <td> v1i                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{soba}}@KJ{{roof}}                                   </td>
+   <td> @HI{{sobaya}}                                            </td>
+   <td> buck-wheat noodle shop                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{yonder}}@HI{{kou}}                                  </td>
+   <td> @HI{{mukou}}                                             </td>
+   <td> opposite side; opposite direction                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{yonder}}@HI{{kougawa}}                              </td>
+   <td> @HI{{mukougawa}}                                         </td>
+   <td> other side                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{number^people}}                                     </td>
+   <td> @HI{{suuninn}}                                           </td>
+   <td> several people                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{flour}}                                             </td>
+   <td> @HI{{kona}}                                              </td>
+   <td> flour                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fall}}@HI{{tosu}}                                   </td>
+   <td> @HI{{otosu}}                                             </td>
+   <td> to drop; to let fall                                     </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{practice^learn}}                                    </td>
+   <td> @HI{{renshuu}}                                           </td>
+   <td> practice                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{exertion^strong}}                                   </td>
+   <td> @HI{{benkyou}}                                           </td>
+   <td> study                                                    </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{surface}}@HI{{su}}                                  </td>
+   <td> @HI{{arawasu}}                                           </td>
+   <td> to show; to display                                      </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{stand*up}}@HI{{teru}}                               </td>
+   <td> @HI{{tateru}}                                            </td>
+   <td> to make a sound                                          </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{see}}@HI{{tsukaru}}                                 </td>
+   <td> @HI{{mitsukaru}}                                         </td>
+   <td> to be found; to be discovered                            </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <!-- Unit 3 -->
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
  <tr>
    <td>                                                          </td>
    <td>                                                          </td>
