@@ -78,7 +78,7 @@ If thisis not the case then this sentence pattern cannot be used.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{moshi 1@KJ{{hundred*million^circle}} attara, iroirona @KJ{{country}}wo @KJ{{trip^coming}}shitai desu.}}
+      @HI{{moshi 1@KJ{{hundred*million^circle}} attara, iroirona @KJ{{country}}wo @KJ{{trip^going}}shitai desu.}}
   </td> </tr>
   <tr class="en"> <td>
       If I had 100 million yen I would want to travel in various countries.

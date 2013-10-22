@@ -29,7 +29,7 @@ This pattern is used to express prohibition.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasenn. @KJ{{prohibit^smoke}}desu kara.}}
+      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasenn. @KJ{{prohibition^smoke}}desu kara.}}
   </td> </tr>
   <tr class="en"> <td>
       You may not smoke here because it is a no-smoking area.
