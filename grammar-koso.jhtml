@@ -22,13 +22,8 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koso}}</strong> is a particle that emphasises a word, phrase or clause.
-</p>
+<strong>@HI{{koso}}</strong> is a particle that emphasises the word, phrase or clause before it.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kore <strong>koso</strong>@KJ{{ego^noma}}ga @KJ{{grope}}shi @KJ{{request}}meteitamonoda.}}
@@ -37,7 +32,26 @@
       This is the very thing we've been looking for.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+The idiomatic expression @HI{{kochira}} <strong>@HI{{koso}}</strong> means "not at all, the pleasure is all mine".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A:　@HI{{doumoarigatougozaimashita.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B:　@HI{{kochira koso.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A:　Thank you very much.
+  </td> </tr>
+  <tr class="en"> <td>
+      B:　Not at all; the pleasure is all mine.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -45,6 +59,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p 132).
+<li> @REF{{AAP}}. (p. 127).
 </ol>
 
 </br></br>

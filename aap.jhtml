@@ -270,8 +270,8 @@
 </tr>
 <tr>
   <td class=""> 51 </td>
-  <td class=""> @HI{{sae}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-sae.html">@HI{{sae}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 52 </td>
@@ -280,8 +280,8 @@
 </tr>
 <tr>
   <td class=""> 53 </td>
-  <td class=""> @HI{{koso}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-koso.html">@HI{{koso}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 54 </td>
@@ -320,8 +320,8 @@
 </tr>
 <tr>
   <td class=""> 61 </td>
-  <td class=""> @HI{{koto}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-koto.html">@HI{{koto}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 62 </td>
