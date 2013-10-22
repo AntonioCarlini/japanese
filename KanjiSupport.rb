@@ -40,7 +40,7 @@ def convert_to_kanji(text)
     :maruhi => 3299, # "secret"
   }
 
-  text.gsub!(/['a-zA-Z.*-]+/).each() {
+  text.gsub!(%r{['()/a-zA-Z0-9.*-]+}).each() {
     |word|
     result = ""
     code = kanji[word.downcase().to_sym()]
