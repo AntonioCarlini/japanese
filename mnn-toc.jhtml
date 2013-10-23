@@ -291,36 +291,13 @@ div.main {
 
 <ol>
 <li> <a href="grammar-particle-e.html">@N{{place}}@HI{{he @KJ{{going}}kimasu/@KJ{{come}}masu/@KJ{{homecoming}}rimasu}}</a>
-<li> <em>interrogative</em> + @HI{{mo}}
+<li> <a href="grammar-interrogatives-with-particles.html"><em>interrogative</em> + @HI{{mo}}</a>
 <li> <a href="grammar-particle-de.html">@N{{vehicle}}@HI{{de}}
     @KJ{{going}}@HI{{kimasu}}/@KJ{{come}}@HI{{masu}}/@KJ{{homecoming}}@HI{{rimasu}}</a>
 <li> <a href="grammar-particle-to.html">@N{{person}}@HI{{to}}@V{{}}</a>
-<li> @HI{{itsu}}
+<li> <a href="grammar-itsu.html">@HI{{itsu}}</a>
 <li> <a href="grammar-particle-yo.html">@S{{}}@HI{{yo}}</a>
 </ol>
-
-</table>
-
-<h3><a name="mo-negative">interrogative + @HI{{mo}} + negative verb</a></h3>
-
-<p>
-When an interrogative is followed by the particle @HI{{mo}} and the associated verb is in the
-negative, everything represented by the interrogative is denied.
-</p>
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td> @HI{{doko he mo @KJ{{i}}kimasenn. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{nani mo tabemasenn. }} </td> </tr>
-  <tr class="jp"> <td> @HI{{dare mo imasenn. }} </td> </tr>
-</table>
-
-
-<h3><a name="itsu">@HI{{itsu}}</a></h3>
-
-<p>
-@HI{{nann}} is often used to ask about time, but @HI{{itsu}} can also be used to ask when something
-will happen or when something happened. @HI{{itsu}} does not take the particle @HI{{ni}}.
-</p>
 
 <h2><a name="chapter6">Chapter 6</a></h2>
 

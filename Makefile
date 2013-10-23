@@ -57,6 +57,7 @@ JHTML_SRCS += grammar-honorific-humble.jhtml
 JHTML_SRCS += grammar-hou-ga-ii.html
 JHTML_SRCS += grammar-interrogatives-with-particles.jhtml
 JHTML_SRCS += grammar-interrogatives.jhtml
+JHTML_SRCS += grammar-itsu.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-kamo-shiremasen.jhtml

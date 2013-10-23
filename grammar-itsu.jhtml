@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{itsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{itsu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{itsu}}</strong>.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Interrogatives using @HI{{nann}}, such as @HI{{nanji}} and @HI{{nannyoubi}}, can be used to ask about time.
+In addition to these, the adverbial noun <strong>@HI{{itsu}}</strong>, meaning "when", can be used. The particle
+@HI{{ni}} is not used in this case.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{itsu@KJ{{day^book}}he@KJ{{come}}kimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When did you come to japan?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 5).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
