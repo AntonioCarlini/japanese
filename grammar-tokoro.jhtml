@@ -21,18 +21,23 @@
 
 <h2> Definition </h2>
 
+<p>
 @HI{{tokoro}} can mean a physical place, but in these constructions it has come to indicate a temporal position. In the
 sentence patterns above, it means a specific point in time during the course of an action.
-</br>
+</p>
 
+<p>
 In @Vru{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action is about to start.
-</br>
+</p>
 
+<p>
 In @Vte{{}} @HI{{iru <strong>tokoro</strong>}} the meaning is that the action is happening now.
-</br>
+</p>
 
-In @Vte{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action has just been completed.
-</br>
+<p>
+In @Vte{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action has just been completed. It can also indicate
+the conclusion of a ceratin action.
+</p>
 
 <h2> Examples </h2>
 
@@ -76,22 +81,34 @@ In @Vte{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action has ju
     The bus left just now.
   </td> </tr>
 </table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{depa-to}}ni@KJ{{question}}i@KJ{{fit}}wasetemita<strong>tokoro</strong>,sono@KJ{{goods^thing}}ha
+    @KJ{{sell}}ri@KJ{{cut}}redatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    When I inquired at the department store, I found that the item was sold out.
+  </td> </tr>
+</table>
 </ol>
 
 
 <h2> Notes </h2>
 
+<p>
 @HI{{<strong>tokoro</strong>desu}} is a noun sentence and can be used in various structures.
-</br>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
-<li> @REF{{DOBJG}}. (p 496).
+<li> @REF{{DOBJG}}. (p. 496).
+<li> @REF{{AAP}}. (p. 105).
 </ol>
 
-</br>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

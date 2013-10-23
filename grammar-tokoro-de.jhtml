@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tokorode}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tokorode}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}} <strong>@HI{{tokorode}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{tokorode}} always follows @Vta{{}} even though its tense is not necessarily in the past and depends on the tense
+of the verb in the main clause.
+</p>
+
+<p>
+@HI{{tokorode}} is used between two contrasting clauses to emphasise that something is less than expected or that the outcome
+stated in the first clause will be unfavourable.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{east^capital}}ha@KJ{{snow}}ga@KJ{{descend}}tta<strong>tokorode</strong>,sonnani@KJ{{volume}}morukotohaarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Even though it snows in Tokyo, it never snows that much.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{now}}kara@KJ{{busy}}ide@KJ{{going}}tta<strong>tokorode</strong>,1@KJ{{time}}no@KJ{{new^tree*trunk^line}}niha
+    @KJ{{interval}}ni@KJ{{fit}}imasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    No matter how much we hurry now, we're not going to be in time for the one o'clock Shinkansen.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 92).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
