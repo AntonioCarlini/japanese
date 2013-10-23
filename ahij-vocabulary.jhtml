@@ -315,6 +315,151 @@
  </tr>
  <!-- Unit 4 -->
  <tr>
+   <td> @KJ{{reside^interval}}                                   </td>
+   <td> @HI{{ima}}                                               </td>
+   <td> living room (Western style)                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> ~@KJ{{system}}                                           </td>
+   <td> ~@HI{{sei}}                                              </td>
+   <td> made in ~                                                </td>
+   <td> n; suffix                                                </td>
+ </tr>
+ <tr>
+   <td> @KJ{{what^volume}}@HI{{ka}}                              </td>
+   <td> @HI{{nansatsuka}}                                        </td>
+   <td> several flat objects (e.g. books)                        </td>
+   <td> expr                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{utilize^goods}}                                     </td>
+   <td> @HI{{youhinn}}                                           </td>
+   <td> articles; supplies                                       </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wrap}}@HI{{mi}}                                     </td>
+   <td> @HI{{tsutsumi}}                                          </td>
+   <td> bundle; package                                          </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{open}}@HI{{ku}}                                     </td>
+   <td> @HI{{hiraku}}                                            </td>
+   <td> to open                                                  </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{salute}}                                    </td>
+   <td> @HI{{orei}}                                              </td>
+   <td> thanking; expression of gratitude                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{squat}}@HI{{ru}}                                    </td>
+   <td> @HI{{suwaru}}                                            </td>
+   <td> to sit                                                   </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{play}}                                              </td>
+   <td> @HI{{asobu}}                                             </td>
+   <td> to play                                                  </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{both^parent}}                                       </td>
+   <td> @HI{{ryoushinn}}                                         </td>
+   <td> parents                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{elder*brother^younger*brother}}                     </td>
+   <td> @HI{{kyoudai}}                                           </td>
+   <td> siblings                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{time^noma}}                                         </td>
+   <td> @HI{{tokidoki}}                                          </td>
+   <td> sometimes                                                </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{laugh}}                                             </td>
+   <td> @HI{{warau}}                                             </td>
+   <td> to laugh                                                 </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{solution}}@HI{{eru}}                                </td>
+   <td> @HI{{kotaeru}}                                           </td>
+   <td> to answer; to reply                                      </td>
+   <td> v1i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sleep}}@HI{{ru}}                                    </td>
+   <td> @HI{{nemuru}}                                            </td>
+   <td> to sleep                                                 </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{wind^spine}}                                </td>
+   <td> @HI{{ofuro}}                                             </td>
+   <td> bath                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{direction}}                                         </td>
+   <td> @HI{{kata}}                                              </td>
+   <td> way of doing                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{enter}}@HI{{ru}}                                    </td>
+   <td> @HI{{hairu}}                                             </td>
+   <td> to enter                                                 </td>
+   <td> v5                                                       </td>
+ </tr>
+ <tr>
+   <td> @KJ{{current}}@HI{{su}}                                  </td>
+   <td> @HI{{nagasu}}                                            </td>
+   <td> to wash off                                              </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sideways}}@HI{{ninaru}}                             </td>
+   <td> @HI{{yokoninaru}}                                        </td>
+   <td> to lie down and rest                                     </td>
+   <td> exp                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{insect}}                                            </td>
+   <td> @HI{{mushi}}                                             </td>
+   <td> insect                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{voice}}                                             </td>
+   <td> @HI{{koe}}                                               </td>
+   <td> voice                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{distant}}@HI{{i}}                                   </td>
+   <td> @HI{{tooi}}                                              </td>
+   <td> far                                                      </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{floating}}@HI{{kabu}}                               </td>
+   <td> @HI{{ukabu}}                                             </td>
+   <td> to come to mind                                          </td>
+   <td> v5                                                       </td>
+ </tr>
+ <!-- Unit 5 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
