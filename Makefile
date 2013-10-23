@@ -257,7 +257,7 @@ TEST_TARGETS += $(foreach JH,$(TEST_JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
 TARGETS += $(TEST_TARGETS)
-TARGETS += $(OUTPUT)heisig.gen.html
+TARGETS += $(OUTPUT)/heisig.gen.html
 
 DATA_FILES += kanji.data
 DATA_FILES += references.data
@@ -278,6 +278,10 @@ SCRIPT_FILES += japanese-to-codes.rb
 GLOBAL_DEPENDENCIES += $(DATA_FILES)
 GLOBAL_DEPENDENCIES += $(SCRIPT_FILES)
 
+default: $(TARGETS)
+
+CSS_PARTIALS += $(wildcard _*.scss)
+
 $(OUTPUT)/heisig.gen.jhtml : build-heisig-page.rb
 	@mkdir -p $(OUTPUT)
 	./build-heisig-page.rb > $@
@@ -285,10 +289,6 @@ $(OUTPUT)/heisig.gen.jhtml : build-heisig-page.rb
 $(OUTPUT)/heisig.gen.html : $(OUTPUT)/heisig.gen.jhtml
 	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< $@
-
-default: $(TARGETS)
-
-CSS_PARTIALS += $(wildcard _*.scss)
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
