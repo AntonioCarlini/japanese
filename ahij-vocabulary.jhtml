@@ -460,6 +460,139 @@
  </tr>
  <!-- Unit 5 -->
  <tr>
+   <td> @KJ{{morning^eat}}                                       </td>
+   <td> @HI{{choushoku}}                                         </td>
+   <td> breakfast                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{rouse}}@HI{{kosu}}                                  </td>
+   <td> @HI{{okosu}}                                             </td>
+   <td> to wake someone                                          </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{ocean^style}}                                       </td>
+   <td> @HI{{youshiki}}                                          </td>
+   <td> Western style                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{consider}}@HI{{eru}}                                </td>
+   <td> @HI{{kangaeru}}                                          </td>
+   <td> to consider                                              </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{hand^wash}}@HI{{i}}                         </td>
+   <td> @HI{{otearai}}                                           </td>
+   <td> toilet; washroom                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{forget}}@HI{{reru}}                                 </td>
+   <td> @HI{{wasureru}}                                          </td>
+   <td> to forget                                                </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{pedestal^place}}                                    </td>
+   <td> @HI{{daidokoro}}                                         </td>
+   <td> kitchen                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{gather}}@HI{{maru}}                                 </td>
+   <td> @HI{{atsumaru}}                                          </td>
+   <td> to gather                                                </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{harmony^wind}}                                      </td>
+   <td> @HI{{wafuu}}                                             </td>
+   <td> Japanese style                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{bake}}@HI{{ki}}@KJ{{fish}}                          </td>
+   <td> @HI{{yakizakana}}                                        </td>
+   <td> grilled fish                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{utmost^first*time}}                                 </td>
+   <td> @HI{{saisho}}                                            </td>
+   <td> outset; first                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{tea}}@HI{{wann}}                                    </td>
+   <td> @HI{{chawann}}                                           </td>
+   <td> rice bowl                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{yellow^color}}                                      </td>
+   <td> @HI{{kiiro}}                                             </td>
+   <td> yellow                                                   </td>
+   <td> na-adj; n                                                </td>
+ </tr>
+ <tr>
+   <td> @KJ{{shape}}                                             </td>
+   <td> @HI{{katachi}}                                           </td>
+   <td> shape                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{color^noma}}                                        </td>
+   <td> @HI{{iroiro}}                                            </td>
+   <td> various                                                  </td>
+   <td> n; na-adj                                                </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^cut}}@HI{{re}}                                  </td>
+   <td> @HI{{hitokire}}                                          </td>
+   <td> small piece; slice                                       </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{eat^matter^in}}                                     </td>
+   <td> @HI{{shokujichuu}}                                       </td>
+   <td> during a meal                                            </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{plan^brush-stroke}}                                 </td>
+   <td> @HI{{keikaku}}                                           </td>
+   <td> plan                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{electricity^car}}                                   </td>
+   <td> @HI{{densha}}                                            </td>
+   <td> train                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{buy}}@HI{{i}}@KJ{{thing}}                           </td>
+   <td> @HI{{kaimono}}                                           </td>
+   <td> shopping                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^turn}}                                          </td>
+   <td> @HI{{ichibann}}                                          </td>
+   <td> number one; best                                         </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{make*a*deal^store^boulevard}}                       </td>
+   <td> @HI{{shoutengai}}                                        </td>
+   <td> shopping district                                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <!-- Unit 6 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
