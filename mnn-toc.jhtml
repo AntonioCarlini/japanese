@@ -303,20 +303,14 @@ div.main {
 
 <ol>
 <li> <a href="grammar-particle-wo.html">@N{{}}@HI{{wo}}@V{{transitive}}</a>
-<li> @N{{}}@HI{{wo shimasu}}
+<li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{wo shimasu}}</a>
 <li> @HI{{@KJ{{what}}wo shimasuka}}
-<li> @HI{{nani}} and @HI{{nann}}
+<li> <a href="grammar-nani-nan">@HI{{nani}} and @HI{{nann}}</a>
 <li> <a href="grammar-particle-de.html">@N{{place}}@HI{{de}}@V{{}}</a>
 <li> @V{{}}@HI{{masenka}}
 <li> @V{{}}@HI{{mashou}}
 <li> <a href="grammar-respect-markers.html">@HI{{o}} (respect)</a>
 </ol>
-
-<h3><a name="wo-shimasu">N @HI{{wo shimasu}}</a></h3>
-
-<p>
-This construction is used to create new verbs: the action denoted by the noun is performed.
-</p>
 
 <h3><a name="nani-wo">@HI{{nani wo shimasu ka}}</a></h3>
 

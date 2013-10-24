@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{what}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{what}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{what}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nann}}.
+
+@HI{{nann}} is used in the following cases:
+<ol>
+<li> before a word whose first mora is in the @HI{{ta}}, @HI{{da}} or @HI{{na}} row:
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{korehanandesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What is that?
+  </td> </tr>
+</table>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{nannno@KJ{{hon}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What is that book about?
+  </td> </tr>
+</table>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{lie*down}}rumaeni,nanto@KJ{{say}}imasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What do you say before going to bed?
+  </td> </tr>
+</table>
+<li> before a counter suffix or similar:
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{teresa}}chanha nann@KJ{{year-end}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How old is Teresa?
+  </td> </tr>
+</table>
+<ol>
+
+In all other cases the pronunciation is @HI{{nani}}:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{naniwo@KJ{{buy}}imasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What will you buy?
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

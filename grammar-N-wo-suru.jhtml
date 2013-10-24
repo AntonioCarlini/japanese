@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@N{{}}@HI{{wo suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@N{{}}@HI{{wo suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@N{{}}@HI{{wo suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Many nouns that indicate an action can attach @HI{{suru}} to form a new verb; the conjugation is identical to that
+of @HI{{suru}} itself. In some cases @HI{{wo}} is required between the noun and @HI{{suru}}, in some cases
+it is optional and in still other cases it is never present.
+
+Some examples are:
+<ul>
+<li> @KT{{sakka}}@HI{{wo shimasu}}  <em> to play football</em>
+<li> @KT{{toranpu}}@HI{{wo shimasu}}  <em> to play cards</em>
+<li> @KJ{{meeting^deliberation}}@HI{{wo shimasu}}  <em> to hold a meeting</em>
+<li> @KJ{{attend^matter}}@HI{{wo shimasu}}  <em> to do one's work</em>
+</ul>
+</p>
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{JACG}}. (p. 571).  
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
