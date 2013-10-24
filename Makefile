@@ -60,6 +60,7 @@ JHTML_SRCS += grammar-interrogatives-with-particles.jhtml
 JHTML_SRCS += grammar-interrogatives.jhtml
 JHTML_SRCS += grammar-itsu.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
+JHTML_SRCS += grammar-jibun.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-kamo-shiremasen.jhtml
 JHTML_SRCS += grammar-kata.jhtml

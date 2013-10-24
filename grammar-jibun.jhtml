@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{oneself^part}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{oneself^part}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{oneself^part}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{oneself^part}} can be a reflexive pronoun that refers back to a human subject, which is then contrasted with someone else.
+Of the two usages of @KJ{{oneself^part}}, this one is the correct one if any of the following is true:
+<ol>
+<li> the referent is an agent
+<li> the subject is generic
+<li> @KJ{{oneself^part}} cannot be replaced by an implicit or explicit 3rd person pronoun.
+</ol>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^person}}ha@KJ{{oneself^part}}no@KJ{{country}}no@KJ{{sentence^change}}wo@KT{{yuni-ku}}
+      dato@KJ{{think}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Japanese think that their country's culture is unique.
+  </td> </tr>
+</table>
+
+</p>
+
+<p>
+If @KJ{{oneself^part}} does not satisy the conditions above then it is not a contrastive marker and is instead referring back
+to a human subject with whom the speaker empathises.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{soil^rice*field}}ha@KJ{{happiness^child}}ga@KJ{{oneself^part}}wo@KJ{{love}}shiteirukotowo@KJ{{know}}rimasendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Tsuchida didn't know that Sachiko loved him.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 159).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
