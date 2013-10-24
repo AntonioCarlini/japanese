@@ -496,7 +496,7 @@
   496 :  0x653e : -ppana.shi hou.ru :  HOU :  hana.su -ppana.shi hana.tsu hana.reru ko.ku hou.ru :  hanare :  {set free} {release} {fire} {shoot} {emit} {banish} {liberate} :  3 :  2
   497 :  0x6fc0 :  :  GEKI :  hage.shii :   :  {violent} {get excited} {enraged} {chafe} {incite} :  6 :  1
   498 :  0x8131 : nu.geru nu.gu :  DATSU :  nu.gu nu.geru :   :  {undress} {removing} {escape from} {get rid of} {be left out} {take off} :  8 :  1
-  499 :  0x8aac :  :  SETSU ZEI :  to.ku :  satoshi toki :  {opinion} {theory} {explanation} {rumor} :  4 :  3
+  499 :  0x8aac :  :  SETSU ZEI :  to.ku :  satoshi toki :  {rumor/explanation} {opinion} {theory} {explanation} {rumor} :  4 :  3
   500 :  0x92ed :  :  EI :  surudo.i :  toshi :  {pointed} {sharpness} {edge} {weapon} {sharp} {violent} :  8 :  2
   501 :  0x66fd : katsute :  SOU SO ZOU :  katsu katsute sunawachi :   :  {formerly} {once} {before} {ever} {never} {ex-} :  8 :  
   502 :  0x5897 : ma.shi :  ZOU :  ma.su ma.shi fu.eru fu.yasu :  mashi masu :  {increase} {add} {augment} {gain} {promote} :  5 :  2
@@ -1905,7 +1905,7 @@
  1905 :  0x82bd :  :  GA :  me :  ji megu :  {bud} {sprout} {spear} {germ} :  4 :  1
  1906 :  0x90aa : yokoshi.ma :  JA :  yokoshi.ma :   :  {wicked} {injustice} {wrong} :  8 :  1
  1907 :  0x96c5 : miya.bi :  GA :  miya.bi :  u o ka tadashi nori masa masashi yoshi :  {gracious} {elegant} {graceful} {refined} :  8 :  1
- 1908 :  0x91c8 : toku :  SHYAKU SEKI :  toku su.teru yuru.su :  shya :  {explanation} :  8 :  1
+ 1908 :  0x91c8 : toku :  SHYAKU SEKI :  toku su.teru yuru.su :  shya :  {explanation/interpretation} {explanation} :  8 :  1
  1909 :  0x756a : tsuga.i :  BAN :  tsuga.i :  ha ma :  {turn} {number in a series} :  2 :  2
  1910 :  0x5be9 :  :  SHIN :  tsumabi.raka tsubusa.ni :  akira :  {hearing} {judge} {trial} :  8 :  1
  1911 :  0x7ffb : hirugae.ru hirugae.su :  HON HAN :  hirugae.ru hirugae.su :   :  {flip} {turn over} {wave} {flutter} {change (mind)} :  8 :  1

@@ -68,5 +68,13 @@ table.example th.wide {
  <tr> <td> 1559   </td> <td class="kanji"> @KJ{{animal*sacrifice}}  </td> <td> animal sacrifice               </td> </tr>
 </table>
 
+<h2> rumor/explanation, </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th class="wide"> Phrase            </th> </tr>
+ <tr> <td>  499   </td> <td class="kanji"> @KJ{{rumor/explanation}}          </td> <td> rumor/explanation              </td> </tr>
+ <tr> <td> 1908   </td> <td class="kanji"> @KJ{{explanation/interpretation}} <td> explanation/interpretation           </td> </tr>
+</table>
+
 </body>
 </html>
