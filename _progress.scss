@@ -6,6 +6,11 @@ table.progress {
     padding: 10px;
 }
 
+/* Entry should be left aligned */
+table.progress td.left {
+    text-align: left;
+}
+
 /* Item does not exist */
 table.progress tr.none {
     background-color: white;
