@@ -1014,7 +1014,7 @@ class KD
     "greatness" => Kanji.new(999, 20625, ["KETSU"], ["sugu.reru"], ["sugu","take","masa"], ["greatness","excellence"], 8, 1),
     "adhere" => Kanji.new(1000, 20184, ["HU"], ["tsu.keru","-tsu.keru","-du.keru","tsu.ke","tsu.ke-","-tsu.ke","-du.ke","-duke","tsu.ku","-du.ku","tsu.ki","-tsu.ki","-tsuki","-du.ki","-duki"], ["tsuke"], ["adhere","attach","refer to","append"], 4, 2),
     "token" => Kanji.new(1001, 31526, ["HU"], [""], [""], ["token","sign","mark","tally","charm"], 8, 2),
-    "borough" => Kanji.new(1002, 24220, ["HU"], [""], ["i","u","o","han"], ["borough","urban prefecture","govt office","representative body","storehouse"], 4, 2),
+    "borough/municipality" => Kanji.new(1002, 24220, ["HU"], [""], ["i","u","o","han"], ["borough/municipality","borough","urban prefecture","govt office","representative body","storehouse"], 4, 2),
     "responsibility" => Kanji.new(1003, 20219, ["NIN"], ["maka.seru","maka.su"], ["sa","tou","hide"], ["responsibility","duty","term","entrust to","appoint"], 5, 2),
     "fare" => Kanji.new(1004, 36035, ["CHIN"], [""], ["suke"], ["fare","fee","hire","rent","wages","charge"], 6, 2),
     "substitute" => Kanji.new(1005, 20195, ["DAI","TAI"], ["ka.waru","kawa.ru","kawa.ri","ka.wari","-gawa.ri","-ga.wari","ka.eru","yo","shiro"], ["su"], ["substitute","change","convert","replace","period","age","counter for decades of ages, eras, etc.","generation","charge","rate","fee"], 3, 3),
