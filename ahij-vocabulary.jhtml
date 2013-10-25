@@ -593,11 +593,152 @@
  </tr>
  <!-- Unit 6 -->
  <tr>
+   <td> @KJ{{number^week^interval}}                              </td>
+   <td> @HI{{suushuukann}}                                       </td>
+   <td> several weeks                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{desk}}@HI{{ni}}@KJ{{yonder}}@HI{{kau}}              </td>
+   <td> @HI{{tsukuenimukau}}                                     </td>
+   <td> to sit at one's desk                                     </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{life^lively}}                                       </td>
+   <td> @HI{{seikatsu}}                                          </td>
+   <td> living; daily existence                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{music}}@HI{{shii}}                                  </td>
+   <td> @HI{{tanoshii}}                                          </td>
+   <td> enjoyable; fun                                           </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{parent^cut}}                                        </td>
+   <td> @HI{{shinsetsu}}                                         </td>
+   <td> kindness                                                 </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{road-way^path}}                                     </td>
+   <td> @HI{{douro}}                                             </td>
+   <td> road; highway                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{outside^country^person}}                            </td>
+   <td> @HI{{gaikokujinn}}                                       </td>
+   <td> foreigner                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{near^draw*near}}@HI{{ru}}                           </td>
+   <td> @HI{{chikayoru}}                                         </td>
+   <td> to approach; to draw near                                </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{book^hit}}                                          </td>
+   <td> @HI{{hontou}}                                            </td>
+   <td> truth; reality                                           </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{before^day}}                                        </td>
+   <td> @HI{{senjitsu}}                                          </td>
+   <td> the other day                                            </td>
+   <td> na-adj; n                                                </td>
+ </tr>
+ <tr>
+   <td> @KJ{{ground^below^boulevard}}                            </td>
+   <td> @HI{{chikagai}}                                          </td>
+   <td> underground shopping centre                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^turn^above}}                                    </td>
+   <td> @HI{{ichibanue}}                                         </td>
+   <td> topmost                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{waterfall}}                                         </td>
+   <td> @HI{{taki}}                                              </td>
+   <td> waterfall                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{store^employee}}                                    </td>
+   <td> @HI{{tenninn}}                                           </td>
+   <td> shop assistant                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{house^tool}}                                        </td>
+   <td> @HI{{kagu}}                                              </td>
+   <td> furniture                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{eat^utensil}}                                       </td>
+   <td> @HI{{shokki}}                                            </td>
+   <td> tableware                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{beauty^art^goods}}                                  </td>
+   <td> @HI{{bijutsuhinn}}                                       </td>
+   <td> work of art                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{unfold^show^meeting}}                               </td>
+   <td> @HI{{tenjikai}}                                          </td>
+   <td> exhibition                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{roof^above}}                                        </td>
+   <td> @HI{{okujou}}                                            </td>
+   <td> rooftop                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{generation^world^in}}                               </td>
+   <td> @HI{{sekaijuu}}                                          </td>
+   <td> all over the world                                       </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{eat^fee^goods}}                                     </td>
+   <td> @HI{{shokuryouhinn}}                                     </td>
+   <td> goodstuff                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{test^eat^goods}}                                    </td>
+   <td> @HI{{shishokuhinn}}                                      </td>
+   <td> sample food products                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{in^country}}                                        </td>
+   <td> @HI{{chuugoku}}                                          </td>
+   <td> China                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <!-- Unit 7 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
  </tr>
+ <!-- Unit 8 -->
+ <!-- Unit 9 -->
 </table>
 
 </body>
