@@ -30,7 +30,6 @@
 <p>
 <strong>@HI{{wa}}</strong> has the same pronunciation as the topic marker <a href="grammar-particle-wa.html">@HI{{ha}}</a>
 but is written with a different hiragana character.
-sentence.
 </p>
 
 <h2> Examples </h2>
@@ -58,10 +57,38 @@ sentence.
 
 <h2> Notes </h2>
 
+<p>
+<strong>@HI{{wa}}</strong> can follow any declarative sentence but cannot follow volitional forms of verbs and cannot follow questions.
+</p>
+
+<p>
+<strong>@HI{{wa}}</strong> can occur with other sentence-ending particles, such as <a href="grammar-particle-ne.html">@HI{{ne}}</a>
+and <a href="grammar-particle-yo.html">@HI{{yo}}</a>. In such cases <strong>@HI{{wa}}</strong> must precede these particles.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hamo@KJ{{going}}ku<strong>wa</strong>yo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll go there too. (<em>Emphatic</em>)
+  </td> </tr>
+</table>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hamo@KJ{{going}}ku<strong>wa</strong>ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll go there too, OK?
+  </td> </tr>
+</table>
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 132).
+<li> @REF{{AAP}}. (p. 132).
+<li> @REF{{DOBJG}}. (p. 520).
 </ol>
 
 <br/><br/>
