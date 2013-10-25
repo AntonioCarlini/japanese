@@ -23,8 +23,8 @@
 <ol>
 <li> @Vplain{{}} @HI{{nn}} <strong>@HI{{dai}}</strong>
 <li> @Ai{{}} @HI{{nn}} <strong>@HI{{dai}}</strong>
-<li> @Anastem{{}} <strong>@HI{{dai}}</strong>
-<li> @N{{}} <strong>@HI{{dai}}</strong>
+<li> @Ana{{}} @HI{{nn}} <strong>@HI{{dai}}</strong>
+<li> @N{{}} @HI{{nann}} <strong>@HI{{dai}}</strong>
 </ol>
 </dl>
 
@@ -51,7 +51,8 @@
 <h2> Notes </h2>
 
 <p>
-When <strong>@HI{{dai}}</strong> is used with a question, it must be an interrogative one: @HI{{kai}} is used with yes-no questions.
+When <strong>@HI{{dai}}</strong> is used with a question, it must be an interrogative one:
+<a href="grammar-particle-kai.html">@HI{{kai}}</a> is used with yes-no questions.
 </p>
 
 <p>

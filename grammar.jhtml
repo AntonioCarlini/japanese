@@ -186,6 +186,7 @@
 <h2> <a name="hi-ka">@HI{{ka}}</a> </h2>
 
 <h3> <a href="grammar-particle-ka.html"> @HI{{ka}} (particle)</a> </h3>
+<h3> <a href="grammar-particle-kai.html"> @HI{{kai}} </a> </h3>
 <h3> <a href="grammar-particle-kana.html"> @HI{{kana}} (particle) </a> </h3>
 <h3> <a href="grammar-particle-kara.html"> @HI{{kara}} (particle)</a> </h3>
 <h3> <a href="grammar-particle-kana.html"> @HI{{kashira}} (particle) </a> </h3>
@@ -226,7 +227,7 @@
 <h3> <a href="grammar-tara.html"> @HI{{tara}} </a> </h3>
 <h3> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a> </h3>
 <h3> <a href="grammar-tari.html"> @Vta{{}}@HI{{ri}} </a> </h3>
-<h3> <a href="grammar-dai.html"> @HI{{dai}} </a> </h3>
+<h3> <a href="grammar-particle-dai.html"> @HI{{dai}} </a> </h3>
 <h3> <a href="grammar-daga.html"> @HI{{daga}} </a> </h3>
 <h3> <a href="grammar-quantifier-dake.html"> <em>quantifier</em> @HI{{dake}} </a> </h3>
 <h3> <a href="grammar-particle-dake.html"> @HI{{dake}} </a> </h3>

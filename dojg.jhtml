@@ -26,10 +26,10 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-giving-receiving.html">@HI{{ageru}}</a>                                        </td>
   <td class=""> DOBJG, p.63                                                                                         </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-givin-receiving-actions">@Vte{{}}@HI{{ageru}}</a>                              </td>
+  <td class="left"> <a href="grammar-giving-receiving-actions.html">@Vte{{}}@HI{{ageru}}</a>                        </td>
   <td class=""> DOBJG, p.65                                                                                         </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -74,9 +74,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-dai.html">@HI{{dai}}</a>                                                       </td>
+  <td class="left"> <a href="grammar-particle-dai.html">@HI{{dai}}</a>                                              </td>
   <td class=""> DOBJG, p. 90                                                                                        </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-dake.html">@HI{{dake}}</a>                                            </td>
@@ -229,9 +229,9 @@ table.progress td.left {
   <td class="">  </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kai.html">@HI{{kai}}</a>                                                       </td>
+  <td class="left"> <a href="grammar-particle-kai.html">@HI{{kai}}</a>                                              </td>
   <td class=""> DOBJG, p. 170                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kamoshirenai.html">@HI{{kamoshirenai}}</a>                                     </td>
