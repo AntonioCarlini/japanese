@@ -316,69 +316,23 @@ div.main {
 
 <ol>
 <li> <a href="grammar-particle-de.html">@N{{tool}}@HI{{de}}@V{{}}</a>
-<li> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de @KJ{{what}}desuka}}
+<li> <a href="grammar-how-do-you-say.html"> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de @KJ{{what}}desuka}}</a>
 <li> <a href="grammar-particle-ni.html">@N{{person}}@HI{{ni agemasu}}</a>
 <li> <a href="grammar-giving-receiving.html">@N{{person}}@HI{{ni moraimasu}}</a>
-<li> @HI{{mou}}@V{{}}@HI{{mashita}}
+<li> <a href="grammar-mou.html"> @HI{{mou}}@Vmasustem{{}}@HI{{mashita}} </a>
 </ol>
-
-<h3><a name="word-sentence">Word Sentence</a></h3>
-
-<p>
-To ask how to say a word in an other language use this sentence pattern:
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{[arigatou] ha eigo de nann desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{[}}Thank you@HI{{] desu.}} </td> </tr>
-</table>
-
-<h3><a name="mou-V">@HI{{mou}} V @HI{{mashita}}</a></h3>
-
-<p>
-@HI{{mou}} means already and is used with V@HI{{mashita}} to indicate that an action has
-been completed.
-</p>
 
 <h2><a name="chapter8">Chapter 8</a></h2>
 
 <ol>
 <li> <a href="adjectives.html">Adjectives as predicates</a>
 <li> <a href="adjectives.html">Adjectives as modifiers</a>
-<li> @HI{{totemo}}/@HI{{amari}}
+<li> <a href="grammar-adverbs-of-degree.html"> @HI{{totemo}}/@HI{{amari}} </a>
 <li> <a href="grammar-dou.html">@N{{}}@HI{{hadoudesuka}}</a>
 <li> <a href="grammar-kosoado.html"> @N1{{}}@HI{{ha donnna}}@N2{{}}@HI{{desuka}}</a>
 <li> <a href="grammar-ga-conjunction.html"> @S1{{}}@HI{{ga,}}@S2{{}}</a>
 <li> <a href="grammar-kosoado.html"> @HI{{dore}}</a>
 </ol>
-
-<h3><a name="adjectives">adjectives</a></h3>
-
-<p>
-See <a name="adjectives.html"> the adjectives page</a> for further information.
-</p>
-
-<h3><a name="totemo">@HI{{totemo, amari}}</a></h3>
-
-<p>
-@HI{{totemo}} and @HI{{amari}} are adverbs of degree. They immediately precede the 
-adjectives they modify.
-<br/>
-@HI{{totemo}} means "very" and is used in affirmative sentences.<br/>
-@HI{{amari}} means "not very" and is used in negative sentences.
-</p>
-<table class="sentence">
-  <tr class="jp"> <td> @KT{{pekinn}} @HI{{ha <em>totemo</em> @KJ{{samui}}ii desu.}}</td> </tr>
-  <tr class="en"> <td> Beijing is very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{ kore ha <em>totemo</em> @KJ{{arinashi^namae}}na
-	@KJ{{utsuru^yonkaku}} desu.}}</td> </tr>
-  <tr class="en"> <td> This is a very famous film.</td> </tr>
-  <tr class="jp"> <td> @KT{{shyannhai}} @HI{{ha <em>amari</em> @KJ{{samui}}kunai desu.
-}}</td> </tr>
-  <tr class="en"> <td> Shanghai is not very cold.</td> </tr>
-  <tr class="jp"> <td> @HI{{sakura@KJ{{ookii^manabu}} ha <em>amari</em>
-  @KJ{{arinashi^namae}}na @KJ{{ookii^manabu}}jya arimasenn.}}</td> </tr>
-  <tr class="en"> <td> </td> </tr>
-</table>
 
 <h2><a name="chapter9">Chapter 9</a></h2>
 

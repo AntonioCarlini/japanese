@@ -367,6 +367,10 @@
 
 <h3> <a href="grammar-mitai.html"> @HI{{mitai}} </a> </h3>
 
+<h2> <a name="hi-mo">@HI{{mo}}</a> </h2>
+
+<h3> <a href="grammar-mou.html"> @HI{{mou}}@Vmasustem{{}}@HI{{mashita}} </a> </h3>
+
 <h2> <a name="hi-sa">@HI{{sa}}</a> </h2>
 
 <h3> <a href="grammar-adj-sa.html"> @HI{{sa}} </a> </h3>
@@ -442,6 +446,7 @@
 <h3> <a href="adjectives.html"> Adjectives </a> </h3>
 <h3> <a href="grammar-adverbs.html"> How to make adverbs from adjectives </a> </h3>
 <h3> <a href="grammar-activity-time.html"> Expressing the time for an activity </a> </h3>
+<h3> <a href="grammar-adverbs-of-degree.html"> How to use adverbs of degree</a> </h3>
 
 <h2> <a name="en-B"> B </a> </h2>
 
@@ -464,6 +469,9 @@
 <h2> <a name="en-G"> G </a> </h2>
 <h3> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a> </h3>
 <h3> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions</a> </h3>
+
+<h2> <a name="en-H"> H </a> </h2>
+<h3> <a href="grammar-how-do-you-say.html"> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de @KJ{{what}}desuka}}</a> </h3>
 
 <h2> <a name="en-I"> I </a> </h2>
 <h3> <a href="grammar-verb-formation-imperative.html"> How to make the imperative form </a> </h3>

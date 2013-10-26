@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{mou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{mou}}</strong>@Vta{{}}
+<li> <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashita}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{mou}}</strong> means "already" and when combined with a verb in the past tense the meaning is that the action specified
+by the verb has been completed.
+</p>
+
+<p>
+The answer to the question <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
+@HI{{iie,madadesu}}.
+</p>
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mou@KJ{{baggage^thing}}wo@KJ{{escort}}rimashitaka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{hai,@KJ{{escort}}rimashita.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{iie,madadesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Have you sent the parcel yet?
+  </td> </tr>
+  <tr class="en"> <td>
+      Yes I have.
+  </td> </tr>
+  <tr class="en"> <td>
+      No, not yet.
+  </td> </tr>
+</table>
+</ol>
+
+An answer of the form @HI{{iie,}}@Vmasustem{{}}@HI{{masendeshita}} would imply that the task was not performed rather than it has
+<em>not yet</em> been performed.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

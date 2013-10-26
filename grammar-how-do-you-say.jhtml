@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>How Do You Say X?</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>How Do You Say X?</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>phrase</em>@HI{{ha}}~@KJ{{word}}@HI{{de@KJ{{what}}desuka}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This question is used to ask how to say a phrase in another language.
+</p>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[arigatou]ha@KJ{{england^word}}de@KJ{{what}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How do you say "@HI{{arigatou}}" in English?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

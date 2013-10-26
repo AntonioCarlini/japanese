@@ -7,6 +7,93 @@
 </head>
 <body>
 
+
+<h1>Adjectives</h1>
+
+<p>
+Japanese adjectives are split into two classes: @HI{{i}}-adjectives and @HI{{na}}-adjectives. They can be used prenominally, like adjectives
+in English, to modify a noun, but they can also be used as a predicate.
+</p>
+
+<p>
+When used as a predicate, @HI{{i}}-adjectives can occur at the end of a sentence in the plain form. If the sentence is to be in
+the polite form then the @HI{{i}}-adjective will be followed by desu. As shown in the table, the @HI{{i}}-adjective inflects to
+show whether the sentence is in the past and whether the sentence is in the negative. In all these cases the difference between
+the plain form and the polite form is the presence of a final @HI{{desu}}. Note that this @HI{{desu}} does not inflect as
+a <a href="grammar-copula.html">copula</a>, but remains unchanged and merely marks the sentence as being in the polite form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{wealth^gentleman^mountain}}ha@KJ{{tall}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mt. Fuji is tall.
+  </td> </tr>
+</table>
+
+<p>
+When used prenominally, @HI{{i}}-adjectives precede the modified noun with no intervening part of speech required..
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{wealth^gentleman^mountain}}ha@KJ{{tall}}i@KJ{{mountain}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mt. Fuji is a high mountain.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When used as a predicate, @HI{{na}}-adjectives are found, without the @HI{{na}}, followed by the 
+<a href="grammar-copula.html">copula<a/>. It is the copula
+that inflects to show a sentence that is in the past or in the negative. The form of the shows whether
+the sentence is in the plain form of the polite form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{watto}}@KJ{{before^life}}ha@KJ{{parent^cut}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Watt is kind.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When used prenominally, a @HI{{na}} is placed between the @HI{{na}}-adjectives and the modified noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{watto}}@KJ{{before^life}}ha@KJ{{parent^cut}}na@KJ{{before^life}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Watt is a kind teacher.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Adjective sentences form questions in the same way as noun or verb sentences: by taking a sentence-ending
+<a href="grammar-particle-ka.html">@HI{{ka}}</a>. The answre should repeat the adjective.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pekinn}}ha@KJ{{cold}}idesuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{hai,@KJ{{cold}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is it cold in Beijing?
+  </td> </tr>
+  <tr class="en"> <td>
+      Yes it is.
+  </td> </tr>
+</table>
+</p>
+</p>
+
 <h1>@HI{{i}}-adjectives</h1>
 
 <table class="example">
@@ -104,6 +191,12 @@ In a comparison the other item is marked with @HI{{yori}} and the adjective is l
 </table>
 
 <h1>Superlatives</h1>
+
+<h1>References</h1>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
+</ol>
 
 </body>
 </html>
