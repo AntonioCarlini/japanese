@@ -21,7 +21,9 @@
 
 <p>
 The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nann}}.
+</p>
 
+<p>
 @HI{{nann}} is used in the following cases:
 <ol>
 <li> before a word whose first mora is in the @HI{{ta}}, @HI{{da}} or @HI{{na}} row:
@@ -33,6 +35,8 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
       What is that?
   </td> </tr>
 </table>
+<br/>
+<br/>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{nannno@KJ{{hon}}desuka.}}
@@ -41,6 +45,8 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
       What is that book about?
   </td> </tr>
 </table>
+<br/>
+<br/>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{lie*down}}rumaeni,nanto@KJ{{say}}imasuka.}}
@@ -49,6 +55,8 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
       What do you say before going to bed?
   </td> </tr>
 </table>
+<br/>
+<br/>
 <li> before a counter suffix or similar:
 <table class="sentence">
   <tr class="jp"> <td>
@@ -58,8 +66,9 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
       How old is Teresa?
   </td> </tr>
 </table>
-<ol>
+</ol>
 
+<p>
 In all other cases the pronunciation is @HI{{nani}}:
 
 <table class="sentence">
@@ -70,7 +79,6 @@ In all other cases the pronunciation is @HI{{nani}}:
       What will you buy?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -81,7 +89,7 @@ In all other cases the pronunciation is @HI{{nani}}:
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
-</br></br>
+<br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
 </body>

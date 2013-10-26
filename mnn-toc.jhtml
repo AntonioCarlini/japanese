@@ -305,7 +305,7 @@ div.main {
 <li> <a href="grammar-particle-wo.html">@N{{}}@HI{{wo}}@V{{transitive}}</a>
 <li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{wo shimasu}}</a>
 <li> @HI{{@KJ{{what}}wo shimasuka}}
-<li> <a href="grammar-nani-nan">@HI{{nani}} and @HI{{nann}}</a>
+<li> <a href="grammar-nani-nan.html">@HI{{nani}} and @HI{{nann}}</a>
 <li> <a href="grammar-particle-de.html">@N{{place}}@HI{{de}}@V{{}}</a>
 <li> @V{{}}@HI{{masenka}}
 <li> @V{{}}@HI{{mashou}}
