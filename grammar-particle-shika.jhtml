@@ -15,16 +15,20 @@
 
 <ol>
 <li> @N{{}} <strong>@HI{{shika}}</strong> ... V(negative)
+<li> @Vru{{}} <strong>@HI{{shika}}</strong> ... V(negative)
 </ol>
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{shika}}</strong> follows nouns and quantifiers and is always used with a negative
 predicate. Its function is to highlight the word and express the idea that everything except the
 marked word is negated. It carries a negative nuance.
-<p></p>
+</p>
 
-<h2> Examples </h2>
+<p>
+After a noun, <strong>@HI{{shika}}</strong> indicates that there is nothing more than the quantity specified with the
+suggestion that the quantity is small.
 
 <ol>
 <li>
@@ -36,14 +40,46 @@ marked word is negated. It carries a negative nuance.
       I cannot write anything except Roman letters.
   </td> </tr>
 </table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{store}}niha,kono@KJ{{miscellaneous^document}}<strong>@HI{{shika}}</strong>arimasendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This was the only magazine at that store.
+  </td> </tr>
+</table>
 </ol>
+</p>
+
+<p>
+After a verb, <strong>@HI{{shika}}</strong>  indicates a limit to the action specified by the verb.
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{iyadakeredo,@KJ{{exit^lengthen}}dakara@KJ{{going}}u<strong>@HI{{shika}}</strong>nai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't want to, but since it's a business trip I can't help but go.
+  </td> </tr>
+</table>
+</ol>
+</p>
 
 <h2> Notes </h2>
 
+<p>
 When <strong>@HI{{shika}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}},
 <strong>@HI{{shika}}</strong> replaces those particles.
 For all other particles, <strong>@HI{{shika}}</strong> follows them rather than replacing them.
-<p></p>
+</p>
+
+<p>
+<strong>@HI{{shika}}</strong> may follow <a href="grammar-particle-dake.html">@HI{{dake}}</a>,
+@HI{{nomi}} and @HI{{kiri}} for additional emphasis.
+</p>
 
 <h2> References </h2>
 

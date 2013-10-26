@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}} <strong>@HI{{toka}}</strong>
+<li> @Vru{{}} <strong>@HI{{toka}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{toka}}</strong> is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
+However, <strong>@HI{{toka}}</strong>
+is more informal. Furthermore, <strong>@HI{{toka}}</strong> can sometimes follow the last noun listed, which @HI{{ya}}
+never can.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{donnna @KT{{supo-tsu}}wo shite imasuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{sou desune. @KT{{tenisu}}<strong>@HI{{toka}}</strong> @KJ{{water^swim}}<strong>@HI{{toka}}</strong>...}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: What kind of sports do you do?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Well ... playing tennis, swimming and so on.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{toka}}</strong> can follow  pairs of words of opposite meaning to indicate uncertainty.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}hasonotokiniyotte,@KJ{{attend^matter}}ga@KJ{{mask^white}}i<strong>@HI{{toka}}</strong>
+      @KJ{{mask^white}}kunai<strong>@HI{{toka}}</strong>@KJ{{say}}unode,dochiranokawakarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Depending on which day it is, she says she likes here work or she doesn't like it, so I don't know whether she does or not.
+  </td> </tr>
+</table>
+
+</p>
+
+<h2> Notes </h2>
+
+<p>
+When used with nouns <strong>@HI{{toka}}</strong> has a more informal feel than @HI{{ya}}.
+</p>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-II}}. (Chapter 36).
+<li> @REF{{AAP}}. (p. 42).
+</ol>
+
+</br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

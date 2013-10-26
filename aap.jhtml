@@ -60,8 +60,8 @@
 </tr>
 <tr>
   <td class="">  9 </td>
-  <td class=""> @HI{{toka}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-toka.html">@HI{{toka}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 10 </td>
@@ -131,7 +131,7 @@
 <tr>
   <td class=""> 23 </td>
   <td class=""> <a href="grammar-particle-shika.html">@HI{{shika}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 24 </td>
