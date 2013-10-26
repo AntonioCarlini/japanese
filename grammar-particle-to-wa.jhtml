@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>phrase</em> <strong>@HI{{toha}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{toha}}</strong> indicates a word or phrase that is being defined.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      UN<strong>@HI{{toha}}</strong>,@KJ{{country^take*along}}@HI{{nokotodesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      "UN" refers to the United Nations.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{toha}}</strong> is used between two clauses that are opposed in meaning, the first clause representing a concession to the second.
+In this case it usually appears in the form <strong>@HI{{tohaie}}</strong>. The meaning is "though" or "even though".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{springtime}}<strong>tohaie</strong>mada@KJ{{cold}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even though it's spiring, it's still cold.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 40).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
