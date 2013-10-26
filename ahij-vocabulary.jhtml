@@ -732,13 +732,157 @@
  </tr>
  <!-- Unit 7 -->
  <tr>
+   <td> @KJ{{both^side}}                                         </td>
+   <td> @HI{{ryougawa}}                                          </td>
+   <td> both sides                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{row}}@HI{{bu}}                                      </td>
+   <td> @HI{{narabu}}                                            </td>
+   <td> to line (e.g. a street)                                  </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{eight^hundred^roof}}                                </td>
+   <td> @HI{{yaoya}}                                             </td>
+   <td> greengrocer                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fruit^thing^roof}}                                  </td>
+   <td> @HI{{kudamonoya}}                                        </td>
+   <td> fruit seller                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{core}}                                              </td>
+   <td> @HI{{oku}}                                               </td>
+   <td> interior; inner part                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{husband^wife}}                                      </td>
+   <td> @HI{{fusai}}                                             </td>
+   <td> husband and wife                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{take*along^entwine}}                                </td>
+   <td> @HI{{renraku}}                                           </td>
+   <td> to contact                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{by*means*of^above}}                                 </td>
+   <td> @HI{{ijou}}                                              </td>
+   <td> not less than                                            </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{emotion}}@HI{{jiru}}                                </td>
+   <td> @HI{{kanjiru}}                                           </td>
+   <td> to feel; to sense; to experience                         </td>
+   <td> v1                                                       </td>
+ </tr>
+ <tr>
+   <td> @KJ{{learn^accustomed}}                                  </td>
+   <td> @HI{{shuukann}}                                          </td>
+   <td> custom; habit; manners                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <!-- Unit 8 -->
+ <tr>
+   <td> @KJ{{example}}                                           </td>
+   <td> @HI{{rei}}                                               </td>
+   <td> custom; practice; habit                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{hand^transmit}}@HI{{u}}                             </td>
+   <td> @HI{{tetsudau}}                                          </td>
+   <td> to help; to assist                                       </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{go}}@KJ{{meal}}                                     </td>
+   <td> @HI{{gohann}}                                            </td>
+   <td> meal; cooked rice                                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{deep}}@HI{{i}}                                      </td>
+   <td> @HI{{fukai}}                                             </td>
+   <td> deep                                                     </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{overdo}}@HI{{giru}}                                 </td>
+   <td> @HI{{sugiru}}                                            </td>
+   <td> to exceed                                                </td>
+   <td> v1i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^thong}}@HI{{ni}}                                </td>
+   <td> @HI{{isshoni}}                                           </td>
+   <td> together with                                            </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{before^salute}}                                     </td>
+   <td> @HI{{shitsurei}}                                         </td>
+   <td> impolite; rude                                           </td>
+   <td> n; ns                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{hot*water^ship}}                                    </td>
+   <td> @HI{{yubune}}                                            </td>
+   <td> bathtub                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{whole^sort*of*thing}}                               </td>
+   <td> @HI{{zenzenn}}                                           </td>
+   <td> not at all (with -ve verb)                               </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{heat}}@HI{{i}}                                      </td>
+   <td> @HI{{atsui}}                                             </td>
+   <td> hot (thing)                                              </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{dainty^long}}@HI{{i}}                               </td>
+   <td> @HI{{hosonagai}}                                         </td>
+   <td> long and narrow                                          </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{attend^direction}}                                  </td>
+   <td> @HI{{shikata}}                                           </td>
+   <td> way; method                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{traffic}}@HI{{ri}}                                  </td>
+   <td> @HI{{toori}}                                             </td>
+   <td> avenue; street                                           </td>
+   <td> na-adj; n                                                </td>
+ </tr>
+ <tr>
+   <td> @KJ{{end}}@HI{{waru}}                                    </td>
+   <td> @HI{{owaru}}                                             </td>
+   <td> to finish; to end                                        </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <!-- Unit 9 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
  </tr>
- <!-- Unit 8 -->
- <!-- Unit 9 -->
 </table>
 
 </body>
