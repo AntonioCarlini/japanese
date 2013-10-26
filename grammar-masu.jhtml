@@ -52,6 +52,13 @@ To form the volitional of the @HI{{masu}}-form, drop @HI{{masu}} and replace it 
 This form corresponds to the plain volitional <a href="grammar-verb-formation-volitional.html">@Vyou{{}}</a>.
 In a volitional sentence, if the subject is explicitly stated it is marked with @HI{{ga}} and the implication is
 that the stated subject, rather than anyone else, will perform the action.
+</p>
+
+<p>
+The volitional is used to invite the listener to do something with the speaker.
+It is also used to respond poitively to such an invitation. Note that an invitation using
+<a href="grammar-masen-ka.html">@Vmasustem{{}}@HI{{masenka}}</a> shows more consideration for the listener than using
+@Vmasustem{{}}@HI{{mashou}} as the former explictly allows for a negative reply.
 <p>
 
 <p>
@@ -119,6 +126,30 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
   </td> </tr>
   <tr class="en"> <td>
       I get up at 6AM.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{chotto@KJ{{rest}}mimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's have a break.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{isshouni@KJ{{daytime}}gohanwo@KJ{{eat}}bemasenka}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{ee,@KJ{{eat}}mashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Won't you have lunch with me?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: yes, let's go and eat.
   </td> </tr>
 </table>
 </ol>

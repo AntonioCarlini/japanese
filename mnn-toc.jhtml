@@ -304,47 +304,13 @@ div.main {
 <ol>
 <li> <a href="grammar-particle-wo.html">@N{{}}@HI{{wo}}@V{{transitive}}</a>
 <li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{wo shimasu}}</a>
-<li> @HI{{@KJ{{what}}wo shimasuka}}
+<li> <a href="grammar-nani-wo-shimasu-ka.html"> @HI{{@KJ{{what}}woshimasuka}} </a>
 <li> <a href="grammar-nani-nan.html">@HI{{nani}} and @HI{{nann}}</a>
 <li> <a href="grammar-particle-de.html">@N{{place}}@HI{{de}}@V{{}}</a>
-<li> @V{{}}@HI{{masenka}}
-<li> @V{{}}@HI{{mashou}}
+<li> <a href="grammar-masen-ka.html"> @Vmasustem{{}}@HI{{masenka}} </a>
+<li> <a href="grammar-masu.html">@V{{}}@HI{{mashou}} </a>
 <li> <a href="grammar-respect-markers.html">@HI{{o}} (respect)</a>
 </ol>
-
-<h3><a name="nani-wo">@HI{{nani wo shimasu ka}}</a></h3>
-
-<p>
-This expression is used to ask what someone will do. If @HI{{shimasu}} is changed to @HI{{shimashita}}
-then the expression is asking what someone has already done.
-</p>
-
-<h3><a name="nani-vs-nan">@HI{{nani}} and @HI{{nann}}</a></h3>
-
-<p>
-@HI{{nann}} is used:
-<ol>
-<li> before a word whose first mora is in the @HI{{ta}}, @HI{{da}} or @HI{{na}}
-row.
-<li> when it is followed by a counter suffix or similar
-</ol>
-
-In all other cases @HI{{nani}} is used. Note that the kanji is always the same.
-</p>
-
-<h3><a name="masen-ka">V @HI{{masen ka}}<a/></h3>
-
-<p>
-If you wish to invite a listener to do something.
-</p>
-
-<h3><a name="mashou-ka">V @HI{{mashou ka}}</a></h3>
-
-<p>
-This expression is used to invite a listener positively to do something. It is also used when responfding positively to an
-invitation. Note that an invitation using @HI{{masen ka}} shows more consideration for the listener (because it
-anticipates a possible negative reply) and so is considered more polite.
-</p>
 
 <h2><a name="chapter7">Chapter 7</a></h2>
 
