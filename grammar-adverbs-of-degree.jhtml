@@ -14,6 +14,10 @@
 <h2> Definition </h2>
 
 <p>
+Japanese adverbs can precede adjectives or verbs to modify them.
+</p>
+
+<p>
 <strong>@HI{{totemo}}</strong> is an adverb that precedes the adjective it is modifying. It is used in affirmative sentences
 to mean "very".
 
@@ -40,12 +44,145 @@ to mean "not very".
   </td> </tr>
 </table>
 
+<p>
+@HI{{yoku}}, @HI{{daitai}}, @HI{{takusann}}, @KJ{{few}}@HI{{shi}}, @HI{{amari}} and @KJ{{whole^sort*of*thing}}
+are adverbs of degree and amount that precede verbs to modify them. The tables below show the degree of modification and whether they are used
+in affirmative or negative sentences.
+
+<table class="example">
+ <tr>
+   <th> Degree </th>
+   <th> Affirmative </th>
+   <th> Negative </th>
+ </tr>
+ <tr>
+   <td> high </td>
+   <td> @HI{{yoku wakarimasu}} </td>
+   <td> &nbsp; </td>
+ </tr>
+ <tr>
+   <td> &nbsp; </td>
+   <td> @HI{{daitai wakarimasu}} </td>
+   <td> &nbsp; </td>
+ </tr>
+ <tr>
+   <td> low </td>
+   <td> @HI{{sukoshi wakarimasu}} </td>
+   <td> @HI{{amari wakarimasenn}} </td>
+ </tr>
+ <tr>
+   <td> &nbsp; </td>
+   <td> &nbsp; </td>
+   <td> @HI{{zenzenn wakarimasenn}} </td>
+ </tr>
+</table>
+<br/><br/>
+
+<table class="example">
+ <tr>
+   <th> Amount </th>
+   <th> Affirmative </th>
+   <th> Negative </th>
+ </tr>
+ <tr>
+   <td> large </td>
+   <td> @HI{{takusann arimasu}} </td>
+   <td> &nbsp; </td>
+ </tr>
+ <tr>
+   <td> small </td>
+   <td> @HI{{sukoshi arimasu}}</td>
+   <td> @HI{{amari arimasenn}} </td>
+ </tr>
+ <tr>
+   <td> &nbsp; </td>
+   <td> &nbsp; </td>
+   <td> @HI{{zenzenn arimasenn}}</td>
+ </tr>
+</table>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{england^word}}ga yoku wakarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I understand English very well.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{england^word}}ga @KJ{{few}}shi wakarimasu.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I understand English a little.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{england^word}}ga amari wakarimasenn.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't understand English so well.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}ga takusann arimasu.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I have a lot of money.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}ga @KJ{{whole^sort*of*thing}}arimasenn.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't have any money.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<p>
+Note that @HI{{sukoshi}} and @HI{{zenzenn}} can also modify adjectives.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokoha@KJ{{few}}shi@KJ{{cold}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's a little cold here.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{whole^sort*of*thing}}omoshirokunaidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That film isn't at all interesting.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 <br/><br/>

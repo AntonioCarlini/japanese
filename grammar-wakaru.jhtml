@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{part}}@HI{{karu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{part}}@HI{{karu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>object</em> @HI{{ga}} @KJ{{part}}@HI{{karu}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The basic meaning of @KJ{{part}}@HI{{karu}} is "to be comprehensible" or "to understand". 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hakono@KJ{{reflect^brush-stroke}}no@KJ{{idea^flavor}}ga@KJ{{part}}karanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know the meaning of this film.
+  </td> </tr>
+</table>
+</br></br>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{gate^topic}}ha@KJ{{difficult}}shikute@KJ{{part}}karanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This problem is too difficult to understand.
+  </td> </tr>
+</table>
+</br></br>
+</p>
+
+<p>
+@KJ{{part}}@HI{{karu}} involves a process of "figuring out" or processing information. Here it differs from
+@KJ{{know}}@HI{{ru}}, which means "to obtain information from an external source".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{yoku@KJ{{consider}}ereba@KJ{{part}}karimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you think hard you'll understand.
+  </td> </tr>
+</table>
+</br></br>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}ni@KJ{{hear}}ite@KJ{{large^plains}}no@KJ{{tie^marriage}}nokotowo@KJ{{know}}tteita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I kew about Ono's marriage by hearing it from a friend.
+  </td> </tr>
+</table>
+</br></br>
+</p>
+
+<p>
+Although @KJ{{part}}@HI{{karu}} almsot always marks its object with @HI{{ga}}, it uses @HI{{wo}} in
+<a href="grammar-verb-use-of-causative.html">causative</a> sentences and in sentences when the
+experiencer makes a conscious effort to understand something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jakku}}ha@KT{{rinda}}no@KJ{{spirit^hold}}chiwo@KJ{{part}}karoutoshinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Jack does not try to understand Linda's feelings.
+  </td> </tr>
+</table>
+</br></br>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 529).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

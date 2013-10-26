@@ -233,6 +233,7 @@ JHTML_SRCS += grammar-verb-use-of-imperative-prohibitive.jhtml
 JHTML_SRCS += grammar-verb-use-of-passive.jhtml
 JHTML_SRCS += grammar-verb-use-of-potential.jhtml
 JHTML_SRCS += grammar-verb-use-of-volitional.jhtml
+JHTML_SRCS += grammar-wakaru.jhtml
 JHTML_SRCS += grammar-yasui.jhtml
 JHTML_SRCS += grammar-yotei.jhtml
 JHTML_SRCS += grammar-you-desu.jhtml

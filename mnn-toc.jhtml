@@ -337,37 +337,13 @@ div.main {
 <h2><a name="chapter9">Chapter 9</a></h2>
 
 <ol>
-<li> @HI{{ga aru}}, @HI{{ga wakaru}}
+<li> <a href="grammar-aru.html">@HI{{ga aru}}</a>, <a href="grammar-wakaru.html">@HI{{ga wakaru}}</a>
 <li> <a href="grammar-kosoado.html"> @HI{{donna}} N</a>
-<li> @HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/@KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}
+<li> <a href="grammar-adverbs-of-degree.html">@HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/
+    @KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}</a>
 <li> <a href="grammar-partcile-kara.html">@S1{{}}@HI{{kara,}}@S2{{}}</a>
 <li> <a href="grammar-dou.html">@HI{{doushite}}</a>
 </ol>
-
-<p>
-
-</p>
-
-<h3><a name="daitai">@HI{{yoku, daitai}} etc.</a></h3>
-
-<p>
-These adverbs are placed before verbs to modify them.
-</p>
-
-<table>
-<tr> <th>degree</th> <th> adverb + affirmative </th> <th> adverb + negative </th> </tr>
-<tr> <td> high   </td> <td> @HI{{yoku wakarimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> &nbsp; </td> <td> @HI{{daitai wakarimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> low    </td> <td> @HI{{sukoshi wakarimasu}} </td> <td> amari wakarimasenn </td> </tr>
-<tr> <td> &nbsp; </td> <td> &nbsp;</td> <td> zennzenn wakarimasenn </td> </tr>
-</table>
-
-<table>
-<tr> <th>amount</th> <th> adverb + affirmative </th> <th> adverb + negative </th> </tr>
-<tr> <td> large  </td> <td> @HI{{takusann arimasu}} </td> <td> &nbsp; </td> </tr>
-<tr> <td> small  </td> <td> @HI{{sukoshi  arimasu}} </td> <td> amari arimasenn </td> </tr>
-<tr> <td> &nbsp; </td> <td> &nbsp; </td> <td> zennzenn arimasenn </td> </tr>
-</table>
 
 <h2><a name="chapter10">Chapter 10</a></h2>
 
