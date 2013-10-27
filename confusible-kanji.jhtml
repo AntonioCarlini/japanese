@@ -63,7 +63,7 @@ table.example th.wide {
 <h2> sacrifice, animal sacrifice</h2>
 
 <table class="example">
- <tr> <th> Heisig </th> <th> Kanji                                  </th> <th class="wide"> Phrase            </th> </tr>
+ <tr> <th> Heisig </th> <th> Kanji                                  </th> <th class="wide"> Phrase           </th> </tr>
  <tr> <td>  643   </td> <td class="kanji"> @KJ{{sacrifice}}         </td> <td> sacrifice                      </td> </tr>
  <tr> <td> 1559   </td> <td class="kanji"> @KJ{{animal*sacrifice}}  </td> <td> animal sacrifice               </td> </tr>
 </table>
@@ -71,17 +71,25 @@ table.example th.wide {
 <h2> rumor/explanation, explanation/interpretation </h2>
 
 <table class="example">
- <tr> <th> Heisig </th> <th> Kanji                                           </th> <th class="wide"> Phrase            </th> </tr>
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase           </th> </tr>
  <tr> <td>  499   </td> <td class="kanji"> @KJ{{rumor/explanation}}          </td> <td> rumor/explanation              </td> </tr>
  <tr> <td> 1908   </td> <td class="kanji"> @KJ{{explanation/interpretation}} <td> explanation/interpretation           </td> </tr>
 </table>
 
-<h2> government office, </h2>
+<h2> government office, borough/municipality </h2>
 
 <table class="example">
- <tr> <th> Heisig </th> <th> Kanji                                           </th> <th class="wide"> Phrase            </th> </tr>
- <tr> <td>  591   </td> <td class="kanji"> @KJ{{government*office}}          </td> <td> government office              </td> </tr>
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td>  591   </td> <td class="kanji"> @KJ{{government*office}}          </td> <td> government office               </td> </tr>
  <tr> <td> 1002   </td> <td class="kanji"> @KJ{{borough/municipality}}       </td> <td> borough/municipality            </td> </tr>
+</table>
+
+<h2> repress </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td> 1700   </td> <td class="kanji"> @KJ{{repress}}                    </td> <td> repress                         </td> </tr>
+ <tr> <td> 1832   </td> <td class="kanji"> @KJ{{resist}}                     </td> <td> resist                          </td> </tr>
 </table>
 
 </body>
