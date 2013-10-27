@@ -890,7 +890,7 @@ class KD
     "restore" => Kanji.new(875, 24489, ["HUKU"], ["mata"], [""], ["restore","return to","revert","resume"], 5, 2),
     "gain" => Kanji.new(876, 24471, ["TOKU"], ["e.ru","u.ru"], ["atsu","tero"], ["gain","get","find","earn","acquire","can","may","able to","profit","advantage","benefit"], 4, 2),
     "accompany" => Kanji.new(877, 24467, ["JUU","SHYOU","JU"], ["shitaga.u","shitaga.eru","yori"], [""], ["accompany","obey","submit to","comply","follow","secondary","incidental","subordinate"], 6, 1),
-    "on*foot" => Kanji.new(878, 24466, ["TO"], ["itazura","ada"], ["kachi"], ["on foot","junior","emptiness","vanity","futility","uselessness","ephemeral thing","gang","set","party","people"], 4, 2),
+    "junior" => Kanji.new(878, 24466, ["TO"], ["itazura","ada"], ["kachi"], ["junior","on foot","emptiness","vanity","futility","uselessness","ephemeral thing","gang","set","party","people"], 4, 2),
     "wait" => Kanji.new(879, 24453, ["TAI"], ["ma.tsu","-ma.chi"], ["machi","matsu"], ["wait","depend on"], 3, 3),
     "journey" => Kanji.new(880, 24448, ["OU"], ["i.ku","inishie","saki.ni","yu.ku"], ["michi"], ["journey","travel","chase away","let go","going","before","formerly"], 5, 1),
     "subjugate" => Kanji.new(881, 24449, ["SEI"], [""], ["iku","so","tada","masa","yuki"], ["subjugate","attack the rebellious","collect taxes"], 8, 1),

@@ -993,6 +993,205 @@
  </tr>
  <!-- Unit 10 -->
  <tr>
+   <td> @KJ{{traffic}}@HI{{u}}                                   </td>
+   <td> @HI{{kayou}}                                             </td>
+   <td> to commute to (school etc.)                              </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{life^junior}}                                       </td>
+   <td> @HI{{seito}}                                             </td>
+   <td> pupil                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{curriculum^history}}                                </td>
+   <td> @HI{{rekishi}}                                           </td>
+   <td> history                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{number^study}}                                      </td>
+   <td> @HI{{suugaku}}                                           </td>
+   <td> mathematics                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{thing^logic}}                                       </td>
+   <td> @HI{{butsuri}}                                           </td>
+   <td> physics                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{tea^road-way^section}}                              </td>
+   <td> @HI{{sadoubu}}                                           </td>
+   <td> tea ceremony club                                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{copy^true^section}}                                 </td>
+   <td> @HI{{shashinbu}}                                         </td>
+   <td> photography club                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{lively^move}}                                       </td>
+   <td> @HI{{katsudou}}                                          </td>
+   <td> activity                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{nonplussed^add}}@HI{{suru}}                         </td>
+   <td> @HI{{sankasuru}}                                         </td>
+   <td> to participate                                           </td>
+   <td> v5s                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{extremity}}                                         </td>
+   <td> @HI{{sue}}                                               </td>
+   <td> the end of ~                                             </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{noon^behind}}                                       </td>
+   <td> @HI{{gogo}}                                              </td>
+   <td> afternoon                                                </td>
+   <td> n;na-adj                                                 </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wide}}@HI{{geru}}                                   </td>
+   <td> @HI{{hirogeru}}                                          </td>
+   <td> to spread out; to unfold                                 </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^life}}@HI{{kenmei}}                             </td>
+   <td> @HI{{isshoukenmei}}                                      </td>
+   <td> with utmost effort                                       </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{system^clothing}}                                   </td>
+   <td> @HI{{seifuku}}                                           </td>
+   <td> uniform                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{music}}                                             </td>
+   <td> @HI{{raku}}                                              </td>
+   <td> comfort                                                  </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{tall^exam}}                                         </td>
+   <td> @HI{{koukou}}                                            </td>
+   <td> high school                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{attend^matter}}                                     </td>
+   <td> @HI{{shigoto}}                                           </td>
+   <td> work; job                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{say^leaf}}                                          </td>
+   <td> @HI{{kotoba}}                                            </td>
+   <td> language; word                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{one^day^in}}                                        </td>
+   <td> @HI{{ichinichijuu}}                                      </td>
+   <td> all day long                                             </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{by*means*of^outside}}                               </td>
+   <td> @HI{{igai}}                                              </td>
+   <td> with the exception of                                    </td>
+   <td> adv n                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{plains^ball}}                                       </td>
+   <td> @HI{{yakyuu}}                                            </td>
+   <td> baseball                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{reflect^brush-stroke}}                              </td>
+   <td> @HI{{eiga}}                                              </td>
+   <td> film                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{empty^hand}}                                        </td>
+   <td> @HI{{karate}}                                            </td>
+   <td> karate                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{inn^topic}}                                         </td>
+   <td> @HI{{shukudai}}                                          </td>
+   <td> homework                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{every^nightfall}}                                   </td>
+   <td> @HI{{maibann}}                                           </td>
+   <td> every evening                                            </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{continue}}@HI{{keru}}                               </td>
+   <td> @HI{{tsudukeru}}                                         </td>
+   <td> to continue                                              </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{quandary}}@HI{{ru}}                                 </td>
+   <td> @HI{{komaru}}                                            </td>
+   <td> to be troubled                                           </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{remainder}}@HI{{su}}                                </td>
+   <td> @HI{{nokosu}}                                            </td>
+   <td> to leave (behind)                                        </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{matter}}                                            </td>
+   <td> @HI{{goto}}                                              </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{cold}}@HI{{i}}                                      </td>
+   <td> @KJ{{samui}}                                             </td>
+   <td> cold                                                     </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{large^fond^thing}}                                  </td>
+   <td> @HI{{daikoubutsu}}                                       </td>
+   <td> one's favourite food                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{stone^oil}}                                         </td>
+   <td> @HI{{sekiyu}}                                            </td>
+   <td> oil                                                      </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{astray}}@HI{{u}}                                    </td>
+   <td> @HI{{mayou}}                                             </td>
+   <td> to lose one's way                                        </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <!-- Unit 11 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
