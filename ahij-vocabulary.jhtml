@@ -878,6 +878,121 @@
  </tr>
  <!-- Unit 9 -->
  <tr>
+   <td> @KJ{{bottom}}                                            </td>
+   <td> @HI{{soko}}                                              </td>
+   <td> bottom                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{iron}}                                              </td>
+   <td> @HI{{tetsu}}                                             </td>
+   <td> iron                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{warm^degrees}}                                      </td>
+   <td> @HI{{ondo}}                                              </td>
+   <td> temperature                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{lumber^fee}}                                        </td>
+   <td> @HI{{zairyou}}                                           </td>
+   <td> ingredients; materials                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{whole^somebody}}                                    </td>
+   <td> @HI{{zenshinn}}                                          </td>
+   <td> whole body                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{coin^hot*water}}                                    </td>
+   <td> @HI{{sentou}}                                            </td>
+   <td> public bath-house                                        </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{once*upon*a*time}}                                  </td>
+   <td> @HI{{mukashi}}                                           </td>
+   <td> olden days                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{turn^pedestal}}                                     </td>
+   <td> @HI{{bandai}}                                            </td>
+   <td> attendant's booth (e.g. onsen)                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{in^year}}                                           </td>
+   <td> @HI{{chuunenn}}                                          </td>
+   <td> middle-age                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{male^hot*water}}                                    </td>
+   <td> @HI{{otokoyu}}                                           </td>
+   <td> men's section in a public bath                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fee^gold}}                                          </td>
+   <td> @HI{{ryoukinn}}                                          </td>
+   <td> fee                                                      </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{pay}}@HI{{u}}                                       </td>
+   <td> @HI{{harau}}                                             </td>
+   <td> to pay                                                   </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{undress^garment^place}}                             </td>
+   <td> @HI{{datusijo}}                                          </td>
+   <td> dressing room                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wall}}                                              </td>
+   <td> @HI{{kabe}}                                              </td>
+   <td> wall                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wealth^gentleman^mountain}}                         </td>
+   <td> @HI{{fujisann}}                                          </td>
+   <td> Mt. Fuji                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sketch}}@HI{{ku}}                                   </td>
+   <td> @HI{{kaku}}                                              </td>
+   <td> to sketch                                                </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{evening^refreshing}}@HI{{mi}}                       </td>
+   <td> @HI{{yuusuzumi}}                                         </td>
+   <td> evening cool                                             </td>
+   <td> n; ns                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{think}}@HI{{i}}@KJ{{exit}}                          </td>
+   <td> @HI{{omoide}}                                            </td>
+   <td> memories                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{invariably^need}}                                   </td>
+   <td> @HI{{hitsuyou}}                                          </td>
+   <td> necessary; need                                          </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <!-- Unit 10 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
