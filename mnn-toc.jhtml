@@ -349,102 +349,13 @@ div.main {
 
 <ol>
 <li> @N{{}}@HI{{ga}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
-<li> @N{{place}}@HI{{ni}}<a href=="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}</a>
+<li> @N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
-<li> @N1{{}}@N2{{position}}
+<li> <a href="grammar-particle-no.html">@N1{{}}@N2{{position}}</a>
 <li> <a href="grammar-particle-ya.html">@N1@HI{{ya}}@N2{{}}</a>
-<li> <em>words</em>@HI{{desuka}}
-<li> @HI{{arimasenka}}
+<li> <a href="grammar-particle-ka.html"><em>words</em>@HI{{desuka}}</a>
+<li> <a href="grammar-arimasen-ka.html">@HI{{arimasenka}}</a>
 </ol>
-
-<h3><a name="existence">Existence: N ga @HI{{arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to indicate the existence or presence of a thing or a person. The thing or person
-is treated as the subject and marked with the particle @HI{{ga}}.<br/>
-@HI{{aru}} is used for inanimate or non-moving items; plants fall into this category.<br/>
-@HI{{iru}} is used for animate items, for example people and animals.
-</p>
-
-<h3><a name="exist-place">N<sub>place</sub> @HI{{ni}} N<sub>2</sub>
-@HI{{ga arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to inidcate that N<sub>2</sub> is present at location N<sub>1</sub>.
-</p>
-
-<h3><a name="exist-topic">N<sub>1</sub> @HI{{ha}} N<sub>place</sub>
-@HI{{ni arimasu/imasu}}</a></h3>
-
-<p>
-This sentence pattern is used to inidcate that N<sub>1</sub> is present at location N<sub>place</sub>.
-</p>
-
-<h3><a name="thing-no-place">N<sub>place,person,thing</sub>@HI{{no}}N<sub>position</sub></a></h3>
-
-<p>
-This sentence pattern is used to indicate where an item is relative to another noun.<br/>
-Some nouns denoting position are:
-@HI{{
-<ol>
-<li> ue
-<li> shita
-<li> mae
-<li> ushiro
-<li> migi
-<li> hidari
-<li> naka
-<li> soto
-<li> tonari
-<li> chikaku
-<li> aida
-</ol>
-}}
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{tsukue ue ni shashinn ga arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{yuubinnkyoku ha ginnkou no tonari arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{eki no chikaku de tomodachi ni aimasu.}}</td> </tr>
-</table>
-
-<p>
-Note that as these are place nouns they can sometimes take the particle @HI{{de}}, as shown
-in the third example sentence.
-</p>
-
-
-<h3><a name="ya">N<sub>1</sub> @HI{{ya}} N<sub>2</sub></a></h3>
-
-<p>
-@HI{{ya}} is used to link nouns in a non-exhaustive list. This is in contrast to
-@HI{{to}} which links nouns in an exhaustive list. Sometimes the last noun is followed by
-@HI{{nado}} to explictly indicate that there some other items not enumerated in the list.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{hako no naka ni tegami ya shashinn ga arimasu.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{hako no naka ni tegami ya shashinn nado ga arimasu.}}</td> </tr>
-</table>
-
-<h3><a name="desu-ka">Word(s) @HI{{desu ka}}</a></h3>
-
-<p>
-@HI{{ka}} can be used to confirm using this pattern.
-</p>
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{sumimasenn. @KT{{yunyu-ya sutoa}} ha doko desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{yunyu-ya sutoa}} desu ka. ano
-  @KT{{bitu}} no nako desu.}}</td> </tr>
-</table>
-
-<h3><a name="arimasen-ka">@HI{{arimasenn ka}}</a></h3>
-
-<p>
-By using the negative form @HI{{arimasenn ka}} the speaker is being polite by preparing for a 
-possible negative answer.
-</p>
 
 <h2><a name="chapter11">Chapter 11</a></h2>
 
@@ -457,17 +368,14 @@ possible negative answer.
 
 <h2><a name="chapter12">Chapter 12</a></h2>
 
-<h3><a name="#na-adj-past">Past Tense of Noun and na-adjective Sentences</a></h3>
+<ol>
+<li> Past tense of noun and <a href="adjectives.html">@HI{{na}}-adjective</a> sentences
+<li> <a href="adjectives.html">Past tense of @HI{{i}}-adjective sentences</a>
+<li> Comparisons
+<li> Choosing between two items
+<li> Choosing  a superlative
+</ol>
 
-<p>
-See the <a href="adjectives.html">adjectives</a> page.
-</p>
-
-<h3><a name="i-adj-past">Past Tense of @HI{{i}}-adjective Sentences</a></h3>
-
-<p>
-See the <a href="adjectives.html">adjectives</a> page.
-</p>
 
 <h3><a name="yori-adj">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{yori}} adjective 
 @HI{{desu}}</a></h3>
@@ -509,6 +417,15 @@ and may be one of @HI{{nani}}, @HI{{doko}}, @HI{{dare}} and
 </p>
 
 <h2><a name="chapter13">Chapter 13</a></h2>
+
+<ol>
+<li> @HI{{hoshii}}
+<li> @Vmasustem{{}}@HI{{tai}}
+<li> @Vmasustem{{}}@HI{{ni}} @V{{motion}}
+<li> <a href="grammar-particle-ni.html">Goal: @N{{}}@HI{{ni}}@V{{}}</a>
+<li> @HI{{dokoka}}, @KJ{{what}}@HI{{ka}}
+<li> @HI{{go}}@KJ{{pour^sentence}}
+</ol>
 
 <h3><a name="hoshii">N @HI{{ga hoshii desu}}</a></h3>
 

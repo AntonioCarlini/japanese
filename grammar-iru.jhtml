@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{iru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{iru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ga}} <strong>@HI{{iru}}</strong>
+<li> @N1{{location}} @HI{{ni}} @N2{{}} @HI{{ga}} <strong>@HI{{iru}}</strong>
+<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} <strong>@HI{{iru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{iru}}</strong> is used when discussing living animate things; <a href="grammar-aru.html">@HI{{aru}}</a>
+is used for plants and inanimate objects.
+</p>
+
+<p>
+In the first sentence pattern the existence or presences of someone or something is stated. The thing that exists is marked with @HI{{ga}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{male}}no@KJ{{person}}ga<strong>imasu</atrong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a man.
+  </td> </tr>
+</table>
+<hrule>
+</p>
+
+<p>
+In the second sentence pattern, a location is presented and <strong>@HI{{iru}}</strong>
+focuses on what exists. @HI{{ni}} may be dropped.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{matter^task^place}}ni@KT{{mira-}}sanga<strong>imasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller is in the office.
+  </td> </tr>
+</table>
+<hrule>
+</p>
+
+<p>
+In the third sentence pattern, a thing is presented as the topic and <strong>@HI{{iru}}</strong>
+focuses on where that thing is.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha@KJ{{matter^task^place}}ni<strong>imasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller is in the office.
+  </td> </tr>
+</table>
+<hrule>
+</p>
+
+<p>
+Note that <strong>@HI{{iru}}</strong> uses @HI{{ga}} to mark its object and not @HI{{wo}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 153).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
