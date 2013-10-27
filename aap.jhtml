@@ -21,12 +21,12 @@
 <tr>
   <td class="">  1 </td>
   <td class=""> <a href="grammar-particle-wa.html">@HI{{ha}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="">  2 </td>
   <td class=""> <a href="grammar-particle-ga.html">@HI{{ga}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="">  3 </td>
@@ -35,8 +35,8 @@
 </tr>
 <tr>
   <td class="">  4 </td>
-  <td class=""> @HI{{temo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-te-mo.html">@HI{{temo}}</a> </td>
+  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="">  5 </td>
@@ -135,8 +135,8 @@
 </tr>
 <tr>
   <td class=""> 24 </td>
-  <td class=""> @HI{{nomi}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-nomi.html">@HI{{nomi}}</a> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 25 </td>
@@ -145,8 +145,8 @@
 </tr> 
 <tr>
   <td class=""> 26 </td>
-  <td class=""> @HI{{node}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-node.html">@HI{{node}}</a> </td>
+  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 27 </td>
@@ -215,8 +215,8 @@
 </tr>
 <tr>
   <td class=""> 40 </td>
-  <td class=""> @HI{{nagara}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-nagara.html">@HI{{nagara}}</a> </td>
+  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 41 </td>

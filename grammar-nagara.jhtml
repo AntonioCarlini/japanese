@@ -19,14 +19,10 @@
 
 <h2> Definition </h2>
 
+<p>
 This sentence pattern means that two actions (@V1{{}} and @V2{{}}) are being performed at the same time.
 The action in the main clause, @V2{{}}, is the more emphasised of the two.
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{sound^music}}wo @KJ{{hear}}ki<strong>nagara</strong> @KJ{{eat^matter}}shimasu.}}
@@ -35,23 +31,40 @@ The action in the main clause, @V2{{}}, is the more emphasised of the two.
       I listen to music while eating.
   </td> </tr>
 </table>
-</ol>
+<p>
+
+<p>
+@HI{{nagara}} can be used between two clauses to emphasise that they are opposite in meaning.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}ha@KJ{{study^life}}niha@KJ{{slow^engrave}}woshinaiyounito@KJ{{say}}nagara,
+      @KJ{{oneself^part}}haitsumo@KJ{{slow}}rete@KJ{{study^mingle}}he@KJ{{come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      even though that teacher tells her students not to be late, she herself is always late in coming to school.
+  </td> </tr>
+</table>
+<p>
 
 <h2> Notes </h2>
 
+<p>
 <strong>@HI{{nagara}}</strong> expresses the fact that an action occurs at the same time as another action.
 The action marked by <strong>@HI{{nagara}}</strong> is the secondary action.
-<p></p>
+</p>
 
+<p>
 If the subjects of the two verbs are different, <strong>@HI{{nagara}}</strong> cannot be used.
 A possible alternative in this case would be <a href="grammar-aida.html">@HI{{aida}}</a>.
-<p></p>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{DOBJG}}. (p 269).
+<li> @REF{{AAP}}. (p.107).
 </ol>
 
 <br/><br/>

@@ -130,6 +130,7 @@ JHTML_SRCS += grammar-particle-nado.jhtml
 JHTML_SRCS += grammar-particle-ne.jhtml
 JHTML_SRCS += grammar-particle-ni.jhtml
 JHTML_SRCS += grammar-particle-no.jhtml
+JHTML_SRCS += grammar-particle-nomi.jhtml
 JHTML_SRCS += grammar-particle-sa.jhtml
 JHTML_SRCS += grammar-particle-sae.jhtml
 JHTML_SRCS += grammar-particle-sentence-ending-wa.jhtml

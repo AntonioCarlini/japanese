@@ -33,6 +33,10 @@ expected from the main clause.
 @HI{{ikura}} stresses the degree of conditionality.
 </p>
 
+<p>
+@HI{{temo}} can be used to emphasise an approximate limit: !at most".
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -72,6 +76,15 @@ expected from the main clause.
       No matter how expensive it is I will buy it.
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{turf^reside}}ha@KJ{{long}}kutemo3@KJ{{time^interval}}de@KJ{{end}}warimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That play will finish in 3 hours at most.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
@@ -81,7 +94,7 @@ expected from the main clause.
 </p>
 
 <p>
-With a WH word @HI{{te mo}} means "no matter WH".
+With a WH word @HI{{temo}} means "no matter WH".
 </p>
 
 <h2> References </h2>
@@ -89,7 +102,8 @@ With a WH word @HI{{te mo}} means "no matter WH".
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 25).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @REF{{DOBJG}}. (p 468).
+<li> @REF{{DOBJG}}. (p. 468).
+<li> @REF{{AAP}}. (p. 29).
 </ol>
 
 <br/><br/>
