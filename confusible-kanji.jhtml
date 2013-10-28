@@ -84,12 +84,21 @@ table.example th.wide {
  <tr> <td> 1002   </td> <td class="kanji"> @KJ{{borough/municipality}}       </td> <td> borough/municipality            </td> </tr>
 </table>
 
-<h2> repress </h2>
+<h2> repress, resist </h2>
 
 <table class="example">
  <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
  <tr> <td> 1700   </td> <td class="kanji"> @KJ{{repress}}                    </td> <td> repress                         </td> </tr>
  <tr> <td> 1832   </td> <td class="kanji"> @KJ{{resist}}                     </td> <td> resist                          </td> </tr>
+</table>
+
+<h2> exam, examination, verififcation </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td> 1278   </td> <td class="kanji"> @KJ{{exam}}                       </td> <td> exam                            </td> </tr>
+ <tr> <td> 1673   </td> <td class="kanji"> @KJ{{examination}}                </td> <td> examination                     </td> </tr>
+ <tr> <td> 1980   </td> <td class="kanji"> @KJ{{verification}}               </td> <td> verification                    </td> </tr>
 </table>
 
 </body>
