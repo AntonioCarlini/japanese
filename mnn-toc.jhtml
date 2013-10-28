@@ -341,7 +341,7 @@ div.main {
 <li> <a href="grammar-kosoado.html"> @HI{{donna}} N</a>
 <li> <a href="grammar-adverbs-of-degree.html">@HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/
     @KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}</a>
-<li> <a href="grammar-partcile-kara.html">@S1{{}}@HI{{kara,}}@S2{{}}</a>
+<li> <a href="grammar-particle-kara.html">@S1{{}}@HI{{kara,}}@S2{{}}</a>
 <li> <a href="grammar-dou.html">@HI{{doushite}}</a>
 </ol>
 
@@ -369,52 +369,12 @@ div.main {
 <h2><a name="chapter12">Chapter 12</a></h2>
 
 <ol>
-<li> Past tense of noun and <a href="adjectives.html">@HI{{na}}-adjective</a> sentences
+<li> Past tense of <a href="grammar-noun-sentences.html">noun</a> and <a href="adjectives.html">@HI{{na}}-adjective</a> sentences
 <li> <a href="adjectives.html">Past tense of @HI{{i}}-adjective sentences</a>
-<li> Comparisons
-<li> Choosing between two items
-<li> Choosing  a superlative
+<li> <a href="adjectives.html#comparisons">Comparisons</a>
+<li> <a href="grammar-choosing.html">Choosing between two items</a>
+<li> <a href="adjectives.html#superlatives">Choosing a superlative</a>
 </ol>
-
-
-<h3><a name="yori-adj">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{yori}} adjective 
-@HI{{desu}}</a></h3>
-
-<p>
-This sentence pattern describes the quality or state of N<sub>1</sub> in comparison to N<sub>2</sub>.
-
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{kono kuruma ha ano kuruma <em>yori</em> @KJ{{ookii}}kii desu.}}</td> </tr>
-</table>
-</p>
-
-<h3><a name="no-hou-ga">N<sub>1</sub>@HI{{to}} N<sub>2</sub>@HI{{to dochira ga}} adjective @HI{{desu ka.}}</a></h3>
-
-<p>
-The question asks the listener to choose between two items; the interrogative @HI{{dochira}} is used
-since two items are invovled.
-<table class="sentence">
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} to yakyuu to <em>dochira</em> ga omoshiroi 
-	desu ka.}}</td> </tr>
-  <tr class="jp"> <td> @HI{{@KT{{sakka-}} <em>no hou ga</em> omoshiroi desu.}} </td> </tr>
-</table>
-</p>
-
-<h3><a name="ichiban">N @HI{{no naka de}} interrogative @HI{{ ga ichibann}}
- adjective @HI{{desu ka.}}</a></h3>
-
-<p>
-This sentence pattern is used to ask the listener to select the "best". The interrogative used depends on the category
-and may be one of @HI{{nani}}, @HI{{doko}}, @HI{{dare}} and
-@HI{{itsu}}.
-
-<table class="sentence">
-  <tr class="jp"> <td>@HI{{nihonn ryouri no naka de nani ga ichibann oishii desu ka.}} </td> </tr>
-  <tr class="jp"> <td>@HI{{tennpura ga ichibann oishii desu.}} </td> </tr>
-  <tr class="jp"> <td>@KT{{E-roppa}} @HI{{de doko ga ichibann yokatta desu ka.}}</td></tr>
-  <tr class="jp"> <td>@KT{{suisu}} @HI{{ga ichibann yokatta desu.}}</td></tr>
-</table>
-</p>
 
 <h2><a name="chapter13">Chapter 13</a></h2>
 

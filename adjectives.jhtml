@@ -174,28 +174,58 @@ Adjective sentences form questions in the same way as noun or verb sentences: by
  </tr>
 </table>
 
-<h1>Comparatives</h1>
+<h1><a name="comparisons">Comparatives<a/></h1>
 
 <p>
 In a comparison the other item is marked with @HI{{yori}} and the adjective is left unchanged.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{east^capital}}ha @KT{{rondonn}}yori @KJ{{large}}ki desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Tokyo is larger than London.
+  </td> </tr>
+</table>
 </p>
 
-<TBD - needs katakana>
+<h1><a name="superlatives">Superlatives</a></h1>
 
-<table class="sentence" border=0>
-  <tr> <td> @HI{{toukyou ha rondonn yori ooki desu. }} </td> </tr>
-  <tr class="eigo"> <td> Tokyo is bigger than London. </td> </tr>
-  <tr> <td> &nbsp; </td> </tr>
-  <tr> <td> @HI{{nihongo ha doitsugo yori kanntann desu. }} </td> </tr>
-  <tr class="eigo"> <td> Japanese is simpler than German. </td> </tr>
+<p>
+To ask the listener to choose some thing that possesses the "most" of some quality, within some set @N1{{}}, use the 
+following sentence pattern:
+
+<br/><br/>
+@N1{{}}[@HI{{no@KJ{{in}}de}}] <em>interrogative</em>@HI{{ga ichibann}} <em>adjective</em> @HI{{desuka}}
+<br/><br/>
+
+The reply should be of the form:
+
+<br/><br/>
+@N2{{}} </em>@HI{{ga ichibann}} <em>adjective</em> @HI{{desu}}
+<br/><br/>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@KJ{{house^tribe}}no@KJ{{in}}de darega ichibann @KJ{{stature}}ga@KJ{{tall}}idesuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@KJ{{younger*brother}}gaichibann@KJ{{stature}}ga@KJ{{tall}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Who is the tallest in your family?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: My younger brother is.
+  </td> </tr>
 </table>
-
-<h1>Superlatives</h1>
+</p>
 
 <h1>References</h1>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
 </body>

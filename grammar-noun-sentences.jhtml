@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Noun Sentences</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Noun Sentences</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{desu}}.
+<li> @N{{}}@HI{{da}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+A noun sentence is one which ends in a noun followed by a form of the <a href="grammar-copula.html">copula</a>.
+The copula inflects to express the politeness level and whether the sentence is in the past or in the negative.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kinouha@KJ{{rain}}deshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday it rained.
+  </td> </tr>
+</table>
+<br/><br/>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kinouno@KJ{{test^verification}}ha @KJ{{simplicity^simple}}jaarimasendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday's exam was not easy.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

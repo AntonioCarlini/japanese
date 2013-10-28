@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Choices</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Choosing Between Two Items</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}@HI{{to}}@N2{{}}@HI{{dochiraga}} <em>adjective</em> @HI{{desuka.}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This question lists two items, @N1{{}} and @N2{{}}, and asks the listener to select the "more" <em>adjective</em> of the pair.
+The interrogative @HI{{dochira}} is used because two items are presented. Note that @HI{{to}} follows <em>each</em> of the nouns
+involved.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{north^sea^road-way}}to@KJ{{large^heights}}todochiraga@KJ{{refreshing}}shiidesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Which is cooler, Hokkaido or Osaka?
+  </td> </tr>
+</table>
+<br/><br/>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}santo@KT{{santosu}}santodochiraga@KT{{tenisu}}ga@KJ{{above^hand}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Who is the better tennis player, Mr. Miller or Mr. Santos?
+  </td> </tr>
+</table>
+<br/><br/>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
