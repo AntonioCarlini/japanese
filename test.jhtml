@@ -9,7 +9,7 @@
 
 <h1>Tests</h1>
 
-<h2> Formating tests </h2>
+<h2> Kana Formating tests </h2>
 
 Tests here </br>
 
@@ -26,6 +26,46 @@ Test lines:</br>
 @HI{{ sore ha @KJ{{hon}} desu ka.}}</br>
 
 @HI{{shou}}</br>
+
+<h2> Special Formating tests </h2>
+
+<table class="example">
+<tr> <th> Code                                    </th> <th> result              </th> </tr>
+<tr> <td> @masustem&#x7B;&#x7B;&#x7D;&#x7D;       </td> <td> @masustem{{}}       </td> </tr>
+<tr> <td> @V1&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V1{{}}             </td> </tr>
+<tr> <td> @V2&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V2{{}}             </td> </tr>
+<tr> <td> @V3&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V3{{}}             </td> </tr>
+<tr> <td> @V4&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V4{{}}             </td> </tr>
+<tr> <td> @V5&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V5{{}}             </td> </tr>
+<tr> <td> @V6&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V6{{}}             </td> </tr>
+<tr> <td> @V7&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V7{{}}             </td> </tr>
+<tr> <td> @1D&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @1D{{}}             </td> </tr>
+<tr> <td> @5D&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @5D{{}}             </td> </tr>
+<tr> <td> @Nplace&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Nplace{{}}         </td> </tr>
+<tr> <td> @N3&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @N3{{text}}         </td> </tr>
+<tr> <td> @V5&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @V5{{text}}         </td> </tr>
+<tr> <td> @S3&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @S3{{text}}         </td> </tr>
+<tr> <td> @S&#x7B;&#x7B;&#x7D;&#x7D;              </td> <td> @S{{}}              </td> </tr>
+<tr> <td> @Splain&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Splain{{}}         </td> </tr>
+<tr> <td> @Vplain&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Vplain{{}}         </td> </tr>
+<tr> <td> @Vru&#x7B;&#x7B;&#x7D;&#x7D;            </td> <td> @Vru{{}}            </td> </tr>
+<tr> <td> @Vnai&#x7B;&#x7B;&#x7D;&#x7D;           </td> <td> @Vnai{{}}           </td> </tr>
+<tr> <td> @Vnaistem&#x7B;&#x7B;&#x7D;&#x7D;       </td> <td> @Vnaistem{{}}       </td> </tr>
+<tr> <td> @Vmasu&#x7B;&#x7B;&#x7D;&#x7D;          </td> <td> @Vmasu{{}}          </td> </tr>
+<tr> <td> @Vmasustem&#x7B;&#x7B;&#x7D;&#x7D;      </td> <td> @Vmasustem{{}}      </td> </tr>
+<tr> <td> @Vte&#x7B;&#x7B;&#x7D;&#x7D;            </td> <td> @Vte{{}}            </td> </tr>
+<tr> <td> @Vta&#x7B;&#x7B;&#x7D;&#x7D;            </td> <td> @Vta{{}}            </td> </tr>
+<tr> <td> @Vteiru&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Vteiru{{}}         </td> </tr>
+<tr> <td> @Vba&#x7B;&#x7B;&#x7D;&#x7D;            </td> <td> @Vba{{}}            </td> </tr>
+<tr> <td> @Vyou&#x7B;&#x7B;&#x7D;&#x7D;           </td> <td> @Vyou{{}}           </td> </tr>
+<tr> <td> @Vrareru&#x7B;&#x7B;&#x7D;&#x7D;        </td> <td> @Vrareru{{}}        </td> </tr>
+<tr> <td> @Vsaseru&#x7B;&#x7B;&#x7D;&#x7D;        </td> <td> @Vsaseru{{}}        </td> </tr>
+<tr> <td> @Ai&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @Ai{{}}             </td> </tr>
+<tr> <td> @Aistem&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Aistem{{}}        </td> </tr>
+<tr> <td> @Ana&#x7B;&#x7B;&#x7D;&#x7D;            </td> <td> @Ana{{}}           </td> </tr>
+<tr> <td> @Anastem&#x7B;&#x7B;&#x7D;&#x7D;        </td> <td> @Anastem{{}}       </td> </tr>
+
+</table>
 
 <br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.

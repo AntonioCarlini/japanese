@@ -46,6 +46,11 @@ def handle_cli(file, op)
   return file, op
 end
 
+def apply_grammar(text)
+  span_open = '<span class="grammar">'
+  return "#{span_open}#{text}</span>"
+end
+
 def processing()
 
   file,op = handle_cli(file, op)
@@ -86,7 +91,7 @@ def processing()
         style = $1
         brkt = $2
         case $1
-        when /^masustem$/ then "<sub><del>#{convert_to_hiragana('masu')}</del></sub>"
+        when /^masustem$/ then apply_grammar("<sub><del>#{convert_to_hiragana('masu')}</del></sub>")
         when "V1"   then "V<sub>1</sub>"
         when "V2"   then "V<sub>2</sub>"
         when "V3"   then "V<sub>3</sub>"
@@ -96,41 +101,35 @@ def processing()
         when "V7"   then "V<sub>#{convert_to_hiragana('ta')}</sub>"
         when "1D"   then "#{convert_to_kanji('ichi^dan')}"
         when "5D"   then "#{convert_to_kanji('go^dan')}"
-        when "Nplace"   then "N<sub>place</sub>"
-        when /(V|N)\d?/  then
+        when "Nplace"   then apply_grammar("N<sub>place</sub>")
+        when /^(S|V|N)\d?$/  then
           string = $1
           sub = style[1..-1] # lose first character
           string += "<sub>#{sub}</sub>" unless sub.nil?() || sub.empty?()
           string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
-          string
-
-        when /S\d?/  then
-          sub = style[1..-1] # lose first character
-          string = "S<sub>#{sub}</sub>"
-          string += "(#{brkt})" unless brkt.nil?() || brkt.empty?()
-          string
+          apply_grammar(string)
 
           # forms based on those used in Nihongo So-Matome
-        when "S"           then "S"                                            # sentence (either plain or polite)
-        when "Splain"      then "S<sub>plain</sub>"                            # plain form sentence
-        when "Vplain"      then "V<sub>plain</sub>"                            # plain form
-        when "Vru"         then "V#{convert_to_hiragana('ru')}"                # dictionary form
-        when "Vnai"        then "V#{convert_to_hiragana('nai')}"               # negative
-        when "Vnaistem"    then "V<del>#{convert_to_hiragana('nai')}</del>"    # negative stem
-        when "Vmasu"       then "V#{convert_to_hiragana('masu')}"              # masu form
-        when "Vmasustem"   then "V<del>#{convert_to_hiragana('masu')}</del>"   # masu stem
-        when "Vte"         then "V#{convert_to_hiragana('te')}"                # te-form
-        when "Vta"         then "V#{convert_to_hiragana('ta')}"                # past
-        when "Vteiru"      then "V#{convert_to_hiragana('teiru')}"             # te iru form
-        when "Vba"         then "V#{convert_to_hiragana('ba')}"                # ba (conditional)
-        when "Vyou"        then "V#{convert_to_hiragana('you')}"               # volitional
-        when "Vreru"       then "V#{convert_to_hiragana('reru')}"              # potential
-        when "Vrareru"     then "V#{convert_to_hiragana('rareru')}"            # passive
-        when "Vsaseru"     then "V#{convert_to_hiragana('saseru')}"            # causative
-        when "Ai"          then "A-#{convert_to_hiragana('i')}"                # i-adjective
-        when "Aistem"      then "A-<del>#{convert_to_hiragana('i')}</del>"     # i-adjective stem
-        when "Ana"         then "A-#{convert_to_hiragana('na')}"               # na-adjective
-        when "Anastem"     then "A-<del>#{convert_to_hiragana('na')}</del>"    # na-adjective stem
+        when "S"           then apply_grammar("S")                                            # sentence (either plain or polite)
+        when "Splain"      then apply_grammar("S<sub>plain</sub>")                            # plain form sentence
+        when "Vplain"      then apply_grammar("V<sub>plain</sub>")                            # plain form
+        when "Vru"         then apply_grammar("V#{convert_to_hiragana('ru')}")                # dictionary form
+        when "Vnai"        then apply_grammar("V#{convert_to_hiragana('nai')}")               # negative
+        when "Vnaistem"    then apply_grammar("V<del>#{convert_to_hiragana('nai')}</del>")    # negative stem
+        when "Vmasu"       then apply_grammar("V#{convert_to_hiragana('masu')}")              # masu form
+        when "Vmasustem"   then apply_grammar("V<del>#{convert_to_hiragana('masu')}</del>")   # masu stem
+        when "Vte"         then apply_grammar("V#{convert_to_hiragana('te')}")                # te-form
+        when "Vta"         then apply_grammar("V#{convert_to_hiragana('ta')}")                # past
+        when "Vteiru"      then apply_grammar("V#{convert_to_hiragana('teiru')}")             # te iru form
+        when "Vba"         then apply_grammar("V#{convert_to_hiragana('ba')}")                # ba (conditional)
+        when "Vyou"        then apply_grammar("V#{convert_to_hiragana('you')}")               # volitional
+        when "Vreru"       then apply_grammar("V#{convert_to_hiragana('reru')}")              # potential
+        when "Vrareru"     then apply_grammar("V#{convert_to_hiragana('rareru')}")            # passive
+        when "Vsaseru"     then apply_grammar("V#{convert_to_hiragana('saseru')}")            # causative
+        when "Ai"          then apply_grammar("A-#{convert_to_hiragana('i')}")                # i-adjective
+        when "Aistem"      then apply_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
+        when "Ana"         then apply_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
+        when "Anastem"     then apply_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
         when /^(HI|KT|KJ|REF)$/
           # These codes should be left alone ... they'll be handled below
           string = "@#{style}{{#{brkt}}}"
