@@ -44,6 +44,7 @@ Test lines:</br>
 <tr> <td> @Nplace&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Nplace{{}}         </td> </tr>
 <tr> <td> @N3&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @N3{{text}}         </td> </tr>
 <tr> <td> @V5&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @V5{{text}}         </td> </tr>
+<tr> <td> @V&#x7B;&#x7B;text&#x7D;&#x7D;          </td> <td> @V{{text}}          </td> </tr>
 <tr> <td> @S3&#x7B;&#x7B;text&#x7D;&#x7D;         </td> <td> @S3{{text}}         </td> </tr>
 <tr> <td> @S&#x7B;&#x7B;&#x7D;&#x7D;              </td> <td> @S{{}}              </td> </tr>
 <tr> <td> @Splain&#x7B;&#x7B;&#x7D;&#x7D;         </td> <td> @Splain{{}}         </td> </tr>

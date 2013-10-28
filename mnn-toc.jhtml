@@ -70,177 +70,12 @@ div.main {
 </div>
 
 <div class="main">
-<!-- update TOC as chapters are completed -->
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<h1>@HI{{minnna no}} @KJ{{day^book^word}} &#x521d;@KJ{{class}} II</h1>
-
-<div class="toc">
-<h1>Table of Contents</h1>
-<ol>
-</ol>
-<li><a href="#chapter1">Chapter 1</a>
-<li class="h3"><a href="#wa-desu">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{desu}}</a>
-<li><a href="#chapter2">Chapter 2</a>
-<li class="h3"><a href="#kosoado">@HI{{kosoado}} demontratives</a>
-<li class="h3"><a href="#kono-N">@HI{{kono}}N / @HI{{sono}}N / @HI{{ano}}N</a>
-<li class="h3"><a href="#sou-desu">@HI{{sou desu /sou jya arimasenn}}</a>
-<li class="h3"><a href="#ka-ka">S1 @HI{{ka,}} S2 @HI{{ka}}</a>
-<li class="h3"><a href="#N1-no-N2">N<sub>1</sub> @HI{{no}} N<sub>2</sub></a>
-<li class="h3"><a href="#sou-desu-ka">@HI{{sou desu ka}}</a>
-<li><a href="#chapter3">Chapter 3</a>
-<li class="h3"><a href="#kochira">@HI{{koko/soko/asoko/kochira/sochira/achira}}</a>
-<li class="h3"><a href="#doko-dochira">@HI{{doko/dochira}}</a>
-<li><a href="#chapter4">Chapter 4</a>
-<li class="h3"><a href="#time">Time
-<li class="h3"><a href="#masu">V@HI{{masu}}</a>
-<li class="h3"><a href="#masen">@HI{{masu, masenn, mashita, masenn deshita}}</a>
-<li class="h3"><a href="#time-ni">N<sub>time</sub> @HI{{ni}} V</a>
-<li class="h3"><a href="#kara-made">N<sub>1</sub>@HI{{kara}} N@HI{{2}} @HI{{made}}</a>
-<li class="h3"><a href="#ne">S @HI{{ne}}</a>
-<li><a href="#chapter5">Chapter 5</a>
-<li class="h3"><a href="#place-he">N<sub>place</sub> @HI{{he}} @KJ{{i}}@HI{{kimasu}}/@KJ{{ku}}@HI{{masu}}/
-@KJ{{kae}}@HI{{rimasu}}</a>
-<li class="h3"><a href="#mo-negative">interrogative + @HI{{mo}} + negative verb</a>
-<li class="h3"><a href="#vehicle-de">N<sub>vehicle</sub> @HI{{de}} V<sub>motion</motion></a>
-<li class="h3"><a href="#person-to">N<sub>person</sub> or N<sub>animal</sub> @HI{{to}}</a>
-<li class="h3"><a href="#itsu">@HI{{itsu}}</a>
-<li class="h3"><a href="#yo">S @HI{{yo}}</a>
-<li><a href="#chapter6">Chapter 6</a>
-<li class="h3"><a href="#wo-V">N @HI{{wo}} V<sub>transitive</sub></a>
-<li class="h3"><a href="#wo-shimasu">N @HI{{wo shimasu}}</a>
-<li class="h3"><a href="#nani-wo">@HI{{nani wo shimasu ka}}</a>
-<li class="h3"><a href="#nani-vs-nan">@HI{{nani}} and @HI{{nann}}</a></a>
-<li class="h3"><a href="#place-de">N<sub>place</sub> @HI{{he}} v</a>
-<li class="h3"><a href="#masen-ka">V @HI{{masen ka}}</a>
-<li class="h3"><a href="#mashou-ka">V @HI{{mashou ka}}</a>
-<li><a href="#chapter7">Chapter 7</a>
-<li class="h3"><a href="#tool-de">N<sub>tool/means</sub> @HI{{de}}</a>
-<li class="h3"><a href="#word-sentence">Word Sentence</a>
-<li class="h3"><a href="#ni-agemasu">N<sub>person</sub> @HI{{ni arimasu}}</a>
-<li class="h3"><a href="#ni-moraimasu">N<sub>person</sub> ni moraimasu</a>
-<li class="h3"><a href="#mou-V">@HI{{mou>}} V @HI{{mashita}}</a>
-<li><a href="#chapter8">Chapter 8</a>
-<li class="h3"><a href="#adjectives">adjectives</a>
-<li class="h3"><a href="#totemo">@HI{{totemo, amari}}</a>
-<li class="h3"><a href="#dou-desu-ka">N @HI{{ha dou desu ka}}</a>
-<li class="h3"><a href="#donna">N<sub>1</sub> @HI{{donnna}} N<sub>2</sub> @HI{{desu ka}}</a>
-<li class="h3"><a href="#S-ga-S">S<sub>1</sub> @HI{{ga,}} S<sub>2</sub></a>
-<li class="h3"><a href="#dore">@HI{{dore}}</a>
-<li><a href="#chapter9">Chapter 9</a>
-<li class="h3"><a href="#donna-N">@HI{{donna}} N</a>
-<li class="h3"><a href="#daitai">@HI{{yoku}}, @HI{{daitai}} etc.</a>
-<li class="h3"><a href="#S-kara">S<sub>1</sub> @HI{{kara,}} S<sub>2</sub></a>
-<li class="h3"><a href="#doushite">@HI{{doushite}}</a>
-<li><a href="#chapter10">Chapter 10</a>
-<li class="h3"><a href="#existence">Existence: N @HI{{ga arimasu/imasu}}</a>
-<li class="h3"><a href="exist-place">N<sub>place</sub> @HI{{ni}} N<sub>2</sub> 
-@HI{{ga arimasu/imasu}}</a>
-<li class="h3"><a href="#exist-topic">N<sub>1</sub> ni N<sub>2(place)</sub> ga arimasu/imasu</a>
-<li class="h3"><a href="#thing-no-place">N<sub>place,person,thing</sub>@HI{{no}}N<sub>position</sub></a>
-<li class="h3"><a href="#ya">N1 @HI{{ya}} N2</a>
-<li class="h3"><a href="#desu-ka">Word(s) @HI{{desu ka}}</a>
-<li class="h3"><a href="#arimasen-ka">@HI{{arimasenn ka}}</a>
-<li><a href="#chapter11">Chapter 11</a>
-<li class="h3"><a href="#numbers">Numbers</a>
-<li class="h3"><a href="#counters">Counters</a>
-<li class="h3"><a href="#interrogatives">Interrogatives</a>
-<li class="h3"><a href="#kai">Quantifier<sub>period</sub> @HI{{ni ichi kai}} V</a>
-<li class="h3"><a href="#dake">Quantifier @HI{{dake}}/N @HI{{dake}}</a>
-<li><a href="#chapter12">Chapter 12</a>
-<li class="h3"><a href="#na-adj-past">Past Tense of Noun and @HI{{na}}-adjective Sentences</a>
-<li class="h3"><a href="#i-adj-past">Past Tense of @HI{{i}}-adjective Sentences</a>
-<li class="h3"><a href="#yori-adj">N<sub>1</sub> @HI{{ha}} N<sub>2</sub> @HI{{yori}}
-    adjective @HI{{desu}}</a>
-<li class="h3"><a href="#no-hou-ga">N<sub>1</sub>@HI{{to}} N<sub>2</sub>@HI{{to dochira ga}} adjective @HI{{desu ka.}}</a>
-<li class="h3"><a href="#ichiban">N @HI{{no naka de}} interrogative @HI{{ ga ichibann}}
- adjective @HI{{desu ka.}}</a>
-<li><a href="#chapter13">Chapter 13</a>
-<li class="h3"><a href="#hoshii">N @HI{{ga hoshii desu}}</a>
-<li class="h3"><a href="#tai-desu">-tai desu</a>
-<li class="h3"><a href="#purpose">N<sub>place</sub> @HI{{he}} V-@HI{{masu ni}} V<sub>motion</sub></a>
-<li class="h3"><a href="#goal">N @HI{{ni}} V/N @HI{{wo}} V</a>
-<li class="h3"><a href="#dokoka">@HI{{dokoka/nanika}}</a>
-<!-- unprocessed from here-->
-<li><a href="#chapter14">Chapter 14</a>
-<li class="h3"><a href="">Verb Conjugation</a>
-<li class="h3"><a href="">Verb Groups</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{kudasai}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{imasu}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{mashou ka}}</a>
-<li class="h3"><a href="">S<sub>1</sub> ga, S<sub>2</sub></a>
-<li class="h3"><a href="">N ga V</a>
-<li><a href="#chapter15">Chapter 15</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{mou ii desu}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{ha ikemasenn}}</a>
-<li class="h3"><a href="">Verb @HI{{te}}-form @HI{{imasu}}</a>
-<li class="h3"><a href="">shirimasen</a>
-<li><a href="#chapter16">Chapter 16</a>
-<li class="h3"><a href="">Connecting Verb Sentences with te-form</a>
-<li class="h3"><a href="">Joining i-adjectives</a>
-<li class="h3"><a href="">Joining N or na-adjectives</a>
-<li class="h3"><a href="">V1-te kara, V2</a>
-<li class="h3"><a href="">N1 ha N2 ga adjective</a>
-<li class="h3"><a href="">douyatte</a>
-<li class="h3"><a href="">dono N</a>
-<li><a href="#chapter17">Chapter 17</a>
-<li class="h3"><a href="">Verb nai form</a>
-<li class="h3"><a href="">naide kudasai</a>
-<li class="h3"><a href="">nakereba narimasen</a>
-<li class="h3"><a href="">nakuta mo ii desu</a>
-<li class="h3"><a href="">N<sub>object</sub>@HI{{ha}}</a>
-<li class="h3"><a href="">N<sub>time</sub>@HI{{made ni}} V</a>
-<li><a href="#chapter18">Chapter 18</a>
-<li class="h3"><a href="">Verb Dictionary Form</a>
-<li class="h3"><a href="">dekimasu</a>
-<li class="h3"><a href="">#3</a>
-<li class="h3"><a href="">#4</a>
-<li class="h3"><a href="">@HI{{nakanaka}}</a>
-<li class="h3"><a href="">@HI{{zehi}}</a>
-<li><a href="#chapter19">Chapter 19</a>
-<li class="h3"><a href="">Verb ta-form</a>
-<li class="h3"><a href="">Verb ta-form kotoga arimasu</a>
-<li class="h3"><a href="">Verb ta-form ri, V ta-form ri shimasu</a>
-<li class="h3"><a href="">narimasu</a>
-<li class="h3"><a href="">sou desu ne</a>
-<li><a href="#chapter20">Chapter 20</a>
-<li class="h3"><a href="#polite-vs-plain">Polite vs Plain Style</a>
-<li class="h3"><a href="#polite-plain-use">Proper Use of Polite and Plain Style</a>
-<li class="h3"><a href="#plain-conversation">Conversation in Plain Style</a>
-<li><a href="#chapter21">Chapter 21</a>
-<li class="h3"><a href="#to-omoimasu">@HI{{to moimasu}}</a>
-<li class="h3"><a href="#to-iimasu">@HI{{to iimasu}}</a>
-<li class="h3"><a href="#deshou">@HI{{deshou}}</a>
-<li class="h3"><a href="#to-be-held">N<sub>place</sub>@HI{{ de}} N<sub>2</sub> @HI{{ga arimasu}}</a>
-<li class="h3"><a href="#occasion">N<occasion> @HI{{de}}</a>
-<li class="h3"><a href="#N-de-mo">N @HI{{de mo}} V</a>
-<li class="h3"><a href="#nai-to">V-@HI{{nai to}}</a>
-<li><a href="#chapter22">Chapter 22</a>
-<li class="h3"><a href="#noun-modification">Noun Modification</a>
-<li class="h3"><a href="#noun-modification-by-sentence">Noun Modification by Sentences</a>
-<li class="h3"><a href="#N-ga-in-modifiers">N @HI{{ga}}</a>
-<li class="h3"><a href="#time-for-doing">V-dictionary @HI{{jikann/yakusoku/youji}}</a>
-<li><a href="#chapter23">Chapter 23</a>
-<li class="h3"><a href="#toki">@HI{{toki}}</a>
-<li class="h3"><a href="#toki-V">@HI{{toki}}</a>
-<li class="h3"><a href="#inevitable-to">@HI{{to}}</a>
-<li class="h3"><a href="#ga-scene">N @HI{{ga}} adjective/V</a>
-<li class="h3"><a href="#wo-passing">N<sub>place</sub> @HI{{wo}} V<sub>movement</sub></a>
-<li><a href="#chapter24">Chapter 24</a>
-<li class="h3"><a href="#kuremasu">@HI{{kuremasu}}</a>
-<li class="h3"><a href="#te-giving">V-@HI{{te}} ... (giving)</a>
-<li class="h3"><a href="">N<sub>person</sub> @HI{{ga}} V</a>
-<li class="h3"><a href="">Interrogative @HI{{ga}} V</a>
-<li><a href="#chapter25">Chapter 25</a>
-<li class="h3"><a href="#past-ra">Plain past ra</a>
-<li class="h3"><a href="#V-ta-ra">V-ta ra</a>
-<li class="h3"><a href="#V-te-mo">V-@HI{{te mo}}</a>
-<li class="h3"><a href="#moshi-ikura">@HI{{moshi}} and @HI{{ikura}}</a>
-<li class="h3"><a href="#subordinate-ga">N @HI{{ga}}</a>
-</div>
+<h1>@HI{{minnnano}}@KJ{{day^book^word^first*time^class}} I &amp; II</h1>
 
 <h2><a name="chapter1">Chapter 1</a></h2>
 
@@ -542,34 +377,18 @@ The purpose for the movement is expressed in this sentence pattern.
 <ol>
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
 <li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
-<li> @N{{}}@HI{{ga}} adjective
-<li> <a href="grammar-particle-wo.html"> @HI{{wo}} (particle) </a>
+<li> <a href="grammar-particle-ga.html">@N{{}}@HI{{ga}} <em>adjective</em> </a>
+<li> <a href="grammar-particle-wo.html"> @HI{{wo}} @V{{movement}} </a>
 </ol>
-
-
-<h3><a name="ga-scene">N @HI{{ga}} adjective/V</a></h3>
-
-<p>
-When describing a state or a scene, the subject is indicated by @HI{{ga}}.
-</p>
 
 <h2><a name="chapter24">Chapter 24</a></h2>
 
 <ol>
 <li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
 <li> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions </a>
-<li> @N{{person}}@HI{{ga}} @V{{}}
-<li> interrogative @HI{{ga}} @V{{}}
+<li> <a href="grammar-particle-ga.html">@N{{person}}@HI{{ga}} @V{{}}</a> (new information about existing topic)
+<li> <a href="grammar-particle-ga.html"><em>interrogative</em> @HI{{ga}} @V{{}}</a>
 </ol>
-
-<h3>N<sub>person</sub> @HI{{ga}} V</h3>
-
-<p>
-In reply to a statement or question, the converstaional partner offers new information.
-</p>
-
-
-<h3>Interrogative @HI{{ga}} V</h3>
 
 <h2><a name="chapter25">Chapter 25</a></h2>
 
@@ -578,7 +397,7 @@ In reply to a statement or question, the converstaional partner offers new infor
 <li> <a href="grammar-te-mo.html"> @HI{{te mo}} </a>
 <li> <a href="grammar-tara.html"> @HI{{moshi}} ... condition </a>
 <li> <a href="grammar-te-mo.html"> @HI{{ikura}} ... condition </a>
-<li> @HI{{ga}} and subordinate clauses
+<li> <a href="grammar-relative-clause.html">@HI{{ga}} and relative clauses</a>
 </ol>
 
 <h2><a name="chapter26">Chapter 26</a></h2>
