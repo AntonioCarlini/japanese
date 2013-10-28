@@ -214,75 +214,13 @@ div.main {
 <h2><a name="chapter13">Chapter 13</a></h2>
 
 <ol>
-<li> @HI{{hoshii}}
-<li> @Vmasustem{{}}@HI{{tai}}
-<li> @Vmasustem{{}}@HI{{ni}} @V{{motion}}
+<li> <a href="grammar-hoshii.html"> @HI{{hoshii}}</a>
+<li> <a href="grammar-tai.html"> @HI{{tai}} </a>
+<li> <a href="grammar-masu-ni.html">@Vmasustem{{}}@HI{{ni}} @V{{motion}}</a>
 <li> <a href="grammar-particle-ni.html">Goal: @N{{}}@HI{{ni}}@V{{}}</a>
-<li> @HI{{dokoka}}, @KJ{{what}}@HI{{ka}}
-<li> @HI{{go}}@KJ{{pour^sentence}}
+<li> <a href="grammar-interrogatives-with-particles.html">@HI{{dokoka}}, @KJ{{what}}@HI{{ka}}</a>
+<li> <a href="grammar-respect-markers.html">@HI{{go}}@KJ{{pour^sentence}}</a>
 </ol>
-
-<h3><a name="hoshii">N @HI{{ga hoshii desu}}</a></h3>
-
-<p>
-This sentence pattern is used to express the speaker's desire to possess an object. It can also be used
-to ask about what the speaker wants. The object is marked with the particle @HI{{ga}}.
-
-<table class="sentence">
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha tomodachi ga hoshii desu.}} </td> </tr>
-<tr class="jp"> <td>@HI{{ima nani ga ichibann hoshii desu ka.}}</td> </tr>
-<tr class="jp"> <td>@HI{{kuruma ga hoshii desu.}}</td></tr>
-</table>
-
-</p>
-
-<h3><a name="tai-desu"> -tai desu</a></h3>
-
-<p>
-The suffix @HI{{tai}} is attached to the @HI{{masu}} stem of a verb to form
-an expression that expresses the speaker's desire to do something. The particle @HI{{wo}} may
-be replaced by the particle @HI{{ga}} (other particles are not replaced). The @HI{{tai}} for conjugates as an @HI{{i}} adjective.
-
-<table class="sentence">
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha okinawa he ikitai desu.}} </td> </tr>
-<tr class="jp"> <td>@KJ{{watashi}} @HI{{ha tennpura ga tabetai desu.}} </td> </tr>
-<tr class="jp"> <td>@HI{{onaka ga itai desu kara, nanimo tabetakunai desu.}} </td></tr>
-</table>
-</p>
-
-<h3><a name="purpose"> N<sub>place</sub> @HI{{he}} V-@HI{{masu ni}} 
-    V<sub>motion</sub></a></h3>
-
-<p>
-The purpose for the movement is expressed in this sentence pattern.
-
-<table class="sentence">
-<tr class="jp"> <td>@HI{{kobe he @KT{{inndo}} ryouri wo <em>tabe</em> ni ikimasu.}}
-    </td></tr>
-</table>
-
-</p>
-
-<h3><a name="goal">N @HI{{ni}} V/N @HI{{wo}} V</a></h3>
-
-<p>
-<table class="sentence">
-  <tr class="jp"> <tr> <td>@HI{{7ji ni uchi wo demasu.}}</td></tr>
-</table>
-</p>
-
-<h3><a name="dokoka">@HI{{dokoka/nanika}}</a></h3>
-
-<p>
-@HI{{dokoka}} means "anywhere" or "somewhere".<br/>
-@HI{{nanika}} means "anything" or "something".<br/>
-
-<table class="sentence">
-  <tr class="jp"> <td>@HI{{fuyuyasumi ha dokoka he ikimashita ka.}}</td></tr>
-  <tr class="jp"> <td>@HI{{hai, ikimashita.}}</td></tr>
-  <tr class="jp"> <td>@HI{{nodo ga kawakimashita kara, nanika wo nomitaidesu.}}</td></tr>
-</table>
-</p>
 
 <h2><a name="chapter14">Chapter 14</a></h2>
 

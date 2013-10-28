@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hoshii}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{hoshii}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{hoshii}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{hoshii}}</strong> is an @HI{{i}}-adjective that expresses a desire for something. The experiencer is marked by @HI{{ha}}
+and the object that is desired is marked by @HI{{ga}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{car}}ga<strong>hoshii</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want a car.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+As <strong>@HI{{hoshii}}</strong> is a strong adjective of emotion, the experiencer is usually the speaker. The experiencer can be
+the listener if an interrogative form is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child}}domoga<strong>hoshii</strong>desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Do you want a child?
+  </td> </tr>
+</table>
+<br/><br/>
+
+In most cases where a third person is the experiencer, <strong>@HI{{hoshii}}</strong> 
+will be used with <a href="grammar-garu.html">@HI{{garu}}</a> in the form @HI{{hoshigatteiru}}. There are exceptions where
+<strong>@HI{{hoshii}}</strong> can be used with a third person:
+<ol>
+<li> with a past tense
+<li> in indirect speech
+<li> in explanatory situations
+<li> in expressions ofconjecture.
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 144).
+<li> @REF{{MNN-TR-I}}. (Chapter 13).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

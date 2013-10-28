@@ -224,6 +224,7 @@
 <h3> <a href="grammar-goro.html"> @HI{{goro}} </a> </h3>
 
 <h2> <a name="hi-ta">@HI{{ta}}</a> </h2>
+<h3> <a href="grammar-tai.html"> @HI{{tai}} </a> </h3>
 <h3> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a> </h3>
 <h3> <a href="grammar-ta-koto-ga-aru.html"> @Vta{{}} @HI{{koto ga aru}} </a> </h3>
 <h3> <a href="grammar-tara.html"> @HI{{tara}} </a> </h3>
@@ -352,6 +353,7 @@
 <h2> <a name="hi-ho">@HI{{ho}}</a> </h2>
 
 <h3> <a href="grammar-hou-ga-ii.html"> @HI{{hou ga ii}} </a> </h3>
+<h3> <a href="grammar-hoshii.html"> @HI{{hoshii}} </a> </h3>
 <h3> <a href="grammar-particle-hodo.html"> @HI{{hodo}} </a> </h3>
 <h3> <a href="grammar-ppoi.html"> @HI{{ppoi}} </a> </h3>
 
@@ -365,6 +367,8 @@
 <h3> <a href="grammar-mashouka.html"> @Vmasustem{{}}@HI{{mashouka}} </a> </h3>
 <h3> <a href="grammar-masen-ka.html"> @Vmasustem{{}}@HI{{masenka}} </a> </h3>
 <h3> <a href="grammar-mama.html"> @HI{{mama}} </a> </h3>
+<h3> <a href="grammar-masu.html"> @HI{{masu}} forms </a> </h3>
+<h3> <a href="grammar-masu-ni.html"> @Vmasustem{{}}@HI{{ni}} </a> </h3>
 
 <h2> <a name="hi-mi">@HI{{mi}}</a> </h2>
 
