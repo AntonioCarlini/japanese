@@ -50,6 +50,7 @@ table.example th.wide {
  <tr> <td> 1498   </td> <td class="kanji"> &#x6893; </td> <td> catalpa       </td> </tr>
  <tr> <td> 1569   </td> <td class="kanji"> &#x693f; </td> <td> camellia      </td> </tr>
  <tr> <td> 1614   </td> <td class="kanji"> &#x6960; </td> <td> camphor       </td> </tr>
+ <tr> <td> 1713   </td> <td class="kanji"> @KJ{{cedar}}    </td> <td> cedar         </td> </tr>
 </table>
 
 <h2> unusual, uncommon </h2>
@@ -99,6 +100,15 @@ table.example th.wide {
  <tr> <td> 1278   </td> <td class="kanji"> @KJ{{exam}}                       </td> <td> exam                            </td> </tr>
  <tr> <td> 1673   </td> <td class="kanji"> @KJ{{examination}}                </td> <td> examination                     </td> </tr>
  <tr> <td> 1980   </td> <td class="kanji"> @KJ{{verification}}               </td> <td> verification                    </td> </tr>
+</table>
+
+<h2> dike, dig, ditch                 </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td>  390   </td> <td class="kanji"> @KJ{{dike}}                       </td> <td> dike                            </td> </tr>
+ <tr> <td> 1061   </td> <td class="kanji"> @KJ{{dig}}                        </td> <td> dig                             </td> </tr>
+ <tr> <td> 1062   </td> <td class="kanji"> @KJ{{ditch}}                      </td> <td> ditch                           </td> </tr>
 </table>
 
 </body>
