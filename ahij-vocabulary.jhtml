@@ -1192,6 +1192,146 @@
  </tr>
  <!-- Unit 11 -->
  <tr>
+   <td> @KJ{{night^slow}}@HI{{ku}}                               </td>
+   <td> @HI{{yoruosoku}}                                         </td>
+   <td> late at night                                            </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{slow}}@HI{{ku}}                                     </td>
+   <td> @HI{{osoku}}                                             </td>
+   <td> slow                                                     </td>
+   <td> adv                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{meeting^company}}                                   </td>
+   <td> @HI{{kaisha}}                                            </td>
+   <td> company                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fee^logic}}                                         </td>
+   <td> @HI{{ryouri}}                                            </td>
+   <td> cooking                                                  </td>
+   <td> n; ns                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{england^meeting^tale}}                              </td>
+   <td> @HI{{eikaiwa}}                                           </td>
+   <td> English conversation                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sound^music}}                                       </td>
+   <td> @HI{{ongaku}}                                            </td>
+   <td> music                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{lightly}}                                           </td>
+   <td> @HI{{karui}}                                             </td>
+   <td> light (not heavy)                                        </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <!-- Unit 12 -->
+ <tr>
+   <td> @KJ{{inter-^discuss}}                                    </td>
+   <td> @HI{{soudann}}                                           </td>
+   <td> consultation                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{correct^month}}                                     </td>
+   <td> @HI{{shougatsu}}                                         </td>
+   <td> New Year                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{semi-^equip}}                                       </td>
+   <td> @HI{{junbi}}                                             </td>
+   <td> preparation                                              </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{blessing}}                                          </td>
+   <td> @HI{{fuku}}                                              </td>
+   <td> good fortune                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{large}}@HI{{souji}}                                 </td>
+   <td> @HI{{oosouji}}                                           </td>
+   <td> major cleanup                                            </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{heavy^box}}                                         </td>
+   <td> @HI{{juubako}}                                           </td>
+   <td> multi-tiered box                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{longevity^director}}                                </td>
+   <td> @HI{{sushi}}                                             </td>
+   <td> <em>sushi</em>                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{song}}                                              </td>
+   <td> @HI{{uta}}                                               </td>
+   <td> song                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{mirror}}                                            </td>
+   <td> @HI{{kagami}}                                            </td>
+   <td> mirror                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{buddhist*temple}}                           </td>
+   <td> @HI{{otera}}                                             </td>
+   <td> Buddhist temple                                          </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{exclude^night}}@HI{{no}}@KJ{{bell}}                 </td>
+   <td> @HI{{joyanokane}}                                        </td>
+   <td> New Year's Eve bell                                      </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{hundred^eight^-times^chirp}}@HI{{rasu}}             </td>
+   <td> @HI{{hyakuhakkainarasu}}                                 </td>
+   <td> to ring 108 times                                        </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{disaster}}@HI{{i}}                                  </td>
+   <td> @HI{{wazawai}}                                           </td>
+   <td> calamity                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{take}}@HI{{ri}}@KJ{{exclude}}@HI{{ku}}              </td>
+   <td> @HI{{torinozoku}}                                        </td>
+   <td> to remove                                                </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fit^war}}                                           </td>
+   <td> @HI{{kassenn}}                                           </td>
+   <td> battle; engagement                                       </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{crimson^white}}                                     </td>
+   <td> @HI{{kouhaku}}                                           </td>
+   <td> red &amp; white: special occasion colours                </td>
+   <td> n                                                        </td>
+ </tr>
+ <!-- Unit 13 -->
+ <tr>
    <td>                                                          </td>
    <td>                                                          </td>
    <td>                                                          </td>
