@@ -1489,7 +1489,7 @@ td#heading {
  </tr>
  <tr> <td colspan="4" id="heading"> Unit 15 </td> </tr>
  <tr>
-   <td> @KJ{{first*time}}@HI{{moude}}                            </td>
+   <td> @KJ{{first*time^visit*a*temple}}@HI{{de}}                </td>
    <td> @HI{{hatsumoude}}                                        </td>
    <td> first shrine visit of the New Year                       </td>
    <td> n;ns                                                     </td>
