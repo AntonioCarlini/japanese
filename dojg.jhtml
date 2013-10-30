@@ -426,7 +426,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-mono-da.html">@HI{{mono(da)}}</a>                                              </td>
   <td class=""> DOBJG, p. 257                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-giving-receiving.html">@HI{{morau}}</a>                                        </td>
@@ -481,7 +481,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-nasai.html"> @HI{{nasai}} </a>                                                 </td>
   <td class=""> DOBJG, p. 284                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-ne.html"> @HI{{ne}} </a>                                              </td>
