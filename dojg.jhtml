@@ -996,7 +996,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-you-ni-iu.html"> @HI{{youni}}@KJ{{say}}@HI{{u}} </a>                           </td>
   <td class=""> DOBJG, p. 556                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-you-ni-naru.html"> @HI{{youninaru}} </a>                                       </td>

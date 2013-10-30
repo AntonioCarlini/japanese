@@ -247,6 +247,7 @@ JHTML_SRCS += grammar-wakaru.jhtml
 JHTML_SRCS += grammar-yasui.jhtml
 JHTML_SRCS += grammar-yotei.jhtml
 JHTML_SRCS += grammar-you-desu.jhtml
+JHTML_SRCS += grammar-you-ni-iu.jhtml
 JHTML_SRCS += grammar-you-ni-naru.jhtml
 JHTML_SRCS += grammar-you-ni-suru.jhtml
 JHTML_SRCS += grammar-you-ni.jhtml
