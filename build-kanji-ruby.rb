@@ -8,6 +8,8 @@ require 'Kanji.rb'
 
 kanji_by_keyword = {} # hash of keyword (as symbol) to kanji unicode
 
+kanji_with_unique_keyword = []
+
 def kanji_keyword(k)
   return k.english().first().downcase().gsub(' ', "*")
 end
@@ -28,9 +30,10 @@ kanji_data.kanji().each() {
   kwd = kanji_keyword(k)
   if kanji_by_keyword[kwd] != nil
     oh = kanji_by_keyword[kwd].heisig()
-    raise("WARNING: seen [#{kwd}] again; this for [#{k.heisig()}], already stored for [#{oh}]") unless k.heisig() > 2042
+    $stderr.puts("WARNING: seen [#{kwd}] again; ignoring this for [#{k.heisig()}], already stored for [#{oh}]")
   else
     kanji_by_keyword[kwd] = k
+    kanji_with_unique_keyword << k
   end
 }
 
@@ -51,9 +54,8 @@ puts("  include Singleton")
 puts("  attr_reader :kanji")
 puts("  def initialize()")
 puts("    @kanji = {")
-kanji_data.kanji().each() {
+kanji_with_unique_keyword.each() {
   |k|
-  next if k.heisig() > 2042
   puts("    \"#{kanji_keyword(k)}\" => Kanji.new(#{k.heisig()}, #{k.unicode()}, [\"#{k.onyomi().join('","')}\"], [\"#{k.kunyomi().join('","')}\"], [\"#{k.nanori().join('","')}\"], [\"#{k.english().join('","')}\"], #{k.jouyou()}, #{k.jlpt()}),")
 }
 puts("    }")

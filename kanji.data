@@ -2048,18 +2048,18 @@
  2048 :  0x7483 :  :  RI :   :  aki :  {glassy} {lapis lazuli} :  8 :  1
  2049 :  0x79bd :  :  KIN :  tori toriko :   :  {fowl} {bird} {captive} {capture} :  9 :  
  2050 :  0x6a8e :  :  KIN GON GO :   :   :  {apple} :  9 :  
- 2051 :  0x6190 :  :  REN :  awa.remu awa.re :   :  {pity} {have mercy} {sympathise} {compassion} :  9 :  
+ 2051 :  0x6190 :  :  REN :  awa.remu awa.re :   : {sympathize with} {pity} {have mercy} {sympathise} {compassion} :  9 :  
  2052 :  0x71d0 :  :  RIN :   :   :  {phosphorus} :   :  
  2053 :  0x9e9f :  :  RIN :   :   :  {Chinese unicorn} {genius} {giraffe} {bright} {shining} :  9 :  1
  2054 :  0x9c57 : uroko :  RIN :  uroko koke kokera :   :  {scales (fish)} :  9 :  
  2055 :  0x5944 : tachimachi :  EN :  oo.u tachimachi :  ama :  {cover} {suffocate} {obstruct} :  9 :  
  2056 :  0x5eb5 : io iori :  AN :  iori io :  a i ihori :  {hermitage} {retreat} :  9 :  
- 2057 :  0x63a9 :  :  EN :  oo.u :   :  {cover} {conceal} :   :  
- 2058 :  0x4ffa :  :  EN :  ore ware :   :  {I} {myself} :  8 :  
+ 2057 :  0x63a9 :  :  EN :  oo.u :   :  {shrouded} {cover} {conceal} :   :  
+ 2058 :  0x4ffa :  :  EN :  ore ware :   : {myself}  {I} :  8 :  
  2059 :  0x609b :  :  SHYUN SEN :  arata.meru :   :  {amend} :   :  
  2060 :  0x99ff :  :  SHYUN SUN :  sugu.reru :  suru toshi hayashi hayao :  {a good horse} {speed} {a fast person} :  9 :  1
  2061 :  0x5cfb :  :  SHYUN :  kewa.shii taka.i :  taka takashi chika toshi oka :  {high} {steep} :  9 :  1
- 2062 :  0x7ae3 :  :  DOU SHYUN :  warawa warabe owa.ru :   :  {end} {finish} :  9 :  1
+ 2062 :  0x7ae3 :  :  DOU SHYUN :  warawa warabe owa.ru :   :  {complete a job} {end} {finish} :  9 :  1
  2063 :  0x81fc : usu usudu.ku :  KYUU GU :  usu usudu.ku :   :  {mortar} :  8 :  
  2064 :  0x8205 :  :  KYUU :  shyuuto :   :  {father-in-law} :   :  
  2065 :  0x9f20 : nezu nezumi :  SO SHYO :  nezumi nezu :   :  {rat} {mouse} {dark gray} :   :  
@@ -2067,41 +2067,41 @@
  2067 :  0x6bc0 : kobo.tsu :  KI :  kobo.tsu kowa.su kobo.reru kowa.reru soshi.ru yabu.ru :   :  {break} {destroy} {censure} {be chipped} {be scratched} {be broken} {be ruined} :  8 :  
  2068 :  0x8258 :  :  SHYOU SHYUU SOU :  fune :   :  {counter for small boats} :   :  
  2069 :  0x7280 :  :  SAI SEI :   :   :  {rhinocerous} :  9 :  
- 2070 :  0x7690 : satsuki :  KOU :  satsuki :  takashi :  {swamp} {shore} :  9 :  1
- 2071 :  0x810a :  :  SEKI :  se sei :   :  {stature} {height} :  8 :  
+ 2070 :  0x7690 : satsuki :  KOU :  satsuki :  takashi :  {lunar month} {swamp} {shore} :  9 :  1
+ 2071 :  0x810a :  :  SEKI :  se sei :   : {spinal column} {stature} {height} :  8 :  
  2072 :  0x7577 : nawate :  TETSU TEI SEI :  nawate :   :  {rice field ridge path} :   :  
  2073 :  0x7db4 : TECHI tsudu.ru tsuduri :  TEI TETSU TECHI GETSU :  to.jiru tsudu.ru tsuduri sumi.yaka :   :  {compose} {spell} {write} {bind (books)} :  9 :  
  2074 :  0x723e : shikari :  JI NI :  nanji shikari sono nomi ore shika :  chika mi :  {you} {thou} {second person} :  9 :  1
  2075 :  0x74bd :  :  JI :   :   :  {emperor's seal} :  8 :  1
  2076 :  0x93a7 : yoro.u yoroi :  KAI GAI :  yoro.u yoroi :   :  {put on armor} {arm oneself} :  9 :  
  2077 :  0x51f1 : kachidoki yawaragu :  GAI KAI :  kachidoki yawaragu :   :  {victory song} :  9 :  1
- 2078 :  0x5996 :  :  YOU :  aya.shii nama.meku wazawa.i :   :  {attractive} {bewitching} {calamity} :  8 :  
+ 2078 :  0x5996 :  :  YOU :  aya.shii nama.meku wazawa.i :   : {bewitched} {attractive} {bewitching} {calamity} :  8 :  
  2079 :  0x6c83 :  :  YOU YOKU OKU :  soso.gu :   :  {fertility} :  8 :  
- 2080 :  0x5451 :  :  TON DON :  no.mu :   :  {drink} :   :  
+ 2080 :  0x5451 :  :  TON DON :  no.mu :   : {quaff} {drink} :   :  
  2081 :  0x97ee : nira :  KYUU KU :  nira :   :  {leek} :   :  
  2082 :  0x7c64 : kazutori kuji :  SEN :  kuji kazutori :   :  {lottery} {raffle} :   :  
- 2083 :  0x61fa : kui.ru :  ZAN SAN :  kui.ru :   :  {regret} {repent} {confess sins} :   :  
+ 2083 :  0x61fa : kui.ru :  ZAN SAN :  kui.ru :   : {penitential} {regret} {repent} {confess sins} :   :  
  2084 :  0x82bb : magusa :  SUU SHYUU SU :  magusa :   :  {grass cutting} {hay} :   :  
  2085 :  0x96db : hina hiyoko :  SUU SU JU :  hina hiyoko :   :  {chick} {squab} {duckling} {doll} :  9 :  1
- 2086 :  0x8da8 : shyu :  SUU SOKU :  shyu omomu.ku hashi.ru :   :  {run} {go} {quick} {tend towards} :   :  
+ 2086 :  0x8da8 : shyu :  SUU SOKU :  shyu omomu.ku hashi.ru :   : {scurry} {run} {go} {quick} {tend towards} :   :  
  2087 :  0x5c24 :  :  YUU :  moto.mo toga.meru :   :  {reasonable} {just} {natural} {superb} {outstanding} {plausible} :  9 :  
- 2088 :  0x7a3d :  :  KEI :  kanga.eru todo.meru :   :  {think} {consider} :  8 :  
- 2089 :  0x5396 :  :  BOU :  ooki.i :   :  {large} {mix} :   :  
+ 2088 :  0x7a3d :  :  KEI :  kanga.eru todo.meru :   : {training} {think} {consider} :  8 :  
+ 2089 :  0x5396 :  :  BOU :  ooki.i :   : {immense} {large} {mix} :   :  
  2090 :  0x91c7 : irodori :  SAI :  to.ru irodori :   :  {dice} {form} {appearance} {take} {coloring} :  8 :  1
  2091 :  0x6216 : arui aruiha :  WAKU KOKU IKI :  a.ru arui aruiha :   :  {some} {one} {or} {possibly} {a certain} :  9 :  
  2092 :  0x65ac :  :  ZAN SAN SEN ZEN :  ki.ru :   :  {beheading} {kill} {murder} :  8 :  
  2093 :  0x514e : usagi :  TO TSU :  usagi :   :  {rabbit} {hare} :  9 :  
  2094 :  0x4e5f :  :  YA E :  nari ka mata :  shi :  {to be (classical)} :  9 :  1
- 2095 :  0x5c2d :  :  GYOU :  taka.i :  takashi taka nori aki :  {high} {far} :  9 :  1
+ 2095 :  0x5c2d :  :  GYOU :  taka.i :  takashi taka nori aki : {lofty} {high} {far} :  9 :  1
  2096 :  0x5df4 : tomoe uzumaki :  HA :  tomoe uzumaki :  tomo :  {comma-design} :  9 :  1
  2097 :  0x752b :  :  HO HU :  haji.mete :  hajime toshi nami suke yoshi :  {for the first time} {not until} :  9 :  1
- 2098 :  0x758b :  :  HIKI SHYO SO HITSU :  ashi :   :  {head} {counter for animals} :  9 :  
+ 2098 :  0x758b :  :  HIKI SHYO SO HITSU :  ashi :   : {critters} {head} {counter for animals} :  9 :  
  2099 :  0x83eb : sumire :  KIN :  sumire :   :  {the violet} :  9 :  1
  2100 :  0x66fc :  :  MAN BAN :  naga.i :   :  {mandala} {wide} {beautiful} :   :  
  2101 :  0x5dfe : chikiri kire :  KIN HUKU :  oo.i chikiri kire :  haba :  {towel} {hanging scroll} {width} {cloth radical (no. 50)} :  8 :  
- 2102 :  0x4e91 :  :  UN :  i.u kokoni :   :  {say} :  9 :  
+ 2102 :  0x4e91 :  :  UN :  i.u kokoni :   : {quote} {say} :  9 :  
  2103 :  0x535c : uranai :  BOKU :  urana.u uranai :  ura bokunoto :  {divining} {fortune-telling} {divination or katakana to radical (no. 25)} :  9 :  
- 2104 :  0x55ac :  :  KYOU :  taka.i :  takashi taka :  {high} {boasting} :  9 :  1
+ 2104 :  0x55ac :  :  KYOU :  taka.i :  takashi taka : {heaven-high} {high} {boasting} :  9 :  1
  2105 :  0x83ab :  :  BAKU BO MAKU MO NAI :  kure naka.re nashi :   :  {must not} {do not} {be not} :  9 :  
  2106 :  0x502d :  :  WA I :  shitaga.u :  masa yasu yamato :  {Yamato} {ancient Japan} :  9 :  1
  2107 :  0x4fa0 : kyan otokodate :  KYOU :  kyan otokodate :   :  {tomboy} {chivalry} :   :  
@@ -2116,16 +2116,16 @@
  2116 :  0x50c5 : wazu.ka :  KIN GON :  wazu.ka :   :  {a wee bit} :  8 :  
  2117 :  0x50fb : heki.suru higa.mu :  HEKI HI HEI :  heki.suru higa.mu :   :  {prejudice} {bias} {rural area} :   :  
  2118 :  0x5132 : mou.karu mouke :  CHYO :  mou.keru mou.karu mouke takuwa.eru :   :  {be profitable} {yield profit} :  9 :  
- 2119 :  0x5016 :  :  KOU :  shiawa.se saiwa.i :   :  {happiness} {luck} :  9 :  1
+ 2119 :  0x5016 :  :  KOU :  shiawa.se saiwa.i :   : {bliss} {happiness} {luck} :  9 :  1
  2120 :  0x50d1 :  :  KYOU :   :  kyuu :  {temporary home} :   :  
- 2121 :  0x4fb6 :  :  RYO RO :  tomo :   :  {companion} {follower} :  8 :  
+ 2121 :  0x4fb6 :  :  RYO RO :  tomo :   : {partner} {companion} {follower} :  8 :  
  2122 :  0x4f0e :  :  GI KI :  waza wazaogi :   :  {deed} {skill} :  8 :  1
- 2123 :  0x4f83 :  :  KAN :  tsuyo.i :  akira tadashi :  {strong} {just} {righteous} {peace-loving} :  9 :  1
- 2124 :  0x5036 :  :  GU KU :  tomo.ni :   :  {both} :   :  
+ 2123 :  0x4f83 :  :  KAN :  tsuyo.i :  akira tadashi : {integrity} {strong} {just} {righteous} {peace-loving} :  9 :  1
+ 2124 :  0x5036 :  :  GU KU :  tomo.ni :   :  {mate} {both} :   :  
  2125 :  0x4fad : mama :  JIN :  mama kotogotoku :   :  {as it is} {because} :   :  
- 2126 :  0x4f51 :  :  YUU U :  tasu.keru :  suke tasuku yu :  {help} {assist} :  9 :  1
+ 2126 :  0x4f51 :  :  YUU U :  tasu.keru :  suke tasuku yu : {adjutant} {help} {assist} :  9 :  1
  2127 :  0x4fe3 :  :   :  mata :  bata :  {crotch} {thigh} {groin} {(kokuji)} :  9 :  
- 2128 :  0x50ad : ata.i :  YOU CHYOU :  yato.u ata.i hito.shii :   :  {employ} {hire} :  9 :  
+ 2128 :  0x50ad : ata.i :  YOU CHYOU :  yato.u ata.i hito.shii :   : {hire} {employ} {hire} :  9 :  
  2129 :  0x5072 :  :  SAI SHI :  shino.bu :   :  {recollect} {remember} :  9 :  1
  2130 :  0x8129 : hojishi :  SHYUU :  osa.meru naga.i hojishi :  osamu osa naga nobu haru :  {dried meat} :  9 :  1
  2131 :  0x5005 : SOCHI segare :  SAI SOTSU SOCHI :  segare :   :  {son} {my son} :   :  
