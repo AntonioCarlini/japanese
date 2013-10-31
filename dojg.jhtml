@@ -954,9 +954,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ya-shop.html"> @KJ{{roof}} </a>                                                </td>
+  <td class="left"> <a href="grammar-ya-store.html"> @KJ{{roof}} </a>                                               </td>
   <td class=""> DOBJG, p. 535                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ya-conjunction.html"> @HI{{ya}} </a>                                           </td>
@@ -966,7 +966,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-yahari.html"> @HI{{yahari}} </a>                                               </td>
   <td class=""> DOBJG, p. 538                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-yasui.html"> @HI{{yasui}} </a>                                                 </td>

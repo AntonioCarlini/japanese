@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{roof}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{roof}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{roof}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{roof}} is a suffix that can be attached to the names of stores, inns and Japanese-style restaurants or to persons engaged
+in certain occupations.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{sake^roof}}sanni@KJ{{electricity^tale}}shite@KT{{bi-ru}}wo@KJ{{three}}@KT{{da-su}}@KJ{{hold}}tte@KJ{{come}}temoratta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I called the man at the liquor store and had him bring me three dozen beers.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 535).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yahari}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{yahari}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{yahari}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{yahari}}</strong> is an adverb that indicates that an actual situation conforms to a standard based on
+experience or common sense.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{beri-}}sanha<strong>yahari</strong>@KJ{{come}}masendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As expected, Mr. Bailey hasn't come, has he?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{elder*brother}}sanha@KT{{tenisu}}ga@KJ{{above^hand}}desuga,
+      @KJ{{younger*brother}}sanmo<strong>yappari</strong>@KJ{{above^hand}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The older brother is good at tennis, and the younger brother is good too.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{yappaari}}</strong> is a more emphatic version of <strong>@HI{{yahari}}</strong>.
+</p>
+
+<p>
+@HI{{masaka}}, meaning "surely not" or "by no means", indicates that a situation is far from the speaker's expectations. As such
+it is an antonym of <strong>@HI{{yahari}}</strong>.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 538).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
