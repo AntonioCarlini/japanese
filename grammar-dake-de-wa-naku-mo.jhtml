@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dakede(ha)naku~mo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{dakede(ha)naku~mo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
+<li> @Ai{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
+<li> @Ana{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
+<li> @N{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{dakede(ha)naku~mo}}</strong> means "not only ~ but also ~"
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}hayoku@KJ{{exertion^strong}}suru<strong>dakedehanaku</strong>yoku@KJ{{play}}bimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He not only studies hard, but he plays a lot.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}ha@KJ{{head}}gaii<strong>dakedehanaku</strong>yoku
+      @KJ{{exertion^strong}}<strong>mo</strong>shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He's not only smart, he studies hard too.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{konouchihakireina<strong>dakedehanaku</strong>totemo@KJ{{relax}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That house is not only beautiful but inexpensive too.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jonn}}<strong>dekadehanaku</strong>@KT{{meari-}}mo@KJ{{come}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Not only John, but Mary also came here.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 97).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
