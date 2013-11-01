@@ -1638,7 +1638,310 @@ td#heading {
    <td> liquor                                                   </td>
    <td> n                                                        </td>
  </tr>
- <!-- Unit 16 -->
+ <tr> <td colspan="4" id="heading"> Unit 16 </td> </tr>
+ <tr>
+   <td> @KJ{{first*time^day}}                                    </td>
+   <td> @HI{{shounichi}}                                         </td>
+   <td> first day                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{cherry}}                                            </td>
+   <td> @HI{{sakura}}                                            </td>
+   <td> cherry tree                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{capital^metropolis}}                                </td>
+   <td> @HI{{kyouto}}                                            </td>
+   <td> Kyoto                                                    </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{garden}}                                            </td>
+   <td> @HI{{niwa}}                                              </td>
+   <td> garden                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{flower^see}}                                        </td>
+   <td> @HI{{hanami}}                                            </td>
+   <td> cherry blossom viewing                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{oneself^sort*of*thing}}                             </td>
+   <td> @HI{{shizenn}}                                           </td>
+   <td> nature                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wash^laundry^thing}}                                </td>
+   <td> @HI{{sentakumono}}                                       </td>
+   <td> laundry                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{little^wrap}}                                       </td>
+   <td> @HI{{kodutsumi}}                                         </td>
+   <td> package; parcel                                          </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wrap^paper}}                                        </td>
+   <td> @HI{{tsutsumigami}}                                      </td>
+   <td> wrapping paper                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{rend}}@HI{{buru}}                                   </td>
+   <td> @HI{{yaburu}}                                            </td>
+   <td> to tear                                                  </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{escort}}@HI{{ru}}                                   </td>
+   <td> @HI{{okuru}}                                             </td>
+   <td> to send (a thing)                                        </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{@KJ{{walk}}ki@KJ{{-times}}ru}}                      </td>
+   <td> @HI{{arukimawaru}}                                       </td>
+   <td> to walk about                                            </td>
+   <td> v5                                                       </td>
+ </tr>
+ <tr>
+   <td> @KJ{{little^study^life}}                                 </td>
+   <td> @HI{{shougakusei}}                                       </td>
+   <td> primary school pupil                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{enter^study^style}}                                 </td>
+   <td> @HI{{nyuugakushiki}}                                     </td>
+   <td> school entrance ceremony                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{large^cut}}                                         </td>
+   <td> @HI{{taisetsu}}                                          </td>
+   <td> important                                                </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @HI{{o@KJ{{celebrate}}i}}                                </td>
+   <td> @HI{{oiwai}}                                             </td>
+   <td> celebration; congratulation                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{writing*brush}}                                     </td>
+   <td> @HI{{fude}}                                              </td>
+   <td> writing brush                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sentence^tassel^tool}}                              </td>
+   <td> @HI{{bunbougu}}                                          </td>
+   <td> stationery                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{body^bring*up^don}}                                 </td>
+   <td> @HI{{taiikugi}}                                          </td>
+   <td> gym uniform                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{large^hurry}}@HI{{gide}}                            </td>
+   <td> @HI{{ooisogide}}                                         </td>
+   <td> in a big hurry                                           </td>
+   <td> exp                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{white}}@HI{{i}}                                     </td>
+   <td> @HI{{shiroi}}                                            </td>
+   <td> white                                                    </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr> <td colspan="4" id="heading"> Unit 17 </td> </tr>
+ <tr>
+   <td> @KJ{{empty}}                                             </td>
+   <td> @HI{{sora}}                                              </td>
+   <td> sky                                                      </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{blue}}@HI{{i}}                                      </td>
+   <td> @HI{{aoi}}                                               </td>
+   <td> blue                                                     </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{clear*up}}@HI{{reru}}                               </td>
+   <td> @HI{{hareru}}                                            </td>
+   <td> to clear up; to be sunny                                 </td>
+   <td> v1i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{wind}}                                              </td>
+   <td> @HI{{kaze}}                                              </td>
+   <td> wind                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{scatter}}@HI{{rikakeno}}@KJ{{cherry}}               </td>
+   <td> @HI{{chirikakenosakura}}                                 </td>
+   <td> falling cherry blossoms                                  </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{association}}                                       </td>
+   <td> @HI{{kumi}}                                              </td>
+   <td> class; group                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{teach^roof}}                                        </td>
+   <td> @HI{{kyoushitsu}}                                        </td>
+   <td> classroom                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{above^class^life}}                                  </td>
+   <td> @HI{{joukyuusei}}                                        </td>
+   <td> older student                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{true^new}}@HI{{shii}}                               </td>
+   <td> @HI{{maatarashii}}                                       </td>
+   <td> brand new                                                </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{new^enter^life}}                                    </td>
+   <td> @HI{{shinnnyuusei}}                                      </td>
+   <td> new student                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{direction}}                                         </td>
+   <td> @HI{{hou}}                                               </td>
+   <td> direction                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{corridor^below}}                                    </td>
+   <td> @HI{{rouka}}                                             </td>
+   <td> corridor                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{body^bring*up^building}}                            </td>
+   <td> @HI{{taiikukan}}                                         </td>
+   <td> gymnasium                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{father^elder*brother^seat}}                         </td>
+   <td> @HI{{fukeiseki}}                                         </td>
+   <td> seats for parents and siblings                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{exam^long}}                                         </td>
+   <td> @HI{{kouchou}}                                           </td>
+   <td> headmaster                                               </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{year^in^going^matter}}                              </td>
+   <td> @HI{{nenchuugyouji}}                                     </td>
+   <td> annual events                                            </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{meeting^long}}                                      </td>
+   <td> @HI{{kaichou}}                                           </td>
+   <td> president                                                </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{exam^song}}                                         </td>
+   <td> @HI{{kouka}}                                             </td>
+   <td> school song                                              </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{before^head}}@HI{{ni@KJ{{stand*up}}tsu}}            </td>
+   <td> @HI{{sentounitatsu}}                                     </td>
+   <td> to take the lead                                         </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td> @KJ{{teach^fee^write}}                                   </td>
+   <td> @HI{{kyoukasho}}                                         </td>
+   <td> textbook                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr> <td colspan="4" id="heading"> Unit 18 </td> </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <tr>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+   <td>                                                          </td>
+ </tr>
+ <!-- Unit 19 -->
  <tr>
    <td>                                                          </td>
    <td>                                                          </td>
