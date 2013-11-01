@@ -14,6 +14,22 @@ td#heading {
 
 <h1>A Homestay in Japan: vocabulary</h1>
 
+<div class="nav">
+<ul class="nav">
+  <li> <a href="#unit1">1</a> <li> <a href="#unit2">2</a> <li> <a href="#unit3">3</a>
+  <li> <a href="#unit4">4</a> <li> <a href="#unit5">5</a> <li> <a href="#unit6">6</a>
+  <li> <a href="#unit7">7</a> <li> <a href="#unit8">8</a> <li> <a href="#unit9">9</a>
+
+  <li> <a href="#unit10">10</a>
+  <li> <a href="#unit11">11</a> <li> <a href="#unit12">12</a> <li> <a href="#unit13">13</a>
+  <li> <a href="#unit14">14</a> <li> <a href="#unit15">15</a> <li> <a href="#unit16">16</a>
+  <li> <a href="#unit17">17</a> <li> <a href="#unit18">18</a> <li> <a href="#unit19">19</a>
+
+  <li> <a href="#unit20">20</a>
+</ul>
+<p>&nbsp;</p>
+</div>
+
 <table class="example">
  <tr>
    <th> Kanji Word </th>
@@ -21,7 +37,7 @@ td#heading {
    <th> Meaning </th>
    <th> Part of speech </th>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  1 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit1"> Unit  1 </a> </td> </tr>
  <tr>
    <td> @KJ{{don}}@HI{{ku}}                                      </td>
    <td> @HI{{tsuku}}                                             </td>
@@ -124,7 +140,7 @@ td#heading {
    <td> to teach; to tell                                        </td>
    <td> v1t                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  2 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit2"> Unit  2 </a> </td> </tr>
  <tr>
    <td> @KJ{{separate}}@HI{{reru}}                               </td>
    <td> @HI{{wakareru}}                                          </td>
@@ -197,7 +213,7 @@ td#heading {
    <td> to be found; to be discovered                            </td>
    <td> v5i                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  3 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit3"> Unit  3 </a> </td> </tr>
  <tr>
    <td> @KJ{{take*along}}                                        </td>
    <td> @HI{{tsureru}}                                           </td>
@@ -318,7 +334,7 @@ td#heading {
    <td> American-style                                           </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  4 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit4"> Unit  4 </a> </td> </tr>
  <tr>
    <td> @KJ{{reside^interval}}                                   </td>
    <td> @HI{{ima}}                                               </td>
@@ -463,7 +479,7 @@ td#heading {
    <td> to come to mind                                          </td>
    <td> v5                                                       </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  5 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  5 </a> </td> </tr>
  <tr>
    <td> @KJ{{morning^eat}}                                       </td>
    <td> @HI{{choushoku}}                                         </td>
@@ -596,7 +612,7 @@ td#heading {
    <td> shopping district                                        </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  6 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  6 </a> </td> </tr>
  <tr>
    <td> @KJ{{number^week^interval}}                              </td>
    <td> @HI{{suushuukann}}                                       </td>
@@ -735,7 +751,7 @@ td#heading {
    <td> China                                                    </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  7 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  7 </a> </td> </tr>
  <tr>
    <td> @KJ{{both^side}}                                         </td>
    <td> @HI{{ryougawa}}                                          </td>
@@ -796,7 +812,7 @@ td#heading {
    <td> custom; habit; manners                                   </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  8 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  8 </a> </td> </tr>
  <tr>
    <td> @KJ{{example}}                                           </td>
    <td> @HI{{rei}}                                               </td>
@@ -881,7 +897,7 @@ td#heading {
    <td> to finish; to end                                        </td>
    <td> v5i                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit  9 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  9 </a> </td> </tr>
  <tr>
    <td> @KJ{{bottom}}                                            </td>
    <td> @HI{{soko}}                                              </td>
@@ -996,7 +1012,7 @@ td#heading {
    <td> necessary; need                                          </td>
    <td> na-adj                                                   </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 10 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 10 </a> </td> </tr>
  <tr>
    <td> @KJ{{traffic}}@HI{{u}}                                   </td>
    <td> @HI{{kayou}}                                             </td>
@@ -1195,7 +1211,7 @@ td#heading {
    <td> to lose one's way                                        </td>
    <td> v5i                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 11 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 11 </a> </td> </tr>
  <tr>
    <td> @KJ{{night^slow}}@HI{{ku}}                               </td>
    <td> @HI{{yoruosoku}}                                         </td>
@@ -1238,7 +1254,7 @@ td#heading {
    <td> light (not heavy)                                        </td>
    <td> i-adj                                                    </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 12 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 12 </a> </td> </tr>
  <tr>
    <td> @KJ{{inter-^discuss}}                                    </td>
    <td> @HI{{soudann}}                                           </td>
@@ -1335,7 +1351,7 @@ td#heading {
    <td> red &amp; white: special occasion colours                </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 13 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 13 </a> </td> </tr>
  <tr>
    <td> @KJ{{gold^color}}                                        </td>
    <td> @HI{{kinniro}}                                           </td>
@@ -1444,7 +1460,7 @@ td#heading {
    <td> New Year's soba                                          </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 14 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 14 </a> </td> </tr>
  <tr>
    <td> @KJ{{beginning^day}}                                     </td>
    <td> @HI{{ganjitsu}}                                          </td>
@@ -1487,7 +1503,7 @@ td#heading {
    <td> reason                                                   </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 15 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 15 </a> </td> </tr>
  <tr>
    <td> @KJ{{first*time^visit*a*temple}}@HI{{de}}                </td>
    <td> @HI{{hatsumoude}}                                        </td>
@@ -1638,7 +1654,7 @@ td#heading {
    <td> liquor                                                   </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 16 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit16"> Unit 16 </a> </td> </tr>
  <tr>
    <td> @KJ{{first*time^day}}                                    </td>
    <td> @HI{{shounichi}}                                         </td>
@@ -1765,7 +1781,7 @@ td#heading {
    <td> white                                                    </td>
    <td> i-adj                                                    </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 17 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit17"> Unit 17 </a> </td> </tr>
  <tr>
    <td> @KJ{{empty}}                                             </td>
    <td> @HI{{sora}}                                              </td>
@@ -1886,67 +1902,314 @@ td#heading {
    <td> textbook                                                 </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> Unit 18 </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit18"> Unit 18 </a> </td> </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{stab^sort*of*thing}}                                </td>
+   <td> @HI{{totsuzenn}}                                         </td>
+   <td> sudden                                                   </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{umbrella}}                                          </td>
+   <td> @HI{{kasa}}                                              </td>
+   <td> umbrella                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{plum^rain^time}}                                    </td>
+   <td> @HI{{tsuyudoki}}                                         </td>
+   <td> rainy season                                             </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{lose^failure}}                                      </td>
+   <td> @HI{{shippai}}                                           </td>
+   <td> failure; mistake                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{flower^bundle}}                                     </td>
+   <td> @HI{{hanataba}}                                          </td>
+   <td> bunch of flowers                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{buddha^in*front}}                                   </td>
+   <td> @HI{{butsuzenn}}                                         </td>
+   <td> before a mortuary tablet (offering)                      </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{life}}@HI{{kiru}}                                   </td>
+   <td> @HI{{ikiru}}                                             </td>
+   <td> to live; to exist                                        </td>
+   <td> v1i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{shame}}@HI{{zukashii}}                              </td>
+   <td> @HI{{hazukashii}}                                        </td>
+   <td> shy; shame; embarrassed                                  </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{presents}}@HI{{ru}}                                 </td>
+   <td> @HI{{okuru}}                                             </td>
+   <td> to send; to give to                                      </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{sentence^change}}                                   </td>
+   <td> @HI{{bunka}}                                             </td>
+   <td> culture                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{study}}@HI{{bu}}                                    </td>
+   <td> @HI{{manabu}}                                            </td>
+   <td> to study in depth                                        </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{umbrella^stand*up}}@HI{{te}}                        </td>
+   <td> @HI{{kasatate}}                                          </td>
+   <td> umbrella stand                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{straightaway}}@HI{{su}}                             </td>
+   <td> @HI{{naosu}}                                             </td>
+   <td> to repair                                                </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{return}}@HI{{su}}                                   </td>
+   <td> @HI{{kaesu}}                                             </td>
+   <td> to return something                                      </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit19"> Unit 19 </a> </td> </tr>
+ <tr>
+   <td> @KJ{{discipline^logic}}                                  </td>
+   <td> @HI{{shuuri}}                                            </td>
+   <td> repairing; mending                                       </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @HI{{o@KJ{{mouth}}ni@KJ{{fit}}u}}                        </td>
+   <td> @HI{{okuchiniau}}                                        </td>
+   <td> to suit one's taste                                      </td>
    <td>                                                          </td>
  </tr>
  <tr>
+   <td> @HI{{o}}@KJ{{abdomen}}                                   </td>
+   <td> @HI{{onaka}}                                             </td>
+   <td> stomach                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{re-}}@HI{{ru}}                                      </td>
+   <td> @HI{{modoru}}                                            </td>
+   <td> to turn back; to return                                  </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{empty}}@HI{{ku}}                                    </td>
+   <td> @HI{{suku}}                                              </td>
+   <td> to become empty; to become less crowded                  </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{pour^sentence}}                                     </td>
+   <td> @HI{{chuumonn}}                                          </td>
+   <td> order; request                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{speaketh}}@HI{{shi}}@KJ{{translate}}                </td>
+   <td> @HI{{moushiwake}}                                        </td>
+   <td> apology; excuse                                          </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{finish}}@HI{{maseru}}                               </td>
+   <td> @HI{{sumaseru}}                                          </td>
+   <td> to finish; to make an end of                             </td>
+   <td> v1t                                                      </td>
+ </tr>
+ <tr>
+   <td> @HI{{o@KJ{{say^leaf}}ni@KJ{{sweet}}ete}}                 </td>
    <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> to accept a kind offer                                   </td>
    <td>                                                          </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{heavy}}@HI{{neru}}                                  </td>
+   <td> @HI{{kasaneru}}                                          </td>
+   <td> to repeat; to pile up                                    </td>
+   <td> v1t                                                      </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{young}}@HI{{i}}                                     </td>
+   <td> @HI{{wakai}}                                             </td>
+   <td> young                                                    </td>
+   <td> i-adj                                                    </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{exit^departure}}                                    </td>
+   <td> @HI{{shuppatsu}}                                         </td>
+   <td> departure                                                </td>
+   <td> n;ns                                                     </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{linen^group}}                                       </td>
+   <td> @HI{{futonn}}                                            </td>
+   <td> <em>futon</em>                                            </td>
+   <td> n                                                        </td>
+ <tr>
+   <td> @HI{{o@KJ{{separate}}re@KJ{{meeting}}}}                  </td>
+   <td> @HI{{owakarekai}}                                        </td>
+   <td> farewell party                                           </td>
+   <td> n                                                        </td>
+ </tr>
+ </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit20"> Unit 20 </a> </td> </tr>
+ <tr>
+   <td> @KJ{{departure}}@HI{{tsu}}                               </td>
+   <td> @HI{{tatsu}}                                             </td>
+   <td> to depart (on a train etc.)                              </td>
+   <td> v5i                                                      </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{utmost^behind}}                                     </td>
+   <td> @HI{{saigo}}                                             </td>
+   <td> last; final                                              </td>
+   <td> n                                                        </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @HI{{o@KJ{{tea^meeting}}}}                               </td>
+   <td> @HI{{ochakai}}                                           </td>
+   <td> tea party                                                </td>
+   <td> n                                                        </td>
  </tr>
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @HI{{o}}@KJ{{tea^seat}}                                  </td>
+   <td> @HI{{ochaseki}}                                          </td>
+   <td> tea ceremony                                             </td>
+   <td> n                                                        </td>
  </tr>
- <!-- Unit 19 -->
  <tr>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
-   <td>                                                          </td>
+   <td> @KJ{{emotion^wound^bull's*eye}}                          </td>
+   <td> @HI{{kanshouteki}}                                       </td>
+   <td> sentimental                                              </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{beckon}}@HI{{ku}}                                   </td>
+   <td> @HI{{maneku}}                                            </td>
+   <td> to invite; to ask                                        </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{logic^unravel}}                                     </td>
+   <td> @HI{{rikai}}                                             </td>
+   <td> understanding                                            </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{generation^resign}}                         </td>
+   <td> @HI{{oseji}}                                             </td>
+   <td> flattery                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{person^shape}}                                      </td>
+   <td> @HI{{ningyou}}                                           </td>
+   <td> doll                                                     </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{longing}}@HI{{shii}}                                </td>
+   <td> @HI{{hoshii}}                                            </td>
+   <td> wanted; wished for                                       </td>
+   <td> na-adj                                                   </td>
+ </tr>
+ <tr>
+   <td> @KJ{{baggage^create}}@HI{{ri}}                           </td>
+   <td> @HI{{nidukuri}}                                          </td>
+   <td> packing; baling                                          </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{window}}                                            </td>
+   <td> @HI{{mado}}                                              </td>
+   <td> window                                                   </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{laugh^face}}                                        </td>
+   <td> @HI{{egao}}                                              </td>
+   <td> smiling face                                             </td>
+   <td> n;ns                                                     </td>
+ </tr>
+ <tr>
+   <td> @KJ{{heart^dainty}}@HI{{i}}                              </td>
+   <td> @HI{{kokorobosoi}}                                       </td>
+   <td> forlorn; helpless                                        </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{whole^employee}}                                    </td>
+   <td> @HI{{zenninn}}                                           </td>
+   <td> everybody                                                </td>
+   <td> adv n                                                    </td>
+ </tr>
+ <tr>
+   <td> @KJ{{empty^harbor}}                                      </td>
+   <td> @HI{{kuukou}}                                            </td>
+   <td> airport                                                  </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{see^escort}}@HI{{ru}}                               </td>
+   <td> @HI{{miokuru}}                                           </td>
+   <td> to see off (to the airport etc.)                         </td>
+   <td> v5t                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{grieve}}@HI{{shii}}                                 </td>
+   <td> @HI{{kanashii}}                                          </td>
+   <td> sad                                                      </td>
+   <td> i-adj                                                    </td>
+ </tr>
+ <tr>
+   <td> @HI{{@KJ{{melt}}ke@KJ{{crowded}}mu}}                     </td>
+   <td> @HI{{tokekomu}}                                          </td>
+   <td> to adjust to; to adapt to                                </td>
+   <td> v5i                                                      </td>
+ </tr>
+ <tr>
+   <td> @KJ{{fly^going^mechanism}}                               </td>
+   <td> @HI{{hikouki}}                                           </td>
+   <td> airplane                                                 </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @HI{{o}}@KJ{{generation^tale}}                           </td>
+   <td> @HI{{osewa}}                                             </td>
+   <td> help; assistance                                         </td>
+   <td> n                                                        </td>
+ </tr>
+ <tr>
+   <td> @KJ{{cry}}@HI{{ku}}                                      </td>
+   <td> @HI{{naku}}                                              </td>
+   <td> to cry                                                   </td>
+   <td> v5                                                       </td>
+ </tr>
+ <tr>
+   <td> @HI{{@KJ{{ride}}ri@KJ{{crowded}}mu}}                     </td>
+   <td> @HI{{norikomu}}                                          </td>
+   <td> to embark on                                             </td>
+   <td> v5i                                                      </td>
  </tr>
 </table>
 
