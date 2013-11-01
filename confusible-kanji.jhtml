@@ -111,5 +111,21 @@ table.example th.wide {
  <tr> <td> 1062   </td> <td class="kanji"> @KJ{{ditch}}                      </td> <td> ditch                           </td> </tr>
 </table>
 
+<h2> ethics, concerning               </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td> 1821   </td> <td class="kanji"> @KJ{{ethics}}                     </td> <td> ethics                          </td> </tr>
+ <tr> <td> 1969   </td> <td class="kanji"> @KJ{{concerning}}                 </td> <td> concerning                      </td> </tr>
+</table>
+
+<h2> steel, haswer                    </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td> 1962   </td> <td class="kanji"> @KJ{{steel}}                      </td> <td> steel                           </td> </tr>
+ <tr> <td> 1963   </td> <td class="kanji"> @KJ{{hawser}}                     </td> <td> hawser                          </td> </tr>
+</table>
+
 </body>
 </html>
