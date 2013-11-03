@@ -781,7 +781,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-suruto.html"> @HI{{suruto}} </a>                                               </td>
   <td class=""> DOBJG, p. 437                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-tachi.html"> @KJ{{accomplished}} </a>                                          </td>
