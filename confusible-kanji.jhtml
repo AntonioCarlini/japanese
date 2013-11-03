@@ -127,5 +127,13 @@ table.example th.wide {
  <tr> <td> 1963   </td> <td class="kanji"> @KJ{{hawser}}                     </td> <td> hawser                          </td> </tr>
 </table>
 
+<h2> perfume, fragrant                </h2>
+
+<table class="example">
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
+ <tr> <td>  493   </td> <td class="kanji"> @KJ{{perfume}}                    </td> <td> perfume                         </td> </tr>
+ <tr> <td> 1681   </td> <td class="kanji"> @KJ{{fragrant}}                   </td> <td> fragrant                        </td> </tr>
+</table>
+
 </body>
 </html>

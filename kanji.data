@@ -1678,7 +1678,7 @@
  1678 :  0x50cd : RYUKU hatara.ku :  DOU RYUKU RIKI ROKU RYOKU :  hatara.ku :   :  {work} {(kokuji)} :  4 :  3
  1679 :  0x7a2e :  :  SHYU :  tane -gusa :  oi kusa ta ho :  {species} {kind} {class} {variety} {seed} :  4 :  2
  1680 :  0x885d :  :  SHYOU :  tsu.ku :   :  {collide} {brunt} {highway} {opposition (astronomy)} {thrust} {pierce} {stab} {prick} :  8 :  1
- 1681 :  0x85ab :  :  KUN :  kao.ru :  kaori kaoru kaho kahoru kuni shige niho nobu yoshi :  {send forth fragrance} {fragrant} {be scented} {smoke (tobacco)} :  8 :  1
+ 1681 :  0x85ab :  :  KUN :  kao.ru :  kaori kaoru kaho kahoru kuni shige niho nobu yoshi :  {fragrant} {send forth fragrance} {be scented} {smoke (tobacco)} :  8 :  1
  1682 :  0x75c5 : -ya.mi yamai :  BYOU HEI :  ya.mu -ya.mi yamai :   :  {ill} {sick} :  3 :  3
  1683 :  0x75f4 : shi.reru :  CHI :  shi.reru oroka :   :  {stupid} {foolish} :  8 :  1
  1684 :  0x75d8 :  :  TOU :   :   :  {pox} {smallpox} :  8 :  1
@@ -2144,7 +2144,7 @@
  2144 :  0x5239 :  :  SECHI SETSU SATSU :   :   :  {temple} :  8 :  
  2145 :  0x5265 : ha.gareru ha.gasu ha.gu he.gu hezu.ru :  HAKU HOKU :  he.gu hezu.ru mu.ku mu.keru ha.gareru ha.gu ha.geru ha.gasu :   :  {come off} {peel} {fade} {discolor} :  8 :  
  2146 :  0x5243 :  :  TEI :  mai so.ru su.ru :   :  {shave} :   :  
- 2147 :  0x5302 : nio.waseru :   :  nio.u nio.i nio.waseru :  ori kou sagi :  {fragrant} {stink} {glow} {insinuate} {(kokuji)} :  8 :  
+ 2147 :  0x5302 : nio.waseru :   :  nio.u nio.i nio.waseru :  ori kou sagi :  {aroma} {fragrant} {stink} {glow} {insinuate} {(kokuji)} :  8 :  
  2148 :  0x52fe :  :  KOU KU :  kagi ma.garu :  magari :  {be bent} {slope} {capture} :  8 :  
  2149 :  0x53ad : ito.u :  EN ON AN OU YUU YOU :  iya a.kiru ito.u osa.eru :   :  {get tired of} {satiate} {bore} {dislike} {disagreeable} {unwelcome} :   :  
  2150 :  0x96c1 : karigane :  GAN :  kari karigane :   :  {wild goose} :  9 :  
