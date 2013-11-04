@@ -56,6 +56,7 @@ JHTML_SRCS += grammar-garu.jhtml
 JHTML_SRCS += grammar-giving-receiving-actions.jhtml
 JHTML_SRCS += grammar-giving-receiving.jhtml
 JHTML_SRCS += grammar-goro.jhtml
+JHTML_SRCS += grammar-goto-ni.jhtml
 JHTML_SRCS += grammar-hazu.jhtml
 JHTML_SRCS += grammar-honorific-humble.jhtml
 JHTML_SRCS += grammar-hoshii.jhtml

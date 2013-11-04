@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{gotoni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{gotoni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{gotoni}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{gotoni}}</strong> is used to indicate that something happens regularly at a certain spacing in time or space.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{three^time^interval}}<strong>gotoni</strong>@KJ{{medicine}}wo@KJ{{drink}}mimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I took medicine every three hours.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{correct^month}}ha@KJ{{house}}<strong>gotoni</strong>@KJ{{gate^pine*tree}}wo@KJ{{stand*up}}temasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      They put up pine tree decorations at every house on New Year's Day.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 128).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
