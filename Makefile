@@ -63,6 +63,7 @@ JHTML_SRCS += grammar-honorific-humble.jhtml
 JHTML_SRCS += grammar-hoshii.jhtml
 JHTML_SRCS += grammar-hou-ga-ii.html
 JHTML_SRCS += grammar-how-do-you-say.jhtml
+JHTML_SRCS += grammar-ichiban.jhtml
 JHTML_SRCS += grammar-interrogatives-with-particles.jhtml
 JHTML_SRCS += grammar-interrogatives.jhtml
 JHTML_SRCS += grammar-iru.jhtml

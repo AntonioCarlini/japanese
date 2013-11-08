@@ -176,7 +176,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-ichiban.html">@KJ{{one^turn}}</a>                                              </td>
   <td class=""> DOBJG, p. 148                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-iku.html">@KJ{{going}}@HI{{ku}}</a>                                            </td>

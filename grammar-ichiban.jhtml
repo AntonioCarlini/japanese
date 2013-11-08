@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{one^turn}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{one^turn}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{one^turn}} @Ai{{}}
+<li> @KJ{{one^turn}} @Aistem{{}}@HI{{ku}}
+<li> @KJ{{one^turn}} @Anastem{{}}@HI{{da}}
+<li> @KJ{{one^turn}} @Anastem{{}}@HI{{ni}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{one^turn}} is a superlative marker (meaning "the best") which precedes an adjective or adverb.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{kurasu}}no@KJ{{in}}de@KJ{{large^stream}}sanga@KJ{{one^turn^head}}gaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Okawa is the brightest in the class.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{in}}dedono@KJ{{reflect^brush-stroke}}ga@KJ{{one^turn}}omoshiroidesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Among these, which film is the most interesting?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 148).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
