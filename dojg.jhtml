@@ -181,12 +181,12 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-iku.html">@KJ{{going}}@HI{{ku}}</a>                                            </td>
   <td class=""> DOBJG, p. 149                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kuru.html">@Vte{{}}@KJ{{going}}@HI{{ku}}</a>                                   </td>
+  <td class="left"> <a href="grammar-te-iku.html">@Vte{{}}@KJ{{going}}@HI{{ku}}</a>                                 </td>
   <td class=""> DOBJG, p. 151                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-iru.html">@HI{{iru}}</a>                                                       </td>

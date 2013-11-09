@@ -182,6 +182,7 @@
 <h2> <a name="hi-i">@HI{{i}}</a> </h2>
 
 <h3> <a href="grammar-ichiban.html"> @KJ{{one^turn}} </a> </h3>
+<h3> <a href="grammar-iku.html"> @KJ{{going}}@HI{{ku}} </a> </h3>
 <h3> <a href="grammar-iru.html"> @HI{{iru}} </a> </h3>
 <h3> <a href="grammar-itsu.html"> @HI{{itsu}} </a> </h3>
 <h3> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a> </h3>
@@ -249,6 +250,7 @@
 <h3> <a href="grammar-te-cause.html"> @HI{{te}}-form cause </a> </h3>
 <h3> <a href="grammar-te-causative-itadakemasenka.html"> @Vte{{}}(causative)@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a> </h3>
+<h3> <a href="grammar-te-iku.html"> @Vte{{}}@KJ{{going}}@HI{{ku}} </a> </h3>
 <h3> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a> </h3>
 <h3> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a> </h3>
 <h3> <a href="grammar-te-oku.html"> @Vte{{}}@HI{{oku}} </a> </h3>

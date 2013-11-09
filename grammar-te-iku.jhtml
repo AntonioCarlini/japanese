@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@KJ{{going}}@HI{{ku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@Vte{{}}@KJ{{going}}@HI{{ku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@KJ{{going}}@HI{{ku}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@Vte{{}}@KJ{{going}}@HI{{ku}} indicates that some change starts from the point in time that the speaker describes the action and
+continues into the future.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{korekaraha@KJ{{cold}}kunatte@KJ{{going}}kimasuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's going to become colder from now on.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The point in time at which the change starts may be in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{part}}karanaikotowo@KT{{no-to}}ni@KJ{{write}}ite@KJ{{going}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I went on taking notes on things I didn't understand.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 151).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
