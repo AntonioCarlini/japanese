@@ -3,36 +3,36 @@
 
 <head>
 <title>@HI{{kosoado}}</title>
-<link rel="stylesheet" type="text/css" href="japanese.xcss"/>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style media="screen" type="text/css">
 
-table
+table.hg
 {
   border-collapse: collapse;
   border-width: medium;
   border: none;
 }
 
-table, th, td
+table.hg, th.hg, td.hg
 {
   margin-left: 1em;
   text-alignment: left;
 }
 
-th
+th.hg
 {
   border: 1px solid black;
   min-width: 10em;
 }
 
-td
+td.hg
 {
   cell-spacing: 2em;
   border: none
 }
 
-tr:hover
+tr.hg:hover
 {
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ tr:hover
 
 <h2> Formation </h2>
 
-<table>
+<table class="highlight hg">
 <tr>
   <th> &nbsp; </th>
   <th> @HI{{ko}}- </th>
@@ -134,54 +134,10 @@ The <strong>@HI{{do}}-</strong> demonstratives refer to something about which a 
 </p>
 
 <p>
-<strong>@HI{{kore}}</strong>, <strong>@HI{{sore}}</strong> and <strong>@HI{{are}}</strong> are demonstratives and function as pronouns.
-</p>
-
-<p>
-<strong>@HI{{dore}}</strong> is an interrogative used to ask the listener to choose one item from a
-set of <em>three</em> or more things.
-</p>
-
-
-<p>
-<strong>@HI{{kono}}</strong>, <strong>@HI{{sono}}</strong> and <strong>@HI{{ano}}</strong> are pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is used with a following noun to ask "which" noun.
-</p>
-
-<p>
-<strong>@HI{{donnna}}</strong> is used with a following noun to mean "what kind of". 
-It can be used to ask the listener to name one of a group which the following noun describes describes.
-</p>
-
-<p>
-<strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <stron>@HI{{asoko}}</strong> refer to a place.
-</p>
-
-<p>
-<strong>@HI{{kochira}}</strong>, <stron>@HI{{sochira}}</strong> and <strong>@HI{{achira}}</strong> are demonstratives
-that refer to a direction. They can also be used to refer to a place, in which case they are considered more
-polite than <strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <strong>@HI{{asoko}}</strong>.
-</p>
-
-<p>
-<strong>@HI{{doko}}</strong> means "where" and <strong>@HI{{dochira}}</strong> means "which direction".
-<strong>@HI{{dochira}}</strong> can also mean "where", in which case it is more polite than
-<strong>@HI{{doko}}</strong>. <br/>
-<strong>@HI{{doko}}</strong> or <strong>@HI{{dochira}}</strong> are also used to ask the name of a country, school,
-company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
-used for this purpose.
-</p>
-
-<h2> Examples </h2>
+<a name="kore"><strong>@HI{{kore}}</strong></a>, <strong>@HI{{sore}}</strong> and <strong>@HI{{are}}</strong> are 
+demonstratives and function as pronouns.
 
 <ol>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{<strong>sore</strong>ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Is that a dictionary?
-  </td> </tr>
-</table>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
@@ -191,6 +147,29 @@ used for this purpose.
       Please give me this one.
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sore</strong>ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is that a dictionary?
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<p>
+<a name="dore"><strong>@HI{{dore}}</strong></a> is an interrogative used to ask the listener to choose one item from a
+set of <em>three</em> or more things.
+</p>
+
+
+<p>
+<a name="kono"><strong>@HI{{kono}}</strong></a>, <strong>@HI{{sono}}</strong> and <strong>@HI{{ano}}</strong> are
+pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is used with a following noun to ask "which" noun.
+
+<ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
@@ -209,6 +188,34 @@ used for this purpose.
       Who is that (person)?
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KT{{santosu}}@HI{{sanha <strong>dono</strong>}}@KJ{{person}}@HI{{desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Which one is Mr. Santos?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
+      <strong>kono</strong>@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
+      @KJ{{place}}he @KJ{{going}}kemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What I want most is a "magic door". When you open this door, you can go anywhere you want.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<p>
+<a name="donna"><strong>@HI{{donnna}}</strong></a> is used with a following noun to mean "what kind of". 
+It can also be used to ask the listener to name one of a group which the following noun describes describes.
+
+<ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
@@ -233,32 +240,32 @@ used for this purpose.
       B: I like football.
   </td> </tr>
 </table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @KT{{santosu}}@HI{{sanha <strong>dono</strong>}}@KJ{{person}}@HI{{desuka.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Which one is Mr. Santos?
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
-      <strong>kono</strong>@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
-      @KJ{{place}}he @KJ{{going}}kemasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      What I want most is a "magic door". When you open this door, you can go anywhere you want.
-  </td> </tr>
-</table>
 </ol>
+</p>
+
+<p>
+<a name="koko"><strong>@HI{{koko}}</strong></a>, <strong>@HI{{soko}}</strong> and <stron>@HI{{asoko}}</strong> refer to a place.
+</p>
+
+<p>
+<a name="kochira"><strong>@HI{{kochira}}</strong></a>, <stron>@HI{{sochira}}</strong> and <strong>@HI{{achira}}</strong> are demonstratives
+that refer to a direction. They can also be used to refer to a place, in which case they are considered more
+polite than <strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <strong>@HI{{asoko}}</strong>.
+</p>
+
+<p>
+<a name="doko"><strong>@HI{{doko}}</strong></a> means "where" and <strong>@HI{{dochira}}</strong> means "which direction".
+<strong>@HI{{dochira}}</strong> can also mean "where", in which case it is more polite than
+<strong>@HI{{doko}}</strong>. <br/>
+<strong>@HI{{doko}}</strong> or <strong>@HI{{dochira}}</strong> are also used to ask the name of a country, school,
+company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
+used for this purpose.
+</p>
 
 <h2> Notes </h2>
 
 <a name="ko-vs-so"></a>
-In writing a word from the @HI{{ko}}-series is used rather than one from the @HI{{so}}-series to
+In writing a word from the @HI{{ko}}-series may be used rather than one from the @HI{{so}}-series to
 refer to something previously mentioned. In this case the author is describing something
 as though it really existed then and there.
 <p></p>
