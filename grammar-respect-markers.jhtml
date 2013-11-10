@@ -21,47 +21,42 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{sann}}</strong> is added as a suffix to the name of the listener or to a third person, or to nouns
+<a name="san"><strong>@HI{{sann}}</strong></a> is added as a suffix to the name of the listener or to a third person, or to nouns
 describing these, to show the speaker's respect for the person. It is <em>never</em> used by the speaker when
 referring to himself. Note that in Japanese speech the pronoun for "you", @HI{{anata}}, is not often used;
 instead refer to the listener by using their family name followed by @HI{{sann}} or by an appropriate title.
-</p>
 
-<p>
-<strong>@HI{{kunn}}</strong> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
-of a person of lower rank. This suffix is often used in schools and at work.
-</p>
-
-<p>
-<strong>@HI{{o}}</strong> can be added to some words in order to show respect for another person.
-</p>
-
-<p>
-<strong>@HI{{go}}</strong> can be added to some words in order to show respect for another person.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{direction}}ha @KT{{mira-}}sandesu.}}
+      @HI{{ano@KJ{{direction}}ha @KT{{mira-}}<strong>sann</strong>desu.}}
   </td> </tr>
   <tr class="en"> <td>
       That's Mr. Miller.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="kun"><strong>@HI{{kunn}}</strong></a> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
+of a person of lower rank. This suffix is often used in schools and at work.
+</p>
+
+<p>
+<a name="o"><strong>@HI{{o}}</strong></a> can be added to some words in order to show respect for another person.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@KJ{{country}}hadochiradesuka.}}
+      @HI{{<strong>o</strong>@KJ{{country}}hadochiradesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Where are you from?
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+<a name="go"><strong>@HI{{go}}</strong></a> can be added to some words in order to show respect for another person.
+</p>
 
 <h2> Notes </h2>
 
