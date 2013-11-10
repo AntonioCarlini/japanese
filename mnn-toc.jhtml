@@ -187,7 +187,7 @@ div.main {
 <li> @N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> <a href="grammar-particle-no.html">@N1{{}}@N2{{position}}</a>
-<li> <a href="grammar-particle-ya.html">@N1@HI{{ya}}@N2{{}}</a>
+<li> <a href="grammar-particle-ya.html">@N1{{}}@HI{{ya}}@N2{{}}</a>
 <li> <a href="grammar-particle-ka.html"><em>words</em>@HI{{desuka}}</a>
 <li> <a href="grammar-arimasen-ka.html">@HI{{arimasenka}}</a>
 </ol>
