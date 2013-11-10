@@ -934,9 +934,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ga-da.html"> @HI{{~ga ~da}} </a>                                               </td>
+  <td class="left"> <a href="grammar-basic-sentence-patterns.html#waga"> @HI{{~ha ~ga}} </a>                        </td>
   <td class=""> DOBJG, p. 525                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{haikenai}} </a>                             </td>

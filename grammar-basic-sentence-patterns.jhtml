@@ -11,7 +11,7 @@
 
 <h1>Basic Sentence Patterns</h1>
 
-<h2> @N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}} </h2>
+<h2> <a name="AwaBdesu"> @N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}}</a> </h2>
 
 <p>
 In this pattern <a href="grammar-particle-wa.html">@HI{{ha}}</a> marks the topic of the sentence, the remainder of
@@ -19,13 +19,6 @@ the sentence offers information about the topic. To make a predicate, a noun nee
 <a href="grammar-copula.html">copula</a>; in
 this case @HI{{desu}} is used as this is a polite sentence. For a negative sentence @HI{{desu}} would be
 replaced by @HI{{jaarimasenn}}.
-</p>
-
-<p>
-If @N2{{}} describes a place then this sentence pattern explains where a place, a thing or a person is.
-</p>
-
-<h2> Examples </h2>
 
 <ol>
 <li>
@@ -43,7 +36,7 @@ If @N2{{}} describes a place then this sentence pattern explains where a place, 
       @HI{{@KJ{{private}}ha @KT{{enjinia}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
-      I am Mike Miller.
+      I am an engineer.
   </td> </tr>
 </table>
 <li>
@@ -52,10 +45,15 @@ If @N2{{}} describes a place then this sentence pattern explains where a place, 
       @HI{{@KT{{santos}}sanha@KJ{{study^life}}jaarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
-      I am Mike Miller.
+      Mr. Santos is not a teacher.
   </td> </tr>
 </table>
-<li>
+</ol>
+</p>
+
+<p>
+If @N2{{}} describes a place then this sentence pattern explains where a place, a thing or a person is.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^rice*field}}sanha@KJ{{matter^task^place}}desu.}}
@@ -64,15 +62,50 @@ If @N2{{}} describes a place then this sentence pattern explains where a place, 
       Mr. Yamada is in the office.
   </td> </tr>
 </table>
-</ol>
+</p>
 
-<h2> Notes </h2>
+<h2> <a name="waga">~ @HI{{ha}} ~ @HI{{ga}}</a> </h2>
+
+<p>
+This construction relates a non-controllable state to a topic.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}<strong>ha</strong>@KJ{{England^word}}<strong>ga</strong>@KJ{{part}}karimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I understand English.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{flower^child}}<strong>ha</strong>@KJ{{eye}}<strong>ga</strong>kireidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hanako has pretty eyes.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{resign^write}}<strong>ha</strong>@KT{{waxebusuta-}}<strong>ga</strong>iidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As for dictionaries, Webster's is good.
+  </td> </tr>
+</table>
+</ol>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{DOBJG}}. (p. 525).
 </ol>
 
 </br></br>
