@@ -252,6 +252,7 @@ JHTML_SRCS += grammar-verb-use-of-passive.jhtml
 JHTML_SRCS += grammar-verb-use-of-potential.jhtml
 JHTML_SRCS += grammar-verb-use-of-volitional.jhtml
 JHTML_SRCS += grammar-wakaru.jhtml
+JHTML_SRCS += grammar-wake-da.jhtml
 JHTML_SRCS += grammar-ya-store.jhtml
 JHTML_SRCS += grammar-yahari.jhtml
 JHTML_SRCS += grammar-yasui.jhtml
