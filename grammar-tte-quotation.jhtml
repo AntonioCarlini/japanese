@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>quote</em> <strong>@HI{{tte}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{tte}}</strong> is an informal version of the quotation marker @HI{{to}}.
+When <strong>@HI{{tte}}</strong> is followed by @KJ{{say}}@HI{{u}},
+then the meaning is "the person who is the topic says ...".
+If there is no following verb then the meaning is ambiguous as the clause could mean "they say ...".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{je-nn}}ha@KJ{{jump}}ranai<strong>tte</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Jane said she wouldn't dance./They say Jane won't dance.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}mo@KJ{{going}}kou<strong>tte</strong>@KJ{{think}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wondered if I should go there too.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 510).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

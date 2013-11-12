@@ -230,6 +230,7 @@ JHTML_SRCS += grammar-toshite-wa.jhtml
 JHTML_SRCS += grammar-toshite.jhtml
 JHTML_SRCS += grammar-tsukuru.jhtml
 JHTML_SRCS += grammar-tsumori.jhtml
+JHTML_SRCS += grammar-tte-quotation.jhtml
 JHTML_SRCS += grammar-uchi-ni.jhtml
 JHTML_SRCS += grammar-verb-conjugations.jhtml
 JHTML_SRCS += grammar-verb-contractions.jhtml

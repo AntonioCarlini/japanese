@@ -909,9 +909,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-tte.html"> @HI{{tte}} </a>                                                     </td>
+  <td class="left"> <a href="grammar-tte-quotation.html"> @HI{{tte}} </a>                                           </td>
   <td class=""> DOBJG, p. 510                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-uchi-ni.html"> @HI{{uchini}} </a>                                              </td>
