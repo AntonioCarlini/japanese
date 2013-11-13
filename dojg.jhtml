@@ -269,9 +269,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-keredomo.html">@HI{{keredomo}}</a>                                             </td>
+  <td class="left"> <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a>                                    </td>
   <td class=""> DOBJG, p. 187                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kikoeru.html">@KJ{{hear}}@HI{{koeru}}</a>                                      </td>
