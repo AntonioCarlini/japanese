@@ -1231,7 +1231,7 @@ class KD
     "turf" => Kanji.new(1216, 33437, ["SHI"], ["shiba"], ["koge","shiha"], ["turf","lawn"], 8, 1),
     "negative" => Kanji.new(1217, 19981, ["HU","BU"], [""], [""], ["negative","non-","bad","ugly","clumsy"], 4, 3),
     "negate" => Kanji.new(1218, 21542, ["HI"], ["ina","iya"], [""], ["negate","no","noes","refuse","decline","deny"], 6, 2),
-    "counter*for*cupfuls" => Kanji.new(1219, 26479, ["HAI"], ["sakazuki"], [""], ["counter for cupfuls","wine glass","glass","toast"], 8, 2),
+    "cupfuls" => Kanji.new(1219, 26479, ["HAI"], ["sakazuki"], [""], ["cupfuls","counter for cupfuls","wine glass","glass","toast"], 8, 2),
     "dart" => Kanji.new(1220, 30690, ["SHI"], ["ya"], [""], ["dart","arrow"], 2, 1),
     "rectify" => Kanji.new(1221, 30703, ["KYOU"], ["ta.meru"], [""], ["rectify","straighten","correct","reform","cure","control","pretend","falsify"], 8, 1),
     "tribe" => Kanji.new(1222, 26063, ["ZOKU"], [""], ["tsugi"], ["tribe","family"], 3, 3),
