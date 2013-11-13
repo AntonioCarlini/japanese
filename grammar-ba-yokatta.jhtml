@@ -23,16 +23,9 @@
 
 <p>
 This sentence pattern expresses the speaker's regret and is often translated as "I wish I had done ...".
-</p>
+It is an idiomatic expression made up of a conditional clause and @HI{{yokatta}}; the literal meaning
+is "if ~ had been done, it would have been good".
 
-<p>
-@Vba{{}} expresses a condition that did not in fact happen in the past.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{before^life}}ni @KJ{{hear}}tebayokattadesu.}}
@@ -41,7 +34,25 @@ This sentence pattern expresses the speaker's regret and is often translated as 
       I wish I had asked my teacher.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+@Vba{{}} expresses a condition that did not in fact happen in the past.
+</p>
+
+<p>
+To express the idea that someone other than the speaker wishes that something had been done, use this expression
+with @KJ{{think}}@HI{{u}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{biru}}ha@KJ{{day^book}}he@KJ{{going}}kebayokattato@KJ{{think}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bill thinks that it would have been good if he had gone to Japan.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 

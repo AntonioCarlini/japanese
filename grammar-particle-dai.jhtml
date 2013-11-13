@@ -32,12 +32,7 @@
 
 <p>
 <strong>@HI{{dai}}</strong> is a sentence-final particle which is used in informal male speech to mark a WH-question.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{dokoga@KJ{{quiet}}ka<strong>dai</strong>.}}
@@ -46,7 +41,7 @@
       What place is quiet?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -56,14 +51,9 @@ When <strong>@HI{{dai}}</strong> is used with a question, it must be an interrog
 </p>
 
 <p>
-<strong>@HI{{dai}}</strong> is actually the <a href="grammar-copula.html">da</a> followed by @HI{{i}}, so it can only
+<strong>@HI{{dai}}</strong> is actually the <a href="grammar-copula.html">copula</a> followed by @HI{{i}}, so it can only
 follow @HI{{na}}-adjectives and nouns. It can follow @HI{{i}}-adjectives and verbs if the form <strong>@HI{{ndai}}</strong>
 as the @HI{{nn}} is an abbreviation of the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>.
-</p>
-
-<p>
-<strong>@HI{{dai}}</strong> cannot be used for "yes/no" questions, only WH questions. For "yes/no" questions,
-@HI{{kai}} is used instead.
 </p>
 
 <h2> References </h2>

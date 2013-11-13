@@ -20,27 +20,20 @@
 <li> @Ai{{}} <strong>@HI{{bakari}}</strong>
 <li> @Ana{{}} <strong>@HI{{bakari}}</strong>
 <li> @N{{}} <strong>@HI{{bakari}}</strong>
+<li> @N{{}} <em>particle</em> <strong>@HI{{bakari}}</strong>
+<li> <em>quantifier</em> <strong>@HI{{bakari}}</strong>
 </ol>
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{bakari}}</strong> is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
-<p></p>
+</p>
 
+<p>
 @Vta{{}} <strong>@HI{{bakari}}</strong> indicates that something has just happened or has just been done. It is the
 speaker's feeling that determines whether the action is recent or not.
-<p></p>
 
-@Vte{{}} <strong>@HI{{bakari}}</strong> indicates that something is being done, with a nuance that nothing else is being done.
-<p></p>
-
-@Vru{{}} <strong>@HI{{bakari}}</strong> indicates that something is about to be done.
-<p></p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{sakki @KJ{{daytime}}gohanwo @KJ{{eat}}beta <strong>bakari</strong> desu.}}
@@ -49,9 +42,55 @@ speaker's feeling that determines whether the action is recent or not.
     I had lunch just a little while ago.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+@Vte{{}} <strong>@HI{{bakari}}</strong> indicates that something is being done, with a nuance that nothing else is being done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{springtime^creek}}ha@KJ{{cry}}te<strong>bakari</strong>ite@KJ{{what}}mo@KJ{{tale}}soutoshinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Harue is crying and won't talk about anything.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@Vru{{}} <strong>@HI{{bakari}}</strong> indicates that something is about to be done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KT{{repo-to}}haato@KJ{{tie^argument}}wo@KJ{{write}}ku<strong>bakari</strong>da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The only thing left to do with this report is to write a conclusion.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+In classical Japanese <strong>@HI{{bakari}}</strong> expressed the speaker's conjecture and this is still seen
+in <em>quantifier</em><strong>@HI{{bakari}}</strong>, which means "about".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{ten^person}}<strong>bakari</strong>no@KJ{{friend^accomplished}}ga@KJ{{hand^transmit}}ttekuremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    About 10 friends helped me.
+  </td> </tr>
+</table>
+</p>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+When <strong>@HI{{bakari}}</strong> follows @HI{{ga}} or @HI{{wo}}, these particles drop. When it follows
+@HI{{ni}} or @HI{{he}}, these particles may optionally drop. Other particles remain.
+</p>
 
 <h2> References </h2>
 

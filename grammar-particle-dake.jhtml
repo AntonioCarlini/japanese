@@ -14,17 +14,52 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{dake}}</strong> ... V
-<li> <em>quantifier</em> <strong>@HI{{dake}}</strong> ... V
+<li> @N{{}} <strong>@HI{{dake}}</strong>
+<li> <em>quantifier</em> <strong>@HI{{dake}}</strong> 
+<li> @Vru{{}} <strong>@HI{{dake}}</strong>
+<li> @Ai{{}} <strong>@HI{{dake}}</strong>
+<li> @Ana{{}} <strong>@HI{{dake}}</strong>
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 <strong>@HI{{dake}}</strong> follows nouns and quantifiers and means "that's all" or "only".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}niha@KJ{{one^degrees}}<strong>dake</strong>@KJ{{meeting}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I met that professor only once.
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+<p>
+<strong>@HI{{dake}}</strong> can also be used after a verb or an adjective.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{morning}}ha@KT{{ko-hi-}}wo@KJ{{one^cupfuls^drink}}mu<strong>dake</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In the morning I just drink a cup of coffee and that's all.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{hon}}ha@KJ{{tall}}i<strong>dake</strong>deomoshirokunai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This book is just expensive and not interesting.
+  </td> </tr>
+</table>
+</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -36,6 +71,18 @@ and @HI{{wo}}, which can optionally be used only after <strong>@HI{{dake}}</stro
 
 <p>
 @Vreru{{}} + <strong>@HI{{dake}}</strong> means "as much as one can".
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{jump}}reru<strong>dake</strong>@KJ{{jump}}rou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's dance as much as we can (dance).
+  </td> </tr>
+</table>
+</ol>
 </p>
 
 <h2> References </h2>
