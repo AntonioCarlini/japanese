@@ -77,6 +77,7 @@ JHTML_SRCS += grammar-kamo-shiremasen.jhtml
 JHTML_SRCS += grammar-kata.jhtml
 JHTML_SRCS += grammar-kawari-ni.jhtml
 JHTML_SRCS += grammar-kenjougo.jhtml
+JHTML_SRCS += grammar-kikoeru.jhtml
 JHTML_SRCS += grammar-kitto-tabun-moshikashitara.jhtml
 JHTML_SRCS += grammar-koro.jhtml
 JHTML_SRCS += grammar-koso.jhtml
