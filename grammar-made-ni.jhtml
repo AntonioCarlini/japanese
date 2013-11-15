@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru <strong>@HI{{made ni}}</strong> V
+<li> @Vru{{}} <strong>@HI{{made ni}}</strong> V
 <li> @N{{time}} <strong>@HI{{made ni}}</strong> V
 </ol>
 
@@ -41,7 +41,7 @@ is the time limit by which an action is to be completed.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{jetto}}@KJ{{mechanism}}ga @KT{{pari}}ni @KJ{{don}}ku<strong>made ni</strong>
-      @KJ{{book}}wo@KJ{{three^tome^read}}de shimaimashita.}}
+      @KJ{{book}}wo@KJ{{three^tome^read}}nde shimaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       By the time the jet arrived in Paris I had finished reading 3 books.

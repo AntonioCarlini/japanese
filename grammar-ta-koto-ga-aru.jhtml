@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vta{{}} @HI{{koto ga aru}}</strong>
-<li> <strong>@Aistem{{}}katta @HI{{koto ga aru}}</strong>
-<li> <strong>@Anastem{{}} datta @HI{{koto ga aru}}</strong>
-<li> <strong>@N{{}} datta @HI{{koto ga aru}}</strong>
+<li> @Vta{{}} <strong>@HI{{koto ga aru}}</strong>
+<li> @Aistem{{}}@HI{{katta}} <strong>@HI{{koto ga aru}}</strong>
+<li> @Anastem{{}}@HI{{datta}} <strong>@HI{{koto ga aru}}</strong>
+<li> @N{{}}@HI{{datta}} <strong>@HI{{koto ga aru}}</strong>
 </ol>
 
 <h2> Definition </h2>
