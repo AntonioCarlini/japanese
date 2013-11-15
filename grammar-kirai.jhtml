@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kirai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kirai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{kirai}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{kirai}}</strong> is a @HI{{na}}-adjective meaning "don't like" or "dislike" that takes the 
+<a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}}...@HI{{ga}}</a> construction. The
+person who dislikes is marked by @HI{{ha}} and the object of the dislike is marked by @HI{{ga}}. In a subordinate
+clause @HI{{ha}} becomes @HI{{ga}}.
+</p>
+
+<p>
+To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI{{daikirai}}.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{howaito}}sanha@KT{{futtobo-ru}}ga<strong>daikirai</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. White hates football.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KJ{{winter}}ga<strong>kirai</strong>da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I dislike winter.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KT{{chi-zu}}ga<strong>kirai</strong>desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't like cheese.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 190).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
