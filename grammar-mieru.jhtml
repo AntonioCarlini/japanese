@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{see}}@HI{{eru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{see}}@HI{{eru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{see}}@HI{{eru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{see}}@HI{{eru}} is used to indicate that something is passively and spontaneously visible. It is
+used when the subject has not actively caused the seeing to happen. If the seeing is active (that is,
+due to the volition of the experiencer)
+then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{kikeru}}, is used.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{distant}}kunomonogayoku@KJ{{see}}iemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To me distant objects are very visible.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{window}}kara@KJ{{sea}}ga@KJ{{see}}iemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      From the window you can see the ocean.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 243).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
