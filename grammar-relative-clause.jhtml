@@ -44,6 +44,27 @@ Particles attached to the noun that acquires a relative clause are deleted.
 The topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
 @HI{{ga}} or @HI{{no}}. However, if the subject of the sentence is followed by a noun and @HI{{no}} then
 the meaning of the sentence would not be as intended.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}<strong>ga</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom Tom gave a football ticket.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}<strong>no</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom someone gave Tom's football ticket.
+  </td> </tr>
+</table>
+</ol>
 </p>
 
 <h2> Examples </h2>
@@ -65,24 +86,6 @@ the meaning of the sentence would not be as intended.
   </td> </tr>
   <tr class="en"> <td>
       I like the picture that Ms. Karina drew.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}<strong>ga</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The girl to whom Tom gave a football ticket.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}<strong>no</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The girl to whom someone gave Tom's football ticket.
   </td> </tr>
 </table>
 </ol>
