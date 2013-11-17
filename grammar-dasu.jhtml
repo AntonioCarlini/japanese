@@ -36,13 +36,23 @@ has started to happen.
       The car started to move.
   </td> </tr>
 </table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rain}}ga@KJ{{descend}}ri@KJ{{exit}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Suddenly it began to rain.
+  </td> </tr>
+</table>
 </ol>
 
 <h2> Notes </h2>
 
 <p>
 The suffix @KJ{{exit}}@HI{{su}} usually indicates an abrupt and non-volitional start.
-@HI{{hajimeru}}, on the other hand, has a broader usage.
+<a href="grammar-hajimeru.html">@HI{{hajimeru}}</a>, on the other hand, has a broader usage.
+The antonym of both of these forms is a verb with the suffix <a href="grammar-owaru.html">@KJ{{end}}@HI{{waru}}</a>.
 </p>
 
 <h2> References </h2>

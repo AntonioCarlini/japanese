@@ -14,7 +14,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{hodo}}</strong> ... 
+<li> @N{{}}<strong>@HI{{hodo}}</strong>
+<li> <em>demonstrative</em><strong>@HI{{hodo}}</strong>
+<li> @Splain{{}}<strong>@HI{{hodo}}</strong>
 </ol>
 
 <h2> Definition </h2>
@@ -45,8 +47,8 @@
 </p>
 
 <p>
-<strong>@HI{{hodo}}</strong> is used to indicate a comparison.
-sentence.
+<strong>@HI{{hodo}}</strong> is used to indicate a comparison. Note that when <strong>@HI{{hodo}}</strong>
+follows a noun, the predicate must be in the negative.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -87,6 +89,7 @@ sentence.
 
 <ol>
 <li> @REF{{AAP}}. (p 77).
+<li> @REF{{DOBJG}}. (p 135).
 </ol>
 
 <br/><br/>
