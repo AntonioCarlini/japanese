@@ -85,6 +85,7 @@ JHTML_SRCS += grammar-koso.jhtml
 JHTML_SRCS += grammar-kosoado.jhtml
 JHTML_SRCS += grammar-koto-ga-dekiru.jhtml
 JHTML_SRCS += grammar-koto-nominaliser.jhtml
+JHTML_SRCS += grammar-koto-thing.jhtml
 JHTML_SRCS += grammar-mada-te-inai.jhtml
 JHTML_SRCS += grammar-mada.jhtml
 JHTML_SRCS += grammar-made-ni.jhtml
