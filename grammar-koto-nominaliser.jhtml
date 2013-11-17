@@ -41,15 +41,15 @@ In the pattern:
 <br/>
 A@HI{{ha}}B@HI{{desu}}
 <br/>
-@HI{{koto}} can be used in position B but @HI{{no}} cannot.
+<string>@HI{{koto}}</strong> can be used in position B but @HI{{no}} cannot.
 </p>
 
 <p>
 The pattern
 <br/>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}} @Vru{{}} @HI{{koto desu.}}
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}}@Vru{{}}@HI{{<strong>koto</strong> desu.}}
 <br/>
-can be usd to better define a hobby.
+can be used to better define a hobby.
 </p>
 
 <h2> Examples </h2>
@@ -67,7 +67,7 @@ can be usd to better define a hobby.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku koto desu.}}
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku <strong>koto</strong> desu.}}
   </td> </tr>
   <tr class="en"> <td>
       My hobby is listening to music.

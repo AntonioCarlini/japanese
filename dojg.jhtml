@@ -291,12 +291,12 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-koto-nominaliser.html">@HI{{koto}}</a> (nominaliser)                           </td>
   <td class=""> DOBJG, p. 193                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ta-koto-ga-aru.html">@Vta{{}}@HI{{kotogaaru}}</a>                              </td>
   <td class=""> DOBJG, p. 196                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-koto-ga-aru.html">@Vru{{}}@HI{{kotogaaru}}</a>                                 </td>
@@ -306,7 +306,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-koto-ga-dekiru.html">@HI{{kotogadekiru}}</a>                                   </td>
   <td class=""> DOBJG, p. 200                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>                                       </td>
@@ -331,7 +331,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-respect-markers.html">@HI{{kunn}}</a>                                          </td>
   <td class=""> DOBJG, p. 211                                                                                       </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="started"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kurai.html">@HI{{kurai}}</a>                                                   </td>
@@ -341,12 +341,12 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-giving-receiving.html">@HI{{kureru}}</a>                                       </td>
   <td class=""> DOBJG, p. 213                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-giving-receiving-actions.html">@Vte{{}}@HI{{kureru}}</a>                       </td>
   <td class=""> DOBJG, p. 216                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kuru.html">@KJ{{come}}@HI{{ru}}</a>                                            </td>
