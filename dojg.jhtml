@@ -191,10 +191,10 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-iru.html">@HI{{iru}}</a>                                                       </td>
   <td class=""> DOBJG, p. 153                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-iru.html">@Vte{{}}@HI{{iru}}</a>                                               </td>
+  <td class="left"> <a href="grammar-te-iru.html">@Vte{{}}@HI{{iru}}</a>                                            </td>
   <td class=""> DOBJG, p. 155                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -226,17 +226,17 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-kadouka.html">@HI{{kadouka}}</a>                                               </td>
   <td class=""> DOBJG, p. 168                                                                                       </td>
-  <td class="">  </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="started"> &radic; </td>
+  <td class="">  </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-kai.html">@HI{{kai}}</a>                                              </td>
   <td class=""> DOBJG, p. 170                                                                                       </td>
-  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="started"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kamoshirenai.html">@HI{{kamoshirenai}}</a>                                     </td>
+  <td class="left"> <a href="grammar-kamo-shiremasen.html">@HI{{kamoshirenai}}</a>                                  </td>
   <td class=""> DOBJG, p. 173                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-kara.html">@HI{{kara}}</a> (particle)                                 </td>
@@ -256,17 +256,17 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-particle-kashira.html">@HI{{kashira}}</a>                                      </td>
   <td class=""> DOBJG, p. 181                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kata.html">@HI{{kata}}</a>                                                     </td>
   <td class=""> DOBJG, p. 183                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kawari-ni.html">@HI{{kawarini}}</a>                                            </td>
   <td class=""> DOBJG, p. 185                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a>                                    </td>

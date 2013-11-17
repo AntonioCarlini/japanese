@@ -221,7 +221,8 @@
 <h2> <a name="hi-ko">@HI{{ko}}</a> </h2>
 
 <h3> <a href="grammar-kosoado.html"> @HI{{kosoado}}</a> </h3>
-<h3> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a> </h3>
+<h3> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a> (nominaliser) </h3>
+<h3> <a href="grammar-koto-thing.html"> @HI{{koto}}</a> (thing)</h3>
 <h3> <a href="grammar-particle-koto.html"> @HI{{koto}} (particle)</a> </h3>
 <h3> <a href="grammar-koto-ga-dekiru.html"> @HI{{koto ga dekiru}}</a> </h3>
 <h3> <a href="grammar-koso.html"> @HI{{koso}} </a> </h3>

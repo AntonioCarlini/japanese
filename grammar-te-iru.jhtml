@@ -21,6 +21,15 @@
 
 <p>
 <strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a customary action.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^morning}} @KT{{jogingu}}wo shi<strong>te imasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I jog every morning.
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -30,28 +39,8 @@ by the verb. If the verb describes an action that can be repeated or continued,
 verb expresses a momentary action, <strong>@Vte{{}}@HI{{iru}}</strong> expresses the idea
 that the action happened and the resulting state continues. Verbs used in this construction
 are intransitive ones.
-</p>
-
-<p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is in progress.
-</p>
-
-<p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is habitual.
-</p>
-
-<h2> Examples </h2>
 
 <ol>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-      @HI{{@KJ{{every^morning}} @KT{{jogingu}}wo shi<strong>te imasu</strong>.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I jog every morning.
-  </td> </tr>
-</table>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -73,22 +62,31 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @KJ{{now electricity^tale}}wo kakete imasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Mr. Miller is making a phone call now.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{tie^marriage}}shite imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm married.
   </td> </tr>
 </table>
-<li>
+</ol>
+</p>
+
+<p>
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is in progress.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanha @KJ{{now electricity^tale}}wo kakete imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Miller is making a phone call now.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is habitual.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{su-pa-}}de @KT{{firumu}}wo @KJ{{sell}}tte imasu.}}
@@ -97,7 +95,7 @@ are intransitive ones.
       Supermarkets sell films.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
