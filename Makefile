@@ -90,6 +90,7 @@ JHTML_SRCS += grammar-mada-te-inai.jhtml
 JHTML_SRCS += grammar-mada.jhtml
 JHTML_SRCS += grammar-made-ni.jhtml
 JHTML_SRCS += grammar-mae-ni.jhtml
+JHTML_SRCS += grammar-mai.jhtml
 JHTML_SRCS += grammar-mama.jhtml
 JHTML_SRCS += grammar-masen-ka.jhtml
 JHTML_SRCS += grammar-mashouka.jhtml
