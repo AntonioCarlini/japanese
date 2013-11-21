@@ -479,7 +479,7 @@ td#heading {
    <td> to come to mind                                          </td>
    <td> v5                                                       </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  5 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit5"> Unit  5 </a> </td> </tr>
  <tr>
    <td> @KJ{{morning^eat}}                                       </td>
    <td> @HI{{choushoku}}                                         </td>
@@ -612,7 +612,7 @@ td#heading {
    <td> shopping district                                        </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  6 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit6"> Unit  6 </a> </td> </tr>
  <tr>
    <td> @KJ{{number^week^interval}}                              </td>
    <td> @HI{{suushuukann}}                                       </td>
@@ -751,7 +751,7 @@ td#heading {
    <td> China                                                    </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  7 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit7"> Unit  7 </a> </td> </tr>
  <tr>
    <td> @KJ{{both^side}}                                         </td>
    <td> @HI{{ryougawa}}                                          </td>
@@ -812,7 +812,7 @@ td#heading {
    <td> custom; habit; manners                                   </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  8 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit8"> Unit  8 </a> </td> </tr>
  <tr>
    <td> @KJ{{example}}                                           </td>
    <td> @HI{{rei}}                                               </td>
@@ -897,7 +897,7 @@ td#heading {
    <td> to finish; to end                                        </td>
    <td> v5i                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit  9 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit9"> Unit  9 </a> </td> </tr>
  <tr>
    <td> @KJ{{bottom}}                                            </td>
    <td> @HI{{soko}}                                              </td>
@@ -1012,7 +1012,7 @@ td#heading {
    <td> necessary; need                                          </td>
    <td> na-adj                                                   </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 10 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit10"> Unit 10 </a> </td> </tr>
  <tr>
    <td> @KJ{{traffic}}@HI{{u}}                                   </td>
    <td> @HI{{kayou}}                                             </td>
@@ -1211,7 +1211,7 @@ td#heading {
    <td> to lose one's way                                        </td>
    <td> v5i                                                      </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 11 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit11"> Unit 11 </a> </td> </tr>
  <tr>
    <td> @KJ{{night^slow}}@HI{{ku}}                               </td>
    <td> @HI{{yoruosoku}}                                         </td>
@@ -1254,7 +1254,7 @@ td#heading {
    <td> light (not heavy)                                        </td>
    <td> i-adj                                                    </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 12 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit12"> Unit 12 </a> </td> </tr>
  <tr>
    <td> @KJ{{inter-^discuss}}                                    </td>
    <td> @HI{{soudann}}                                           </td>
@@ -1351,7 +1351,7 @@ td#heading {
    <td> red &amp; white: special occasion colours                </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 13 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit13"> Unit 13 </a> </td> </tr>
  <tr>
    <td> @KJ{{gold^color}}                                        </td>
    <td> @HI{{kinniro}}                                           </td>
@@ -1460,7 +1460,7 @@ td#heading {
    <td> New Year's soba                                          </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 14 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit14"> Unit 14 </a> </td> </tr>
  <tr>
    <td> @KJ{{beginning^day}}                                     </td>
    <td> @HI{{ganjitsu}}                                          </td>
@@ -1503,7 +1503,7 @@ td#heading {
    <td> reason                                                   </td>
    <td> n                                                        </td>
  </tr>
- <tr> <td colspan="4" id="heading"> <a name="unit"> Unit 15 </a> </td> </tr>
+ <tr> <td colspan="4" id="heading"> <a name="unit15"> Unit 15 </a> </td> </tr>
  <tr>
    <td> @KJ{{first*time^visit*a*temple}}@HI{{de}}                </td>
    <td> @HI{{hatsumoude}}                                        </td>
