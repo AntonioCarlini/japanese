@@ -125,6 +125,7 @@ JHTML_SRCS += grammar-noni-purpose.jhtml
 JHTML_SRCS += grammar-noun-sentences.jhtml
 JHTML_SRCS += grammar-o-ni-naru.jhtml
 JHTML_SRCS += grammar-o-suru.jhtml
+JHTML_SRCS += grammar-ooi.jhtml
 JHTML_SRCS += grammar-owaru.jhtml
 JHTML_SRCS += grammar-particle-dai.jhtml
 JHTML_SRCS += grammar-particle-dake.jhtml

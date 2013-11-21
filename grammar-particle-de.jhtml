@@ -20,41 +20,9 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{de}}</strong> indicates the location of an action.
-</p>
+<a name="location"><strong>@HI{{de}}</strong></a> indicates the location of an action. Note that it normally cannot
+indicate location of existence except in the case where it is used with @HI{{aru}} to locate an event.
 
-<p>
-<strong>@HI{{de}}</strong> indicates a means or an implement.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates the materials used.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates the greatest, least etc. in a comparison.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates the amount and scope.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates the mode or condition of the agent of an action.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates time or age.
-</p>
-
-<p>
-<strong>@HI{{de}}</strong> indicates the reason for something.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kinou @KJ{{silver^squat}}no@KT{{resutorann}}<strong>de</strong> @KJ{{nightfall}}gohanwo @KJ{{eat}}bemashita}}.
@@ -63,7 +31,11 @@
       Yesterday I had dinner at a restaurant in Ginza.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="means"><strong>@HI{{de}}</strong></a> indicates a means or an implement.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{day^book}}he @KJ{{boat}}<strong>de</strong>@KJ{{come}}mashita.}}
@@ -72,7 +44,11 @@
       I came to Japan by boat.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the materials used.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono @KT{{ke-ki}}ha, @KJ{{egg}}to@KJ{{sugar}}<strong>de</strong> @KJ{{make}}rimasu.}}
@@ -81,7 +57,11 @@
       This cake is made of butter and eggs.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the greatest, least etc. in a comparison.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{generation^world}}<strong>de</strong>@KJ{{one^turn^tall}}i@KJ{{mountain}}ha @KJ{{what}}desuka.}}
@@ -90,7 +70,11 @@
       What is the tallest mountain in the world?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the amount and scope.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono@KJ{{book}}ha 1@KJ{{time^interval}}<strong>de</strong> @KJ{{read}}memasu.}}
@@ -99,7 +83,11 @@
       You can read this book in an hour.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{de}}</strong> indicates the mode or condition of the agent of an action.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^rice*field}}sanha @KT{{apa-to}}ni 1@KJ{{person}}<strong>de</strong>@KJ{{dwell}}ndeimasu.}}
@@ -108,7 +96,11 @@
       Yamada lives in an apartment by himself.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="time"><strong>@HI{{de}}</strong></a> indicates time or age.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ano@KJ{{poem^person}}ha 25@KJ{{year-end}}<strong>de</strong>@KJ{{death}}nda.}}
@@ -117,7 +109,11 @@
       That poet died at 25.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="cause"><strong>@HI{{de}}</strong></a> indicates the reason for something.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{ill^spirit}}<strong>de</strong>@KJ{{trip^going}}ni@KJ{{going}}kenakatta.}}
@@ -126,7 +122,7 @@
       Because I was ill, I couldn't go on the trip.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -140,6 +136,7 @@ Note that if you walk somewhere, the expression @HI{{aruite}} is used and the pa
 <li> @REF{{AAP}}. (p 49).
 <li> @REF{{MNN-TR-I}}. (Chapter 5).
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{DOBJG}}. (p 105).
 </ol>
 
 <br/><br/>
