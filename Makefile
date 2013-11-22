@@ -68,6 +68,7 @@ JHTML_SRCS += grammar-ichiban.jhtml
 JHTML_SRCS += grammar-iku.jhtml
 JHTML_SRCS += grammar-interrogatives-with-particles.jhtml
 JHTML_SRCS += grammar-interrogatives.jhtml
+JHTML_SRCS += grammar-iru-need.jhtml
 JHTML_SRCS += grammar-iru.jhtml
 JHTML_SRCS += grammar-itsu.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
