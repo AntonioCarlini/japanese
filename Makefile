@@ -206,6 +206,7 @@ JHTML_SRCS += grammar-te-aru.jhtml
 JHTML_SRCS += grammar-te-causative-itadakemasenka.jhtml
 JHTML_SRCS += grammar-te-cause.jhtml
 JHTML_SRCS += grammar-te-conjunctive-forms.jhtml
+JHTML_SRCS += grammar-te-hoshii.jhtml
 JHTML_SRCS += grammar-te-iku.jhtml
 JHTML_SRCS += grammar-te-iru.jhtml
 JHTML_SRCS += grammar-te-itadakemasenka.jhtml
