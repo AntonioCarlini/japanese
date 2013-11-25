@@ -691,7 +691,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-sekkaku.html"> @HI{{sekkaku}} </a>                                             </td>
   <td class=""> DOBJG, p. 392                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-shi.html"> @HI{{shi}} </a>                                                     </td>

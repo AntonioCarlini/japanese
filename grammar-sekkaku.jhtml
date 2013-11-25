@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sekkaku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{sekkaku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{sekkaku}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{sekkaku}}</strong> means that a relatively rare sitaution has occurred and one can now take
+advantage of it or, with regret, fail to take advantage of it.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sekkaku</strong>no@KJ{{day^weekday^day}}nanoni@KJ{{work}}kimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even though Sunday is precious to me, I worked.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sekkaku</strong>ii@KJ{{large^study}}ni@KJ{{enter}}ttanodakarayoku@KJ{{exertion^strong}}tsumoridesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I entered a good university with great effort, so I intend to study hard.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{sekkaku}}</strong>@HI{{desuga}} can be used to politely decline an offer.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sekkaku</strong>desuga@KJ{{now^day}}ha@KJ{{busy}}shikute@KJ{{going}}kemasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I appreciate your kind offer but I'm too busy to go there today.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{sekkaku}}</strong>@HI{{desukara}} can be used to politely accept an offer.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sekkaku</strong>desukara@KJ{{distant^prudence}}nakuitadakimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since you took the trouble to bring it to me, I'll take it without hestiattion.
+  </td> </tr>
+</table>
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 392).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

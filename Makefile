@@ -180,6 +180,7 @@ JHTML_SRCS += grammar-quantifier-wa.jhtml
 JHTML_SRCS += grammar-rashii.jhtml
 JHTML_SRCS += grammar-relative-clause.jhtml
 JHTML_SRCS += grammar-respect-markers.jhtml
+JHTML_SRCS += grammar-sekkaku.jhtml
 JHTML_SRCS += grammar-shinaide-alternative.jhtml
 JHTML_SRCS += grammar-sonkeigo.jhtml
 JHTML_SRCS += grammar-sore-de.jhtml
