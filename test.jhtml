@@ -31,7 +31,6 @@ Test lines:</br>
 
 <table class="example">
 <tr> <th> Code                                    </th> <th> result              </th> </tr>
-<tr> <td> @masustem&#x7B;&#x7B;&#x7D;&#x7D;       </td> <td> @masustem{{}}       </td> </tr>
 <tr> <td> @V1&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V1{{}}             </td> </tr>
 <tr> <td> @V2&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V2{{}}             </td> </tr>
 <tr> <td> @V3&#x7B;&#x7B;&#x7D;&#x7D;             </td> <td> @V3{{}}             </td> </tr>
