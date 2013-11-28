@@ -20,73 +20,38 @@
 <h2> Definition </h2>
 
 <p>
+<strong>@HI{{ga}}</strong> is a particle which indicates the subject, or sometimes the object, of a verb
+or adjective. For uses of @HI{{ga}} as a conjunction, see <a href="grammar-ga-conjunction.html">here</a>.
+</p>
+
+<p>
+When a subject is first introduced it is marked by <strong>@HI{{ga}}</strong>, unless it is the topic, in which
+case it is marked by @HI{{ha}}. Consider the following typical opening for a folktale.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{once*upon*a*time^noma^one^person}}noojisann<strong>ga</strong>@KJ{{dwell}}ndeimashita.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{ojisanhatotemo@KJ{{poverty^destitution}}deshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Once upon a time there lived an old man.
+  </td> </tr>
+  <tr class="en"> <td>
+      The old man was very poor.
+  </td> </tr>
+</table>
+
+In the first sentence the old man is the subject but not the topic, and so is marked by <strong>@HI{{ga}}</strong>.
+In the second sentence he is presented as the topic and further information about him is added; in this
+sentence he is marked by @HI{{ha}}.
+</p>
+
+<p>
 <strong>@HI{{ga}}</strong> is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}.
-If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</strong>. Additionally, @HI{{ha}} is used 
-if information is being presented about a subject that has already been identified.
-</p>
+If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</strong>.
 
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of the predicate.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of an intransitive verb.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of the sentence when new, previously unknown, information is presented.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> is used with interrogative words in questions, both in general questions and when asking for
-a choice.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
-that @HI{{no}} can often perform this function too.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of a clause ending in @HI{{ka}}.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the subject of a subordinate or conditional clause when it differs from the
-subject of the main clause.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
-<a href="grammar-verb-use-of-potential.html">potential</a> form of verbs.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
-@HI{{suru}} in some cases.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of necessity.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object ofadjectives of desire
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs and adjectives of emotion.
-</p>
-
-<p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of ability.
-</p>
-
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{asoko ni @KJ{{private}}no@KT{{bo-rupenn}}<strong>ga</strong>arimasuka.}}
@@ -95,7 +60,15 @@ subject of the main clause.
       Is that my ballpoint pen over there?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+@HI{{ha}} is used if information is being presented about a subject that has already been identified.
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of the predicate.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{asoko ni @KJ{{cherry}}<strong>ga</strong> @KJ{{blossom}}teimasu.}}
@@ -104,7 +77,11 @@ subject of the main clause.
       Over there the cherry trees are blooming.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of an intransitive verb.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{door}}<strong>ga</strong> @KJ{{open}}kimashita.}}
@@ -113,15 +90,26 @@ subject of the main clause.
       The door opened.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of the sentence when new, previously unknown, information is presented.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kochira<strong>ga</strong> @KJ{{mountain^rice*field}}sann desu.}}
   </td> </tr>
   <tr class="en"> <td>
-      This is Mr. Yamada. (a personal introduction)
+      This is Mr. Yamada. <em>(a personal introduction)</em>
   </td> </tr>
 </table>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> is used with interrogative words in questions, both in general questions and when asking for
+a choice.
+
+<ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -131,6 +119,7 @@ subject of the main clause.
       Who arrived first?
   </td> </tr>
 </table>
+</p>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -140,7 +129,11 @@ subject of the main clause.
       Which do you like better, sushi or tempura?
   </td> </tr>
 </table>
-<li>
+</ol>
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
+that @HI{{no}} can often perform this function too.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{before^week^private}}<strong>ga</strong>@KJ{{see}}ta@KJ{{reflect^brush-stroke}}hatsumaranakatta.}}
@@ -149,7 +142,11 @@ subject of the main clause.
       The film I saw last week was broing.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of a clause ending in @HI{{ka}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{naze@KJ{{he}}<strong>ga</strong>sonnnakotowoyattaka, wakarimasenn.}}
@@ -158,7 +155,12 @@ subject of the main clause.
       I don't know why he did something like that.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the subject of a subordinate or conditional clause when it differs from the
+subject of the main clause.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mother}}<strong>ga</strong>@KJ{{day^book}}nikuru@KJ{{in*front}}ni, kono@KJ{{section^roof}}wokireini
@@ -168,7 +170,12 @@ subject of the main clause.
       Before my mother comes to Japan I have to make this room nice and clean.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
+<a href="grammar-verb-use-of-potential.html">potential</a> form of verbs.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{africa^section}}sanha @KT{{gorufu}}<strong>ga</strong> dekimasu.}}
@@ -177,7 +184,12 @@ subject of the main clause.
       Abe can play golf.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
+@HI{{suru}} in some cases.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kokokara@KJ{{wealth^gentleman^mountain}}<strong>ga</strong>@KJ{{see}}emasu.}}
@@ -186,7 +198,11 @@ subject of the main clause.
       Mt. Fuji can be seen from here.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of verbs of necessity.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}hao@KJ{{gold}}<strong>ga</strong>@KJ{{need}}ru.}}
@@ -195,7 +211,11 @@ subject of the main clause.
       I need money.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of adjectives of desire.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{time^interval}}too@KJ{{gold}}<strong>ga</strong>@KJ{{longing}}shii.}}
@@ -204,7 +224,11 @@ subject of the main clause.
       I want time and money.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of verbs and adjectives of emotion.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{jonn}}sanhanattou<strong>ga</strong>@KJ{{dislike}}idesu.}}
@@ -213,7 +237,11 @@ subject of the main clause.
       John doesn't like @HI{{nattou}}.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ga}}</strong> indicates the object of verbs of ability.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{new}}shii@KJ{{neck^inter-}}ha,@KJ{{haiku^phrase}}<strong>ga</strong>@KJ{{above^hand}}dasoudesu.}}
@@ -222,7 +250,7 @@ subject of the main clause.
       The new prime minister is said to be good at haiku.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -230,6 +258,7 @@ subject of the main clause.
 
 <ol>
 <li> @REF{{AAP}}. (p 13).
+<li> @REF{{DOBJG}}. (p. 118).
 </ol>
 
 <br/><br/>

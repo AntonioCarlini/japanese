@@ -13,7 +13,6 @@
 
 <h2> Formation </h2>
 
-<p>
 <dl>
 <dt> (A) direction of motion
 <ol>
@@ -24,22 +23,13 @@
 <li> @N{{recipient}} <strong>@HI{{he}}</strong>
 </ol>
 </dl>
-</p>
 
 <h2> Definition </h2>
 
 
+<p>
 <strong>@HI{{he}}</strong> is used to indicate the direction in which someone is moving.
-Strictly speaking, @HI{{ni}} indicates the destination.
-<p></p>
 
-<strong>@HI{{he}}</strong> is used to indicate the recipient of an action.
-<p></p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{itsu@KJ{{capital^metropolis}}<strong>he</strong>@KJ{{going}}kimasuka.}}
@@ -48,16 +38,11 @@ Strictly speaking, @HI{{ni}} indicates the destination.
       When are you going to Kyoto?
   </td> </tr>
 </table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-      @HI{{@KJ{{outside^country}}niiru@KJ{{friend^accomplished}}<strong>he</strong>@KJ{{hand^paper}}wo@KJ{{write}}ita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I wrote a letter to a friend abroad.
-  </td> </tr>
-</table>
-<li>
+</p>
+
+<p>
+Strictly speaking, @HI{{ni}} indicates the destination.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{yoku kono @KJ{{consume^tea^store}}<strong>ni</strong> @KJ{{come}}rundesuka.}}
@@ -66,19 +51,43 @@ Strictly speaking, @HI{{ni}} indicates the destination.
       I often come to this coffee shop.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+<strong>@HI{{he}}</strong> is used to indicate the recipient of an action.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{outside^country}}niiru@KJ{{friend^accomplished}}<strong>he</strong>@KJ{{hand^paper}}wo@KJ{{write}}ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wrote a letter to a friend abroad.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
-<strong>@HI{{he}}</strong> can always be replaced by @HI{{ni}} except when it is followed by @HI{{no}}.
+<p>
+<strong>@HI{{he}}</strong> can always be replaced by @HI{{ni}} except when it is followed by @HI{{no}}. In the example below
+@HI{{ni}} cannot replace <strong>@HI{{he}}</strong>, but @HI{{made}} can.
 
-<p></p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{nyu-yo-ku}}<strong>he</strong>no@KJ{{convenience}}hamouarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There isn't any flight to New York any more.
+  </td> </tr>
+</table>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 28).
 <li> @REF{{AAP}}. (p 60).
+<li> @REF{{DOBJG}}. (p. 116).
 </ol>
 
 <br/><br/>

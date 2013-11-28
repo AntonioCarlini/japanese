@@ -131,12 +131,12 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-particle-e.html">@HI{{he}}</a>                                                 </td>
   <td class=""> DOBJG, p. 116                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-ga.html">@HI{{ga}}</a>                                                </td>
   <td class=""> DOBJG, p. 118                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-garu.html">@HI{{garu}}</a>                                                     </td>
