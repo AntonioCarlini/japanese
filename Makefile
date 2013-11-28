@@ -196,6 +196,7 @@ JHTML_SRCS += grammar-sou-desu-hearsay.jhtml
 JHTML_SRCS += grammar-sou-desu-ka.jhtml
 JHTML_SRCS += grammar-sou-desu.jhtml
 JHTML_SRCS += grammar-sugiru.jhtml
+JHTML_SRCS += grammar-sukunai.jhtml
 JHTML_SRCS += grammar-suruto.jhtml
 JHTML_SRCS += grammar-ta-koto-ga-aru.jhtml
 JHTML_SRCS += grammar-tai.jhtml

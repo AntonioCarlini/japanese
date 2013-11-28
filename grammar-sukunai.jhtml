@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{few}}@HI{{nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{few}}@HI{{nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{few}}@HI{{nai}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{few}}@HI{{nai}} is an @HI{{i}}-adjective that means "few" or "a small number of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{large^study}}ha@KJ{{woman^child^study^life}}ga@KJ{{few}}naidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are few women students at this univeristy.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@KJ{{few}}@HI{{nai}} cannot appear directly before a noun. The only exception is when it is the predicate of
+a relative clause that modifies a noun.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 427).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
