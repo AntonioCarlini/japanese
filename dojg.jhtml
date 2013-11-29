@@ -434,7 +434,7 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> ~ <a href="grammar-mo.html">@HI{{mo}} # @HI{{mo}}</a>                                           </td>
+  <td class="left"> <a href="grammar-mo.html"> ~ @HI{{mo}} ~ @HI{{mo}}</a>                                          </td>
   <td class=""> DOBJG, p. 255                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -589,12 +589,12 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-noni-although.html"> @HI{{noni}} </a>                                          </td>
+  <td class="left"> <a href="grammar-noni-although.html"> @HI{{noni}} (despite) </a>                                </td>
   <td class=""> DOBJG, p. 331                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-noni-purpose.html.html"> </a>                                                  </td>
+  <td class="left"> <a href="grammar-noni-purpose.html.html"> @HI{{noni}} (purpose) </a>                            </td>
   <td class=""> DOBJG, p. 335                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -699,7 +699,7 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-adj-shi.html"> </a>                                                            </td>
+  <td class="left"> <a href="grammar-adj-shi.html"> -@HI{{shi}}- </a>                                               </td>
   <td class=""> DOBJG, p. 397                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -719,12 +719,12 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-sou-desu-hearsay.html"> @HI{{souda}} </a>                                      </td>
+  <td class="left"> <a href="grammar-sou-desu-hearsay.html"> @HI{{souda}} (hearsay) </a>                            </td>
   <td class=""> DOBJG, p. 407                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-sou-desu-appearance.html"> </a>                                                </td>
+  <td class="left"> <a href="grammar-sou-desu-appearance.html"> @HI{{souda}} (appearance) </a>                      </td>
   <td class=""> DOBJG, p. 410                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
