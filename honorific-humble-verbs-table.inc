@@ -28,7 +28,7 @@
   <tr>
     <td title="@HI{{miru}}"> @KJ{{see}}@HI{{ru}} </td>
     <td title="@HI{{gorannninaru}}"> @HI{{go@KJ{{perusal}}ninaru}} </td>
-    <td> @KJ{{worship^see}}@HI{{suru}} </td>
+    <td title="@HI{{haikenn}}"> @KJ{{worship^see}}@HI{{suru}} </td>
   </tr>
   <tr>
     <td> @KJ{{hear}}@HI{{ku}} </td>
@@ -70,7 +70,12 @@
   </tr>
   <tr>
     <td title="@HI{{shiteiru}}"> @KJ{{know}}@HI{{tteiru}} </td>
-    <td title="@HI{{gozonji}}"> @HI{{go@KJ{{exist^know}}}} (@HI{{suru}}) </td>
+    <td title="@HI{{gozonji}}"> @HI{{go@KJ{{exist^know}}}} (@HI{{desu}}) </td>
     <td title="@HI{{zonjiru}}"> @HI{{@KJ{{exist}}jiru}}</td>
+  </tr>
+  <tr>
+    <td title="@HI{{au}}"> @KJ{{meeting}}@HI{{u}} </td>
+    <td> - </td>
+    <td> @HI{{omeni oru}} </td>
   </tr>
 </table>
