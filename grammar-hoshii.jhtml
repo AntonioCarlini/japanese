@@ -52,9 +52,48 @@ will be used with <a href="grammar-garu.html">@HI{{garu}}</a> in the form @HI{{h
 <strong>@HI{{hoshii}}</strong> can be used with a third person:
 <ol>
 <li> with a past tense
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mo-risu}}haii@KT{{sutereo}}gahoshikatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Maurice wanted a good stereo set.
+  </td> </tr>
+</table>
+
 <li> in indirect speech
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{joi}}mohoshiito@KJ{{say}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Joy says she wants it too.
+  </td> </tr>
+</table>
+
 <li> in explanatory situations
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pamera}}ha@KT{{iyaringu}}gahoshiindesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      <em>(The explanation is that)</em> Pamela wants a pair of earrings.
+  </td> </tr>
+</table>
+
 <li> in expressions ofconjecture.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{furanshisu}}haude@KJ{{time^plot}}gahoshiirashii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It seems that Francis wants a wristwatch.
+  </td> </tr>
+</table>
 </ol>
 </p>
 

@@ -36,7 +36,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-aida.html">@HI{{aida (ni)}}</a>                                                </td>
   <td class=""> DOBJG, p. 67                                                                                        </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-amari.html">@HI{{amari}}</a>                                                   </td>
@@ -171,7 +171,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-hou-ga-ii.html">@HI{{hougaii}}</a>                                             </td>
   <td class=""> DOBJG, p. 138                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-yori.html">@HI{{houga~yori}}</a>                                               </td>
@@ -181,12 +181,12 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-hoshii.html">@HI{{hoshii}}</a>                                                 </td>
   <td class=""> DOBJG, p. 144                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-te-hoshii.html">@Vte{{}}@HI{{hoshii}}</a>                                      </td>
   <td class=""> DOBJG, p. 146                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ichiban.html">@KJ{{one^turn}}</a>                                              </td>

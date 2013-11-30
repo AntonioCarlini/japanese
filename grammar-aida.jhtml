@@ -30,17 +30,67 @@ The <strong>@HI{{aida}}</strong> clause expresses the idea of "while" or "during
 
 <h2> Notes </h2>
 
-The subjects in the <strong>@HI{{aida}}</strong> clause and the main clause can be the same or different.
+<p>
+The subjects in the <strong>@HI{{aida}}</strong> clause and the main clause can be the same or different. If they are the same
+the subject in the <strong>@HI{{aida}}</strong> clause is marked by @HI{{ha}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{sumisu}}sanha@KJ{{day^book}}niiru@KJ{{interval^england^word}}wo@KJ{{teach}}eteimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Smith was teaching English <em>(the whole time)</em> he was in Japan.
+  </td> </tr>
+</table>
+</p>
+
+<p>
 If they are different, the subject in the <strong>@HI{{aida}}</strong> clause is marked by @HI{{ga}} and not by @HI{{ha}}.
-<p></p>
 
-The verb before <strong>@HI{{aida}}</strong> is either @Vte{{}}@HI{{iru}} or @HI{{iru}}.
-<p></p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child^submit^accomplished}}ga@KT{{terebi}}wo@KJ{{see}}teiru@KJ{{interval^private}}ha@KJ{{book}}wo
+      @KJ{{read}}ndeimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I read a book <em>(the whole time)</em> while my children were watching TV.
+  </td> </tr>
+</table>
+</p>
 
+<p>
+The verb before <strong>@HI{{aida}}</strong> is usually either @Vte{{}}@HI{{iru}} or @HI{{iru}} regardless of the
+tense of the main clause.
+</p>
+
+<p>
 If the <strong>@HI{{aida}}</strong> clause is followed by @HI{{ni}} then the time span of the main clause
-falls within that of the <strong>@HI{{aida}}</strong> clause. Otherwise the two clauses are expected
-to cover the same span of time.
-<p></p>
+falls within that of the <strong>@HI{{aida}}</strong> clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{high^bridge}}sanha@KT{{amerika}}niiru@KJ{{interval}}ni@KT{{gorufu}}wo@KJ{{memorize}}emashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Takahashi learned golf while he was in America.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+If <strong>@HI{{aida}}</strong> is not followed by @HI{{ni}},
+ the two clauses are expected to cover the same span of time.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}gago@KJ{{meal}}wo@KJ{{eat}}beteiru@KJ{{interval^mountain^rice*field}}sanha@KT{{terebi}}wo
+      @KJ{{see}}teimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While I was eating my meal Mr. Yamada was watching TV.
+  </td> </tr>
+</table>
+</p>
 
 <h2> References </h2>
 
