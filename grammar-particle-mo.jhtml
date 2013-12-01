@@ -48,7 +48,7 @@ In sentence pattern (A) a topic is introduced in the first utterance and in a su
 </p>
 
 <p>
-In sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel.
+<a name="both">In</a> sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -61,7 +61,7 @@ In sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel
 </p>
 
 <p>
-In sentence pattern (C) <strong>@HI{{mo}}</strong> follows a number or a counter to express the
+<a name="as-much-as">In</a> sentence pattern (C) <strong>@HI{{mo}}</strong> follows a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
