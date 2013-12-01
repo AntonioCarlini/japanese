@@ -17,12 +17,10 @@
 
 <h2> Definition </h2>
 
+<p>
 <strong>@Vte{{}}@KJ{{come}}@HI{{ru}}</strong> means to go somewhere, perform an action and return.
 If necessary, the place where the remote action happens can be indicated by @HI{{de}}.
 If the purpose is to go somewhere and move something, then @HI{{kara}} is used instead.
-
-
-<h2> Examples </h2>
 
 <ol>
 <li>
@@ -44,14 +42,49 @@ If the purpose is to go somewhere and move something, then @HI{{kara}} is used i
   </td> </tr>
 </table>
 </ol>
+</p>
+
+<p>
+<strong>@Vte{{}}@KJ{{come}}@HI{{ru}}</strong> can indicate the beginning of a process or the continuation of a process up to
+the current point in time.
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{private}}ha@KT{{konpyu-ta-}}ga@KJ{{few}}shi@KJ{{part}}katte@KJ{{come}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Now I have begun to understand computers.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{private}}hairoiro@KJ{{day^book}}no@KJ{{curriculum^history^write}}wo@KJ{{read}}nde@KJ{{come}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Up to now I've been reading various Japanese histories.
+  </td> </tr>
+</table>
+</ol>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+When <strong>@Vte{{}}@KJ{{come}}@HI{{ru}}</strong> indicates the beginning of a process,
+the experiencer of the action must be the
+speaker or someone with whom the speaker empathises.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
+<li> @REF{{DOBJG}}. (p. 221).
 </ol>
+
 <br/><br/>
 Back to the <a href="../grammar.html"> grammar page</a>.
 
