@@ -22,26 +22,7 @@
 <p>
 <strong>@HI{{ha}}</strong> is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
-</p>
 
-<p>
-<strong>@HI{{ha}}</strong> is used to mark a topic, which is then explained or described in the rest of the
-sentence.
-</p>
-
-<p>
-The sentence pattern @N1{{}}<strong>@HI{{ha}}</strong>@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
-quality or property, @N2{{}}, is explained.
-</p>
-
-<p>
-<strong>@HI{{ha}}</strong> is used to indicate a contrast.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune. are <strong>ha</strong>@KJ{{sino-^character}}no@KJ{{book}}desu.}}
@@ -50,7 +31,12 @@ quality or property, @N2{{}}, is explained.
       Over there is a red book. It's a kanji book.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ha}}</strong> is used to mark a topic, which is then explained or described in the rest of the
+sentence.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de<strong>ha</strong>}}
@@ -60,7 +46,12 @@ quality or property, @N2{{}}, is explained.
       In my school we can learn Chinese.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+The sentence pattern @N1{{}}<strong>@HI{{ha}}</strong>@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
+quality or property, @N2{{}}, is explained.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{elephant}}<strong>ha</strong>@KJ{{nose}}ga@KJ{{long}}idesu.}}
@@ -69,7 +60,11 @@ quality or property, @N2{{}}, is explained.
       The elephant has a long nose.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ha}}</strong> is used to indicate a contrast.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kinou<strong>ha</strong>}}@KJ{{mountain}}@HI{{ga}}@KJ{{see}}@HI{{emashitaga,}}
@@ -79,7 +74,7 @@ quality or property, @N2{{}}, is explained.
       Yesterday we could see mountains but today we can't.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
