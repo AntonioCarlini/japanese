@@ -20,21 +20,12 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ne}}</strong> is a sentence ending particle. It can be used to:
-<ul>
-<li> indicate emotion or feelings of admiration
-<li> indicate agreement with the other person
-<li> soften a request
-<li> request confirmation
-<li> indicate a mild assertion of opinion
-<li> indicate a mild assertion
-</ul>
+<strong>@HI{{ne}}</strong> is a sentence ending particle.
 </p>
 
-<h2> Examples </h2>
+<p>
+<strong>@HI{{ne}}</strong> can indicate emotion or feelings of admiration.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kireina@KJ{{flower}}<strong>ne</strong>.}}
@@ -43,7 +34,11 @@
       What a pretty flower.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ne}}</strong> can indicate agreement with the other person.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{book^hit}}nisoudesu<strong>ne</strong>.}}
@@ -52,7 +47,11 @@
       That's so true.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ne}}</strong> can soften a request.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{invariably}}zu@KJ{{hand^paper}}okudasai<strong>ne</strong>.}}
@@ -61,7 +60,11 @@
       Be sure to write a letter to me.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ne}}</strong> can request confirmation.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{meadow^rice*field}}san,@KJ{{now^day^come}}ruto@KJ{{say}}ttandesu<strong>ne</strong>.}}
@@ -70,7 +73,11 @@
       Harada said he'd be coming today, right?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ne}}</strong> can indicate a mild assertion of opinion.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{soudesuka<strong>ne</strong>.}}
@@ -79,7 +86,11 @@
       You think so?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ne}}</strong> can indicate a mild assertion.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{north^sea^road-way}}no@KJ{{direction}}ga@KJ{{cold}}ito@KJ{{think}}undesukedo<strong>ne</strong>.}}
@@ -88,7 +99,7 @@
       I would think that Hokkaido is colder.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

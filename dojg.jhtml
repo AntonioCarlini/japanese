@@ -496,47 +496,47 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-nasai.html"> @HI{{nasai}} </a>                                                 </td>
   <td class=""> DOBJG, p. 284                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="started"> &radic; </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-ne.html"> @HI{{ne}} </a>                                              </td>
   <td class=""> DOBJG, p. 286                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#time"> @HI{{ni}}<sup>1</sup>                                  </td>
   <td class=""> DOBJG, p. 289                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#recipient"> @HI{{ni}}<sup>2</sup>                             </td>
   <td class=""> DOBJG, p. 291                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#passive"> @HI{{ni}}<sup>3</sup>                               </td>
   <td class=""> DOBJG, p. 292                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#surface"> @HI{{ni}}<sup>4</sup>                               </td>
   <td class=""> DOBJG, p. 295                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#purpose"> @HI{{ni}}<sup>5</sup>                               </td>
   <td class=""> DOBJG, p. 297                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#location"> @HI{{ni}}<sup>6</sup>                              </td>
   <td class=""> DOBJG, p. 299                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni.html"> @HI{{ni}}                                                   </td>
+  <td class="left"> <a href="grammar-particle-ni.html#direction"> @HI{{ni}}<sup>7</sup>                             </td>
   <td class=""> DOBJG, p. 302                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ni-chigainai.html"> @HI{{nichigainai}} </a>                                    </td>
