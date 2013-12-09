@@ -559,24 +559,24 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-no.html"> @HI{{no}} </a>                                              </td>
+  <td class="left"> <a href="grammar-particle-no.html#modifier"> @HI{{no}}</a><sup>1</sup<>                         </td>
   <td class=""> DOBJG, p. 312                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-no.html"> @HI{{no}} </a>                                              </td>
+  <td class="left"> <a href="grammar-particle-no.html#indefinite"> @HI{{no}}</a><sup>2</sup>                        </td>
   <td class=""> DOBJG, p. 316                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-no-nominaliser.html"> @HI{{no}} </a>                                           </td>
+  <td class="left"> <a href="grammar-no-nominaliser.html"> @HI{{no}}</a><sup>3</sup>                                </td>
   <td class=""> DOBJG, p. 318                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-no.html"> @HI{{no}} </a>                                              </td>
+  <td class="left"> <a href="grammar-particle-no.html#ending"> @HI{{no}}</a><sup>4</sup>                            </td>
   <td class=""> DOBJG, p. 322                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-n-desu.html"> @HI{{noda}} </a>                                                 </td>
