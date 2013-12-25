@@ -21,31 +21,47 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{mou}}</strong> means "already" and when combined with a verb in the past tense the meaning is that the action specified
-by the verb has been completed.
+<strong>@HI{{mou}}</strong> means "already" and when combined with a verb in the past tense
+the meaning is that the action specified by the verb has been completed.
+</p>
+
+<p>
+In an affirmative interrogative sentence <strong>@HI{{mou}}</strong> means "yet" or "already".
+</p>
+
+<p>
+In a negative sentence <strong>@HI{{mou}}</strong> means "not yet" or "not any longer".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha<strong>mou</strong>@KJ{{sake}}wo@KJ{{drink}}masenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I won't drink <em>sake</em> any more.
+  </td> </tr>
+</table>
 </p>
 
 <p>
 The answer to the question <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
 @HI{{iie,madadesu}}.
-</p>
 
 
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{mou@KJ{{baggage^thing}}wo@KJ{{escort}}rimashitaka.}}
   </td> </tr>
-  <tr class="jp"> <td>
-      @HI{{hai,@KJ{{escort}}rimashita.}}
-  </td> </tr>
-  <tr class="jp"> <td>
-      @HI{{iie,madadesu.}}
-  </td> </tr>
   <tr class="en"> <td>
       Have you sent the parcel yet?
   </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{hai,@KJ{{escort}}rimashita.}}
+  </td> </tr>
   <tr class="en"> <td>
       Yes I have.
+  </td> </tr>
+  <tr class="jp"> <td>
+      @HI{{iie,madadesu.}}
   </td> </tr>
   <tr class="en"> <td>
       No, not yet.
@@ -53,8 +69,8 @@ The answer to the question <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashita
 </table>
 </ol>
 
-An answer of the form @HI{{iie,}}@Vmasustem{{}}@HI{{masendeshita}} would imply that the task was not performed rather than it has
-<em>not yet</em> been performed.
+An answer of the form @HI{{iie,}}@Vmasustem{{}}@HI{{masendeshita}} would imply that the task was not performed
+rather than it has <em>not yet</em> been performed.
 </p>
 
 <h2> Notes </h2>
@@ -63,6 +79,7 @@ An answer of the form @HI{{iie,}}@Vmasustem{{}}@HI{{masendeshita}} would imply t
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{DOBJG}}. (p. 254).
 </ol>
 
 </br></br>

@@ -22,13 +22,7 @@
 
 <p>
 If the verb expresses something that is expected, then <strong>@Vnai{{}} @HI{{de}}</strong> it means "without ~ing".
-Otherwise it means "not do ~".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{nanshi-}}ha kinou @KJ{{morning}}go@KJ{{meal}}wo @KJ{{eat}}<strong>naide</strong> @KJ{{study^exam}}he @KJ{{going}}tta!}}
@@ -37,7 +31,11 @@ Otherwise it means "not do ~".
     Nancy went to school without eating breakfast!
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p.
+Otherwise it means "not do ~".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{in^rice*field}}sanha @KJ{{large^heights}}ni @KJ{{going}}ka<strong>naide</strong>
@@ -47,7 +45,11 @@ Otherwise it means "not do ~".
     Mr. Nakada didn't go to Osaka; he went to Kyoto.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@Vnai{{}} @HI{{de}}</strong> can be used with various auxiliaries such as @HI{{kudasai}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{kokode @KJ{{copy^true}}wo @KJ{{snapshot}}<strong>naide</strong> kudasai.}}
@@ -56,7 +58,7 @@ Otherwise it means "not do ~".
     Please don't take pictures here.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

@@ -24,17 +24,7 @@
 
 <p>
 <strong>@HI{{node}}</strong> is a subordinate conjunction that expresses a reason or a cause.
-</p>
 
-<p>
-<strong>@HI{{node}}</strong> implies that the speaker believes the subordinate clause to be the reason or cause
-for the main clause.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{o@KJ{{sake}}wo takusan @KJ{{drink}}nda <strong>node</strong> @KJ{{sleep}}ku narimashita.}}
@@ -43,7 +33,12 @@ for the main clause.
     Because I drank a lot of <em>sake</em>, I became sleepy.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{node}}</strong> implies that the speaker believes the subordinate clause to be the reason or cause
+for the main clause.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{ill^spirit}}na<strong>node</strong>,@KJ{{trip^going}}ni@KJ{{going}}kunoha@KJ{{nothingness^logic}}desu.}}
@@ -52,7 +47,7 @@ for the main clause.
     Since I'm ill, going on a trip is out of the question.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

@@ -20,37 +20,8 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{wo}}</strong> indicates the direct object of a transitive verb.
-</p>
+<a name="direct"><strong>@HI{{wo}}</strong></a> indicates the direct object of a transitive verb.
 
-<p>
-<strong>@HI{{wo}}</strong> indicates the direct object of a passive verb.
-</p>
-
-<p>
-<strong>@HI{{wo}}</strong> indicates the person made to do something in a causative sentence.
-</p>
-
-<p>
-With @HI{{suru}}, <strong>@HI{{wo}}</strong> indicates a specific occupation or position.
-</p>
-
-<p>
-With @HI{{tai}} or @HI{{tagaru}}, <strong>@HI{{wo}}</strong> indicates a wish or a desire.
-</p>
-
-<p>
-<strong>@HI{{wo}}</strong> indicates a movement from a smaller place to a larger one, both physically and in an abstract sense.
-</p>
-
-<p>
-When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the location of the movement rather than the destination.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{evening}}beha @KJ{{reflect^brush-stroke}}<strong>wo</strong> @KJ{{see}}ta.}}
@@ -59,7 +30,11 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       I saw a film yesterday evening.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{wo}}</strong> indicates the direct object of a passive verb.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{he^woman}}ha @KJ{{dog}}ni @KJ{{hand}}<strong>wo</strong> kamareta.}}
@@ -68,7 +43,11 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       She had her hand bitten by a dog.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{wo}}</strong> indicates the person made to do something in a causative sentence.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{section^long}}ha @KJ{{section^below}}<strong>wo</strong> @KJ{{exit^lengthen}}saseta.}}
@@ -77,7 +56,11 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       The department chief sent a subordinate on a business trip.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+With @HI{{suru}}, <strong>@HI{{wo}}</strong> indicates a specific occupation or position.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^book}}sannoo@KJ{{father}}sanwa @KJ{{doctor^someone}}<strong>wo</strong>shiteiru.}}
@@ -86,7 +69,11 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       Yamamoto's father is a doctor.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+With @HI{{tai}} or @HI{{tagaru}}, <strong>@HI{{wo}}</strong> indicates a wish or a desire.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{ko-hi-}}<strong>wo</strong> @KJ{{drink}}mitaindesu.}}
@@ -95,7 +82,11 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       I want to drink some coffee.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{wo}}</strong> indicates a movement from a smaller place to a larger one, both physically and in an abstract sense.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{neck^inter-}}ha @KJ{{early^rice*plant^rice*field^large^study}}<strong>wo</strong> @KJ{{graduate^business}}shita.}}
@@ -104,7 +95,12 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       The prime minister graduated from Waseda university.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+When used with a verb of motion, <a name="location"><strong>@HI{{wo}}</strong></a> indicates the location of the
+movement rather than the destination.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{road-way}}<strong>wo</strong> @KJ{{transit}}rimasu.}}
@@ -113,7 +109,7 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
       I cross the road.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -122,6 +118,7 @@ When used with a verb of motion, <strong>@HI{{wo}}</strong> indicates the locati
 <ol>
 <li> @REF{{AAP}}. (p 72).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
+<li> @REF{{DOBJG}}. (p 347).
 </ol>
 
 <br/><br/>
