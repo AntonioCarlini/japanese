@@ -9,10 +9,9 @@
 <h1>@KJ{{day^book^word}} Study Progress</h1>
 
 <ol class="toc">
-<li><a href="mnn.html"><span>@HI{{minnna no}} @KJ{{day^book^word}}</span></a>
-<li><a href="mnn-toc.html"><span>@HI{{minnna no}} @KJ{{day^book^word}} (table of contents)</span></a>
-<li><a href="nsm-n3g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N3 @KJ{{sentence^method}}</span></a>
-<li><a href="nsm-n3g-toc.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N3 @KJ{{sentence^method}} (table of contents)</span></a>
+<li><a href="mnn.html"><span>@HI{{minnna no}} @KJ{{day^book^word}}</span></a> - <a href="mnn-toc.html"><span>(table of contents)</span></a>
+<li><a href="nsm-n3g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N3 @KJ{{sentence^method}}</span></a> -
+  <a href="nsm-n3g-toc.html"><span>(table of contents)</span></a>
 <li><a href="aap.html"><span>All About Particles</span></a>
 <li><a href="dojg.html"><span>Dictionary of Basic Japanese Grammar</span></a>
 <li><a href="ahij-vocabulary.html"><span>A Homestay in Japan: vocabulary</span></a>
