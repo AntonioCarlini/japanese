@@ -14,25 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{yo}}</strong>.
+<li> @S{{}} <strong>@HI{{yo}}</strong>.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{yo}}</strong> is a sentence ending particle. It can be used to:
-<ul>
-<li> urge a course of action
-<li> indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>)
-<li> indicate that the speaker feels certain of what he is saying
-<li> indeicate scolding or contempt
-</ul>
+<strong>@HI{{yo}}</strong> is a sentence ending particle.
 </p>
 
-<h2> Examples </h2>
+<p>
+<strong>@HI{{yo}}</strong> can urge a course of action.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ano@KJ{{unfold^perusal^meeting}}he@KJ{{going}}ttemimashou<strong>ne</strong>.}}
@@ -41,16 +34,24 @@
       Come on, lets' go to that exhibition.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{yo}}</strong> can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{house}}nimo@KJ{{come}}tekudasai.}}
+      @HI{{@KJ{{private}}no@KJ{{house}}nimo@KJ{{come}}tekudasai<strong>yo</strong>.}}
   </td> </tr>
   <tr class="en"> <td>
       Come to <em>my</em> house too.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{yo}}</strong> can indicate that the speaker feels certain of what he is saying.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{now^day}}ha@KJ{{gold^weekday^day}}desu<strong>yo</strong>.}}
@@ -59,7 +60,11 @@
       Today is Friday, you know?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{yo}}</strong> can indicate scolding or contempt.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ano@KJ{{person}}ha@KJ{{attend^matter}}ha dekinaiwa<strong>yo</strong>.}}
@@ -68,14 +73,20 @@
       He just can't do the work!
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+<strong>@HI{{yo}}</strong> generally indicates that the speaker is convinced of something. It can be an assertion by the speaker
+of something that he assumes is not known to the listener.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p 131).
+<li> @REF{{DOBJG}}. (p 543).
 </ol>
 
 <br/><br/>

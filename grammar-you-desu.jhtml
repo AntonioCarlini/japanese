@@ -23,11 +23,41 @@
 
 <h2> Definition </h2>
 
+<p>
 This sentence pattern is used to convey the speaker's subjective conjecture based on information
 the speaker directly perceives. The speaker bases his judgement on first-hand reliable
 information, usually visual information.
+</p>
 
-</br>
+<p>
+<strong>@HI{{you desu}}</strong> can express either the likelihood of something or the likeness of something to something else.
+</p>
+
+<p>
+<strong>@HI{{you desu}}</strong> can be used before a noun in the form <strong>@HI{{youna}}</strong>.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{now^day^rice*field^in}}san'no<strong>youna</strong>@KJ{{person}}wo@KJ{{see}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I saw a man who looked like Mr. tanaka.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{you desu}}</strong> can be used before a verb in the form <strong>@HI{{youni}}</strong>.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{sumisu}}sanha@KJ{{day^book^person}}no<strong>youni</strong>@KJ{{day^book^word}}wo@KJ{{tale}}masu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Mr. Smith speaks Japanese like a Japanese person.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Examples </h2>
 
@@ -54,6 +84,10 @@ information, usually visual information.
 </ol>
 
 <h2> Notes </h2>
+
+<p>
+The colloquial form of <strong>@HI{{you desu}}</strong> is @HI{{mitai}}.
+</p>
 
 <h2> References </h2>
 

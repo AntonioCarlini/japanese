@@ -21,24 +21,10 @@
 
 <h2> Definition </h2>
 
+<p>
 <strong>@HI{{sugiru}}</strong> is an auxiliary that adds the meaning of "too much" or "to excess".
-</br>
 It is usually used to indicate an undesirable state.
-</br>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-      @HI{{kono @KT{{apa-to}}ha @KJ{{private^accomplished}} ni ha @KJ{{tall}}<strong>sugimasu</strong>.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      This apartment is too expensive for us.
-  </td> </tr>
-</table>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{yuube o@KJ{{sake}}wo @KJ{{drink}}mi<strong>sugimashita</strong>.}}
@@ -47,21 +33,34 @@ It is usually used to indicate an undesirable state.
       I drank too much last night.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+The "for" in "too ~ for something" is formed by @HI{{ni ha}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono @KT{{apa-to}}ha @KJ{{private^accomplished}} ni ha @KJ{{tall}}<strong>sugimasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This apartment is too expensive for us.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
+<p>
 @HI{{ii}} combines with @HI{{<strong>sugiru}}</strong> to form @HI{{<strong>yosugiru</strong>}}.
-</br>
+</p>
 
+<p>
 The negative @HI{{nai}} combines with @HI{{<strong>sugiru</strong>}} to form @HI{{<strong>nanasugiru</strong>}}.
-</br>
+</p>
 
-The "for" in "too ~ for something" is formed by @HI{{ni ha}}.
-</br>
-
+<p>
 <strong>@HI{{sugiru}}</strong> is an @1D{{}} verb.
-</br>
+</p>
 
 <h2> References </h2>
 

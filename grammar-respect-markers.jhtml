@@ -15,7 +15,10 @@
 
 <ol>
 <li> <em>name or noun</em><strong>@HI{{sann}}</strong>
+<li> <em>name</em><strong>@HI{{kunn}}</strong>
+<li> <em>name or noun</em><strong>@HI{{sama}}</strong>
 <li> <strong>@HI{{o}}</strong>@N{{}}
+<li> <strong>@HI{{go}}</strong>@N{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -40,6 +43,12 @@ instead refer to the listener by using their family name followed by @HI{{sann}}
 <a name="kun"><strong>@HI{{kunn}}</strong></a> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
 of a person of lower rank. This suffix is often used in schools and at work.
 </p>
+
+<p>
+<a name="sama"><strong>@HI{{sama}}</strong></a> is a suffix which indicates a high degree of politeness by the speaker towards another
+individual. The original meaning was "appearance" and the high degree of politeness comes about because this allows the speaker to
+refer to a superior indirectly.
+<p>
 
 <p>
 <a name="o"><strong>@HI{{o}}</strong></a> can be added to some words in order to show respect for another person.
@@ -79,6 +88,7 @@ Common examples are @HI{{ocha}} and @HI{{okane}}.
 <li> @REF{{MNN-TR-I}}. (Chapter 13).
 <li> @REF{{DOBJG}}. (p. 211).
 <li> @REF{{DOBJG}}. (p. 343).
+<li> @REF{{DOBJG}}. (p. 384).
 </ol>
 
 </br></br>
