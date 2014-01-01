@@ -821,7 +821,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-tara.html"> @Vta{{}}@HI{{ra}} </a>                                             </td>
   <td class=""> DOBJG, p. 452                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-tara-dou-desu-ka.html"> @Vta{{}}@HI{{doudesuka}} </a>                          </td>
@@ -839,14 +839,14 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-verb-use-of-te-form.html"> @Vte{{}} </a>                                       </td>
+  <td class="left"> <a href="grammar-te-conjunctive-forms.html"> @Vte{{}} </a>                                      </td>
   <td class=""> DOBJG, p. 464                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-te-mo.html"> @Vte{{}}@HI{{mo}} </a>                                            </td>
   <td class=""> DOBJG, p. 468                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-te-mo-ii.html"> @Vte{{}}@HI{{moii}} </a>                                       </td>
