@@ -17,21 +17,21 @@
 <dl>
 <dt>(A) Passive sentence:
 <ol>
-<li> @N1{{person}} @HI{{ha}} @N2{{person}} @Vrareru{{}}
-</ol>
-<dt>(B) Suffering passive:
-<ol>
-<li> @N1{{person}} @HI{{ha}} @N2{{person}} @N3{{}} @HI{{wo}} @Vrareru{{}}
+<li> @N1{{person}} @HI{{ha}} @N2{{person}} @HI{{ni}} @Vrareru{{}}
 </ol>
 </dl>
-<dt>(C) No subject required:
+<dt>(B) No subject required:
 <ol>
-<li> @N{{thing}} @HI{{ha/ga}} @N{{person}} @Vrareru{{}}
+<li> @N{{thing}} @HI{{ha/ga}} @Vrareru{{}}
 </ol>
 </dl>
-<dt>(D) Creation or discovery:
+<dt>(C) Creation or discovery:
 <ol>
 <li> @N1{{}} @HI{{ha}} @N2{{person}} @HI{{ni yotte}} @Vrareru{{}}
+</ol>
+<dt>(D) Suffering passive:
+<ol>
+<li> @N1{{person}} @HI{{ha}} @N2{{person}} @HI{{ni}} @N3{{}} @HI{{wo}} @Vrareru{{}}
 </ol>
 </dl>
 </p>
@@ -40,28 +40,9 @@
 
 <p>
 When a sentence is stated from the viewpoint of the person towards whom an action is directed,
-sentence pattern A with a passive verb is used. In this case the performer of the action is
+sentence pattern (A) with a passive verb is used. In this case the performer of the action is
 marked by @HI{{ni}}.
-</p>
 
-<p>
-When a person's actions are directed towards an object belonging to a second person, and this
-second person feels troubled or annoyed, sentence pattern B is used.
-</p>
-
-<p>
-When there is no need to mention the person who performs the action denoted by the verb,
-sentence pattern C is often used.
-</p>
-
-<p>
-When something is created or discovered, sentence pattern D can be used.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{before^life}}ni @KJ{{praise}}meraremashita.}}
@@ -69,18 +50,27 @@ When something is created or discovered, sentence pattern D can be used.
   <tr class="en"> <td>
       I was praised by my teacher.
   </td> </tr>
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{younger*brother}}ni @KT{{pasokonn}}wo @KJ{{demolition}}saremashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I had my PC broken by my brother.
-  </td> </tr>
+</table>
+</p>
+
+<p>
+When there is no need to mention the person who performs the action denoted by the verb,
+sentence pattern (B) is often used.
+
+<table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^book}}no@KJ{{car}}ha @KJ{{generation^world^in}}he @KJ{{transport^exit}}sarete imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Japanese cars are exported all over the world.
   </td> </tr>
+</table>
+</p>
+
+<p>
+When something is created or discovered, sentence pattern (C) can be used.
+
+<table class="sentence">
   <tr class="jp"> <td>
       @HI{{[@KJ{{source^family*name^thing^word}}]ha @KJ{{purple^style}}bu ni yotte @KJ{{write}}karemashita.}}
   </td> </tr>
@@ -88,7 +78,20 @@ When something is created or discovered, sentence pattern D can be used.
       "The Tale of Genji" was written by Murasaki Shikibu.
   </td> </tr>
 </table>
-<ol>
+</p>
+
+<p>
+When a person's actions are directed towards an object belonging to a second person, and this
+second person feels troubled or annoyed, sentence pattern (D) is used.
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{younger*brother}}ni @KT{{pasokonn}}wo @KJ{{demolition}}saremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had my PC broken by my brother.
+  </td> </tr>
+</table>
+</p>
 
 <h2> References </h2>
 
