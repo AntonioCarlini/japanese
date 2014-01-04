@@ -18,17 +18,17 @@
 <dt> @KJ{{five}}@KJ{{grade}} verbs:
 </br></br>
 <table class="highlight">
-<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
-<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
-<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikaseru}}       </td> </tr>
-<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyogaseru}}      </td> </tr>
-<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumaseru}}       </td> </tr>
-<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobaseru}}       </td> </tr>
-<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinaseru}}      </td> </tr>
-<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iwaseru}}        </td> </tr>
-<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{toraseru}}       </td> </tr>
-<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motaseru}}       </td> </tr>
-<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanasaseru}}     </td> </tr>
+<tr> <th> &nbsp; </th> <th colspan="3"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th> <th> alternative </th>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikaseru}}   </td> <td> @HI{{kikasu}}   </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyogaseru}}  </td> <td> @HI{{oyogasu}}  </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumaseru}}   </td> <td> @HI{{fumasu}}   </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobaseru}}   </td> <td> @HI{{yobasu}}   </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinaseru}}  </td> <td> @HI{{shinasu}}  </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iwaseru}}    </td> <td> @HI{{iwasu}}    </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{toraseru}}   </td> <td> @HI{{torasu}}   </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motaseru}}   </td> <td> @HI{{motasu}}   </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanasaseru}} </td> <td> @HI{{hanasasu}} </td> </tr>
 </table>
 </p>
 
@@ -36,10 +36,10 @@
 <dt> @KJ{{ichi}}@KJ{{grade}} verbs:
 </br></br>
 <table class="highlight">
-<tr> <th> &nbsp; </th> <th colspan="2"> example </th>
-<tr> <th> ending </th> <th> dictionary </th> <th> causative </th>
-<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homesaseru}} </td> </tr>
-<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{misaseru}} </td> </tr>
+<tr> <th> &nbsp; </th> <th colspan="3"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th> <th> alternative </th> </tr>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homesaseru}} </td> <td> @HI{{homesu}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{misaseru}}   </td> <td> @HI{{misu}}   </td> </tr>
 </table>
 </p>
 
@@ -47,9 +47,10 @@
 <dt> Irregular verbs:
 </br></br>
 <table class="highlight">
-<tr> <th> verb </th> <th> dictionary </th> <th> causative </th>
-<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kosaseru}} </td> </tr>
-<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{saseru}} </td> </tr>
+<tr> <th> &nbsp; </th> <th colspan="3"> example </th>
+<tr> <th> ending </th> <th> dictionary </th> <th> causative </th> <th> alternative </th> </tr>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kosaseru}} </td> <td> @HI{{kosasu}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{saseru}}   </td> <td> @HI{{sasu}}   </td> </tr>
 </table>
 </p>
 
@@ -75,12 +76,18 @@ The two irregular verbs conjugate as shown above.
 All causative verbs conjugate into further forms as @KJ{{ichi^grade}} verbs.
 </p>
 
+<p>
+An additional conjugation (shown here as the <em>alternative</em>) uses @HI{{su}} to form @KJ{{five^grade}} verbs.
+This form generally expresses more direct causation.
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-JP-II}}. (Chapter 48).
+<li> @REF{{DOBJG}}. (p. 387).
 </ol>
 
 <p>
