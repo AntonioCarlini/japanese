@@ -229,14 +229,14 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ka.html">@HI{{ka}}</a> (alternative)                                  </td>
+  <td class="left"> <a href="grammar-particle-ka.html#alternative">@HI{{ka}}</a> (alternative)                      </td>
   <td class=""> DOBJG, p. 164                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ka.html">@HI{{ka}}</a> (question)                                     </td>
+  <td class="left"> <a href="grammar-particle-ka.html#question">@HI{{ka}}</a> (question)                            </td>
   <td class=""> DOBJG, p. 166                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kadouka.html">@HI{{kadouka}}</a>                                               </td>

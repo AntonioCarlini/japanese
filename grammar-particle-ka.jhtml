@@ -20,34 +20,8 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ka}}</strong> at the end of a sentence indicates a question, for example:
-<ul>
-<li> a simple question
-<li> a question of the form "how about"
-<li> a rhetorical question
-<li> anger or censure
-<li> indicates that someone is talking to himself
-</ul>
-</p>
+<a name="question"><strong>@HI{{ka}}</strong></a> at the end of a sentence can indicate a simple question.
 
-<p>
-Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty, for example:
-<ul>
-<li> a choice of the form "whether or not"
-<li> uncertainty about a state or reason: "I wonder"
-<li> following an interrogative word indicates such meanings as "anyone, anything, someone, something"
-<li> following other particles, indicates uncertainty or doubt
-</ul>
-</p>
-
-<p>
-<strong>@HI{{ka}}</strong> also appears in the idiomatic expression <strong>@HI{{ka}}</strong> ... @HI{{nai uchi ni}}.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{korehadareno@KJ{{umbrella}}desu<strong>ka</strong>.}}
@@ -56,7 +30,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       Whose umbrella is this?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ka}}</strong> at the end of a sentence can indicate a question of the form "how about".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{reflect^brush-stroke}}wo@KJ{{see}}ni@KJ{{going}}kimasenn<strong>ka</strong>.}}
@@ -65,7 +43,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       How about going to see a film?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ka}}</strong> at the end of a sentence can indicate a rhetorical question.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{sonnna@KJ{{bad}}i@KJ{{person}}gairumonodesu<strong>ka</strong>.}}
@@ -74,7 +56,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       Are there people around as awful as that?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ka}}</strong> at the end of a sentence can indicate anger or censure.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{mata@KJ{{now^day}}mo,@KJ{{slow}}rete@KJ{{come}}tandesu<strong>ka</strong>.}}
@@ -83,7 +69,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       So you're late again today?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ka}}</strong> at the end of a sentence can indicate that someone is talking to himself.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{sorosoro@KJ{{summer}}mo@KJ{{end}}wari<strong>ka</strong>.}}
@@ -92,7 +82,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       So summer's almost over huh?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="alternative">Within</a> a sentence, <strong>@HI{{ka}}</strong> can indicate a choice: "whether or not".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{ko-hi-}}<strong>ka</strong>@KJ{{crimson^tea}}<strong>ka</strong>@KJ{{drink}}mitaidesune.}}
@@ -101,7 +95,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       Some tea or coffee would be nice wouldn't it?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+Within a sentence, <strong>@HI{{ka}}</strong> can indicate uncertainty about a state or reason: "I wonder".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kazewohiitano<strong>ka</strong>,@KJ{{head}}ga@KJ{{pain}}indesu.}}
@@ -110,7 +108,12 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       I wonder if I've caught a cold - my head hurts.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+Within a sentence, <strong>@HI{{ka}}</strong> following an interrogative word indicates such
+meanings as "anyone, anything, someone, something".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{dare<strong>ka</strong>@KJ{{mountain^rice*field}}sannno@KJ{{electricity^tale^turn^nickname}}wo
@@ -120,7 +123,11 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       Does anyone know Yamada's phonce number?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+Within a sentence, <strong>@HI{{ka}}</strong> following other particles, indicates uncertainty or doubt.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^rice*field}}santo<strong>ka</strong>iu@KJ{{person}}kara@KJ{{electricity^tale}}gaarimashita.}}
@@ -129,7 +136,12 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       There was a phone call from someone called Yamada or something.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<strong>@HI{{ka}}</strong> also appears in the idiomatic expression
+<strong>@HI{{ka}}</strong> ... @HI{{nai uchi ni}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{station}}ni@KJ{{don}}ku<strong>ka</strong>@KJ{{don}}kanaiuchini@KJ{{electricity^car}}ga@KJ{{come}}ta.}}
@@ -138,7 +150,7 @@ Within a sentence, <strong>@HI{{ka}}</strong> can indicate doubt or uncertainty,
       I had hardly arrived at the station when the train came.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
