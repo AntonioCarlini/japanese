@@ -305,7 +305,7 @@ class DataKanjidic
       # To simplify the scanning code, pull these out now
       full_line = line
       meaning = ""
-      if line =~ /^(.*?) \s+ {(.*)} \s+$/ix
+      if line =~ /^(.*?) \s+ \{(.*)\} \s+$/ix
         line = $1
         meaning = "{#{$2}}"
       end
