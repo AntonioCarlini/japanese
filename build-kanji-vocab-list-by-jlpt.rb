@@ -138,7 +138,8 @@ raise("Bad JLPT level: [#{level}]") if jlpt.nil?()
  </tr>
 =end
 
-text = IO.read(vocab_file).force_encoding("ISO-8859-1")
+text = IO.read(vocab_file)
+text = text.force_encoding("ISO-8859-1") if RUBY_VERSION !~ /0.|1.[0-8]/ 
 
 expected_row = 1
 
