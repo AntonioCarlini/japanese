@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tekaradenaito}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tekaradenaito}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{karadenaito}} ...
+<li> @Vte{{}}@HI{{karadenakereba}} ...
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This construction is used to mean that until the action specified by @Vte{{}} is done, the action in the
+main clause cannot happen.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{carry^revolve^excuse^permit}}wo@KJ{{take}}ttedenakereba@KJ{{car}}wo@KJ{{carry^revolve}}shitehaikenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Until I get a driver's licence I cannot drive a car.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p 17).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

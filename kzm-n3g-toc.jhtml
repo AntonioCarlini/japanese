@@ -57,7 +57,7 @@ div.main {
 <ol>
 <li> <a href="grammar-uchi-ni.html">@HI{{uchini}}</a>
 <li> <a href="grammar-aida.html">@HI{{aida}}/@HI{{aidani}}</a>
-<li> @HI{{tekaradenaito}}/@HI{{tekaradenakereba}}
+<li> <a href="grammar-te-kara-denaito.html">@HI{{tekaradenaito}}/@HI{{tekaradenakereba}}</a>
 <li> <a href="grammar-tokoro.html">@HI{{tokoro}}</a>
 </ol>
 
@@ -65,8 +65,8 @@ div.main {
 
 <ol>
 <li> <a href="grammar-toori-ni.html">@HI{{toori}}</a>
-<li> @HI{{niyotte}}
-<li> @HI{{tabini}}
+<li> <a href="grammar-ni-yotte.html">@HI{{niyotte}}</a>
+<li> <a href="grammar-tabi-ni.html">@HI{{tabini}}</a>
 <li> <a href="grammar-ba-hodo.html">@HI{{bahodo}} ... @HI{{hodo}}</a>
 </ol>
 

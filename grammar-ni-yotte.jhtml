@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niyotte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{niyotte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}<strong>@HI{{niyotte}}</strong>
+<li> <em>embedded-question</em>@HI{{kadouka}}<strong>@HI{{niyotte}}</strong>
+<li> <em>embedded-wh-question</em>@HI{{ka}}<strong>@HI{{niyotte}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{niyotte}}</strong> indicates a change in behaviour depending on or according to something.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{person}}<strong>niyotte</strong>@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Depending on the person, the ageing process differs.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ego^nomu}}ha@KJ{{book}}wo@KJ{{read}}mukoto<strong>niyotte</strong>@KJ{{inspection^plains}}wo@KJ{{wide}}zerukotoga
+      @KJ{{exit^come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We can expand our horizons by reading books.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 292).
+<li> @REF{{NKZM-N3G}}. (p. 18).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
