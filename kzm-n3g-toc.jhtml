@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+div.nav {
+    position: fixed;
+    background-color: #fff0e0;
+    top: 0px;
+}
+
+ul.nav {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+ul.nav a {
+    display:block;
+    width:60px;
+}
+
+ul.nav li {
+    float:left;
+}
+
+ul.nav a:hover {
+    color:grey;
+}
+
+div.main {
+}
+
+</style>
+</head>
+<body>
+
+<div class="main">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</h1>
+
+<div class="toc">
+<h1>Table of Contents</h1>
+
+<h2>@KJ{{reality^power^foster^turn*into^compilation}} 
+    @KJ{{No.}}1@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 1</h2>
+
+<h3>1 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-uchi-ni.html">@HI{{uchini}}</a>
+<li> <a href="grammar-aida.html">@HI{{aida}}/@HI{{aidani}}</a>
+<li> @HI{{tekaradenaito}}/@HI{{tekaradenakereba}}
+<li> <a href="grammar-tokoro.html">@HI{{tokoro}}</a>
+</ol>
+
+<h3>2 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-toori-ni.html">@HI{{toori}}</a>
+<li> @HI{{niyotte}}
+<li> @HI{{tabini}}
+<li> <a href="grammar-ba-hodo.html">@HI{{bahodo}} ... @HI{{hodo}}</a>
+</ol>
+
+</div>
+</body>
+</html>
