@@ -9,7 +9,10 @@
 <h1>@KJ{{day^book^word}} Study Progress</h1>
 
 <ol class="toc">
-<li><a href="mnn.html"><span>@HI{{minnna no}} @KJ{{day^book^word}}</span></a> - <a href="mnn-toc.html"><span>(table of contents)</span></a>
+<li><a href="mnn.html"><span>@HI{{minnnano}}@KJ{{day^book^word^first*time^class}}</span></a> -
+    <a href="mnn-toc.html"><span>(table of contents)</span></a>
+<li><a href="mnn-int.html"><span>@HI{{minnnano}}@KJ{{day^book^word^in^class}}</span></a> -
+    <a href="mnn-int-toc.html"><span>(table of contents)</span></a>
 <li><a href="nsm-n3g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N3 @KJ{{sentence^method}}</span></a> -
   <a href="nsm-n3g-toc.html"><span>(table of contents)</span></a>
 <li><a href="kzm-n3g.html"><span>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</span></a> -

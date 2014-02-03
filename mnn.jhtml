@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}}</title>
+<title>@HI{{minnnano}}@KJ{{day^book^word^first*time^class}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -228,10 +228,6 @@
   <td class="ok"> &radic; </td> <td class=""> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 </table>
-
-<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} @KJ{{in}}@KJ{{class}} II</h2>
-
-<h2>@HI{{minnna no}} @KJ{{day}}@KJ{{book}}@KJ{{word}} @KJ{{in}}@KJ{{class}} II</h2>
 
 </body>
 </html>
