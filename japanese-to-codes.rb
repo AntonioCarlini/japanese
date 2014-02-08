@@ -86,7 +86,7 @@ def processing()
       orig_to_handle = to_handle.dup()
 
       # Handle fixed conversions first (all of the form @XX{{}} where XX is alphanumeric and case sensitive)
-      to_handle.gsub!(/@([a-zA-Z0-9]{1,9})\{\{(\w*)\}\}/) {
+      to_handle.gsub!(/@([a-zA-Z0-9]{1,15})\{\{(\w*)\}\}/) {
         |type|
         style = $1
         brkt = $2
@@ -115,17 +115,21 @@ def processing()
         when "Vplain"      then apply_grammar("V<sub>plain</sub>")                            # plain form
         when "Vru"         then apply_grammar("V#{convert_to_hiragana('ru')}")                # dictionary form
         when "Vnai"        then apply_grammar("V#{convert_to_hiragana('nai')}")               # negative
+        when "Vnaide"      then apply_grammar("V#{convert_to_hiragana('naide')}")             # negative-te-form
         when "Vnaistem"    then apply_grammar("V<del>#{convert_to_hiragana('nai')}</del>")    # negative stem
         when "Vmasu"       then apply_grammar("V#{convert_to_hiragana('masu')}")              # masu form
         when "Vmasustem"   then apply_grammar("V<del>#{convert_to_hiragana('masu')}</del>")   # masu stem
         when "Vte"         then apply_grammar("V#{convert_to_hiragana('te')}")                # te-form
         when "Vta"         then apply_grammar("V#{convert_to_hiragana('ta')}")                # past
+        when "Vtara"       then apply_grammar("V#{convert_to_hiragana('tara')}")              # ta-conditional
         when "Vteiru"      then apply_grammar("V#{convert_to_hiragana('teiru')}")             # te iru form
         when "Vba"         then apply_grammar("V#{convert_to_hiragana('ba')}")                # ba (conditional)
         when "Vyou"        then apply_grammar("V#{convert_to_hiragana('you')}")               # volitional
         when "Vreru"       then apply_grammar("V#{convert_to_hiragana('reru')}")              # potential
         when "Vrareru"     then apply_grammar("V#{convert_to_hiragana('rareru')}")            # passive
         when "Vsaseru"     then apply_grammar("V#{convert_to_hiragana('saseru')}")            # causative
+        when "Vsasete"     then apply_grammar("V#{convert_to_hiragana('sasete')}")            # causative-te-form
+        when "Vsaserareru" then apply_grammar("V#{convert_to_hiragana('saserareru')}")        # causative-passive
         when "Ai"          then apply_grammar("A-#{convert_to_hiragana('i')}")                # i-adjective
         when "Aistem"      then apply_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
         when "Ana"         then apply_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
