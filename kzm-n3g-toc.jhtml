@@ -70,6 +70,15 @@ div.main {
 <li> <a href="grammar-ba-hodo.html">@HI{{bahodo}} ... @HI{{hodo}}</a>
 </ol>
 
+<h3>3 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-kurai.html#kurai-da">@HI{{kuraida}}/@HI{{hododa}}</a>
+<li> <a href="grammar-kurai.html#kurai-wa-nai">@HI{{kurai}}...@HI{{hanai}}/@HI{{hodo}}...@HI{{hanai}}</a>
+<li> <a href="grammar-kurai.html#kurainara">@HI{{kurainara}}</a>
+<li> <a href="grammar-ni-kagiru.html">@HI{{ni@KJ{{limit}}}}</a>
+</ol>
+
 </div>
 </body>
 </html>

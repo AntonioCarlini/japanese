@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kurai}}/@HI{{gurai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kuraida}}/@HI{{guraida}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}<strong>@HI{{kurai}}</strong>
+<li> @Vru{{}}<strong>@HI{{kurai}}</strong>
+<li> @Ai{{}}<strong>@HI{{kurai}}</strong>
+<li> @Ana{{}}<strong>@HI{{kurai}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<a name="kurai-da"In</a> this usage, <strong>@HI{{kurai}}</strong> indicates an example (which did not actually happen)
+the extent of which is being emphasised.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ikura@KJ{{relax}}i@KJ{{place}}demo@KT{{shawa-}}<strong>kurai</strong>@KJ{{adhere}}iteirudeshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even though it is a cheap place, there should at least be a shower.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="kurai-wa-nai">With</a> a negative predicate, <strong>@HI{{kurai}}</strong> expresses a superlative.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mountain^rice*field}}san'<strong>kurai</strong>yoku@KJ{{thing}}wo@KJ{{forget}}reru@KJ{{person}}
+      <strong>hainai</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There's no-one as forgetful as Mr. Yamada.
+  </td> </tr>
+</table>
+</p>
+<p>
+
+<p>
+<a name="kurainara"><strong>@HI{{kurainara}}</strong></a> expresses the idea that one would be better off
+doing something else rather than whatever is expressed by the preceding clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{son'nakotowosuru<strong>kurainara</strong>@KJ{{death}}nda@KJ{{direction}}gamashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I would rather die tha do such a thing.
+  </td> </tr>
+</table>
+</p>
+<p>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p 22).
+<li> @REF{{DOIJG}}. (p 151).
+</ol>
+
+<br/><br/>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
