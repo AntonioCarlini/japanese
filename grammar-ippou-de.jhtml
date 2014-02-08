@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{one^direction}}@HI{{de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{one^direction}}@HI{{de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain@KJ{{one^direction}}@HI{{de}}
+<li> @Ai{{}}@KJ{{one^direction}}@HI{{de}}
+<li> @Ana{{}}@KJ{{one^direction}}@HI{{de}}
+<li> @Anastem{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
+<li> @N{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{one^direction}}@HI{{de}} is a conjunction used to present two contrasting situations.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{meeting^deliberation}}deha@KJ{{eye^part}}no@KJ{{idea^see}}wo@KJ{{say}}u@KJ{{one^direction}},
+      hokano@KJ{{person}}no@KJ{{tale}}moyoku@KJ{{listen}}itekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At the meeting, state your opinion but at the same time listen to others too.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 24).
+<li> @REF{{DOAJG}}. (p. 149).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

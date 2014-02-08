@@ -79,6 +79,16 @@ div.main {
 <li> <a href="grammar-ni-kagiru.html">@HI{{ni@KJ{{limit}}}}</a>
 </ol>
 
+<h3>4 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-ni-taishite.html">@HI{{ni@KJ{{vis-a-vis}}shite}}</a>
+<li> <a href="grammar-hanmen.html">@KJ{{anti-^mask}}</a>
+<li> <a href="grammar-ippou-de.html">@KJ{{one^direction}}@HI{{de}}</a>
+<li> <a href="grammar-to-iu-yori.html">@HI{{toiuyori}}</a>
+<li> <a href="grammar-kawari-ni.html">@HI{{kawarini}}</a>
+</ol>
+
 </div>
 </body>
 </html>

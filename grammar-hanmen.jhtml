@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{anti-^mask}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{anti-^mask}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@KJ{{anti-^mask}}
+<li> @Anastem{{}}@HI{{dearu}}@KJ{{anti-^mask}}
+<li> @Ana{{}}@KJ{{anti-^mask}}
+<li> @N{{}}@HI{{dearu}}@KJ{{anti-^mask}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{anti-^mask}}</strong> presents the preceding clause and the main clause as contrasts.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{portable^sash^electricity^tale}}ha@KJ{{convenience^profit}}na@KJ{{anti-^mask}},wazuwarashiikotomoaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While mobile phones are convenient, they are also sometimes annoying.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 24).
+<li> @REF{{DOAJG}}. (p. 107).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
