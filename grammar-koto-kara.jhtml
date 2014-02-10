@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotokara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kotokara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}<strong>@HI{{kotokara}}</strong>
+<li> @Ai{{}}<strong>@HI{{kotokara}}</strong>
+<li> @Ana{{}}<strong>@HI{{kotokara}}</strong>
+<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{kotokara}}</strong>
+<li> @N{{}}@HI{{dearu}}<strong>@HI{{kotokara}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{kotokara}}</strong> is used in this construction to mean that the preceding clause is the cause
+of the subsequent one.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{book^hit}}nisasaina<strong>kotokara</strong>,@KJ{{meeting^discuss}}ha@KJ{{in^stop}}ninatteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because of a really trivial matter, the conference broke up.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 233).
+<li> @REF{{NKZM-N3G}}. (p. 30).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

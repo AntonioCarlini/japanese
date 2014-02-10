@@ -89,6 +89,17 @@ div.main {
 <li> <a href="grammar-kawari-ni.html">@HI{{kawarini}}</a>
 </ol>
 
+<h3>5 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-tame-ni.html">~ @HI{{tameda}} / ~ @HI{{tame}}(@HI{{ni}})</a>
+<li> <a href="grammar-ni-yotte-ni-yoru.html">~ @HI{{niyotte}} / ~ @HI{{niyoru}}</a>
+<li> <a href="grammar-particle-kara.html#because"> ~ @HI{{kara}}</a> / ~ <a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
+<li> <a href="grammar-okage-de.html">~ @HI{{okageda}} / ~ @HI{{okagede}}</a> /
+     <a href="grammar-sei-de.html">~ @HI{{oseida}} / ~ @HI{{oseide}}</a>
+<li> <a href="grammar-no-dakara.html">~ @HI{{nodakara}}</a>
+</ol>
+
 </div>
 </body>
 </html>

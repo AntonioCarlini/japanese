@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{okagede}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{okagede}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no}}<strong>@HI{{okagede}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{okagede}}</strong> expresses a cause which brings about a desirable outcome. There is an implication
+that the person who received the result is grateful.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{relax^whole}}@KT{{beru}}no<strong>okagede</strong>@KJ{{fate}}ga@KJ{{help}}katta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Thanks to the safety belt, my life was saved.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{okagede}}</strong> can be used  for an undesirable result, but in a sarcastic manner.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 31).
+<li> @REF{{DOIJG}}. (p. 378).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

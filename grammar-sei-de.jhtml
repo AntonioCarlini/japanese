@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{seide}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{seide}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no}}<strong>@HI{{seide}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{seide}}</strong> expresses a cause which brings about an undesirable outcome.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{yesterday^day^drink}}misugita<strong>seide</strong>@KJ{{now^day}}ha@KJ{{head}}gafurafurasuru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I drank too much last night, I am dizzy today.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{seide}}</strong> can only be used when the speaker cannot control the cause of the undesirable result.
+<strong>@HI{{seika}}</strong>, however, can be used whether the result is undesirable or not.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 31).
+<li> @REF{{DOIJG}}. (p. 378).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
