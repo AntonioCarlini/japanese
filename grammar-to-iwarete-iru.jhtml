@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}wareteiru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}wareteiru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{to@KJ{{say}}wareteiru.}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{to@KJ{{say}}wareteiru}} is the passive of @HI{{to@KJ{{say}}u}} and is used to quote a sentence in the form "People say that ..."
+or "It is said that ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^year}}ha@KJ{{black}}i@KJ{{clothing}}ga@KJ{{current^going}}suruto@KJ{{say}}wareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This year black clothing is fashionable, they say.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 36).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

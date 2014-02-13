@@ -14,7 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{nara}}</strong>
+<li> @Vplain{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
+<li> @Ai{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
+<li> @Anastem{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
+<li> @N{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
 </ol>
 </dl>
 
@@ -23,12 +26,7 @@
 <p>
 When a speaker wishes to take up a topic introduced by another person and give some information,
 @N{{}}<strong>@HI{{nara}}</strong> is used.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{@KJ{{warm^spring}}ni @KJ{{going}}kitaindesuga, dokoka ii @KJ{{place}}arimasenka.}}
@@ -43,14 +41,41 @@ When a speaker wishes to take up a topic introduced by another person and give s
       B: If you're talking about hot spring resorts, Hakuba would be good.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+<strong>@HI{{nara}}</strong> is a conjunction that indicates that the preceding sentence is the
+speaker's supposition or the actualisation of something in the future.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{shikago}}he@KJ{{going}}kuno<strong>nara</strong>@KT{{basu}}de@KJ{{going}}kinasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you go to Chicago, go by bus.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+<strong>@HI{{nara}}</strong> is the simplified form of @HI{{naraba}}, the conditional form of the copula @HI{{da}}.
+In modern Japanese, however, the @HI{{ba}} is usually omitted.
+</p>
+
+<p>
+<strong>@HI{{nara}}</strong> requires a noun or noun equivalent. So if the preceding element is not a noun, it is
+nominalised by @HI{{no}}. However, in modern Japanese this @HI{{no}} is optional. In conversation, this @HI{{no}}
+can become @HI{{nn}}.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{DOBJG}}. (p. 281).
+<li> @REF{{NKZM-N3G}}. (p. 32).
 </ol>
 
 </br></br>

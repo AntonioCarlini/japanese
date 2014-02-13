@@ -100,6 +100,26 @@ div.main {
 <li> <a href="grammar-no-dakara.html">~ @HI{{nodakara}}</a>
 </ol>
 
+<h3>6 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-nara.html">(@HI{{no}})@HI{{nara}}</a>
+<li> <a href="grammar-te-wa.html">@HI{{teha}}</a>
+<li> <a href="grammar-particle-sae.html#if-only"> ~ @HI{{sae}} ~ @HI{{ba}} / ~ @HI{{sae}} ~ @HI{{nara}}</a>
+<li> <a href="grammar-tatoe-temo.html">@HI{{tatoe}} ~ @HI{{temo}}</a>
+<li> ~ @HI{{ba}} / ~ @Vta{{}}@HI{{ra}} / ~ @HI{{nara}}
+</ol>
+
+<h3>6 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-to-iu-koto-da.html">@HI{{toiukotoda}} / @HI{{tonokotoda}}</a>
+<li> <a href="grammar-to-iwarete-iru.html">~ @HI{{to@KJ{{say}}wareteiru}}</a>
+<li> <a href="grammar-toka-hearsay.html">~ @HI{{toka}}</a>
+<li> <a href="grammar-tte-quotation.html#hearsay">~ @HI{{tte}}</a>
+<li> <a href="grammar-to-iu.html">~ @HI{{toiu}}.</a>
+</ol>
+
 </div>
 </body>
 </html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tatoe}} ~ @HI{{temo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{tatoe}} ~ @HI{{temo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{tatoe}}</strong> @Vte{{}} <strong>@HI{{mo}}</strong>
+<li> <strong>@HI{{tatoe}}</strong> @Aistem{{}} <strong>@HI{{kutemo}}</strong>
+<li> <strong>@HI{{tatoe}}</strong> @Anastem{{}} <strong>@HI{{demo}}</strong>
+<li> <strong>@HI{{tatoe}}</strong> @N{{}} <strong>@HI{{demo}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This construction is used to indicate that even if a certain fact or state exists, something will happen or be done regardless.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>tatoe</strong>@KJ{{circumference}}rino@KJ{{person}}tachinidon'nani@KJ{{anti-^vis-a-vis}}saretemo,
+      bokuha@KT{{puro}}no@KJ{{song^hand}}ninaritai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if everyone around me is against it, I want to become a professional singer.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 33).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
