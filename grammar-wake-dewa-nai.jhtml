@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wakedehanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{wakedehanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{wakedehanai}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{wakedehanai}}</strong> is used to deny what is implied in the previous statement. It is often
+used in cases where the circumstances may suggest one thing but the facts are different.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ikura@KJ{{day^book^word}}ga@KJ{{exit^come}}naito@KJ{{say}}ttemo@KJ{{whole^sort*of*thing^tale}}senai<strong>wakedehanai</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although I say I cannot speak Japanese, it does not mean I cannot speak it at all.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{wakedehanai}}</strong> is the negative form of <a href="grammar-wake-da.html">@HI{{wakeda}}</strong></a>.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 574).
+<li> @REF{{NKZM-N3G}}. (p. 38).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

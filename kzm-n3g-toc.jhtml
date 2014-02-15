@@ -110,7 +110,7 @@ div.main {
 <li> ~ @HI{{ba}} / ~ @Vta{{}}@HI{{ra}} / ~ @HI{{nara}}
 </ol>
 
-<h3>6 @KJ{{chapter}}</h3>
+<h3>7 @KJ{{chapter}}</h3>
 
 <ol>
 <li> <a href="grammar-to-iu-koto-da.html">@HI{{toiukotoda}} / @HI{{tonokotoda}}</a>
@@ -118,6 +118,24 @@ div.main {
 <li> <a href="grammar-toka-hearsay.html">~ @HI{{toka}}</a>
 <li> <a href="grammar-tte-quotation.html#hearsay">~ @HI{{tte}}</a>
 <li> <a href="grammar-to-iu.html">~ @HI{{toiu}}.</a>
+</ol>
+
+<h3>8 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-hazu-ga-nai.html">~ @HI{{hazuganai}} / ~ @HI{{wakeganai}}</a>
+<li> <a href="grammar-to-wa-kagiranai.html">~ @HI{{toha@KJ{{limit}}ranai}}</a>
+<li> <a href="grammar-wake-dewa-nai.html">~ @HI{{wakedehanai}} / @HI{{toiuwakedehanai}} / @HI{{nodehanai}} </a>
+<li> <a href="grammar-nai-koto-wa-nai.html">~ @HI{{naikotohanai}}</a>
+<li> <a href="grammar-koto-wa-ga.html">~ @HI{{kotoha}} ~ @HI{{ga}}</a>
+</ol>
+
+<h3>9 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-te-hoshii.html">@Vte{{}}@HI{{moraitai}} / @Vte{{}}@HI{{itadakitai}} / @Vte{{}}@HI{{hoshii}}</a>
+<li> <a href="grammar-te-causative-itadakitai.html">@Vte{{}}(causative)@HI{{itadakitai}} / @Vte{{}}(causative)@HI{{hoshii}}</a>
+<li> <a href="grammar-conditional-ii.html">~ @HI{{toii}} / ~ @Vba{{}}@HI{{ii}} / ~ @Vta{{}}@HI{{raii}}</a>
 </ol>
 
 </div>

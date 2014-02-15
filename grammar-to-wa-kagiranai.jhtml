@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toha@KJ{{limit}}ranai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{toha@KJ{{limit}}ranai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{toha@KJ{{limit}}ranai}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{toha@KJ{{limit}}ranai}} expresses the idea that something is "not always the case" or "not necessarily so".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^life}}gasou@KJ{{say}}ttakarato@KJ{{say}}ttesorega@KJ{{correct}}shiitoha@KJ{{limit}}ranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is not necessarily correct just because a teacher said so.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The adverbs @KJ{{invariably}}@HI{{zushimo}} and @HI{{itsumo}} can be used with @HI{{toha@KJ{{limit}}ranai}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 536).
+<li> @REF{{NKZM-N3G}}. (p. 38).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

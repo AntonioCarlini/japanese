@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hazuganai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{hazuganai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}<strong>@HI{{hazuganai}}</strong>
+<li> @Ai{{}}<strong>@HI{{hazuganai}}</strong>
+<li> @Anastem{{}}@HI{{na}}<strong>@HI{{hazuganai}}</strong>
+<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{hazuganai}}</strong>
+<li> @N{{}}@HI{{no}}<strong>@HI{{hazuganai}}</strong>
+<li> @N{{}}@HI{{dearu}}<strong>@HI{{hazuganai}}</strong>
+
+<li> @Vplain{{}}<strong>@HI{{wakeganai}}</strong>
+<li> @Ai{{}}<strong>@HI{{wakeganai}}</strong>
+<li> @Anastem{{}}@HI{{na}}<strong>@HI{{wakeganai}}</strong>
+<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{wakeganai}}</strong>
+<li> @N{{}}@HI{{no}}<strong>@HI{{wakeganai}}</strong>
+<li> @N{{}}@HI{{dearu}}<strong>@HI{{wakeganai}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{hazuganai}}</strong> expresses the speaker's subjective judgement that an event is very unlikely.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}ga@KJ{{now^day}}no@KJ{{meeting^deliberation}}wo@KJ{{forget}}reru<strong>hazuhanai</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is unlikely that she will forget today's meeting.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{hazuganai}}</strong> is a phrase that expresses the speaker's opinion that "there is no reason why ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'nakotowoshiteii<strong>wakeganai</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No-one is allowed to do that kind of thing. (There is no reason why it is good to do such a thing.)
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{hazuganai}}</strong> can be used with sentences in the past. <strong>@HI{{wakeganai}}</strong> cannot be
+used with past sentences, except indirectly by presenting the negation as a statement of common belief or about ability.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 133).
+<li> @REF{{DOIJG}}. (p. 147).
+<li> @REF{{DOIJG}}. (p. 578).
+<li> @REF{{NKZM-N3G}}. (p. 38).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
