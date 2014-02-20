@@ -154,7 +154,7 @@ def processing()
           alt = ref.alternate()
           res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
           res += ref.text()
-          res += "</span> "unless alt.nil?() || alt.empty?()
+          res += "</span>" unless alt.nil?() || alt.empty?()
         end
         res
       }

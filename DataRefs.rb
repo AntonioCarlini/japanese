@@ -68,7 +68,6 @@ class DataRefs
       line.chomp!()
       line_num += 1
 
-      # Bail out if kanji limit reached (useful for testing).
       next if refs_limit > 0 && refs_read >= refs_limit
 
       # Skip commented out lines
