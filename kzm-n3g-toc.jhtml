@@ -156,6 +156,14 @@ div.main {
 <li> <a href="grammar-tsumori.html">@HI{{tsumorida}}</a>
 </ol>
 
+<h3>12 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-sonkeigo.html">@KJ{{revered^awe^word}}</a>
+<li> <a href="grammar-kenjougo.html">@KJ{{self-effacing^defer^^word}}1 (referring to a superior)</a>
+<li> <a href="grammar-kenjougo.html">@KJ{{self-effacing^defer^^word}}2 (used as a courtesy)</a>
+<li> <a href="grammar-teineigo.html">@KJ{{street^rather^word}}</a>
+
 </div>
 </body>
 </html>
