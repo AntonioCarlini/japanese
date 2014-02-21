@@ -26,13 +26,14 @@ def convert_to_hiragana(text)
     :ra => 0x3089, :ri => 0x308a, :ru => 0x308b, :re => 0x308c, :ro => 0x308d,
     :wa => 0x308f, :wi => 0x3090,                :we => 0x3091, :wo => 0x3092,
     :nn => 0x3093, :"n'" => 0x3093,
+    :xa => 0x3041, :xi => 0x3043, :xu => 0x3045, :xe => 0x3045, :xo => 0x3049,
     # Alternatives below here
     :ji => 0x3058,
     :hu => 0x3075,
   }
-  three = { :shi => 0x3057, :chi => 0x3061, :tsu => 0x3064 }
+  three = { :shi => 0x3057, :chi => 0x3061, :tsu => 0x3064, :xya => 0x3083, :xyu => 0x3085, :xyo => 0x3087, :xwa => 0x308e }
   digraph2 = { :ya => 0x3083, :yu => 0x3085, :yo => 0x3087 }
-
+  four = { :xtsu => 0x3063 }
   result = ""
   current = ""
   pos = 0
@@ -92,6 +93,13 @@ def convert_to_hiragana(text)
         result << jp_unicode(s)
         current = ""
       end
+    when 4
+      s = four[ch]
+      if !s.nil?()
+        # Three char translation works
+        result << jp_unicode(s)
+        current = ""
+      end
     end
     # Look for the hiragana digraphs
     if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/ix
@@ -126,10 +134,38 @@ def convert_to_hiragana(text)
       result << jp_unicode(two[:ji]) + jp_unicode(digraph2[ss.to_sym()])
     end
 
-    if current.length() >= 4
+    if current.length() >= 5
       puts("HIRAGANA: BROKEN at #{pos} trying to handle [#{current}] in [#{text}]")
       exit
     end
   }
   return result
+end
+
+$UNICODE_2_HI_JHTML = {
+  12289 => ',',
+  12290 => '.',
+  12300 => '[',
+  12301 => ']',
+  12353 => 'xa', 12355 => 'xi', 12357 => 'xu', 12359 => 'xe', 12361 => 'xo', 
+  12354 => 'a',  12356 => 'i',  12358 => 'u',  12360 => 'e',  12362 => 'o', 
+  12363 => 'ka', 12364 => 'ga', 12365 => 'ki', 12366 => 'gi', 12367 => 'ku', 12368 => 'gu', 12369 => 'ke', 12370 => 'ge', 12371 => 'ko', 12372 => 'go', 
+  12373 => 'sa', 12374 => 'za', 12375 => 'shi', 12376 => 'ji', 12377 => 'su', 12378 => 'zu', 12379 => 'se', 12380 => 'ze', 12381 => 'so', 12382 => 'zo', 
+  12383 => 'ta', 12384 => 'da', 12385 => 'chi', 12386 => 'di', 12388 => 'tsu', 12389 => 'du', 12390 => 'te', 12391 => 'de', 12392 => 'to', 12393 => 'do', 
+  12387 => 'xtsu',
+  12394 => 'na', 12395 => 'ni', 12396 => 'nu', 12397 => 'ne', 12398 => 'no',
+  12399 => 'ha', 12400 => 'ba', 12401 => 'pa', 12402 => 'hi', 12403 => 'bi', 12404 => 'pi', 12405 => 'fu', 12406 => 'bu', 12407 => 'pu', 12408 => 'he', 12409 => 'be', 12410 => 'pe', 12411 => 'ho', 12412 => 'bo', 12413 => 'po',
+  12414 => 'ma', 12415 => 'mi', 12416 => 'mu', 12417 => 'me', 12418 => 'mo',
+  12419 => 'xya', 12421 => 'xyu', 12423 => 'xyo',
+  12420 => 'ya', 12422 => 'yu', 12424 => 'yo',
+  12425 => 'ra', 12426 => 'ri', 12427 => 'ru', 12428 => 're', 12429 => 'ro',
+  12430 => 'xwa',
+  12431 => 'wa', 12432 => 'wi', 12433 => 'we', 12434 => 'wo',
+  12435 => "n'",
+  12436 => 'vu'
+}
+
+def convert_unicode_to_hiragana_jhtml(code)
+  ans = $UNICODE_2_HI_JHTML[code]
+  return ans
 end

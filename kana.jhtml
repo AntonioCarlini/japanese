@@ -4,12 +4,23 @@
 <title>Japanese Kana</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+tr.vertical {
+    vertical-align: top;
+}
+
+</style>
 </head>
 <body bcolor="red">
 <h1>Japanese Kana</h1>
 
 <h2>Hiragana</h2>
-<h3> Basic Characters </h3>
+
+<table border="1">
+<tr> <th> Basic Characters </th> <th> Voiced Characters </th> <th>Hiragana Trigraphs</th> </tr>
+<tr class="vertical">
+<td>
 <table>
   <tr>
     <td> @HI{{a}} <br/> a </td>
@@ -82,9 +93,9 @@
     <td> @HI{{wo}} <br/> wo </td>
   </tr>
 </table>
+</td>
 
-<h3> Voiced Characters </h3>
-
+<td>
 <table>
   <tr>
     <td> @HI{{ga}} <br/> ga </td>
@@ -122,9 +133,9 @@
     <td> @HI{{po}} <br/> po </td>
   </tr>
 </table>
+</td>
 
-<h3>Hiragana Trigraphs</h3>
-
+<td>
 <table>
   <tr>
     <td> @HI{{kya}} <br/> kya </td>
@@ -183,9 +194,16 @@
   </tr>
 
 </table>
+</td>
+</tr>
+</table>
 
 <h2>Katakana</h2>
 
+<table border="1">
+<tr> <th> Basic Characters </th> <th> Voiced Characters </th> <th>Hiragana Trigraphs</th> </tr>
+<tr class="vertical">
+<td>
 <table>
   <tr>
     <td> @KT{{a}} <br/> a </td>
@@ -258,9 +276,9 @@
     <td> @KT{{wo}} <br/> wo </td>
   </tr>
 </table>
+</td>
 
-<h3> Voiced Characters </h3>
-
+<td>
 <table>
   <tr>
     <td> @KT{{ga}} <br/> ga </td>
@@ -298,9 +316,9 @@
     <td> @KT{{po}} <br/> po </td>
   </tr>
 </table>
+</td>
 
-<h3>Katakana Trigraphs</h3>
-
+<td>
 <table>
   <tr>
     <td> @KT{{kya}} <br/> kya </td>
@@ -358,6 +376,45 @@
     <td> @KT{{pyo}} <br/> pyo </td>
   </tr>
 
+</table>
+</td>
+</tr>
+</table>
+
+<h2>Extra Options</h2>
+
+<table border="1">
+<tr> <th colspan="4"> Hiragana </th> </tr>
+<tr class="vertical">
+    <td> @HI{{,}} <br/> , </td>
+    <td> @HI{{.}} <br/> . </td>
+    <td> @HI{{[}} <br/> [ </td>
+    <td> @HI{{]}} <br/> ] </td>
+</tr>
+<tr class="vertical">
+    <td> @HI{{ti}} <br/> ti </td>
+    <td> @HI{{tu}} <br/> tu </td>
+    <td> @HI{{di}} <br/> di </td>
+    <td> @HI{{wi}} <br/> wi </td>
+</tr>
+<tr class="vertical">
+    <td> @HI{{we}} <br/> we </td>
+    <td> @HI{{hu}} <br/> hu </td>
+    <td> @HI{{di}} <br/> di </td>
+    <td> @HI{{wi}} <br/> wi </td>
+</tr>
+<tr class="vertical">
+    <td> @HI{{xa}} <br/> xa </td>
+    <td> @HI{{xi}} <br/> xi </td>
+    <td> @HI{{xu}} <br/> xu </td>
+    <td> @HI{{xe}} <br/> xe </td>
+</tr>
+<tr class="vertical">
+    <td> @HI{{xo}} <br/> xo </td>
+    <td> @HI{{xya}} <br/> xya </td>
+    <td> @HI{{xyu}} <br/> xyu </td>
+    <td> @HI{{xyo}} <br/> xyo </td>
+</tr>
 </table>
 
 </body>
