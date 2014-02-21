@@ -21,7 +21,7 @@ tr.vertical {
 <tr> <th> Basic Characters </th> <th> Voiced Characters </th> <th>Hiragana Trigraphs</th> </tr>
 <tr class="vertical">
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @HI{{a}} <br/> a </td>
     <td> @HI{{i}} <br/> i </td>
@@ -384,36 +384,66 @@ tr.vertical {
 <h2>Extra Options</h2>
 
 <table border="1">
-<tr> <th colspan="4"> Hiragana </th> </tr>
+<tr> <th colspan="4"> Hiragana </th> <th colspan="4"> Katakana </th> </tr>
 <tr class="vertical">
     <td> @HI{{,}} <br/> , </td>
     <td> @HI{{.}} <br/> . </td>
     <td> @HI{{[}} <br/> [ </td>
     <td> @HI{{]}} <br/> ] </td>
+    <td> @KT{{,}} <br/> , </td>
+    <td> @KT{{.}} <br/> . </td>
+    <td> @KT{{[}} <br/> [ </td>
+    <td> @KT{{]}} <br/> ] </td>
 </tr>
 <tr class="vertical">
     <td> @HI{{ti}} <br/> ti </td>
     <td> @HI{{tu}} <br/> tu </td>
     <td> @HI{{di}} <br/> di </td>
     <td> @HI{{wi}} <br/> wi </td>
+    <td> @KT{{ti}} <br/> ti </td>
+    <td> @KT{{tu}} <br/> tu </td>
+    <td> @KT{{di}} <br/> di </td>
+    <td> @KT{{wi}} <br/> wi </td>
 </tr>
 <tr class="vertical">
     <td> @HI{{we}} <br/> we </td>
     <td> @HI{{hu}} <br/> hu </td>
     <td> @HI{{di}} <br/> di </td>
     <td> @HI{{wi}} <br/> wi </td>
+    <td> @KT{{we}} <br/> we </td>
+    <td> @KT{{hu}} <br/> hu </td>
+    <td> @KT{{di}} <br/> di </td>
+    <td> @KT{{wi}} <br/> wi </td>
 </tr>
 <tr class="vertical">
     <td> @HI{{xa}} <br/> xa </td>
     <td> @HI{{xi}} <br/> xi </td>
     <td> @HI{{xu}} <br/> xu </td>
     <td> @HI{{xe}} <br/> xe </td>
+    <td> @KT{{xa}} <br/> xa </td>
+    <td> @KT{{xi}} <br/> xi </td>
+    <td> @KT{{xu}} <br/> xu </td>
+    <td> @KT{{xe}} <br/> xe </td>
 </tr>
 <tr class="vertical">
     <td> @HI{{xo}} <br/> xo </td>
     <td> @HI{{xya}} <br/> xya </td>
     <td> @HI{{xyu}} <br/> xyu </td>
     <td> @HI{{xyo}} <br/> xyo </td>
+    <td> @KT{{xo}} <br/> xo </td>
+    <td> @KT{{xya}} <br/> xya </td>
+    <td> @KT{{xyu}} <br/> xyu </td>
+    <td> @KT{{xyo}} <br/> xyo </td>
+</tr>
+<tr class="vertical">
+    <td> @HI{{xtsu}} <br/> xtsu </td>
+    <td> @HI{{xwa}} <br/> xwa </td>
+    <td> &nbsp; <br/> &nbsp; </td>
+    <td> &nbsp; <br/> &nbsp; </td>
+    <td> @KT{{xtsu}} <br/> xtsu </td>
+    <td> @KT{{xwa}} <br/> xwa </td>
+    <td> &nbsp; <br/> &nbsp; </td>
+    <td> &nbsp; <br/> &nbsp; </td>
 </tr>
 </table>
 

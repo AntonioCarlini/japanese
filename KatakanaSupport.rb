@@ -34,8 +34,9 @@ def convert_to_katakana(text)
     # small characters
     :xa => 0x30a1, :xi => 0x30a3, :xu => 0x30a5, :xe => 0x30a7, :xo => 0x30a9
   }
-  three = { :shi => 0x30b7, :chi => 0x30c1, :tsu => 0x30c4 }
+  three = { :shi => 0x30b7, :chi => 0x30c1, :tsu => 0x30c4, :xya => 0x30e3, :xyu => 0x30e5, :xyo => 0x30e7, :xwa => 0x30ee }
   digraph2 = { :ya => 0x30e3, :yu => 0x30e5, :yo => 0x30e7 }
+  four = { :xtsu => 0x30c3 }
 
   result = ""
   current = ""
@@ -85,6 +86,13 @@ def convert_to_katakana(text)
         result << jp_unicode(s)
         current = ""
       end
+    when 4
+      s = four[ch]
+      if !s.nil?()
+        # Three char translation works
+        result << jp_unicode(s)
+        current = ""
+      end
     end
     # Look for the hiragana digraphs
     if current =~ /^(k|sh|ch|n|h|m|r|g|j|b|p)(ya|yu|yo)$/ix
@@ -124,7 +132,7 @@ def convert_to_katakana(text)
       current = ""
     end
 
-    if current.length() >= 4
+    if current.length() >= 5
       puts("KATAKANA: BROKEN at #{pos} trying to handle [#{current}]")
       exit
     end
