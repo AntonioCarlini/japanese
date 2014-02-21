@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{koto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{koto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}<strong>@HI{{koto}}</strong>
+<li> @Vnai{{}}<strong>@HI{{koto}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{koto}} occurs in this sentence pattern mainly while giving a caution or when conveying instructions
+or orders in writing, for example in notices.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{speaketh^crowded^write}}wo@KJ{{write}}ku@KJ{{in*front}}ni@KJ{{pour^idea^write}}ki
+      woyoku@KJ{{read}}mukoto.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Before writing on the form, read the instructions carefully.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N3G}}. (p. 46).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
