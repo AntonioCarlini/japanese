@@ -20,14 +20,9 @@
 
 <h2> Definition </h2>
 
-The @Vru{{}} form indicates the speaker's intention of doing something and the @HI{{nai}} form
-indicates the speaker's intention of not doing something.
-<p></p>
+<p>
+The @Vru{{}} form indicates the speaker's intention of doing something.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{country}}he @KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo @KJ{{continue}}keru <strong>tsumori</strong>desu.}}
@@ -36,7 +31,11 @@ indicates the speaker's intention of not doing something.
       Even when I go back to my country, I'll continue my judo.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+The @HI{{nai}} form indicates the speaker's intention of not doing something.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ashita karaha tabakowo @KJ{{suck}}wanai <strong>tsumori</strong>desu.}}
@@ -45,18 +44,20 @@ indicates the speaker's intention of not doing something.
       I'm determined not to smoke from tomorrow.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
-Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}} @HI{{<strong>tsumori</strong>desu.}} sounds more determined.
-<p></p>
+<p>
+Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{<strong>tsumori</strong>desu.}} sounds more determined.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @REF{{JPOD101-LI-S1-002}}.
+<li> @REF{{NKZM-N3G}}. (p. 50).
 </ol>
 
 <br/><br/>

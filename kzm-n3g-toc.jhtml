@@ -147,6 +147,15 @@ div.main {
 <li> <a href="grammar-tara-douka.html">@Vta{{}}@HI{{radouks}}</a>
 </ol>
 
+<h3>11 @KJ{{chapter}}</h3>
+
+<ol>
+<li> <a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>
+<li> <a href="grammar-you-ni-suru.html">@HI{{younisuru}}</a>
+<li> <a href="grammar-volitional-to-suru.html">@Vyou{{}}@HI{{tosuru}}</a>
+<li> <a href="grammar-tsumori.html">@HI{{tsumorida}}</a>
+</ol>
+
 </div>
 </body>
 </html>

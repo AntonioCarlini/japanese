@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotonisuru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kotonisuru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}<strong>@HI{{kotonisuru}}</strong>
+<li> @Vte{{}}@HI{{iru}}<strong>@HI{{kotonisuru}}</strong>
+<li> @Vnai{{}}<strong>@HI{{kotonisuru}}</strong>
+<li> @Vru{{}}<strong>@HI{{kotonishiteiru}}</strong>
+<li> @Vnai{{}}<strong>@HI{{kotonishiteiru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{kotonisuru}}</strong> indicates a volitional decision. It is a more complex form of
+<a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{capital^metropolis}}made@KT{{basu}}de@KJ{{going}}ku<strong>kotonishimashou</strong.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's go as far as Kyoto by bus.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^day^Sino-^character}}wo@KJ{{ten}}@KJ{{memorize}}eru<strong>kotonishimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've decided to memorise ten kanji every day.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<p>
+The form <strong>@HI{{kotonishiteiru}}</strong> indicates that the decision is still in force.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{meat}}woamari@KJ{{eat}}nai<strong>kotonishiteiru</strong.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I make it a rule not to eat very much meat.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 204).
+<li> @REF{{NKZM-N3G}}. (p. 50).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
