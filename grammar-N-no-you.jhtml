@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@N{{}}@HI{{noyou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@N{{}}@HI{{noyou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{noyouda}}
+<li> @N{{}}@HI{{noyouna}}@N2{{}}
+<li> @N{{}}@HI{{noyouni}}@V{{}}
+<li> @N{{}}@HI{{noyouni}}@Ai{{}}
+<li> @N{{}}@HI{{noyouni}}@Ana{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@N{{}}@HI{{noyouda}} is used at the end of a sentence to liken one noun to another.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{ill^Inst.}}ha@KT{{hoteru}}noyouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That hospital is like a hotel
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@N{{}}@HI{{noyouna}} is an adjectival phrase used to describe a following noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rice*field^in}}sanha@KT{{hoteru}}noyouna@KJ{{ill^Inst.}}ni@KJ{{enter^Inst.}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka is in a hospital like a hotel.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@N{{}}@HI{{noyouni}} is the form used to modify a verb or an adjective.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{rice*field^in}}sanga@KJ{{enter^Inst.}}ha@KT{{hoteru}}noyounikireida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The hospital Mr. takana is in is as nice as a hotel.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an example.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{husband}}ha,@KT{{kae-}}noyouna@KJ{{simplicity^simple}}na@KJ{{fee^logic}}shika@KJ{{make}}remasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My husband can only cook simple dishes like curry.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

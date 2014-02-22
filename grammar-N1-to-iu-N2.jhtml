@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@N1{{}}@HI{{toiu}}@N2{{}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@N1{{}}@HI{{toiu}}@N2{{}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}@HI{{toiu}}@N2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern is used to quote the name of something that the listener may not know about.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{yesterday^day}},[@KT{{suta-|uxo-zu}}]toiu@KJ{{reflect^brush-stroke}}wo@KJ{{see}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yesterday I saw a film called "Star Wars".
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

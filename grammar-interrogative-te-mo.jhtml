@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title><em>interrogative</em> + @Vte{{}}@HI{{mo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1><em>interrogative</em> + @Vte{{}}@HI{{mo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>interrogative</em> + @Vte{{}}@HI{{mo}}
+<li> <em>interrogative</em> + @Aistem{{}}@HI{{kutemo}}
+<li> <em>interrogative</em> + @Anastem{{}}@HI{{demo}}
+<li> <em>interrogative</em> + @N{{}}@HI{{demo}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This pattern expresses that something happens under all circumstances, whatever they might be.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{generation^world^in}}dokoniitemo@KJ{{house^tribe}}nokotowo@KJ{{forget}}remasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Wherever I am in the world, I never forget my family.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what^degrees^hear}}itemo@KJ{{same}}jikotoshika@KJ{{teach}}etekurenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how many times I ask, they only tell me the same thing.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
