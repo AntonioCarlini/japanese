@@ -2566,7 +2566,7 @@ class KD
     "fact" => Kanji.new(2710, 35538, ["RYOU"], ["akira.ka","makotoni"], ["aki","masa","makoto"], ["fact","reality","understand","appreciate"], 9, 1),
     "who" => Kanji.new(2712, 35504, ["SUI"], ["dare","tare","ta"], [""], ["who","someone","somebody"], 8, 0),
     "separation" => Kanji.new(2714, 35363, ["KETSU"], ["wakare","wakare.ru"], [""], ["separation","part","secret"], 9, 0),
-    "visit*a*temple" => Kanji.new(2715, 35427, ["KEI","GEI"], ["kei.suru","mai.ru","ita.ru","mou.deru"], [""], ["visit a temple"], 8, 0),
+    "visit*a*shrine" => Kanji.new(2715, 35427, ["KEI","GEI"], ["kei.suru","mai.ru","ita.ru","mou.deru"], [""], ["visit a shrine"], 8, 0),
     "truth" => Kanji.new(2716, 35558, ["TEI","TAI"], ["akira.meru","tsumabiraka","makoto"], [""], ["truth","clarity","abandon","give up"], 8, 0),
     "discussion" => Kanji.new(2717, 35438, ["SEN"], ["sen.zuru","kai","aki.raka"], ["aki"], ["discussion","methods called for","selection","result"], 8, 0),
     "deceive" => Kanji.new(2718, 35409, ["I","TA","DA"], ["wa.biru","wa.bi","azamu.ku"], [""], ["deceive","delude"], 0, 0),
