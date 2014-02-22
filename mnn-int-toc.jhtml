@@ -67,16 +67,16 @@ div.main {
 <h2><a name="chapter1">Chapter 1</a></h2>
 
 <ol>
-<li> <a href="grammar-.html">@Vte{{}}@HI{{moraemasenka}}/@Vte{{}}@HI{{itadakemasenka}}/
-    @Vte{{}}@HI{{moraenaideshou}}/@Vte{{}}@HI{{itadakenaideshou}}</a>
-<li> <a href="grammar-.html">@HI{{noyouda}}/@HI{{noyouna}}/@HI{{noyouni}}</a>
-<li> <a href="grammar-.html">@HI{{kotoha}}/@HI{{kotoga}}/@HI{{kotowo}}</a>
-<li> <a href="grammar-.html">@N1{{}}@HI{{wo}}@N2{{}}@HI{{to@KJ{{say}}u}}</a>
-<li> <a href="grammar-.html">@N1{{}}@HI{{toiu}}@N2{{}}</a>
-<li> <a href="grammar-.html">@HI{{itsu}}/@HI{{doko}}/@KJ{{what}}/@HI{{dare}}/@HI{{don'nani}}~@HI{{temo}}</a>
-<li> <a href="grammar-.html">@N1{{}}@HI{{janakute,}}@N2{{}}</a>
-<li> <a href="grammar-.html">@HI{{noda}}/@HI{{nodehanai}}</a>
-<li> <a href="grammar-.html"><em>counter</em>@HI{{mo}}</a>
+<li> <a href="grammar-te-itadakemasenka.html">@Vte{{}}@HI{{moraemasenka}}/@Vte{{}}@HI{{itadakemasenka}}</a>/
+     <a href="grammar-te-itadakenai-deshou-ka.html">@Vte{{}}@HI{{moraenaideshouka}}/@Vte{{}}@HI{{itadakenaideshouka}}</a>
+<li> <a href="grammar-N-no-you.html">@HI{{noyouda}}/@HI{{noyouna}}/@HI{{noyouni}}</a>
+<li> <a href="grammar-koto-nominaliser.html">@HI{{kotoha}}/@HI{{kotoga}}/@HI{{kotowo}}</a>
+<li> <a href="grammar-N1-wo-N2-to-iu.html">@N1{{}}@HI{{wo}}@N2{{}}@HI{{to@KJ{{say}}u}}</a>
+<li> <a href="grammar-N1-to-iu-N2.html">@N1{{}}@HI{{toiu}}@N2{{}}</a>
+<li> <a href="grammar-interrogative-te-mo.html">@HI{{itsu}}/@HI{{doko}}/@KJ{{what}}/@HI{{dare}}/@HI{{don'nani}}~@HI{{temo}}</a>
+<li> <a href="grammar-N1-janakute-N2.html">@N1{{}}@HI{{janakute,}}@N2{{}}</a>
+<li> <a href="grammar-n-desu.html">@HI{{noda}}/@HI{{nodehanai}}</a>
+<li> <a href="grammar-quantifier-mo.html">@KJ{{what}} <em>counter</em> @HI{{mo}}</a>
 </ol>
 
 <h2><a name="chapter2">Chapter 2</a></h2>
