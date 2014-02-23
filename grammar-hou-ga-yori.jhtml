@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>~ @HI{{houga}} ~ @HI{{yori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>~ @HI{{houga}} ~ @HI{{yori}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}<strong>@HI{{houga}}</strong> @Vru{{}}<strong>@HI{{yori}}</strong>
+<li> @Ai{{}}<strong>@HI{{houga}}</strong> @Ai{{}}<strong>@HI{{yori}}</strong>
+<li> @Ana{{}}<strong>@HI{{houga}}</strong> @Ana{{}}<strong>@HI{{yori}}</strong>
+<li> @N{{}}@HI{{no}}<strong>@HI{{houga}}</strong> @N{{}}<strong>@HI{{yori}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+In Japanese this sentence pattern is used to express the idea of comparison.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{stone^rice*field}}san'no<strong>houga</strong>@KJ{{private}}<strong>yori</strong>@KJ{{young}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. ishida is younger than I am.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The @HI{{yori}} part can come before the @HI{{houga}} part.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 140).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

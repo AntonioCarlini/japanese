@@ -27,7 +27,8 @@ of "from" or "after".
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> can follow nouns to indicate the time at which something starts or the place from which something begins.
+<a name="start"><strong>@HI{{kara}}</strong></a> can follow nouns to indicate the time at which something
+starts or the place from which something begins.
 
 <ol>
 <li><table class="sentence" border=0>
@@ -137,10 +138,10 @@ discerned then @HI{{de}} is preferred.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{exertion^stron}}shinaito@KJ{{test^verification}}ni@KJ{{fit^status}}dekinai<strong>kara</strong>.}}
+      @HI{{@KJ{{exertion^strong}}shinaito@KJ{{test^verification}}ni@KJ{{fit^status}}dekinai<strong>kara</strong>.}}
   </td> </tr>
   <tr class="en"> <td>
-      If you don't studyyou won't be able to pass the exam.
+      If you don't study you won't be able to pass the exam.
   </td> </tr>
 </table>
 </p>
