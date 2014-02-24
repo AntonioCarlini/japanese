@@ -5,7 +5,6 @@ $LOAD_PATH << File.dirname(__FILE__)
 
 require 'DataKanji.rb'
 require 'DataKanjidic.rb'
-require 'Japanese.rb'
 
 def html_strip(text)
   text.gsub!(%r{</?span [^>]*>}ixm, "")
