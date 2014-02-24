@@ -130,6 +130,7 @@ JHTML_SRCS += grammar-nakute-mo-ii.jhtml
 JHTML_SRCS += grammar-nani-nan.jhtml
 JHTML_SRCS += grammar-nani-wo-shimasu-ka.jhtml
 JHTML_SRCS += grammar-nanika-shinpai-na-koto.jhtml
+JHTML_SRCS += grammar-nantoka-onegai-dekinai-deshou-ka.jhtml
 JHTML_SRCS += grammar-nara.jhtml
 JHTML_SRCS += grammar-nasai.jhtml
 JHTML_SRCS += grammar-ni-kagiru.jhtml

@@ -75,6 +75,31 @@ The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an e
 </table>
 </p>
 
+<p>
+@HI{{marude}} can appear before @N{{}}@HI{{noyou}} and acts to emphasise the similarity.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{lake}}ha@KJ{{large}}kikute,marude@KJ{{sea}}noyoudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That lake is so big it's like the sea.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{lake}}hamarude@KJ{{sea}}noyouni@KJ{{large}}kiidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That lake is as large as the sea.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
