@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{yori}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{yori}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+In this usage <strong>@HI{{yori}}</strong> is a particle which indicates a set point in time or space.
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mekishiko}}ha@KJ{{red^road-way}}<strong>yori</strong>@KJ{{north}}niarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mexico is located north of the equator.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{three^time}}<strong>yori</strong>@KJ{{in*front}}ni@KJ{{come}}tekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please come back before three o'clock.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 567).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

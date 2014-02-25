@@ -41,10 +41,24 @@ In Japanese this sentence pattern is used to express the idea of comparison.
 The @HI{{yori}} part can come before the @HI{{houga}} part.
 </p>
 
+<p>
+The @HI{{houga}} part is not always necessary.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{grove}}sanha@KJ{{private}}<strong>yori</strong>@KJ{{quick}}ku@KJ{{run}}reru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Hayashi can run faster than I can.
+  </td> </tr>
+</table>
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 140).
+<li> @REF{{DOBJG}}. (p. 564).
 </ol>
 
 </br></br>
