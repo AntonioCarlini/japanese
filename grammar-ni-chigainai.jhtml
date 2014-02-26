@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nichigainai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nichigainai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}<strong>@HI{{nichigainai}}</strong>
+<li> @Ai{{}}<strong>@HI{{nichigainai}}</strong>
+<li> @Anastem{{}}<strong>@HI{{nichigainai}}</strong>
+<li> @N{{}}<strong>@HI{{nichigainai}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{nichigainai}}</strong> is used to state the speaker's strong conviction that there is no mistake on his part
+in guessing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}no@KJ{{test^verification}}ha@KJ{{difficult}}shii<strong>nichigaiarimasenn</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That teacher's exams must be hard.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+<strong>@HI{{nichigainai}}</strong> expresses a greater certainty than <a href="grammar-deshou.html">@HI{{darou}}</a>, which itself is more certain
+than <a href="grammar-kamo-shiremasen.html">@HI{{kamoshirenai}}</a>.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 304).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nakunaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{nakunaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vnaistem{{}}<strong>@HI{{nakunaru}}</strong>
+<li> @Aistem{{}}@HI{{ku}}<strong>@HI{{nakunaru}}</strong>
+<li> @Anastem{{}}@HI{{deha}}<strong>@HI{{nakunaru}}</strong>
+<li> @Anastem{{}}@HI{{ja}}<strong>@HI{{nakunaru}}</strong>
+<li> @N{{}}@HI{{deha}}<strong>@HI{{nakunaru}}</strong>
+<li> @N{{}}@HI{{ja}}<strong>@HI{{nakunaru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{nakunaru}}</strong> is used to convey the idea that the point has been reached where a state or action 
+does not take place any more.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{yasashii@KJ{{sino-^character}}mo@KJ{{write}}ke<strong>nakunarimashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot even write easy kanji any more.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 277).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
