@@ -2,36 +2,33 @@
 <html>
 
 <head>
-<title>@HI{{sore nara}}</title>
+<title>@HI{{sorenara}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
 <body>
 
-<h1>@HI{{sore nara}}</h1>
+<h1>@HI{{sorenara}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sore nara}}</strong> ...
+<li> <strong>@HI{{sorenara}}</strong> ...
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{sore nara}}</strong> is a conjunction used a the beginning of a sentence to refer to something mentioned in a previous sentence. The meaning is "in that case".
-<p></p>
+<p>
+<strong>@HI{{sorenara}}</strong> is a conjunction used a the beginning of a sentence to refer to something
+mentioned in a previous sentence. The meaning is "in that case".
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      A: @HI{{@KJ{{head}}ga @KJ{{pain}}ii desu.}}
+      A: @HI{{@KJ{{head}}ga@KJ{{pain}}iidesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{<strong>sore nara</strong> sugu @KJ{{lie*down}}nasai.}}
+      B: @HI{{<strong>sorenara</strong>sugu@KJ{{lie*down}}nasai.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I have a headache.
@@ -40,21 +37,25 @@
       B: In that case, go to and lie down straightaway.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
-The @HI{{sore}} in @HI{{<strong>sore nara</strong>}} refers to something in a previous sentence. The @HI{{nara}} refers to the speaker's supposition regrading the truth of the previous statement.
-<p></p>
+<p>
+The @HI{{sore}} in @HI{{<strong>sorenara</strong>}} refers to something in a previous sentence. The @HI{{nara}} refers to the speaker's supposition regarding the truth of the previous statement.
+</p>
 
-@HI{{<strong>sore nara</strong>}} has a more formal form @HI{{sore naraba}}.
-<p></p>
+<p>
+@HI{{<strong>sorenara</strong>}} has a more formal form @HI{{sorenaraba}}.
+</p>
 
-The sentence following @HI{{<strong>sore nara</strong>}} is bound by the same restrictions that apply to @HI{{nara}}.
-<p></p>
+<p>
+The sentence following @HI{{<strong>sorenara</strong>}} is bound by the same restrictions that apply to @HI{{nara}}.
+</p>
 
-Unlike <a href="grammar-sore-dewa.html"> @HI{{sore deha}}</a>, @HI{{<strong>sore nara</strong>}} is depends on a verbal context.
-<p></p>
+<p>
+Unlike <a href="grammar-sore-dewa.html">@HI{{soredeha}}</a>, @HI{{<strong>sorenara</strong>}} depends on a verbal context.
+/p>
 
 <h2> References </h2>
 

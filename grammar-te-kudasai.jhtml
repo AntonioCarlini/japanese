@@ -14,7 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}} @HI{{kudasai}}</strong>
+<li> <strong>@Vte{{}}@HI{{kudasai}}</strong>
+<li> <strong>@Vnai{{}}@HI{{dekudasai}}</strong>
 </ol>
 
 <h2> Definition </h2>
@@ -22,20 +23,12 @@
 <p>
 <strong>@Vte{{}} @HI{{kudasai}}</strong> is an expression used to ask, instruct or encourage
 the listener to do something. It cannot be used to a superior.
-</p>
-
-<p>
-When used to ask the listener to do something, it is often preceded by @HI{{sumimasenga}}.
-</p>
-
-<h2> Examples </h2>
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{sumimasenga, kono@KJ{{sino-^character}}no@KJ{{read}}mi@KJ{{direction}}wo
-      @KJ{{teach}}ete kudasai.}}
+      @HI{{sumimasenga,kono@KJ{{sino-^character}}no@KJ{{read}}mi@KJ{{direction}}wo@KJ{{teach}}etekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Excuse me, could you tell me how to read this kanji please?
@@ -51,11 +44,33 @@ When used to ask the listener to do something, it is often preceded by @HI{{sumi
   </td> </tr>
 </table>      
 </ol>
+</p>
+
+<p>
+When used to ask the listener to do something, it is often preceded by @HI{{sumimasenga}}.
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{England^word}}wo@KJ{{use}}wanaidekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please don't use English.
+  </td> </tr>
+</table>      
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
 
 <h2> Notes </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{DOBJG}}. (p. 209).
 </ol>
 
 </br></br>
