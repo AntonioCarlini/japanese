@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sukida}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{sukida}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{sukida}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{suki}}</strong> is a @HI{{na}}-adjective that requires the 
+<a href="grammar-basic-sentence-patterns.html">@HI{{ha}} ~ @HI{{ga}}</a> construction.
+The person who does the liking is marked by @HI{{ha}} and the person or thing that is liked is
+marked by @HI{{ga}}. In a subordinate clause the @HI{{ha}} becomes @HI{{ga}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KT{{sute-ki}}ga@KJ{{fond}}kidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I like steak.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+To "like a lot" is expressed with @KJ{{large^fond}}@HI{{ki}} using the same sentence pattern.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 426).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{accomplished}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@KJ{{accomplished}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>personal pronoun</em> + @KJ{{accomplished}}
+<li> <em>human proper noun</em> + @KJ{{accomplished}}
+<li> <em>human noun</em> + @KJ{{accomplished}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{accomplished}} is a suffix attached to personal pronouns or human nouns. It acts as a plural marker.
+</p>
+
+<p>
+It may be attached to:
+<ol>
+<li> a personal pronoun: @KJ{{private^accomplished}} (we)
+<li> a human proper noun: @KJ{{mountain^rice*field}}@HI{{san}}@KJ{{accomplished}} (Mr. Yamada and others)
+<li> a human noun: @KJ{{child^submit^accomplished}} (children)
+</ol>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@KJ{{he^woman^accomplished}} is permitted but @KJ{{he}} cannot take @KJ{{accomplished}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 440).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

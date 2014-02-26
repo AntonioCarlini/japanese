@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotoninaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{kotoninaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}(non-past)<strong>@HI{{kotoninaru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{kotoninaru}}</strong> indicates an event or decision that occurs irrespective of the speaker's
+volition.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{come^year^large^heights}}ni@KJ{{revolve^diligence}}suru<strong>kotoninarimashita</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It has been decided that next year I will transfer to Osaka.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 202).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
