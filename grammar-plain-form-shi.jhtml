@@ -22,27 +22,23 @@
 
 <h2> Definition </h2>
 
+<p>
 This sentence pattern is used to link sentences that are stated from the same viewpoint.
-<p></p>
 
-It is also used to state causes or reasons when there is more than one. Even if only one is stated
-explictly it is implied that other causes or reasons exist.
-<p></p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{watto}}@KJ{{before^life}}ha @KJ{{heat^heart}}da<strong>shi</strong>, majimeda<strong>shi</strong>,
-      @KJ{{sutra^verification}}mo arimasu.}}
+      @HI{{@KT{{watto}}@KJ{{before^life}}ha@KJ{{heat^heart}}da<strong>shi</strong>,majimeda<strong>shi</strong>,@KJ{{sutra^verification}}mo arimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Professor Watt is earnest and diligent and has experience.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+It is also used to state causes or reasons when there is more than one. Even if only one is stated
+explictly it is implied that other causes or reasons exist.
+</p>
 
 <h2> Notes </h2>
 

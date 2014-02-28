@@ -21,8 +21,10 @@
 
 <p>
 This sentence pattern is used when offering advice or a recommendation of the form "wouldn't it be
-better to?".
+better to?". The literal meaning is "how would you feel if you do something?".
 
+<ol>
+<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{exhausted}}reteirumitaidesune. @KJ{{few}}shi@KJ{{rest}}ndaradoudesuka.}}
@@ -31,14 +33,38 @@ better to?".
       You look tired. Wouldn't it be better to take a little rest?
   </td> </tr>
 </table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{sarada}}mo@KJ{{eat}}betaradoudesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Why don't you eat salad too?
+  </td> </tr>
+</table>
+</ol>
 </p>
 
 <h2> Notes </h2>
+
+<p>
+A more informal form with the same meaning is @Vta{{}}@HI{{radou?}}.
+</p>
+
+<p>
+More polite versions include @Vta{{}}@HI{{radoudeshouka}}, @Vta{{}}@HI{{raikagadesuka}} and @Vta{{}}@HI{{raikagadeshouka}}.
+</p>
+
+<p>
+<a hreaf="grammar-hou-ga-ii.html"</a>@HI{{hougaii}}</a> is a similar expression but is close to being a command.
+It is therefore stronger than @Vta{{}}@HI{{radoudesuka}}.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 47).
+<li> @REF{{DOBJG}}. (p. 457).
 </ol>
 
 </br></br>
