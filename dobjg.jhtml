@@ -349,9 +349,9 @@ table.progress td.left {
   <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kurai.html">@HI{{kurai}}</a>                                                   </td>
+  <td class="left"> <a href="grammar-particle-kurai.html">@HI{{kurai}}</a>                                          </td>
   <td class=""> DOBJG, p. 212                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-giving-receiving.html">@HI{{kureru}}</a>                                       </td>
@@ -404,9 +404,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mashou.html">@HI{{mashou}}</a>                                                 </td>
+  <td class="left"> <a href="grammar-masu.html#mashou">@HI{{mashou}}</a>                                            </td>
   <td class=""> DOBJG, p. 240                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-mieru.html">@KJ{{see}}@HI{{eru}}</a>                                           </td>
