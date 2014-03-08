@@ -419,7 +419,7 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-mo.html#both">@HI{{mo}}</a>                                           </td>
+  <td class="left"> <a href="grammar-particle-mo.html#too">@HI{{mo}}</a>                                            </td>
   <td class=""> DOBJG, p. 247                                                                                       </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
@@ -434,9 +434,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mo.html"> ~ @HI{{mo}} ~ @HI{{mo}}</a>                                          </td>
+  <td class="left"> <a href="grammar-particle-mo.html#both"> ~ @HI{{mo}} ~ @HI{{mo}}</a>                            </td>
   <td class=""> DOBJG, p. 255                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-mono-da.html">@HI{{mono(da)}}</a>                                              </td>
