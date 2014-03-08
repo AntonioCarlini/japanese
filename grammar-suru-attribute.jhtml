@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{suru}} can be used to indicate that someone or something has a permanent attribute.
+In the main clause @HI{{suru}} appears in the continuous form, @HI{{shiteiru}}, but in a relative
+clause the @Vta{{}} form may be used instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ocean^child}}ha@KJ{{long}}i@KJ{{leg}}woshiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yoko has long legs.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 434).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

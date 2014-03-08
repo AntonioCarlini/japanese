@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{suru}} can indicate something perceived by someone's non-visual senses.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child^submit^accomplished}}no@KJ{{voice}}gashimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I heard children's voices.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 435).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

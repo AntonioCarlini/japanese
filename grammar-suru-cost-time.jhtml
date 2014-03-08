@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{suru}} can be used to indicate the cost of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{time^plot}}ha@KJ{{ten^ten*thousand^circle}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This watch costs 100,000 yen.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{suru}} can also be used to indicate a duration of time.
+This usage can only appear in a subordinate clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ato@KJ{{one^year}}shitara@KJ{{large^study}}wo@KJ{{exit}}masu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In another year I'll graduate from college.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 436).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
