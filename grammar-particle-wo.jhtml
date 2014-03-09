@@ -111,6 +111,35 @@ movement rather than the destination.
 </table>
 </p>
 
+<p>
+<a name="start"><strong>@HI{{wo}}</strong></a> indicates the location from which a
+movement begins.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{vapor^car}}ga@KT{{ton'neru}}<strong>wo</strong>@KJ{{exit}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A train came out of the tunnel.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="emotion"><strong>@HI{{wo}}</strong></a> indicates a human emotion. In Japanese, inwardly directed
+psychological verbs are not considered transitive, so this use of <strong>@HI{{wo}}</strong> is considered
+distinct from the <strong>@HI{{wo}}</strong> that is a direct object marker.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{grove}}ha@KJ{{England^word}}ga@KJ{{exit^come}}naikoto<strong>wo</strong>@KJ{{trouble}}ndeiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hayashi is worried that he cannot speak English.
+  </td> </tr>
+</table>
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -119,6 +148,7 @@ movement rather than the destination.
 <li> @REF{{AAP}}. (p 72).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p 347).
+<li> @REF{{DOBJG}}. (p 351).
 </ol>
 
 <br/><br/>

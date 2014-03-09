@@ -26,13 +26,12 @@ def convert_to_katakana(text)
     :ya => 0x30e4,                :yu => 0x30e6,                :yo => 0x30e8,
     :ra => 0x30e9, :ri => 0x30ea, :ru => 0x30eb, :re => 0x30ec, :ro => 0x30ed,
     :wa => 0x30ef, :wi => 0x30f0,                :we => 0x30f1, :wo => 0x30f2,
-    :nn => 0x30f3,
+    :nn => 0x30f3, :"n'" => 0x30f3,
+    :xa => 0x30a1, :xi => 0x30a3, :xu => 0x30a5, :xe => 0x30a7, :xo => 0x30a9,
     # Alternatives below here
     :ji => 0x30b8,
     :hu => 0x30d5,
     :shi => 0x30b7, :chi => 0x30c1,
-    # small characters
-    :xa => 0x30a1, :xi => 0x30a3, :xu => 0x30a5, :xe => 0x30a7, :xo => 0x30a9
   }
   three = { :shi => 0x30b7, :chi => 0x30c1, :tsu => 0x30c4, :xya => 0x30e3, :xyu => 0x30e5, :xyo => 0x30e7, :xwa => 0x30ee }
   digraph2 = { :ya => 0x30e3, :yu => 0x30e5, :yo => 0x30e7 }

@@ -619,14 +619,14 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-wo.html"> @HI{{wo}}<sup>3</sup> </a>                                  </td>
+  <td class="left"> <a href="grammar-particle-wo.html#start"> @HI{{wo}}<sup>3</sup> </a>                            </td>
   <td class=""> DOBJG, p. 351                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-wo.html"> @HI{{wo}}<sup>4</sup> </a>                                  </td>
+  <td class="left"> <a href="grammar-particle-wo.html#emotion"> @HI{{wo}}<sup>4</sup> </a>                          </td>
   <td class=""> DOBJG, p. 352                                                                                       </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ooi.html"> @KJ{{many}}@HI{{i}} </a>                                            </td>
