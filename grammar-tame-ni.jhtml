@@ -2,64 +2,81 @@
 <html>
 
 <head>
-<title>@HI{{tame ni}}</title>
+<title>@HI{{tameni}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
 <body>
 
-<h1>@HI{{tame ni}}</h1>
+<h1>@HI{{tameni}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(<em>volitional</em>) <strong>@HI{{tame ni}}</strong>, <em>volitional expression</em>
-<li> @N{{}} @HI{{no}} <strong>@HI{{tame ni}}</strong>
+<li> @Vru{{}}(<em>volitional</em>) <strong>@HI{{tameni}}</strong>, <em>volitional expression</em>
+<li> @N{{}} @HI{{no}} <strong>@HI{{tameni}}</strong>
+<li> @Ai{{}} <strong>@HI{{tameni}}</strong>
+<li> @Ana{{}} <strong>@HI{{tameni}}</strong>
 </ol>
 
 <h2> Definition </h2>
 
-These sentence patterns indicate a purpose. The pattern @N{{}} @HI{{no <strong>tame ni</strong>}} can also indicate
-"for the benefit of @N{{}}".
-</br>
+<p>
+This sentence patterns indicates a purpose because the main clause is a volitional expression.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} <strong>@HI{{tame ni}}</strong>,
+      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} <strong>@HI{{tameni}}</strong>,
       @KJ{{savings}}@KJ{{gold}}@HI{{shite imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I am saving money in order to have my own shop.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+If the main clause is non-volitional, then <strong>@HI{{tameni}}</strong> is interpreted to mean a reason or cause.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{house}}@KJ{{tribe}}@HI{{no}}<strong>@HI{{tame ni}}</strong>, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
+      @HI{{@KJ{{attend^matter}}no<strong>tameni</strong>@KJ{{what}}mohokano@KJ{{matter}}ga@KJ{{exit^come}}nai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because of the job I cannot do anything else.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The pattern @N{{}} @HI{{no <strong>tameni</strong>}} can also indicate
+"for the benefit of @N{{}}".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{house}}@KJ{{tribe}}@HI{{no}}<strong>@HI{{tameni}}</strong>, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I will build a house for my family.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
+<p>
 The similar expression <a href="grammar-you-ni.html">@HI{{you ni}}</a>
  is used in clauses with verbs that do not contain volition,
-whereas <strong>@HI{{tame ni}}</strong> is used with verbs that do. Note that if the verb involved
+whereas <strong>@HI{{tameni}}</strong> is used with verbs that do. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
-</br>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
+<li> @REF{{DOBJG}}. (p. 447).
 </ol>
 
 </br>
