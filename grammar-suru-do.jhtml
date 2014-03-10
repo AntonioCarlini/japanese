@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{suru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>@HI{{suru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <strong>@HI{{suru}}</strong>
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+<strong>@HI{{suru}}</strong> is an important irregular Japanese verb that means "to cause a state or action"
+and corresponds to "do" or "make".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{biru}}ha@KT{{hamuretto}}wo<strong>suru</strong>tsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bill is planning to play Hamlet.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<strong>@HI{{suru}}</strong> can mean "to wear" when used with small objects such as a watch or a tie.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ii@KT{{nekutai}}wo<strong>shiteiru</strong>ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You're wearing a nice tie, aren't you?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Compounds with <strong>@HI{{suru}}</strong> form transitive words. In contemporary Japanese, <strong>@HI{{suru}}</strong>
+can be used with loanwords too.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}hayoku@KJ{{car}}no@KJ{{carry^revolve}}wo<strong>shimasu</strong>.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I often drive a car.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The idiomatic construction <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a> means "to decide on @N{{}}".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 428).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>

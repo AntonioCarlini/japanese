@@ -234,6 +234,7 @@ JHTML_SRCS += grammar-suki-da.jhtml
 JHTML_SRCS += grammar-sukunai.jhtml
 JHTML_SRCS += grammar-suru-attribute.jhtml
 JHTML_SRCS += grammar-suru-cost-time.jhtml
+JHTML_SRCS += grammar-suru-do.jhtml
 JHTML_SRCS += grammar-suru-non-visual.jhtml
 JHTML_SRCS += grammar-suruto.jhtml
 JHTML_SRCS += grammar-ta-koto-ga-aru.jhtml
