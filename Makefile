@@ -442,7 +442,7 @@ $(OUTPUT)/heisig.gen.jhtml : build-heisig-page.rb
 
 $(OUTPUT)/heisig.gen.html : $(OUTPUT)/heisig.gen.jhtml
 	@mkdir -p $(OUTPUT)
-	./japanese-to-codes.rb $< $@
+	./japanese-to-codes.rb $< > $@
 
 $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html : N4-vocabulary-with-annotated-kanji.html
 	@mkdir -p $(OUTPUT)
@@ -450,7 +450,7 @@ $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html : N4-vocabulary-with-annotated
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
-	./japanese-to-codes.rb $< $@
+	./japanese-to-codes.rb $< > $@
 
 $(OUTPUT)/%.css: %.scss $(CSS_PARTIALS)
 	@mkdir -p $(OUTPUT)
