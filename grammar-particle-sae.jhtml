@@ -14,7 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sae}}</strong>.
+<li> @N{{}}<strong>@HI{{sae}}</strong>
+<li> @N{{}}<em>particle</em><strong>@HI{{sae}}</strong>
+<li> @Vte{{}}<strong>@HI{{sae}}</strong>
+<li> @Vmasu{{}}<strong>@HI{{sae}}</strong>@HI{{suru}}
+<li> @Aistem{{}}<strong>@HI{{sae}}</strong>@HI{{aru}}
+<li> @Anastem{{}}@HI{{de}}<strong>@HI{{sae}}</strong>@HI{{aru}}
+<li> @N{{}}@HI{{de}}<strong>@HI{{sae}}</strong>@HI{{aru}}
 </ol>
 
 <h2> Definition </h2>
@@ -63,7 +69,7 @@ means "if only" something had been done a positive result would have followed.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 126).
+<li> @REF{{AAP}}. (p. 126).
 <li> @REF{{DOIJG}}. (p. 363).
 <li> @REF{{NKZM-N3G}}. (p. 32).
 </ol>

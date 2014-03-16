@@ -28,10 +28,16 @@ as "I cannot say that ~ never happens".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{environs}}ha@KJ{{summer^cool}}shikunaindesuka.}}
+      A: @HI{{kono@KJ{{environs}}ha@KJ{{summer^cool}}shikunaindesuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{iya,@KJ{{cool}}shikunaikotomonaindesuga,@KJ{{time^noma}}hidoku@KJ{{sultry}}kunarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
-      Isn't it cool around here during the summer?
+      A: Isn't it cool around here during the summer?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Yes it <em>is</em> cool, but sometimes it gets terribly hot.
   </td> </tr>
 </table>
 </p>
