@@ -2,6 +2,7 @@
 
 $LOAD_PATH << File.dirname(__FILE__)
 
+require 'DataRefs.rb'
 require 'DebugSupport.rb'
 
 $ref_data = nil
