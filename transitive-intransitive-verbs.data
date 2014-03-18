@@ -1,0 +1,9 @@
+key=kiru vocab="@KJ{{cut}}@HI{{ru}}" type=T pair=kireru example=""
+key=kireru vocab="@KJ{{cut}}@HI{{reru}}" type=I pair=kiru example=""
+key=akeru vocab="@KJ{{open}}@HI{{keru}}" type=T pair=aku example=""
+key=aku vocab="@KJ{{open}}@HI{{ku}}" type=I pair=akeru example=""
+key=shimeru vocab="@KJ{{closed}}@HI{{meru}}" type=T pair=shimaru
+key=shimaru vocab="@KJ{{closed}}@HI{{maru}}" type=I pair=shimeru
+key=tsukeru vocab="@HI{{tsukeru}}" type=T pair=tsuku
+key=tsuku vocab="@KJ{{spot}}@HI{{ku}}" type=I pair=tsukeru
+
