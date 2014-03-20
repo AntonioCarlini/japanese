@@ -215,6 +215,8 @@ $command_to_op = {
 
 def process_at_commands(text)
 
+  input = text.dup()
+
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
   begin
@@ -267,9 +269,9 @@ def process_at_commands(text)
           end
         end
         # Call the op processor - if there isn't one then this is a bug
-        raise("No object on the stack") if object.nil?()
+        raise("No object on the stack for [#{input}]") if object.nil?()
         op = object.operation()
-        raise("Object has no operation") if op.nil?()
+        raise("Object has no operation for [#{input}]") if op.nil?()
         debug_out("Invoking [#{op}]")
         result = send(op, mini_stack, object.code())
         if stack.empty?()
@@ -294,7 +296,7 @@ def process_at_commands(text)
             end
           end
         else
-          raise("Badly formed command: [#{current}]")
+          raise("Badly formed command: [#{current}] for [#{input}]")
         end
       end
     else
@@ -309,7 +311,7 @@ def process_at_commands(text)
   unless stack.empty?()
     debug_out("Finished with non-empty stack")
     dump_stack(stack)
-    raise("Non-empty stack")
+    raise("Non-empty stack for [#{input}]")
   end
 
   return answer
