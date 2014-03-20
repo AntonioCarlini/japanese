@@ -1,9 +1,89 @@
 key=kiru vocab="@KJ{{cut}}@HI{{ru}}" type=T pair=kireru example=""
 key=kireru vocab="@KJ{{cut}}@HI{{reru}}" type=I pair=kiru example=""
+
 key=akeru vocab="@KJ{{open}}@HI{{keru}}" type=T pair=aku example=""
 key=aku vocab="@KJ{{open}}@HI{{ku}}" type=I pair=akeru example=""
+
 key=shimeru vocab="@KJ{{closed}}@HI{{meru}}" type=T pair=shimaru
 key=shimaru vocab="@KJ{{closed}}@HI{{maru}}" type=I pair=shimeru
+
 key=tsukeru vocab="@HI{{tsukeru}}" type=T pair=tsuku
 key=tsuku vocab="@KJ{{spot}}@HI{{ku}}" type=I pair=tsukeru
 
+key=kesu vocab="@KJ{{extinguish}}@HI{{su}}" type=T pair=kieru
+key=kieru vocab="@KJ{{extinguish}}@HI{{eru}}" type=I pair=kesu
+
+key=tomaru vocab="@KJ{{stop}}@HI{{maru}}" type=I pair=tomeru
+key=tomeru vocab="@KJ{{stop}}@HI{{meru}}" type=T pair=tomaru
+
+key=hajimeru vocab="@KJ{{commence}}@HI{{meru}}" type=T pair=hajimaru
+key=hajimaru vocab="@KJ{{commence}}@HI{{maru}}" type=I pair=hajimeru
+
+key=uru vocab="@KJ{{sell}}@HI{{ru}}" type=T pair=ureru
+key=ureru vocab="@KJ{{sell}}@HI{{reru}}" type=I pair=uru
+
+key=ireru vocab="@KJ{{enter}}@HI{{reru}}" type=T pair=hairu
+key=hairu vocab="@KJ{{enter}}@HI{{ru}}" type=I pair=ireru
+
+key=dasu vocab="@KJ{{exit}}@HI{{su}}" type=T pair=deru
+key=deru vocab="@KJ{{exit}}@HI{{ru}}" type=I pair=dasu
+
+key=nakusu vocab="@HI{{nakusu}}" type=T pair=nakunaru
+key=nakunaru vocab="@HI{{nakunaru}}" type=I pair=nakusu
+
+key=atsumeru vocab="@KJ{{gather}}@HI{{meru}}" type=T pair=atsumaru
+key=atsumaru vocab="@KJ{{gather}}@HI{{maru}}" type=I pair=atsumeru
+
+key=naosu vocab="@KJ{{straightaway}}@HI{{su}}" type=T pair=naoru
+key=naoru vocab="@KJ{{straightaway}}@HI{{ru}}" type=I pair=naosu
+
+key=kaeru vocab="@KJ{{unusual}}@HI{{eru}}" type=T pair=kawaru
+key=kawaru vocab="@KJ{{unusual}}@HI{{waru}}" type=I pair=kaeru
+
+key=kiwotsukeru vocab="@HI{{@KJ{{spirit}}wo@KJ{{adhere}}keru}}" type=T  pair=kigatsuku
+key=kigatsuku vocab="@HI{{@KJ{{spirit}}ga@KJ{{adhere}}ku}}" type=I  pair=kiwotsukeru
+
+key=otosu vocab="@KJ{{fall}}@HI{{tosu}}" type=T pair=ochiru
+key=ochiru vocab="@KJ{{fall}}@HI{{ru}}" type=I pair=otosu
+
+key=todokeru vocab="@KJ{{deliver}}@HI{{keru}}" type=T pair=todoku
+key=todoku vocab="@KJ{{deliver}}@HI{{ku}}" type=I pair=todokeru
+
+key=naraberu vocab="@KJ{{row}}@HI{{beru}}" type=T pair=narabu
+key=narabu vocab="@KJ{{row}}@HI{{bu}}" type=I pair=naraberu
+
+key=katadukeru vocab="@KJ{{one-sided^adhere}}@HI{{keru}}" type=T pair=kataduku
+key=kataduku vocab="@KJ{{one-sided^adhere}}@HI{{ku}}" type=I pair=katadukeru
+
+key=modosu vocab="@KJ{{re-}}@HI{{su}}" type=T pair=modoru
+key=modoru vocab="@KJ{{re-}}@HI{{ru}}" type=I pair=modosu
+
+key=mitsukeru vocab="@KJ{{see^adhere}}@HI{{keru}}" type=T pair=mitsukaru
+key=mitsukaru vocab="@KJ{{see^adhere}}@HI{{karu}}" type=T pair=mitsukeru
+
+key=tsudukeru vocab="@KJ{{continue}}@HI{{keru}}" type=T pair=tsuduku
+key=tsuduku vocab="@KJ{{continue}}@HI{{ku}}" type=I pair=tsudukeru
+
+key=ageru vocab="@KJ{{above}}@HI{{geru}}" type=T pair=agaru
+key=agaru vocab="@KJ{{above}}@HI{{garu}}" type=I pair=ageru
+
+key=sageru vocab="@KJ{{below}}@HI{{geru}}" type=T pair=sagaru
+key=sagaru vocab="@KJ{{below}}@HI{{garu}}" type=I pair=sageru
+
+key=oru vocab="@KJ{{fold}}@HI{{ru}}" type=T pair=oreru
+key=oreru vocab="@KJ{{fold}}@HI{{reru}}" type=I pair=oru
+
+key=kowasu vocab="@KJ{{demolition}}@HI{{su}}" type=T pair=kowareru
+key=kowareru vocab="@KJ{{demolition}}@HI{{reru}}" type=I pair=kowasu
+
+key=yogosu vocab="@KJ{{dirty}}@HI{{su}}" type=T pair=yogoreru
+key=yogoreru vocab="@KJ{{dirty}}@HI{{reru}}" type=I pair=yogosu
+
+key=okosu vocab="@KJ{{rouse}}@HI{{kosu}}" type=T pair=okiru
+key=okiru vocab="@KJ{{rouse}}@HI{{kiru}}" type=I pair=okosu
+
+key=kakeru vocab="@KJ{{hang}}@HI{{keru}}" type=T pair=kakaru
+key=kakaru vocab="@KJ{{hang}}@HI{{karu}}" type=I pair=kakeru
+
+key=yaku vocab="@KJ{{bake}}@HI{{ku}}" type=T pair=yakeru
+key=yakeru vocab="@KJ{{bake}}@HI{{keru}}" type=I pair=yaku
