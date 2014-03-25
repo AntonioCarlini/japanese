@@ -175,6 +175,7 @@ $command_to_op = {
   "HI" => :process_hiragana,
   "KJ" => :process_kanji,
   "KT" => :process_katakana,
+  "EM" => :process_emphasis,
   "masustem" => :process_empty_code,
   "V1" => :process_empty_code,
   "V2" => :process_empty_code,
@@ -214,8 +215,6 @@ $command_to_op = {
 }
 
 def process_at_commands(text)
-
-  input = text.dup()
 
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
@@ -257,7 +256,8 @@ def process_at_commands(text)
 
       if current =~ /#{CLOSING_REGEXP}/
         debug_out("Processing last command [#{current}]")
-        # Build the mini stack
+        # Build the mini stack by working backwards through the stack until
+        # an operation is found.
         mini_stack = []
         object = nil
         while !stack.empty?()
@@ -269,16 +269,17 @@ def process_at_commands(text)
           end
         end
         # Call the op processor - if there isn't one then this is a bug
-        raise("No object on the stack for [#{input}]") if object.nil?()
+        raise("No object on the stack") if object.nil?()
         op = object.operation()
-        raise("Object has no operation for [#{input}]") if op.nil?()
+        raise("Object has no operation") if op.nil?()
         debug_out("Invoking [#{op}]")
         result = send(op, mini_stack, object.code())
         if stack.empty?()
           answer += puts_result(result)
         else
           debug_out("Stacking processed text")    
-          stack << collapse_result(result)
+          stack << result
+          stack.flatten!()
         end
 
       else
@@ -296,7 +297,7 @@ def process_at_commands(text)
             end
           end
         else
-          raise("Badly formed command: [#{current}] for [#{input}]")
+          raise("Badly formed command: [#{current}]")
         end
       end
     else
@@ -311,7 +312,7 @@ def process_at_commands(text)
   unless stack.empty?()
     debug_out("Finished with non-empty stack")
     dump_stack(stack)
-    raise("Non-empty stack for [#{input}]")
+    raise("Non-empty stack")
   end
 
   return answer
@@ -365,6 +366,16 @@ def collapse_result(stack)
   return DoneText.new(result)
 end
 
+def collapse_stack(stack)
+  result = ""
+  stack.each() {
+    |x|
+    raise("Found OP in result") if x.op?()
+    result += x.text()
+  }
+  return [ DoneText.new(result) ]
+end
+
 def process_hiragana(stack, unused)
   result = []
   stack.each() {
@@ -375,7 +386,7 @@ def process_hiragana(stack, unused)
       result << DoneText.new(convert_to_hiragana(x.text()))
     end
   }
-  return result
+  return collapse_stack(result)
 end
 
 def process_kanji(stack, unused)
@@ -388,7 +399,7 @@ def process_kanji(stack, unused)
       result << DoneText.new(convert_to_kanji(x.text()))
     end
   }
-  return result
+  return collapse_stack(result)
 end
 
 def process_katakana(stack, unused)
@@ -401,7 +412,7 @@ def process_katakana(stack, unused)
       result << DoneText.new(convert_to_katakana(x.text()))
     end
   }
-  return result
+  return collapse_stack(result)
 end
 
 def process_marker(stack, unused)
@@ -490,3 +501,14 @@ def process_NSV(stack, code)
   return [ DoneText.new(string) ] # TODO - mark_as_grammar here
 end
 
+def process_emphasis(stack, code)
+  result = []
+  result << DoneText.new("<strong>")
+  stack.each() {
+    |x|
+    result << x
+  }
+  result << DoneText.new("</strong>")
+  return result
+  
+end
