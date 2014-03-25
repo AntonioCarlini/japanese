@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}<strong>@HI{{toiuyori}}</strong>
-<li> @Ai{{}}<strong>@HI{{toiuyori}}</strong>
-<li> @Anastem{{}}<strong>@HI{{toiuyori}}</strong>
-<li> @N{{}}<strong>@HI{{toiuyori}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{toiuyori}}}}
+<li> @Ai{{}}@EM{{@HI{{toiuyori}}}}
+<li> @Anastem{{}}@EM{{@HI{{toiuyori}}}}
+<li> @N{{}}@EM{{@HI{{toiuyori}}}}
 </ol>
 
 <h2> Definition </h2>

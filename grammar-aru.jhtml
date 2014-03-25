@@ -14,25 +14,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{location}} @HI{{ni}} @HI{{ha}} @N2{{}} @HI{{ga}} <strong>@HI{{aru}}</strong>
-<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} <strong>@HI{{aru}}</strong>
-<li><strong>@HI{{aru}}</strong> <em>predicate</em>
+<li> @N1{{location}} @HI{{ni}} @HI{{ha}} @N2{{}} @HI{{ga}} @EM{{@HI{{aru}}}}
+<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} @EM{{@HI{{aru}}}}
+<li>@EM{{@HI{{aru}}}} <em>predicate</em>
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In the first sentence pattern, a location is presented as the topic and <strong>@HI{{aru}}</strong>
+In the first sentence pattern, a location is presented as the topic and @EM{{@HI{{aru}}}}
 focuses on what exists. @HI{{ni}} may be dropped.
 </p>
 
 <p>
-In the second sentence pattern, a thing is presented as the topic and <strong>@HI{{aru}}</strong>
+In the second sentence pattern, a thing is presented as the topic and @EM{{@HI{{aru}}}}
 focuses on where that thing is.
 </p>
 
 <p>
-Note that <strong>@HI{{aru}}</strong> uses @HI{{ga}} to mark its object and not @HI{{wo}}.
+Note that @EM{{@HI{{aru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
 </p>
 
 <h2> Examples </h2>
@@ -40,21 +40,21 @@ Note that <strong>@HI{{aru}}</strong> uses @HI{{ga}} to mark its object and not 
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{aru}}</strong> is only used to express the existence or possession of inanimate things.
+@EM{{@HI{{aru}}}} is only used to express the existence or possession of inanimate things.
 For animate things, <a href="grammar-iru.html">@HI{{iru}}</a> is used.
 </p>
 
 <p>
-The negative form of <strong>@HI{{aru}}</strong> is @HI{{nai}}.
+The negative form of @EM{{@HI{{aru}}}} is @HI{{nai}}.
 </p>
 
 <p>
-When <strong>@HI{{aru}}</strong> is used to indicate having an animate object,
+When @EM{{@HI{{aru}}}} is used to indicate having an animate object,
 that object must have a close connection with the possessor.
 </p>
 
 <p>
-When <strong>@HI{{aru}}</strong> is used to for an event such as a party, @HI{{de}}
+When @EM{{@HI{{aru}}}} is used to for an event such as a party, @HI{{de}}
 rather than @HI{{ni}} must be used.
 </p>
 

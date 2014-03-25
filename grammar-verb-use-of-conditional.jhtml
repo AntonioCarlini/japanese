@@ -17,16 +17,16 @@
 <dl>
 <dt>(A) 
 <ol>
-<li> <em>relative clause</em> <strong>@Vba{{}}</strong>, <em> main clause</em>
+<li> <em>relative clause</em> @EM{{@Vba{{}}}}, <em> main clause</em>
 </ol>
 <dt>(B)
 <ol>
-<li> @N{{}} <strong>@HI{{nara}}</strong>, ...
+<li> @N{{}} @EM{{@HI{{nara}}}}, ...
 </ol>
 </dl>
 <dt>(C)
 <ol>
-<li> <em>interrogative</em> <strong>@Vba{{}}</strong> @HI{{ii desuka.}}
+<li> <em>interrogative</em> @EM{{@Vba{{}}}} @HI{{ii desuka.}}
 </ol>
 </dl>
 </p>
@@ -56,7 +56,7 @@ Sentence pattern (C) can be used to ask about the best course of action.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{botann}}wo <strong>@KJ{{push}}seba</strong>, @KJ{{window}}ga @KJ{{open}}kimasu.}}
+      @HI{{@KT{{botann}}wo @EM{{@KJ{{push}}seba}}, @KJ{{window}}ga @KJ{{open}}kimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       If you push the button, the window will open.
@@ -65,7 +65,7 @@ Sentence pattern (C) can be used to ask about the best course of action.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{hokani @KJ{{idea^see}}ga <strong>nakereba</strong> korede @KJ{{end}}warimashou.}}
+      @HI{{hokani @KJ{{idea^see}}ga @EM{{nakereba}} korede @KJ{{end}}warimashou.}}
   </td> </tr>
   <tr class="en"> <td>
       If you don't have any other opinions, let's finish this meeting now.

@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{mitai}}</strong>
-<li> @Ai{{}} <strong>@HI{{mitai}}</strong>
-<li> @Ana{{}} <strong>@HI{{mitai}}</strong>
-<li> @N{{}} <strong>@HI{{mitai}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{mitai}}}}
+<li> @Ai{{}} @EM{{@HI{{mitai}}}}
+<li> @Ana{{}} @EM{{@HI{{mitai}}}}
+<li> @N{{}} @EM{{@HI{{mitai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{mitai}}</strong> expresses the likelihood of something or the likeness of something to something else.
+@EM{{@HI{{mitai}}}} expresses the likelihood of something or the likeness of something to something else.
 In this respect its usage is the same as <a href="grammar-you-desu.html">@HI{{you desu}}</a>. However,
-<strong>@HI{{mitai}}</strong> is a colloquial usage.
+@EM{{@HI{{mitai}}}} is a colloquial usage.
 </p>
 
 <h2> Examples </h2>

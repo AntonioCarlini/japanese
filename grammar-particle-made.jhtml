@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{made}}</strong>
+<li> @N{{}}@EM{{@HI{{made}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{made}}</strong> is indicates a time limit for an action: "until".
+@EM{{@HI{{made}}}} is indicates a time limit for an action: "until".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KT{{depa-to}}ha,@KJ{{soil^weekday^day}}to@KJ{{day^weekday^day}}ha8@KJ{{time}}<strong>made</strong>desu.}}
+      @HI{{kono@KT{{depa-to}}ha,@KJ{{soil^weekday^day}}to@KJ{{day^weekday^day}}ha8@KJ{{time}}@EM{{made}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       This department store is open until 8 on Saturdays and Sundays.
@@ -33,11 +33,11 @@
 </p>
 
 <p>
-<strong>@HI{{made}}</strong> can indicate the place to which an action extends.
+@EM{{@HI{{made}}}} can indicate the place to which an action extends.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kokokara@KJ{{capital^metropolis}}<strong>made</strong>@KJ{{what^time^interval}}kakarimasuka.}}
+      @HI{{kokokara@KJ{{capital^metropolis}}@EM{{made}}@KJ{{what^time^interval}}kakarimasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       How long does it take to get from here to Kyoto?
@@ -46,11 +46,11 @@
 </p>
 
 <p>
-<strong>@HI{{made}}</strong> can indicate the degree of a condition by citing an example.
+@EM{{@HI{{made}}}} can indicate the degree of a condition by citing an example.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{child^submit}}dakedenaku@KJ{{large^person}}<strong>made</strong>,sono@KT{{ge-mu}}wo@KJ{{music}}shinda.}}
+      @HI{{@KJ{{child^submit}}dakedenaku@KJ{{large^person}}@EM{{made}},sono@KT{{ge-mu}}wo@KJ{{music}}shinda.}}
   </td> </tr>
   <tr class="en"> <td>
       Not only children but even adults enjoyed that game.
@@ -59,12 +59,12 @@
 </p>
 
 <p>
-<strong>@HI{{made}}</strong> can indicate an extreme condition.
+@EM{{@HI{{made}}}} can indicate an extreme condition.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{adjusted^wisteria}}sanha,ano@KJ{{male}}no@KJ{{person}}to@KJ{{tie^marriage}}dekinakereba@KJ{{death}}nouto
-      <strong>made</strong>@KJ{{think}}itsumetasoudesu.}}
+      @EM{{made}}@KJ{{think}}itsumetasoudesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Saito was apparently even contemplating suicide if she were unable to marry the man.
@@ -75,12 +75,12 @@
 <h2> Notes </h2>
 
 <p>
-When X refers to a duration of time, then "X <strong>@HI{{made}}</strong>" means "up to and including X" rather than "until X"
+When X refers to a duration of time, then "X @EM{{@HI{{made}}}}" means "up to and including X" rather than "until X"
 (the latter usually excludes X).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{come^week}}no@KJ{{month^weekday^day}}<strong>made</strong>@KJ{{rest}}mimasu.}}
+      @HI{{@KJ{{private}}ha@KJ{{come^week}}no@KJ{{month^weekday^day}}@EM{{made}}@KJ{{rest}}mimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll be away up to and including next Monday.

@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{no <strong>ni</strong>}}
-<li> @N{{}} <strong>@HI{{ni}}</strong>
+<li> @Vru{{}} @HI{{no @EM{{ni}}}}
+<li> @N{{}} @EM{{@HI{{ni}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ When the sentence patterns above are followed by expressions such as @HI{{tsukau
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono hasamiha}} @KJ{{flower}}@HI{{wo}} @KJ{{cut}}@HI{{runo<strong>ni</strong>}} @KJ{{use}}@HI{{imasu.}}
+      @HI{{kono hasamiha}} @KJ{{flower}}@HI{{wo}} @KJ{{cut}}@HI{{runo@EM{{ni}}}} @KJ{{use}}@HI{{imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       This pair of scissors is used to cut flowers.

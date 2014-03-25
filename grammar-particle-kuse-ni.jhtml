@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{kuseni}}</strong> ... 
+<li> @EM{{@HI{{kuseni}}}} ... 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kuseni}}</strong> is used to indicate "despite the fact that" or "though". In this usage it is similar
+@EM{{@HI{{kuseni}}}} is used to indicate "despite the fact that" or "though". In this usage it is similar
 to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened feeling of censure or contempt.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{child^submit}}no<strong>kuseni</strong>,@KJ{{large^person}}no@KJ{{tale}}ni@KJ{{mouth}}wo
+      @HI{{@KJ{{child^submit}}no@EM{{kuseni}},@KJ{{large^person}}no@KJ{{tale}}ni@KJ{{mouth}}wo
       @KJ{{exit}}shitehaikemasenn.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -36,12 +36,12 @@ to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened f
 </p>
 
 <p>
-<strong>@HI{{kuseni}}</strong> can be used at the end of a sentence to indicate censure or contempt.
+@EM{{@HI{{kuseni}}}} can be used at the end of a sentence to indicate censure or contempt.
 
 <ul>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{anatadattedekina<strong>kuseni</strong>.}}
+      @HI{{anatadattedekina@EM{{kuseni}}.}}
   </td> </tr>
   <tr class="en"> <td>
       As if you could do it!

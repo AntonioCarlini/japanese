@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em> interrogative</em> <strong>@Vba{{}} @HI{{ii desu ka}}</strong>
+<li> <em> interrogative</em> @EM{{@Vba{{}} @HI{{ii desu ka}}}}
 </ol>
 </dl>
 
@@ -30,7 +30,7 @@ This sentence pattern is used to ask for directions or suggestions as to the bes
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{book}}wo @KJ{{borrow}}ritaindesuga, dou <strong>sureba ii desu ka</strong>.}}
+      @HI{{@KJ{{book}}wo @KJ{{borrow}}ritaindesuga, dou @EM{{sureba ii desu ka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I would like to borrow some books. What should i do?

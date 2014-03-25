@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{ha}}</strong> ... 
+<li> @N{{}} @EM{{@HI{{ha}}}} ... 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ha}}</strong> is used to indicate information about something that has already been introduced
+@EM{{@HI{{ha}}}} is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune. are <strong>ha</strong>@KJ{{sino-^character}}no@KJ{{book}}desu.}}
+      @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune. are @EM{{ha}}@KJ{{sino-^character}}no@KJ{{book}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Over there is a red book. It's a kanji book.
@@ -34,12 +34,12 @@ or about which the speaker is expected to know.
 </p>
 
 <p>
-<strong>@HI{{ha}}</strong> is used to mark a topic, which is then explained or described in the rest of the
+@EM{{@HI{{ha}}}} is used to mark a topic, which is then explained or described in the rest of the
 sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de<strong>ha</strong>}}
+      @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de@EM{{ha}}}}
       @KJ{{in}}@KJ{{country}}@KJ{{word}}@HI{{ga}} @KJ{{learn}}@HI{{emasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -49,12 +49,12 @@ sentence.
 </p>
 
 <p>
-The sentence pattern @N1{{}}<strong>@HI{{ha}}</strong>@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
+The sentence pattern @N1{{}}@EM{{@HI{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
 quality or property, @N2{{}}, is explained.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{elephant}}<strong>ha</strong>@KJ{{nose}}ga@KJ{{long}}idesu.}}
+      @HI{{@KJ{{elephant}}@EM{{ha}}@KJ{{nose}}ga@KJ{{long}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       The elephant has a long nose.
@@ -63,12 +63,12 @@ quality or property, @N2{{}}, is explained.
 </p>
 
 <p>
-<strong>@HI{{ha}}</strong> is used to indicate a contrast.
+@EM{{@HI{{ha}}}} is used to indicate a contrast.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kinou<strong>ha</strong>}}@KJ{{mountain}}@HI{{ga}}@KJ{{see}}@HI{{emashitaga,}}
-      @HI{{kyou<strong>ha</strong>}}@KJ{{see}}@HI{{emasenn.}}
+      @HI{{kinou@EM{{ha}}}}@KJ{{mountain}}@HI{{ga}}@KJ{{see}}@HI{{emashitaga,}}
+      @HI{{kyou@EM{{ha}}}}@KJ{{see}}@HI{{emasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Yesterday we could see mountains but today we can't.
@@ -79,8 +79,8 @@ quality or property, @N2{{}}, is explained.
 <h2> Notes </h2>
 
 <p>
-When <strong>@HI{{ha}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}}, <strong>@HI{{ha}}</strong>
-replaces those particles. For all other particles, <strong>@HI{{ha}}</strong> follows them rather than
+When @EM{{@HI{{ha}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @EM{{@HI{{ha}}}}
+replaces those particles. For all other particles, @EM{{@HI{{ha}}}} follows them rather than
 replacing them.
 </p>
 

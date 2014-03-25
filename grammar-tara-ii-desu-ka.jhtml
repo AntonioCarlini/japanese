@@ -13,11 +13,11 @@
 
 <h2> Formation </h2>
 
-<strong>@Vta{{}}@HI{{ra iidesuka}}</strong>
+@EM{{@Vta{{}}@HI{{ra iidesuka}}}}
 
 <h2> Definition </h2>
 
-<strong>@Vta{{}}@HI{{ra iidesuka}}</strong> is used when the speaker wishes to ask
+@EM{{@Vta{{}}@HI{{ra iidesuka}}}} is used when the speaker wishes to ask
 the listener for advice or instruction about what to do.
 
 
@@ -27,7 +27,7 @@ the listener for advice or instruction about what to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{dokode}}@KT{{kamera}}@HI{{wo}}@KJ{{buy}}@HI{{<strong>ttara iidesuka</strong>.}}
+      @HI{{dokode}}@KT{{kamera}}@HI{{wo}}@KJ{{buy}}@HI{{@EM{{ttara iidesuka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Where should I buy a camera?

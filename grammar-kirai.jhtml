@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{kirai}}</strong>
+<li> @EM{{@HI{{kirai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kirai}}</strong> is a @HI{{na}}-adjective meaning "don't like" or "dislike" that takes the 
+@EM{{@HI{{kirai}}}} is a @HI{{na}}-adjective meaning "don't like" or "dislike" that takes the 
 <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}}...@HI{{ga}}</a> construction. The
 person who dislikes is marked by @HI{{ha}} and the object of the dislike is marked by @HI{{ga}}. In a subordinate
 clause @HI{{ha}} becomes @HI{{ga}}.
@@ -36,7 +36,7 @@ To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{howaito}}sanha@KT{{futtobo-ru}}ga<strong>daikirai</strong>desu.}}
+      @HI{{@KT{{howaito}}sanha@KT{{futtobo-ru}}ga@EM{{daikirai}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. White hates football.
@@ -45,7 +45,7 @@ To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{me}}ha@KJ{{winter}}ga<strong>kirai</strong>da.}}
+      @HI{{@KJ{{me}}ha@KJ{{winter}}ga@EM{{kirai}}da.}}
   </td> </tr>
   <tr class="en"> <td>
       I dislike winter.
@@ -54,7 +54,7 @@ To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KT{{chi-zu}}ga<strong>kirai</strong>desu.}}
+      @HI{{@KJ{{private}}ha@KT{{chi-zu}}ga@EM{{kirai}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't like cheese.

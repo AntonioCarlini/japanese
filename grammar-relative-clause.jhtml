@@ -49,7 +49,7 @@ the meaning of the sentence would not be as intended.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}<strong>ga</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+      @HI{{@KT{{tomu}}@EM{{ga}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The girl to whom Tom gave a football ticket.
@@ -58,7 +58,7 @@ the meaning of the sentence would not be as intended.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}<strong>no</strong> @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+      @HI{{@KT{{tomu}}@EM{{no}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The girl to whom someone gave Tom's football ticket.

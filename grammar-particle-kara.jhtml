@@ -14,26 +14,26 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{kara}}</strong>.
-<li> @Vte{{}}<strong>@HI{{kara}}</strong>.
-<li> @S{{}}<strong>@HI{{kara}}</strong>, ...
+<li> @N{{}}@EM{{@HI{{kara}}}}.
+<li> @Vte{{}}@EM{{@HI{{kara}}}}.
+<li> @S{{}}@EM{{@HI{{kara}}}}, ...
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kara}}</strong> is a particle which can be used in a number of ways, generally with a meaning
+@EM{{@HI{{kara}}}} is a particle which can be used in a number of ways, generally with a meaning
 of "from" or "after".
 </p>
 
 <p>
-<a name="start"><strong>@HI{{kara}}</strong></a> can follow nouns to indicate the time at which something
+<a name="start">@EM{{@HI{{kara}}}}</a> can follow nouns to indicate the time at which something
 starts or the place from which something begins.
 
 <ol>
 <li><table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{gold^going}}ha9@KJ{{time}}<strong>kara</strong>@KJ{{open}}iteimasu.}}
+      @HI{{@KJ{{gold^going}}ha9@KJ{{time}}@EM{{kara}}@KJ{{open}}iteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Banks open at 9 o'clock.
@@ -42,7 +42,7 @@ starts or the place from which something begins.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{marasonn}}hakoko<strong>kara</strong>@KJ{{exit^departure}}shimasu.}}
+      @HI{{@KT{{marasonn}}hakoko@EM{{kara}}@KJ{{exit^departure}}shimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       The marathon starts from here.
@@ -52,11 +52,11 @@ starts or the place from which something begins.
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> appears in certain idiomatic usages where figurative references to place are made.
+@EM{{@HI{{kara}}}} appears in certain idiomatic usages where figurative references to place are made.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{new^hear}}wosumi<strong>kara</strong>sumimade@KJ{{read}}nda.}}
+      @HI{{@KJ{{new^hear}}wosumi@EM{{kara}}sumimade@KJ{{read}}nda.}}
   </td> </tr>
   <tr class="en"> <td>
       I read the news paper from cover to cover.
@@ -65,14 +65,14 @@ starts or the place from which something begins.
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
+@EM{{@HI{{kara}}}} can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
 to mean that an action immediately follows the end of a previous action; the meaning here may be "after" or "since".
 
 <ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sanga@KJ{{large^study}}wo@KJ{{graduate^business}}shite<strong>kara</strong>
+      @HI{{@KJ{{mountain^rice*field}}sanga@KJ{{large^study}}wo@KJ{{graduate^business}}shite@EM{{kara}}
       5@KJ{{year}}ninarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -82,7 +82,7 @@ to mean that an action immediately follows the end of a previous action; the mea
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{bright^day}}no@KJ{{evening}},@KJ{{eat^matter}}woshite<strong>kara</strong>@KJ{{reflect^brush-stroke}}wo
+      @HI{{@KJ{{bright^day}}no@KJ{{evening}},@KJ{{eat^matter}}woshite@EM{{kara}}@KJ{{reflect^brush-stroke}}wo
       @KJ{{see}}masenka.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -93,13 +93,13 @@ to mean that an action immediately follows the end of a previous action; the mea
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> can follow a noun to indicate the raw material from which something 
+@EM{{@HI{{kara}}}} can follow a noun to indicate the raw material from which something 
 is <a href="grammar-tsukuru.html">made</a>. If the process is not complex and the original material can be clearly
 discerned then @HI{{de}} is preferred.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{wainn}}habudou<strong>kara</strong>@KJ{{make}}rimasu.}}
+      @HI{{@KT{{wainn}}habudou@EM{{kara}}@KJ{{make}}rimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Wine is made from grapes.
@@ -108,11 +108,11 @@ discerned then @HI{{de}} is preferred.
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
+@EM{{@HI{{kara}}}} indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{large^use}}<strong>kara</strong>@KT{{pa-texi-}}ni@KJ{{beckon^wait}}saremashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{large^use}}@EM{{kara}}@KT{{pa-texi-}}ni@KJ{{beckon^wait}}saremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I was invited to a party by the ambassador.
@@ -121,11 +121,11 @@ discerned then @HI{{de}} is preferred.
 </p>
 
 <p>
-<a name="because"><strong>@HI{{kara}}</strong></a> can be used after a clause to mark it as a reason for something.
+<a name="because">@EM{{@HI{{kara}}}}</a> can be used after a clause to mark it as a reason for something.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{busy}}shikatta<strong>kara</strong>@KJ{{private}}tachiha@KJ{{public^park}}heikimasendeshita.}}
+      @HI{{@KJ{{busy}}shikatta@EM{{kara}}@KJ{{private}}tachiha@KJ{{public^park}}heikimasendeshita.}}
   </td> </tr>
   <tr class="en"> <td>
       We didn't go to the park yesterday because we were too busy.
@@ -134,11 +134,11 @@ discerned then @HI{{de}} is preferred.
 </p>
 
 <p>
-<strong>@HI{{kara}}</strong> can be used trailingly at the end of a sentence to indicate censure of the listener.
+@EM{{@HI{{kara}}}} can be used trailingly at the end of a sentence to indicate censure of the listener.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{exertion^strong}}shinaito@KJ{{test^verification}}ni@KJ{{fit^status}}dekinai<strong>kara</strong>.}}
+      @HI{{@KJ{{exertion^strong}}shinaito@KJ{{test^verification}}ni@KJ{{fit^status}}dekinai@EM{{kara}}.}}
   </td> </tr>
   <tr class="en"> <td>
       If you don't study you won't be able to pass the exam.

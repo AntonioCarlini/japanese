@@ -14,14 +14,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{made ni}}</strong> V
-<li> @N{{time}} <strong>@HI{{made ni}}</strong> V
+<li> @Vru{{}} @EM{{@HI{{made ni}}}} V
+<li> @N{{time}} @EM{{@HI{{made ni}}}} V
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-This sentence pattern expresses that the point in time indicated by <strong>@HI{{made ni}}</strong>
+This sentence pattern expresses that the point in time indicated by @EM{{@HI{{made ni}}}}
 is the time limit by which an action is to be completed.
 </p>
 
@@ -31,7 +31,7 @@ is the time limit by which an action is to be completed.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{meeting^deliberation}}ha 5@KJ{{time}}<strong>made ni</strong> @KJ{{end}}warimasu.}}
+      @HI{{@KJ{{meeting^deliberation}}ha 5@KJ{{time}}@EM{{made ni}} @KJ{{end}}warimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       The meeting will be over by 5.
@@ -40,7 +40,7 @@ is the time limit by which an action is to be completed.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{jetto}}@KJ{{mechanism}}ga @KT{{pari}}ni @KJ{{don}}ku<strong>made ni</strong>
+      @HI{{@KT{{jetto}}@KJ{{mechanism}}ga @KT{{pari}}ni @KJ{{don}}ku@EM{{made ni}}
       @KJ{{book}}wo@KJ{{three^tome^read}}nde shimaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -52,7 +52,7 @@ is the time limit by which an action is to be completed.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{made ni}}</strong> cannot be used with a verb that indicates a continuous action.
+@EM{{@HI{{made ni}}}} cannot be used with a verb that indicates a continuous action.
 </p>
 
 <h2> References </h2>

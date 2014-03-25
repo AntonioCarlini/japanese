@@ -14,15 +14,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(past) <strong>@HI{{mama}}</strong>
-<li> @Ai{{}} <strong>@HI{{mama}}</strong>
-<li> @Ana{{}} <strong>@HI{{mama}}</strong>
-<li> @N{{}} @HI{{no }}<strong>@HI{{mama}}</strong>
+<li> @Vplain{{}}(past) @EM{{@HI{{mama}}}}
+<li> @Ai{{}} @EM{{@HI{{mama}}}}
+<li> @Ana{{}} @EM{{@HI{{mama}}}}
+<li> @N{{}} @HI{{no }}@EM{{@HI{{mama}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{mama}}</strong> indicates that a situation remains unaltered.
+@EM{{@HI{{mama}}}} indicates that a situation remains unaltered.
 <p></p>
 
 <h2> Examples </h2>
@@ -31,7 +31,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa <strong>mama</strong> @KJ{{lie*down}}te shimaimashita.}}
+    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa @EM{{mama}} @KJ{{lie*down}}te shimaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     My younger brother went to sleep leaving the TV on.
@@ -40,7 +40,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa <strong>mama</strong> ni shite okimashita.}}
+    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa @EM{{mama}} ni shite okimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     My younger brother left the TV on.
@@ -49,7 +49,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa <strong>mama</strong> desu.}}
+    @HI{{@KJ{{younger*brother}}ha @KT{{terebi}}wo tsuketa @EM{{mama}} desu.}}
   </td> </tr>
   <tr class="en"> <td>
     My younger brother has left the TV on.
@@ -58,7 +58,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono @KJ{{section^roof}}ha kinou no <strong>mama</strong> desu.}}
+    @HI{{kono @KJ{{section^roof}}ha kinou no @EM{{mama}} desu.}}
   </td> </tr>
   <tr class="en"> <td>
     This room is as it was yesterday.
@@ -67,7 +67,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{cap^child}} kabutta <strong>mama</strong> no @KJ{{study^life}}ga @KJ{{teach^room}}ni imashita.}}
+    @HI{{@KJ{{cap^child}} kabutta @EM{{mama}} no @KJ{{study^life}}ga @KJ{{teach^room}}ni imashita.}}
   </td> </tr>
   <tr class="en"> <td>
     There was a student still wearing a hat in the classroom.

@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}<strong>@HI{{toiukotoda}}</strong>
-<li> @Splain{{}}<strong>@HI{{tonokotoda}}</strong>
+<li> @Splain{{}}@EM{{@HI{{toiukotoda}}}}
+<li> @Splain{{}}@EM{{@HI{{tonokotoda}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{toiukotoda}}</strong> and <strong>@HI{{tonokotoda}}</strong> are used to report speech.
+@EM{{@HI{{toiukotoda}}}} and @EM{{@HI{{tonokotoda}}}} are used to report speech.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{market}}noo@KJ{{know}}raseniyoreba,kono@KJ{{road-way^path}}ha@KJ{{come^week}}kara@KJ{{craft^matter}}ga
-      @KJ{{commence}}maru<strong>toiukotodesu</strong>.}}
+      @KJ{{commence}}maru@EM{{toiukotodesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       According to a city notice, from next week construction of this road will begin.
@@ -37,7 +37,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{[@KJ{{hand^paper}}]@KJ{{new}}shii@KJ{{attend^matter}}ga@KJ{{decide}}matta<strong>tonokoto</strong>,omedetougozaimasu.}}
+      @HI{{[@KJ{{hand^paper}}]@KJ{{new}}shii@KJ{{attend^matter}}ga@KJ{{decide}}matta@EM{{tonokoto}},omedetougozaimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       New job has been decided. Congratulations.

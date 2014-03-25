@@ -15,28 +15,28 @@
 
 <p>
 <ol>
-<li> @Vplain{{}}(non-past) <strong>@HI{{beki}}</strong> @HI{{desu}}
-<li> @Anastem{{}}@HI{{dearu}} <strong>@HI{{beki}}</strong>
-<li> @N{{}}@HI{{dearu}} <strong>@HI{{beki}}</strong>
+<li> @Vplain{{}}(non-past) @EM{{@HI{{beki}}}} @HI{{desu}}
+<li> @Anastem{{}}@HI{{dearu}} @EM{{@HI{{beki}}}}
+<li> @N{{}}@HI{{dearu}} @EM{{@HI{{beki}}}}
 </ol>
 </p>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{beki}}</strong> is an auxiliary that expresses the speaker's judgement that something should be
+@EM{{@HI{{beki}}}} is an auxiliary that expresses the speaker's judgement that something should be
 in some state.
 </p>
 
 <p>
-<strong>@HI{{beki}}</strong> expresses the idea that something should be in a certain state because it is their
+@EM{{@HI{{beki}}}} expresses the idea that something should be in a certain state because it is their
 responisbility or duty or because it is the right thing to do.
 
 <ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono@KJ{{argument^sentence}}ha@KJ{{write}}ki@KJ{{straightaway}}su<strong>beki</strong>da.}}
+    @HI{{kono@KJ{{argument^sentence}}ha@KJ{{write}}ki@KJ{{straightaway}}su@EM{{beki}}da.}}
   </td> </tr>
   <tr class="en"> <td>
     This thesis should be rewritten.
@@ -45,7 +45,7 @@ responisbility or duty or because it is the right thing to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sonnnakotowo@KJ{{person}}ni@KJ{{say}}u<strong>beki</strong>jaarimasenn.}}
+    @HI{{sonnnakotowo@KJ{{person}}ni@KJ{{say}}u@EM{{beki}}jaarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
     You shouldn't say that kind of thing to people.
@@ -54,7 +54,7 @@ responisbility or duty or because it is the right thing to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{mister}}mo@KJ{{come}}ru<strong>beki</strong>deshitayo.}}
+    @HI{{@KJ{{mister}}mo@KJ{{come}}ru@EM{{beki}}deshitayo.}}
   </td> </tr>
   <tr class="en"> <td>
     You should have come too.
@@ -64,7 +64,7 @@ responisbility or duty or because it is the right thing to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{he}}ha@KJ{{tie^marriage}}nankasu<strong>beki</strong>janakattanda.}}
+    @HI{{@KJ{{he}}ha@KJ{{tie^marriage}}nankasu@EM{{beki}}janakattanda.}}
   </td> </tr>
   <tr class="en"> <td>
     He shouldn't have married.
@@ -73,7 +73,7 @@ responisbility or duty or because it is the right thing to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono@KJ{{status*quo^attitude}}ga@KJ{{present^reality}}dearu<strong>beki</strong>da.}}
+    @HI{{kono@KJ{{status*quo^attitude}}ga@KJ{{present^reality}}dearu@EM{{beki}}da.}}
   </td> </tr>
   <tr class="en"> <td>
     This state should be the reality.
@@ -83,11 +83,11 @@ responisbility or duty or because it is the right thing to do.
 </p>
 
 <p>
-<strong>@HI{{beki}}</strong> can also express the idea that somone is expected to do something.
+@EM{{@HI{{beki}}}} can also express the idea that somone is expected to do something.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{suru<strong>beki</strong>@KJ{{place}}ni@KJ{{scribe^mention}}ganai.}}
+    @HI{{suru@EM{{beki}}@KJ{{place}}ni@KJ{{scribe^mention}}ganai.}}
   </td> </tr>
   <tr class="en"> <td>
     There's no description where there should be one.
@@ -96,11 +96,11 @@ responisbility or duty or because it is the right thing to do.
 </p>
 
 <p>
-<strong>@HI{{beki}}</strong> can immediately precede a noun.
+@EM{{@HI{{beki}}}} can immediately precede a noun.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{tale}}su<strong>beki</strong>kotoha@KJ{{whole^section^tale}}shimashita.}}
+    @HI{{@KJ{{tale}}su@EM{{beki}}kotoha@KJ{{whole^section^tale}}shimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     I told you everything I should tell you.
@@ -111,15 +111,15 @@ responisbility or duty or because it is the right thing to do.
 <h2> Notes </h2>
 
 <p>
-Either @HI{{suru<strong>beki</strong>}} or @HI{{su<strong>beki</strong>}} is acceptable.
+Either @HI{{suru@EM{{beki}}}} or @HI{{su@EM{{beki}}}} is acceptable.
 </p>
 
 <p>
-<strong>@HI{{beki}}</strong> should not be used to someone of higher status.
+@EM{{@HI{{beki}}}} should not be used to someone of higher status.
 </p>
 
 <p>
-<strong>@HI{{beki}}</strong> is similar to @HI{{mono da}} but the latter expresses a social norm (e.g. "Students should study")
+@EM{{@HI{{beki}}}} is similar to @HI{{mono da}} but the latter expresses a social norm (e.g. "Students should study")
 and cannot be applied to a specific situation (e.g. "<em>You</em> should study.").
 </p>
 

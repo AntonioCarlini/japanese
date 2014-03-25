@@ -51,7 +51,7 @@ for the subordinate clause to represent a future event and the main clause to re
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{house^tribe}}ni <strong>@KJ{{meeting}}enakute</strong>, @KJ{{loneliness}}shiidesu.}}
+      @HI{{@KJ{{house^tribe}}ni @EM{{@KJ{{meeting}}enakute}}, @KJ{{loneliness}}shiidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I miss my family.
@@ -60,7 +60,7 @@ for the subordinate clause to represent a future event and the main clause to re
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{tale}}ga <strong>@KJ{{duplicate^miscellaneous}}de</strong>, yoku wakarimasendeshita.}}
+      @HI{{@KJ{{tale}}ga @EM{{@KJ{{duplicate^miscellaneous}}de}}, yoku wakarimasendeshita.}}
   </td> </tr>
   <tr class="en"> <td>
       The story was complicated so I could not understand it well.
@@ -69,7 +69,7 @@ for the subordinate clause to represent a future event and the main clause to re
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{matter^happenstance}}ga <strong>atte</strong>, @KT{{basu}}ga @KJ{{slow}}rete shimaimashita.}}
+      @HI{{@KJ{{matter^happenstance}}ga @EM{{atte}}, @KT{{basu}}ga @KJ{{slow}}rete shimaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The bus was delayed by an accident.

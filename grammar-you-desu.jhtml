@@ -14,11 +14,11 @@
 <h2> Formation </h2>
 
 <dl>
-<li> @Vplain{{}} <strong>@HI{{you desu}}</strong>
-<li> @Ai{{}} <strong>@HI{{you desu}}</strong>
-<li> @Ana{{}} <strong>@HI{{you desu}}</strong>
-<li> @N{{}} @HI{{no}} <strong>@HI{{you desu}}</strong>
-<li> <em>demonstrative</em> <strong>@HI{{you desu}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{you desu}}}}
+<li> @Ai{{}} @EM{{@HI{{you desu}}}}
+<li> @Ana{{}} @EM{{@HI{{you desu}}}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{you desu}}}}
+<li> <em>demonstrative</em> @EM{{@HI{{you desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,15 +30,15 @@ information, usually visual information.
 </p>
 
 <p>
-<strong>@HI{{you desu}}</strong> can express either the likelihood of something or the likeness of something to something else.
+@EM{{@HI{{you desu}}}} can express either the likelihood of something or the likeness of something to something else.
 </p>
 
 <p>
-<strong>@HI{{you desu}}</strong> can be used before a noun in the form <strong>@HI{{youna}}</strong>.
+@EM{{@HI{{you desu}}}} can be used before a noun in the form @EM{{@HI{{youna}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{now^day^rice*field^in}}san'no<strong>youna</strong>@KJ{{person}}wo@KJ{{see}}mashita.}}
+    @HI{{@KJ{{now^day^rice*field^in}}san'no@EM{{youna}}@KJ{{person}}wo@KJ{{see}}mashita.}}
   </td> </tr>
   <tr class="en"> <td>
     I saw a man who looked like Mr. tanaka.
@@ -47,11 +47,11 @@ information, usually visual information.
 </p>
 
 <p>
-<strong>@HI{{you desu}}</strong> can be used before a verb in the form <strong>@HI{{youni}}</strong>.
+@EM{{@HI{{you desu}}}} can be used before a verb in the form @EM{{@HI{{youni}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{sumisu}}sanha@KJ{{day^book^person}}no<strong>youni</strong>@KJ{{day^book^word}}wo@KJ{{tale}}masu.}}
+    @HI{{@KT{{sumisu}}sanha@KJ{{day^book^person}}no@EM{{youni}}@KJ{{day^book^word}}wo@KJ{{tale}}masu.}}
   </td> </tr>
   <tr class="en"> <td>
     Mr. Smith speaks Japanese like a Japanese person.
@@ -65,7 +65,7 @@ information, usually visual information.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{matter^happenstance}}no<strong>you desu</strong> ne. @KT{{patoka-}}to
+    @HI{{@KJ{{matter^happenstance}}no@EM{{you desu}} ne. @KT{{patoka-}}to
     @KJ{{salvation^hurry^car}}ga @KJ{{come}}te imasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -75,7 +75,7 @@ information, usually visual information.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sekimo @KJ{{exit}}rushi, @KJ{{head}}mo @KJ{{pain}}i. doumo kaze wo hita<strong>you desu</strong>.}}
+    @HI{{sekimo @KJ{{exit}}rushi, @KJ{{head}}mo @KJ{{pain}}i. doumo kaze wo hita@EM{{you desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I have a cough and a headache. It looks like I've caught a cold.
@@ -86,7 +86,7 @@ information, usually visual information.
 <h2> Notes </h2>
 
 <p>
-The colloquial form of <strong>@HI{{you desu}}</strong> is @HI{{mitai}}.
+The colloquial form of @EM{{@HI{{you desu}}}} is @HI{{mitai}}.
 </p>
 
 <h2> References </h2>

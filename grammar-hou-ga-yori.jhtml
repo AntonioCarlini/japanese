@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}<strong>@HI{{houga}}</strong> @Vru{{}}<strong>@HI{{yori}}</strong>
-<li> @Ai{{}}<strong>@HI{{houga}}</strong> @Ai{{}}<strong>@HI{{yori}}</strong>
-<li> @Ana{{}}<strong>@HI{{houga}}</strong> @Ana{{}}<strong>@HI{{yori}}</strong>
-<li> @N{{}}@HI{{no}}<strong>@HI{{houga}}</strong> @N{{}}<strong>@HI{{yori}}</strong>
+<li> @Vru{{}}@EM{{@HI{{houga}}}} @Vru{{}}@EM{{@HI{{yori}}}}
+<li> @Ai{{}}@EM{{@HI{{houga}}}} @Ai{{}}@EM{{@HI{{yori}}}}
+<li> @Ana{{}}@EM{{@HI{{houga}}}} @Ana{{}}@EM{{@HI{{yori}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{houga}}}} @N{{}}@EM{{@HI{{yori}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@ In Japanese this sentence pattern is used to express the idea of comparison.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{stone^rice*field}}san'no<strong>houga</strong>@KJ{{private}}<strong>yori</strong>@KJ{{young}}idesu.}}
+      @HI{{@KJ{{stone^rice*field}}san'no@EM{{houga}}@KJ{{private}}@EM{{yori}}@KJ{{young}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. ishida is younger than I am.
@@ -46,7 +46,7 @@ The @HI{{houga}} part is not always necessary.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{grove}}sanha@KJ{{private}}<strong>yori</strong>@KJ{{quick}}ku@KJ{{run}}reru.}}
+      @HI{{@KJ{{grove}}sanha@KJ{{private}}@EM{{yori}}@KJ{{quick}}ku@KJ{{run}}reru.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Hayashi can run faster than I can.

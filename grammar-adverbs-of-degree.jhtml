@@ -18,12 +18,12 @@ Japanese adverbs can precede adjectives or verbs to modify them.
 </p>
 
 <p>
-<strong>@HI{{totemo}}</strong> is an adverb that precedes the adjective it is modifying. It is used in affirmative sentences
+@EM{{@HI{{totemo}}}} is an adverb that precedes the adjective it is modifying. It is used in affirmative sentences
 to mean "very".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{pekinn}}ha<strong>totemo</strong>@KJ{{cold}}idesu.}}
+      @HI{{@KT{{pekinn}}ha@EM{{@HI{{totemo}}}}@KJ{{cold}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Beijing is very cold.
@@ -32,12 +32,12 @@ to mean "very".
 </p>
 
 <p>
-<strong>@HI{{amari}}</strong> is an adverb that precedes the adjective it is modifying. It is used in negative sentences
+@EM{{@HI{{amari}}}} is an adverb that precedes the adjective it is modifying. It is used in negative sentences
 to mean "not very".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{sakura@KJ{{large^study}}ha<strong>amari</strong>@KJ{{possess^name}}na@KJ{{large^study}}jaarimasenn.}}
+      @HI{{sakura@KJ{{large^study}}ha@EM{{@HI{{amari}}}}@KJ{{possess^name}}na@KJ{{large^study}}jaarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Sakura Univeristy is not a very famous university.

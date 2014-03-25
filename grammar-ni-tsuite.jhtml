@@ -14,15 +14,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{ni tsuite}}</strong>
-<li> @Splain{{}}<strong>@HI{{ni tsuite}}</strong>
-<li> @N1{{}}/@Splain{{}}@HI{{no koto}}<strong>@HI{{ni tsuite}}</strong>@HI{{no}}@N2{{}}
+<li> @N{{}}@EM{{@HI{{ni tsuite}}}}
+<li> @Splain{{}}@EM{{@HI{{ni tsuite}}}}
+<li> @N1{{}}/@Splain{{}}@HI{{no koto}}@EM{{@HI{{ni tsuite}}}}@HI{{no}}@N2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ni tsuite}}</strong> means "about" or "concerning".
+@EM{{@HI{{ni tsuite}}}} means "about" or "concerning".
 </p>
 
 <h2> Examples </h2>
@@ -31,7 +31,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{sumisu}}sanha @KJ{{day^book}}he @KJ{{detain^study}}suru koto <strong>ni tsuite</strong>
+      @HI{{@KT{{sumisu}}sanha @KJ{{day^book}}he @KJ{{detain^study}}suru koto @EM{{ni tsuite}}
       iroiro @KJ{{private}}ni @KJ{{inquire}}neta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -41,7 +41,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{honorable^house^tribe}}<strong>ni tsuite</strong>@KJ{{tale}}shite kudasai.}}
+      @HI{{@KJ{{honorable^house^tribe}}@EM{{ni tsuite}}@KJ{{tale}}shite kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please talk about your family.

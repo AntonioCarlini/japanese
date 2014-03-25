@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}} <strong>@HI{{soretomo}}</strong> @S2{{}}
+<li> @S1{{}} @EM{{@HI{{soretomo}}}} @S2{{}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{soretomo}}</strong> is a conjunction used to join two alternatives each expressed in a sentence.
+@EM{{@HI{{soretomo}}}} is a conjunction used to join two alternatives each expressed in a sentence.
 <p></p>
 
 <h2> Examples </h2>
@@ -28,7 +28,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{thorn^somebody}}wo @KJ{{eat}}bemasu ka. <strong>soretomo</strong> sukiyaki ni shimasu ka.}}
+      @HI{{@KJ{{thorn^somebody}}wo @KJ{{eat}}bemasu ka. @EM{{soretomo}} sukiyaki ni shimasu ka.}}
   </td> </tr>
   <tr class="en"> <td>
       Will you have <em>sashimi</em> or will you have <em>sukiyaki</em>?
@@ -38,7 +38,7 @@
 
 <h2> Notes </h2>
 
-@HI{{<strong>soretomo</strong>}} can combine both statements and questions.
+@HI{{@EM{{soretomo}}}} can combine both statements and questions.
 <p></p>
 
 <h2> References </h2>

@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{ni}} V</strong>
+<li> @N{{}} @EM{{@HI{{ni}} V}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In the above sentence pattern, <strong>@HI{{ni}}</strong> means "in memory of" or "as a token of".
+In the above sentence pattern, @EM{{@HI{{ni}}}} means "in memory of" or "as a token of".
 </p>
 
 <h2> Examples </h2>
@@ -29,7 +29,7 @@ In the above sentence pattern, <strong>@HI{{ni}}</strong> means "in memory of" o
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{north^sea^road-way}}no o@KJ{{soil^products}}<strong>ni</strong>
+      @HI{{@KJ{{private}}ha @KJ{{north^sea^road-way}}no o@KJ{{soil^products}}@EM{{ni}}
       @KJ{{person^shape}}wo @KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>

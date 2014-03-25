@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} <strong>@HI{{tokorode}}</strong>
+<li> @Vta{{}} @EM{{@HI{{tokorode}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,7 +35,7 @@ stated in the first clause will be unfavourable.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{east^capital}}ha@KJ{{snow}}ga@KJ{{descend}}tta<strong>tokorode</strong>,sonnani@KJ{{volume}}morukotohaarimasenn.}}
+    @HI{{@KJ{{east^capital}}ha@KJ{{snow}}ga@KJ{{descend}}tta@EM{{tokorode}},sonnani@KJ{{volume}}morukotohaarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
     Even though it snows in Tokyo, it never snows that much.
@@ -44,7 +44,7 @@ stated in the first clause will be unfavourable.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{now}}kara@KJ{{busy}}ide@KJ{{going}}tta<strong>tokorode</strong>,1@KJ{{time}}no@KJ{{new^tree*trunk^line}}niha
+    @HI{{@KJ{{now}}kara@KJ{{busy}}ide@KJ{{going}}tta@EM{{tokorode}},1@KJ{{time}}no@KJ{{new^tree*trunk^line}}niha
     @KJ{{interval}}ni@KJ{{fit}}imasenn.}}
   </td> </tr>
   <tr class="en"> <td>

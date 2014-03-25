@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}<strong>@HI{{tabini}}</strong>
-<li> @N{{}}@HI{{no}}<strong>@HI{{tabini}}</strong>
+<li> @Vru{{}}@EM{{@HI{{tabini}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{tabini}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{tabini}}</strong> is a conjunction used to state that every time the preceding clause occurs,
+@EM{{@HI{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
 the following clause also occurs.
 </p>
 
 <p>
-<strong>@HI{{tabi</strong>goto<strong>ni}}</strong> has the same meaning but adds additional emphasis to "every time".
+@EM{{@HI{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
 </p>
 
 <p>
@@ -39,7 +39,7 @@ The @HI{{ni}} particle part of the construction cannot be dropped.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}he@KJ{{going}}ku<strong>tabini</strong>@KJ{{new}}shiikotowo@KJ{{study}}nde@KJ{{return}}rimasu.}}
+      @HI{{@KJ{{day^book}}he@KJ{{going}}ku@EM{{tabini}}@KJ{{new}}shiikotowo@KJ{{study}}nde@KJ{{return}}rimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Each time I return home to Japan I come home having learned something new.

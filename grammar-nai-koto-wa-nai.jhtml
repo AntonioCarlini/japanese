@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnai{{}}<strong>@HI{{kotohanai}}</strong>
-<li> @Aistem{{}}@HI{{kunai}}<strong>@HI{{kotohanai}}</strong>
-<li> @Anastem{{}}@HI{{ja}}<strong>@HI{{kotohanai}}</strong>
-<li> @N{{}}@HI{{ja}}<strong>@HI{{kotohanai}}</strong>
+<li> @Vnai{{}}@EM{{@HI{{kotohanai}}}}
+<li> @Aistem{{}}@HI{{kunai}}@EM{{@HI{{kotohanai}}}}
+<li> @Anastem{{}}@HI{{ja}}@EM{{@HI{{kotohanai}}}}
+<li> @N{{}}@HI{{ja}}@EM{{@HI{{kotohanai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{naikotohanai}}</strong> is used to express a mild affirmative using a double negative. It can be translated
+@EM{{@HI{{naikotohanai}}}} is used to express a mild affirmative using a double negative. It can be translated
 as "I cannot say that ~ never happens".
 
 <table class="sentence">
@@ -45,7 +45,7 @@ as "I cannot say that ~ never happens".
 <h2> Notes </h2>
 
 <p>
-The alternative form <strong>@HI{{naikotomonai}}</strong> (with @HI{{ha}} replaced by @HI{{mo}})
+The alternative form @EM{{@HI{{naikotomonai}}}} (with @HI{{ha}} replaced by @HI{{mo}})
 has the same meaning but the assertion is weaker.
 </p>
 

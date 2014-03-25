@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} <strong>@HI{{ato de}}</strong>
-<li> @N{{}} @HI{{no}} <strong>@HI{{ato de}}</strong>
+<li> @Vta{{}} @EM{{@HI{{ato de}}}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{ato de}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ato de}}</strong> states that the main clause
-occurred after the clause preceding the <strong>@HI{{ato de}}</strong>.
+@EM{{@HI{{ato de}}}} states that the main clause
+occurred after the clause preceding the @EM{{@HI{{ato de}}}}.
 </p>
 
 <h2> Examples </h2>
@@ -32,7 +32,7 @@ occurred after the clause preceding the <strong>@HI{{ato de}}</strong>.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{attend^matter}}no <strong>ato de</strong>,@KJ{{drink}}mini @KJ{{going}}kimasenka.}}
+      @HI{{@KJ{{attend^matter}}no @EM{{ato de}},@KJ{{drink}}mini @KJ{{going}}kimasenka.}}
   </td> </tr>
   <tr class="en"> <td>
       Shall we go and have a drink after work?
@@ -41,7 +41,7 @@ occurred after the clause preceding the <strong>@HI{{ato de}}</strong>.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{new}}shiinowo @KJ{{buy}}tta <strong>ato de</strong>, nakushita @KJ{{time^plot}}ga
+      @HI{{@KJ{{new}}shiinowo @KJ{{buy}}tta @EM{{ato de}}, nakushita @KJ{{time^plot}}ga
       @KJ{{see}}tsukarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -57,7 +57,7 @@ In informal conversations, @HI{{de}} may be dropped.
 </p>
 
 <p>
-<a href="grammar-te-kara.html">@Vte{{}}@HI{{kara}}</a> has a similar meaning but means "immediately after" whereas <strong>@HI{{atode}}</strong>
+<a href="grammar-te-kara.html">@Vte{{}}@HI{{kara}}</a> has a similar meaning but means "immediately after" whereas @EM{{@HI{{atode}}}}
 means "(any time) after".
 </p>
  

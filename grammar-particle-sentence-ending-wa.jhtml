@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{wa}}</strong>. 
+<li> @EM{{@HI{{wa}}}}. 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{wa}}</strong> is a sentence ending particle mainly used by women.
+@EM{{@HI{{wa}}}} is a sentence ending particle mainly used by women.
 </p>
 
 <p>
-<strong>@HI{{wa}}</strong> indicates emotion or feelings of admiration
+@EM{{@HI{{wa}}}} indicates emotion or feelings of admiration
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^night}}no@KT{{opera}}ha,@KJ{{book^hit}}nisubarashikatta<strong>wa</strong>.}}
+      @HI{{@KJ{{now^night}}no@KT{{opera}}ha,@KJ{{book^hit}}nisubarashikatta@EM{{wa}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Tonight's concert was absolutely fabulous.
@@ -37,11 +37,11 @@
 </p>
 
 <p>
-<strong>@HI{{wa}}</strong> softens the tone of a statement.
+@EM{{@HI{{wa}}}} softens the tone of a statement.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{hokano@KJ{{store}}de@KJ{{buy}}ttano@KJ{{direction}}gaiito@KJ{{think}}u<strong>wa</strong>}}
+      @HI{{hokano@KJ{{store}}de@KJ{{buy}}ttano@KJ{{direction}}gaiito@KJ{{think}}u@EM{{wa}}}}
   </td> </tr>
   <tr class="en"> <td>
       I think it would be better to buy it from another store.
@@ -50,23 +50,23 @@
 </p>
 
 <p>
-<strong>@HI{{wa}}</strong> has the same pronunciation as the topic marker <a href="grammar-particle-wa.html">@HI{{ha}}</a>
+@EM{{@HI{{wa}}}} has the same pronunciation as the topic marker <a href="grammar-particle-wa.html">@HI{{ha}}</a>
 but is written with a different hiragana character.
 </p>
 
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{wa}}</strong> can follow any declarative sentence but cannot follow volitional forms of verbs and cannot follow questions.
+@EM{{@HI{{wa}}}} can follow any declarative sentence but cannot follow volitional forms of verbs and cannot follow questions.
 </p>
 
 <p>
-<strong>@HI{{wa}}</strong> can occur with other sentence-ending particles, such as <a href="grammar-particle-ne.html">@HI{{ne}}</a>
-and <a href="grammar-particle-yo.html">@HI{{yo}}</a>. In such cases <strong>@HI{{wa}}</strong> must precede these particles.
+@EM{{@HI{{wa}}}} can occur with other sentence-ending particles, such as <a href="grammar-particle-ne.html">@HI{{ne}}</a>
+and <a href="grammar-particle-yo.html">@HI{{yo}}</a>. In such cases @EM{{@HI{{wa}}}} must precede these particles.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}hamo@KJ{{going}}ku<strong>wa</strong>yo.}}
+      @HI{{@KJ{{private}}hamo@KJ{{going}}ku@EM{{wa}}yo.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll go there too. (<em>Emphatic</em>)
@@ -75,7 +75,7 @@ and <a href="grammar-particle-yo.html">@HI{{yo}}</a>. In such cases <strong>@HI{
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}hamo@KJ{{going}}ku<strong>wa</strong>ne.}}
+      @HI{{@KJ{{private}}hamo@KJ{{going}}ku@EM{{wa}}ne.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll go there too, OK?

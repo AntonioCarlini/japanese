@@ -42,7 +42,7 @@ was made some time ago.
       A: @HI{{chotto @KJ{{rest}}manai?}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{un, @KJ{{rest}}<strong>mou</strong>.}}
+      B: @HI{{un, @KJ{{rest}}@EM{{mou}}.}}
   </td> </tr>
   <tr class="en"> <td>
       A: Shall we rest?
@@ -54,7 +54,7 @@ was made some time ago.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{week}}@KJ{{end}}ha @KJ{{sea}}ni @KJ{{going}}kou<strong>to @KJ{{think}}tteimasu</strong>.}}
+      @HI{{@KJ{{week}}@KJ{{end}}ha @KJ{{sea}}ni @KJ{{going}}kou@EM{{to @KJ{{think}}tteimasu}}.}}
       @KJ{{interchange}}@HI{{eraremasu.}}
   </td> </tr>
   <tr class="en"> <td>

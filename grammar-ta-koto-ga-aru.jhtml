@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} <strong>@HI{{koto ga aru}}</strong>
-<li> @Aistem{{}}@HI{{katta}} <strong>@HI{{koto ga aru}}</strong>
-<li> @Anastem{{}}@HI{{datta}} <strong>@HI{{koto ga aru}}</strong>
-<li> @N{{}}@HI{{datta}} <strong>@HI{{koto ga aru}}</strong>
+<li> @Vta{{}} @EM{{@HI{{koto ga aru}}}}
+<li> @Aistem{{}}@HI{{katta}} @EM{{@HI{{koto ga aru}}}}
+<li> @Anastem{{}}@HI{{datta}} @EM{{@HI{{koto ga aru}}}}
+<li> @N{{}}@HI{{datta}} @EM{{@HI{{koto ga aru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,7 +32,7 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{horse}}ni @KJ{{ride}}tta <strong>koto ga arimasu</strong>.}}
+      @HI{{@KJ{{horse}}ni @KJ{{ride}}tta @EM{{koto ga arimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I have ridden a horse.
@@ -41,7 +41,7 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{su-zan}}ha @KJ{{one^time}} @KT{{jazu}}ga totemo @KJ{{fond}}ki datta <strong>koto ga arimasu</strong>.}}
+      @HI{{@KT{{su-zan}}ha @KJ{{one^time}} @KT{{jazu}}ga totemo @KJ{{fond}}ki datta @EM{{koto ga arimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when Susan liked jazz a lot.
@@ -50,7 +50,7 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{retasu}}ga totemo @KJ{{tall}}katta <strong>koto ga arimasu</strong>.}}
+      @HI{{@KT{{retasu}}ga totemo @KJ{{tall}}katta @EM{{koto ga arimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when lettuce was expensive.
@@ -59,7 +59,7 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KT{{puro}}@KJ{{plains^ball^elect^hand}} datta <strong>koto ga arimasu</strong>.}}
+      @HI{{@KJ{{private}}ha @KT{{puro}}@KJ{{plains^ball^elect^hand}} datta @EM{{koto ga arimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when I was a professional baseball player.

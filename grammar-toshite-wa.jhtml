@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{toshiteha}}</strong>
+<li> @N{{}} @EM{{@HI{{toshiteha}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ This compound particle follows a noun and indicates that something is a standard
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono @KT{{sute-ki}}ha @KJ{{day^book}}no@KT{{sute-ki}}<strong>toshiteha</strong>@KJ{{relax}}idesu.}}
+      @HI{{kono @KT{{sute-ki}}ha @KJ{{day^book}}no@KT{{sute-ki}}@EM{{toshiteha}}@KJ{{relax}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       This steak is cheap for Japanese steak.

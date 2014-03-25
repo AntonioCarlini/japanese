@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{zo}}</strong>.
+<li> @EM{{@HI{{zo}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{zo}}</strong> is a sentence ending particle that adds force to a sentence. It indicates a command or threat or
+@EM{{@HI{{zo}}}} is a sentence ending particle that adds force to a sentence. It indicates a command or threat or
 adds force to a sentence.
 In this latter usage, it is more emphatic than <a href="grammar-particle-ze.html">ze</a>.
 It is mostly used by men.
@@ -32,7 +32,7 @@ It is mostly used by men.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{sorosoro@KJ{{meeting^deliberation}}wo@KJ{{commence}}meru<strong>zo</strong>.}}
+      @HI{{sorosoro@KJ{{meeting^deliberation}}wo@KJ{{commence}}meru@EM{{zo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Let's get the meeting under way.
@@ -41,7 +41,7 @@ It is mostly used by men.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{stubborn^long}}ru<strong>zo</strong>.}}
+      @HI{{@KJ{{stubborn^long}}ru@EM{{zo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I can do it!

@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li><strong>@Vte{{}}@HI{{aru}}</strong>
+<li>@EM{{@Vte{{}}@HI{{aru}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@Vte{{}}@HI{{aru}}</strong> is used as an auxiliary verb with the @HI{{te}}-form.
+@EM{{@Vte{{}}@HI{{aru}}}} is used as an auxiliary verb with the @HI{{te}}-form.
 This sentence pattern expresses the idea that someone performed an action and the state
 resulting from that action persists until the present time. The agent that performed
 the action is most often omitted, because the agent is unknown, unimportant or obvious.
@@ -31,14 +31,14 @@ the action is most often omitted, because the agent is unknown, unimportant or o
 <ol>
 <li>
 <table class="sentence" border=0>
-  <tr class="jp"> <td> @KJ{{window}}@HI{{ga ai<strong>te aru</strong>.}}</td> </tr>
+  <tr class="jp"> <td> @KJ{{window}}@HI{{ga ai@EM{{te aru}}.}}</td> </tr>
   <tr class="en"> <td> The window has been opened <em>(for some purpose</em>). </td> </tr>
 </table>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KT{{karenda-}}@HI{{ni}}@KJ{{now}}@KJ{{month}}@HI{{no}}@KJ{{beforehand}}@KJ{{determine}}@HI{{ga}}
-      @KJ{{write}}@HI{{i<strong>tearimasu</strong>.}}
+      @KJ{{write}}@HI{{i@EM{{tearimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       This month's schedule is written on the calendar.

@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(<em>non-volitional</em>) <strong>@HI{{you ni}}</strong>, <em>volitional expression</em>
-<li> @Vnai{{}} <strong>@HI{{you ni}}</strong>, <em>volitional expression</em>
+<li> @Vru{{}}(<em>non-volitional</em>) @EM{{@HI{{you ni}}}}, <em>volitional expression</em>
+<li> @Vnai{{}} @EM{{@HI{{you ni}}}}, <em>volitional expression</em>
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@ These sentence patterns indicate a purpose.
 </p>
 
 <p>
-The verb before <strong>@HI{{you ni}}</strong> should be a non-volitional one or a verb in the negative form.
+The verb before @EM{{@HI{{you ni}}}} should be a non-volitional one or a verb in the negative form.
 </p>
 
 <h2> Examples </h2>
@@ -34,7 +34,7 @@ The verb before <strong>@HI{{you ni}}</strong> should be a non-volitional one or
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{quick}}ku @KJ{{swim}}geru<strong>you ni</strong>, @KJ{{every^day^practice^learn}}shite imasu.}}
+      @HI{{@KJ{{quick}}ku @KJ{{swim}}geru@EM{{you ni}}, @KJ{{every^day^practice^learn}}shite imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I practice every day so that I can swim quickly.
@@ -43,7 +43,7 @@ The verb before <strong>@HI{{you ni}}</strong> should be a non-volitional one or
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{forget}}renai<strong>you ni</strong>,@KT{{memo}}shite kudasai.}}
+      @HI{{@KJ{{forget}}renai@EM{{you ni}},@KT{{memo}}shite kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please take a memo so you will not forget.
@@ -55,7 +55,7 @@ The verb before <strong>@HI{{you ni}}</strong> should be a non-volitional one or
 
 The similar expression <a href="grammar-tame-ni.html">@HI{{tame ni}}</a> is used in clauses with verbs
 that contain volition,
-whereas <strong>@HI{{you ni}}</strong> is used with verbs that do not. Note that if the verb involved
+whereas @EM{{@HI{{you ni}}}} is used with verbs that do not. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
 </br>
 

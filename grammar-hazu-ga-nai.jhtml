@@ -14,29 +14,29 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}<strong>@HI{{hazuganai}}</strong>
-<li> @Ai{{}}<strong>@HI{{hazuganai}}</strong>
-<li> @Anastem{{}}@HI{{na}}<strong>@HI{{hazuganai}}</strong>
-<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{hazuganai}}</strong>
-<li> @N{{}}@HI{{no}}<strong>@HI{{hazuganai}}</strong>
-<li> @N{{}}@HI{{dearu}}<strong>@HI{{hazuganai}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{hazuganai}}}}
+<li> @Ai{{}}@EM{{@HI{{hazuganai}}}}
+<li> @Anastem{{}}@HI{{na}}@EM{{@HI{{hazuganai}}}}
+<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{hazuganai}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{hazuganai}}}}
+<li> @N{{}}@HI{{dearu}}@EM{{@HI{{hazuganai}}}}
 
-<li> @Vplain{{}}<strong>@HI{{wakeganai}}</strong>
-<li> @Ai{{}}<strong>@HI{{wakeganai}}</strong>
-<li> @Anastem{{}}@HI{{na}}<strong>@HI{{wakeganai}}</strong>
-<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{wakeganai}}</strong>
-<li> @N{{}}@HI{{no}}<strong>@HI{{wakeganai}}</strong>
-<li> @N{{}}@HI{{dearu}}<strong>@HI{{wakeganai}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{wakeganai}}}}
+<li> @Ai{{}}@EM{{@HI{{wakeganai}}}}
+<li> @Anastem{{}}@HI{{na}}@EM{{@HI{{wakeganai}}}}
+<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{wakeganai}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{wakeganai}}}}
+<li> @N{{}}@HI{{dearu}}@EM{{@HI{{wakeganai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hazuganai}}</strong> expresses the speaker's subjective judgement that an event is very unlikely.
+@EM{{@HI{{hazuganai}}}} expresses the speaker's subjective judgement that an event is very unlikely.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{he^woman}}ga@KJ{{now^day}}no@KJ{{meeting^deliberation}}wo@KJ{{forget}}reru<strong>hazuhanai</strong>.}}
+      @HI{{@KJ{{he^woman}}ga@KJ{{now^day}}no@KJ{{meeting^deliberation}}wo@KJ{{forget}}reru@EM{{hazuhanai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It is unlikely that she will forget today's meeting.
@@ -45,11 +45,11 @@
 </p>
 
 <p>
-<strong>@HI{{hazuganai}}</strong> is a phrase that expresses the speaker's opinion that "there is no reason why ...".
+@EM{{@HI{{hazuganai}}}} is a phrase that expresses the speaker's opinion that "there is no reason why ...".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kon'nakotowoshiteii<strong>wakeganai</strong>.}}
+      @HI{{kon'nakotowoshiteii@EM{{wakeganai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       No-one is allowed to do that kind of thing. (There is no reason why it is good to do such a thing.)
@@ -60,7 +60,7 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{hazuganai}}</strong> can be used with sentences in the past. <strong>@HI{{wakeganai}}</strong> cannot be
+@EM{{@HI{{hazuganai}}}} can be used with sentences in the past. @EM{{@HI{{wakeganai}}}} cannot be
 used with past sentences, except indirectly by presenting the negation as a statement of common belief or about ability.
 </p>
 

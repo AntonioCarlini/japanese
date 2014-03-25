@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{soreha}}</strong> ...
+<li> @EM{{@HI{{soreha}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{soreha}}</strong> is used to refer to something that has just been stated.
+@EM{{@HI{{soreha}}}} is used to refer to something that has just been stated.
 <p></p>
 
 <h2> Examples </h2>
@@ -32,7 +32,7 @@
       @KJ{{book}}@KJ{{company}}@HI{{ni}}@KJ{{revolve}}@KJ{{diligence}}@HI{{nandesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{<strong>soreha</strong> omedetou gozaimasu.}}
+      B: @HI{{@EM{{soreha}} omedetou gozaimasu.}}
   </td> </tr>
   <tr class="en"> <td> 
       A: I will be transferred to the Osaka head office next month.

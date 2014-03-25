@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{tatoe}}</strong> @Vte{{}} <strong>@HI{{mo}}</strong>
-<li> <strong>@HI{{tatoe}}</strong> @Aistem{{}} <strong>@HI{{kutemo}}</strong>
-<li> <strong>@HI{{tatoe}}</strong> @Anastem{{}} <strong>@HI{{demo}}</strong>
-<li> <strong>@HI{{tatoe}}</strong> @N{{}} <strong>@HI{{demo}}</strong>
+<li> @EM{{@HI{{tatoe}}}} @Vte{{}} @EM{{@HI{{mo}}}}
+<li> @EM{{@HI{{tatoe}}}} @Aistem{{}} @EM{{@HI{{kutemo}}}}
+<li> @EM{{@HI{{tatoe}}}} @Anastem{{}} @EM{{@HI{{demo}}}}
+<li> @EM{{@HI{{tatoe}}}} @N{{}} @EM{{@HI{{demo}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@ This construction is used to indicate that even if a certain fact or state exist
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>tatoe</strong>@KJ{{circumference}}rino@KJ{{person}}tachinidon'nani@KJ{{anti-^vis-a-vis}}saretemo,
+      @HI{{@EM{{tatoe}}@KJ{{circumference}}rino@KJ{{person}}tachinidon'nani@KJ{{anti-^vis-a-vis}}saretemo,
       bokuha@KT{{puro}}no@KJ{{song^hand}}ninaritai.}}
   </td> </tr>
   <tr class="en"> <td>

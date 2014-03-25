@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}} @HI{{<strong>to @KJ{{say}}tte imashita</strong>}}
+<li> @Splain{{}} @HI{{@EM{{to @KJ{{say}}tte imashita}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ This pattern is used to convey the words of a third person.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rice*field^in}}sanha ashita @KJ{{rest}}mu<strong>to @KJ{{say}}tte imashita</strong>.}}
+      @HI{{@KJ{{rice*field^in}}sanha ashita @KJ{{rest}}mu@EM{{to @KJ{{say}}tte imashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Tanaka said that he would take a day off tomorrow.

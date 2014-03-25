@@ -14,9 +14,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vba{{}} @Vru{{}} @HI{{hodo}}</strong>
-<li> <strong>@Aistem{{}}@HI{{kereba}} @Ai{{}} @HI{{hodo}}</strong>
-<li> <strong>@Anastem{{}}@HI{{nara}} @Ana{{}} @HI{{hodo}}</strong>
+<li> @EM{{@Vba{{}} @Vru{{}} @HI{{hodo}}}}
+<li> @EM{{@Aistem{{}}@HI{{kereba}} @Ai{{}} @HI{{hodo}}}}
+<li> @EM{{@Anastem{{}}@HI{{nara}} @Ana{{}} @HI{{hodo}}}}
 </ol>
 </dl>
 

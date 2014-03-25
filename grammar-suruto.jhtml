@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{suruto}}</strong>
+<li> @EM{{@HI{{suruto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{suruto}}</strong> is a conjucntion that joins two sentences. The second of the two either describes an event that
+@EM{{@HI{{suruto}}}} is a conjucntion that joins two sentences. The second of the two either describes an event that
 occurs immediately after the first sentence or expresses a logical guess related to it.
 </p>
 
@@ -30,7 +30,7 @@ occurs immediately after the first sentence or expresses a logical guess related
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{jogingu}}wo@KJ{{commence}}memashita. <strong>suruto</strong>go@KJ{{meal}}gaoishikunarimashita.}}
+      @HI{{@KT{{jogingu}}wo@KJ{{commence}}memashita. @EM{{suruto}}go@KJ{{meal}}gaoishikunarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I began jogging. Then I began to have a good appetite.
@@ -42,7 +42,7 @@ occurs immediately after the first sentence or expresses a logical guess related
       A: @HI{{@KJ{{now^day}}ha@KJ{{month^weekday^day}}desuyo.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{<strong>suruto</strong>ano@KT{{depa-to}}ha@KJ{{rest}}midesune.}}
+      B: @HI{{@EM{{suruto}}ano@KT{{depa-to}}ha@KJ{{rest}}midesune.}}
   </td> </tr>
   <tr class="en"> <td>
       A: Today's Monday you know.
@@ -56,7 +56,7 @@ occurs immediately after the first sentence or expresses a logical guess related
 <h2> Notes </h2>
 
 <p>
-The @HI{{to}} in <strong>@HI{{suruto}}</strong> is the <a href="grammar-to-conditional.html">@HI{{to}} conditional</a>,
+The @HI{{to}} in @EM{{@HI{{suruto}}}} is the <a href="grammar-to-conditional.html">@HI{{to}} conditional</a>,
 so the second sentence normally expresses something beyond the control of the speaker and cannot be a command, request or suggestion.
 </p>
 

@@ -14,11 +14,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{<strong>tsumori</strong>desu}}
-<li> @Vnai{{}}@HI{{<strong>tsumori</strong>desu}}
-<li> @Ai{{}}@HI{{<strong>tsumori</strong>desu}}
-<li> @Ana{{}}@HI{{<strong>tsumori</strong>desu}}
-<li> @N{{}}@HI{{no<strong>tsumori</strong>desu}}
+<li> @Vru{{}}@HI{{@EM{{tsumori}}desu}}
+<li> @Vnai{{}}@HI{{@EM{{tsumori}}desu}}
+<li> @Ai{{}}@HI{{@EM{{tsumori}}desu}}
+<li> @Ana{{}}@HI{{@EM{{tsumori}}desu}}
+<li> @N{{}}@HI{{no@EM{{tsumori}}desu}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,7 +28,7 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo @KJ{{continue}}keru <strong>tsumori</strong>desu.}}
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo @KJ{{continue}}keru @EM{{tsumori}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Even when I go back to my country, I'll continue my judo.
@@ -41,7 +41,7 @@ The @HI{{nai}} form indicates the speaker's intention of not doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ashita karaha tabakowo @KJ{{suck}}wanai <strong>tsumori</strong>desu.}}
+      @HI{{ashita karaha tabakowo @KJ{{suck}}wanai @EM{{tsumori}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm determined not to smoke from tomorrow.
@@ -52,7 +52,7 @@ The @HI{{nai}} form indicates the speaker's intention of not doing something.
 <h2> Notes </h2>
 
 <p>
-Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{<strong>tsumori</strong>desu.}} sounds more determined.
+Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{@EM{{tsumori}}desu.}} sounds more determined.
 </p>
 
 <h2> References </h2>

@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}}@HI{{shimau}}</strong>
+<li> @EM{{@Vte{{}}@HI{{shimau}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@Vte{{}}@HI{{shimau}}</strong> is used to emphasize that whatever is expressed by
+@EM{{@Vte{{}}@HI{{shimau}}}} is used to emphasize that whatever is expressed by
 the verb has finished or is completed.
 <p></p>
 
-<strong>@Vte{{}}@HI{{shimatta}}</strong> is also used to indicate that something that should not
+@EM{{@Vte{{}}@HI{{shimatta}}}} is also used to indicate that something that should not
 have been done was done or that something that should not have happened happened. It therefore
 implies regret.
 <p></p>
 
-Whether a particular sentence using <strong>@Vte{{}}@HI{{shimatta}}</strong> is intended
+Whether a particular sentence using @EM{{@Vte{{}}@HI{{shimatta}}}} is intended
 to indicate completion or regret can only be determined by context.
 <p></p>
 
@@ -38,7 +38,7 @@ to indicate completion or regret can only be determined by context.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{sino-^character}}no@KJ{{inn^topic}}ha mou ya<strong>tte shimaimashita</strong>.}}
+      @HI{{@KJ{{sino-^character}}no@KJ{{inn^topic}}ha mou ya@EM{{tte shimaimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I have already done my kanji homework.
@@ -47,7 +47,7 @@ to indicate completion or regret can only be determined by context.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{pasupo-to}}wo nukaushi<strong>te shimaimashita</strong>.}}
+      @HI{{@KT{{pasupo-to}}wo nukaushi@EM{{te shimaimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I lost my passport.

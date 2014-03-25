@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}}</strong> @V2{{}}
-<li> <strong>@Vnai{{}}@HI{{de}}</strong> @V2{{}}
+<li> @EM{{@Vte{{}}}} @V2{{}}
+<li> @EM{{@Vnai{{}}@HI{{de}}}} @V2{{}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}}</strong> can be used to indicate something that accompanies another action.
-Similarly, <strong>@Vnai{{}} @HI{{de}}</strong> can be used to indicate that something does not
+@EM{{@Vte{{}}}} can be used to indicate something that accompanies another action.
+Similarly, @EM{{@Vnai{{}} @HI{{de}}}} can be used to indicate that something does not
 accompany another action.
 </p>
 
@@ -33,7 +33,7 @@ accompany another action.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{shouyuuwo <strong>tsukete</strong> @KJ{{eat}}bemasu.}}
+      @HI{{shouyuuwo @EM{{tsukete}} @KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We eat it with soy sauce.
@@ -42,7 +42,7 @@ accompany another action.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{shouyuuwo <strong>tsukenaide</strong> @KJ{{eat}}bemasu.}}
+      @HI{{shouyuuwo @EM{{tsukenaide}} @KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We eat it without soy sauce.

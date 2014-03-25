@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}(particle)<strong>@HI{{koso}}</strong>
-<li> @Vte{{}}<strong>@HI{{koso}}</strong>
-<li> @Splain{{}}<strong>@HI{{koso}}</strong>
+<li> @N{{}}(particle)@EM{{@HI{{koso}}}}
+<li> @Vte{{}}@EM{{@HI{{koso}}}}
+<li> @Splain{{}}@EM{{@HI{{koso}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koso}}</strong> is a particle that emphasises the word, phrase or clause before it.
+@EM{{@HI{{koso}}}} is a particle that emphasises the word, phrase or clause before it.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kore <strong>koso</strong>@KJ{{ego^noma}}ga @KJ{{grope}}shi @KJ{{request}}meteitamonoda.}}
+      @HI{{kore @EM{{koso}}@KJ{{ego^noma}}ga @KJ{{grope}}shi @KJ{{request}}meteitamonoda.}}
   </td> </tr>
   <tr class="en"> <td>
       This is the very thing we've been looking for.
@@ -35,7 +35,7 @@
 </p>
 
 <p>
-The idiomatic expression @HI{{kochira}} <strong>@HI{{koso}}</strong> means "not at all, the pleasure is all mine".
+The idiomatic expression @HI{{kochira}} @EM{{@HI{{koso}}}} means "not at all, the pleasure is all mine".
 
 <table class="sentence">
   <tr class="jp"> <td>

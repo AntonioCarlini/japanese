@@ -14,14 +14,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}}@HI{{kudasai}}</strong>
-<li> <strong>@Vnai{{}}@HI{{dekudasai}}</strong>
+<li> @EM{{@Vte{{}}@HI{{kudasai}}}}
+<li> @EM{{@Vnai{{}}@HI{{dekudasai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}} @HI{{kudasai}}</strong> is an expression used to ask, instruct or encourage
+@EM{{@Vte{{}} @HI{{kudasai}}}} is an expression used to ask, instruct or encourage
 the listener to do something. It cannot be used to a superior.
 
 <ol>

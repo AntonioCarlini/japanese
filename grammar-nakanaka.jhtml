@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{nakanaka}}</strong>
+<li> @EM{{@HI{{nakanaka}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-When accompanied by a negative expression, <strong>@HI{{nakanaka}}</strong> means "not easily" or "not as expected."
+When accompanied by a negative expression, @EM{{@HI{{nakanaka}}}} means "not easily" or "not as expected."
 </p>
 
 <h2> Examples </h2>
@@ -29,7 +29,7 @@ When accompanied by a negative expression, <strong>@HI{{nakanaka}}</strong> mean
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}deha <strong>nakanaka</strong> @KJ{{horse}}wo@KJ{{see}}ru koto ga dekimasenn.}}
+      @HI{{@KJ{{day^book}}deha @EM{{nakanaka}} @KJ{{horse}}wo@KJ{{see}}ru koto ga dekimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       In Japan we can rarely see horses.

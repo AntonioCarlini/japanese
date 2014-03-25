@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}<strong>@HI{{tatte}}</strong>
-<li> @Aistem{{}}@HI{{ku}}<strong>@HI{{tatte}}</strong>
+<li> @Vta{{}}@EM{{@HI{{tatte}}}}
+<li> @Aistem{{}}@HI{{ku}}@EM{{@HI{{tatte}}}}
 <li> @Anastem{{}}@HI{{datte}}
 <li> @Anastem{{}}@HI{{dattatte}}
 <li> @N{{}}@HI{{datte}}
@@ -25,12 +25,12 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{tatte}}</strong> is used to mean that even if something were done or something were in some state,
+@EM{{@HI{{tatte}}}} is used to mean that even if something were done or something were in some state,
 the desired result would not come about.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}niha@KJ{{tale}}shi<strong>tatte</strong>@KJ{{part}}karimasenn.}}
+      @HI{{ano@KJ{{person}}niha@KJ{{tale}}shi@EM{{tatte}}@KJ{{part}}karimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Even if I tell him he won't understand.
@@ -41,7 +41,7 @@ the desired result would not come about.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{tatte}}</strong> is used only in informal Japanese.
+@EM{{@HI{{tatte}}}} is used only in informal Japanese.
 </p>
 
 <h2> References </h2>

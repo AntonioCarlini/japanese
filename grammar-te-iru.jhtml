@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}}@HI{{iru}}</strong>
+<li> @EM{{@Vte{{}}@HI{{iru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a customary action.
+@EM{{@Vte{{}}@HI{{iru}}}} is used to describe a customary action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{every^morning}} @KT{{jogingu}}wo shi<strong>te imasu</strong>.}}
+      @HI{{@KJ{{every^morning}} @KT{{jogingu}}wo shi@EM{{te imasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I jog every morning.
@@ -33,10 +33,10 @@
 </p>
 
 <p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe a state which is the result of the action expressed
+@EM{{@Vte{{}}@HI{{iru}}}} is used to describe a state which is the result of the action expressed
 by the verb. If the verb describes an action that can be repeated or continued,
-<strong>@Vte{{}}@HI{{iru}}</strong> expresses the continuation of that action. Otherwise if the
-verb expresses a momentary action, <strong>@Vte{{}}@HI{{iru}}</strong> expresses the idea
+@EM{{@Vte{{}}@HI{{iru}}}} expresses the continuation of that action. Otherwise if the
+verb expresses a momentary action, @EM{{@Vte{{}}@HI{{iru}}}} expresses the idea
 that the action happened and the resulting state continues. Verbs used in this construction
 are intransitive ones.
 
@@ -44,7 +44,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{window}}ga @KJ{{proportion}}re<strong>te imasu</strong>.}}
+      @HI{{@KJ{{window}}ga @KJ{{proportion}}re@EM{{te imasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The window is broken.
@@ -53,7 +53,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^spirit}}ga tsui<strong>te imasu</strong>.}}
+      @HI{{@KJ{{electricity^spirit}}ga tsui@EM{{te imasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The light is on.
@@ -72,7 +72,7 @@ are intransitive ones.
 </p>
 
 <p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is in progress.
+@EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is in progress.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@ are intransitive ones.
 </p>
 
 <p>
-<strong>@Vte{{}}@HI{{iru}}</strong> is used to describe an action that is habitual.
+@EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is habitual.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
-<li> @Ai{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
-<li> @Anastem{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
-<li> @N{{}} (@HI{{no}}) <strong>@HI{{nara}}</strong>
+<li> @Vplain{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
+<li> @Ai{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
+<li> @Anastem{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
+<li> @N{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
 </ol>
 </dl>
 
@@ -25,14 +25,14 @@
 
 <p>
 When a speaker wishes to take up a topic introduced by another person and give some information,
-@N{{}}<strong>@HI{{nara}}</strong> is used.
+@N{{}}@EM{{@HI{{nara}}}} is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{@KJ{{warm^spring}}ni @KJ{{going}}kitaindesuga, dokoka ii @KJ{{place}}arimasenka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{@KJ{{warm^spring}}<strong>nara</strong>, @KJ{{white^horse}}ga ii desu yo.}}
+      B: @HI{{@KJ{{warm^spring}}@EM{{nara}}, @KJ{{white^horse}}ga ii desu yo.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I'd like to visit a hot spring resort. Don't you know a good place?
@@ -44,12 +44,12 @@ When a speaker wishes to take up a topic introduced by another person and give s
 </p>
 
 <p>
-<strong>@HI{{nara}}</strong> is a conjunction that indicates that the preceding sentence is the
+@EM{{@HI{{nara}}}} is a conjunction that indicates that the preceding sentence is the
 speaker's supposition or the actualisation of something in the future.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{shikago}}he@KJ{{going}}kuno<strong>nara</strong>@KT{{basu}}de@KJ{{going}}kinasai.}}
+      @HI{{@KT{{shikago}}he@KJ{{going}}kuno@EM{{nara}}@KT{{basu}}de@KJ{{going}}kinasai.}}
   </td> </tr>
   <tr class="en"> <td>
       If you go to Chicago, go by bus.
@@ -60,12 +60,12 @@ speaker's supposition or the actualisation of something in the future.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{nara}}</strong> is the simplified form of @HI{{naraba}}, the conditional form of the copula @HI{{da}}.
+@EM{{@HI{{nara}}}} is the simplified form of @HI{{naraba}}, the conditional form of the copula @HI{{da}}.
 In modern Japanese, however, the @HI{{ba}} is usually omitted.
 </p>
 
 <p>
-<strong>@HI{{nara}}</strong> requires a noun or noun equivalent. So if the preceding element is not a noun, it is
+@EM{{@HI{{nara}}}} requires a noun or noun equivalent. So if the preceding element is not a noun, it is
 nominalised by @HI{{no}}. However, in modern Japanese this @HI{{no}} is optional. In conversation, this @HI{{no}}
 can become @HI{{nn}}.
 </p>

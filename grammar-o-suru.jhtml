@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{o}}</strong>@Vmasustem{{}} @HI{{<strong>suru</strong>}}
+<li> @EM{{@HI{{o}}}}@Vmasustem{{}} @HI{{@EM{{suru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ This construction is a humble form.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{private}}ha @KJ{{before^life}} no @KT{{su-tsuke-su}}wo <strong>o</strong>@KJ{{hold}}chi <strong>shimashita</strong>.}}
+    @HI{{@KJ{{private}}ha @KJ{{before^life}} no @KT{{su-tsuke-su}}wo @EM{{o}}@KJ{{hold}}chi @EM{{shimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I carried the teacher's suitcase.

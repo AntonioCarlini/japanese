@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{koto}}</strong>.
+<li> @EM{{@HI{{koto}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koto}}</strong> is a sentence ending particle that can indicate emotion.
+@EM{{@HI{{koto}}}} is a sentence ending particle that can indicate emotion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{flower}}no@KJ{{color}}no@KJ{{beauty}}shii<strong>koto</strong>.}}
+      @HI{{kono@KJ{{flower}}no@KJ{{color}}no@KJ{{beauty}}shii@EM{{koto}}.}}
   </td> </tr>
   <tr class="en"> <td>
       What an exquisite colour this flower has!
@@ -33,11 +33,11 @@
 </p>
 
 <p>
-<strong>@HI{{koto}}</strong> is a sentence ending particle that can express a suggestion or invitation.
+@EM{{@HI{{koto}}}} is a sentence ending particle that can express a suggestion or invitation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{one^degrees}}@KT{{kui-nerizabesu}}@KJ{{nickname}}ni@KJ{{ride}}ttemimasenn<strong>koto</strong>.}}
+      @HI{{@KJ{{one^degrees}}@KT{{kui-nerizabesu}}@KJ{{nickname}}ni@KJ{{ride}}ttemimasenn@EM{{koto}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Shall we just once go on the Queen Elizabeth?

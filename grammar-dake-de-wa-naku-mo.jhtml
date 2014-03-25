@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
-<li> @Ai{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
-<li> @Ana{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
-<li> @N{{}} <strong>@HI{{dakede(ha)naku~mo}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{dakede(ha)naku~mo}}}}
+<li> @Ai{{}} @EM{{@HI{{dakede(ha)naku~mo}}}}
+<li> @Ana{{}} @EM{{@HI{{dakede(ha)naku~mo}}}}
+<li> @N{{}} @EM{{@HI{{dakede(ha)naku~mo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{dakede(ha)naku~mo}}</strong> means "not only ~ but also ~"
+@EM{{@HI{{dakede(ha)naku~mo}}}} means "not only ~ but also ~"
 </p>
 
 <h2> Examples </h2>
@@ -32,7 +32,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}hayoku@KJ{{exertion^strong}}suru<strong>dakedehanaku</strong>yoku@KJ{{play}}bimasu.}}
+      @HI{{ano@KJ{{person}}hayoku@KJ{{exertion^strong}}suru@EM{{dakedehanaku}}yoku@KJ{{play}}bimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       He not only studies hard, but he plays a lot.
@@ -41,8 +41,8 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}ha@KJ{{head}}gaii<strong>dakedehanaku</strong>yoku
-      @KJ{{exertion^strong}}<strong>mo</strong>shimasu.}}
+      @HI{{ano@KJ{{person}}ha@KJ{{head}}gaii@EM{{dakedehanaku}}yoku
+      @KJ{{exertion^strong}}@EM{{mo}}shimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       He's not only smart, he studies hard too.
@@ -51,7 +51,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{konouchihakireina<strong>dakedehanaku</strong>totemo@KJ{{relax}}idesu.}}
+      @HI{{konouchihakireina@EM{{dakedehanaku}}totemo@KJ{{relax}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       That house is not only beautiful but inexpensive too.
@@ -60,7 +60,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{jonn}}<strong>dekadehanaku</strong>@KT{{meari-}}mo@KJ{{come}}mashita.}}
+      @HI{{@KT{{jonn}}@EM{{dekadehanaku}}@KT{{meari-}}mo@KJ{{come}}mashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Not only John, but Mary also came here.

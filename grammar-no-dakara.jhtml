@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}<strong>@HI{{nodakara}}</strong>
-<li> @Ana{{}}<strong>@HI{{nodakara}}</strong>
-<li> @N{{}}@HI{{na}}<strong>@HI{{nodakara}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{nodakara}}}}
+<li> @Ana{{}}@EM{{@HI{{nodakara}}}}
+<li> @N{{}}@HI{{na}}@EM{{@HI{{nodakara}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{dakara}}</strong> expresses the idea that the following clause is a natural consequence
+@EM{{@HI{{dakara}}}} expresses the idea that the following clause is a natural consequence
 of the preceding one. There is a nuance that the listener is expected to know this.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{laugh}}wanaide. @KJ{{true^sabre}}niyatteiru<strong>ndesukara</strong>.}}
+      @HI{{@KJ{{laugh}}wanaide. @KJ{{true^sabre}}niyatteiru@EM{{ndesukara}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Please do not laugh. Because you are being photographed.

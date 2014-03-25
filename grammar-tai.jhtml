@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}<strong>@HI{{tai}}</strong>
+<li> @Vmasustem{{}}@EM{{@HI{{tai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{tai}}</strong> is an auxiliary used with the @HI{{masu}}-stem of a verb to express a desire to do something. It conjugates
+@EM{{@HI{{tai}}}} is an auxiliary used with the @HI{{masu}}-stem of a verb to express a desire to do something. It conjugates
 as an @HI{{i}}-adjective.
 
 <table class="sentence">
@@ -58,7 +58,7 @@ When required for the third person, the form used is with <a href="grammar-garu.
 </table>
 <br/><br/>
 
-Note, however, that <strong>@HI{{tai}}</strong> can be used with a third person:
+Note, however, that @EM{{@HI{{tai}}}} can be used with a third person:
 <ol>
 <li> with a past tense
 <li> in indirect speech
@@ -70,7 +70,7 @@ Note, however, that <strong>@HI{{tai}}</strong> can be used with a third person:
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{tai}}</strong> can never be used to form an invitation to do something. Instead use a negative question.
+@EM{{@HI{{tai}}}} can never be used to form an invitation to do something. Instead use a negative question.
 </p>
 
 <h2> References </h2>

@@ -14,22 +14,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnaistem{{}}<strong>@HI{{nakute}}</strong>
-<li> @Aistem{{}}@HI{{ku}}<strong>@HI{{nakute}}</strong>
-<li> @Anastem{{}}@HI{{deha}}<strong>@HI{{nakute}}</strong>
-<li> @Anastem{{}}@HI{{ja}}<strong>@HI{{nakute}}</strong>
-<li> @N{{}}@HI{{deha}}<strong>@HI{{nakute}}</strong>
-<li> @N{{}}@HI{{ja}}<strong>@HI{{nakute}}</strong>
+<li> @Vnaistem{{}}@EM{{@HI{{nakute}}}}
+<li> @Aistem{{}}@HI{{ku}}@EM{{@HI{{nakute}}}}
+<li> @Anastem{{}}@HI{{deha}}@EM{{@HI{{nakute}}}}
+<li> @Anastem{{}}@HI{{ja}}@EM{{@HI{{nakute}}}}
+<li> @N{{}}@HI{{deha}}@EM{{@HI{{nakute}}}}
+<li> @N{{}}@HI{{ja}}@EM{{@HI{{nakute}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nakute}}</strong> is the @HI{{te}}-form of the negative @HI{{nai}}. It is used to indicate a cause or a reason for a state.
+@EM{{@HI{{nakute}}}} is the @HI{{te}}-form of the negative @HI{{nai}}. It is used to indicate a cause or a reason for a state.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{morning^seven^time}}ni@KJ{{rouse}}rare<strong>nakute</strong>@KJ{{meeting^company}}ni@KJ{{late}}remashita.}}
+      @HI{{@KJ{{morning^seven^time}}ni@KJ{{rouse}}rare@EM{{nakute}}@KJ{{meeting^company}}ni@KJ{{late}}remashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I couldn't get up at seven and was late for work.

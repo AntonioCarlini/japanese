@@ -13,12 +13,12 @@
 
 <h2> Formation </h2>
 
-<strong>@Vte{{}}@HI{{miru}}</strong>
+@EM{{@Vte{{}}@HI{{miru}}}}
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}}@HI{{miru}}</strong> means to make an attempt at doing something to see what happens or to see what it is like.
+@EM{{@Vte{{}}@HI{{miru}}}} means to make an attempt at doing something to see what happens or to see what it is like.
 It can also mean that the attempt is a trial.
 </p>
 
@@ -28,7 +28,7 @@ It can also mean that the attempt is a trial.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{zubonn}}wo haite <strong>mite</strong>mo ii desu ka.}}
+      @HI{{@KT{{zubonn}}wo haite @EM{{mite}}mo ii desu ka.}}
   </td> </tr>
   <tr class="en"> <td>
       May I try on this pair of trousers?

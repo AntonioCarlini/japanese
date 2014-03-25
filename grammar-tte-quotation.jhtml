@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quote</em> <strong>@HI{{tte}}</strong>
+<li> <em>quote</em> @EM{{@HI{{tte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{tte}}</strong> is an informal version of the quotation marker @HI{{to}}.
-When <strong>@HI{{tte}}</strong> is followed by @KJ{{say}}@HI{{u}},
+@EM{{@HI{{tte}}}} is an informal version of the quotation marker @HI{{to}}.
+When @EM{{@HI{{tte}}}} is followed by @KJ{{say}}@HI{{u}},
 then the meaning is "the person who is the topic says ...".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{me}}mo@KJ{{going}}kou<strong>tte</strong>@KJ{{think}}imashita.}}
+      @HI{{@KJ{{me}}mo@KJ{{going}}kou@EM{{tte}}@KJ{{think}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I wondered if I should go there too.
@@ -39,7 +39,7 @@ then the meaning is "the person who is the topic says ...".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{je-nn}}ha@KJ{{jump}}ranai<strong>tte</strong>.}}
+      @HI{{@KT{{je-nn}}ha@KJ{{jump}}ranai@EM{{tte}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Jane said she wouldn't dance./They say Jane won't dance.

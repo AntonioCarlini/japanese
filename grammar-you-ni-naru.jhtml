@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{you ni naru}}</strong>
-<li> @Vnai{{}} <strong>@HI{{you ni naru}}</strong>
+<li> @Vru{{}} @EM{{@HI{{you ni naru}}}}
+<li> @Vnai{{}} @EM{{@HI{{you ni naru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +31,7 @@ The form which uses @Vru{{}} means that something which could not be done now ca
 </p>
 
 <p>
-The form <strong>@HI{{you ni natteiru}}</strong> emphasises that the current state has come about after a long process.
+The form @EM{{@HI{{you ni natteiru}}}} emphasises that the current state has come about after a long process.
 </p>
 
 <h2> Examples </h2>
@@ -40,7 +40,7 @@ The form <strong>@HI{{you ni natteiru}}</strong> emphasises that the current sta
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{yatto @KJ{{oneself^revolve^car}}ni @KJ{{ride}}reru<strong>you ni</strong> narimashita.}}
+      @HI{{yatto @KJ{{oneself^revolve^car}}ni @KJ{{ride}}reru@EM{{you ni}} narimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I've finally become able to ride a bicycle.

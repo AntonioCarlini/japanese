@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{you ni suru}}</strong>
-<li> @Vnai{{}} <strong>@HI{{you ni suru}}</strong>
+<li> @Vru{{}} @EM{{@HI{{you ni suru}}}}
+<li> @Vnai{{}} @EM{{@HI{{you ni suru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +31,7 @@ These sentence patterns indicate that someone habitually or continuously makes e
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{tooth}}ni @KJ{{bad}}idesukara, @KJ{{sweet}}i@KJ{{thing}}wo @KJ{{eat}}benai
-      <strong>you ni shite imasu</strong>.}}
+      @EM{{you ni shite imasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I try not to eat sweets because they are bad for my teeth.
@@ -41,7 +41,7 @@ These sentence patterns indicate that someone habitually or continuously makes e
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ashitaha @KJ{{discontinue^vis-a-vis}}ni @KJ{{time^interval}}ni @KJ{{slow}}renai
-      <strong>you ni shite</strong>kudasai.}}
+      @EM{{you ni shite}}kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please be sure not to be late tomorrow.

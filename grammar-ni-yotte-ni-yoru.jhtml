@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{niyotte}}</strong>
+<li> @N{{}}@EM{{@HI{{niyotte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{niyotte}}</strong>, in this construction, indicates that the preceding noun is the cause of the subsequent
+@EM{{@HI{{niyotte}}}}, in this construction, indicates that the preceding noun is the cause of the subsequent
 clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{uchino@KJ{{craft^location}}deha,@KJ{{lumber^fee^negative^leg}}<strong>niyotte</strong>
+      @HI{{uchino@KJ{{craft^location}}deha,@KJ{{lumber^fee^negative^leg}}@EM{{niyotte}}
       tatamino@KJ{{life^products}}hamoudekinakatta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -35,12 +35,12 @@ clause.
 </p>
 
 <p>
-<strong>@HI{{niyotte}}</strong>, can also mean "by using the method of".
+@EM{{@HI{{niyotte}}}}, can also mean "by using the method of".
 clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{outside^country^word}}wo@KJ{{study}}bukoto<strong>niyotte</strong>sono@KJ{{country}}no@KJ{{person}}tachi
+      @HI{{@KJ{{outside^country^word}}wo@KJ{{study}}bukoto@EM{{niyotte}}sono@KJ{{country}}no@KJ{{person}}tachi
       no@KJ{{consider}}e@KJ{{direction}}mo@KJ{{know}}rukotogadekiru.}}
   </td> </tr>
   <tr class="en"> <td>

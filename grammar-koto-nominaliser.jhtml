@@ -14,25 +14,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{koto}}</strong>
-<li> @Ai{{}} <strong>@HI{{koto}}</strong>
-<li> @Ana{{}} <strong>@HI{{koto}}</strong>
+<li> @Vru{{}} @EM{{@HI{{koto}}}}
+<li> @Ai{{}} @EM{{@HI{{koto}}}}
+<li> @Ana{{}} @EM{{@HI{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koto}}</strong> is a nominaliser that indicates the speaker's relative lack of empathy with the
+@EM{{@HI{{koto}}}} is a nominaliser that indicates the speaker's relative lack of empathy with the
 content of the nominalised sentence.
 </p>
 
 <p>
-<strong>@HI{{koto}}</strong> turns a whole sentence into a noun phrase which can then be used anywhere that a noun
+@EM{{@HI{{koto}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
 phrase can normally be used.
 </p>
 
 <p>
-Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, <strong>@HI{{koto}}</strong> tends to indicate
+Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, @EM{{@HI{{koto}}}} tends to indicate
 something to which the speaker does not feel very close.
 </p>
 
@@ -47,7 +47,7 @@ A@HI{{ha}}B@HI{{desu}}
 <p>
 The pattern
 <br/>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}}@Vru{{}}@HI{{<strong>koto</strong> desu.}}
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}}@Vru{{}}@HI{{@EM{{koto}} desu.}}
 <br/>
 can be used to better define a hobby.
 </p>
@@ -58,7 +58,7 @@ can be used to better define a hobby.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{suisu}}ga kireina<strong>koto</strong>ha @KJ{{copy^true}}de @KJ{{know}}tteimasu.}}
+      @HI{{@KT{{suisu}}ga kireina@EM{{koto}}ha @KJ{{copy^true}}de @KJ{{know}}tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       From photographs I know that Switzerland is beautiful.
@@ -67,7 +67,7 @@ can be used to better define a hobby.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku <strong>koto</strong> desu.}}
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku @EM{{koto}} desu.}}
   </td> </tr>
   <tr class="en"> <td>
       My hobby is listening to music.
@@ -78,14 +78,14 @@ can be used to better define a hobby.
 <h2> Notes </h2>
 
 <p>
-There are various structures where <strong>@HI{{koto}}</strong> is used and @HI{{no}} is not:
+There are various structures where @EM{{@HI{{koto}}}} is used and @HI{{no}} is not:
 <ul>
-<li> ... @HI{{ha <strong>koto</strong> desu.}}
-<li> ... @HI{{<strong>koto</strong> ga aru}} ...
-<li> ... <a href="grammar-koto-ga-dekiru.html">@HI{{<strong>koto</strong> ga dekiru}} ... </a>
-<li> ... @HI{{<strong>koto</strong> ni naru}} ...
-<li> ... @HI{{<strong>koto</strong> ni suru}} ...
-<li> ... @HI{{<strong>koto</strong> ha}} ...
+<li> ... @HI{{ha @EM{{koto}} desu.}}
+<li> ... @HI{{@EM{{koto}} ga aru}} ...
+<li> ... <a href="grammar-koto-ga-dekiru.html">@HI{{@EM{{koto}} ga dekiru}} ... </a>
+<li> ... @HI{{@EM{{koto}} ni naru}} ...
+<li> ... @HI{{@EM{{koto}} ni suru}} ...
+<li> ... @HI{{@EM{{koto}} ha}} ...
 </ul>
 </p>
 

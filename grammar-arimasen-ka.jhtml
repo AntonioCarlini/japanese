@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{arimasenka}}</strong>.
+<li> @EM{{@HI{{arimasenka}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ By using the negative form in a question, the speaker is being indirect and poli
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{chiriso-su}}ha<strong>arimasenka</strong>.}}
+      @HI{{@KT{{chiriso-su}}ha@EM{{arimasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is there any chilli sauce?

@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li><strong>@HI{{amari}}</strong> <em>predicate</em>
+<li>@EM{{@HI{{amari}}}} <em>predicate</em>
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-The adverb <strong>@HI{{amari}}</strong> expresses that the degree of the action of the verb is not great ("not much" or "not very").
+The adverb @EM{{@HI{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
 </p>
 
 <h2> Examples </h2>
@@ -29,7 +29,7 @@ The adverb <strong>@HI{{amari}}</strong> expresses that the degree of the action
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha<strong>amari</strong>@KJ{{eat}}benai.}}
+      @HI{{@KJ{{private}}ha@EM{{amari}}@KJ{{eat}}benai.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't each very much.
@@ -40,11 +40,11 @@ The adverb <strong>@HI{{amari}}</strong> expresses that the degree of the action
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{amari}}</strong> is usually found in negative sentences.
+@EM{{@HI{{amari}}}} is usually found in negative sentences.
 </p>
 
 <p>
-@HI{{anmari}} is a variant of <strong>@HI{{amari}}</strong> sometimes found in conversation.
+@HI{{anmari}} is a variant of @EM{{@HI{{amari}}}} sometimes found in conversation.
 </p>
 
 <h2> References </h2>

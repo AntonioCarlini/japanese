@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <dl>
-<li> @Vplain{{}} <strong>@HI{{sou desu}}</strong>
-<li> @Ai{{}} <strong>@HI{{sou desu}}</strong>
-<li> @Anastem{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
-<li> @N{{}} @HI{{da}} <strong>@HI{{sou desu}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{sou desu}}}}
+<li> @Ai{{}} @EM{{@HI{{sou desu}}}}
+<li> @Anastem{{}} @HI{{da}} @EM{{@HI{{sou desu}}}}
+<li> @N{{}} @HI{{da}} @EM{{@HI{{sou desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -33,7 +33,7 @@ sentence pattern the speaker is not adding his own point of view.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{heavens^spirit^beforehand^report}}ni yoruto, ashitaha @KJ{{cold}}ku naru<strong>sou desu</strong>.}}
+    @HI{{@KJ{{heavens^spirit^beforehand^report}}ni yoruto, ashitaha @KJ{{cold}}ku naru@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     According to the weather report, it will be cold tomorrow.
@@ -42,7 +42,7 @@ sentence pattern the speaker is not adding his own point of view.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{bari}}@KJ{{island}}ha totemo kireida<strong>sou desu</strong>.}}
+    @HI{{@KT{{bari}}@KJ{{island}}ha totemo kireida@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I hear that Bali is very beautiful.
@@ -57,7 +57,7 @@ To specify the source of the information, use N @HI{{ni yoruto}}
 </p>
 
 <p>
-In the @HI{{<strong>sou desu</strong>}} construction the source of the information may be 3rd hand. When 
+In the @HI{{@EM{{sou desu}}}} construction the source of the information may be 3rd hand. When 
 @HI{{to @KJ{{say}}tte imashita}} is used the source of the information is always whoever is said to
 have spoken.
 </p>

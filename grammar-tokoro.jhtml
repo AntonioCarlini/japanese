@@ -14,9 +14,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
-<li> @Vte{{}} @HI{{iru}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
-<li> @Vta{{}} <strong>@HI{{tokoro}}</strong> @HI{{desu}}
+<li> @Vru{{}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
+<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
+<li> @Vta{{}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,15 +27,15 @@ sentence patterns above, it means a specific point in time during the course of 
 </p>
 
 <p>
-In @Vru{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action is about to start.
+In @Vru{{}} @EM{{@HI{{tokoro}}}} the meaning is that the action is about to start.
 </p>
 
 <p>
-In @Vte{{}} @HI{{iru <strong>tokoro</strong>}} the meaning is that the action is happening now.
+In @Vte{{}} @HI{{iru @EM{{tokoro}}}} the meaning is that the action is happening now.
 </p>
 
 <p>
-In @Vte{{}} <strong>@HI{{tokoro}}</strong> the meaning is that the action has just been completed. It can also indicate
+In @Vte{{}} @EM{{@HI{{tokoro}}}} the meaning is that the action has just been completed. It can also indicate
 the conclusion of a ceratin action.
 </p>
 
@@ -48,7 +48,7 @@ the conclusion of a ceratin action.
     A: @HI{{@KJ{{daytime}}go@KJ{{meal}}ha mou @KJ{{eat}}mashitaka.}}
   </td> </tr>
   <tr class="jp"> <td>
-    B: @HI{{iie, korekara @KJ{{eat}}beru <strong>tokoro</strong>desu.}}
+    B: @HI{{iie, korekara @KJ{{eat}}beru @EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     A: Have you had lunch yet?
@@ -63,7 +63,7 @@ the conclusion of a ceratin action.
     A: @HI{{@KJ{{happenstance^hinder}}no @KJ{{meadow^cause}}ga wakarimashitaka.}}
   </td> </tr>
   <tr class="jp"> <td>
-    B: @HI{{iie, @KJ{{now tune}}bete iru <strong>tokoro</strong>desu.}}
+    B: @HI{{iie, @KJ{{now tune}}bete iru @EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     A: Do you know what caused the breakdown?
@@ -75,7 +75,7 @@ the conclusion of a ceratin action.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{tatta@KJ{{now}} @KT{{basu}}ga @KJ{{exit}}ta <strong>tokoro</strong>desu.}}
+    @HI{{tatta@KJ{{now}} @KT{{basu}}ga @KJ{{exit}}ta @EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     The bus left just now.
@@ -84,7 +84,7 @@ the conclusion of a ceratin action.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{depa-to}}ni@KJ{{question}}i@KJ{{fit}}wasetemita<strong>tokoro</strong>,sono@KJ{{goods^thing}}ha
+    @HI{{@KT{{depa-to}}ni@KJ{{question}}i@KJ{{fit}}wasetemita@EM{{tokoro}},sono@KJ{{goods^thing}}ha
     @KJ{{sell}}ri@KJ{{cut}}redatta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -97,7 +97,7 @@ the conclusion of a ceratin action.
 <h2> Notes </h2>
 
 <p>
-@HI{{<strong>tokoro</strong>desu}} is a noun sentence and can be used in various structures.
+@HI{{@EM{{tokoro}}desu}} is a noun sentence and can be used in various structures.
 </p>
 
 <h2> References </h2>

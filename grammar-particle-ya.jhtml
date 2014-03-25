@@ -14,22 +14,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{ya}}</strong> ... 
-<li> @Vru{{}} <strong>@HI{{ya}}</strong> @HI{{ina}} <strong>@HI{{ya}}</strong>
+<li> @N{{}} @EM{{@HI{{ya}}}} ... 
+<li> @Vru{{}} @EM{{@HI{{ya}}}} @HI{{ina}} @EM{{@HI{{ya}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ya}}</strong> is used to join nouns in a non-exhaustive list. Its use implies that the nouns
-listed are some examples taken from a larger list. In this usage <strong>@HI{{ya}}</strong> is
-often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compare <strong>@HI{{ya}}</strong> 
+@EM{{@HI{{ya}}}} is used to join nouns in a non-exhaustive list. Its use implies that the nouns
+listed are some examples taken from a larger list. In this usage @EM{{@HI{{ya}}}} is
+often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compare @EM{{@HI{{ya}}}} 
 with <a href="grammar-particle-to.html">@HI{{to}}</a>, which can be used to provide an exhaustive listing
 of nouns.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{te-buru}}no@KJ{{above}}ni,osushi<strong>ya</strong>yakitori<strong>ya</strong>
+      @HI{{@KT{{te-buru}}no@KJ{{above}}ni,osushi@EM{{ya}}yakitori@EM{{ya}}
 tenpuranadogaarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -39,12 +39,12 @@ tenpuranadogaarimasu.}}
 </p>
 
 <p>
-The idomatic expression <strong>@HI{{ya}}</strong> @HI{{ina}} <strong>@HI{{ya}}</strong>
+The idomatic expression @EM{{@HI{{ya}}}} @HI{{ina}} @EM{{@HI{{ya}}}}
 means "as soon as" or "no sooner had".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ofuroni@KJ{{enter}}ru<strong>ya</strong> @HI{{ina}} <strong>ya</strong>,
+      @HI{{ofuroni@KJ{{enter}}ru@EM{{ya}} @HI{{ina}} @EM{{ya}},
       @KJ{{electricity^tale}}ga@KJ{{chirp}}tta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -54,11 +54,11 @@ means "as soon as" or "no sooner had".
 </p>
 
 <p>
-<strong>@HI{{ya}}</strong> cannot be used to combine predicates, only nouns or noun phrases.
+@EM{{@HI{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
 </p>
 
 <p>
-<strong>@HI{{ya}}</strong> inexhaustively lists items that are related to a specific time and place, whereas
+@EM{{@HI{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
 <a href="grammar-particle-toka.html">@HI{{toka}}</a> inexhaustively lists items in a more general fashion.
 </p>
 

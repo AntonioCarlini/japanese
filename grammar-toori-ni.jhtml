@@ -14,9 +14,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{toori ni}}</strong>,
-<li> @Vta{{}} <strong>@HI{{toori ni}}</strong>,
-<li> @N{{}} @HI{{no}} <strong>@HI{{toori ni}}</strong>,
+<li> @Vru{{}} @EM{{@HI{{toori ni}}}},
+<li> @Vta{{}} @EM{{@HI{{toori ni}}}},
+<li> @N{{}} @HI{{no}} @EM{{@HI{{toori ni}}}},
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +31,7 @@ These sentence patterns mean to copy exactly in words or actions whatever V desc
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ga yaru <strong>toori ni</strong>, yatte kudasai.}}
+      @HI{{@KJ{{private}}ga yaru @EM{{toori ni}}, yatte kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please do as I do.
@@ -40,7 +40,7 @@ These sentence patterns mean to copy exactly in words or actions whatever V desc
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{see}}ta<strong>toori ni</strong>, @KJ{{tale}}shite kudasai.}}
+      @HI{{@KJ{{see}}ta@EM{{toori ni}}, @KJ{{tale}}shite kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please tell us what you saw as it was.
@@ -49,7 +49,7 @@ These sentence patterns mean to copy exactly in words or actions whatever V desc
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{line}}no<strong>toori ni</strong>, @KJ{{paper}}wo@KJ{{cut}}tte kudasai.}}
+      @HI{{@KJ{{line}}no@EM{{toori ni}}, @KJ{{paper}}wo@KJ{{cut}}tte kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please cut the paper folowing the line.

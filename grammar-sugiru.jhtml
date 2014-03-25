@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}} <strong>@HI{{sugiru}}</strong>
-<li> @Aistem{{}} <strong>@HI{{sugiru}}</strong>
-<li> @Anastem{{}} <strong>@HI{{sugiru}}</strong>
+<li> @Vmasustem{{}} @EM{{@HI{{sugiru}}}}
+<li> @Aistem{{}} @EM{{@HI{{sugiru}}}}
+<li> @Anastem{{}} @EM{{@HI{{sugiru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{sugiru}}</strong> is an auxiliary that adds the meaning of "too much" or "to excess".
+@EM{{@HI{{sugiru}}}} is an auxiliary that adds the meaning of "too much" or "to excess".
 It is usually used to indicate an undesirable state.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{yuube o@KJ{{sake}}wo @KJ{{drink}}mi<strong>sugimashita</strong>.}}
+      @HI{{yuube o@KJ{{sake}}wo @KJ{{drink}}mi@EM{{sugimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I drank too much last night.
@@ -40,7 +40,7 @@ The "for" in "too ~ for something" is formed by @HI{{ni ha}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KT{{apa-to}}ha @KJ{{private^accomplished}} ni ha @KJ{{tall}}<strong>sugimasu</strong>.}}
+      @HI{{kono @KT{{apa-to}}ha @KJ{{private^accomplished}} ni ha @KJ{{tall}}@EM{{sugimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       This apartment is too expensive for us.
@@ -51,15 +51,15 @@ The "for" in "too ~ for something" is formed by @HI{{ni ha}}.
 <h2> Notes </h2>
 
 <p>
-@HI{{ii}} combines with @HI{{<strong>sugiru}}</strong> to form @HI{{<strong>yosugiru</strong>}}.
+@HI{{ii}} combines with @HI{{@EM{{sugiru}}}} to form @HI{{@EM{{yosugiru}}}}.
 </p>
 
 <p>
-The negative @HI{{nai}} combines with @HI{{<strong>sugiru</strong>}} to form @HI{{<strong>nanasugiru</strong>}}.
+The negative @HI{{nai}} combines with @HI{{@EM{{sugiru}}}} to form @HI{{@EM{{nanasugiru}}}}.
 </p>
 
 <p>
-<strong>@HI{{sugiru}}</strong> is an @1D{{}} verb.
+@EM{{@HI{{sugiru}}}} is an @1D{{}} verb.
 </p>
 
 <h2> References </h2>

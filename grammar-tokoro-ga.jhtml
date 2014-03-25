@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} <strong>@HI{{tokoroga}}</strong>
+<li> @Vta{{}} @EM{{@HI{{tokoroga}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,7 +35,7 @@ it may be good or bad).
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{ano@KJ{{person}}ni@KJ{{meeting}}ini@KJ{{going}}tta<strong>tokoroga</strong>,@KJ{{meeting^deliberation^in}}
+    @HI{{ano@KJ{{person}}ni@KJ{{meeting}}ini@KJ{{going}}tta@EM{{tokoroga}},@KJ{{meeting^deliberation^in}}
     de@KJ{{meeting}}enakatta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -45,7 +45,7 @@ it may be good or bad).
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{amari@KJ{{period^wait}}shitenakatta<strong>tokoroga</strong>,sono@KT{{konsa-to}}hasubarashikatta.}}
+    @HI{{amari@KJ{{period^wait}}shitenakatta@EM{{tokoroga}},sono@KT{{konsa-to}}hasubarashikatta.}}
   </td> </tr>
   <tr class="en"> <td>
     Although I hadn't been expecting much, the concert was fabulous.

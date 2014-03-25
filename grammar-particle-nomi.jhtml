@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{nomi}}</strong>
-<li> <strong>@HI{{nomi}}</strong> @HI{{narazu}} ... @HI{{mo}}
+<li> @N{{}}@EM{{@HI{{nomi}}}}
+<li> @EM{{@HI{{nomi}}}} @HI{{narazu}} ... @HI{{mo}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nomi}}</strong> follows a noun and means that there is nothing other than  the thing stated: "only". In this usage
-<strong>@HI{{nomi}}</strong> has the same meaning as <a href="grammar-particle-dake.html">@HI{{dake}}</a>, but it is used more in
-writing than in the spoken language. <strong>@HI{{nomi}}</strong> can be followed by <a href="graamar-particle-shika.html">@HI{{shika}}<a/>.
+@EM{{@HI{{nomi}}}} follows a noun and means that there is nothing other than  the thing stated: "only". In this usage
+@EM{{@HI{{nomi}}}} has the same meaning as <a href="grammar-particle-dake.html">@HI{{dake}}</a>, but it is used more in
+writing than in the spoken language. @EM{{@HI{{nomi}}}} can be followed by <a href="graamar-particle-shika.html">@HI{{shika}}<a/>.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{by*means*of^in*front}},kono@KJ{{large^study}}niha@KJ{{make^sex}}<strong>@HI{{nomi}}</strong>shika@KJ{{enter}}renakatta.}}
+      @HI{{@KJ{{by*means*of^in*front}},kono@KJ{{large^study}}niha@KJ{{make^sex}}@EM{{@HI{{nomi}}}}shika@KJ{{enter}}renakatta.}}
   </td> </tr>
   <tr class="en"> <td>
       In the past only men were able to enter this univeristy.
@@ -36,11 +36,11 @@ writing than in the spoken language. <strong>@HI{{nomi}}</strong> can be followe
 </p>
 
 <p>
-"A @HI{{<strong>nomi</strong>narazu}}B@HI{{mo}}" is a form used to mean "not only ... but also ...".
+"A @HI{{@EM{{nomi}}narazu}}B@HI{{mo}}" is a form used to mean "not only ... but also ...".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{shixe-kusupia}}ha@KJ{{frolic^bend}}<strong>nomi</strong>narazu@KJ{{poem}}motakusan@KJ{{write}}ita.}}
+      @HI{{@KT{{shixe-kusupia}}ha@KJ{{frolic^bend}}@EM{{nomi}}narazu@KJ{{poem}}motakusan@KJ{{write}}ita.}}
   </td> </tr>
   <tr class="en"> <td>
       Shakespeare wrote not only plays but many poems as well.

@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{ppoi}}</strong>
-<li> @Aistem{{}} <strong>@HI{{ppoi}}</strong>
-<li> @Anastem{{}} <strong>@HI{{ppoi}}</strong>
-<li> @Vmasustem{{}} <strong>@HI{{ppoi}}</strong>
+<li> @N{{}} @EM{{@HI{{ppoi}}}}
+<li> @Aistem{{}} @EM{{@HI{{ppoi}}}}
+<li> @Anastem{{}} @EM{{@HI{{ppoi}}}}
+<li> @Vmasustem{{}} @EM{{@HI{{ppoi}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ppoi}}</strong> is used as a suffix to indicate that something has a distinctive characteristic of an attribute
+@EM{{@HI{{ppoi}}}} is used as a suffix to indicate that something has a distinctive characteristic of an attribute
 identified by the noun, adjective or verb stem.
 </p>
 
@@ -33,7 +33,7 @@ identified by the noun, adjective or verb stem.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-    @HI{{konnna@KJ{{water}}<strong>ppoi</strong>@KJ{{sake}}, @KJ{{drink}}naizo.}}
+    @HI{{konnna@KJ{{water}}@EM{{ppoi}}@KJ{{sake}}, @KJ{{drink}}naizo.}}
   </td> </tr>
   <tr class="en"> <td>
       Who can drink such watery sake?
@@ -42,7 +42,7 @@ identified by the noun, adjective or verb stem.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{anata, konnna@KJ{{relax}}<strong>ppoi</strong>@KT{{sofua}}wo@KJ{{buy}}ttekitesousuruno?}}
+      @HI{{anata, konnna@KJ{{relax}}@EM{{ppoi}}@KT{{sofua}}wo@KJ{{buy}}ttekitesousuruno?}}
   </td> </tr>
   <tr class="en"> <td>
       What are you going to do with that cheapish sofa that yo ubought?
@@ -51,7 +51,7 @@ identified by the noun, adjective or verb stem.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{juutanha @KJ{{dirty}}re<strong>ppoi</strong>kara, @KJ{{private}}ha@KJ{{use}}tteimasen.}}
+      @HI{{juutanha @KJ{{dirty}}re@EM{{ppoi}}kara, @KJ{{private}}ha@KJ{{use}}tteimasen.}}
   </td> </tr>
   <tr class="en"> <td>
       Carpte gets dirty easily, so I'm not using it.
@@ -62,7 +62,7 @@ identified by the noun, adjective or verb stem.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{ppoi}}</strong> conjugates as an @HI{{i}}-adjective.
+@EM{{@HI{{ppoi}}}} conjugates as an @HI{{i}}-adjective.
 </p>
 
 <p>

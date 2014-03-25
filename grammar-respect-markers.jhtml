@@ -14,24 +14,24 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>name or noun</em><strong>@HI{{sann}}</strong>
-<li> <em>name</em><strong>@HI{{kunn}}</strong>
-<li> <em>name or noun</em><strong>@HI{{sama}}</strong>
-<li> <strong>@HI{{o}}</strong>@N{{}}
-<li> <strong>@HI{{go}}</strong>@N{{}}
+<li> <em>name or noun</em>@EM{{@HI{{sann}}}}
+<li> <em>name</em>@EM{{@HI{{kunn}}}}
+<li> <em>name or noun</em>@EM{{@HI{{sama}}}}
+<li> @EM{{@HI{{o}}}}@N{{}}
+<li> @EM{{@HI{{go}}}}@N{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<a name="san"><strong>@HI{{sann}}</strong></a> is added as a suffix to the name of the listener or to a third person, or to nouns
+<a name="san">@EM{{@HI{{sann}}}}</a> is added as a suffix to the name of the listener or to a third person, or to nouns
 describing these, to show the speaker's respect for the person. It is <em>never</em> used by the speaker when
 referring to himself. Note that in Japanese speech the pronoun for "you", @HI{{anata}}, is not often used;
 instead refer to the listener by using their family name followed by @HI{{sann}} or by an appropriate title.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{direction}}ha @KT{{mira-}}<strong>sann</strong>desu.}}
+      @HI{{ano@KJ{{direction}}ha @KT{{mira-}}@EM{{sann}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       That's Mr. Miller.
@@ -40,22 +40,22 @@ instead refer to the listener by using their family name followed by @HI{{sann}}
 </p>
 
 <p>
-<a name="kun"><strong>@HI{{kunn}}</strong></a> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
+<a name="kun">@EM{{@HI{{kunn}}}}</a> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
 of a person of lower rank. This suffix is often used in schools and at work.
 </p>
 
 <p>
-<a name="sama"><strong>@HI{{sama}}</strong></a> is a suffix which indicates a high degree of politeness by the speaker towards another
+<a name="sama">@EM{{@HI{{sama}}}}</a> is a suffix which indicates a high degree of politeness by the speaker towards another
 individual. The original meaning was "appearance" and the high degree of politeness comes about because this allows the speaker to
 refer to a superior indirectly.
 <p>
 
 <p>
-<a name="o"><strong>@HI{{o}}</strong></a> can be added to some words in order to show respect for another person.
+<a name="o">@EM{{@HI{{o}}}}</a> can be added to some words in order to show respect for another person.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>o</strong>@KJ{{country}}hadochiradesuka.}}
+      @HI{{@EM{{o}}@KJ{{country}}hadochiradesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Where are you from?
@@ -64,12 +64,12 @@ refer to a superior indirectly.
 </p>
 
 <p>
-<strong>@HI{{o}}</strong> cannot be used with nouns or adjectives that already begin with @HI{{o}}, with loan words
+@EM{{@HI{{o}}}} cannot be used with nouns or adjectives that already begin with @HI{{o}}, with loan words
 or with foreign words. There are a very few exceptions to this rule.
 </p>
 
 <p>
-<a name="go"><strong>@HI{{go}}</strong></a> can be added to some words in order to show respect for another person.
+<a name="go">@EM{{@HI{{go}}}}</a> can be added to some words in order to show respect for another person.
 </p>
 
 <h2> Notes </h2>

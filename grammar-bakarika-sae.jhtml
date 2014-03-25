@@ -15,23 +15,23 @@
 
 <p>
 <ol>
-<li> @Vplain{{}} <strong>@HI{{bakari ka}} ... (@HI{{sae}})</strong>
-<li> @Ai{{}} <strong>@HI{{bakari ka}} ... (@HI{{sae}})</strong>
-<li> @Ana{{}} <strong>@HI{{bakari ka}} ... (@HI{{sae}})</strong>
-<li> @N{{}} <strong>@HI{{bakari ka}} ... (@HI{{sae}})</strong>
+<li> @Vplain{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
+<li> @Ai{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
+<li> @Ana{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
+<li> @N{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
 </ol>
 </p>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{bakari ka}} ... @HI{{sae}}</strong> is a compound particle which carries the meaning of "not only ... but also".
-The item that precedes <strong>@HI{{bakari ka}}</strong> is something that is normally to be expected and whatever follows
+@EM{{@HI{{bakari ka}} ... @HI{{sae}}}} is a compound particle which carries the meaning of "not only ... but also".
+The item that precedes @EM{{@HI{{bakari ka}}}} is something that is normally to be expected and whatever follows
 is something that normally would be unexpected.
 </p>
 
 <p>
-In speech <strong>@HI{{sae}}</strong> can be replaced by @HI{{mo}}.
+In speech @EM{{@HI{{sae}}}} can be replaced by @HI{{mo}}.
 </p>
 
 <h2> Examples </h2>
@@ -40,7 +40,7 @@ In speech <strong>@HI{{sae}}</strong> can be replaced by @HI{{mo}}.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{day^book}}deha @KJ{{child^submit}}<strong>bakarika</strong>@KJ{{large^person}}<strong>sae</strong>@KJ{{cartoon^brush-stroke}}wo@KJ{{read}}ndeiru.}}
+    @HI{{@KJ{{day^book}}deha @KJ{{child^submit}}@EM{{bakarika}}@KJ{{large^person}}@EM{{sae}}@KJ{{cartoon^brush-stroke}}wo@KJ{{read}}ndeiru.}}
   </td> </tr>
   <tr class="en"> <td>
     In Japan not only children but even adults are reading comic books.
@@ -49,7 +49,7 @@ In speech <strong>@HI{{sae}}</strong> can be replaced by @HI{{mo}}.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{ano@KJ{{person}}ha@KJ{{picture}}wo@KJ{{see}}te@KJ{{music}}shimu<strong>bakarika</strong>,@KJ{{oneself^part}}demo@KJ{{picture}}wo@KJ{{sketch}}ku.}}
+    @HI{{ano@KJ{{person}}ha@KJ{{picture}}wo@KJ{{see}}te@KJ{{music}}shimu@EM{{bakarika}},@KJ{{oneself^part}}demo@KJ{{picture}}wo@KJ{{sketch}}ku.}}
   </td> </tr>
   <tr class="en"> <td>
     He not only enjoys looking at pictures, he also draws them.
@@ -58,7 +58,7 @@ In speech <strong>@HI{{sae}}</strong> can be replaced by @HI{{mo}}.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{father}}ha@KJ{{eat}}berunoga@KJ{{fond}}kina<strong>bakarika</strong>@KJ{{fee^logic}}wosurunomo@KJ{{large^fond}}kidesu.}}
+    @HI{{@KJ{{father}}ha@KJ{{eat}}berunoga@KJ{{fond}}kina@EM{{bakarika}}@KJ{{fee^logic}}wosurunomo@KJ{{large^fond}}kidesu.}}
   </td> </tr>
   <tr class="en"> <td>
     My father not only loves to eat, he also loves to cook.
@@ -67,8 +67,8 @@ In speech <strong>@HI{{sae}}</strong> can be replaced by @HI{{mo}}.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{amerika}}deha@KJ{{large^study^life}}<strong>bakarika</strong>,@KJ{{in^study^life}},
-    @KJ{{tall^mingle^life}}<strong>sae</strong>@KJ{{day^book^word}}wo@KJ{{exertion^strong}}shiteiru.}}
+    @HI{{@KT{{amerika}}deha@KJ{{large^study^life}}@EM{{bakarika}},@KJ{{in^study^life}},
+    @KJ{{tall^mingle^life}}@EM{{sae}}@KJ{{day^book^word}}wo@KJ{{exertion^strong}}shiteiru.}}
   </td> </tr>
   <tr class="en"> <td>
     In America not only college students but even junior and senior high school students are studying Japanese.

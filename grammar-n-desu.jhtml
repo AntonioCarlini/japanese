@@ -15,10 +15,10 @@
 
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{ndesu}}</strong>
-<li> @Ai{{}} <strong>@HI{{ndesu}}</strong>
-<li> @Ana{{}} <strong>@HI{{ndesu}}</strong>
-<li> @N{{}}@HI{{na}} <strong>@HI{{ndesu}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{ndesu}}}}
+<li> @Ai{{}} @EM{{@HI{{ndesu}}}}
+<li> @Ana{{}} @EM{{@HI{{ndesu}}}}
+<li> @N{{}}@HI{{na}} @EM{{@HI{{ndesu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,7 +26,7 @@
 <h3> Asking for an explanation </h3>
 
 <p>
-When asking for an explanation, the speaker ends the sentence with <strong>@HI{{ndesuka}}</strong>.
+When asking for an explanation, the speaker ends the sentence with @EM{{@HI{{ndesuka}}}}.
 This form is used
 when the speaker:
 <ol>
@@ -40,7 +40,7 @@ when the speaker:
 <table class="sentence">
   <tr class="jp"> <td>
       @KJ{{transit}}@KJ{{environs}}@HI{{sanha}} @KJ{{time}}@KJ{{noma}} @KJ{{large}}@KJ{{heights}}@KJ{{valve}}
-      @KJ{{use}}@HI{{imasene.}} @KJ{{large}}@KJ{{heights}}@HI{{ni}} @KJ{{dwell}}@HI{{nde}} @HI{{ita<strong>ndesuka</strong>.}}
+      @KJ{{use}}@HI{{imasene.}} @KJ{{large}}@KJ{{heights}}@HI{{ni}} @KJ{{dwell}}@HI{{nde}} @HI{{ita@EM{{ndesuka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Ms. Watanabe, you sometimes speak Osaka dialect. Have you lived in Osaka?
@@ -50,7 +50,7 @@ when the speaker:
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{omoshiroi}}@KT{{dezain}}@HI{{no}}@KJ{{shoes}}@HI{{desune.}}
-      @HI{{dokode}}@KJ{{buy}}@HI{{tta<strong>ndesuka</strong>.}}
+      @HI{{dokode}}@KJ{{buy}}@HI{{tta@EM{{ndesuka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The design of your shoes is interesting. Where did you buy them?
@@ -62,7 +62,7 @@ when the speaker:
 <h3> Offering an explanation </h3>
 
 <p>
-When the speaker wishes to offer an explanation, he ends the sentence with <strong>@HI{{ndesu}}</strong>.
+When the speaker wishes to offer an explanation, he ends the sentence with @EM{{@HI{{ndesu}}}}.
 This form is used
 when the speaker:
 
@@ -76,7 +76,7 @@ to state a reason or cause in the reply
 
 <h3> Introducing a topic </h3>
 
-<strong>@HI{{ndesuga}}</strong> is used to introduce a topic.
+@EM{{@HI{{ndesuga}}}} is used to introduce a topic.
 It is often followed by a request, an invitation or an
 expression seeking permission. However, the trailing clause can be omitted.
 
@@ -112,12 +112,12 @@ The following pattern may be used to state a result that has arisen because of a
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{ndesuka}}</strong> can contain the speaker's surprise or suspicion or strong curiosity
+@EM{{@HI{{ndesuka}}}} can contain the speaker's surprise or suspicion or strong curiosity
 and may therefore cause offence. It should be used with care.
 </p>
 
 <p>
-<strong>@HI{{ndesu}}</strong> is not used to state a simple fact.
+@EM{{@HI{{ndesu}}}} is not used to state a simple fact.
 </p>
 
 <h2> References </h2>

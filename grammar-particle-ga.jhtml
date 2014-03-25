@@ -20,17 +20,17 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ga}}</strong> is a particle which indicates the subject, or sometimes the object, of a verb
+@EM{{@HI{{ga}}}} is a particle which indicates the subject, or sometimes the object, of a verb
 or adjective. For uses of @HI{{ga}} as a conjunction, see <a href="grammar-ga-conjunction.html">here</a>.
 </p>
 
 <p>
-When a subject is first introduced it is marked by <strong>@HI{{ga}}</strong>, unless it is the topic, in which
+When a subject is first introduced it is marked by @EM{{@HI{{ga}}}}, unless it is the topic, in which
 case it is marked by @HI{{ha}}. Consider the following typical opening for a folktale.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{once*upon*a*time^noma^one^person}}noojisann<strong>ga</strong>@KJ{{dwell}}ndeimashita.}}
+      @HI{{@KJ{{once*upon*a*time^noma^one^person}}noojisann@EM{{ga}}@KJ{{dwell}}ndeimashita.}}
   </td> </tr>
   <tr class="jp"> <td>
       @HI{{ojisanhatotemo@KJ{{poverty^destitution}}deshita.}}
@@ -43,18 +43,18 @@ case it is marked by @HI{{ha}}. Consider the following typical opening for a fol
   </td> </tr>
 </table>
 
-In the first sentence the old man is the subject but not the topic, and so is marked by <strong>@HI{{ga}}</strong>.
+In the first sentence the old man is the subject but not the topic, and so is marked by @EM{{@HI{{ga}}}}.
 In the second sentence he is presented as the topic and further information about him is added; in this
 sentence he is marked by @HI{{ha}}.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}.
-If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</strong>.
+@EM{{@HI{{ga}}}} is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}.
+If a contrast is being presented then @HI{{ha}} can replaced @EM{{@HI{{ga}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{asoko ni @KJ{{private}}no@KT{{bo-rupenn}}<strong>ga</strong>arimasuka.}}
+      @HI{{asoko ni @KJ{{private}}no@KT{{bo-rupenn}}@EM{{ga}}arimasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Is that my ballpoint pen over there?
@@ -67,11 +67,11 @@ If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of the predicate.
+@EM{{@HI{{ga}}}} indicates the subject of the predicate.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{asoko ni @KJ{{cherry}}<strong>ga</strong> @KJ{{blossom}}teimasu.}}
+      @HI{{asoko ni @KJ{{cherry}}@EM{{ga}} @KJ{{blossom}}teimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Over there the cherry trees are blooming.
@@ -80,11 +80,11 @@ If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of an intransitive verb.
+@EM{{@HI{{ga}}}} indicates the subject of an intransitive verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{door}}<strong>ga</strong> @KJ{{open}}kimashita.}}
+      @HI{{@KJ{{door}}@EM{{ga}} @KJ{{open}}kimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The door opened.
@@ -93,11 +93,11 @@ If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of the sentence when new, previously unknown, information is presented.
+@EM{{@HI{{ga}}}} indicates the subject of the sentence when new, previously unknown, information is presented.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kochira<strong>ga</strong> @KJ{{mountain^rice*field}}sann desu.}}
+      @HI{{kochira@EM{{ga}} @KJ{{mountain^rice*field}}sann desu.}}
   </td> </tr>
   <tr class="en"> <td>
       This is Mr. Yamada. <em>(a personal introduction)</em>
@@ -106,14 +106,14 @@ If a contrast is being presented then @HI{{ha}} can replaced <strong>@HI{{ga}}</
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> is used with interrogative words in questions, both in general questions and when asking for
+@EM{{@HI{{ga}}}} is used with interrogative words in questions, both in general questions and when asking for
 a choice.
 
 <ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{dare<strong>ga</strong>@KJ{{one^turn^early}}kukimashitaka.}}
+      @HI{{dare@EM{{ga}}@KJ{{one^turn^early}}kukimashitaka.}}
   </td> </tr>
   <tr class="en"> <td>
       Who arrived first?
@@ -123,7 +123,7 @@ a choice.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{suhitotenpuratodochira<strong>ga</strong>@KJ{{fond}}kidesuka.}}
+      @HI{{suhitotenpuratodochira@EM{{ga}}@KJ{{fond}}kidesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Which do you like better, sushi or tempura?
@@ -131,12 +131,12 @@ a choice.
 </table>
 </ol>
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
+@EM{{@HI{{ga}}}} indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
 that @HI{{no}} can often perform this function too.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^week^private}}<strong>ga</strong>@KJ{{see}}ta@KJ{{reflect^brush-stroke}}hatsumaranakatta.}}
+      @HI{{@KJ{{before^week^private}}@EM{{ga}}@KJ{{see}}ta@KJ{{reflect^brush-stroke}}hatsumaranakatta.}}
   </td> </tr>
   <tr class="en"> <td>
       The film I saw last week was broing.
@@ -145,11 +145,11 @@ that @HI{{no}} can often perform this function too.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of a clause ending in @HI{{ka}}.
+@EM{{@HI{{ga}}}} indicates the subject of a clause ending in @HI{{ka}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{naze@KJ{{he}}<strong>ga</strong>sonnnakotowoyattaka, wakarimasenn.}}
+      @HI{{naze@KJ{{he}}@EM{{ga}}sonnnakotowoyattaka, wakarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't know why he did something like that.
@@ -158,12 +158,12 @@ that @HI{{no}} can often perform this function too.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the subject of a subordinate or conditional clause when it differs from the
+@EM{{@HI{{ga}}}} indicates the subject of a subordinate or conditional clause when it differs from the
 subject of the main clause.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mother}}<strong>ga</strong>@KJ{{day^book}}nikuru@KJ{{in*front}}ni, kono@KJ{{section^roof}}wokireini
+      @HI{{@KJ{{mother}}@EM{{ga}}@KJ{{day^book}}nikuru@KJ{{in*front}}ni, kono@KJ{{section^roof}}wokireini
       @KJ{{sweep^exclude}}shinakereba naranai.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -173,12 +173,12 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
+@EM{{@HI{{ga}}}} indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
 <a href="grammar-verb-use-of-potential.html">potential</a> form of verbs.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{africa^section}}sanha @KT{{gorufu}}<strong>ga</strong> dekimasu.}}
+      @HI{{@KJ{{africa^section}}sanha @KT{{gorufu}}@EM{{ga}} dekimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Abe can play golf.
@@ -187,12 +187,12 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
+@EM{{@HI{{ga}}}} indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
 @HI{{suru}} in some cases.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kokokara@KJ{{wealth^gentleman^mountain}}<strong>ga</strong>@KJ{{see}}emasu.}}
+      @HI{{kokokara@KJ{{wealth^gentleman^mountain}}@EM{{ga}}@KJ{{see}}emasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mt. Fuji can be seen from here.
@@ -201,11 +201,11 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of necessity.
+@EM{{@HI{{ga}}}} indicates the object of verbs of necessity.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}hao@KJ{{gold}}<strong>ga</strong>@KJ{{need}}ru.}}
+      @HI{{@KJ{{private}}hao@KJ{{gold}}@EM{{ga}}@KJ{{need}}ru.}}
   </td> </tr>
   <tr class="en"> <td>
       I need money.
@@ -214,11 +214,11 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of adjectives of desire.
+@EM{{@HI{{ga}}}} indicates the object of adjectives of desire.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{time^interval}}too@KJ{{gold}}<strong>ga</strong>@KJ{{longing}}shii.}}
+      @HI{{@KJ{{time^interval}}too@KJ{{gold}}@EM{{ga}}@KJ{{longing}}shii.}}
   </td> </tr>
   <tr class="en"> <td>
       I want time and money.
@@ -227,11 +227,11 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs and adjectives of emotion.
+@EM{{@HI{{ga}}}} indicates the object of verbs and adjectives of emotion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{jonn}}sanhanattou<strong>ga</strong>@KJ{{dislike}}idesu.}}
+      @HI{{@KT{{jonn}}sanhanattou@EM{{ga}}@KJ{{dislike}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       John doesn't like @HI{{nattou}}.
@@ -240,11 +240,11 @@ subject of the main clause.
 </p>
 
 <p>
-<strong>@HI{{ga}}</strong> indicates the object of verbs of ability.
+@EM{{@HI{{ga}}}} indicates the object of verbs of ability.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{new}}shii@KJ{{neck^inter-}}ha,@KJ{{haiku^phrase}}<strong>ga</strong>@KJ{{above^hand}}dasoudesu.}}
+      @HI{{@KJ{{new}}shii@KJ{{neck^inter-}}ha,@KJ{{haiku^phrase}}@EM{{ga}}@KJ{{above^hand}}dasoudesu.}}
   </td> </tr>
   <tr class="en"> <td>
       The new prime minister is said to be good at haiku.

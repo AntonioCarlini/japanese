@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S{{}} <strong>@HI{{yo}}</strong>.
+<li> @S{{}} @EM{{@HI{{yo}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{yo}}</strong> is a sentence ending particle.
+@EM{{@HI{{yo}}}} is a sentence ending particle.
 </p>
 
 <p>
-<strong>@HI{{yo}}</strong> can urge a course of action.
+@EM{{@HI{{yo}}}} can urge a course of action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{unfold^perusal^meeting}}he@KJ{{going}}ttemimashou<strong>ne</strong>.}}
+      @HI{{ano@KJ{{unfold^perusal^meeting}}he@KJ{{going}}ttemimashou@EM{{ne}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Come on, lets' go to that exhibition.
@@ -37,11 +37,11 @@
 </p>
 
 <p>
-<strong>@HI{{yo}}</strong> can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
+@EM{{@HI{{yo}}}} can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{house}}nimo@KJ{{come}}tekudasai<strong>yo</strong>.}}
+      @HI{{@KJ{{private}}no@KJ{{house}}nimo@KJ{{come}}tekudasai@EM{{yo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Come to <em>my</em> house too.
@@ -50,11 +50,11 @@
 </p>
 
 <p>
-<strong>@HI{{yo}}</strong> can indicate that the speaker feels certain of what he is saying.
+@EM{{@HI{{yo}}}} can indicate that the speaker feels certain of what he is saying.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^day}}ha@KJ{{gold^weekday^day}}desu<strong>yo</strong>.}}
+      @HI{{@KJ{{now^day}}ha@KJ{{gold^weekday^day}}desu@EM{{yo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Today is Friday, you know?
@@ -63,11 +63,11 @@
 </p>
 
 <p>
-<strong>@HI{{yo}}</strong> can indicate scolding or contempt.
+@EM{{@HI{{yo}}}} can indicate scolding or contempt.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}ha@KJ{{attend^matter}}ha dekinaiwa<strong>yo</strong>.}}
+      @HI{{ano@KJ{{person}}ha@KJ{{attend^matter}}ha dekinaiwa@EM{{yo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       He just can't do the work!
@@ -78,7 +78,7 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{yo}}</strong> generally indicates that the speaker is convinced of something. It can be an assertion by the speaker
+@EM{{@HI{{yo}}}} generally indicates that the speaker is convinced of something. It can be an assertion by the speaker
 of something that he assumes is not known to the listener.
 </p>
 

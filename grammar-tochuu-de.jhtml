@@ -14,14 +14,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@KJ{{route^in}}@HI{{de}}</strong>
-<li> @N{{}} <strong>@KJ{{route^in}}@HI{{de}}</strong>
+<li> @Vru{{}} @EM{{@KJ{{route^in}}@HI{{de}}}}
+<li> @N{{}} @EM{{@KJ{{route^in}}@HI{{de}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@KJ{{route^in}}@HI{{de}}</strong> means "en route" or "during".
+@EM{{@KJ{{route^in}}@HI{{de}}}} means "en route" or "during".
 </p>
 
 <h2> Examples </h2>
@@ -30,7 +30,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{reality}}ha @KJ{{come}}ru <strong>@KJ{{route^in}}@HI{{de}}</strong> @KJ{{matter^happenstance}}ga
+      @HI{{@KJ{{reality}}ha @KJ{{come}}ru @EM{{@KJ{{route^in}}@HI{{de}}}} @KJ{{matter^happenstance}}ga
       atte, @KT{{basu}}ga @KJ{{slow}}rete shimattandesu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -40,7 +40,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{marasonn}}no <strong>@KJ{{route^in}}@HI{{de}}</strong> @KJ{{spirit^part}}ga
+      @HI{{@KT{{marasonn}}no @EM{{@KJ{{route^in}}@HI{{de}}}} @KJ{{spirit^part}}ga
       @KJ{{bad}}ku narimashita.}}
   </td> </tr>
   <tr class="en"> <td>

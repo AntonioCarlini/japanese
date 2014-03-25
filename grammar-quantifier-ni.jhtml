@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong><em>quantifier (period)</em> @HI{{ni}}</strong> -@KJ{{-times}}V
+<li> @EM{{<em>quantifier (period)</em> @HI{{ni}}}} -@KJ{{-times}}V
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ This sentence pattern is used to indicate how often something is done.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      1 @HI{{ka@KJ{{month}}<strong>ni</strong> 2@KJ{{-times reflect^brush-stroke}}wo @KJ{{see}}masu.}}
+      1 @HI{{ka@KJ{{month}}@EM{{ni}} 2@KJ{{-times reflect^brush-stroke}}wo @KJ{{see}}masu.}}
   </td> </tr>
   <tr class="en"> <td>
       I go to see films twice a month.

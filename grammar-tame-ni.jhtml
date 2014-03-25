@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(<em>volitional</em>) <strong>@HI{{tameni}}</strong>, <em>volitional expression</em>
-<li> @N{{}} @HI{{no}} <strong>@HI{{tameni}}</strong>
-<li> @Ai{{}} <strong>@HI{{tameni}}</strong>
-<li> @Ana{{}} <strong>@HI{{tameni}}</strong>
+<li> @Vru{{}}(<em>volitional</em>) @EM{{@HI{{tameni}}}}, <em>volitional expression</em>
+<li> @N{{}} @HI{{no}} @EM{{@HI{{tameni}}}}
+<li> @Ai{{}} @EM{{@HI{{tameni}}}}
+<li> @Ana{{}} @EM{{@HI{{tameni}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@ This sentence patterns indicates a purpose because the main clause is a volition
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} <strong>@HI{{tameni}}</strong>,
+      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} @EM{{@HI{{tameni}}}},
       @KJ{{savings}}@KJ{{gold}}@HI{{shite imasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -37,11 +37,11 @@ This sentence patterns indicates a purpose because the main clause is a volition
 </p>
 
 <p>
-If the main clause is non-volitional, then <strong>@HI{{tameni}}</strong> is interpreted to mean a reason or cause.
+If the main clause is non-volitional, then @EM{{@HI{{tameni}}}} is interpreted to mean a reason or cause.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{attend^matter}}no<strong>tameni</strong>@KJ{{what}}mohokano@KJ{{matter}}ga@KJ{{exit^come}}nai.}}
+      @HI{{@KJ{{attend^matter}}no@EM{{tameni}}@KJ{{what}}mohokano@KJ{{matter}}ga@KJ{{exit^come}}nai.}}
   </td> </tr>
   <tr class="en"> <td>
       Because of the job I cannot do anything else.
@@ -50,12 +50,12 @@ If the main clause is non-volitional, then <strong>@HI{{tameni}}</strong> is int
 </p>
 
 <p>
-The pattern @N{{}} @HI{{no <strong>tameni</strong>}} can also indicate
+The pattern @N{{}} @HI{{no @EM{{tameni}}}} can also indicate
 "for the benefit of @N{{}}".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{house}}@KJ{{tribe}}@HI{{no}}<strong>@HI{{tameni}}</strong>, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
+      @KJ{{house}}@KJ{{tribe}}@HI{{no}}@EM{{@HI{{tameni}}}}, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I will build a house for my family.
@@ -68,7 +68,7 @@ The pattern @N{{}} @HI{{no <strong>tameni</strong>}} can also indicate
 <p>
 The similar expression <a href="grammar-you-ni.html">@HI{{you ni}}</a>
  is used in clauses with verbs that do not contain volition,
-whereas <strong>@HI{{tameni}}</strong> is used with verbs that do. Note that if the verb involved
+whereas @EM{{@HI{{tameni}}}} is used with verbs that do. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
 </p>
 

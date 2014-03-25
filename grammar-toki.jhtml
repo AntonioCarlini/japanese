@@ -14,26 +14,26 @@
 <h2> Formation </h2>
 
 <ol>
-<li>  @Vplain{{}}<strong>@HI{{toki}}</strong>
-<li>  @Ai{{}}<strong>@HI{{toki}}</strong>
-<li>  @Ana{{}}<strong>@HI{{toki}}</strong>
-<li>  @N{{}}@HI{{no}}<strong>@HI{{toki}}</strong>
+<li>  @Vplain{{}}@EM{{@HI{{toki}}}}
+<li>  @Ai{{}}@EM{{@HI{{toki}}}}
+<li>  @Ana{{}}@EM{{@HI{{toki}}}}
+<li>  @N{{}}@HI{{no}}@EM{{@HI{{toki}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{toki}}</strong> is a noun that indicates the time when something is or was done. It is often translated
+@EM{{@HI{{toki}}}} is a noun that indicates the time when something is or was done. It is often translated
 as "at the time when".
 </p>
 
 <p>
-@Vru{{}}<strong>@HI{{toki}}</strong> means that the action in the main clause happens <em>right before</em> that in the
+@Vru{{}}@EM{{@HI{{toki}}}} means that the action in the main clause happens <em>right before</em> that in the
 relative clause.
 </p>
 
 <p>
-@Vta{{}}<strong>@HI{{toki}}</strong> means that the action in the main clause happens <em>right after</em> that in the
+@Vta{{}}@EM{{@HI{{toki}}}} means that the action in the main clause happens <em>right after</em> that in the
 relative clause.
 </p>
 
@@ -43,7 +43,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beru<strong>toki</strong> @KJ{{hand}}wo @KJ{{wash}}u.}}
+      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beru@EM{{toki}} @KJ{{hand}}wo @KJ{{wash}}u.}}
   </td> </tr>
   <tr class="en"> <td>
       I will wash my hands right before I eat my meal.
@@ -52,7 +52,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beta<strong>toki</strong> @KJ{{hand}}wo @KJ{{wash}}u.}}      
+      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beta@EM{{toki}} @KJ{{hand}}wo @KJ{{wash}}u.}}      
   </td> </tr>
   <tr class="en"> <td>
       I will wash my hands right after I eat my meal.      
@@ -61,7 +61,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{hiroshiha @KJ{{test^verification}}no<strong>toki</strong> kaze wo hikimashita.}}
+      @HI{{hiroshiha @KJ{{test^verification}}no@EM{{toki}} kaze wo hikimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Hiroshi caught a cold at exam time.
@@ -70,7 +70,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{teri-}}ha @KT{{ju-su}}ga @KJ{{relax}}i<strong>toki</strong>ni takusan @KJ{{buy}}tte oita.}}
+      @HI{{@KT{{teri-}}ha @KT{{ju-su}}ga @KJ{{relax}}i@EM{{toki}}ni takusan @KJ{{buy}}tte oita.}}
   </td> </tr>
   <tr class="en"> <td>
       Terry bought a lot of juice when it was cheap.
@@ -79,7 +79,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}ru <strong>toki</strong>, kabann wo @KJ{{buy}}imashita.}}
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}ru @EM{{toki}}, kabann wo @KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I bought a bag when I was going back to my country (and I bought it before I finished my journey).
@@ -88,7 +88,7 @@ relative clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}tta <strong>toki</strong>, kabann wo @KJ{{buy}}imashita.}}
+      @HI{{@KJ{{country}}he @KJ{{homecoming}}tta @EM{{toki}}, kabann wo @KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I bought a bag when I went back to my country (after my trip had been completed and I had already arrived in my country).
@@ -99,12 +99,12 @@ relative clause.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{toki}}</strong> can be followed by an optional @HI{{ni}}, in which the time at which the relative clause
+@EM{{@HI{{toki}}}} can be followed by an optional @HI{{ni}}, in which the time at which the relative clause
 happened comes under particular focus.
 </p>
 
 <p>
-A <strong>@HI{{toki}}</strong> clause never indicates a condiftion.
+A @EM{{@HI{{toki}}}} clause never indicates a condiftion.
 </p>
 
 <h2> References </h2>

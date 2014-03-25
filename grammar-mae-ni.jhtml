@@ -14,9 +14,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{mae ni}}</strong>, @V2{{}}
-<li> @N{{}} @HI{{no}} <strong>@HI{{mae ni}}</strong>, @V2{{}}
-<li> <em>quantifier(period)</em> <strong>@HI{{mae ni}}</strong>, @V2{{}}
+<li> @Vru{{}} @EM{{@HI{{mae ni}}}}, @V2{{}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{mae ni}}}}, @V2{{}}
+<li> <em>quantifier(period)</em> @EM{{@HI{{mae ni}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +31,7 @@ This sentence pattern indicates that @V2{{}} happens before whatever is stated i
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}he @KJ{{come}}ru <strong>mae ni</strong>, @KJ{{day^book^word}}wo
+      @HI{{@KJ{{day^book}}he @KJ{{come}}ru @EM{{mae ni}}, @KJ{{day^book^word}}wo
       @KJ{{exertion^strong}}shimashita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -41,7 +41,7 @@ This sentence pattern indicates that @V2{{}} happens before whatever is stated i
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{eat^matter}}no <strong>mae ni</strong>, @KJ{{hand}}wo@KJ{{wash}}imasu.}}
+      @HI{{@KJ{{eat^matter}}no @EM{{mae ni}}, @KJ{{hand}}wo@KJ{{wash}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I wash my hands before eating.
@@ -50,7 +50,7 @@ This sentence pattern indicates that @V2{{}} happens before whatever is stated i
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rice*field^in}}sanha 1@KJ{{time^interval}}<strong>mae ni</strong>, @KJ{{exit}}kakemashita.}}
+      @HI{{@KJ{{rice*field^in}}sanha 1@KJ{{time^interval}}@EM{{mae ni}}, @KJ{{exit}}kakemashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Tanaka left an hour ago.
@@ -61,11 +61,11 @@ This sentence pattern indicates that @V2{{}} happens before whatever is stated i
 <h2> Notes </h2>
 
 <p>
-The verb before <strong>@HI{{mae ni}}</strong> is always non-past even if the sentence itself is in the past.
+The verb before @EM{{@HI{{mae ni}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-<strong>@HI{{mae ni}}</strong> is used when the speaker something is going to take place. If the speaker
+@EM{{@HI{{mae ni}}}} is used when the speaker something is going to take place. If the speaker
 is unsure when the event might take place, @HI{{uchi ni}} should be used instead.
 </p>
 

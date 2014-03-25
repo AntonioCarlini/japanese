@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}<strong>@HI{{hajimeru}}</strong>
+<li> @Vmasustem{{}}@EM{{@HI{{hajimeru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hajimeru}}</strong> is attached as a suffix to the @HI{{masu}}-stem of verbs to mean that someone or something 
+@EM{{@HI{{hajimeru}}}} is attached as a suffix to the @HI{{masu}}-stem of verbs to mean that someone or something 
 begins to be in  some state.
 </p>
 
@@ -30,7 +30,7 @@ begins to be in  some state.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{eight^month}}kara@KJ{{source^family*name^thing^word}}wo@KJ{{read}}mi<strong>hajimemashita</strong>.}}
+      @HI{{@KJ{{private}}ha@KJ{{eight^month}}kara@KJ{{source^family*name^thing^word}}wo@KJ{{read}}mi@EM{{hajimemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I began to read <em>The Tale of Genji</em> in August.
@@ -41,11 +41,11 @@ begins to be in  some state.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{hajimeru}}</strong> can be attached to a punctual verb as long as the subject is plural.
+@EM{{@HI{{hajimeru}}}} can be attached to a punctual verb as long as the subject is plural.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{person^noma}}ga@KJ{{meeting^location}}ni@KJ{{don}}ki<strong>hajimemashita</strong>.}}
+      @HI{{@KJ{{person^noma}}ga@KJ{{meeting^location}}ni@KJ{{don}}ki@EM{{hajimemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       People began to arrive at the meeting room.

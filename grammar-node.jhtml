@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{<strong>node</strong>}}
-<li> @Ai{{}} @HI{{<strong>node</strong>}}
-<li> @Ana{{}} @HI{{<strong>node</strong>}}
-<li> @N{{}} @HI{{na <strong>node</strong>}}
+<li> @Vplain{{}} @HI{{@EM{{node}}}}
+<li> @Ai{{}} @HI{{@EM{{node}}}}
+<li> @Ana{{}} @HI{{@EM{{node}}}}
+<li> @N{{}} @HI{{na @EM{{node}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{node}}</strong> is a subordinate conjunction that expresses a reason or a cause.
+@EM{{@HI{{node}}}} is a subordinate conjunction that expresses a reason or a cause.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{o@KJ{{sake}}wo takusan @KJ{{drink}}nda <strong>node</strong> @KJ{{sleep}}ku narimashita.}}
+    @HI{{o@KJ{{sake}}wo takusan @KJ{{drink}}nda @EM{{node}} @KJ{{sleep}}ku narimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     Because I drank a lot of <em>sake</em>, I became sleepy.
@@ -36,12 +36,12 @@
 </p>
 
 <p>
-<strong>@HI{{node}}</strong> implies that the speaker believes the subordinate clause to be the reason or cause
+@EM{{@HI{{node}}}} implies that the speaker believes the subordinate clause to be the reason or cause
 for the main clause.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{ill^spirit}}na<strong>node</strong>,@KJ{{trip^going}}ni@KJ{{going}}kunoha@KJ{{nothingness^logic}}desu.}}
+    @HI{{@KJ{{ill^spirit}}na@EM{{node}},@KJ{{trip^going}}ni@KJ{{going}}kunoha@KJ{{nothingness^logic}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     Since I'm ill, going on a trip is out of the question.
@@ -53,16 +53,16 @@ for the main clause.
 
 <p>
 <a href="grammar-particle-de.html">@HI{{de}}</a> also expresses a reason or cause, however,
-it can only be used with nouns whereas <strong>@HI{{node}}</strong> (and @HI{{kara}}) are only used with sentences.
+it can only be used with nouns whereas @EM{{@HI{{node}}}} (and @HI{{kara}}) are only used with sentences.
 </p>
 
 <p>
-<strong>@HI{{node}}</strong> and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that
+@EM{{@HI{{node}}}} and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that
 the speaker believes that the subordinate clause is the reason or cause for the main clause.
 </p>
 
 <p>
-@HI{{kara}}, and not <strong>@HI{{node}}</strong>, must be used when:
+@HI{{kara}}, and not @EM{{@HI{{node}}}}, must be used when:
 <ul>
 <li> the subordinate clause involves conjecture
 <li> the subordinate clause involves volition or personal opinion
@@ -71,7 +71,7 @@ the speaker believes that the subordinate clause is the reason or cause for the 
 </p>
 
 <p>
-In @S1{{}}@HI{{<strong>node</strong>}}@S2{{}}, @HI{{<strong>node</strong>}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
+In @S1{{}}@HI{{@EM{{node}}}}@S2{{}}, @HI{{@EM{{node}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
 </p>
 
 <h2> References </h2>

@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{gotoni}}</strong>
+<li> @EM{{@HI{{gotoni}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{gotoni}}</strong> is used to indicate that something happens regularly at a certain spacing in time or space.
+@EM{{@HI{{gotoni}}}} is used to indicate that something happens regularly at a certain spacing in time or space.
 </p>
 
 <h2> Examples </h2>
@@ -29,7 +29,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{three^time^interval}}<strong>gotoni</strong>@KJ{{medicine}}wo@KJ{{drink}}mimashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{three^time^interval}}@EM{{gotoni}}@KJ{{medicine}}wo@KJ{{drink}}mimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I took medicine every three hours.
@@ -38,7 +38,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{correct^month}}ha@KJ{{house}}<strong>gotoni</strong>@KJ{{gate^pine*tree}}wo@KJ{{stand*up}}temasu.}}
+      @HI{{@KJ{{correct^month}}ha@KJ{{house}}@EM{{gotoni}}@KJ{{gate^pine*tree}}wo@KJ{{stand*up}}temasu.}}
   </td> </tr>
   <tr class="en"> <td>
       They put up pine tree decorations at every house on New Year's Day.

@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong><em>quantifier</em> @HI{{de}}</strong>
+<li> @EM{{<em>quantifier</em> @HI{{de}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ to be realised.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{station}}made 30@KJ{{part}}<strong>de</strong> @KJ{{going}}kemashitaka.}}
+      @HI{{@KJ{{station}}made 30@KJ{{part}}@EM{{de}} @KJ{{going}}kemashitaka.}}
   </td> </tr>
   <tr class="en"> <td>
       Can I reach the station in 30 minutes.

@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{shi}}</strong>,
-<li> @Ai{{}} <strong>@HI{{shi}}</strong>,
-<li> @Anastem{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
-<li> @N{{}} @HI{{da}} <strong>@HI{{shi}}</strong>,
+<li> @Vplain{{}} @EM{{@HI{{shi}}}},
+<li> @Ai{{}} @EM{{@HI{{shi}}}},
+<li> @Anastem{{}} @HI{{da}} @EM{{@HI{{shi}}}},
+<li> @N{{}} @HI{{da}} @EM{{@HI{{shi}}}},
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@ This sentence pattern is used to link sentences that are stated from the same vi
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{watto}}@KJ{{before^life}}ha@KJ{{heat^heart}}da<strong>shi</strong>,majimeda<strong>shi</strong>,@KJ{{sutra^verification}}mo arimasu.}}
+      @HI{{@KT{{watto}}@KJ{{before^life}}ha@KJ{{heat^heart}}da@EM{{shi}},majimeda@EM{{shi}},@KJ{{sutra^verification}}mo arimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Professor Watt is earnest and diligent and has experience.

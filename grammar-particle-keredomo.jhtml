@@ -14,25 +14,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}} <strong>@HI{{keredomo}}</strong>
-<li> @Vru{{}} <strong>@HI{{keredomo}}</strong>
-<li> @Vta{{}} <strong>@HI{{keredomo}}</strong>
-<li> @Ai{{}} <strong>@HI{{keredomo}}</strong>
-<li> @Anastem{{}}@HI{{da}} <strong>@HI{{keredomo}}</strong>
-<li> @N{{}}@HI{{da}} <strong>@HI{{keredomo}}</strong>
+<li> @Splain{{}} @EM{{@HI{{keredomo}}}}
+<li> @Vru{{}} @EM{{@HI{{keredomo}}}}
+<li> @Vta{{}} @EM{{@HI{{keredomo}}}}
+<li> @Ai{{}} @EM{{@HI{{keredomo}}}}
+<li> @Anastem{{}}@HI{{da}} @EM{{@HI{{keredomo}}}}
+<li> @N{{}}@HI{{da}} @EM{{@HI{{keredomo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{keredomo}}</strong> is a isjunctive subordinate conjunction that joins two sentences.
+@EM{{@HI{{keredomo}}}} is a isjunctive subordinate conjunction that joins two sentences.
 the basic meaning is "although."
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{bamboo^inside}}san'ni@KJ{{electricity^tale}}wokaketa<strong>keredo</strong>
+      @HI{{@KJ{{bamboo^inside}}san'ni@KJ{{electricity^tale}}wokaketa@EM{{keredo}}
       @KJ{{detain^guard}}deshita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -42,7 +42,7 @@ the basic meaning is "although."
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{book}}ha@KJ{{tall}}i<strong>keredomo</strong>ii@KJ{{book}}desu.}}
+      @HI{{kono@KJ{{book}}ha@KJ{{tall}}i@EM{{keredomo}}ii@KJ{{book}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Although this book is expensive, it's a good book.
@@ -52,11 +52,11 @@ the basic meaning is "although."
 </p>
 
 <p>
-At the end of a sentence <strong>@HI{{keredomo}}</strong> implies something exists that qualifies what is actually said.
+At the end of a sentence @EM{{@HI{{keredomo}}}} implies something exists that qualifies what is actually said.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{tamaniha@KJ{{trip^going}}nimo@KJ{{going}}kitaito@KJ{{think}}tteirundesu<strong>kedo</strong>.}}
+      @HI{{tamaniha@KJ{{trip^going}}nimo@KJ{{going}}kitaito@KJ{{think}}tteirundesu@EM{{kedo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I'd really like to go on a trip once in a while (but I don't have the time).
@@ -65,11 +65,11 @@ At the end of a sentence <strong>@HI{{keredomo}}</strong> implies something exis
 </p>
 
 <p>
-<strong>@HI{{keredomo}}</strong> can be used to delimit a preliminary remark.
+@EM{{@HI{{keredomo}}}} can be used to delimit a preliminary remark.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{mada@KJ{{departure^shoot}}made1@KJ{{time^interval}}mouarimasu<strong>kedo</strong>,
+      @HI{{mada@KJ{{departure^shoot}}made1@KJ{{time^interval}}mouarimasu@EM{{kedo}},
       doushimashouka.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -79,12 +79,12 @@ At the end of a sentence <strong>@HI{{keredomo}}</strong> implies something exis
 </p>
 
 <p>
-Another usage of <strong>@HI{{keredomo}}</strong> at the end of a sentence is to emphasise that the speaker
+Another usage of @EM{{@HI{{keredomo}}}} at the end of a sentence is to emphasise that the speaker
 wants things to turn out as stated.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{early}}ku@KJ{{warmth}}kakunarutoiinda<strong>kedo</strong>.}}
+      @HI{{@KJ{{early}}ku@KJ{{warmth}}kakunarutoiinda@EM{{kedo}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It would be nice if it got warm soon.
@@ -95,12 +95,12 @@ wants things to turn out as stated.
 <h2> Notes </h2>
 
 <p>
-In @S1{{}}<strong>@HI{{keredomo}}</strong>@S2{{}}, @S1{{}} is a subordinate clause and is usually in the plain form.
+In @S1{{}}@EM{{@HI{{keredomo}}}}@S2{{}}, @S1{{}} is a subordinate clause and is usually in the plain form.
 However, in very polite speech @S1{{}} can be in the polite form.
 </p>
 
 <p>
-<strong>@HI{{keredomo}}</strong> has a number of informal forms. In decreasing order of formality
+@EM{{@HI{{keredomo}}}} has a number of informal forms. In decreasing order of formality
 these are @HI{{keredo}}, @HI{{kedomo}} and @HI{{kedo}}.
 </p>
 

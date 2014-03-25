@@ -13,7 +13,7 @@
 
 <h2> Formation </h2>
 
-<strong>@Nplace{{}} @HI{{he}} @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}}</strong>
+@EM{{@Nplace{{}} @HI{{he}} @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}}}}
 
 <h2> Definition </h2>
 
@@ -26,7 +26,7 @@ without specifying what might be done at the remote destination.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{mail^convenience^bureau}}he <strong>@KJ{{going}}tte @KJ{{come}}masu</strong>.}}
+    @HI{{@KJ{{mail^convenience^bureau}}he @EM{{@KJ{{going}}tte @KJ{{come}}masu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I'm going to the post office (and coming back).

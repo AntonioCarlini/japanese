@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{demo}}</strong>
+<li> @N{{}} @EM{{@HI{{demo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{demo}}</strong> means "even".
+@EM{{@HI{{demo}}}} means "even".
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^life}}<strong>demo</strong>machigaimashita.}}
+      @HI{{@KJ{{before^life}}@EM{{demo}}machigaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Even a teacher makes mistakes.
@@ -35,7 +35,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kokokara<strong>demo</strong>@KJ{{wealth^gentleman^mountain}}ga@KJ{{see}}iemasu.}}
+      @HI{{kokokara@EM{{demo}}@KJ{{wealth^gentleman^mountain}}ga@KJ{{see}}iemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Even from here you can see Mount Fuji.
@@ -44,7 +44,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}ha@KJ{{fish}}<strong>demo</strong>@KJ{{meat}}<strong>demo</strong>@KJ{{eat}}bemasu.}}
+      @HI{{ano@KJ{{person}}ha@KJ{{fish}}@EM{{demo}}@KJ{{meat}}@EM{{demo}}@KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       He eats both fish and meat.
@@ -56,15 +56,15 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{demo}}</strong> is not the same as the combination of particles @HI{{de}} + @HI{{mo}}.
+@EM{{@HI{{demo}}}} is not the same as the combination of particles @HI{{de}} + @HI{{mo}}.
 </p>
 
 <p>
-<strong>@HI{{demo}}</strong> combines with various WH-words.
+@EM{{@HI{{demo}}}} combines with various WH-words.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{map^write^building}}hadare<strong>demo</strong>@KJ{{enter}}remasu.}}
+      @HI{{ano@KJ{{map^write^building}}hadare@EM{{demo}}@KJ{{enter}}remasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Anyone can enter that library.

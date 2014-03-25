@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{ni}}</strong>
+<li> @EM{{@HI{{ni}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ni}}</strong>  indicates <a name="surface">where</a> something is "in", "at" or "on".
+@EM{{@HI{{ni}}}}  indicates <a name="surface">where</a> something is "in", "at" or "on".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^tale^notebook}}ha@KJ{{desk}}no@KJ{{above}}<strong>ni</strong>arimasu.}}
+      @HI{{@KJ{{electricity^tale^notebook}}ha@KJ{{desk}}no@KJ{{above}}@EM{{ni}}arimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       The phone book is on the desk.
@@ -33,11 +33,11 @@
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong>  indicates <a name="location">where</a> something is.
+@EM{{@HI{{ni}}}}  indicates <a name="location">where</a> something is.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field^before^life}}haima@KJ{{map^write^building}}<strong>ni</strong>irasshaimasu.}}
+      @HI{{@KJ{{mountain^rice*field^before^life}}haima@KJ{{map^write^building}}@EM{{ni}}irasshaimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Professor Yamada is in the library now.
@@ -46,11 +46,11 @@
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the location of an action, "in" or "at".
+@EM{{@HI{{ni}}}} indicates the location of an action, "in" or "at".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{new^hear}}ha@KJ{{desk}}no@KJ{{above}}<strong>ni</strong>@KJ{{placement}}itekudasai.}}
+      @HI{{@KJ{{new^hear}}ha@KJ{{desk}}no@KJ{{above}}@EM{{ni}}@KJ{{placement}}itekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please put the newspaper on the desk.
@@ -59,11 +59,11 @@
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates <a name="time">time</a>.
+@EM{{@HI{{ni}}}} indicates <a name="time">time</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{meeting^company}}ha9@KJ{{time}}<strong>ni</strong>@KJ{{commence}}marimasu.}}
+      @HI{{@KJ{{meeting^company}}ha9@KJ{{time}}@EM{{ni}}@KJ{{commence}}marimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Work begins at 9 o'clock.
@@ -72,12 +72,12 @@
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates movement from a larger place to a smaller place; the place may be abstract,
+@EM{{@HI{{ni}}}} indicates movement from a larger place to a smaller place; the place may be abstract,
 such as a group or society.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{gone^year^transit^environs}}sanha@KJ{{curriculum^history^study^meeting}}<strong>ni</strong>@KJ{{enter}}tta.}}
+      @HI{{@KJ{{gone^year^transit^environs}}sanha@KJ{{curriculum^history^study^meeting}}@EM{{ni}}@KJ{{enter}}tta.}}
   </td> </tr>
   <tr class="en"> <td>
       Last year Watanabe joined a historical society.
@@ -86,11 +86,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates <a name="direction">movement</a> towards a place.
+@EM{{@HI{{ni}}}} indicates <a name="direction">movement</a> towards a place.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{amerika}}<strong>ni</strong>@KJ{{going}}kitai.}}
+      @HI{{@KT{{amerika}}@EM{{ni}}@KJ{{going}}kitai.}}
   </td> </tr>
   <tr class="en"> <td>
       I want to go to America.
@@ -99,11 +99,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the <a name="purpose">purpose</a> of an action.
+@EM{{@HI{{ni}}}} indicates the <a name="purpose">purpose</a> of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{buy}}i@KJ{{thing}}<strong>ni</strong>@KJ{{going}}kimasu.}}
+      @HI{{@KJ{{buy}}i@KJ{{thing}}@EM{{ni}}@KJ{{going}}kimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm going shopping.
@@ -112,11 +112,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the <a name="recipient">recipient</a> of an action.
+@EM{{@HI{{ni}}}} indicates the <a name="recipient">recipient</a> of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{kurisumasu}}ni@KJ{{friend^accomplished}}<strong>ni</strong>@KT{{purezento}}womoratta.}}
+      @HI{{@KT{{kurisumasu}}ni@KJ{{friend^accomplished}}@EM{{ni}}@KT{{purezento}}womoratta.}}
   </td> </tr>
   <tr class="en"> <td>
       I received a present from my friend at Christmas.
@@ -125,11 +125,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the result of a change or impending change.
+@EM{{@HI{{ni}}}} indicates the result of a change or impending change.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KT{{ke-ki}}wo3tsu<strong>ni</strong>@KJ{{part}}ketekudasai.}}
+      @HI{{kono@KT{{ke-ki}}wo3tsu@EM{{ni}}@KJ{{part}}ketekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please cut this cake into 3 parts.
@@ -138,11 +138,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates a condition that already exists.
+@EM{{@HI{{ni}}}} indicates a condition that already exists.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{build^thing}}no@KJ{{right^side}}ga@KJ{{teach^room}}<strong>ni</strong>natteimasu.}}
+      @HI{{kono@KJ{{build^thing}}no@KJ{{right^side}}ga@KJ{{teach^room}}@EM{{ni}}natteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       The right side of this building is a classroom.
@@ -151,11 +151,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> marks the agent of a <a name="passive">passive</a> verb.
+@EM{{@HI{{ni}}}} marks the agent of a <a name="passive">passive</a> verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^car}}no@KJ{{in}}desuri<strong>ni</strong>o@KJ{{gold}}wo@KJ{{take}}rareta.}}
+      @HI{{@KJ{{electricity^car}}no@KJ{{in}}desuri@EM{{ni}}o@KJ{{gold}}wo@KJ{{take}}rareta.}}
   </td> </tr>
   <tr class="en"> <td>
       My money was taken by a pickpocket in the train.
@@ -164,11 +164,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the person made to do something in a <a name="causative">causative</a> sentence.
+@EM{{@HI{{ni}}}} indicates the person made to do something in a <a name="causative">causative</a> sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^life}}ha@KJ{{study^life}}<strong>ni</strong>@KJ{{sino-^character}}wo@KJ{{write}}kasemashita.}}
+      @HI{{@KJ{{before^life}}ha@KJ{{study^life}}@EM{{ni}}@KJ{{sino-^character}}wo@KJ{{write}}kasemashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The teacher had the students write kanji.
@@ -177,11 +177,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the agent of a <a name="causative-passive">causative-passive</a> verb.
+@EM{{@HI{{ni}}}} indicates the agent of a <a name="causative-passive">causative-passive</a> verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{study^life}}ha@KJ{{before^life}}<strong>ni</strong>@KJ{{sino-^character}}wo@KJ{{write}}kasaremashita.}}
+      @HI{{@KJ{{study^life}}ha@KJ{{before^life}}@EM{{ni}}@KJ{{sino-^character}}wo@KJ{{write}}kasaremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The students were made to write kanji by the teacher.
@@ -190,11 +190,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> joins nouns (usually three or more).
+@EM{{@HI{{ni}}}} joins nouns (usually three or more).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{pa-texi-}}no@KJ{{drink^thing}}ha,@KJ{{day^book^sake}}<strong>ni</strong>@KT{{uisuki-}}<strong>ni</strong>,
+      @HI{{@KT{{pa-texi-}}no@KJ{{drink^thing}}ha,@KJ{{day^book^sake}}@EM{{ni}}@KT{{uisuki-}}@EM{{ni}},
       @KT{{wainn}}deshita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -204,11 +204,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates a pair of people of things that are often mentioned together.
+@EM{{@HI{{ni}}}} indicates a pair of people of things that are often mentioned together.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{romeo}}<strong>ni</strong>@KT{{jurietto}}.}}
+      @HI{{@KT{{romeo}}@EM{{ni}}@KT{{jurietto}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Romeo and Juliette.
@@ -217,11 +217,11 @@ such as a group or society.
 </p>
 
 <p>
-<strong>@HI{{ni}}</strong> indicates the basis on which an action takes place.
+@EM{{@HI{{ni}}}} indicates the basis on which an action takes place.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{possess^name}}na@KJ{{little^rumor/explanation}}<strong>ni</strong>
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{possess^name}}na@KJ{{little^rumor/explanation}}@EM{{ni}}
       @KJ{{fundamentals}}duite@KJ{{make}}raremashita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -233,9 +233,9 @@ such as a group or society.
 <h2> Notes </h2>
 
 <p>
-When a verb denotes a momentary action or movement, the time when it occurs may be marked by <strong>@HI{{ni}}</strong>.
-<strong>@HI{{ni}}</strong> is used when the noun before it uses a numeral; if the noun does not use a numeral then
-the particle is not used. <strong>@HI{{ni}}</strong> may optionally be used with days of the week.
+When a verb denotes a momentary action or movement, the time when it occurs may be marked by @EM{{@HI{{ni}}}}.
+@EM{{@HI{{ni}}}} is used when the noun before it uses a numeral; if the noun does not use a numeral then
+the particle is not used. @EM{{@HI{{ni}}}} may optionally be used with days of the week.
 </p>
 
 <h2> References </h2>

@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{suru}}</strong>
+<li> @EM{{@HI{{suru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{suru}}</strong> is an important irregular Japanese verb that means "to cause a state or action"
+@EM{{@HI{{suru}}}} is an important irregular Japanese verb that means "to cause a state or action"
 and corresponds to "do" or "make".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{biru}}ha@KT{{hamuretto}}wo<strong>suru</strong>tsumorida.}}
+      @HI{{@KT{{biru}}ha@KT{{hamuretto}}wo@EM{{suru}}tsumorida.}}
   </td> </tr>
   <tr class="en"> <td>
       Bill is planning to play Hamlet.
@@ -34,11 +34,11 @@ and corresponds to "do" or "make".
 </p>
 
 <p>
-<strong>@HI{{suru}}</strong> can mean "to wear" when used with small objects such as a watch or a tie.
+@EM{{@HI{{suru}}}} can mean "to wear" when used with small objects such as a watch or a tie.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ii@KT{{nekutai}}wo<strong>shiteiru</strong>ne.}}
+      @HI{{ii@KT{{nekutai}}wo@EM{{shiteiru}}ne.}}
   </td> </tr>
   <tr class="en"> <td>
       You're wearing a nice tie, aren't you?
@@ -47,12 +47,12 @@ and corresponds to "do" or "make".
 </p>
 
 <p>
-Compounds with <strong>@HI{{suru}}</strong> form transitive words. In contemporary Japanese, <strong>@HI{{suru}}</strong>
+Compounds with @EM{{@HI{{suru}}}} form transitive words. In contemporary Japanese, @EM{{@HI{{suru}}}}
 can be used with loanwords too.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{me}}hayoku@KJ{{car}}no@KJ{{carry^revolve}}wo<strong>shimasu</strong>.}}
+      @HI{{@KJ{{me}}hayoku@KJ{{car}}no@KJ{{carry^revolve}}wo@EM{{shimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I often drive a car.

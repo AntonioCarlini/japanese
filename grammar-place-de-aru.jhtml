@@ -29,7 +29,7 @@ This sentence pattern is used when @N2{{}} represents an event and the speaker w
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{east^capital}}<strong>de</strong> @KJ{{day^book}}to@KT{{burajiru}}no @KT{{sakka-}}no @KJ{{test^fit}}ga arimasu.}}
+      @HI{{@KJ{{east^capital}}@EM{{de}} @KJ{{day^book}}to@KT{{burajiru}}no @KT{{sakka-}}no @KJ{{test^fit}}ga arimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       A football game between Japan and Brazil will take place in Tokyo.

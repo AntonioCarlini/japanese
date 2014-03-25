@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}<strong>@HI{{monoda}}</strong>
-<li> @Vmasustem{{}}@HI{{tai}}<strong>@HI{{monoda}}</strong>
-<li> @Ai{{}}<strong>@HI{{monoda}}</strong>
-<li> @Anastem{{}}@HI{{da}}<strong>@HI{{monoda}}</strong>
+<li> @Vru{{}}@EM{{@HI{{monoda}}}}
+<li> @Vmasustem{{}}@HI{{tai}}@EM{{@HI{{monoda}}}}
+<li> @Ai{{}}@EM{{@HI{{monoda}}}}
+<li> @Anastem{{}}@HI{{da}}@EM{{@HI{{monoda}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{monoda}}</strong> is used by the speaker to present a situation as though it were a tangible object.
+@EM{{@HI{{monoda}}}} is used by the speaker to present a situation as though it were a tangible object.
 </p>
 
 <h2> Examples </h2>
@@ -32,7 +32,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{yokusonnnabakanakotowoshita<strong>monoda</strong>.}}
+      @HI{{yokusonnnabakanakotowoshita@EM{{monoda}}.}}
   </td> </tr>
   <tr class="en"> <td>
       How could you do such a foolish thing!
@@ -41,7 +41,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{yokuannna@KJ{{male}}to@KT{{de-to}}@KJ{{exit^come}}ru<strong>monodesu</strong>.}}
+      @HI{{yokuannna@KJ{{male}}to@KT{{de-to}}@KJ{{exit^come}}ru@EM{{monodesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       How could you date such a man!
@@ -50,7 +50,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{once*upon*a*time}}hayoku@KJ{{reflect^brush-stroke}}wo@KJ{{see}}ta<strong>monodesu</strong>.}}
+      @HI{{@KJ{{once*upon*a*time}}hayoku@KJ{{reflect^brush-stroke}}wo@KJ{{see}}ta@EM{{monodesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I used to see films a lot!

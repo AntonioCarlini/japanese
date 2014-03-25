@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sekkaku}}</strong>
+<li> @EM{{@HI{{sekkaku}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{sekkaku}}</strong> means that a relatively rare sitaution has occurred and one can now take
+@EM{{@HI{{sekkaku}}}} means that a relatively rare sitaution has occurred and one can now take
 advantage of it or, with regret, fail to take advantage of it.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>sekkaku</strong>no@KJ{{day^weekday^day}}nanoni@KJ{{work}}kimashita.}}
+      @HI{{@EM{{sekkaku}}no@KJ{{day^weekday^day}}nanoni@KJ{{work}}kimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Even though Sunday is precious to me, I worked.
@@ -36,7 +36,7 @@ advantage of it or, with regret, fail to take advantage of it.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>sekkaku</strong>ii@KJ{{large^study}}ni@KJ{{enter}}ttanodakarayoku@KJ{{exertion^strong}}tsumoridesu.}}
+      @HI{{@EM{{sekkaku}}ii@KJ{{large^study}}ni@KJ{{enter}}ttanodakarayoku@KJ{{exertion^strong}}tsumoridesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I entered a good university with great effort, so I intend to study hard.
@@ -48,11 +48,11 @@ advantage of it or, with regret, fail to take advantage of it.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{sekkaku}}</strong>@HI{{desuga}} can be used to politely decline an offer.
+@EM{{@HI{{sekkaku}}}}@HI{{desuga}} can be used to politely decline an offer.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>sekkaku</strong>desuga@KJ{{now^day}}ha@KJ{{busy}}shikute@KJ{{going}}kemasenn.}}
+      @HI{{@EM{{sekkaku}}desuga@KJ{{now^day}}ha@KJ{{busy}}shikute@KJ{{going}}kemasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       I appreciate your kind offer but I'm too busy to go there today.
@@ -61,11 +61,11 @@ advantage of it or, with regret, fail to take advantage of it.
 </p>
 
 <p>
-<strong>@HI{{sekkaku}}</strong>@HI{{desukara}} can be used to politely accept an offer.
+@EM{{@HI{{sekkaku}}}}@HI{{desukara}} can be used to politely accept an offer.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>sekkaku</strong>desukara@KJ{{distant^prudence}}nakuitadakimasu.}}
+      @HI{{@EM{{sekkaku}}desukara@KJ{{distant^prudence}}nakuitadakimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Since you took the trouble to bring it to me, I'll take it without hestiattion.

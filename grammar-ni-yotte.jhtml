@@ -14,15 +14,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{niyotte}}</strong>
-<li> <em>embedded-question</em>@HI{{kadouka}}<strong>@HI{{niyotte}}</strong>
-<li> <em>embedded-wh-question</em>@HI{{ka}}<strong>@HI{{niyotte}}</strong>
+<li> @N{{}}@EM{{@HI{{niyotte}}}}
+<li> <em>embedded-question</em>@HI{{kadouka}}@EM{{@HI{{niyotte}}}}
+<li> <em>embedded-wh-question</em>@HI{{ka}}@EM{{@HI{{niyotte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{niyotte}}</strong> indicates a change in behaviour depending on or according to something.
+@EM{{@HI{{niyotte}}}} indicates a change in behaviour depending on or according to something.
 </p>
 
 <h2> Examples </h2>
@@ -31,7 +31,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{person}}<strong>niyotte</strong>@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}.}}
+      @HI{{@KJ{{person}}@EM{{niyotte}}@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Depending on the person, the ageing process differs.
@@ -40,7 +40,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto<strong>niyotte</strong>@KJ{{inspection^plains}}wo@KJ{{wide}}zerukotoga
+      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto@EM{{niyotte}}@KJ{{inspection^plains}}wo@KJ{{wide}}zerukotoga
       @KJ{{exit^come}}ru.}}
   </td> </tr>
   <tr class="en"> <td>

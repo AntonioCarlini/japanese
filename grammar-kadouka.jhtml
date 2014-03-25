@@ -18,17 +18,17 @@
 <dl>
 <dt>(A)
 <ol>
-<li><em>interrogative</em> @Vplain{{}}<strong>@HI{{ka}}</strong>, ... 
-<li><em>interrogative</em> @Ai{{}}<strong>@HI{{ka}}</strong>, ...
-<li><em>interrogative</em> @Anastem{{}}<strong>@HI{{ka}}</strong>, ...
-<li><em>interrogative</em> @N{{}}<strong>@HI{{ka}}</strong>, ...
+<li><em>interrogative</em> @Vplain{{}}@EM{{@HI{{ka}}}}, ... 
+<li><em>interrogative</em> @Ai{{}}@EM{{@HI{{ka}}}}, ...
+<li><em>interrogative</em> @Anastem{{}}@EM{{@HI{{ka}}}}, ...
+<li><em>interrogative</em> @N{{}}@EM{{@HI{{ka}}}}, ...
 </ol>
 <dt>(B)
 <ol>
-<li><em>yes-no</em> @Vplain{{}}<strong>@HI{{kadouka}}</strong>, ...
-<li><em>yes-no</em> @Ai{{}}<strong>@HI{{kadouka}}</strong>, ...
-<li><em>yes-no</em> @Anastem{{}}<strong>@HI{{kadouka}}</strong>, ...
-<li><em>yes-no</em> @N{{}}<strong>@HI{{kadouka}}</strong>, ...
+<li><em>yes-no</em> @Vplain{{}}@EM{{@HI{{kadouka}}}}, ...
+<li><em>yes-no</em> @Ai{{}}@EM{{@HI{{kadouka}}}}, ...
+<li><em>yes-no</em> @Anastem{{}}@EM{{@HI{{kadouka}}}}, ...
+<li><em>yes-no</em> @N{{}}@EM{{@HI{{kadouka}}}}, ...
 </ol>
 </dl>
 </p>
@@ -37,12 +37,12 @@
 
 <p>
 In sentence pattern (A) a question with an interrogative is embedded in another sentence. Note that, optionally, 
-<strong>@HI{{kadouka}}</strong> can be used in this sentence pattern.
+@EM{{@HI{{kadouka}}}} can be used in this sentence pattern.
 </p>
 
 <p>
 In sentence pattern (B) a question <em>without</em> an interrogative is embedded in another sentence. Note that 
-<strong>@HI{{kadouka}}</strong> <em>must</em> be used in this sentence pattern.
+@EM{{@HI{{kadouka}}}} <em>must</em> be used in this sentence pattern.
 </p>
 
 <h2> Examples </h2>
@@ -51,7 +51,7 @@ In sentence pattern (B) a question <em>without</em> an interrogative is embedded
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      JL107@HI{{@KJ{{convenience}}ha @KJ{{what^time}}ni @KJ{{arrival^don}}suru<strong>ka</strong>,
+      JL107@HI{{@KJ{{convenience}}ha @KJ{{what^time}}ni @KJ{{arrival^don}}suru@EM{{ka}},
       @KJ{{tune}}bete kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -61,7 +61,7 @@ In sentence pattern (B) a question <em>without</em> an interrogative is embedded
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{sono@KJ{{tale}}ha hountou <strong>ka douka</strong>, wakarimasenn.}}
+      @HI{{sono@KJ{{tale}}ha hountou @EM{{ka douka}}, wakarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't know whether the story is true or not.

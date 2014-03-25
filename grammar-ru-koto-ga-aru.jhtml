@@ -14,11 +14,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(non-past)<strong>@HI{{kotogaaru}}</strong>
-<li> @Ai{{}}<strong>@HI{{kotogaaru}}</strong>
-<li> @Ana{{}}<strong>@HI{{kotogaaru}}</strong>
-<li> @N{{}}@HI{{no}}<strong>@HI{{kotogaaru}}</strong>
-<li> @N{{}}@HI{{dearu}}<strong>@HI{{kotogaaru}}</strong>
+<li> @Vru{{}}(non-past)@EM{{@HI{{kotogaaru}}}}
+<li> @Ai{{}}@EM{{@HI{{kotogaaru}}}}
+<li> @Ana{{}}@EM{{@HI{{kotogaaru}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{kotogaaru}}}}
+<li> @N{{}}@HI{{dearu}}@EM{{@HI{{kotogaaru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,7 +28,7 @@ This sentence pattern is used to indicate that something happens from time to ti
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{takahashiha@KJ{{morning}}go@KJ{{meal}}wo@KJ{{eat}}bezuni@KJ{{study^exam}}he@KJ{{going}}ku<strong>kotogaaru</strong>.}}
+      @HI{{takahashiha@KJ{{morning}}go@KJ{{meal}}wo@KJ{{eat}}bezuni@KJ{{study^exam}}he@KJ{{going}}ku@EM{{kotogaaru}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There are times when Takashi goes to school without eating breakfast.

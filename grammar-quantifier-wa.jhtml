@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong><em>quantifier</em> @HI{{ha}}</strong>
+<li> @EM{{<em>quantifier</em> @HI{{ha}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ this to be the minimum amount necessary.
 <table class="sentence">
   <tr class="jp"> <td>
       @KJ{{day}}@KJ{{book}}@HI{{deha}} @KJ{{tie}}@KJ{{marriage}}@KJ{{}}@HI{{wo surunoni}}
-      200@KJ{{ten*thousand}}<strong>@KJ{{circle}}@HI{{ha}}</strong> @KJ{{need}}@HI{{rimasu.}}
+      200@KJ{{ten*thousand}}@EM{{@KJ{{circle}}@HI{{ha}}}} @KJ{{need}}@HI{{rimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       In Japan you need at least 2 million yen to hold a wedding.

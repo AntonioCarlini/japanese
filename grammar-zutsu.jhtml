@@ -14,22 +14,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quantifier</em>  <strong>@HI{{zutsu}}</strong>
+<li> <em>quantifier</em>  @EM{{@HI{{zutsu}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{zutsu}}</strong> is a particle that indicates that a quantity is equally distributed.
+@EM{{@HI{{zutsu}}}} is a particle that indicates that a quantity is equally distributed.
 </p>
 
 <p>
-<strong>@HI{{zutsu}}</strong> always follows a quantifier.
+@EM{{@HI{{zutsu}}}} always follows a quantifier.
 </p>
 
 <p>
-If <strong>@HI{{zutsu}}</strong> is removed from the sentence the meaning hardly changes. 
-<strong>@HI{{zutsu}}</strong> serves only focus on the equal distribution.
+If @EM{{@HI{{zutsu}}}} is removed from the sentence the meaning hardly changes. 
+@EM{{@HI{{zutsu}}}} serves only focus on the equal distribution.
 </p>
 
 <h2> Examples </h2>
@@ -38,7 +38,7 @@ If <strong>@HI{{zutsu}}</strong> is removed from the sentence the meaning hardly
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{dono @KT{{kurasu}}ni mo @KJ{{woman^child^study^life}}ga @KJ{{six^person}} <strong>zutsu</strong> ita.}}
+      @HI{{dono @KT{{kurasu}}ni mo @KJ{{woman^child^study^life}}ga @KJ{{six^person}} @EM{{zutsu}} ita.}}
   </td> </tr>
   <tr class="en"> <td>
       There were six girl students in each class.

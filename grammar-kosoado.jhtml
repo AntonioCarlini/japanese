@@ -115,33 +115,33 @@ tr.hg:hover
 <h2> Definition </h2>
 
 <p>
-The <strong>@HI{{ko}}-</strong> demonstratives generally relate to something near to the speaker, either physically or emotionally.
+The @EM{{@HI{{ko}}-}} demonstratives generally relate to something near to the speaker, either physically or emotionally.
 </p>
 
 <p>
-The <strong>@HI{{so}}-</strong> demonstratives generally relate to something near to the listener. They can be used to
+The @EM{{@HI{{so}}-}} demonstratives generally relate to something near to the listener. They can be used to
 refer to something that is not close to either the speaker or the listener if information about that
 thing has already been provided.
 </p>
 
 <p>
-The <strong>@HI{{a}}-</strong> demonstratives generally relate to something that is not near to either the speaker
+The @EM{{@HI{{a}}-}} demonstratives generally relate to something that is not near to either the speaker
 or the listener.
 </p>
 
 <p>
-The <strong>@HI{{do}}-</strong> demonstratives refer to something about which a question is being asked.
+The @EM{{@HI{{do}}-}} demonstratives refer to something about which a question is being asked.
 </p>
 
 <p>
-<a name="kore"><strong>@HI{{kore}}</strong></a>, <strong>@HI{{sore}}</strong> and <strong>@HI{{are}}</strong> are 
+<a name="kore">@EM{{@HI{{kore}}}}</a>, @EM{{@HI{{sore}}}} and @EM{{@HI{{are}}}} are 
 demonstratives and function as pronouns.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>kore</strong>wo kudasai.}}
+      @HI{{@EM{{kore}}wo kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please give me this one.
@@ -150,7 +150,7 @@ demonstratives and function as pronouns.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>sore</strong>ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
+      @HI{{@EM{{sore}}ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Is that a dictionary?
@@ -160,20 +160,20 @@ demonstratives and function as pronouns.
 </p>
 
 <p>
-<a name="dore"><strong>@HI{{dore}}</strong></a> is an interrogative used to ask the listener to choose one item from a
+<a name="dore">@EM{{@HI{{dore}}}}</a> is an interrogative used to ask the listener to choose one item from a
 set of <em>three</em> or more things.
 </p>
 
 
 <p>
-<a name="kono"><strong>@HI{{kono}}</strong></a>, <strong>@HI{{sono}}</strong> and <strong>@HI{{ano}}</strong> are
-pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is used with a following noun to ask "which" noun.
+<a name="kono">@EM{{@HI{{kono}}}}</a>, @EM{{@HI{{sono}}}} and @EM{{@HI{{ano}}}} are
+pre-noun adjectivals and serve to modify a noun. @EM{{@HI{{dono}}}} is used with a following noun to ask "which" noun.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>kono</strong>}}@KJ{{book}}@HI{{ha}}@KJ{{private}}@HI{{nodesu.}}
+      @HI{{@EM{{kono}}}}@KJ{{book}}@HI{{ha}}@KJ{{private}}@HI{{nodesu.}}
   </td> </tr>
   <tr class="en"> <td>
       This book is mine.
@@ -182,7 +182,7 @@ pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{<strong>ano</strong>}}@KJ{{direction}}@HI{{ha donata desuka.}}
+      @HI{{@EM{{ano}}}}@KJ{{direction}}@HI{{ha donata desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Who is that (person)?
@@ -191,7 +191,7 @@ pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @KT{{santosu}}@HI{{sanha <strong>dono</strong>}}@KJ{{person}}@HI{{desuka.}}
+      @KT{{santosu}}@HI{{sanha @EM{{dono}}}}@KJ{{person}}@HI{{desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Which one is Mr. Santos?
@@ -201,7 +201,7 @@ pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
-      <strong>kono</strong>@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
+      @EM{{kono}}@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
       @KJ{{place}}he @KJ{{going}}kemasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -212,14 +212,14 @@ pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is
 </p>
 
 <p>
-<a name="donna"><strong>@HI{{donnna}}</strong></a> is used with a following noun to mean "what kind of". 
+<a name="donna">@EM{{@HI{{donnna}}}}</a> is used with a following noun to mean "what kind of". 
 It can also be used to ask the listener to name one of a group which the following noun describes describes.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{nara}}@KJ{{good}}@HI{{ha <strong>donnna</strong>}}@KJ{{town}}@HI{{desuka.}}
+      @KJ{{nara}}@KJ{{good}}@HI{{ha @EM{{donnna}}}}@KJ{{town}}@HI{{desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       What kind of town is Nara?
@@ -228,7 +228,7 @@ It can also be used to ask the listener to name one of a group which the followi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{<strong>donna</strong>@KT{{supotsu}} ga suki desu ka.}}
+      A: @HI{{@EM{{donna}}@KT{{supotsu}} ga suki desu ka.}}
   </td> </tr>
   <tr class="jp"> <td>
       B: @KT{{sakka-}} @HI{{ga suki desu.}}
@@ -244,20 +244,20 @@ It can also be used to ask the listener to name one of a group which the followi
 </p>
 
 <p>
-<a name="koko"><strong>@HI{{koko}}</strong></a>, <strong>@HI{{soko}}</strong> and <stron>@HI{{asoko}}</strong> refer to a place.
+<a name="koko">@EM{{@HI{{koko}}}}</a>, @EM{{@HI{{soko}}}} and <stron>@HI{{asoko}}</strong> refer to a place.
 </p>
 
 <p>
-<a name="kochira"><strong>@HI{{kochira}}</strong></a>, <stron>@HI{{sochira}}</strong> and <strong>@HI{{achira}}</strong> are demonstratives
+<a name="kochira">@EM{{@HI{{kochira}}}}</a>, <stron>@HI{{sochira}}</strong> and @EM{{@HI{{achira}}}} are demonstratives
 that refer to a direction. They can also be used to refer to a place, in which case they are considered more
-polite than <strong>@HI{{koko}}</strong>, <strong>@HI{{soko}}</strong> and <strong>@HI{{asoko}}</strong>.
+polite than @EM{{@HI{{koko}}}}, @EM{{@HI{{soko}}}} and @EM{{@HI{{asoko}}}}.
 </p>
 
 <p>
-<a name="doko"><strong>@HI{{doko}}</strong></a> means "where" and <strong>@HI{{dochira}}</strong> means "which direction".
-<strong>@HI{{dochira}}</strong> can also mean "where", in which case it is more polite than
-<strong>@HI{{doko}}</strong>. <br/>
-<strong>@HI{{doko}}</strong> or <strong>@HI{{dochira}}</strong> are also used to ask the name of a country, school,
+<a name="doko">@EM{{@HI{{doko}}}}</a> means "where" and @EM{{@HI{{dochira}}}} means "which direction".
+@EM{{@HI{{dochira}}}} can also mean "where", in which case it is more polite than
+@EM{{@HI{{doko}}}}. <br/>
+@EM{{@HI{{doko}}}} or @EM{{@HI{{dochira}}}} are also used to ask the name of a country, school,
 company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
 used for this purpose.
 </p>

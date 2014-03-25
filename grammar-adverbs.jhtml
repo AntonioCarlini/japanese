@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Aistem{{}}<strong>@HI{{ku}}</strong>V
-<li> @Anastem{{}}<strong>@HI{{ni}}</strong>V
+<li> @Aistem{{}}@EM{{@HI{{ku}}}}V
+<li> @Anastem{{}}@EM{{@HI{{ni}}}}V
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ Both forms of adjectives can form adverbs.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{plains^vegetable}}wo @KJ{{dainty}}ka<strong>ku</strong>@KJ{{cut}}te kudasai.}}
+      @HI{{@KJ{{plains^vegetable}}wo @KJ{{dainty}}ka@EM{{@HI{{ku}}}}@KJ{{cut}}te kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please cut the vegetables into small pieces.
@@ -38,7 +38,7 @@ Both forms of adjectives can form adverbs.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^spirit}}ya @KJ{{water}}ha @KJ{{large^cut}}<strong>ni</strong> @KJ{{use}}imashou.}}
+      @HI{{@KJ{{electricity^spirit}}ya @KJ{{water}}ha @KJ{{large^cut}}@EM{{@HI{{ni}}}} @KJ{{use}}imashou.}}
   </td> </tr>
   <tr class="en"> <td>
       Let's conserve electricity and water.

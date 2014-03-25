@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{person}} @HI{{wo}} <strong>@Vsaseru{{}}</strong>(intransitive)
-<li> @N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} <strong>@Vsaseru{{}}</strong>(transitive)
+<li> @N{{person}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(intransitive)
+<li> @N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(transitive)
 </ol>
 
 <h2> Definition </h2>
@@ -40,7 +40,7 @@ causative is used regardless of status.
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{section^long}}ha @KJ{{mountain^rice*field}}sann wo @KJ{{large^heights}}he 
-      <strong>@KJ{{exit^lengthen}}sasemasu</strong>.}}
+      @EM{{@KJ{{exit^lengthen}}sasemasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The department manager makes Mr. Yamada go to Osaka on business.
@@ -50,7 +50,7 @@ causative is used regardless of status.
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{daughter}}wo @KJ{{oneself^wherefore}}ni
-      <strong>@KJ{{play}}basemashita</strong>.}}
+      @EM{{@KJ{{play}}basemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I let my daughter play freely.
@@ -60,7 +60,7 @@ causative is used regardless of status.
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{morning}}ha @KJ{{busy}}shii desukara, @KJ{{daughter}}ni @KJ{{morning}}gohan'no
-      @KJ{{semi-^equip}}wo <strong>@KJ{{hand^transmit}}wasemasu</strong>.}}
+      @KJ{{semi-^equip}}wo @EM{{@KJ{{hand^transmit}}wasemasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I am busy in the morning, so I make my daughter help prepare breakfast.
@@ -71,7 +71,7 @@ causative is used regardless of status.
   <tr class="jp"> <td>
       @HI{{@KJ{{station}}ni @KJ{{don}}itara, o@KJ{{electricity^tale}}wo kudasai.
       @KJ{{person*in*charge}}no@KJ{{someone}}wo @KJ{{welcome}}eni
-      <strong>@KJ{{going}}kasemasu</strong>kara.}}
+      @EM{{@KJ{{going}}kasemasu}}kara.}}
   </td> </tr>
   <tr class="en"> <td>
       When you arrive at the station, please call me. I will send a member of staff to pick you up.

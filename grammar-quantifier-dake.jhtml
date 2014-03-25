@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong><em>quantifier</em> @HI{{dake}}</strong>
-<li> <strong>@N{{}} @HI{{dake}}</strong>
+<li> @EM{{<em>quantifier</em> @HI{{dake}}}}
+<li> @EM{{@N{{}} @HI{{dake}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ there is no more or nothing else.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rest}}miha @KJ{{day^weekday^day}}<strong>dake</strong> desu.}}
+      @HI{{@KJ{{rest}}miha @KJ{{day^weekday^day}}@EM{{dake}} desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I only have Sundays off

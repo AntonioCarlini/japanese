@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{hodo}}</strong>
-<li> <em>demonstrative</em><strong>@HI{{hodo}}</strong>
-<li> @Splain{{}}<strong>@HI{{hodo}}</strong>
+<li> @N{{}}@EM{{@HI{{hodo}}}}
+<li> <em>demonstrative</em>@EM{{@HI{{hodo}}}}
+<li> @Splain{{}}@EM{{@HI{{hodo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hodo}}</strong> is used to indicate an approximate amount or an approximate maximum.
+@EM{{@HI{{hodo}}}} is used to indicate an approximate amount or an approximate maximum.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{come^month}}ha,@KJ{{one^week^interval}}<strong>hodo</strong>@KJ{{nine^state}}he@KJ{{exit^lengthen}}shimasu.}}
+      @HI{{@KJ{{come^month}}ha,@KJ{{one^week^interval}}@EM{{hodo}}@KJ{{nine^state}}he@KJ{{exit^lengthen}}shimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Next month I'll be going on a business trip to Kyushu for as long as a week.
@@ -36,7 +36,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^degrees}}no@KJ{{matter^happenstance}}de,100@KJ{{person}}<strong>hodo</strong>no@KJ{{person}}ga
+      @HI{{@KJ{{now^degrees}}no@KJ{{matter^happenstance}}de,100@KJ{{person}}@EM{{hodo}}no@KJ{{person}}ga
       @KJ{{death}}ndasoudesu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -47,12 +47,12 @@
 </p>
 
 <p>
-<strong>@HI{{hodo}}</strong> is used to indicate a comparison. Note that when <strong>@HI{{hodo}}</strong>
+@EM{{@HI{{hodo}}}} is used to indicate a comparison. Note that when @EM{{@HI{{hodo}}}}
 follows a noun, the predicate must be in the negative.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^year}}ha@KJ{{gone^year}}<strong>hodo</strong>@KJ{{cold}}kunaidesu.}}
+      @HI{{@KJ{{now^year}}ha@KJ{{gone^year}}@EM{{hodo}}@KJ{{cold}}kunaidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       This year is not as cold as last year.
@@ -62,13 +62,13 @@ follows a noun, the predicate must be in the negative.
 </p>
 
 <p>
-<strong>@HI{{hodo}}</strong> indicates the extent of an action or condition by citing a specific example.
+@EM{{@HI{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
 
 <ul>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^day}}ha,@KJ{{exertion^study}}gadekinai<strong>hodo</strong>@KJ{{exhausted}}reta.}}
+      @HI{{@KJ{{now^day}}ha,@KJ{{exertion^study}}gadekinai@EM{{hodo}}@KJ{{exhausted}}reta.}}
   </td> </tr>
   <tr class="en"> <td>
       Today I'm so tired that I cannot study.
@@ -79,7 +79,7 @@ follows a noun, the predicate must be in the negative.
 </p>
 
 <p>
-<strong>@HI{{hodo}}</strong> is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
+@EM{{@HI{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
 <hr>
 </p>
 

@@ -13,18 +13,18 @@
 
 <h2> Formation </h2>
 
-<strong>@Vte{{}}@HI{{itadakemasenka}}</strong>
+@EM{{@Vte{{}}@HI{{itadakemasenka}}}}
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}}@HI{{itadakemasenka}}</strong> is used to ask "Would you please do me the favour of ...".
+@EM{{@Vte{{}}@HI{{itadakemasenka}}}} is used to ask "Would you please do me the favour of ...".
 It is a politer request expression than <a href="grammar-te-kudasai.html">@Vte{{}}@HI{{kudasai}}</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ii}}@KJ{{before}}@KJ{{life}}@HI{{wo}}@KJ{{introduce}}@KJ{{jammed*in}}
-      @HI{{shi<strong>teitadakemasenka</strong>.}}
+      @HI{{shi@EM{{teitadakemasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Would you please introduce me to a good teacher?

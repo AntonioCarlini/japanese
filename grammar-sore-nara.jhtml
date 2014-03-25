@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sorenara}}</strong> ...
+<li> @EM{{@HI{{sorenara}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{sorenara}}</strong> is a conjunction used a the beginning of a sentence to refer to something
+@EM{{@HI{{sorenara}}}} is a conjunction used a the beginning of a sentence to refer to something
 mentioned in a previous sentence. The meaning is "in that case".
 
 <table class="sentence" border=0>
@@ -28,7 +28,7 @@ mentioned in a previous sentence. The meaning is "in that case".
       A: @HI{{@KJ{{head}}ga@KJ{{pain}}iidesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{<strong>sorenara</strong>sugu@KJ{{lie*down}}nasai.}}
+      B: @HI{{@EM{{sorenara}}sugu@KJ{{lie*down}}nasai.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I have a headache.
@@ -42,19 +42,19 @@ mentioned in a previous sentence. The meaning is "in that case".
 <h2> Notes </h2>
 
 <p>
-The @HI{{sore}} in @HI{{<strong>sorenara</strong>}} refers to something in a previous sentence. The @HI{{nara}} refers to the speaker's supposition regarding the truth of the previous statement.
+The @HI{{sore}} in @HI{{@EM{{sorenara}}}} refers to something in a previous sentence. The @HI{{nara}} refers to the speaker's supposition regarding the truth of the previous statement.
 </p>
 
 <p>
-@HI{{<strong>sorenara</strong>}} has a more formal form @HI{{sorenaraba}}.
+@HI{{@EM{{sorenara}}}} has a more formal form @HI{{sorenaraba}}.
 </p>
 
 <p>
-The sentence following @HI{{<strong>sorenara</strong>}} is bound by the same restrictions that apply to @HI{{nara}}.
+The sentence following @HI{{@EM{{sorenara}}}} is bound by the same restrictions that apply to @HI{{nara}}.
 </p>
 
 <p>
-Unlike <a href="grammar-sore-dewa.html">@HI{{soredeha}}</a>, @HI{{<strong>sorenara</strong>}} depends on a verbal context.
+Unlike <a href="grammar-sore-dewa.html">@HI{{soredeha}}</a>, @HI{{@EM{{sorenara}}}} depends on a verbal context.
 /p>
 
 <h2> References </h2>

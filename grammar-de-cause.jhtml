@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{de}}</strong> ...
+<li> @N{{}} @EM{{@HI{{de}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-The particle <strong>@HI{{de}}</strong> can indicate a weak causal releationship.
+The particle @EM{{@HI{{de}}}} can indicate a weak causal releationship.
 </p>
 
 <p>
@@ -37,7 +37,7 @@ The predicate cannot include volition.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{ground^quake}}<strong>de</strong> @KT{{biru}}ga @KJ{{overthrow}}remashita.}}
+      @HI{{@KJ{{ground^quake}}@EM{{de}} @KT{{biru}}ga @KJ{{overthrow}}remashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Because of the earthquake, a building collapsed.

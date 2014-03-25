@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{nado}}</strong> ... 
+<li> @N{{}} @EM{{@HI{{nado}}}} ... 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nado}}</strong> is used to terminate a non-exhaustive list of nouns. It is often used in conjunction
+@EM{{@HI{{nado}}}} is used to terminate a non-exhaustive list of nouns. It is often used in conjunction
 with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 of nouns.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha,@KT{{ringo}}yamikannyabanana<strong>nado</strong>,kudamononara@KJ{{what}}demo@KJ{{fond}}kidesu.}}
+      @HI{{@KJ{{private}}ha,@KT{{ringo}}yamikannyabanana@EM{{nado}},kudamononara@KJ{{what}}demo@KJ{{fond}}kidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I like any kind of fruit: apples, oranges, bananas.
@@ -35,11 +35,11 @@ of nouns.
 </p>
 
 <p>
-<strong>@HI{{nado}}</strong> can be used to indicate a tentative suggestion.
+@EM{{@HI{{nado}}}} can be used to indicate a tentative suggestion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{come^week}}no@KJ{{trip^going}}ha@KJ{{box^root}}<strong>nado</strong>doudesuka.}}
+      @HI{{@KJ{{come^week}}no@KJ{{trip^going}}ha@KJ{{box^root}}@EM{{nado}}doudesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       How about Hakone for next week's trip?

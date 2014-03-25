@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{na}}</strong>.
-<li> <strong>@HI{{naa}}</strong>.
+<li> @EM{{@HI{{na}}}}.
+<li> @EM{{@HI{{naa}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{na}}</strong> is a sentence ending particle with a number of uses.
+@EM{{@HI{{na}}}} is a sentence ending particle with a number of uses.
 </p>
 
 <p>
-Some uses of <strong>@HI{{na}}</strong> are most often used by men:
+Some uses of @EM{{@HI{{na}}}} are most often used by men:
 <ul>
 <li> indicates emotion
 <li> asks for agreement
@@ -34,7 +34,7 @@ Some uses of <strong>@HI{{na}}</strong> are most often used by men:
 </p>
 
 <p>
-Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
+Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
 <ul>
 <li> softens the effect of an assertion
 <li> softens a request or a command
@@ -47,7 +47,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kireina@KJ{{star}}da<strong>naa</strong>.}}
+      @HI{{kireina@KJ{{star}}da@EM{{naa}}.}}
   </td> </tr>
   <tr class="en"> <td>
       What a beautiful star!
@@ -56,7 +56,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{car}}ha@KJ{{new^car}}da yo<strong>na</strong>.}}
+      @HI{{ano@KJ{{car}}ha@KJ{{new^car}}da yo@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       That's a new car I bet.
@@ -65,7 +65,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{mouano@KT{{ba-}}ni@KJ{{going}}<strong>na</strong>.}}
+      @HI{{mouano@KT{{ba-}}ni@KJ{{going}}@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Don't go to that bar again.
@@ -74,7 +74,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{reflect^brush-stroke}}hayokunakatta<strong>na</strong>.}}
+      @HI{{kono@KJ{{reflect^brush-stroke}}hayokunakatta@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       That film wasn't very good.
@@ -83,7 +83,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{turn*into^rice*field}}made@KJ{{going}}ttekudasai<strong>na</strong>.}}
+      @HI{{@KJ{{turn*into^rice*field}}made@KJ{{going}}ttekudasai@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Narita ariport, if you please. <em>(used by a woman)</em>
@@ -92,7 +92,7 @@ Some uses of <strong>@HI{{na}}</strong> can be used by either men or women:
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{bright^day^invariably}}zu@KJ{{come}}ru<strong>na</strong>.}}
+      @HI{{@KJ{{bright^day^invariably}}zu@KJ{{come}}ru@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Be sure to come tomorrow. <em>(used by a man)</em>

@@ -20,7 +20,7 @@
 <h2> Definition </h2>
 
 <p>
-<strong>@KJ{{direction}}</strong> forms a noun from the @HI{{masu}} stem of a verb.
+@EM{{@KJ{{direction}}}} forms a noun from the @HI{{masu}} stem of a verb.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ The meaning can be either "way" or "manner" and is determined by the context.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{ke-ki}}no @KJ{{make}}ri<strong>@KJ{{direction}}</strong>wo @KJ{{teach}}ete kudasai.}}
+    @HI{{@KT{{ke-ki}}no @KJ{{make}}ri@EM{{@KJ{{direction}}}}wo @KJ{{teach}}ete kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
     Please show me how to make a cake.
@@ -39,12 +39,12 @@ The meaning can be either "way" or "manner" and is determined by the context.
 <h2> Notes </h2>
 
 <p>
-Sino-Japanese @HI{{suru}} verbs take the particle @HI{{no}} before @HI{{shi<strong>@KJ{{direction}}</strong>}},
-for example @KJ{{electricity^tale}}@HI{{no shi}}<strong>@KJ{{direction}}</strong>.
+Sino-Japanese @HI{{suru}} verbs take the particle @HI{{no}} before @HI{{shi@EM{{@KJ{{direction}}}}}},
+for example @KJ{{electricity^tale}}@HI{{no shi}}@EM{{@KJ{{direction}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no@KJ{{attend}}<strong>@KJ{{direction}}</strong>wo
+    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no@KJ{{attend}}@EM{{@KJ{{direction}}}}wo
     @KJ{{teach}}ete kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -54,11 +54,11 @@ for example @KJ{{electricity^tale}}@HI{{no shi}}<strong>@KJ{{direction}}</strong
 </p>
 
 <p>
-When <strong>@KJ{{direction}}</strong> means "method", it can be replaced by <strong>@KJ{{direction^method}}</strong>.
+When @EM{{@KJ{{direction}}}} means "method", it can be replaced by @EM{{@KJ{{direction^method}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no<strong>@KJ{{direction^method}}</strong>wo @KJ{{teach}}ete kudasai.}}
+    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no@EM{{@KJ{{direction^method}}}}wo @KJ{{teach}}ete kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
     Please teach me a method to learn Japanese.

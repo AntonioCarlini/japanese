@@ -45,7 +45,7 @@ To ask "how many people?", use @HI{{nannninn}}.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{outside^country^person}}no@KJ{{study^life}}ga <strong>2@KJ{{person}}</strong> imasu.}}
+      @HI{{@KJ{{outside^country^person}}no@KJ{{study^life}}ga @EM{{2@KJ{{person}}}} imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       There are two foreign students.

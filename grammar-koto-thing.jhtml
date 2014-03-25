@@ -14,22 +14,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{koto}}</strong>
-<li> @Ai{{}} <strong>@HI{{koto}}</strong>
-<li> @Ana{{}} <strong>@HI{{koto}}</strong>
-<li> @N{{}}@HI{{no}} <strong>@HI{{koto}}</strong>
+<li> @Vru{{}} @EM{{@HI{{koto}}}}
+<li> @Ai{{}} @EM{{@HI{{koto}}}}
+<li> @Ana{{}} @EM{{@HI{{koto}}}}
+<li> @N{{}}@HI{{no}} @EM{{@HI{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koto}}</strong> represents an intangible thing.
+@EM{{@HI{{koto}}}} represents an intangible thing.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ii<strong>koto</strong>wo@KJ{{teach}}eteagemashou.}}
+      @HI{{ii@EM{{koto}}wo@KJ{{teach}}eteagemashou.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll tell you a good thing./I have a good suggestion for you.
@@ -38,7 +38,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{argument^sentence}}ni@KJ{{write}}ta<strong>koto</strong>wo@KJ{{tale}}shitekudasai.}}
+      @HI{{@KJ{{argument^sentence}}ni@KJ{{write}}ta@EM{{koto}}wo@KJ{{tale}}shitekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please tell me what you wrote in your thesis.
@@ -50,12 +50,12 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{koto}}</strong> can only be used to refer to something intangible. For tangible items use
+@EM{{@HI{{koto}}}} can only be used to refer to something intangible. For tangible items use
 <a href="grammar-mono-da.html">@HI{{mono}}</a>.
 </p>
 
 <p>
-@N{{}}@HI{{no<strong>koto</strong>}} is often used with verbs such as @HI{{shitteiru}}, @KJ{{tale}}@HI{{su}} 
+@N{{}}@HI{{no@EM{{koto}}}} is often used with verbs such as @HI{{shitteiru}}, @KJ{{tale}}@HI{{su}} 
 and @KJ{{part}}@HI{{karu}} to mean !about @N{{}}".
 </p>
 

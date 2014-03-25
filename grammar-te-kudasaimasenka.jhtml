@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vte{{}} @HI{{kudasaimasenka}}</strong>
+<li> @EM{{@Vte{{}} @HI{{kudasaimasenka}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@Vte{{}} @HI{{kudasaimasenka}}</strong> is a polite expression of request, although it is less
+@EM{{@Vte{{}} @HI{{kudasaimasenka}}}} is a polite expression of request, although it is less
 polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}} @HI{{itadakemasenka}}</a>.
 </p>
 
@@ -30,7 +30,7 @@ polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}} @HI{{itadakemasenk
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{kopi-}}@KJ{{mechanism}}no @KJ{{use}}i@KJ{{direction}}wo @KJ{{teach}}e<strong>te kudasaimasenka</strong>.}}
+      @HI{{@KT{{kopi-}}@KJ{{mechanism}}no @KJ{{use}}i@KJ{{direction}}wo @KJ{{teach}}e@EM{{te kudasaimasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Will you kindly teach me how to use the photocopier?

@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sore deha}}</strong> ...
+<li> @EM{{@HI{{sore deha}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{sore deha}}</strong> is a conjunction which means "if that is the case ...".
+@EM{{@HI{{sore deha}}}} is a conjunction which means "if that is the case ...".
 <p></p>
 
 <h2> Examples </h2>
@@ -31,7 +31,7 @@
       A: @HI{{kono @KT{{orenji}}ha @KJ{{sweet}}kunai desu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{<strong>sore deha</strong> kore ha dou desuka.}}
+      B: @HI{{@EM{{sore deha}} kore ha dou desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       A: This orange is not sweet.
@@ -44,13 +44,13 @@
 
 <h2> Notes </h2>
 
-@HI{{<strong>sore deha</strong>}} becomes @HI{{sore ja}} in informal speech.
+@HI{{@EM{{sore deha}}}} becomes @HI{{sore ja}} in informal speech.
 <p></p>
 
-@HI{{<strong>sore deha</strong>}} sometimes shortens to @HI{{deha}} which then become @HI{{ja}} in informal speech.
+@HI{{@EM{{sore deha}}}} sometimes shortens to @HI{{deha}} which then become @HI{{ja}} in informal speech.
 <p></p>
 
-@HI{{<strong>sore deha</strong>}} is found at the beginning of a sentence and the @HI{{sore}} refers to something already mentioned.
+@HI{{@EM{{sore deha}}}} is found at the beginning of a sentence and the @HI{{sore}} refers to something already mentioned.
 <p></p>
 
 <h2> References </h2>

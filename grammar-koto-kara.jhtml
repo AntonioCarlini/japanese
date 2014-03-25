@@ -14,22 +14,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}<strong>@HI{{kotokara}}</strong>
-<li> @Ai{{}}<strong>@HI{{kotokara}}</strong>
-<li> @Ana{{}}<strong>@HI{{kotokara}}</strong>
-<li> @Anastem{{}}@HI{{dearu}}<strong>@HI{{kotokara}}</strong>
-<li> @N{{}}@HI{{dearu}}<strong>@HI{{kotokara}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{kotokara}}}}
+<li> @Ai{{}}@EM{{@HI{{kotokara}}}}
+<li> @Ana{{}}@EM{{@HI{{kotokara}}}}
+<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{kotokara}}}}
+<li> @N{{}}@HI{{dearu}}@EM{{@HI{{kotokara}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kotokara}}</strong> is used in this construction to mean that the preceding clause is the cause
+@EM{{@HI{{kotokara}}}} is used in this construction to mean that the preceding clause is the cause
 of the subsequent one.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{book^hit}}nisasaina<strong>kotokara</strong>,@KJ{{meeting^discuss}}ha@KJ{{in^stop}}ninatteshimatta.}}
+      @HI{{@KJ{{book^hit}}nisasaina@EM{{kotokara}},@KJ{{meeting^discuss}}ha@KJ{{in^stop}}ninatteshimatta.}}
   </td> </tr>
   <tr class="en"> <td>
       Because of a really trivial matter, the conference broke up.

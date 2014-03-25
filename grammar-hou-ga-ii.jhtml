@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} <strong>@HI{{hou ga ii}}</strong>
-<li> @Vnai{{}} <strong>@HI{{hou ga ii}}</strong>
+<li> @Vta{{}} @EM{{@HI{{hou ga ii}}}}
+<li> @Vnai{{}} @EM{{@HI{{hou ga ii}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hou ga ii}}</strong> is used to make a suggestion or to give advice. This construction may come across
+@EM{{@HI{{hou ga ii}}}} is used to make a suggestion or to give advice. This construction may come across
 as though the speaker is imposing his opinion on the listener, and so it should be used with care.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{every^day carry^move}}shita <strong>hou ga ii</strong>desu.}}
+      @HI{{@KJ{{every^day carry^move}}shita @EM{{hou ga ii}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       It is good to exercise every day.
@@ -35,14 +35,14 @@ as though the speaker is imposing his opinion on the listener, and so it should 
 </p>
 
 <p>
-When <strong>@HI{{hou ga ii}}</strong> is preceded by a verb in the plain negative it means "had better not do".
+When @EM{{@HI{{hou ga ii}}}} is preceded by a verb in the plain negative it means "had better not do".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       A: @HI{{@KJ{{heat}}ga arundesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{jaa, ofuroni @KJ{{enter}}ranai <strong>hou ga ii</strong>desu.}}
+      B: @HI{{jaa, ofuroni @KJ{{enter}}ranai @EM{{hou ga ii}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I have a fever.
@@ -56,12 +56,12 @@ When <strong>@HI{{hou ga ii}}</strong> is preceded by a verb in the plain negati
 <h2> Notes </h2>
 
 <p>
-@HI{{<strong>hou ga ii</strong>}} implies a choice between two alternatives, even if one is only implied. If a simple
+@HI{{@EM{{hou ga ii}}}} implies a choice between two alternatives, even if one is only implied. If a simple
 suggestion is being made then @HI{{tara ii}} should be used instead.
 </p>
 
 <p>
-It is possible to use @Vru{{}} @HI{{<strong>hou ga ii</strong>}}, in which case the suggestion is slightly less strong.
+It is possible to use @Vru{{}} @HI{{@EM{{hou ga ii}}}}, in which case the suggestion is slightly less strong.
 However, it is not possible to use the negative past form instead of @Vnai{{}}.
 </p>
 

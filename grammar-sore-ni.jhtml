@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{soreni}}</strong> ...
+<li> @EM{{@HI{{soreni}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{soreni}}</strong> is used when the speaker wishes to add a further
+@EM{{@HI{{soreni}}}} is used when the speaker wishes to add a further
 example to an existing enumeration.
 <p></p>
 
@@ -33,7 +33,7 @@ example to an existing enumeration.
   </td> </tr>
   <tr class="jp"> <td>
       B: @HI{{sakura@KJ{{large^study}}ha, @KJ{{father}}ga@KJ{{exit}}ta @KJ{{large^study}}dashi,
-      ii @KJ{{before^life}}mo @KJ{{many}}ishi, <strong>soreni</strong>@KJ{{house}}kara
+      ii @KJ{{before^life}}mo @KJ{{many}}ishi, @EM{{soreni}}@KJ{{house}}kara
       @KJ{{near}}idesukara.}}
   </td> </tr>
   <tr class="en"> <td>

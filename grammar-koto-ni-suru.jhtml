@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}<strong>@HI{{kotonisuru}}</strong>
-<li> @Vte{{}}@HI{{iru}}<strong>@HI{{kotonisuru}}</strong>
-<li> @Vnai{{}}<strong>@HI{{kotonisuru}}</strong>
-<li> @Vru{{}}<strong>@HI{{kotonishiteiru}}</strong>
-<li> @Vnai{{}}<strong>@HI{{kotonishiteiru}}</strong>
+<li> @Vru{{}}@EM{{@HI{{kotonisuru}}}}
+<li> @Vte{{}}@HI{{iru}}@EM{{@HI{{kotonisuru}}}}
+<li> @Vnai{{}}@EM{{@HI{{kotonisuru}}}}
+<li> @Vru{{}}@EM{{@HI{{kotonishiteiru}}}}
+<li> @Vnai{{}}@EM{{@HI{{kotonishiteiru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kotonisuru}}</strong> indicates a volitional decision. It is a more complex form of
+@EM{{@HI{{kotonisuru}}}} indicates a volitional decision. It is a more complex form of
 <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
 
 <ol>
@@ -50,7 +50,7 @@
 </p>
 
 <p>
-The form <strong>@HI{{kotonishiteiru}}</strong> indicates that the decision is still in force.
+The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in force.
 
 <table class="sentence">
   <tr class="jp"> <td>

@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}} <strong>@HI{{nikui}}</strong>
+<li> @Vmasustem{{}} @EM{{@HI{{nikui}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nikui}}</strong> is an auxiliary that adds a nuance of "difficult to do".
+@EM{{@HI{{nikui}}}} is an auxiliary that adds a nuance of "difficult to do".
 The combined form functions as an @HI{{i}}-adjective and inflects in the same way.
 </p>
 
@@ -30,7 +30,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KJ{{book}}ha @KJ{{large^unusual read}}mi<strong>nikui</strong>desu.}}
+      @HI{{kono @KJ{{book}}ha @KJ{{large^unusual read}}mi@EM{{nikui}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       This book is very hard to read.
@@ -39,7 +39,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{east^capital}}ha @KJ{{dwell}}mi<strong>nikui</strong>desu.}}
+      @HI{{@KJ{{east^capital}}ha @KJ{{dwell}}mi@EM{{nikui}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Living in Tokyo is difficult.

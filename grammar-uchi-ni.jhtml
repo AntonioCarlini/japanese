@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> @Vnai{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> @Vte{{}} @HI{{iru}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> @Ai{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> @Ana{{}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> @N{{}} @HI{{no}} <strong>@HI{{uchi ni}}</strong>, @V2{{}}
-<li> <em>quantifier(period)</em> <strong>@HI{{uchi ni}}</strong>, @V2{{}}
+<li> @Vru{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @Vnai{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @Ai{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @Ana{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> <em>quantifier(period)</em> @EM{{@HI{{uchi ni}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{uchi ni}}</strong> expresses the general time in which a state or action occurs.
+@EM{{@HI{{uchi ni}}}} expresses the general time in which a state or action occurs.
 </p>
 
 <h2> Examples </h2>
@@ -44,7 +44,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rain}}ga@KJ{{descend}}ranai <strong>uchi ni</strong>@KT{{tenisu}}wo shite kimasu.}}
+      @HI{{@KJ{{rain}}ga@KJ{{descend}}ranai @EM{{uchi ni}}@KT{{tenisu}}wo shite kimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll go and play tennis (and come back) before it rains.
@@ -53,7 +53,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{warm}}kai<strong>uchi ni</strong>@KJ{{drink}}de kudasai.}}
+      @HI{{@KJ{{warm}}kai@EM{{uchi ni}}@KJ{{drink}}de kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please drink it while it is warm.
@@ -62,7 +62,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rest}}mino<strong>uchi ni</strong>yoku@KJ{{sleep}}teokimasu.}}
+      @HI{{@KJ{{rest}}mino@EM{{uchi ni}}yoku@KJ{{sleep}}teokimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll sleep a lot during the holiday.
@@ -73,11 +73,11 @@
 <h2> Notes </h2>
 
 <p>
-The expression before <strong>@HI{{uchi ni}}</strong> is always non-past even if the sentence itself is in the past.
+The expression before @EM{{@HI{{uchi ni}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-<strong>@HI{{uchi ni}}</strong> cannot be used where the noun used is an event such as a class.
+@EM{{@HI{{uchi ni}}}} cannot be used where the noun used is an event such as a class.
 </p>
 
 <h2> References </h2>

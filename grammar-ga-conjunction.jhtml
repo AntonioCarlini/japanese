@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}} <strong>@HI{{ga}}</strong> @S2{{}}
+<li> @S1{{}} @EM{{@HI{{ga}}}} @S2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^salute}}<strong>ga</strong>, o@KJ{{evening^in*front}}ha?}}
+      @HI{{@KJ{{before^salute}}@EM{{ga}}, o@KJ{{evening^in*front}}ha?}}
   </td> </tr>
   <tr class="en"> <td>
       Excuse me, but may I have your name?

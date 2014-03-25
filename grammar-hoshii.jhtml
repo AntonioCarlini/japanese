@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{hoshii}}</strong>
+<li> @EM{{@HI{{hoshii}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hoshii}}</strong> is an @HI{{i}}-adjective that expresses a desire for something. The experiencer is marked by @HI{{ha}}
+@EM{{@HI{{hoshii}}}} is an @HI{{i}}-adjective that expresses a desire for something. The experiencer is marked by @HI{{ha}}
 and the object that is desired is marked by @HI{{ga}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{car}}ga<strong>hoshii</strong>desu.}}
+      @HI{{@KJ{{private}}ha@KJ{{car}}ga@EM{{hoshii}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I want a car.
@@ -34,12 +34,12 @@ and the object that is desired is marked by @HI{{ga}}.
 </p>
 
 <p>
-As <strong>@HI{{hoshii}}</strong> is a strong adjective of emotion, the experiencer is usually the speaker. The experiencer can be
+As @EM{{@HI{{hoshii}}}} is a strong adjective of emotion, the experiencer is usually the speaker. The experiencer can be
 the listener if an interrogative form is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{child}}domoga<strong>hoshii</strong>desuka.}}
+      @HI{{@KJ{{child}}domoga@EM{{hoshii}}desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Do you want a child?
@@ -47,9 +47,9 @@ the listener if an interrogative form is used.
 </table>
 <br/><br/>
 
-In most cases where a third person is the experiencer, <strong>@HI{{hoshii}}</strong> 
+In most cases where a third person is the experiencer, @EM{{@HI{{hoshii}}}} 
 will be used with <a href="grammar-garu.html">@HI{{garu}}</a> in the form @HI{{hoshigatteiru}}. There are exceptions where
-<strong>@HI{{hoshii}}</strong> can be used with a third person:
+@EM{{@HI{{hoshii}}}} can be used with a third person:
 <ol>
 <li> with a past tense
 

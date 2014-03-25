@@ -14,14 +14,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{ni shite ha}}</strong>
-<li> @N{{}} @HI{{datta <strong>ni shite ha</strong>}}
-<li> @Vplain{{}} <strong>@HI{{ni shite ha}}</strong>
+<li> @N{{}} @EM{{@HI{{ni shite ha}}}}
+<li> @N{{}} @HI{{datta @EM{{ni shite ha}}}}
+<li> @Vplain{{}} @EM{{@HI{{ni shite ha}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{ni shite ha}}</strong> is used to mean that there is a generally agreed upon standard and that the sentence containing
+@EM{{@HI{{ni shite ha}}}} is used to mean that there is a generally agreed upon standard and that the sentence containing
 this phrase is a deviation from that standard in some way. It can be translated as "considering that ...".
 <p></p>
 
@@ -31,7 +31,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{tall^mountain}}sanha @KJ{{day^book^person}} <strong>ni shite ha</strong> @KJ{{large}}kiidesu.}}
+    @HI{{@KJ{{tall^mountain}}sanha @KJ{{day^book^person}} @EM{{ni shite ha}} @KJ{{large}}kiidesu.}}
   </td> </tr>
   <tr class="en"> <td>
     Mr. Takayama is big for a Japanese person.
@@ -40,7 +40,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{bobu}}ha @KJ{{day^book^word}}wo yoku @KJ{{exertion^strong}}shite iru <strong>ni shita ha</strong> @KJ{{below^hand}}desu.}}
+    @HI{{@KT{{bobu}}ha @KJ{{day^book^word}}wo yoku @KJ{{exertion^strong}}shite iru @EM{{ni shita ha}} @KJ{{below^hand}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     Considering that Bob is studying Japanese hard, he is poor at it.
@@ -49,7 +49,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{he}}ha @KT{{resura-}} datta <strong>ni shite ha</strong> @KJ{{body}}ga@KJ{{little}}sai.}}
+    @HI{{@KJ{{he}}ha @KT{{resura-}} datta @EM{{ni shite ha}} @KJ{{body}}ga@KJ{{little}}sai.}}
   </td> </tr>
   <tr class="en"> <td>
     Considering that he was a wrestler, he is small.
@@ -59,7 +59,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 
 <h2> Notes </h2>
 
-<strong>@HI{{ni shite ha}}</strong> is the @HI{{te}}-form of @HI{{ni suru}} and literally means "if one makes it ~".
+@EM{{@HI{{ni shite ha}}}} is the @HI{{te}}-form of @HI{{ni suru}} and literally means "if one makes it ~".
 <p></p>
 
 <h2> References </h2>

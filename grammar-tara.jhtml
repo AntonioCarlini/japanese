@@ -14,23 +14,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}<strong>@HI{{ra}}</strong>
-<li> @Aistem{{}}katta<strong>@HI{{ra}}</strong>
-<li> @Anastem{{}}datta<strong>@HI{{ra}}</strong>
-<li> @N{{}}datta<strong>@HI{{ra}}</strong>
-<li> @HI{{moshi}} ... @HI{{ta}}<strong>@HI{{ra}}</strong>
+<li> @Vta{{}}@EM{{@HI{{ra}}}}
+<li> @Aistem{{}}katta@EM{{@HI{{ra}}}}
+<li> @Anastem{{}}datta@EM{{@HI{{ra}}}}
+<li> @N{{}}datta@EM{{@HI{{ra}}}}
+<li> @HI{{moshi}} ... @HI{{ta}}@EM{{@HI{{ra}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-When <strong>@HI{{ra}}</strong> is attached to the plain past form of verbs, adjectives and nouns, it
+When @EM{{@HI{{ra}}}} is attached to the plain past form of verbs, adjectives and nouns, it
 changes the preceding clause into a conditional expression. When a speaker wishes to state his opinion, request
 etc. in the conditional, this pattern is used. It is translated as "if ...".
 </p>
 
 <p>
-<strong>@Vta{{}}@HI{{ra}}</strong> can also be used to express that a certain action will be done or a
+@EM{{@Vta{{}}@HI{{ra}}}} can also be used to express that a certain action will be done or a
 certain situation will appear when something which is sure to happen in the future has been completed.
 In this case it is translated as "when ...". The main clause in this pattern is always in the present tense.
 </p>
@@ -60,7 +60,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@KJ{{gold}}ga <strong>attara</strong>, @KJ{{trip^going}}shimasu.}}
+      @HI{{o@KJ{{gold}}ga @EM{{attara}}, @KJ{{trip^going}}shimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       If I had money I would travel.

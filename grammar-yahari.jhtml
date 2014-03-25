@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{yahari}}</strong>
+<li> @EM{{@HI{{yahari}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{yahari}}</strong> is an adverb that indicates that an actual situation conforms to a standard based on
+@EM{{@HI{{yahari}}}} is an adverb that indicates that an actual situation conforms to a standard based on
 experience or common sense.
 </p>
 
@@ -30,7 +30,7 @@ experience or common sense.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{beri-}}sanha<strong>yahari</strong>@KJ{{come}}masendeshita.}}
+      @HI{{@KT{{beri-}}sanha@EM{{yahari}}@KJ{{come}}masendeshita.}}
   </td> </tr>
   <tr class="en"> <td>
       As expected, Mr. Bailey hasn't come, has he?
@@ -40,7 +40,7 @@ experience or common sense.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{o@KJ{{elder*brother}}sanha@KT{{tenisu}}ga@KJ{{above^hand}}desuga,
-      @KJ{{younger*brother}}sanmo<strong>yappari</strong>@KJ{{above^hand}}desu.}}
+      @KJ{{younger*brother}}sanmo@EM{{yappari}}@KJ{{above^hand}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       The older brother is good at tennis, and the younger brother is good too.
@@ -51,12 +51,12 @@ experience or common sense.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{yappaari}}</strong> is a more emphatic version of <strong>@HI{{yahari}}</strong>.
+@EM{{@HI{{yappaari}}}} is a more emphatic version of @EM{{@HI{{yahari}}}}.
 </p>
 
 <p>
 @HI{{masaka}}, meaning "surely not" or "by no means", indicates that a situation is far from the speaker's expectations. As such
-it is an antonym of <strong>@HI{{yahari}}</strong>.
+it is an antonym of @EM{{@HI{{yahari}}}}.
 </p>
 
 <h2> References </h2>

@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} (@HI{{no}}) <strong>@HI{{kai}}</strong>.
-<li> @Ai{{}} (@HI{{no}}) <strong>@HI{{kai}}</strong>.
-<li> @Anastem{{}} (@HI{{na no}}) <strong>@HI{{kai}}</strong>.
-<li> @N{{}} (@HI{{na no}})<strong>@HI{{kai}}</strong>.
+<li> @Vplain{{}} (@HI{{no}}) @EM{{@HI{{kai}}}}.
+<li> @Ai{{}} (@HI{{no}}) @EM{{@HI{{kai}}}}.
+<li> @Anastem{{}} (@HI{{na no}}) @EM{{@HI{{kai}}}}.
+<li> @N{{}} (@HI{{na no}})@EM{{@HI{{kai}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kai}}</strong> is a sentence ending particle which marks a "yes/no" question in informal male speech.
+@EM{{@HI{{kai}}}} is a sentence ending particle which marks a "yes/no" question in informal male speech.
 The preceding sentence must be in the plain form.
 </p>
 
 <p>
-<strong>@HI{{kai}}</strong> is only used for "yes/no" questions. For sentences involving an interrogative,
+@EM{{@HI{{kai}}}} is only used for "yes/no" questions. For sentences involving an interrogative,
 <a href="grammar-particle-dai.html">@HI{{dai}}</a> is used.
 </p>
 
@@ -37,7 +37,7 @@ In the sentence patterns above, the @HI{{no}} appears where formal speech would 
 </p>
 
 <p>
-The equivalent sentences in female informal speech would be formed by dropping <strong>@HI{{kai}}</strong> and using a rising intonation.
+The equivalent sentences in female informal speech would be formed by dropping @EM{{@HI{{kai}}}} and using a rising intonation.
 </p>
 
 <h2> Examples </h2>
@@ -46,7 +46,7 @@ The equivalent sentences in female informal speech would be formed by dropping <
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book^word}}wo@KJ{{exertion^strong}}suru<strong>kai</strong>.}}
+      @HI{{@KJ{{day^book^word}}wo@KJ{{exertion^strong}}suru@EM{{kai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Will you study Japanese?
@@ -55,7 +55,7 @@ The equivalent sentences in female informal speech would be formed by dropping <
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KT{{apa-to}}ha@KJ{{quiet}}ka<strong>kai</strong>.}}
+      @HI{{kono@KT{{apa-to}}ha@KJ{{quiet}}ka@EM{{kai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is this apartment quiet?
@@ -64,7 +64,7 @@ The equivalent sentences in female informal speech would be formed by dropping <
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mister^accomplished}}ha@KJ{{study^life}}<strong>kai</strong>.}}
+      @HI{{@KJ{{mister^accomplished}}ha@KJ{{study^life}}@EM{{kai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Are you students?
@@ -73,7 +73,7 @@ The equivalent sentences in female informal speech would be formed by dropping <
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{sono@KJ{{book}}ha@KJ{{difficult}}shiino<strong>kai</strong>.}}
+      @HI{{sono@KJ{{book}}ha@KJ{{difficult}}shiino@EM{{kai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is that book difficult?
@@ -82,7 +82,7 @@ The equivalent sentences in female informal speech would be formed by dropping <
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}ha@KJ{{before^life}}nano<strong>kai</strong>.}}
+      @HI{{ano@KJ{{person}}ha@KJ{{before^life}}nano@EM{{kai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is that person a teacher?

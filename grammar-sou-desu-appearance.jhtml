@@ -15,9 +15,9 @@
 
 <p>
 <dl>
-<li> @Vmasustem{{}} <strong>@HI{{sou desu}}</strong>
-<li> @Aistem{{}} <strong>@HI{{sou desu}}</strong>
-<li> @Anastem{{}} <strong>@HI{{sou desu}}</strong>
+<li> @Vmasustem{{}} @EM{{@HI{{sou desu}}}}
+<li> @Aistem{{}} @EM{{@HI{{sou desu}}}}
+<li> @Anastem{{}} @EM{{@HI{{sou desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -34,7 +34,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{now}}ni mo @KJ{{rain}}ga @KJ{{descend}}ri<strong>sou desu</strong>.}}
+    @HI{{@KJ{{now}}ni mo @KJ{{rain}}ga @KJ{{descend}}ri@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     It lools like it will rain at any moment.
@@ -43,7 +43,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono@KJ{{fee^logic}}ha @KJ{{spicy}}<strong>sou desu</strong>.}}
+    @HI{{kono@KJ{{fee^logic}}ha @KJ{{spicy}}@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     This dish looks spicy.
@@ -52,7 +52,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{he^woman}}ha @KJ{{head}}ga yosa<strong>sou desu</strong>.}}
+    @HI{{@KJ{{he^woman}}ha @KJ{{head}}ga yosa@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     She seems to be bright.
@@ -61,7 +61,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono @KJ{{desk}}ha @KJ{{length^husband}}<strong>sou desu</strong>.}}
+    @HI{{kono @KJ{{desk}}ha @KJ{{length^husband}}@EM{{sou desu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     This desk looks strong and durable.

@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}<strong>@HI{{nichigainai}}</strong>
-<li> @Ai{{}}<strong>@HI{{nichigainai}}</strong>
-<li> @Anastem{{}}<strong>@HI{{nichigainai}}</strong>
-<li> @N{{}}<strong>@HI{{nichigainai}}</strong>
+<li> @Vplain{{}}@EM{{@HI{{nichigainai}}}}
+<li> @Ai{{}}@EM{{@HI{{nichigainai}}}}
+<li> @Anastem{{}}@EM{{@HI{{nichigainai}}}}
+<li> @N{{}}@EM{{@HI{{nichigainai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nichigainai}}</strong> is used to state the speaker's strong conviction that there is no mistake on his part
+@EM{{@HI{{nichigainai}}}} is used to state the speaker's strong conviction that there is no mistake on his part
 in guessing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{before^life}}no@KJ{{test^verification}}ha@KJ{{difficult}}shii<strong>nichigaiarimasenn</strong>.}}
+      @HI{{ano@KJ{{before^life}}no@KJ{{test^verification}}ha@KJ{{difficult}}shii@EM{{nichigaiarimasenn}}.}}
   </td> </tr>
   <tr class="en"> <td>
       That teacher's exams must be hard.
@@ -39,7 +39,7 @@ in guessing something.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{nichigainai}}</strong> expresses a greater certainty than <a href="grammar-deshou.html">@HI{{darou}}</a>, which itself is more certain
+@EM{{@HI{{nichigainai}}}} expresses a greater certainty than <a href="grammar-deshou.html">@HI{{darou}}</a>, which itself is more certain
 than <a href="grammar-kamo-shiremasen.html">@HI{{kamoshirenai}}</a>.
 </p>
 

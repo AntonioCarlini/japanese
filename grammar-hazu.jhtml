@@ -14,17 +14,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} <strong>@HI{{hazu}}</strong>
-<li> @Vnai{{}} <strong>@HI{{hazu}}</strong>
-<li> @Ai{{}} <strong>@HI{{hazu}}</strong>
-<li> @Ana{{}} <strong>@HI{{hazu}}</strong>
-<li> @N{{}} @HI{{no}} <strong>@HI{{hazu}}</strong>
+<li> @Vru{{}} @EM{{@HI{{hazu}}}}
+<li> @Vnai{{}} @EM{{@HI{{hazu}}}}
+<li> @Ai{{}} @EM{{@HI{{hazu}}}}
+<li> @Ana{{}} @EM{{@HI{{hazu}}}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{hazu}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{hazu}}</strong> which indicates the speaker's belief that something will happen (or happened).
+@EM{{@HI{{hazu}}}} which indicates the speaker's belief that something will happen (or happened).
 </p>
 
 <h2> Examples </h2>
@@ -33,7 +33,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{come}}ru <strong>hazu</strong>desuyo. kinou @KJ{{electricity^tale}}ga arimashitakara.}}
+      @HI{{@KJ{{come}}ru @EM{{hazu}}desuyo. kinou @KJ{{electricity^tale}}ga arimashitakara.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm sure he'll come. I received a phone call from him yesterday.
@@ -44,17 +44,17 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{hazu}}</strong> indicates an expectation based on some reliable knowledge and so it is more than
+@EM{{@HI{{hazu}}}} indicates an expectation based on some reliable knowledge and so it is more than
 just a guess.
 </p>
 
 <p>
-An expectation that something will not be the case can be expressed either by negating the sentence before <strong>@HI{{hazu}}</strong>
-or by following  the sentence with <strong>@HI{{hazu}}</strong> @HI{{ha/ga nai}}. The latter construction carries heavier weight.
+An expectation that something will not be the case can be expressed either by negating the sentence before @EM{{@HI{{hazu}}}}
+or by following  the sentence with @EM{{@HI{{hazu}}}} @HI{{ha/ga nai}}. The latter construction carries heavier weight.
 </p>
 
 <p>
-<strong>@HI{{hazu}}</strong> behaves as a noun so if "S <strong>@HI{{hazu}}</strong>" is a relative clause, @HI{{no}} follows it.
+@EM{{@HI{{hazu}}}} behaves as a noun so if "S @EM{{@HI{{hazu}}}}" is a relative clause, @HI{{no}} follows it.
 </p>
 
 <h2> References </h2>

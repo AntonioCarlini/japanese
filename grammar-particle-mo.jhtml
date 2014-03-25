@@ -17,15 +17,15 @@
 <dl>
 <dt> (A) "also, too"
 <ol>
-<li> @N1{{}} @HI{{ha}} ... @N2{{}} <strong>@HI{{mo}}</strong>
+<li> @N1{{}} @HI{{ha}} ... @N2{{}} @EM{{@HI{{mo}}}}
 </ol>
 <dt> (B) "both, as well"
 <ol>
-<li> @N1{{}} <strong>@HI{{mo}}</strong> @N2{{}} <strong>@HI{{mo}}</strong>
+<li> @N1{{}} @EM{{@HI{{mo}}}} @N2{{}} @EM{{@HI{{mo}}}}
 </ol>
 <dt> (C) "as much as, as many as"
 <ol>
-<li> number/counter <strong>@HI{{mo}}</strong>
+<li> number/counter @EM{{@HI{{mo}}}}
 </ol>
 </dl>
 </p>
@@ -34,12 +34,12 @@
 
 <p>
 <a name="to">In</a> sentence pattern (A) a topic is introduced in the first utterance and in a subsequent sentence
-<strong>@HI{{mo}}</strong> is used to increase the scope of the topic.
+@EM{{@HI{{mo}}}} is used to increase the scope of the topic.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KT{{kurara}}@HI{{sanha}}@KJ{{England}}@KJ{{word}}@HI{{ga}} @KJ{{tale}}@HI{{semasu.}}
-      @KT{{furansu}}@KJ{{word}}<strong>@HI{{mo}}</strong> @KJ{{tale}}@HI{{semasu.}}
+      @KT{{furansu}}@KJ{{word}}@EM{{@HI{{mo}}}} @KJ{{tale}}@HI{{semasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Klara can speak English. She can speak French too.
@@ -52,7 +52,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{flower^child}}sanha sushi<strong>mo</strong>tenpura<strong>mo</strong>@KJ{{fond}}kidesuyo.}}
+      @HI{{@KJ{{flower^child}}sanha sushi@EM{{mo}}tenpura@EM{{mo}}@KJ{{fond}}kidesuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       Hanako likes both sushi and tempura.
@@ -61,16 +61,16 @@
 </p>
 
 <p>
-<a name="as-much-as">In</a> sentence pattern (C) <strong>@HI{{mo}}</strong> follows a number or a counter to express the
+<a name="as-much-as">In</a> sentence pattern (C) @EM{{@HI{{mo}}}} follows a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
 <p>
-<strong>@HI{{mo}}</strong> can indicate an addition such as "as well as".
+@EM{{@HI{{mo}}}} can indicate an addition such as "as well as".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{koreha@KJ{{black}}desukara,@KJ{{white}}i@KJ{{shoes}}<strong>mo</strong>arimasuyo.}}
+      @HI{{koreha@KJ{{black}}desukara,@KJ{{white}}i@KJ{{shoes}}@EM{{mo}}arimasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       These are black but we have white shoes as well.
@@ -79,13 +79,13 @@ idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
 <p>
-<strong>@HI{{mo}}</strong> can be used to show emphasis about a time or quantity.
+@EM{{@HI{{mo}}}} can be used to show emphasis about a time or quantity.
 
 <ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{what^degrees}}<strong>mo</strong>@KJ{{see}}mashita.}}
+      @HI{{ano@KJ{{reflect^brush-stroke}}ha@KJ{{what^degrees}}@EM{{mo}}@KJ{{see}}mashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I've seen that film any number of times.
@@ -94,7 +94,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{sumisu}}sanha @KJ{{sino-^character}}wo5000<strong>mo</strong>@KJ{{know}}tteimasu.}}
+      @HI{{@KT{{sumisu}}sanha @KJ{{sino-^character}}wo5000@EM{{mo}}@KJ{{know}}tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Smith knows as many as 5000 kanji.
@@ -104,11 +104,11 @@ idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
 <p>
-<strong>@HI{{mo}}</strong> can be used to indicate a total negation when used with a negative verb.
+@EM{{@HI{{mo}}}} can be used to indicate a total negation when used with a negative verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{section^roof}}niha,dare<strong>mo</strong>imasenyo.}}
+      @HI{{ano@KJ{{section^roof}}niha,dare@EM{{mo}}imasenyo.}}
   </td> </tr>
   <tr class="en"> <td>
       There is noone in that room.
@@ -117,11 +117,11 @@ idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
 <p>
-<strong>@HI{{mo}}</strong> can be used to indicate an approximation.
+@EM{{@HI{{mo}}}} can be used to indicate an approximation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{1@KJ{{time^interval}}<strong>mo</strong>areba,@KT{{hoteru}}kara@KJ{{empty^harbor}}he@KJ{{going}}kemasu.}}
+      @HI{{1@KJ{{time^interval}}@EM{{mo}}areba,@KT{{hoteru}}kara@KJ{{empty^harbor}}he@KJ{{going}}kemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       You can get from the hotel to the airport in an hour or so.
@@ -132,8 +132,8 @@ idea that the speaker believes that the amount or number mentioned is large.
 <h2> Notes </h2>
 
 <p>
-When <strong>@HI{{mo}}</strong> follows a noun + @HI{{ga}} or noun + @HI{{wo}}, <strong>@HI{{mo}}</strong>
-replaces those particles. For all other particles, <strong>@HI{{mo}}</strong> follows them rather than
+When @EM{{@HI{{mo}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @EM{{@HI{{mo}}}}
+replaces those particles. For all other particles, @EM{{@HI{{mo}}}} follows them rather than
 replacing them.
 </p>
 

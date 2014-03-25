@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{ <strong>@KJ{{beforehand^determine}}</strong>desu}}
-<li> @N{{}}@HI{{no <strong>@KJ{{beforehand^determine}}</strong>desu}}
+<li> @Vru{{}}@HI{{ @EM{{@KJ{{beforehand^determine}}}}desu}}
+<li> @N{{}}@HI{{no @EM{{@KJ{{beforehand^determine}}}}desu}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ This sentence pattern is used to pass on information about schedules.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{7@KJ{{month}}no @KJ{{end}}warini @KT{{doitsu}}he @KJ{{exit^lengthen}}suru
-      <strong>@KJ{{beforehand^determine}}</strong>desu.}}
+      @EM{{@KJ{{beforehand^determine}}}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm scheduled to go on a business trip to Germany at the end of July.
@@ -40,7 +40,7 @@ This sentence pattern is used to pass on information about schedules.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{trip^going}}ha 1@KJ{{week^interval}}guraino
-      <strong>@KJ{{beforehand^determine}}</strong>desu.}}
+      @EM{{@KJ{{beforehand^determine}}}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       The trip is scheduled to last a week.

@@ -87,7 +87,7 @@ This construction relates a non-controllable state to a topic.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}<strong>ha</strong>@KJ{{England^word}}<strong>ga</strong>@KJ{{part}}karimasu.}}
+      @HI{{@KJ{{private}}@EM{{ha}}@KJ{{England^word}}@EM{{ga}}@KJ{{part}}karimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I understand English.
@@ -96,7 +96,7 @@ This construction relates a non-controllable state to a topic.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{flower^child}}<strong>ha</strong>@KJ{{eye}}<strong>ga</strong>kireidesu.}}
+      @HI{{@KJ{{flower^child}}@EM{{ha}}@KJ{{eye}}@EM{{ga}}kireidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Hanako has pretty eyes.
@@ -105,7 +105,7 @@ This construction relates a non-controllable state to a topic.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{resign^write}}<strong>ha</strong>@KT{{waxebusuta-}}<strong>ga</strong>iidesu.}}
+      @HI{{@KJ{{resign^write}}@EM{{ha}}@KT{{waxebusuta-}}@EM{{ga}}iidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       As for dictionaries, Webster's is good.

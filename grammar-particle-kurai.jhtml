@@ -14,20 +14,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>number/counter</em> <strong>@HI{{kurai}}</strong>
-<li> <em>demonstrative</em> <strong>@HI{{kurai}}</strong>
-<li> <em>interrogative pronoun</em> <strong>@HI{{kurai}}</strong>
+<li> <em>number/counter</em> @EM{{@HI{{kurai}}}}
+<li> <em>demonstrative</em> @EM{{@HI{{kurai}}}}
+<li> <em>interrogative pronoun</em> @EM{{@HI{{kurai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kurai}}</strong> indicates an approximate amount without saying anything about the amount's
+@EM{{@HI{{kurai}}}} indicates an approximate amount without saying anything about the amount's
 upper or lower limits.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kokokarasono@KJ{{study^mingle}}made@KJ{{car}}de30@KJ{{part}}<strong>kurai</strong>kakarimasu.}}
+      @HI{{kokokarasono@KJ{{study^mingle}}made@KJ{{car}}de30@KJ{{part}}@EM{{kurai}}kakarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       From here it takes about 30 minutes to get to that school by car.
@@ -37,11 +37,11 @@ upper or lower limits.
 </p>
 
 <p>
-<strong>@HI{{kurai}}</strong> is used to indicate the extent of an action.
+@EM{{@HI{{kurai}}}} is used to indicate the extent of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{shame}}zukashikute@KJ{{hole}}gaattara@KJ{{enter}}ritai<strong>kurai</strong>datta.}}
+      @HI{{@KJ{{shame}}zukashikute@KJ{{hole}}gaattara@KJ{{enter}}ritai@EM{{kurai}}datta.}}
   </td> </tr>
   <tr class="en"> <td>
       I was so embarrassed that I felt like crawling into a hole.
@@ -51,12 +51,12 @@ upper or lower limits.
 </p>
 
 <p>
-<strong>@HI{{kurai}}</strong> is used to indicate a comparison.
+@EM{{@HI{{kurai}}}} is used to indicate a comparison.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^lower}}sannno@KJ{{new}}shii@KJ{{house}}no@KJ{{courtyard}},@KT{{gorufu}}@KJ{{location}}
-      <strong>gurai</strong>no@KJ{{large}}kisada.}}
+      @EM{{gurai}}no@KJ{{large}}kisada.}}
   </td> </tr>
   <tr class="en"> <td>
       The garden at Yamashita's new house is as big as a golf course.
@@ -68,7 +68,7 @@ upper or lower limits.
 <h2> Notes </h2>
 
 <p>
-There is no difference in meaning between <strong>@HI{{kurai}}</strong> and <strong>@HI{{gurai}}</strong>.
+There is no difference in meaning between @EM{{@HI{{kurai}}}} and @EM{{@HI{{gurai}}}}.
 </p>
 
 <h2> References </h2>

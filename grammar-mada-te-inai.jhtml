@@ -13,7 +13,7 @@
 
 <h2> Formation </h2>
 
-<strong>@HI{{mada}} @Vte{{}}@HI{{inai}}</strong>
+@EM{{@HI{{mada}} @Vte{{}}@HI{{inai}}}}
 
 <h2> Definition </h2>
 
@@ -26,7 +26,7 @@ This sentence pattern indicates that something has not happened or has not yet b
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{silver^going}}ha <strong>mada @KJ{{open}}ite imasenn</strong>.}}
+      @HI{{@KJ{{silver^going}}ha @EM{{mada @KJ{{open}}ite imasenn}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The bank is not yet open.

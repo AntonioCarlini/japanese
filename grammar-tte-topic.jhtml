@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{tte}}</strong>
-<li> @Vru{{}}<strong>@HI{{tte}}</strong>
-<li> @Ai{{}}<strong>@HI{{tte}}</strong>
+<li> @N{{}}@EM{{@HI{{tte}}}}
+<li> @Vru{{}}@EM{{@HI{{tte}}}}
+<li> @Ai{{}}@EM{{@HI{{tte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In this sentence pattern <strong>@HI{{tte}}</strong> is an informal topic introducer.
+In this sentence pattern @EM{{@HI{{tte}}}} is an informal topic introducer.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{amerika}}@KJ{{person}}<strong>tte</strong>@KT{{futtobo-ru}}ga@KJ{{fond}}kidesune.}}
+      @HI{{@KT{{amerika}}@KJ{{person}}@EM{{tte}}@KT{{futtobo-ru}}ga@KJ{{fond}}kidesune.}}
   </td> </tr>
   <tr class="en"> <td>
       Speaking of Americans, they love football don't they?
@@ -37,7 +37,7 @@ In this sentence pattern <strong>@HI{{tte}}</strong> is an informal topic introd
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{tte}}</strong> is not only colloquial, but it also expresses the speaker's emotive judgment or evaluation.
+@EM{{@HI{{tte}}}} is not only colloquial, but it also expresses the speaker's emotive judgment or evaluation.
 So it cannot be used to introduce a simple fact.
 </p>
 

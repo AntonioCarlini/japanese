@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{o}}</strong>@Vmasustem{{}} @HI{{<strong>ni naru</strong>}}
+<li> @EM{{@HI{{o}}}}@Vmasustem{{}} @HI{{@EM{{ni naru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,7 +28,7 @@ This phrase is an honorific whereby the speaker is showing respect for someone w
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{rice*field^in^before^life}}ha mou <strong>o</strong>@KJ{{homecoming}}ri <strong>ni narimashita</strong>.}}
+    @HI{{@KJ{{rice*field^in^before^life}}ha mou @EM{{o}}@KJ{{homecoming}}ri @EM{{ni narimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
     Professor Tanaka has already gone home.

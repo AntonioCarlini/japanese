@@ -14,27 +14,27 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{mou}}</strong>@Vta{{}}
-<li> <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashita}}
+<li> @EM{{@HI{{mou}}}}@Vta{{}}
+<li> @EM{{@HI{{mou}}}}@Vmasustem{{}}@HI{{mashita}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{mou}}</strong> means "already" and when combined with a verb in the past tense
+@EM{{@HI{{mou}}}} means "already" and when combined with a verb in the past tense
 the meaning is that the action specified by the verb has been completed.
 </p>
 
 <p>
-In an affirmative interrogative sentence <strong>@HI{{mou}}</strong> means "yet" or "already".
+In an affirmative interrogative sentence @EM{{@HI{{mou}}}} means "yet" or "already".
 </p>
 
 <p>
-In a negative sentence <strong>@HI{{mou}}</strong> means "not yet" or "not any longer".
+In a negative sentence @EM{{@HI{{mou}}}} means "not yet" or "not any longer".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha<strong>mou</strong>@KJ{{sake}}wo@KJ{{drink}}masenn.}}
+      @HI{{@KJ{{private}}ha@EM{{mou}}@KJ{{sake}}wo@KJ{{drink}}masenn.}}
   </td> </tr>
   <tr class="en"> <td>
       I won't drink <em>sake</em> any more.
@@ -43,7 +43,7 @@ In a negative sentence <strong>@HI{{mou}}</strong> means "not yet" or "not any l
 </p>
 
 <p>
-The answer to the question <strong>@HI{{mou}}</strong>@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
+The answer to the question @EM{{@HI{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
 @HI{{iie,madadesu}}.
 
 

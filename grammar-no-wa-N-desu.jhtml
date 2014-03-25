@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>subordinate clause</em> <strong>@HI{{no ha}}</strong> N @HI{{desu}}
+<li> <em>subordinate clause</em> @EM{{@HI{{no ha}}}} N @HI{{desu}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,7 +35,7 @@ as the topic.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{daughter}}ga @KJ{{life}}mareta<strong>noha</strong>
+      @HI{{@KJ{{daughter}}ga @KJ{{life}}mareta@EM{{noha}}
       @KJ{{north^sea^road-way}}no @KJ{{little}}sana @KJ{{town}}desu.}}
   </td> </tr>
   <tr class="en"> <td>

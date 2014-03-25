@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Aistem{{}} @HI{{ku}}<strong>@HI{{suru}}</strong>
-<li> @Anastem{{}} @HI{{ni}}<strong>@HI{{suru}}</strong>
-<li> @N{{}} <strong>@HI{{ni suru}}</strong>
+<li> @Aistem{{}} @HI{{ku}}@EM{{@HI{{suru}}}}
+<li> @Anastem{{}} @HI{{ni}}@EM{{@HI{{suru}}}}
+<li> @N{{}} @EM{{@HI{{ni suru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{ni suru}}</strong> means that someone turns something into a certain state.
+@EM{{@HI{{ni suru}}}} means that someone turns something into a certain state.
 </p>
 
 <p>
-<strong>@N{{}}@HI{{ni suru}}</strong> can also mean that someone has decided on something.
+@EM{{@N{{}}@HI{{ni suru}}}} can also mean that someone has decided on something.
 </p>
 
 <h2> Examples </h2>
@@ -35,7 +35,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{metropolis^roof}}wo kirei<strong>ni shimasu</strong>.}}
+    @HI{{@KJ{{metropolis^roof}}wo kirei@EM{{ni shimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I will clean my room.
@@ -44,7 +44,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{salt}}no @KJ{{quantity}}wo @KJ{{half^part}}<strong>ni shimasu</strong>.}}
+    @HI{{@KJ{{salt}}no @KJ{{quantity}}wo @KJ{{half^part}}@EM{{ni shimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I will reduce the amount of salt by half.
@@ -62,10 +62,10 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    A: @HI{{anataha @KJ{{what}}<strong>ni shimasuka</strong>.}}
+    A: @HI{{anataha @KJ{{what}}@EM{{ni shimasuka}}.}}
   </td> </tr>
   <tr class="jp"> <td>
-    B: @HI{{@KJ{{private}}ha @KT{{sute-ki}}<strong>ni shimasu</strong>.}}
+    B: @HI{{@KJ{{private}}ha @KT{{sute-ki}}@EM{{ni shimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     A: What will you have?
@@ -77,7 +77,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{mount^rice*field}}sanha @KT{{amerika}}no @KJ{{car}}<strong>ni shimashita</strong>.}}
+    @HI{{@KJ{{mount^rice*field}}sanha @KT{{amerika}}no @KJ{{car}}@EM{{ni shimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
     Mr. Okada has decided on an American car.
@@ -88,7 +88,7 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{ni suru}}</strong> usually follows a noun although it can follow a noun plus particle.
+@EM{{@HI{{ni suru}}}} usually follows a noun although it can follow a noun plus particle.
 </p>
 
 <p>
@@ -97,7 +97,7 @@ as to whether the decision has yet been enacted.
 </p>
 
 <p>
-@HI{{ni kimeru}} has the same meaning and can be used interchangeably with <strong>@HI{{ni suru}}</strong>, although @HI{{ni kimeru}}
+@HI{{ni kimeru}} has the same meaning and can be used interchangeably with @EM{{@HI{{ni suru}}}}, although @HI{{ni kimeru}}
 is usually used only when the decision is considered to be important.
 </p>
 

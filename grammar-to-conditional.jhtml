@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li>  @Vru{{}}<strong>@HI{{to}}</strong>
-<li>  @Ai{{}}<strong>@HI{{to}}</strong>
-<li>  @Anastem{{}}@HI{{da}}<strong>@HI{{to}}</strong>
-<li>  @N{{}}@HI{{da}}<strong>@HI{{to}}</strong>
+<li>  @Vru{{}}@EM{{@HI{{to}}}}
+<li>  @Ai{{}}@EM{{@HI{{to}}}}
+<li>  @Anastem{{}}@HI{{da}}@EM{{@HI{{to}}}}
+<li>  @N{{}}@HI{{da}}@EM{{@HI{{to}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-The <strong>@HI{{to}}</strong> conditional expresses that as a result of the action in the subordinate clause,
+The @EM{{@HI{{to}}}} conditional expresses that as a result of the action in the subordinate clause,
 the action in the main clause happens as an inevitable consequence. As such, the main clause cannot be one of
 volition, hope invitation or request.
 </p>
@@ -38,7 +38,7 @@ The subordinate clause must be non-past even if it refers to a past event or act
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono @KT{{botann}}wo @KJ{{push}}<strong>to</strong>, o@KJ{{angling}}riga @KJ{{exit}}masu.}}
+      @HI{{kono @KT{{botann}}wo @KJ{{push}}@EM{{to}}, o@KJ{{angling}}riga @KJ{{exit}}masu.}}
   </td> </tr>
   <tr class="en"> <td>
       Press this button and the change will come out.
@@ -47,7 +47,7 @@ The subordinate clause must be non-past even if it refers to a past event or act
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{taiya}}ha @KJ{{old}}i<strong>to</strong> @KJ{{dangerous}}nai desu yo.}}
+      @HI{{@KT{{taiya}}ha @KJ{{old}}i@EM{{to}} @KJ{{dangerous}}nai desu yo.}}
   </td> </tr>
   <tr class="en"> <td>
       Tyres are dangerous if they are old.
@@ -56,7 +56,7 @@ The subordinate clause must be non-past even if it refers to a past event or act
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{study^life}}da<strong>to</strong> @KJ{{proportion^pull}} ga arimasu.}}
+      @HI{{@KJ{{study^life}}da@EM{{to}} @KJ{{proportion^pull}} ga arimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       There is a discount if you are a student.

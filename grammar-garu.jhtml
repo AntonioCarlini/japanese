@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Aistem{{}}<strong>@HI{{garu}}</strong>
-<li> @Anastem{{}}<strong>@HI{{garu}}</strong>
+<li> @Aistem{{}}@EM{{@HI{{garu}}}}
+<li> @Anastem{{}}@EM{{@HI{{garu}}}}
 </ol>
 
 <h2> Definition </h2>

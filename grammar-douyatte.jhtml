@@ -13,13 +13,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{douyatte}}</strong>
+<li> @EM{{@HI{{douyatte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{douyatte}}</strong> is used to ask the way or the method of doing something.
+@EM{{@HI{{douyatte}}}} is used to ask the way or the method of doing something.
 </p>
 
 <h2> Examples </h2>
@@ -28,7 +28,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{large^study}}made <strong>@HI{{douyatte}}</strong> @KJ{{going}}kimasuka.}}
+      @HI{{@KJ{{large^study}}made @EM{{@HI{{douyatte}}}} @KJ{{going}}kimasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       How do you get to your university?

@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{yori}}</strong>
+<li> @EM{{@HI{{yori}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In this usage <strong>@HI{{yori}}</strong> is a particle which indicates a set point in time or space.
+In this usage @EM{{@HI{{yori}}}} is a particle which indicates a set point in time or space.
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{mekishiko}}ha@KJ{{red^road-way}}<strong>yori</strong>@KJ{{north}}niarimasu.}}
+      @HI{{@KT{{mekishiko}}ha@KJ{{red^road-way}}@EM{{yori}}@KJ{{north}}niarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mexico is located north of the equator.
@@ -35,7 +35,7 @@ In this usage <strong>@HI{{yori}}</strong> is a particle which indicates a set p
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{three^time}}<strong>yori</strong>@KJ{{in*front}}ni@KJ{{come}}tekudasai.}}
+      @HI{{@KJ{{three^time}}@EM{{yori}}@KJ{{in*front}}ni@KJ{{come}}tekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please come back before three o'clock.

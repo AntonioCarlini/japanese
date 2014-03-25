@@ -14,21 +14,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}<strong>@HI{{kurai}}</strong>
-<li> @Vru{{}}<strong>@HI{{kurai}}</strong>
-<li> @Ai{{}}<strong>@HI{{kurai}}</strong>
-<li> @Ana{{}}<strong>@HI{{kurai}}</strong>
+<li> @N{{}}@EM{{@HI{{kurai}}}}
+<li> @Vru{{}}@EM{{@HI{{kurai}}}}
+<li> @Ai{{}}@EM{{@HI{{kurai}}}}
+<li> @Ana{{}}@EM{{@HI{{kurai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<a name="kurai-da"In</a> this usage, <strong>@HI{{kurai}}</strong> indicates an example (which did not actually happen)
+<a name="kurai-da"In</a> this usage, @EM{{@HI{{kurai}}}} indicates an example (which did not actually happen)
 the extent of which is being emphasised.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ikura@KJ{{relax}}i@KJ{{place}}demo@KT{{shawa-}}<strong>kurai</strong>@KJ{{adhere}}iteirudeshou.}}
+      @HI{{ikura@KJ{{relax}}i@KJ{{place}}demo@KT{{shawa-}}@EM{{kurai}}@KJ{{adhere}}iteirudeshou.}}
   </td> </tr>
   <tr class="en"> <td>
       Even though it is a cheap place, there should at least be a shower.
@@ -37,12 +37,12 @@ the extent of which is being emphasised.
 </p>
 
 <p>
-<a name="kurai-wa-nai">With</a> a negative predicate, <strong>@HI{{kurai}}</strong> expresses a superlative.
+<a name="kurai-wa-nai">With</a> a negative predicate, @EM{{@HI{{kurai}}}} expresses a superlative.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}san'<strong>kurai</strong>yoku@KJ{{thing}}wo@KJ{{forget}}reru@KJ{{person}}
-      <strong>hainai</strong>.}}
+      @HI{{@KJ{{mountain^rice*field}}san'@EM{{kurai}}yoku@KJ{{thing}}wo@KJ{{forget}}reru@KJ{{person}}
+      @EM{{hainai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There's no-one as forgetful as Mr. Yamada.
@@ -52,12 +52,12 @@ the extent of which is being emphasised.
 <p>
 
 <p>
-<a name="kurainara"><strong>@HI{{kurainara}}</strong></a> expresses the idea that one would be better off
+<a name="kurainara">@EM{{@HI{{kurainara}}}}</a> expresses the idea that one would be better off
 doing something else rather than whatever is expressed by the preceding clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{son'nakotowosuru<strong>kurainara</strong>@KJ{{death}}nda@KJ{{direction}}gamashita.}}
+      @HI{{son'nakotowosuru@EM{{kurainara}}@KJ{{death}}nda@KJ{{direction}}gamashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I would rather die tha do such a thing.

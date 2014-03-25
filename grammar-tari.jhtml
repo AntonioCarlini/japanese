@@ -14,10 +14,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@Vta{{}}@HI{{ri}}</strong>, ... @HI{{suru}}.
-<li> <strong>@Aistem{{}}@HI{{kattari}}</strong>, ... @HI{{suru}}.
-<li> <strong>@Anastem{{}}@HI{{dattari}}</strong>, ... @HI{{suru}}.
-<li> <strong>@N{{}}@HI{{dattari}}</strong>, ... @HI{{suru}}.
+<li> @EM{{@Vta{{}}@HI{{ri}}}}, ... @HI{{suru}}.
+<li> @EM{{@Aistem{{}}@HI{{kattari}}}}, ... @HI{{suru}}.
+<li> @EM{{@Anastem{{}}@HI{{dattari}}}}, ... @HI{{suru}}.
+<li> @EM{{@N{{}}@HI{{dattari}}}}, ... @HI{{suru}}.
 </ol>
 
 <h2> Definition </h2>

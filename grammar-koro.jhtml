@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{koro}}</strong>
-<li> @Ai{{}} <strong>@HI{{koro}}</strong>
-<li> @Ana{{}} <strong>@HI{{koro}}</strong>
-<li> @N{{}} @HI{{no}} <strong>@HI{{koro}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{koro}}}}
+<li> @Ai{{}} @EM{{@HI{{koro}}}}
+<li> @Ana{{}} @EM{{@HI{{koro}}}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{koro}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{koro}}</strong> specifies a time period and behaves as a noun. It indicates an approximate
+@EM{{@HI{{koro}}}} specifies a time period and behaves as a noun. It indicates an approximate
 time and is often translated as "when".
 </p>
 
@@ -33,7 +33,7 @@ time and is often translated as "when".
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{watashi}}@HI{{no}}@KJ{{child}}domono<strong>koro</strong>wo @KJ{{teach}}ete okitai desu.}}
+      @HI{{@KJ{{watashi}}@HI{{no}}@KJ{{child}}domono@EM{{koro}}wo @KJ{{teach}}ete okitai desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I want to talk about when I was a child.

@@ -14,19 +14,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(non-past)<strong>@HI{{kotoninaru}}</strong>
+<li> @Vplain{{}}(non-past)@EM{{@HI{{kotoninaru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{kotoninaru}}</strong> indicates an event or decision that occurs irrespective of the speaker's
+@EM{{@HI{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's
 volition.
 
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{come^year^large^heights}}ni@KJ{{revolve^diligence}}suru<strong>kotoninarimashita</strong>.}}
+      @HI{{@KJ{{private}}ha@KJ{{come^year^large^heights}}ni@KJ{{revolve^diligence}}suru@EM{{kotoninarimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It has been decided that next year I will transfer to Osaka.

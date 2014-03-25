@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnaistem{{}} @HI{{<strong>nakereba naranai</strong>}}
-<li> @Aistem{{}} @HI{{ku <strong>nakereba naranai</strong>}}
-<li> @Anastem{{}} @HI{{de <strong>nakereba naranai</strong>}}
-<li> @N{{}} @HI{{de <strong>nakereba naranai</strong>}}
+<li> @Vnaistem{{}} @HI{{@EM{{nakereba naranai}}}}
+<li> @Aistem{{}} @HI{{ku @EM{{nakereba naranai}}}}
+<li> @Anastem{{}} @HI{{de @EM{{nakereba naranai}}}}
+<li> @N{{}} @HI{{de @EM{{nakereba naranai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nakereba naranai}}</strong> expresses the idea of obligation: "if something is not, then it will not do".
+@EM{{@HI{{nakereba naranai}}}} expresses the idea of obligation: "if something is not, then it will not do".
 Something has to be done regardless of the will of the actor: "must" is often a good translation.
 </p>
 

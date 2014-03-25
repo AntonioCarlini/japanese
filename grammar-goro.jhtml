@@ -13,7 +13,7 @@
 
 <h2> Definition </h2>
 
-<strong>@HI{{goro}}</strong> is used with a specific point in time to indicate an approximation around that point.
+@EM{{@HI{{goro}}}} is used with a specific point in time to indicate an approximation around that point.
 <p></p>
 
 <h2> Examples </h2>
@@ -22,7 +22,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{itsu<strong>goro</strong>@KJ{{north^capital}}ni@KJ{{going}}kimasuka.}}
+      @HI{{itsu@EM{{goro}}@KJ{{north^capital}}ni@KJ{{going}}kimasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Roughly when are you going to Beijing?
@@ -33,7 +33,7 @@
 <h2> Notes </h2>
 
 <p>
-Note that <strong>@HI{{goro}}</strong> is used with a specific point in time whereas <a href="grammar-particle-kurai.html">@HI{{kurai/gurai}}</a>
+Note that @EM{{@HI{{goro}}}} is used with a specific point in time whereas <a href="grammar-particle-kurai.html">@HI{{kurai/gurai}}</a>
 is used with a time interval.
 </p>
 

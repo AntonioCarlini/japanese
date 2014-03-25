@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{dekiru}}</strong>
+<li> @EM{{@HI{{dekiru}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{dekiru}}</strong> can be the <a href="grammar-verb-formation-potential.html"> potential </a>
+@EM{{@HI{{dekiru}}}} can be the <a href="grammar-verb-formation-potential.html"> potential </a>
 form of the irregular verb @HI{{suru}}, in which case it means "able to do" or "can do".
 <p></p>
 
-<strong>@HI{{dekiru}}</strong> also means "to come into being", "to be completed", "to be made" or
+@EM{{@HI{{dekiru}}}} also means "to come into being", "to be completed", "to be made" or
 "to be finished".
 <p></p>
 
@@ -33,7 +33,7 @@ form of the irregular verb @HI{{suru}}, in which case it means "able to do" or "
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @KJ{{time}}@KJ{{plot}}@HI{{no}}@KJ{{discipline}}@KJ{{logic}}@HI{{ha itsu <strong>dekimasu</strong>ka.}}
+      @KJ{{time}}@KJ{{plot}}@HI{{no}}@KJ{{discipline}}@KJ{{logic}}@HI{{ha itsu @EM{{dekimasu}}ka.}}
   </td> </tr>
   <tr class="en"> <td>
       When can you fix this watch?

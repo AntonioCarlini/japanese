@@ -35,7 +35,7 @@ construction.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mister}}tachiha@KJ{{england^harmony^resign^code}}ga<strong>irimasu</strong>.}}
+      @HI{{@KJ{{mister}}tachiha@KJ{{england^harmony^resign^code}}ga@EM{{irimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       You need an English-Japanese dictionary.
@@ -44,7 +44,7 @@ construction.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{now}}o@KJ{{gold}}ga<strong>iru</strong>.}}
+      @HI{{@KJ{{private}}ha@KJ{{now}}o@KJ{{gold}}ga@EM{{iru}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I need money now.

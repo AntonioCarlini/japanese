@@ -14,13 +14,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}<strong>@HI{{nasai}}</strong>
+<li> @Vmasustem{{}}@EM{{@HI{{nasai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nasai}}</strong> is used as a polite imperative by superiors to their inferiors. It is commonly used by parents to their children 
+@EM{{@HI{{nasai}}}} is used as a polite imperative by superiors to their inferiors. It is commonly used by parents to their children 
 or by teachers to their pupils.
 </p>
 
@@ -30,7 +30,7 @@ or by teachers to their pupils.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{mottotakusann@KJ{{eat}}be<strong>nasai</strong>.}}
+      @HI{{mottotakusann@KJ{{eat}}be@EM{{nasai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Eat more.
@@ -50,7 +50,7 @@ or by teachers to their pupils.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{nasai}}</strong> is the irregular imperative form of the honorific verb @HI{{nasaru}}.
+@EM{{@HI{{nasai}}}} is the irregular imperative form of the honorific verb @HI{{nasaru}}.
 </p>
 
 <p>

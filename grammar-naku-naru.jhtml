@@ -14,23 +14,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnaistem{{}}<strong>@HI{{nakunaru}}</strong>
-<li> @Aistem{{}}@HI{{ku}}<strong>@HI{{nakunaru}}</strong>
-<li> @Anastem{{}}@HI{{deha}}<strong>@HI{{nakunaru}}</strong>
-<li> @Anastem{{}}@HI{{ja}}<strong>@HI{{nakunaru}}</strong>
-<li> @N{{}}@HI{{deha}}<strong>@HI{{nakunaru}}</strong>
-<li> @N{{}}@HI{{ja}}<strong>@HI{{nakunaru}}</strong>
+<li> @Vnaistem{{}}@EM{{@HI{{nakunaru}}}}
+<li> @Aistem{{}}@HI{{ku}}@EM{{@HI{{nakunaru}}}}
+<li> @Anastem{{}}@HI{{deha}}@EM{{@HI{{nakunaru}}}}
+<li> @Anastem{{}}@HI{{ja}}@EM{{@HI{{nakunaru}}}}
+<li> @N{{}}@HI{{deha}}@EM{{@HI{{nakunaru}}}}
+<li> @N{{}}@HI{{ja}}@EM{{@HI{{nakunaru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{nakunaru}}</strong> is used to convey the idea that the point has been reached where a state or action 
+@EM{{@HI{{nakunaru}}}} is used to convey the idea that the point has been reached where a state or action 
 does not take place any more.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{yasashii@KJ{{sino-^character}}mo@KJ{{write}}ke<strong>nakunarimashita</strong>.}}
+      @HI{{yasashii@KJ{{sino-^character}}mo@KJ{{write}}ke@EM{{nakunarimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I cannot even write easy kanji any more.

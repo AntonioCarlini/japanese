@@ -14,16 +14,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} <strong>@HI{{deshou}}</strong>
-<li> @Ai{{}} <strong>@HI{{deshou}}</strong>
-<li> @Anastem{{}} <strong>@HI{{deshou}}</strong>
-<li> @N{{}} <strong>@HI{{deshou}}</strong>
+<li> @Vplain{{}} @EM{{@HI{{deshou}}}}
+<li> @Ai{{}} @EM{{@HI{{deshou}}}}
+<li> @Anastem{{}} @EM{{@HI{{deshou}}}}
+<li> @N{{}} @EM{{@HI{{deshou}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{deshou}}</strong> expresses the speaker's conjecture, possibly from some information he has.
+@EM{{@HI{{deshou}}}} expresses the speaker's conjecture, possibly from some information he has.
 </p>
 
 <p>
@@ -36,7 +36,7 @@ When used with a rising intonation, it is being used by the speaker to confirm t
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ashitaha @KJ{{rain}}ga @KJ{{descend}}ru<strong>deshou</strong>.}}
+      @HI{{ashitaha @KJ{{rain}}ga @KJ{{descend}}ru@EM{{deshou}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It is probably going to rain tomorrow.

@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(nonpast, volitional) @HI{{<strong>noni</strong>}}
+<li> @Vplain{{}}(nonpast, volitional) @HI{{@EM{{noni}}}}
 </ol>
 
 <h2> Definition </h2>
 
-The main clause following <strong>@HI{{noni}}</strong> expresses something necessary for the preceding clause to come about.
+The main clause following @EM{{@HI{{noni}}}} expresses something necessary for the preceding clause to come about.
 <p></p>
 
 <h2> Examples </h2>
@@ -28,7 +28,7 @@ The main clause following <strong>@HI{{noni}}</strong> expresses something neces
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono @KT{{repo-to}}wo @KJ{{write}}ku <strong>noni</strong> @KJ{{one}}ka@KJ{{month}}kakarimashita.}}
+    @HI{{kono @KT{{repo-to}}wo @KJ{{write}}ku @EM{{noni}} @KJ{{one}}ka@KJ{{month}}kakarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     It took me a month to write this paper.
@@ -38,10 +38,10 @@ The main clause following <strong>@HI{{noni}}</strong> expresses something neces
 
 <h2> Notes </h2>
 
-With <strong>@HI{{noni}}</strong> only nonpast volitional verbs in the plain form may be used.
+With @EM{{@HI{{noni}}}} only nonpast volitional verbs in the plain form may be used.
 <p></p>
 
-When the verb is one of motion and no location is specified <strong>@HI{{noni}}</strong> cannot be used. In this case use V@HI{{masu ni}} instead.
+When the verb is one of motion and no location is specified @EM{{@HI{{noni}}}} cannot be used. In this case use V@HI{{masu ni}} instead.
 <p></p>
 
 <h2> References </h2>

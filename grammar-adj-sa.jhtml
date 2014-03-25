@@ -14,8 +14,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Aistem{{}}<strong>@HI{{sa}}</strong>
-<li> @Anastem{{}}<strong>@HI{{sa}}</strong>
+<li> @Aistem{{}}@EM{{@HI{{sa}}}}
+<li> @Anastem{{}}@EM{{@HI{{sa}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +31,7 @@ makes a noun out of the adjective.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono uchi no}} @KJ{{wide}}<strong>@HI{{sa}}</strong> @HI{{ha choudo ii desu.}}
+      @HI{{kono uchi no}} @KJ{{wide}}@EM{{@HI{{sa}}}} @HI{{ha choudo ii desu.}}
   </td> </tr>
   <tr class="en"> <td>
       The size of this house is just right.

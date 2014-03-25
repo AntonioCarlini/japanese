@@ -14,15 +14,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{no <strong>kawari ni</strong>}}
-<li> @Vplain{{}} @HI{{<strong>kawari ni</strong>}}
-<li> @Ai{{}} @HI{{<strong>kawari ni</strong>}}
-<li> @Ana{{}} @HI{{<strong>kawari ni</strong>}}
+<li> @N{{}} @HI{{no @EM{{kawari ni}}}}
+<li> @Vplain{{}} @HI{{@EM{{kawari ni}}}}
+<li> @Ai{{}} @HI{{@EM{{kawari ni}}}}
+<li> @Ana{{}} @HI{{@EM{{kawari ni}}}}
 </ol>
 
 <h2> Definition </h2>
 
-In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that something (including an action) replaces something else.
+In these sentence patterns, @EM{{@HI{{kawari ni}}}} indicates that something (including an action) replaces something else.
 <p></p>
 
 <h2> Examples </h2>
@@ -31,7 +31,7 @@ In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that som
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{before^life}}no <strong>kawari ni</strong> @KJ{{private}}ga @KJ{{teach}}emashita.}}
+    @HI{{@KJ{{before^life}}no @EM{{kawari ni}} @KJ{{private}}ga @KJ{{teach}}emashita.}}
   </td> </tr>
   <tr class="en"> <td>
     I taught in place of my teacher.
@@ -40,7 +40,7 @@ In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that som
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{soil^weekday^day}}ni @KJ{{attend^matter}}wo suru <strong>kawari ni</strong> @KJ{{month^weekday^day}}ha @KJ{{rest}}mimasu.}}
+    @HI{{@KJ{{soil^weekday^day}}ni @KJ{{attend^matter}}wo suru @EM{{kawari ni}} @KJ{{month^weekday^day}}ha @KJ{{rest}}mimasu.}}
   </td> </tr>
   <tr class="en"> <td>
     To make up for working on Saturdays I take Mondays off.
@@ -49,7 +49,7 @@ In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that som
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{me}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na<strong>kawari ni</strong> @KJ{{house^fare}}ga@KJ{{relax}}i.}}
+    @HI{{@KJ{{me}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na@EM{{kawari ni}} @KJ{{house^fare}}ga@KJ{{relax}}i.}}
   </td> </tr>
   <tr class="en"> <td>
     My apartment is inconvenient but the rent is cheap.
@@ -58,7 +58,7 @@ In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that som
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta <strong>kawari ni</strong> yoku @KJ{{happenstance^hinder}}shita.}}
+    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta @EM{{kawari ni}} yoku @KJ{{happenstance^hinder}}shita.}}
   </td> </tr>
   <tr class="en"> <td>
     That car was cheap but it often broke down.
@@ -68,11 +68,11 @@ In these sentence patterns, <strong>@HI{{kawari ni}}</strong> indicates that som
 
 <h2> Notes </h2>
 
-In @N1{{}} <strong>@HI{{kawari ni}}</strong> @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
-@S1{{}} @HI{{<strong>kawari ni</strong>}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
+In @N1{{}} @EM{{@HI{{kawari ni}}}} @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
+@S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
 <p></p>
 
-In @S1{{}} @HI{{<strong>kawari ni</strong>}} @S2{{}}, @HI{{<strong>kawari ni</strong>}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
+In @S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @HI{{@EM{{kawari ni}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
 <p></p>
 
 <h2> References </h2>

@@ -16,17 +16,17 @@
 
 <dl>
 <dt>(A) A person the speaker considers to be @KT{{soto}} is given something:
-<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{sashiageru}}</strong> <em>&starf;</em>
-<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{ageru}}</strong>
-<li><em>giver</em> @HI{{ha}} <em>receiver</em>               @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{yaru}}</strong>
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{sashiageru}}}} <em>&starf;</em>
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{ageru}}}}
+<li><em>giver</em> @HI{{ha}} <em>receiver</em>               @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{yaru}}}}
 <p></p>
 <dt>(B) The speaker or a person the speaker considers to be @KT{{uchi}} receives something:
-<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{itadaku}}</strong> <em>&#x203B;</em>
-<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{morau}}</strong>
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{itadaku}}}} <em>&#x203B;</em>
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{morau}}}}
 <p></p>
 <dt>(C) A person the speaker considers to be @KT{{uchi}} is given something:
-<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{kudasaru}}</strong> <em>&#x203B;</em>
-<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} <strong>@HI{{kureru}}</strong>
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{kudasaru}}}} <em>&#x203B;</em>
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @EM{{@HI{{kureru}}}}
 
 <p>
 &starf; @HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used when showing respect to the receiver.

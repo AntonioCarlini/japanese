@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} <strong>@HI{{toshite}}</strong>
+<li> @N{{}} @EM{{@HI{{toshite}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@ This particle follows a noun and indicates that something functions in a particu
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rice*field^in}}sanha @KT{{se-rusumann}}<strong>toshite</strong> @KJ{{pick^utilize}}saremashita.}}
+      @HI{{@KJ{{rice*field^in}}sanha @KT{{se-rusumann}}@EM{{toshite}} @KJ{{pick^utilize}}saremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Tanaka was hired as a salesman.

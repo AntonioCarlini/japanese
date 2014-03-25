@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no}}<strong>@HI{{seide}}</strong>
-<li> @Splain{{}}<strong>@HI{{seide}}</strong>
+<li> @N{{}}@HI{{no}}@EM{{@HI{{seide}}}}
+<li> @Splain{{}}@EM{{@HI{{seide}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{seide}}</strong> expresses a cause which brings about an undesirable outcome.
+@EM{{@HI{{seide}}}} expresses a cause which brings about an undesirable outcome.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{yesterday^day^drink}}misugita<strong>seide</strong>@KJ{{now^day}}ha@KJ{{head}}gafurafurasuru.}}
+      @HI{{@KJ{{yesterday^day^drink}}misugita@EM{{seide}}@KJ{{now^day}}ha@KJ{{head}}gafurafurasuru.}}
   </td> </tr>
   <tr class="en"> <td>
       Because I drank too much last night, I am dizzy today.
@@ -36,8 +36,8 @@
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{seide}}</strong> can only be used when the speaker cannot control the cause of the undesirable result.
-<strong>@HI{{seika}}</strong>, however, can be used whether the result is undesirable or not.
+@EM{{@HI{{seide}}}} can only be used when the speaker cannot control the cause of the undesirable result.
+@EM{{@HI{{seika}}}}, however, can be used whether the result is undesirable or not.
 </p>
 
 <h2> References </h2>

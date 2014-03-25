@@ -14,7 +14,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}} @HI{{<strong>to @KJ{{transmit}}ete itadakemasenka</strong>}}
+<li> @Splain{{}} @HI{{@EM{{to @KJ{{transmit}}ete itadakemasenka}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ This pattern is used to politely request that someone convey a message.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{wann}}sannni [atode @KJ{{electricity^tale}}wo kudasai]
-      <strong>to @KJ{{transmit}}ete itadakemasenka</strong>.}}
+      @EM{{to @KJ{{transmit}}ete itadakemasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Could you please tell Mr. Wang to give me a call later?

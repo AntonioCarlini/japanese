@@ -14,12 +14,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <strong>@HI{{sorede}}</strong> ...
+<li> @EM{{@HI{{sorede}}}} ...
 </ol>
 
 <h2> Definition </h2>
 
-<strong>@HI{{sorede}}</strong> is a conjunction which the speaker uses to indicate that
+@EM{{@HI{{sorede}}}} is a conjunction which the speaker uses to indicate that
 the previous sentence is the reason for the following sentence.
 <p></p>
 
@@ -30,7 +30,7 @@ the previous sentence is the reason for the following sentence.
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono @KT{{resutoran}}ha @KJ{{price^grade}}mo @KJ{{relax}}iishi, oishiindesu.</br>
-      <strong>sorede</strong> @KJ{{person}}ga @KJ{{many}}indesune.}}
+      @EM{{sorede}} @KJ{{person}}ga @KJ{{many}}indesune.}}
   </td> </tr>
   <tr class="en"> <td>
       The food is inexpensive and tasty in this restaurant.</br>

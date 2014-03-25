@@ -14,18 +14,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no}}<strong>@HI{{okagede}}</strong>
+<li> @N{{}}@HI{{no}}@EM{{@HI{{okagede}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<strong>@HI{{okagede}}</strong> expresses a cause which brings about a desirable outcome. There is an implication
+@EM{{@HI{{okagede}}}} expresses a cause which brings about a desirable outcome. There is an implication
 that the person who received the result is grateful.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{relax^whole}}@KT{{beru}}no<strong>okagede</strong>@KJ{{fate}}ga@KJ{{help}}katta.}}
+      @HI{{@KJ{{relax^whole}}@KT{{beru}}no@EM{{okagede}}@KJ{{fate}}ga@KJ{{help}}katta.}}
   </td> </tr>
   <tr class="en"> <td>
       Thanks to the safety belt, my life was saved.
@@ -36,7 +36,7 @@ that the person who received the result is grateful.
 <h2> Notes </h2>
 
 <p>
-<strong>@HI{{okagede}}</strong> can be used  for an undesirable result, but in a sarcastic manner.
+@EM{{@HI{{okagede}}}} can be used  for an undesirable result, but in a sarcastic manner.
 </p>
 
 <h2> References </h2>
