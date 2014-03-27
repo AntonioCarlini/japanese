@@ -14,6 +14,7 @@ CLOSING_BRACKETS = Regexp.escape("}}")
 OPENING_REGEXP = "@\\w{1,15}#{OPENING_BRACKETS}"
 CLOSING_REGEXP = "#{CLOSING_BRACKETS}"
 
+# A class to hold text that may require further processing.
 class Text
 
   attr_reader :text
@@ -43,6 +44,7 @@ class Text
   end
 end
 
+# A class to hold text that requires no further processing.
 class DoneText
 
   attr_reader :text
@@ -72,6 +74,7 @@ class DoneText
   end
 end
 
+# A class to describe an operation
 class Operation
 
   attr_reader :code
@@ -176,6 +179,7 @@ $command_to_op = {
   "KJ" => :process_kanji,
   "KT" => :process_katakana,
   "EM" => :process_emphasis,
+  "GRMIDX" => :process_grammar_index,
   "masustem" => :process_empty_code,
   "V1" => :process_empty_code,
   "V2" => :process_empty_code,
@@ -318,6 +322,10 @@ def process_at_commands(text)
   return answer
 end
 
+#+
+# Utility functions
+#-
+
 # Given some text, substitute @REF{{}} statements as required. 
 def transform_ref(text)
   res = ""
@@ -333,6 +341,7 @@ def transform_ref(text)
   return res
 end
 
+# Debug function used to display the current state of the stack
 def dump_stack(orig_stack)
   stack = orig_stack.dup()
   while !stack.empty?()
@@ -341,11 +350,13 @@ def dump_stack(orig_stack)
   end
 end
 
+# Ensures returns the supplied text modified to be marked as a grammatical text.
 def mark_as_grammar(text)
-  span_open = '<span class="grammar">'
-  return "#{span_open}#{text}</span>"
+  return '<span class="grammar">' + text + '</span>'
 end
 
+
+# Given a stack, concatenates all the text and consolidates it into a single String
 def puts_result(stack)
   result = ""
   stack.each() {
@@ -356,6 +367,7 @@ def puts_result(stack)
   return result
 end
 
+# Given a stack, concatenates all the text and consolidates it into a single DoneText object, which is returned.
 def collapse_result(stack)
   result = ""
   stack.each() {
@@ -363,19 +375,28 @@ def collapse_result(stack)
     raise("Found OP in result") if x.op?()
     result += x.text()
   }
-  return DoneText.new(result)
+  return DoneText.new(puts_result(stack))
 end
 
+# Given a stack, concatenates all the text and consolidates it into a single DoneText object.
+# This DoneText object is returned as an Array.
 def collapse_stack(stack)
-  result = ""
-  stack.each() {
-    |x|
-    raise("Found OP in result") if x.op?()
-    result += x.text()
-  }
-  return [ DoneText.new(result) ]
+  return [ collapse_result(stack) ]
 end
 
+#+
+# Process functions.
+#
+# Each function conforms to this api:
+#
+# func(stack, code)
+#  stack - an Array of objects to which this function should be applied in turn
+#  code  - a String describing the command (e.g. for @N1{{..}} the String would be N1)
+#
+#  returns: an Array of objects
+#-
+
+# Process all unprocessed text as hiragana
 def process_hiragana(stack, unused)
   result = []
   stack.each() {
@@ -389,6 +410,7 @@ def process_hiragana(stack, unused)
   return collapse_stack(result)
 end
 
+# Process all unprocessed text as kanji
 def process_kanji(stack, unused)
   result = []
   stack.each() {
@@ -402,6 +424,7 @@ def process_kanji(stack, unused)
   return collapse_stack(result)
 end
 
+# Process all unprocessed text as katakana
 def process_katakana(stack, unused)
   result = []
   stack.each() {
@@ -419,20 +442,7 @@ def process_marker(stack, unused)
   return [ DoneText.new("[[MARKER:#{stack.last().text()}]]") ]
 end
 
-def process_catchall(stack, code)
-  raise("code: #{code}")
-  result = []
-  stack.each() {
-    |x|
-    if x.processed?()
-      result << x
-    else
-      result << DoneText.new(convert_to_katakana(x.text()))
-    end
-  }
-  return result
-end
-
+# Transform text from a command of the for @ABC{{}}
 def process_empty_code_helper(code)
         case code
         when /^masustem$/  then mark_as_grammar("<sub><del>#{convert_to_hiragana('masu')}</del></sub>")
@@ -476,10 +486,12 @@ def process_empty_code_helper(code)
         end
 end
 
+# Process a command of the form @ABC{{}}, i.e. one with no parameter
 def process_empty_code(stack, code)
   return [ DoneText.new(process_empty_code_helper(code)) ]
 end
 
+# Process a command of the form @N123{{}}, @S123{{}}, @V123{{}}
 def process_NSV(stack, code)
   contents = []
   stack.each() {
@@ -501,6 +513,9 @@ def process_NSV(stack, code)
   return [ DoneText.new(string) ] # TODO - mark_as_grammar here
 end
 
+# Adds emphasis to highlight a grammar point.
+# Currently simply surrounds the parameter with <strong> and </strong>.
+# The parameter is left alone and could be subject to further processing.
 def process_emphasis(stack, code)
   result = []
   result << DoneText.new("<strong>")
@@ -512,3 +527,9 @@ def process_emphasis(stack, code)
   return result
   
 end
+
+# Normal JHTML processing should discard @GRMIDX{{...}}
+def process_grammar_index(stack, code)
+  return []
+end
+
