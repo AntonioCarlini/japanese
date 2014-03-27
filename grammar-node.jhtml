@@ -7,6 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
+@GRMIDX{{index="@HI{{node}}" grammar="@HI{{node}}"}}
+
 <body>
 
 <h1>@HI{{node}}</h1>

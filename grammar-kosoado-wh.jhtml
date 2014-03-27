@@ -1,0 +1,237 @@
+<html>
+
+<head>
+<title>@HI{{kosoado}} &amp; interrogatives</title>
+<link rel="stylesheet" type="text/css" href="japanese.xcss"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style media="screen" type="text/css">
+
+table
+{
+  border-collapse: collapse;
+  border-width: medium;
+  border: none;
+}
+
+table, th, td
+{
+  margin-left: 1em;
+  text-alignment: left;
+}
+
+th
+{
+  border: 1px solid black;
+  min-width: 10em;
+}
+
+td
+{
+  cell-spacing: 2em;
+  border: none
+}
+
+tr:hover
+{
+  font-weight: bold;
+}
+
+</style>
+</head>
+
+@GRMIDX{{index="@HI{{kosoado}} &amp; interrogatives" grammar="@HI{{kosoado}} &amp; interrogatives"}}
+
+<body>
+
+<h1>@HI{{kosoado}}</h1>
+
+<h2> Formation </h2>
+
+<table>
+<tr>
+  <th> &nbsp; </th>
+  <th> @HI{{ko}}- </th>
+  <th> @HI{{so}}- </th>
+  <th> @HI{{a}}-  </th>
+  <th> @HI{{do}}-  </th>
+</tr>
+<tr>
+  <td> object </td>
+  <td> @HI{{kore}} </td>
+  <td> @HI{{sore}} </td>
+  <td> @HI{{are}}  </td>
+  <td> @HI{{dore}} </td>
+</tr>
+<tr>
+  <td> location </td>
+  <td> @HI{{koko}} </td>
+  <td> @HI{{soko}} </td>
+  <td> @HI{{asoko}} </td>
+  <td> @HI{{doko}} </td>
+</tr>
+<tr>
+  <td> direction </td>
+  <td> @HI{{kocchi}} </td>
+  <td> @HI{{socchi}} </td>
+  <td> @HI{{acchi}} </td>
+  <td> @HI{{docchi}} </td>
+</tr>
+<tr>
+  <td> direction </br> (polite) </td>
+  <td> @HI{{kochira}} </td>
+  <td> @HI{{sochira}} </td>
+  <td> @HI{{achira}} </td>
+  <td> @HI{{dochira}} </td>
+</tr>
+<tr>
+  <td> determiner </td>
+  <td> @HI{{kono}} </td>
+  <td> @HI{{sono}} </td>
+  <td> @HI{{ano}} </td>
+  <td> @HI{{dono}} </td>
+</tr>
+<tr>
+  <td> attributive </td>
+  <td> @HI{{konnna}} </td>
+  <td> @HI{{sonnna}} </td>
+  <td> @HI{{annna}} </td>
+  <td> @HI{{donnna}} </td>
+</tr>
+<tr>
+  <td> manner</td>
+  <td> @HI{{kou}} </td>
+  <td> @HI{{sou}} </td>
+  <td> @HI{{aa}} </td>
+  <td> @HI{{dou}} </td>
+</tr>
+<tr>
+  <td> manner </br> (polite)</td>
+  <td> @HI{{konoyouni}} </td>
+  <td> @HI{{sonoyouni}} </td>
+  <td> @HI{{anoyouni}} </td>
+  <td> @HI{{donoyouni}} </td>
+</tr>
+</table>
+
+<h2> Definition </h2>
+
+The <strong>@HI{{ko}}-</strong> demonstratives generally relate to something near to the speaker, either physically or emotionally.
+<p></p>
+
+The <strong>@HI{{so}}-</strong> demonstratives generally relate to something near to the listener. They can be used to
+refer to something that is not close to either the speaker or the listener if information about that
+thing has already been provided.
+<p></p>
+
+The <strong>@HI{{a}}-</strong> demonstratives generally relate to something that is not near to either the speaker
+or the listener.
+<p></p>
+
+The <strong>@HI{{do}}-</strong> demonstratives refer to something about which a question is being asked.
+<p></p>
+
+<strong>@HI{{kore}}</strong>, <strong>@HI{{sore}}</strong> and <strong>@HI{{are}}</strong> are demonstratives and function as pronouns.
+<p></p>
+
+<strong>@HI{{kono}}</strong>, <strong>@HI{{sono}}</strong> and <strong>@HI{{ano}}</strong> are pre-noun adjectivals and serve to modify a noun. <strong>@HI{{dono}}</strong> is used with a following noun to ask "which" noun.
+<p></p>
+
+<strong>@HI{{donnna}}</strong> is used with a following noun to mean "what kind of".
+<p></p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>sore</strong>ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is that a dictionary?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>kore</strong>wo kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please give me this one.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>kono</strong>}}@KJ{{book}}@HI{{ha}}@KJ{{private}}@HI{{nodesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This book is mine.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{<strong>ano</strong>}}@KJ{{direction}}@HI{{ha donata desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Who is that (person)?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{nara}}@KJ{{good}}@HI{{ha <strong>donnna</strong>}}@KJ{{town}}@HI{{desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What kind of town is Nara?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KT{{santosu}}@HI{{sanha <strong>dono</strong>}}@KJ{{person}}@HI{{desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Which one is Mr. Santos?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
+      <strong>kono</strong>@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
+      @KJ{{place}}he @KJ{{going}}kemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What I want most is a "magic door". When you open this door, you can go anywhere you want.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<a name="ko-vs-so"></a>
+In writing a word from the @HI{{ko}}-series is used rather than one from the @HI{{so}}-series to
+refer to something previously mentioned. In this case the author is describing something
+as though it really existed then and there.
+<p></p>
+
+<h2> References </h2>
+
+<p>
+<ol>
+<li> @REF{{DOBJG}}. (p 600).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
+<li> @REF{{MNN-TR-I}}. (Chapter 31).
+</ol>
+</p>
+
+<p></p>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
