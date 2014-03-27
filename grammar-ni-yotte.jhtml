@@ -31,7 +31,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{person}}@EM{{niyotte}}@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}.}}
+      @HI{{@KJ{{person}}@EM{{niyotte}}@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}u.}}
   </td> </tr>
   <tr class="en"> <td>
       Depending on the person, the ageing process differs.
@@ -40,7 +40,7 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto@EM{{niyotte}}@KJ{{inspection^plains}}wo@KJ{{wide}}zerukotoga
+      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto@EM{{niyotte}}@KJ{{inspection^plains}}wo@KJ{{wide}}gerukotoga
       @KJ{{exit^come}}ru.}}
   </td> </tr>
   <tr class="en"> <td>
