@@ -441,11 +441,11 @@ $(OUTPUT)/N3-level-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.
 	@mkdir -p $(OUTPUT)
 	./build-kanji-vocab-list-by-jlpt.rb N3 $< kanji.data > $@
 
-$(OUTPUT)/heisig.gen.jhtml : build-heisig-page.rb
-	@mkdir -p $(OUTPUT)
+$(GENDIR)/heisig.gen.jhtml : build-heisig-page.rb
+	@mkdir -p $(GENDIR)
 	./build-heisig-page.rb > $@
 
-$(OUTPUT)/heisig.gen.html : $(OUTPUT)/heisig.gen.jhtml
+$(OUTPUT)/heisig.gen.html : $(GENDIR)/heisig.gen.jhtml
 	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< > $@
 
