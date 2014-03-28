@@ -1,5 +1,6 @@
 OUTPUT = bin
 EXTERNAL = external
+GENDIR = generated
 
 JHTML_SRCS += aap.jhtml
 JHTML_SRCS += adjectives.jhtml
@@ -359,6 +360,8 @@ JHTML_SRCS += nsm-n3g.jhtml
 JHTML_SRCS += study-material.jhtml
 JHTML_SRCS += verbs.jhtml
 
+GRMIDX_SRCS += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
+
 VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N1.mht
 VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N2.mht
 VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N3.mht
@@ -379,6 +382,7 @@ TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH)))
 TARGETS += $(foreach CSS,$(CSS_SRCS),$(OUTPUT)/$(CSS))
 TARGETS += $(TEST_TARGETS)
 TARGETS += $(OUTPUT)/heisig.gen.html
+TARGETS += $(OUTPUT)/grammar-index.html
 
 TARGETS += $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html
 
@@ -452,6 +456,14 @@ $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html : N4-vocabulary-with-annotated
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
 	./japanese-to-codes.rb $< > $@
+
+$(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) find-grammar-elements.rb
+	@mkdir -p $(GENDIR)
+	./find-grammar-elements.rb $< > $@
+
+$(OUTPUT)/grammar-index.html : $(GRMIDX_SRCS) build-grammar-index.rb
+	@mkdir -p $(OUTPUT)
+	./build-grammar-index.rb $(GRMIDX_SRCS) > $@
 
 $(OUTPUT)/%.css: %.scss $(CSS_PARTIALS)
 	@mkdir -p $(OUTPUT)

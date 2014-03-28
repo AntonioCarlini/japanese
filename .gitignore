@@ -3,3 +3,4 @@ bin
 .sass-cache/
 backup/
 old-bin/
+generated/
