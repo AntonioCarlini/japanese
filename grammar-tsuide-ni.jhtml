@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tsuideni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tsuideni}}" grammar="@HI{{tsuideni}}"}}
+
+<body>
+
+<h1>@HI{{tsuideni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{tsuideni}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{tsuideni}}}}
+<li> @Aistem{{}}@HI{{@EM{{tsuideni}}}}
+<li> @Ai{{}}@HI{{@EM{{tsuideni}}}}
+<li> @Anastem{{}}@HI{{@EM{{tsuideni}}}}
+<li> @N{{}}@HI{{no@EM{{tsuideni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{tsuideni}}}} is a phrase used to express the idea that a second action is done at the same
+time as a main action because the additional time or effort required is minimal.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{scatter^walk}}@EM{{nisuideni}}kono@KJ{{leaf^write}}wo@KT{{posuto}}ni@KJ{{exit}}shitekite.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While you are out on your walk go and post this postcard.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+X @EM{{@HI{{tsuideni}}}} Y expresses the idea that someone does Y whilst doing X anyway as that way the effort or time
+to do Y is reduced.
+</p>
+
+<p>
+This expression is often used when asking someone for a favour.
+</p>
+
+<p>
+Only a limited number of adjectives can come before @EM{{@HI{{tsuideni}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p 671).
+</ol>
+
+</br></br>
+Back to the <a href="../grammar.html"> grammar page</a>.
+
+</body>
+
+</html>
