@@ -2,16 +2,16 @@
 <html>
 
 <head>
-<title>@HI{{rashii}}</title>
+<title>@HI{{mitai}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{rashii}}" grammar="@HI{{rashii}}"}}
+@GRMIDX{{index="@HI{{mitai}}" grammar="@HI{{mitai}}"}}
 
 <body>
 
-<h1>@HI{{rashii}}</h1>
+<h1>@HI{{mitai}}</h1>
 
 <h2> Formation </h2>
 
