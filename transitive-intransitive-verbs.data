@@ -87,3 +87,114 @@ key=kakaru vocab="@KJ{{hang}}@HI{{karu}}" type=I pair=kakeru
 
 key=yaku vocab="@KJ{{bake}}@HI{{ku}}" type=T pair=yakeru
 key=yakeru vocab="@KJ{{bake}}@HI{{keru}}" type=I pair=yaku
+
+key=butsukeru type=T pair=butsukaru
+key=butsukaru type=I pair=butsukeru
+
+key=fuyasu vocab="" type=T pair=fueru
+key=fueru  vocab="" type=I pair=fuyasu
+
+key=hanasu vocab="" type=T pair=hanareru
+key=hanareru vocab="" type=I pair=hanasu
+
+key=hazusu vocab="" type=T pair=hazureru
+key=hazureru vocab="" type=I pair=hazusu
+
+key=hiyasu vocab="" type=T pair=hieru
+key=hieru vocab="" type=I pair=hiyasu
+
+key=kaesu vocab="" type=T pair=kaeru
+key=kaeru vocab="" type=I pair=kaesu
+
+key=kakusu vocab="" type=T pair=kakureru
+key=kakureru vocab="" type=I pair=kakusu
+
+key=mawasu vocab="" type=T pair=mawaru
+key=mawaru vocab="" type=I pair=mawasu
+
+key=mazeru vocab="" type=T pair=mazaru
+key=mazaru vocab="" type=I pair=mazeru
+
+key=muku vocab="" type=T pair=mukeru
+key=mukeru vocab="" type=I pair=muku
+
+key=nakusu vocab="" type=T pair=nakusu
+key=nakunaru vocab="" type=I pair=nakunaru
+
+key=nokosu vocab="" type=T pair=nokoru
+key=nokoru vocab="" type=I pair=nokosu
+
+key=noseru vocab="" type=T pair=noru
+key=noru vocab="" type=I pair=noseru
+
+key=oeru vocab="" type=T pair=
+key=owaru vocab="" type=I pair=
+
+key=tasukeru vocab="" type=T pair=tasukaru
+key=tasukaru vocab="" type=I pair=tasukeru
+
+key=tateru vocab="" type=T pair=
+key=tatsu vocab="" type=I pair=
+
+key=ugokasu vocab="" type=T pair=
+key=ugoku vocab="" type=I pair=
+
+key=yameru vocab="" type=T pair=yasu
+key=yasu vocab="" type=I pair=yameru
+
+key=nigasu vocab="" type=T pair=
+key=nigeru vocab="" type=I pair=
+
+key=waku vocab="" type=T pair=
+key=wakasu vocab="" type=I pair=
+
+key=kawakasu vocab="" type=T pair=
+key=kawaku vocab="" type=I pair=
+
+key=watasu vocab="" type=T pair=
+key=wataru vocab="" type=I pair=
+
+key=arawasu vocab="" type=T pair=
+key=arawareru vocab="" type=I pair=
+
+key=kimeru vocab="@KJ{{decide}}@HI{{meru}}" type=T pair=kimeru
+key=kimeru vocab="@KJ{{decide}}@HI{{maru}}" type=I pair=kimaru
+
+key=wakasu vocab="@KJ{{seethe}}@HI{{kasu}}" type=T pair=waku
+key=waku   vocab="@KJ{{seethe}}@HI{{ku}}" type=I pair=wakasu
+
+key=yaku   vocab="@KJ{{bake}}@HI{{ku}}"   type=T pair=yakeru
+key=yakeru vocab="@KJ{{bake}}@HI{{keru}}" type=I pair=yaku
+
+key=niru  vocab="@KJ{{boil}}ru"  type=T pair=nieru
+key=nieru vocab="@KJ{{boil}}eru" type=I pair=niru
+
+key=herasu vocab="@KJ{{dwindle}}@HI{{rasu}}" type=T pair=heru
+key=heru   vocab="@KJ{{dwindle}}@HI{{ru}}"   type=I pair=herasu
+
+key=soroeru vocab="@KJ{{muster}}@HI{{eru}}" type=T pair=sorou
+key=sorou   vocab="@KJ{{muster}}@HI{{u}}"   type=I pair=soroeru
+
+key=susumeru vocab="@KJ{{advance}}@HI{{meru}}" type=T pair=susumu
+key=susumu   vocab="@KJ{{advance}}@HI{{mu}}"   type=I pair=susumeru
+
+key=sumaseru vocab="@KJ{{finish}}@HI{{maseru}}" type=T pair=sumu
+key=sumu     vocab="@KJ{{finish}}@HI{{mu}}"     type=I pair=sumaseru
+
+key=sugosu vocab="@KJ{{overdo}}@HI{{gosu}}" type=T pair=sugiru
+key=sugiru vocab="@KJ{{overdo}}@HI{{giru}}" type=I pair=sugosu
+
+key=tameru   vocab="" type=T pair=tamaru
+key=tamaru   vocab="" type=I pair=tameru
+
+key=tameru-save       vocab="" type=T pair=tamaru-be-saved
+key=tamaru-be-saved   vocab="" type=I pair=tameru-save
+
+key=nagasu   vocab="" type=T pair=nagareru
+key=nagareru vocab="" type=I pair=nagasu
+
+key=taosu   vocab="" type=T pair=taoreru
+key=taoreru vocab="" type=I pair=taosu
+
+key=yaburu   vocab="" type=T pair=yabureru
+key=yabureru vocab="" type=i pair=yaburu
