@@ -88,8 +88,7 @@ The expression before @EM{{@HI{{uchi ni}}}} is always non-past even if the sente
 <li> @REF{{DOBJG}}. (p 512).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 
