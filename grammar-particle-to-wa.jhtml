@@ -43,7 +43,7 @@ In this case it usually appears in the form @EM{{@HI{{tohaie}}}}. The meaning is
       @HI{{@KJ{{springtime}}@EM{{tohaie}}mada@KJ{{cold}}i.}}
   </td> </tr>
   <tr class="en"> <td>
-      Even though it's spiring, it's still cold.
+      Even though it's spring, it's still cold.
   </td> </tr>
 </table>
 </p>
@@ -56,8 +56,7 @@ In this case it usually appears in the form @EM{{@HI{{tohaie}}}}. The meaning is
 <li> @REF{{AAP}}. (p. 40).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 
