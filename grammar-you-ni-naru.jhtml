@@ -58,8 +58,7 @@ The form @EM{{@HI{{you ni natteiru}}}} emphasises that the current state has com
 <li> @REF{{MNN-TR-II}}. (Chapter 36).
 </ol>
 
-</br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -98,8 +98,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li> @REF{{DOBJG}}. (p 452).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

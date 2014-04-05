@@ -73,8 +73,7 @@ sentence pattern above.
 <li> @REF{{MNN-TR-I}}. (Chapter 18).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

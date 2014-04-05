@@ -50,8 +50,7 @@ It is mostly used by men.
 <li> @REF{{AAP}}. (p 143).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

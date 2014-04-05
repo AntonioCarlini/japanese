@@ -65,8 +65,7 @@ to indicate completion or regret can only be determined by context.
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @REF{{DOBJG}}. (p 403).
 </ol>
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

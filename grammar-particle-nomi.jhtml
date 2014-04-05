@@ -58,8 +58,7 @@ writing than in the spoken language. @EM{{@HI{{nomi}}}} can be followed by <a hr
 <li> @REF{{AAP}}. (p. 86).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

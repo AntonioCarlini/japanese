@@ -100,8 +100,7 @@ If @EM{{@HI{{aida}}}} is not followed by @HI{{ni}},
 <li> @REF{{DOBJG}}. (p 67).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

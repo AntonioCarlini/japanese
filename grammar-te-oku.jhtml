@@ -67,8 +67,7 @@ the resultant state as it is.
 <li> @REF{{MNN-TR-II}}. (Chapter 30).
 <li> @REF{{DOBJG}}. (p 357).
 </ol>
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

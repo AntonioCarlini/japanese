@@ -62,8 +62,7 @@ that subject is marked with @HI{{wo}} rather than @HI{{ga}}.
 <li> @REF{{DOBJG}}. (p 102).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

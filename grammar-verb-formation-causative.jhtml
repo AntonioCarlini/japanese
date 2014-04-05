@@ -92,9 +92,7 @@ This form generally expresses more direct causation.
 <li> @REF{{DOBJG}}. (p. 387).
 </ol>
 
-<p>
-Back to the <a href="../grammar.html"> grammar page</a>.
-</p>
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -67,8 +67,7 @@
 <li> @REF{{MNN-TR-I}}. (Chapter 19).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

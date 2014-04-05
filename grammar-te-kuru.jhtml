@@ -87,8 +87,7 @@ speaker or someone with whom the speaker empathises.
 <li> @REF{{DOBJG}}. (p. 221).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -53,5 +53,7 @@ interrogative is denied. So @HI{{dokomo}} becomes "nowhere" or "(not) anywhere",
  <tr> <td> @HI{{nazeka}}   </td>  <td> somehow; for some reason  </td> </tr>
 </table>
 
+@include{{"grammar-footer.inc"}}
+
 </body>
 </html>

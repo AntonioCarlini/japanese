@@ -68,8 +68,7 @@ so the second sentence normally expresses something beyond the control of the sp
 <li> @REF{{DOBJG}}. (p. 437).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

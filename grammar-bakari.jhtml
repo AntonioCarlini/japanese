@@ -101,8 +101,7 @@ When @EM{{@HI{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

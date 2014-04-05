@@ -59,8 +59,7 @@ then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{k
 <li> @REF{{DOBJG}}. (p. 243).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

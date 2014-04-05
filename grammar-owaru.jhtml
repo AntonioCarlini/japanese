@@ -51,8 +51,7 @@ In writing @EM{{@HI{{owaru}}}} can be replaced by @HI{{oeru}}.
 <li> @REF{{DOBJG}}. (p 362).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

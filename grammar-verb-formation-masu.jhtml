@@ -85,9 +85,7 @@ The @HI{{masu}}-stem is also known as the verb stem, or sometimes as the infinit
 <li> @REF{{MNN-JP-I}}. (Chapter 4).
 </ol>
 
-<p>
-Back to the <a href="../grammar.html"> grammar page</a>.
-</p>
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -70,8 +70,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 <li> @REF{{DOBJG}}. (p 309).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -56,8 +56,7 @@ The point in time at which the change starts may be in the past.
 <li> @REF{{DOBJG}}. (p. 151).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

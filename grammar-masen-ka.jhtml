@@ -45,8 +45,7 @@ When the speaker wishes to invite someone to do something, this expression is us
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

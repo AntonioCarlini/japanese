@@ -65,8 +65,7 @@ Unlike <a href="grammar-sore-dewa.html">@HI{{soredeha}}</a>, @HI{{@EM{{sorenara}
 <li> @REF{{DOBJG}}. (p 419).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -46,8 +46,7 @@ there is no more or nothing else.
 <li> @REF{{MNN-TR-II}}. (Chapter 11).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

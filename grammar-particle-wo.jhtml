@@ -153,8 +153,7 @@ distinct from the @EM{{@HI{{wo}}}} that is a direct object marker.
 <li> @REF{{DOBJG}}. (p 351).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -80,8 +80,7 @@ The two irregular verbs conjugate as shown above.
 <li> @REF{{MNN-JP-II}}. (Chapter 35).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -108,8 +108,7 @@ With a WH word @HI{{temo}} means "no matter WH".
 <li> @REF{{AAP}}. (p. 29).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

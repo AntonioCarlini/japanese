@@ -34,8 +34,7 @@ Neither the place where the speaker is going nor the action to be performed are 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 </ol>
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

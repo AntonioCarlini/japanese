@@ -69,8 +69,7 @@ A possible alternative in this case would be <a href="grammar-aida.html">@HI{{ai
 <li> @REF{{AAP}}. (p.107).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

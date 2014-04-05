@@ -77,8 +77,7 @@ With a WH word @HI{{te mo ii}} means "it is alright no matter WH".
 <li> @REF{{DOBJG}}. (p 471).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

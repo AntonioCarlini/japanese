@@ -90,8 +90,7 @@ causative is used regardless of status.
 <li> @REF{{MNN-TR-II}}. (Chapter 48).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

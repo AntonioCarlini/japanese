@@ -51,8 +51,7 @@ time and is often translated as "when".
 <li> @REF{{JACG}}. (p 212).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

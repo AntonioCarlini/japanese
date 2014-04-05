@@ -67,8 +67,7 @@ and @KJ{{part}}@HI{{karu}} to mean !about @N{{}}".
 <li> @REF{{DOBJG}}. (p. 191).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

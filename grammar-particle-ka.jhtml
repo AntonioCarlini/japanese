@@ -162,8 +162,7 @@ Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncerta
 <li> @REF{{AAP}}. (p 45).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

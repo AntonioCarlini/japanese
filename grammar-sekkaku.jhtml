@@ -81,8 +81,7 @@ advantage of it or, with regret, fail to take advantage of it.
 <li> @REF{{DOBJG}}. (p. 392).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

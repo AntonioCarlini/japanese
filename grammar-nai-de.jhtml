@@ -83,8 +83,7 @@ Where the @HI{{de}} of @EM{{@HI{{nai de}}}} has a meaning of "and", @HI{{zu ni}}
 <li> @REF{{DOBJG}}. (p 271).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

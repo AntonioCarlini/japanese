@@ -58,8 +58,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 <li> @REF{{MNN-TR-II}}. (Chapter 44).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

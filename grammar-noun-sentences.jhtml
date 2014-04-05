@@ -59,8 +59,7 @@ The copula inflects to express the politeness level and whether the sentence is 
 <li> @REF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

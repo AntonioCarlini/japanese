@@ -74,8 +74,7 @@ The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{na
 <li> @REF{{DOBJG}}. (p 274).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

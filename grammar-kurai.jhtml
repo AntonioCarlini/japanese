@@ -77,8 +77,7 @@ doing something else rather than whatever is expressed by the preceding clause.
 <li> @REF{{DOIJG}}. (p 151).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

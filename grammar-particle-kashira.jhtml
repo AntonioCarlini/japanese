@@ -80,8 +80,7 @@ The equivalent male particle is <a href="grammar-particle-kana.html">@HI{{kana}}
 <li> @REF{{DOBJG}}. (p 181).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

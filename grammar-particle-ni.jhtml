@@ -247,8 +247,7 @@ the particle is not used. @EM{{@HI{{ni}}}} may optionally be used with days of t
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

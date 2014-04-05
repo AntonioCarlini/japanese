@@ -47,8 +47,7 @@ By using the negative form in a question, the speaker is being indirect and poli
 <li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

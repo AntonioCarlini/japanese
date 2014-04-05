@@ -56,8 +56,7 @@ example to an existing enumeration.
 <li> @REF{{DOBJG}}. (p 413).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

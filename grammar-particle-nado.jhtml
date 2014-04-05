@@ -57,8 +57,7 @@ of nouns.
 <li> @REF{{AAP}}. (p 43).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

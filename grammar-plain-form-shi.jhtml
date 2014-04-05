@@ -51,8 +51,7 @@ explictly it is implied that other causes or reasons exist.
 <li> @REF{{DOBJG}}. (p 395).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

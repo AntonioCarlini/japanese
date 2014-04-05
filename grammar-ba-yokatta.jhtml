@@ -64,8 +64,7 @@ with @KJ{{think}}@HI{{u}}.
 <li> @REF{{DOBJG}}. (p 87).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

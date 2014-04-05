@@ -60,8 +60,7 @@ to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened f
 <li> @REF{{AAP}}. (p 94).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

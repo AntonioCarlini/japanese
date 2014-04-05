@@ -49,8 +49,7 @@ So it cannot be used to introduce a simple fact.
 <li> @REF{{DOBJG}}. (p. 507).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

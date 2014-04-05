@@ -45,8 +45,7 @@ This sentence pattern is used to indicate how often something is done.
 <li> @REF{{MNN-TR-II}}. (Chapter 11).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

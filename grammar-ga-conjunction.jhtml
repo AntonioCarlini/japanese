@@ -65,8 +65,7 @@ In some utterances @S1{{}} and @S2{{}} do not need to express contrasting notion
 <li> @REF{{DOBJG}}. (p 120)
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

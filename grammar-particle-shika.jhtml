@@ -90,8 +90,7 @@ For all other particles, @EM{{@HI{{shika}}}} follows them rather than replacing 
 <li> @REF{{AAP}}. (p 85).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

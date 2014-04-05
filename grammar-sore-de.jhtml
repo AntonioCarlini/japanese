@@ -49,8 +49,7 @@ the previous sentence is the reason for the following sentence.
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

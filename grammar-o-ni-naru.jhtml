@@ -52,8 +52,7 @@ Verbs of the form @N{{}}@HI{{suru}} form the honorific as @HI{{go}}@N{{}}@HI{{na
 <li> @REF{{DOBJG}}. (p 358).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

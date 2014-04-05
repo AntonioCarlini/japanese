@@ -126,7 +126,7 @@ third person and the sentence expresses a present state.
 <li> @REF{{DOBJG}}. (p 155).
 </ol>
 
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

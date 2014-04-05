@@ -59,8 +59,7 @@ This sentence pattern can also be used to mean "to say in such a way". In this c
 <li> @REF{{DOBJG}}. (p. 556).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

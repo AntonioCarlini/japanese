@@ -72,8 +72,7 @@ for example the use of @Vte{{}} as a conjunction).
 <li> @REF{{DOBJG}}. (page 458).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

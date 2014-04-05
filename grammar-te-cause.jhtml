@@ -87,8 +87,7 @@ for the subordinate clause to represent a future event and the main clause to re
 <li> @REF{{MNN-TR-II}}. (Chapter 39).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

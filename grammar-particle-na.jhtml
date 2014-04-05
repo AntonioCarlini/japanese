@@ -110,8 +110,7 @@ Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
 <li> @REF{{AAP}}. (p 135).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

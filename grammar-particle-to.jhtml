@@ -225,8 +225,7 @@ replacing them.
 <li> @REF{{AAP}}. (p 33).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

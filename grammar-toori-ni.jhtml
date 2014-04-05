@@ -72,8 +72,7 @@ when the action has already been performed.
 <li> @REF{{MNN-TR-II}}. (Chapter 34).
 </ol>
 
-</br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

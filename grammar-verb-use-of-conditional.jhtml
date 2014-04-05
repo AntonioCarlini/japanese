@@ -83,8 +83,7 @@ Sentence pattern (C) can be used to ask about the best course of action.
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

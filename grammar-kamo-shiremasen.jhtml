@@ -52,8 +52,7 @@ that the probability that the conjecture is correct is lower than with <a href="
 <li> @REF{{DOBJG}}. (p 173).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

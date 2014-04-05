@@ -63,8 +63,7 @@ stated in the first clause will be unfavourable.
 <li> @REF{{AAP}}. (p. 92).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

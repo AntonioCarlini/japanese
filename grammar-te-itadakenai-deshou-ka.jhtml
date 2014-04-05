@@ -39,8 +39,7 @@ It is a politer request expression than <a href="grammar-te-itadakemasenka.html"
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

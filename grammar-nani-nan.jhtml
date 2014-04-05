@@ -91,8 +91,7 @@ In all other cases the pronunciation is @HI{{nani}}:
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

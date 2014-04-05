@@ -76,8 +76,7 @@ The @EM{{@HI{{gurai}}-}} is added after quantifiers to mean "about" or "approxim
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

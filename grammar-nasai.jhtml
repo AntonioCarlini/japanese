@@ -71,8 +71,7 @@ An inferior should not use this form to a superior; instead <a href="grammar-te-
 <li> @REF{{DOBJG}}. (p. 284).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

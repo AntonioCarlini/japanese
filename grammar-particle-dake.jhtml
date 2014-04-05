@@ -93,8 +93,7 @@ and @HI{{wo}}, which can optionally be used only after @EM{{@HI{{dake}}}}.
 <li> @REF{{DOBJG}}. (p 93).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

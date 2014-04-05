@@ -283,8 +283,7 @@ as though it really existed then and there.
 <li> @REF{{MNN-TR-I}}. (Chapter 31).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

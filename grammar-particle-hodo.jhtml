@@ -94,8 +94,7 @@ follows a noun, the predicate must be in the negative.
 <li> @REF{{DOBJG}}. (p 135).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

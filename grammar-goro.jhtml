@@ -43,8 +43,7 @@ is used with a time interval.
 <li> @REF{{DOBJG}}. (p 126).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

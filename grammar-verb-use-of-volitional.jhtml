@@ -73,8 +73,7 @@ was made some time ago.
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

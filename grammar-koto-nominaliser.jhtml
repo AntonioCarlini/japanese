@@ -99,8 +99,7 @@ There are various structures where @EM{{@HI{{koto}}}} is used and @HI{{no}} is n
 <li> @REF{{DOBJG}}. (p 193).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

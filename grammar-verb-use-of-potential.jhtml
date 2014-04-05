@@ -92,8 +92,7 @@ These latter two verbs also take @HI{{ga}} to mark the object seen or head.
 <li> @REF{{DOBJG}}. (p. 370).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -61,8 +61,7 @@ begins to be in  some state.
 <li> @REF{{DOBJG}}. (p. 131).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -191,8 +191,7 @@ question marker in colloquial sentences.
 <li> @REF{{DOBJG}}. (p. 312).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

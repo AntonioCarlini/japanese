@@ -67,8 +67,7 @@ normally end in @HI{{kara}} ("because").
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

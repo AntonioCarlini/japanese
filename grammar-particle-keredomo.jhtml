@@ -113,8 +113,7 @@ these are @HI{{keredo}}, @HI{{kedomo}} and @HI{{kedo}}.
 <li> @REF{{AAP}}. (p. 90).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

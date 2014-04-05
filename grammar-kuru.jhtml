@@ -49,8 +49,7 @@ In this example, the speaker did not attend the party and is taking the viewpoin
 <li> @REF{{DOBJG}}. (p. 219).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

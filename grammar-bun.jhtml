@@ -62,8 +62,7 @@ When @N{{}} comes before @KJ{{part}} directly, it means the amount or portion re
 <li> @REF{{DOIJG}}. (p 16).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -52,8 +52,7 @@ When the verb is one of motion and no location is specified @EM{{@HI{{noni}}}} c
 <li> @REF{{DOBJG}}. (p 335).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

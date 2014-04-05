@@ -58,8 +58,7 @@ used in the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @H
 <li> @REF{{DOBJG}}. (p. 354).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

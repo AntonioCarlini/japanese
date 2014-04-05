@@ -67,8 +67,7 @@ rather than @HI{{ni}} must be used.
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

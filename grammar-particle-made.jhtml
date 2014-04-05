@@ -101,8 +101,7 @@ When X refers to a duration of time, then "X @EM{{@HI{{made}}}}" means "up to an
 <li> @REF{{DOBJG}}. (p. 225).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

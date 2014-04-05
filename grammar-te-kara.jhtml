@@ -56,8 +56,7 @@ on the part of the speaker.
 <li> @REF{{DOBJG}}. (p 177).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

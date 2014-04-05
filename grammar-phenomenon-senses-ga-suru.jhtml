@@ -46,9 +46,8 @@ This sentence pattern describes a phenonmenon that is perceived by the senses
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 47).
 </ol>
-</br>
 
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

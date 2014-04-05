@@ -110,8 +110,7 @@ is usually used only when the decision is considered to be important.
 <li> @REF{{MNN-TR-II}}. (Chapter 44).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -59,8 +59,7 @@ and the one that comes after. It means "but" or "however".
 <li> @REF{{DOIJG}}. (p 18).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

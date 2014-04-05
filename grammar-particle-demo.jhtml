@@ -114,8 +114,7 @@ Used to mean "whatever" in the construct @HI{{donnna}} ... @EM{{@HI{{demo}}}}.
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

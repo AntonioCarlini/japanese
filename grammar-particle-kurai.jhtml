@@ -81,8 +81,7 @@ There is no difference in meaning between @EM{{@HI{{kurai}}}} and @EM{{@HI{{gura
 <li> @REF{{DOBJG}}. (p 212).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

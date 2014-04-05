@@ -78,8 +78,7 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <li> @REF{{DOBJG}}. (page 196).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

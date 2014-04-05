@@ -91,8 +91,7 @@ Neither N + @HI{{sou desu}} nor N @HI{{da sou desu}} are permitted but N + @HI{{
 <li> @REF{{JPOD101-LI-S1-003}}.
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

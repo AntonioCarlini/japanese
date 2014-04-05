@@ -91,8 +91,7 @@ of something that he assumes is not known to the listener.
 <li> @REF{{DOBJG}}. (p 543).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

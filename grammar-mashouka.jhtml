@@ -47,8 +47,7 @@ When the speaker wishes to offer to do something for the listener, this sentence
 <li> @REF{{MNN-TR-I}}. (Chapter 14).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

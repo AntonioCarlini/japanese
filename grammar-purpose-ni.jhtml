@@ -46,8 +46,7 @@ When the sentence patterns above are followed by expressions such as @HI{{tsukau
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

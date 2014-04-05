@@ -83,8 +83,7 @@ In @S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @HI{{@EM{{kawari ni}}}} can be repla
 <li> @REF{{DOBJG}}. (p 184).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

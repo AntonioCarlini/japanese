@@ -53,8 +53,7 @@ clause indicates how to cope with the situation or its consequences.
 <li> @REF{{MNN-TR-II}}. (Chapter 45).
 </ol>
 
-</br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

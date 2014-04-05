@@ -56,8 +56,7 @@ The pattern @KJ{{what}} + <em>counter</em> + @HI{{mo}} means that the quantity m
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

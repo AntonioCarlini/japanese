@@ -67,8 +67,7 @@ Test lines:</br>
 
 </table>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 </html>

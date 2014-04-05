@@ -46,8 +46,7 @@ This sentence pattern is used to indicate that something happens from time to ti
 <li> @REF{{DOBJG}}. (page 198).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

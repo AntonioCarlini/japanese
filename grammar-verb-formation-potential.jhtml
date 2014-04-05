@@ -121,8 +121,7 @@ a potential verb.
 <li> @REF{{MNN-JP-II}}. (Chapter 27).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

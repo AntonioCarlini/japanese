@@ -50,8 +50,7 @@ is one of "must" or "have to".
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

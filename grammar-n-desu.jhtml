@@ -130,8 +130,7 @@ and may therefore cause offence. It should be used with care.
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -82,8 +82,7 @@ Note, however, that @EM{{@HI{{tai}}}} can be used with a third person:
 <li> @REF{{MNN-TR-I}}. (Chapter 13).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

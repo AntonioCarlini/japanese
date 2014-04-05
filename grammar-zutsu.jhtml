@@ -56,8 +56,7 @@ If @EM{{@HI{{zutsu}}}} is removed from the sentence the meaning hardly changes.
 <li> @REF{{DOBJG}}. (p. 572).
 </ol>
 
-<br/><br/>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

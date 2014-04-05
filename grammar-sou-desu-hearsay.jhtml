@@ -71,8 +71,7 @@ have spoken.
 <li> @REF{{DOBJG}}. (p 407).
 </ol>
 
-</br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 
