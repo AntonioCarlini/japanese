@@ -51,8 +51,7 @@ To ask "how many years?", use @HI{{nannnenn}}.
 <li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

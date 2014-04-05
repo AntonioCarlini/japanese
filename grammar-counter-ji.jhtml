@@ -53,8 +53,7 @@ To ask "what time is it?", use @HI{{nannjidesuka}}.
 <li> @REF{{MNN-TR-I}}. (Appendix II).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -74,8 +74,7 @@ The idiomatic construction <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a
 <li> @REF{{DOBJG}}. (p. 428).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

@@ -76,8 +76,7 @@ such as newspapers, books, theses and diaries. Letters, however, are usually wri
 <li> @REF{{MNN-TR-II}}. (Chapter 20).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

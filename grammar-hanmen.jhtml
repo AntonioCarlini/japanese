@@ -46,8 +46,7 @@
 <li> @REF{{DOAJG}}. (p. 107).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

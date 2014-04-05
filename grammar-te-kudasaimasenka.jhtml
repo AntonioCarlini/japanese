@@ -46,8 +46,7 @@ polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}} @HI{{itadakemasenk
 <li> @REF{{MNN-TR-II}}. (Chapter 41).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

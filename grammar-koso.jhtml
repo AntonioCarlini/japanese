@@ -64,8 +64,7 @@ The idiomatic expression @HI{{kochira}} @EM{{@HI{{koso}}}} means "not at all, th
 <li> @REF{{AAP}}. (p. 127).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

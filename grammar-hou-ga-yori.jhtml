@@ -63,8 +63,7 @@ The @HI{{houga}} part is not always necessary.
 <li> @REF{{DOBJG}}. (p. 564).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

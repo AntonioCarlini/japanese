@@ -45,8 +45,7 @@ This question is used to ask how to say a phrase in another language.
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

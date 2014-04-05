@@ -46,8 +46,7 @@ This construction is used to indicate that even if a certain fact or state exist
 <li> @REF{{NKZM-N3G}}. (p. 33).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

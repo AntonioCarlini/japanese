@@ -52,8 +52,7 @@ This is a question used to ask what someone will do.
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

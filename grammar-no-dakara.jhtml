@@ -45,8 +45,7 @@ of the preceding one. There is a nuance that the listener is expected to know th
 <li> @REF{{NKZM-N3G}}. (p. 31).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

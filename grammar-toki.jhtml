@@ -116,8 +116,7 @@ A @EM{{@HI{{toki}}}} clause never indicates a condiftion.
 <li> @REF{{DOBJG}}. (p 490).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

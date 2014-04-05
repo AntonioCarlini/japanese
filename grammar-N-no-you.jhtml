@@ -110,8 +110,7 @@ The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an e
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

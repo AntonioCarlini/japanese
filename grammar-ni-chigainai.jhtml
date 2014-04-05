@@ -51,8 +51,7 @@ than <a href="grammar-kamo-shiremasen.html">@HI{{kamoshirenai}}</a>.
 <li> @REF{{DOBJG}}. (p. 304).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

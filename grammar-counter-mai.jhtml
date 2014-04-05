@@ -51,8 +51,7 @@ To ask "how many thin or flat things?", use @HI{{nannmai}}.
 <li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

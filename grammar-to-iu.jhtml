@@ -72,8 +72,7 @@ This form is most often used in written Japanese.
 <li> @REF{{NKZM-N3G}}. (p. 37).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

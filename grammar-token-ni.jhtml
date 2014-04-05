@@ -46,8 +46,7 @@ In the above sentence pattern, @EM{{@HI{{ni}}}} means "in memory of" or "as a to
 <li> @REF{{MNN-TR-II}}. (Chapter 41).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

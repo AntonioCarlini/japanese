@@ -33,8 +33,7 @@ All verbs, without exception, form the imperative by appending @HI{{na}} to the 
 <li> @REF{{MNN-JP-II}}. (Chapter 33).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

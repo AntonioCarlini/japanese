@@ -47,8 +47,7 @@ This sentence pattern is used when @N2{{}} represents an event and the speaker w
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

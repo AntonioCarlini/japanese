@@ -42,8 +42,7 @@ This sentence pattern is used to quote the name of something that the listener m
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

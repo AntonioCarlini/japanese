@@ -93,8 +93,7 @@ Common examples are @HI{{ocha}} and @HI{{okane}}.
 <li> @REF{{DOBJG}}. (p. 384).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

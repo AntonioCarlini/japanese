@@ -166,8 +166,7 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
 <li> @REF{{DOBJG}}. (p. 240).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

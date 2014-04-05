@@ -69,8 +69,7 @@ or @HI{{youji}} etc.
 <li> @REF{{MNN-TR-I}}. (Chapter 22).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

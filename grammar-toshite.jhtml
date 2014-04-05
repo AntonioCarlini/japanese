@@ -47,8 +47,7 @@ This particle follows a noun and indicates that something functions in a particu
 <li> @REF{{DOBJG}}. (p 501)
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

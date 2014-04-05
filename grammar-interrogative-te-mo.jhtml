@@ -57,8 +57,7 @@ This pattern expresses that something happens under all circumstances, whatever 
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

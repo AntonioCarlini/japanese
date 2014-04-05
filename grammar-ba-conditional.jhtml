@@ -45,8 +45,7 @@ Use of the @HI{{nara}} forms is described <a href="grammar-nara.html">here</a>.
 <li> @REF{{DOBJG}}. (p. 81).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

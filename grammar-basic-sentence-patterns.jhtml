@@ -123,8 +123,7 @@ This construction relates a non-controllable state to a topic.
 <li> @REF{{DOBJG}}. (p. 525).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

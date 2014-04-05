@@ -46,8 +46,7 @@ In this example, you have a bad tooth but the dentist's surgery is about to clos
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

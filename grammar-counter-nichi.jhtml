@@ -49,8 +49,7 @@ This counter is used to count periods of days.
 <li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

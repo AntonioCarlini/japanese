@@ -40,8 +40,7 @@ In this respect its usage is the same as <a href="grammar-you-desu.html">@HI{{yo
 <li> @REF{{DOBJG}}. (p 550).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

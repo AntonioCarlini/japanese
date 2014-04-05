@@ -42,8 +42,7 @@ The sentence pattern @N1{{}}@HI{{janakute}}@N2{{}} is used to deny @N1{{}} and t
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

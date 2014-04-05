@@ -101,8 +101,7 @@ the meaning of the sentence would not be as intended.
 <li> @REF{{DOBJG}}. (p 376).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

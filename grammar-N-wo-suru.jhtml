@@ -45,8 +45,7 @@ Some examples are:
 <li> @REF{{JACG}}. (p. 571).  
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 

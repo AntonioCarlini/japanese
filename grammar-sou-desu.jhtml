@@ -83,8 +83,7 @@ would be to use @KJ{{difference}}@HI{{imasu}}.
 <li> @REF{{MNN-TR-I}}. (Chapter 2).
 </ol>
 
-</br></br>
-Back to the <a href="../grammar.html"> grammar page</a>.
+@include{{"grammar-footer.inc"}}
 
 </body>
 
