@@ -54,7 +54,7 @@ This form is most often used in written Japanese.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{zono@KJ{{environs}}riha,@KJ{{once*upon*a*time}},@KJ{{wide}}i@KJ{{plains^meadow}}datta<strong>toiu</strong.}}
+      @HI{{kono@KJ{{environs}}riha@KJ{{once*upon*a*time}},@KJ{{wide}}i@KJ{{plains^meadow}}datta@EM{{toiu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Long ago, this neighbourhood used to be fields, I heard.
