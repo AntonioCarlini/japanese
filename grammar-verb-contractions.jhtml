@@ -16,16 +16,37 @@
 <h2> Formation </h2>
 
 <table>
-<tr> <th> Original form             </th>        <th> Contracted form          </th> </tr>
+<tr> <th> Original<br>form          </th>        <th> Contracted<br>form       </th> </tr>
 <tr> <td> @Vte{{}}@HI{{iru}}        </td>        <td> @Vte{{}}@HI{{ru}}        </td> </tr>
+
 <tr> <td> @Vte{{}}@HI{{oku}}        </td>        <td> @V{{}}@HI{{toku}}        </td> </tr>
-<tr> <td> @V{{}}@HI{{deoku}}        </td>        <td> @V{{}}@HI{{doku}}        </td> </tr>
-<tr> <td> @Vte{{}}@HI{{shimau}}     </td>        <td> @Vte{{}} @HI{{chau}}     </td> </tr>
-<tr> <td> @HI{{de}}@HI{{shimau}}    </td>        <td> @HI{{de}}@HI{{jau}}      </td> </tr>
+<tr> <td> @Vde{{}}@HI{{oku}}        </td>        <td> @V{{}}@HI{{doku}}        </td> </tr>
+
+<tr> <td> @Vte{{}}@HI{{shimau}}     </td>        <td> @Vte{{}}@HI{{chau}}      </td> </tr>
+<tr> <td> @Vte{{}}@HI{{shimau}}     </td>        <td> @Vte{{}}@HI{{chimau}}    </td> </tr>
+<tr> <td> @Vde{{}}@HI{{shimau}}     </td>        <td> @Vde{{}}@HI{{jau}}       </td> </tr>
+<tr> <td> @Vde{{}}@HI{{shimau}}     </td>        <td> @Vde{{}}@HI{{jimau}}     </td> </tr>
+
 <tr> <td> @Vte{{}}@HI{{ha}}         </td>        <td> @V{{}}@HI{{cha}}         </td> </tr>
-<tr> <td> @V{{}}@HI{{deha}}         </td>        <td> @V{{}}@HI{{ja}}          </td> </tr>
+<tr> <td> @Vde{{}}@HI{{ha}}         </td>        <td> @V{{}}@HI{{ja}}          </td> </tr>
+
 <tr> <td> @HI{{nakuteha}}           </td>        <td> @HI{{nakucha}}           </td> </tr>
-<tr> <td> @HI{{to iu}}              </td>        <td> @HI{{tte}}               </td> </tr>
+<tr> <td> @HI{{toiu}}               </td>        <td> @HI{{tte}}               </td> </tr>
+
+<tr> <td> @HI{{nakereba}}           </td>        <td> @HI{{nakya}}             </td> </tr>
+
+<!-- http://www.sljfaq.org/afaq/colloquial-contractions.html -->
+<tr> <td> @Vte{{}}@HI{{hashinai}}   </td>        <td> @Vte{{}}@HI{{yashinai}}  </td> </tr>
+<tr> <td> @Vte{{}}@HI{{ageru}}      </td>        <td> @V{{}}@HI{{tageru}}      </td> </tr>
+<tr> <td> @Vru{{}}@HI{{no}}         </td>        <td> @V{{}}@HI{{n'no}}        </td> </tr>
+
+<!-- http://en.wikipedia.org/wiki/Contraction_(grammar)#Japanese -->
+<tr> <td> @Vte{{}}@HI{{iku}}        </td>        <td> @Vte{{}}@HI{{ku}}        </td> </tr>
+
+<!-- http://j-rant.dreamwidth.org/3598.html -->
+<tr> <td> @Vte{{}}@HI{{oru}}        </td>        <td> @V{{}}@HI{{toru}}        </td> </tr>
+<tr> <td> @HI{{toiueba}}            </td>        <td> @HI{{tteba}}             </td> </tr>
+
 </table>
 
 <h2> Definition </h2>

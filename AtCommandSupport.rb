@@ -201,7 +201,9 @@ $command_to_op = {
   "Vmasu" => :process_empty_code,
   "Vmasustem" => :process_empty_code,
   "Vte" => :process_empty_code,
+  "Vde" => :process_empty_code,
   "Vteiru" => :process_empty_code,
+  "Vdeiru" => :process_empty_code,
   "Vta" => :process_empty_code,
   "Vtara" => :process_empty_code,
   "Vba" => :process_empty_code,
@@ -466,9 +468,11 @@ def process_empty_code_helper(code)
         when "Vmasu"       then mark_as_grammar("V#{convert_to_hiragana('masu')}")              # masu form
         when "Vmasustem"   then mark_as_grammar("V<del>#{convert_to_hiragana('masu')}</del>")   # masu stem
         when "Vte"         then mark_as_grammar("V#{convert_to_hiragana('te')}")                # te-form
+        when "Vde"         then mark_as_grammar("V#{convert_to_hiragana('de')}")                # te-form for "mu"/"bu"
         when "Vta"         then mark_as_grammar("V#{convert_to_hiragana('ta')}")                # past
         when "Vtara"       then mark_as_grammar("V#{convert_to_hiragana('tara')}")              # ta-conditional
         when "Vteiru"      then mark_as_grammar("V#{convert_to_hiragana('teiru')}")             # te iru form
+        when "Vdeiru"      then mark_as_grammar("V#{convert_to_hiragana('deiru')}")             # te iru form for "mu"/"bu"
         when "Vba"         then mark_as_grammar("V#{convert_to_hiragana('ba')}")                # ba (conditional)
         when "Vyou"        then mark_as_grammar("V#{convert_to_hiragana('you')}")               # volitional
         when "Vreru"       then mark_as_grammar("V#{convert_to_hiragana('reru')}")              # potential
@@ -481,8 +485,8 @@ def process_empty_code_helper(code)
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
         when "Anastem"     then mark_as_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
         else
-          debug_out("Line: #{line_num}: Unknown {{}} code: [#{$1}]")
-          "&lt;UNKNOWN @code [#{style}]&gt;"
+          debug_out("code: [#{code}]")
+          "&lt;UNKNOWN @code [#{code}]&gt;"
         end
 end
 
