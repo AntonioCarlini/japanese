@@ -178,6 +178,7 @@ $command_to_op = {
   "HI" => :process_hiragana,
   "KJ" => :process_kanji,
   "KT" => :process_katakana,
+  "FG" => :process_furigana,
   "EM" => :process_emphasis,
   "GRMIDX" => :process_grammar_index,
   "masustem" => :process_empty_code,
@@ -275,7 +276,7 @@ def process_at_commands(text)
           end
         end
         # Call the op processor - if there isn't one then this is a bug
-        raise("No object on the stack") if object.nil?()
+        raise("No object on the stack with current [#{text}#{current}] to handle [#{to_handle}]") if object.nil?()
         op = object.operation()
         raise("Object has no operation") if op.nil?()
         debug_out("Invoking [#{op}]")
@@ -348,7 +349,7 @@ def dump_stack(orig_stack)
   stack = orig_stack.dup()
   while !stack.empty?()
     item = stack.pop()
-    debug("#{item.display()}")
+    diagnostic_out("#{item.display()}")
   end
 end
 
@@ -424,6 +425,39 @@ def process_kanji(stack, unused)
     end
   }
   return collapse_stack(result)
+end
+
+# Process all furigana. Everything up to the first ":" is the text to display
+# and everything else is assumed to be the furigana (which is encoded as a title).
+# All otherwise unprocessed text is assumed to be hiragana.
+def process_furigana(stack, unused)
+  display_result = []
+  result = []
+  in_display = true
+  stack.each() {
+    |x|
+    if x.processed?()
+      result << x
+    else
+      text = x.text()
+      # If the first ":" is seen, switch from display to tooltip
+      if in_display && text =~ /:/
+        pre = $`
+        post = $'
+        result << DoneText.new(convert_to_hiragana(pre))
+        display_result = result
+        result = [ DoneText.new(convert_to_hiragana(post)) ]
+        in_display = false
+      else
+        result << DoneText.new(convert_to_hiragana(x.text()))
+      end
+    end
+  }
+  raise("Failed to specify furigana in @FG") if in_display
+  tip = "<span title=\"#{collapse_result(result).text()}\">"
+  tip += collapse_result(display_result).text()
+  tip += "</span>"
+  return [ DoneText.new(tip) ]
 end
 
 # Process all unprocessed text as katakana

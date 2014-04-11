@@ -5,3 +5,7 @@ $LOAD_PATH << File.dirname(__FILE__)
 def debug_out(text)
   #$stderr.puts(text)
 end
+
+def diagnostic_out(text)
+  $stderr.puts(text)
+end
