@@ -280,7 +280,11 @@ def process_at_commands(text)
         op = object.operation()
         raise("Object has no operation") if op.nil?()
         debug_out("Invoking [#{op}]")
-        result = send(op, mini_stack, object.code())
+        begin
+          result = send(op, mini_stack, object.code())
+        rescue
+          $stderr.puts("Fatal error near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
+        end
         if stack.empty?()
           answer += puts_result(result)
         else
@@ -453,7 +457,10 @@ def process_furigana(stack, unused)
       end
     end
   }
-  raise("Failed to specify furigana in @FG") if in_display
+  if in_display
+    dump_stack(result)
+    raise("Failed to specify furigana in @FG")
+  end
   tip = "<span title=\"#{collapse_result(result).text()}\">"
   tip += collapse_result(display_result).text()
   tip += "</span>"
