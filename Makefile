@@ -6,6 +6,7 @@ JHTML_SRCS += aap.jhtml
 JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += ahij-vocabulary.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
+JHTML_SRCS += doajg.jhtml
 JHTML_SRCS += dobjg.jhtml
 JHTML_SRCS += doijg.jhtml
 JHTML_SRCS += grammar-activity-time.jhtml
@@ -463,7 +464,7 @@ $(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) find-grammar-elements.r
 
 $(OUTPUT)/grammar-index.html : $(GRMIDX_SRCS) build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
-	./build-grammar-index.rb $(GRMIDX_SRCS) > $@
+	@./build-grammar-index.rb $(GRMIDX_SRCS) > $@
 
 $(OUTPUT)/%.css: %.scss $(CSS_PARTIALS)
 	@mkdir -p $(OUTPUT)
