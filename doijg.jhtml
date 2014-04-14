@@ -24,7 +24,7 @@ table.progress td.left {
   <th> Vocabulary </th> <th> Grammar </th> <th> Sentences </th> <th> Notes Made </th>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-amari-x.html"></a> @HI{{amari}}                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{amari}}                                                           </td>
   <td class=""> DOIJG, p.3                                                                                                     </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -54,17 +54,17 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-dakara-to-itte.html"></a> @HI{{dakara to @KJ{{say}}tte}}                                   </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{dakara to @KJ{{say}}tte}}                                   </td>
   <td class=""> DOIJG, p. 21                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-dake-de.html"></a> @HI{{dake de}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{dake de}}                                                          </td>
   <td class=""> DOIJG, p. 23                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-darake.html"></a> -@HI{{darake}}                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> -@HI{{darake}}                                                           </td>
   <td class=""> DOIJG, p. 25                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -74,57 +74,57 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-de-arou.html"></a> @HI{{dearou}}                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{dearou}}                                                           </td>
   <td class=""> DOIJG, p. 29                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-de-aru.html"></a> @HI{{dearu}}                                                             </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{dearu}}                                                             </td>
   <td class=""> DOIJG, p. 30                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-dokoro-ka.html"></a> @HI{{dokoro ka}}                                                      </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{dokoro ka}}                                                      </td>
   <td class=""> DOIJG, p. 34                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-doumo.html"></a> @HI{{doumo}}                                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{doumo}}                                                              </td>
   <td class=""> DOIJG, p. 36                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-donnnani-koto-ka.html"></a> @HI{{donnnani}}~(@HI{{koto}})@HI{{ka}}                         </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{donnnani}}~(@HI{{koto}})@HI{{ka}}                         </td>
   <td class=""> DOIJG, p. 39                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-douse.html"></a> @HI{{douse}}                                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{douse}}                                                              </td>
   <td class=""> DOIJG, p. 41                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-fuu-ni.html"></a> @KJ{{wind}}@HI{{ni}}                                                     </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{wind}}@HI{{ni}}                                                     </td>
   <td class=""> DOIJG, p. 44                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-gachi.html"></a> -@HI{{gachi}}                                                             </td>
+  <td class="left"> <a href="grammar-.html"></a> -@HI{{gachi}}                                                             </td>
   <td class=""> DOIJG, p. 47                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-gatai.html"></a> -@HI{{gatai}}                                                             </td>
+  <td class="left"> <a href="grammar-.html"></a> -@HI{{gatai}}                                                             </td>
   <td class=""> DOIJG, p. 50                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-gyaku-ni.html"></a> @KJ{{inverted}}@HI{{ni}}                                               </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{inverted}}@HI{{ni}}                                               </td>
   <td class=""> DOIJG, p. 53                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-hodo.html"></a> @HI{{hodo}}                                                                </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{hodo}}                                                                </td>
   <td class=""> DOIJG, p. 57                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -134,47 +134,47 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ijou-wa.html"></a> @KJ{{by*means*of^above}}(@HI{{ha}})                                     </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{by*means*of^above}}(@HI{{ha}})                                     </td>
   <td class=""> DOIJG, p. 64                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ikanimo.html"></a> @HI{{ikanimo}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ikanimo}}                                                          </td>
   <td class=""> DOIJG, p. 66                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-imperative.html"></a> Imperative                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> Imperative                                                           </td>
   <td class=""> DOIJG, p. 70                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ippou-dewa-tahou-dewa.html"> - @KJ{{one^direction}} @HI{{de}}(@HI{{ha}}) ~ @KJ{{other^direction}} @HI{{de}}(@HI{{ha}}) ~       </td>
+  <td class="left"> <a href="grammar-.html"> - @KJ{{one^direction}} @HI{{de}}(@HI{{ha}}) ~ @KJ{{other^direction}} @HI{{de}}(@HI{{ha}}) ~       </td>
   <td class=""> DOIJG, p. 73                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-jou.html"></a> - @KJ{{above}}                                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> - @KJ{{above}}                                                              </td>
   <td class=""> DOIJG, p. 76                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kaette.html"></a> @HI{{kaette}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kaette}}                                                            </td>
   <td class=""> DOIJG, p. 80                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kagiri-conjunction.html"></a> @KJ{{limit}}@HI{{ri}}                                        </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{limit}}@HI{{ri}}                                        </td>
   <td class=""> DOIJG, p. 82                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-suffix-kagiri.html"></a> - @KJ{{limit}}@HI{{ri}}                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> - @KJ{{limit}}@HI{{ri}}                                           </td>
   <td class=""> DOIJG, p. 85                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ka-ka.html"></a> ~ @HI{{ka}} ~ @HI{{ka}}                                                   </td>
+  <td class="left"> <a href="grammar-.html"></a> ~ @HI{{ka}} ~ @HI{{ka}}                                                   </td>
   <td class=""> DOIJG, p. 87                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -184,67 +184,67 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kanarazushimo.html"></a> @KJ{{invariably}}@HI{{zushimo}}                                   </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{invariably}}@HI{{zushimo}}                                   </td>
   <td class=""> DOIJG, p. 92                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kaneru.html"></a> @HI{{kaneru}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kaneru}}                                                            </td>
   <td class=""> DOIJG, p. 96                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kara-ni-itaru-made.html"></a> ~ @HI{{kara}} ~ @HI{{ni@KJ{{climax}}rumade}}                 </td>
+  <td class="left"> <a href="grammar-.html"></a> ~ @HI{{kara}} ~ @HI{{ni@KJ{{climax}}rumade}}                 </td>
   <td class=""> DOIJG, p. 99                                                                                                    </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kara-ni-kakete.html"></a> ~ @HI{{kara}} ~ @HI{{nikakete}}                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> ~ @HI{{kara}} ~ @HI{{nikakete}}                                  </td>
   <td class=""> DOIJG, p. 101                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kara-to-itte.html"></a> @HI{{karato@KJ{{say}}tte}}                                         </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{karato@KJ{{say}}tte}}                                         </td>
   <td class=""> DOIJG, p. 103                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-karou.html"></a> @HI{{karou}}                                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{karou}}                                                              </td>
   <td class=""> DOIJG, p. 106                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kata-wo-suru.html"></a> @KJ{{direction}}@HI{{wosuru}}                                      </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{direction}}@HI{{wosuru}}                                      </td>
   <td class=""> DOIJG, p. 109                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kata-to-iu.html"></a> @KJ{{direction}}@HI{{to}}@KJ{{say}}                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{direction}}@HI{{to}}@KJ{{say}}                                  </td>
   <td class=""> DOIJG, p. 114                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-no-kawari-ni.html"></a> (@HI{{no}})@KJ{{substitute}}@HI{{warini}}                          </td>
+  <td class="left"> <a href="grammar-.html"></a> (@HI{{no}})@KJ{{substitute}}@HI{{warini}}                          </td>
   <td class=""> DOIJG, p. 116                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kekka.html"></a> @KJ{{tie^fruit}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{tie^fruit}}                                                          </td>
   <td class=""> DOIJG, p. 121                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kekkou.html"></a> @KJ{{tie^posture}}                                                       </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{tie^posture}}                                                       </td>
   <td class=""> DOIJG, p. 123                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kono.html"></a> @HI{{kono}}                                                                </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kono}}                                                                </td>
   <td class=""> DOIJG, p. 127                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-koushita.html"></a> @HI{{koushita}}                                                        </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{koushita}}                                                        </td>
   <td class=""> DOIJG, p. 130                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -254,12 +254,12 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-koto-command.html"></a> @HI{{koto}}                                                        </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{koto}}                                                        </td>
   <td class=""> DOIJG, p. 135                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-koto-de.html"></a> @HI{{kotode}}                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kotode}}                                                           </td>
   <td class=""> DOIJG, p. 137                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -269,17 +269,17 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-koto-ni-yoru.html"></a> @HI{{kotoniyoru}}                                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kotoniyoru}}                                                  </td>
   <td class=""> DOIJG, p. 143                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-koto-wa-nai.html"></a> @HI{{kotohanai}}                                                    </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kotohanai}}                                                    </td>
   <td class=""> DOIJG, p. 146                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ku.html"></a> @HI{{ku}}                                                                    </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ku}}                                                                    </td>
   <td class=""> DOIJG, p. 148                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -289,12 +289,12 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kuse-ni.html"></a> @HI{{kuseni}}                                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{kuseni}}                                                           </td>
   <td class=""> DOIJG, p. 155                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-made-mo-nai.html"></a> @HI{{mademonai}}                                                    </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{mademonai}}                                                    </td>
   <td class=""> DOIJG, p. 159                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -304,67 +304,67 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-masaka.html"></a> @HI{{masaka}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{masaka}}                                                            </td>
   <td class=""> DOIJG, p. 165                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mashida.html"></a> @HI{{mashida}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{mashida}}                                                          </td>
   <td class=""> DOIJG, p. 169                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-matawa.html"></a> @HI{{mataha}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{mataha}}                                                            </td>
   <td class=""> DOIJG, p. 171                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-me-suffix.html"></a> @KJ{{eye}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{eye}}                                                            </td>
   <td class=""> DOIJG, p. 174                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-men-suffix.html"></a> @KJ{{mask}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{mask}}                                                          </td>
   <td class=""> DOIJG, p. 176                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-miseru.html"></a> @HI{{miseru}}                                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{miseru}}                                                            </td>
   <td class=""> DOIJG, p. 177                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-mo#unk.html"></a> @HI{{mo}}                                                       </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{mo}}                                                       </td>
   <td class=""> DOIJG, p. 179                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mo-ba.html"></a> ~@HI{{mo}}~@HI{{ba}}                                                      </td>
+  <td class="left"> <a href="grammar-.html"></a> ~@HI{{mo}}~@HI{{ba}}                                                      </td>
   <td class=""> DOIJG, p. 184                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mo-mo.html"></a> ~@HI{{mo}}~@HI{{mo}}                                                      </td>
+  <td class="left"> <a href="grammar-.html"></a> ~@HI{{mo}}~@HI{{mo}}                                                      </td>
   <td class=""> DOIJG, p. 185                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-mono.html"></a> @HI{{mono}}(@HI{{da}})                                                    </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{mono}}(@HI{{da}})                                                    </td>
   <td class=""> DOIJG, p. 189                                                                                                  </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-naa.html"></a> @HI{{naa}}                                                         </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{naa}}                                                         </td>
   <td class=""> DOIJG, p. 193                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-nado-to.html"></a> @HI{{nadoto}}                                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nadoto}}                                                  </td>
   <td class=""> DOIJG, p. 197                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-nagara-mo.html"></a> @HI{{nagara}}(@HI{{mo}})                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nagara}}(@HI{{mo}})                                              </td>
   <td class=""> DOIJG, p. 199                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
@@ -379,127 +379,127 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-naku.html"></a> @HI{{naku}}                                                                </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{naku}}                                                                </td>
   <td class=""> DOIJG, p. 211                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-nandemo.html"></a> @HI{{nandemo}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nandemo}}                                                          </td>
   <td class=""> DOIJG, p. 215                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-nanishiro.html"></a> @KJ{{what}}@HI{{shiro}}                                               </td>
+  <td class="left"> <a href="grammar-.html"></a> @KJ{{what}}@HI{{shiro}}                                               </td>
   <td class=""> DOIJG, p. 216                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-naranai.html"></a> @HI{{naranai}}                                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{naranai}}                                                          </td>
   <td class=""> DOIJG, p. 219                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-nari-nari.html"></a> ~@HI{{nari}}~@HI{{nari}}                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> ~@HI{{nari}}~@HI{{nari}}                                              </td>
   <td class=""> DOIJG, p. 223                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-nari-ni.html"></a> @HI{{narini}}                                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{narini}}                                                  </td>
   <td class=""> DOIJG, p. 227                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-nashi-dewa.html"></a> @HI{{nashideha}}                                            </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nashideha}}                                            </td>
   <td class=""> DOIJG, p. 230                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-neba-naranai.html"></a> @HI{{nebanaranai}}                                                 </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nebanaranai}}                                                 </td>
   <td class=""> DOIJG, p. 232                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-sentence-ending-ni.html"></a> @HI{{ni}}                                           </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni}}                                           </td>
   <td class=""> DOIJG, p. 234                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni-atari.html"></a> @HI{{ni@KJ{{hit}}tatte/@KJ{{hit}}tari}}                       </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{hit}}tatte/@KJ{{hit}}tari}}                       </td>
   <td class=""> DOIJG, p. 237                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni-hanashite.html"></a> @HI{{ni@KJ{{anti-}}shit/@KJ{{anti-}}suru}}                </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{anti-}}shit/@KJ{{anti-}}suru}}                </td>
   <td class=""> DOIJG, p. 241                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-hokanaranai.html"></a> @HI{{nihokanaranai}}                                             </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nihokanaranai}}                                             </td>
   <td class=""> DOIJG, p. 245                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni-kagirazu.html"></a> @HI{{ni@KJ{{limit}}razu}}                                  </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{limit}}razu}}                                  </td>
   <td class=""> DOIJG, p. 249                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ni-kagitte.html"></a> @HI{{ni@KJ{{limit}}tte}}                                    </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{limit}}tte}}                                    </td>
   <td class=""> DOIJG, p. 250                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-kanshite.html"></a> @HI{{ni@KJ{{connection}}shite/@KJ{{connection}}suru}}               </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{connection}}shite/@KJ{{connection}}suru}}               </td>
   <td class=""> DOIJG, p. 252                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-kan-suru.html"></a> @HI{{ni@KJ{{substitute}}watte}}                                        </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{substitute}}watte}}                                        </td>
   <td class=""> DOIJG, p. 254                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-kuraberu-to.html"></a> @HI{{ni@KJ{{compare}}beruto}}/@KJ{{compare}}@HI{{bete}}          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{compare}}beruto}}/@KJ{{compare}}@HI{{bete}}          </td>
   <td class=""> DOIJG, p. 256                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-mo-kakawarazu.html"></a> @HI{{nimokakawarazu}}                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nimokakawarazu}}                                          </td>
   <td class=""> DOIJG, p. 257                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-motozuite.html"></a> @HI{{ni@KJ{{fundamentals}}duite}}/@KJ{{fundamentals}}@HI{{duku}}   </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{fundamentals}}duite}}/@KJ{{fundamentals}}@HI{{duku}}   </td>
   <td class=""> DOIJG, p. 261                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-naru-to.html"></a> @HI{{ninaruto}}                                                      </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ninaruto}}                                                      </td>
   <td class=""> DOIJG, p. 262                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-oite.html"></a> @HI{{nioite}}/@HI{{okeru}}                                              </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nioite}}/@HI{{okeru}}                                              </td>
   <td class=""> DOIJG, p. 265                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-shitagatte.html"></a> @HI{{ni@KJ{{accompany}}tte}}/@KJ{{accompany}}@HI{{i}}             </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{accompany}}tte}}/@KJ{{accompany}}@HI{{i}}             </td>
   <td class=""> DOIJG, p. 268                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-suginai.html"></a> @HI{{ni@KJ{{overdo}}ginai}}                                          </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{overdo}}ginai}}                                          </td>
   <td class=""> DOIJG, p. 271                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-taishite.html"> @HI{{ni@KJ{{vis-a-vis}}shite}}/@KJ{{vis-a-vis}}@HI{{shi}} </a>          </td>
+  <td class="left"> <a href="grammar-.html"> @HI{{ni@KJ{{vis-a-vis}}shite}}/@KJ{{vis-a-vis}}@HI{{shi}} </a>          </td>
   <td class=""> DOIJG, p. 275                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ni-totte.html"></a> @HI{{nitotte}}                                                         </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{nitotte}}                                                         </td>
   <td class=""> DOIJG, p. 278                                                                                                   </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
