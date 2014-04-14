@@ -291,7 +291,7 @@
 <h3> <a href="grammar-particle-to.html"> @HI{{to}} (particle) </a> </h3>
 <h3> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a> </h3>
 <h3> <a href="grammar-to-iu-imi.html"> @HI{{to iu @KJ{{idea^flavor}}}} </a> </h3>
-<h3> <a href="grammar-to-wa.html"> @HI{{toha}} </a> </h3>
+<h3> <a href="grammar-particle-to-wa.html"> @HI{{toha}} </a> </h3>
 <h3> <a href="grammar-to-itte-imashita.html"> @HI{{to @KJ{{say}}tte imashita}} </a> </h3>
 <h3> <a href="grammar-to-omou.html"> @HI{{to@KJ{{say}}}} </a> </h3>
 <h3> <a href="grammar-to-tsutaete-itadakemasenka.html"> @HI{{to @KJ{{transmit}}ete itadakemasenka}} </a> </h3>
@@ -340,8 +340,8 @@
 <h2> <a name="hi-no">@HI{{no}}</a> </h2>
 
 <h3> <a href="grammar-particle-no.html"> @HI{{no}} (particle)</a> </h3>
-<h3> <a href="grammar-no-nominaliser.jhtml"> @HI{{no}} (nominaliser) </a> </h3>
-<h3> <a href="grammar-no-wa-N-desu.jhtml"> @HI{{no ha}} N @HI{{desu}} </a> </h3>
+<h3> <a href="grammar-no-nominaliser.html"> @HI{{no}} (nominaliser) </a> </h3>
+<h3> <a href="grammar-no-wa-N-desu.html"> @HI{{no ha}} N @HI{{desu}} </a> </h3>
 <h3> <a href="grammar-node.html"> @HI{{node}} </a> </h3>
 <h3> <a href="grammar-noni-although.html"> @HI{{noni}} (although) </a> </h3>
 <h3> <a href="grammar-noni-purpose.html"> @HI{{noni}} (purpose) </a> </h3>
@@ -469,7 +469,7 @@
 <h3> <a href="grammar-particle-wa.html"> @HI{{ha}} (particle) </a> </h3>
 <h3> <a href="grammar-particle-sentence-ending-wa.html"> @HI{{wa}} (particle) </a> </h3>
 <h3> <a href="grammar-wakaru.html"> @KJ{{part}}@HI{{karu}} </a> </h3>
-<h3> <a href="grammar-waka-da.html"> @HI{{wakeda}} </a> </h3>
+<h3> <a href="grammar-wake-da.html"> @HI{{wakeda}} </a> </h3>
 
 <h2> <a name="hi-wa">@HI{{wo}}</a> </h2>
 
