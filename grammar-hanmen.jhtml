@@ -25,7 +25,9 @@
 <h2> Definition </h2>
 
 <p>
-@KJ{{anti-^mask}}</strong> presents the preceding clause and the main clause as contrasts.
+@KJ{{anti-^mask}}</strong> presents the preceding clause and the main clause as positive and negative contrasts.
+The main clause is usually the negative side of the contrast.
+It can often be translated as "while" or "on the other hand".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -38,6 +40,15 @@
 </p>
 
 <h2> Notes </h2>
+
+<p>
+@KJ{{anti-^mask}} can be placed either at the end of the first clasue or at the beginning of a subsequent sentence. In the latter case it may optionally be preceded by @HI{{sono}}.
+</p>
+
+<p>
+<a href="grammar-ni-taishite.html">@HI{{ni@KJ{{vis-a-vis}}shite}}</a> is also used to contrast statements. However @HI{{ni@KJ{{vis-a-vis}}shite}} usually contrasts two different things, whereas
+@KJ{{anti-^mask}} contrasts two aspects of one thing. They are thus not interchangeable.
+</p>
 
 <h2> References </h2>
 
