@@ -30,7 +30,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^year}}no@KJ{{summer}}ha@KJ{{cool}}shii<strong>toiuyoriha@KJ{{cold}}katta.}}
+      @HI{{@KJ{{now^year}}no@KJ{{summer}}ha@KJ{{cool}}shii@EM{{toiuyoriha}}@KJ{{cold}}katta.}}
   </td> </tr>
   <tr class="en"> <td>
       This summer was cold rather than cool.
@@ -44,7 +44,7 @@
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 25).
-<li> @REF{{DOAJG}}. (p. 149).
+<li> @REF{{DOIJG}}. (p. 495).
 </ol>
 
 @include{{"grammar-footer.inc"}}
