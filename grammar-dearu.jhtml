@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dearu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dearu}}" grammar="@HI{{dearu}}"}}
+
+<body>
+
+<h1>@HI{{dearu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Anastem{{}} @EM{{@HI{{dearu}}}}
+<li> @N{{}} @EM{{@HI{{dearu}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{dearu}}}} is a copula used in formal speech and writing.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{person^interval}}:ningenn}}ha@FG{{@KJ{{consider}}eru:kangaeru}}@FG{{@KJ{{reed}}:ashi}}@EM{{dearu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Man is a thinking reed.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@EM{{@HI{{dearu}}}} is used only in written Japanese.
+</p>
+
+<p>
+@EM{{@HI{{dearu}}}} and @HI{{da}} can be used together in formal writing. Neither can be used with @HI{{desu}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 30).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

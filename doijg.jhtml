@@ -74,14 +74,14 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{dearou}}                                                           </td>
+  <td class="left"> <a href="grammar-dearou.html"> @HI{{dearou}} </a>                                                           </td>
   <td class=""> DOIJG, p. 29                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{dearu}}                                                             </td>
+  <td class="left"> <a href="grammar-dearu.html"> @HI{{dearu}} </a>                                                             </td>
   <td class=""> DOIJG, p. 30                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{dokoro ka}}                                                      </td>
@@ -89,9 +89,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{doumo}}                                                              </td>
+  <td class="left"> <a href="grammar-doumo.html"> @HI{{doumo}} </a>                                                             </td>
   <td class=""> DOIJG, p. 36                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{donnnani}}~(@HI{{koto}})@HI{{ka}}                         </td>
