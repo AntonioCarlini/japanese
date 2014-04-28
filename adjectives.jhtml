@@ -104,33 +104,33 @@ Adjective sentences form questions in the same way as noun or verb sentences: by
  </tr>
  <tr>
    <td> Present </td>
-   <td> @HI{{taka}}<span>@HI{{i}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{i desu}}</span></td>
+   <td> @HI{{taka}}@EM{{@HI{{i}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{i desu}}}}</td>
  </tr>
  <tr>
    <td> Present Negative </td>
-   <td> @HI{{taka}}<span>@HI{{kunai}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{kunai desu}}</span></td>
+   <td> @HI{{taka}}@EM{{@HI{{kunai}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kunai desu}}}}</td>
  </tr>
  <tr>
    <td> Past</td>
-   <td> @HI{{taka}}<span>@HI{{katta}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{katta desu}}</span></td>
+   <td> @HI{{taka}}@EM{{@HI{{katta}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{katta desu}}}}</td>
  </tr>
  <tr>
    <td> Past Negative</td>
-   <td> @HI{{taka}}<span>@HI{{kunakatta}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{kunakatta desu}}<span></td>
+   <td> @HI{{taka}}@EM{{@HI{{kunakatta}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kunakatta desu}}}}</td>
  </tr>
  <tr>
    <td> @HI{{te}}-form</td>
-   <td> @HI{{taka}}<span>@HI{{kute}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{kute}}<span></td>
+   <td> @HI{{taka}}@EM{{@HI{{kute}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kute}}}}</td>
  </tr>
  <tr>
    <td> Adverb</td>
-   <td> @HI{{taka}}<span>@HI{{ku}}</span></td>
-   <td> @HI{{taka}}<span>@HI{{ku}}<span></td>
+   <td> @HI{{taka}}@EM{{@HI{{ku}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{ku}}}}</td>
  </tr>
 </table>
 
@@ -144,33 +144,33 @@ Adjective sentences form questions in the same way as noun or verb sentences: by
  </tr>
  <tr>
    <td> Present </td>
-   <td> @HI{{benri}}<span>@HI{{ da}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{ desu}}</span></td>
+   <td> @HI{{benri}}@EM{{@HI{{ da}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{ desu}}}}</td>
  </tr>
  <tr>
    <td> Present Negative </td>
-   <td> @HI{{benri}}<span>@HI{{ dewa nai}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{ dewa arimasenn}}</span></td>
+   <td> @HI{{benri}}@EM{{@HI{{ dewa nai}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{ dewa arimasenn}}}}</td>
  </tr>
  <tr>
    <td> Past</td>
-   <td> @HI{{benri}}<span>@HI{{ datta}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{ deshita}}</span></td>
+   <td> @HI{{benri}}@EM{{@HI{{ datta}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{ deshita}}}}</td>
  </tr>
  <tr>
    <td> Past Negative</td>
-   <td> @HI{{benri}}<span>@HI{{dewa nakatta}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{dewa arimasenn deshita}}<span></td>
+   <td> @HI{{benri}}@EM{{@HI{{dewa nakatta}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{dewa arimasenn deshita}}}}</td>
  </tr>
  <tr>
    <td> @HI{{te}}-form</td>
-   <td> @HI{{benri}}<span>@HI{{de}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{de}}<span></td>
+   <td> @HI{{benri}}@EM{{@HI{{de}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{de}}}}</td>
  </tr>
  <tr>
    <td> Adverb</td>
-   <td> @HI{{benri}}<span>@HI{{ni}}</span></td>
-   <td> @HI{{benri}}<span>@HI{{ni}}<span></td>
+   <td> @HI{{benri}}@EM{{@HI{{ni}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{ni}}}}</td>
  </tr>
 </table>
 
