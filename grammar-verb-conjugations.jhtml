@@ -34,102 +34,102 @@ Verb conjugations are based on the basic forms shown in the table below.
  </tr>
 
  <tr>
-   <td> @HI{{ka<span>u</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{ka<span>wa</span>}}</td>
-   <td> @HI{{ka<span>i</span>}}</td>
+   <td> @HI{{ka@EM{{u}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ka@EM{{wa}}}}</td>
+   <td> @HI{{ka@EM{{i}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{kau}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{ka<span>e</span>}}</td>
-   <td> @HI{{ka<span>ou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{ka<span>tte</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{ka<span>tta</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ka@EM{{e}}}}</td>
+   <td> @HI{{ka@EM{{ou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ka@EM{{tte}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ka@EM{{tta}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{ki<span>ku</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{ki<span>ka</span>}}</td>
-   <td> @HI{{ki<span>ki</span>}}</td>
+   <td> @HI{{ki@EM{{ku}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ki@EM{{ka}}}}</td>
+   <td> @HI{{ki@EM{{ki}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{kiku}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{ki<span>ke</span>}}</td>
-   <td> @HI{{ki<span>kou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{ki<span>ite</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{ki<span>ita</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ki@EM{{ke}}}}</td>
+   <td> @HI{{ki@EM{{kou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ki@EM{{ite}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ki@EM{{ita}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{iso<span>gu</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{iso<span>ga</span>}}</td>
-   <td> @HI{{iso<span>gi</span>}}</td>
+   <td> @HI{{iso@EM{{gu}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{iso@EM{{ga}}}}</td>
+   <td> @HI{{iso@EM{{gi}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{isogu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{iso<span>ge</span>}}</td>
-   <td> @HI{{iso<span>gou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{iso<span>ide</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{iso<span>ida</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{iso@EM{{ge}}}}</td>
+   <td> @HI{{iso@EM{{gou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{iso@EM{{ide}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{iso@EM{{ida}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{ka<span>su</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{ka<span>sa</span>}}</td>
-   <td> @HI{{ka<span>shi</span>}}</td>
+   <td> @HI{{ka@EM{{su}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ka@EM{{sa}}}}</td>
+   <td> @HI{{ka@EM{{shi}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{kasu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{ka<span>se</span>}}</td>
-   <td> @HI{{ka<span>sou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{ka<span>shite</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{ka<span>shita</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ka@EM{{se}}}}</td>
+   <td> @HI{{ka@EM{{sou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ka@EM{{shite}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ka@EM{{shita}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{ma<span>tsu</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{ma<span>ta</span>}}</td>
-   <td> @HI{{ma<span>chi</span>}}</td>
+   <td> @HI{{ma@EM{{tsu}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ma@EM{{ta}}}}</td>
+   <td> @HI{{ma@EM{{chi}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{matsu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{ma<span>te</span>}}</td>
-   <td> @HI{{ma<span>tou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{ma<span>tte</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{ma<span>tta</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{ma@EM{{te}}}}</td>
+   <td> @HI{{ma@EM{{tou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{ma@EM{{tte}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ma@EM{{tta}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{shi<span>nu</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{shi<span>na</span>}}</td>
-   <td> @HI{{shi<span>ni</span>}}</td>
+   <td> @HI{{shi@EM{{nu}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{shi@EM{{na}}}}</td>
+   <td> @HI{{shi@EM{{ni}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{shinu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{shi<span>ne</span>}}</td>
-   <td> @HI{{shi<span>nou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{shi<span>nde</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{shi<span>nda</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{shi@EM{{ne}}}}</td>
+   <td> @HI{{shi@EM{{nou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{shi@EM{{nde}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{shi@EM{{nda}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{yo<span>bu</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{yo<span>ba</span>}}</td>
-   <td> @HI{{yo<span>bi</span>}}</td>
+   <td> @HI{{yo@EM{{bu}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{yo@EM{{ba}}}}</td>
+   <td> @HI{{yo@EM{{bi}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{yobu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{yo<span>be</span>}}</td>
-   <td> @HI{{yo<span>bou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{yo<span>nde</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{yo<span>nda</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{yo@EM{{be}}}}</td>
+   <td> @HI{{yo@EM{{bou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{yo@EM{{nde}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{yo@EM{{nda}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{no<span>mu</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{no<span>ma</span>}}</td>
-   <td> @HI{{no<span>mi</span>}}</td>
+   <td> @HI{{no@EM{{mu}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{no@EM{{ma}}}}</td>
+   <td> @HI{{no@EM{{mi}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{nomu}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{no<span>me</span>}}</td>
-   <td> @HI{{no<span>mou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{no<span>nde</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{no<span>nda</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{no@EM{{me}}}}</td>
+   <td> @HI{{no@EM{{mou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{no@EM{{nde}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{no@EM{{nda}}}}</td>
  </tr>
 
  <tr>
-   <td> @HI{{kae<span>ru</span>}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{kae<span>ra</span>}}</td>
-   <td> @HI{{kae<span>ri</span>}}</td>
+   <td> @HI{{kae@EM{{ru}}}} </td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{kae@EM{{ra}}}}</td>
+   <td> @HI{{kae@EM{{ri}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{kaeru}}</td>
-   <td title="MNN-J Chapter 27 p12"> @HI{{kae<span>re</span>}}</td>
-   <td> @HI{{kae<span>rou</span>}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{kae<span>tte</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{kae<span>tta</span>}}</td>
+   <td title="MNN-J Chapter 27 p12"> @HI{{kae@EM{{re}}}}</td>
+   <td> @HI{{kae@EM{{rou}}}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{kae@EM{{tte}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{kae@EM{{tta}}}}</td>
  </tr>
 
  <tr>
@@ -143,8 +143,8 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td title="MNN-J Chapter 18 p148"> @HI{{taberu}}</td>
    <td title="MNN-J Chapter 27 p12"> @HI{{taberare}}</td>
    <td> @HI{{tabeyou}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{tabe<span>te</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{tabe<span>ta</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{tabe@EM{{te}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{tabe@EM{{ta}}}}</td>
  </tr>
 
  <tr>
@@ -154,8 +154,8 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td title="MNN-J Chapter 18 p148"> @HI{{miru}}</td>
    <td title="MNN-J Chapter 27 p12"> @HI{{mirare}}</td>
    <td> @HI{{miyou}}</td>
-   <td title="MNN-J Chapter 14 p116"> @HI{{mi<span>te</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{mi<span>ta</span>}}</td>
+   <td title="MNN-J Chapter 14 p116"> @HI{{mi@EM{{te}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{mi@EM{{ta}}}}</td>
  </tr>
 
  <tr>
@@ -189,7 +189,7 @@ Verb conjugations are based on the basic forms shown in the table below.
  <tr>
    <td> @HI{{iku}} </td>
    <td title="MNN-J Chapter 17 p140"> @HI{{iku}}</td>
-   <td> @HI{{i<span>ki</span>}}</td>
+   <td> @HI{{i@EM{{ki}}}}</td>
    <td title="MNN-J Chapter 18 p148"> @HI{{iku}}</td>
    <td title="MNN-J Chapter 27 p12"> @HI{{ike}}</td>
    <td> @HI{{ikou}}</td>
@@ -200,13 +200,13 @@ Verb conjugations are based on the basic forms shown in the table below.
 <!--
  <tr>
    <td> @HI{{kiku}} </td>
-   <td title="MNN-J Chapter 17 p140"> @HI{{ki<span>ka</span>}}</td>
-   <td> @HI{{ki<span>ki</span>}}</td>
+   <td title="MNN-J Chapter 17 p140"> @HI{{ki@EM{{ka}}}}</td>
+   <td> @HI{{ki@EM{{ki}}}}</td>
    <td> @HI{{kiku}}</td>
-   <td> @HI{{ki<span>ke</span>}}</td>
-   <td> @HI{{ki<span>ko</span>}}</td>
-   <td> @HI{{ki<span>te</span>}}</td>
-   <td title="MNN-J Chapter 19 p156"> @HI{{ki<span>ta</span>}}</td>
+   <td> @HI{{ki@EM{{ke}}}}</td>
+   <td> @HI{{ki@EM{{ko}}}}</td>
+   <td> @HI{{ki@EM{{te}}}}</td>
+   <td title="MNN-J Chapter 19 p156"> @HI{{ki@EM{{ta}}}}</td>
  </tr>
 -->
 
@@ -339,7 +339,7 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{rai}}@HI{{ru}}                </td>
    <td> @HI{{kuru}}                        </td>
    <td>                                    </td>
-   <td> @KJ{{rai}}<span>@HI{{masu}}</span> </td>
+   <td> @KJ{{rai}}@EM{{@HI{{masu}}}} </td>
    <td> @HI{{konai}}                       </td>
    <td> @HI{{kite}}                        </td>
    <td>                                    </td>
@@ -354,14 +354,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{kou}}@HI{{u}} </td>
    <td> @HI{{iku}} </td>
    <td> @5D{{}}        </td>
-   <td> @KJ{{kou}}<span>@HI{{imasu}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{anai}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{tte}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{ou}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{e}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{eru}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{aseru}}</span> </td>
-   <td> @KJ{{kou}}<span>@HI{{areru}}</span> </td>
+   <td> @KJ{{kou}}@EM{{@HI{{imasu}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{anai}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{tte}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{ou}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{e}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{eru}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{aseru}}}} </td>
+   <td> @KJ{{kou}}@EM{{@HI{{areru}}}} </td>
  </tr>
 
 <!-- iru, unchecked -->
@@ -385,7 +385,7 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @HI{{aru}}     </td>
    <td> @5D{{}}        </td>
    <td> @HI{{arimasu}}   </td>
-   <td> <span>@HI{{nai}}</span>    </td>
+   <td> @EM{{@HI{{nai}}}}    </td>
    <td> @HI{{atte}}     </td>
    <td> @HI{{arou}}    </td>
    <td> @HI{{iro}}     </td>
@@ -400,14 +400,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{shoku}}@HI{{ru}} </td>
    <td> @HI{{taberu}} </td>
    <td> @1D{{}}        </td>
-   <td> @KJ{{shoku}}<span>@HI{{masu}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{nai}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{te}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{you}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{eyo}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{raeru}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{saseru}}</span> </td>
-   <td> @KJ{{shoku}}<span>@HI{{rareru}}</span> </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{masu}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{nai}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{te}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{you}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{eyo}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{raeru}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{saseru}}}} </td>
+   <td> @KJ{{shoku}}@EM{{@HI{{rareru}}}} </td>
  </tr>
 
 <!-- miru, unchecked -->
@@ -415,14 +415,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{mi}}@HI{{ru}} </td>
    <td> @HI{{taberu}} </td>
    <td> @1D{{}}        </td>
-   <td> @KJ{{mi}}<span>@HI{{masu}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{nai}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{te}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{you}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{eyo}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{raeru}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{saseru}}</span> </td>
-   <td> @KJ{{mi}}<span>@HI{{rareru}}</span> </td>
+   <td> @KJ{{mi}}@EM{{@HI{{masu}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{nai}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{te}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{you}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{eyo}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{raeru}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{saseru}}}} </td>
+   <td> @KJ{{mi}}@EM{{@HI{{rareru}}}} </td>
  </tr>
 
 <!-- au, unchecked -->
@@ -430,14 +430,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{kai}}@HI{{u}} </td>
    <td> @HI{{au}} </td>
    <td> @5D{{}}        </td>
-   <td> @KJ{{kai}}<span>@HI{{imasu}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{wanai}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{tte}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{ou}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{e}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{eru}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{waseru}}</span> </td>
-   <td> @KJ{{kai}}<span>@HI{{wareru}}</span> </td>
+   <td> @KJ{{kai}}@EM{{@HI{{imasu}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{wanai}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{tte}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{ou}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{e}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{eru}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{waseru}}}} </td>
+   <td> @KJ{{kai}}@EM{{@HI{{wareru}}}} </td>
  </tr>
 
 <!--
