@@ -129,9 +129,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @KJ{{by*means*of^outside}}                                                     </td>
+  <td class="left"> <a href="grammar-igai.html"> @FG{{@KJ{{by*means*of^outside}}:igai}} </a>                                    </td>
   <td class=""> DOIJG, p. 60                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @KJ{{by*means*of^above}}(@HI{{ha}})                                     </td>
@@ -159,19 +159,19 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{kaette}}                                                            </td>
+  <td class="left"> <a href="grammar-kaette.html"> @HI{{kaette}} </a>                                                           </td>
   <td class=""> DOIJG, p. 80                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @KJ{{limit}}@HI{{ri}}                                        </td>
+  <td class="left"> <a href="grammar-kagiri-conjunction.html"> @FG{{@KJ{{limit}}ri:kagiri}}</a><sup>1</sup>                     </td>
   <td class=""> DOIJG, p. 82                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> - @KJ{{limit}}@HI{{ri}}                                           </td>
+  <td class="left"> <a href="grammar-kagiri-suffix.html"> - @FG{{@KJ{{limit}}ri:kagiri}}</a><sup>2</sup>                        </td>
   <td class=""> DOIJG, p. 85                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> ~ @HI{{ka}} ~ @HI{{ka}}                                                   </td>
@@ -179,14 +179,14 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-kana.html"></a> @HI{{kana}}                                                       </td>
+  <td class="left"> <a href="grammar-particle-kana.html#self-question"> @HI{{kana}} </a>                                        </td>
   <td class=""> DOIJG, p. 90                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @KJ{{invariably}}@HI{{zushimo}}                                   </td>
+  <td class="left"> <a href="grammar-particle-kanarazushimo.html"> @FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}} </a>    </td>
   <td class=""> DOIJG, p. 92                                                                                                    </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{kaneru}}                                                            </td>

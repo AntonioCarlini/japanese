@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{limit}}ri:kagiri}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kagiri}}" grammar="@KJ{{limit}}@HI{{ri}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{limit}}ri:kagiri}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{(time)}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}
+<li> <em>number + counter</em>@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}} is a suffix that expresses the idea of "the last" or "only until" or "limited".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{now^degrees}}:kondo}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}de@KJ{{he}}no@KT{{pa-texi-}}ni@KJ{{going}}kanaiitsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is the last time I am going to one of his parties.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 85).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
