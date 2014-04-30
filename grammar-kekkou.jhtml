@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{tie^posture}}:kekkou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kekkou}}" grammar="@KJ{{tie^posture}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{tie^posture}}:kekkou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@FG{{@KJ{{tie^posture}}:kekkou}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@FG{{@KJ{{tie^posture}}:kekkou}}}} is an adverb indicating that something exceeds the speaker's or the hearer's expectations to a considerable degree.
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{konosushiha@EM{{@FG{{@KJ{{tie^posture}}:kekkou}}}}oishine.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The sushi in this place is quite good isn't it?
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@EM{{@FG{{@KJ{{tie^posture}}:kekkou}}}} can only be used with a predicate whose degree has to be open to interpretation.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 123).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
