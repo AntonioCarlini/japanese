@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitotte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitotte}}" grammar="@HI{{nitotte}}"}}
+
+<body>
+
+<h1>@HI{{nitotte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@EM{{@HI{{nitotte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{nitotte}}}} is a compund particle that expresses the concept "from the standpoint of" or "so far as someone or something is concerned".
+</p>
+
+<h2> Examples </h2>
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{koreha@FG{{@KJ{{ego^noma}}:wareware}}@EM{{nitotte}}@FG{{@KJ{{nothingness^inspection}}:mushi}}@FG{{@KJ{{exit^come}}nai:dekinai}}@KJ{{question^topic}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      For us this is a problem which cannot be ignored.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@EM{{@HI{{nitotte}}}}@HI{{no}} is the corresponding pre-nominal form.
+</p>
+
+<p>
+@EM{{@HI{{nitotte}}}} cannot be used after a noun that represents the experiencer of the agent; in this case @HI{{niha}} is used instead.
+@HI{{niha}}, however, has no pre-nominal form.
+</p>
+
+<p>
+@EM{{@HI{{nitotte}}}} is neutral, @HI{{niha}} however offers a sense of contrast in some contexts.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 278).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
