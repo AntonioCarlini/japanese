@@ -96,7 +96,7 @@ tr.vertical {
 </td>
 
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @HI{{ga}} <br/> ga </td>
     <td> @HI{{gi}} <br/> gi </td>
@@ -113,8 +113,8 @@ tr.vertical {
   </tr>
   <tr>
     <td> @HI{{da}} <br/> da </td>
-    <td> @HI{{ji}} <br/> ji </td>
-    <td> @HI{{zu}} <br/> zu </td>
+    <td> @HI{{di}} <br/> di </td>
+    <td> @HI{{du}} <br/> du </td>
     <td> @HI{{de}} <br/> de </td>
     <td> @HI{{do}} <br/> do </td>
   </tr>
@@ -136,7 +136,7 @@ tr.vertical {
 </td>
 
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @HI{{kya}} <br/> kya </td>
     <td> @HI{{kyu}} <br/> kyu </td>
@@ -178,7 +178,7 @@ tr.vertical {
     <td> @HI{{gyo}} <br/> gyo </td>
   </tr>
   <tr>
-    <td> @HI{{ja}} <br/> jo </td>
+    <td> @HI{{ja}} <br/> ja </td>
     <td> @HI{{ju}} <br/> ju </td>
     <td> @HI{{jo}} <br/> jo </td>
   </tr>
@@ -204,7 +204,7 @@ tr.vertical {
 <tr> <th> Basic Characters </th> <th> Voiced Characters </th> <th>Hiragana Trigraphs</th> </tr>
 <tr class="vertical">
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @KT{{a}} <br/> a </td>
     <td> @KT{{i}} <br/> i </td>
@@ -279,7 +279,7 @@ tr.vertical {
 </td>
 
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @KT{{ga}} <br/> ga </td>
     <td> @KT{{gi}} <br/> gi </td>
@@ -296,8 +296,8 @@ tr.vertical {
   </tr>
   <tr>
     <td> @KT{{da}} <br/> da </td>
-    <td> @KT{{ji}} <br/> ji </td>
-    <td> @KT{{zu}} <br/> zu </td>
+    <td> @KT{{di}} <br/> di </td>
+    <td> @KT{{du}} <br/> du </td>
     <td> @KT{{de}} <br/> de </td>
     <td> @KT{{do}} <br/> do </td>
   </tr>
@@ -319,7 +319,7 @@ tr.vertical {
 </td>
 
 <td>
-<table>
+<table border="1">
   <tr>
     <td> @KT{{kya}} <br/> kya </td>
     <td> @KT{{kyu}} <br/> kyu </td>
