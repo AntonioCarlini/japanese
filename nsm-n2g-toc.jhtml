@@ -81,6 +81,20 @@ div.main {
   <li> <a href="#w6d4">@KJ{{No.}}6@KJ{{week}}4@KJ{{day^eye}}</a>
   <li> <a href="#w6d5">@KJ{{No.}}6@KJ{{week}}5@KJ{{day^eye}}</a>
   <li> <a href="#w6d6">@KJ{{No.}}6@KJ{{week}}6@KJ{{day^eye}}</a>
+
+  <li> <a href="#w7d1">@KJ{{No.}}7@KJ{{week}}1@KJ{{day^eye}}</a>
+  <li> <a href="#w7d2">@KJ{{No.}}7@KJ{{week}}2@KJ{{day^eye}}</a>
+  <li> <a href="#w7d3">@KJ{{No.}}7@KJ{{week}}3@KJ{{day^eye}}</a>
+  <li> <a href="#w7d4">@KJ{{No.}}7@KJ{{week}}4@KJ{{day^eye}}</a>
+  <li> <a href="#w7d5">@KJ{{No.}}7@KJ{{week}}5@KJ{{day^eye}}</a>
+  <li> <a href="#w7d6">@KJ{{No.}}7@KJ{{week}}6@KJ{{day^eye}}</a>
+
+  <li> <a href="#w8d1">@KJ{{No.}}8@KJ{{week}}1@KJ{{day^eye}}</a>
+  <li> <a href="#w8d2">@KJ{{No.}}8@KJ{{week}}2@KJ{{day^eye}}</a>
+  <li> <a href="#w8d3">@KJ{{No.}}8@KJ{{week}}3@KJ{{day^eye}}</a>
+  <li> <a href="#w8d4">@KJ{{No.}}8@KJ{{week}}4@KJ{{day^eye}}</a>
+  <li> <a href="#w8d5">@KJ{{No.}}8@KJ{{week}}5@KJ{{day^eye}}</a>
+  <li> <a href="#w8d6">@KJ{{No.}}8@KJ{{week}}6@KJ{{day^eye}}</a>
 </ul>
 <p>&nbsp;</p>
 </div>
@@ -99,60 +113,433 @@ div.main {
 <h2><a name="w1d1"> @KJ{{No.}}1@KJ{{week}}1@KJ{{day^eye}} </a></h2>
 
 <ol>
-<li> <a href=""> </a>
+<li> <a href=""></a> @HI{{ge}}
+<li> <a href=""></a> @HI{{gachi}}
+<li> <a href=""></a> @HI{{ppoi}}
+<li> <a href=""></a> @FG{{@KJ{{spirit^flavor}}:kimi}}
 </ol>
 
 <h2><a name="w1d2"> @KJ{{No.}}1@KJ{{week}}2@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{mononara}}
+<li> <a href=""></a> @HI{{monodakara}}
+<li> <a href=""></a> @HI{{mono}}
+<li> <a href=""></a> @HI{{monono}}
 </ol>
 
 <h2><a name="w1d3"> @KJ{{No.}}1@KJ{{week}}3@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{hamotoyori}} ~ @HI{{mo}}
+<li> <a href=""></a> @HI{{hamotoyori}} (@HI{{toshite}}) @HI{{ha}}/@HI{{ka}}
+<li> <a href=""></a> @HI{{ha}}/@HI{{nara}} @HI{{madashimo}}
+<li> <a href=""></a> @HI{{ha}}@KJ{{slip*out}}@HI{{kinishite}}
 </ol>
 
 <h2><a name="w1d4"> @KJ{{No.}}1@KJ{{week}}4@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{detamaranai}}
+<li> <a href=""></a> @HI{{deshouganai}}
+<li> <a href=""></a> @HI{{tekanawanai}}
+<li> <a href=""></a> @HI{{denaranai}}
 </ol>
+
 
 <h2><a name="w1d5"> @KJ{{No.}}1@KJ{{week}}5@KJ{{day^eye}} </a></h2>
 <ol>
+<li> <a href=""></a> @HI{{naikotohanai}}
+<li> <a href=""></a> @HI{{naikotomonai}}
+<li> <a href=""></a> @HI{{naidehairarenai}}
+<li> <a href=""></a> @HI{{zunihairarenai}}
 </ol>
 
 <h2><a name="w1d6"> @KJ{{No.}}1@KJ{{week}}6@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{nebanaranai}}
+<li> <a href=""></a> @HI{{tehanaranai}}
+<li> <a href=""></a> @HI{{teirarenai}}
+<li> <a href=""></a> @HI{{debakarihairarenai}}
 </ol>
 
 <h2><a name="w2d1"> @KJ{{No.}}2@KJ{{week}}1@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{kaigaaru}}/@HI{{kai}}(@HI{{ga}})@HI{{atte}}
+<li> <a href=""></a> @HI{{kaiganai}}/@HI{{kai}}(@HI{{mo}})@HI{{naku}} ~
+<li> <a href=""></a> @HI{{gai}}
+<li> <a href=""></a> @HI{{temade}}/@HI{{made}}@Vte{{}}
 </ol>
 
 <h2><a name="w2d2"> @KJ{{No.}}2@KJ{{week}}2@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{kakeru}}
+<li> <a href=""></a> @KJ{{cut}}@HI{{ru}}
+<li> <a href=""></a> @HI{{eru}}/@HI{{uru}}
+<li> <a href=""></a> @KJ{{slip*out}}@HI{{ku}}
 </ol>
 
 <h2><a name="w2d3"> @KJ{{No.}}2@KJ{{week}}3@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{uchini}}
+<li> <a href=""></a> @HI{{naikanouchini}}
+<li> <a href=""></a> @KJ{{limit}}@HI{{ri}}
+<li> <a href=""></a> @HI{{ni}}@KJ{{limit}}@HI{{ri}}
 </ol>
 
 <h2><a name="w2d4"> @KJ{{No.}}2@KJ{{week}}4@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{sae}}@Vba{{}}
+<li> <a href=""></a> @HI{{karakoso}}
+<li> <a href=""></a> @Vte{{}}@HI{{koso}}
+<li> <a href=""></a> @HI{{bakarida}}
 </ol>
 
 <h2><a name="w2d5"> @KJ{{No.}}2@KJ{{week}}5@KJ{{day^eye}} </a></h2>
 <ol>
+<li> <a href=""></a> @HI{{nishitara}}
+<li> <a href=""></a> @HI{{toshitara}}
+<li> <a href=""></a> @HI{{toshitemo}}
+<li> <a href=""></a> @HI{{wo}} ~ @HI{{toshite}}
 </ol>
 
 <h2><a name="w2d6"> @KJ{{No.}}2@KJ{{week}}6@KJ{{day^eye}} </a></h2>
 
 <ol>
+<li> <a href=""></a> @HI{{totomoni}}
+<li> <a href=""></a> @HI{{nitomonatte}}
+<li> <a href=""></a> @HI{{nitsurete}}
+<li> <a href=""></a> @HI{{nishitagatte}}
+</ol>
+
+<h2><a name="w3d1"> @KJ{{No.}}3@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{toori}}
+<li> <a href=""></a> @HI{{mamani}}
+<li> <a href=""></a> @HI{{kotoni}}
+<li> <a href=""></a> @HI{{amari}}
+</ol>
+
+<h2><a name="w3d2"> @KJ{{No.}}3@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{wakeda}}
+<li> <a href=""></a> @HI{{wakedehanai}}
+<li> <a href=""></a> @HI{{wakeganai}}
+<li> <a href=""></a> @HI{{wakenihaikanai}}
+</ol>
+
+<h2><a name="w3d3"> @KJ{{No.}}3@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @Vta{{}}@HI{{totan}}
+<li> <a href=""></a> @HI{{ageku}}
+<li> <a href=""></a> @FG{{@KJ{{extremity}}:sue}}
+<li> <a href=""></a> @Vta{{}}@HI{{kato@KJ{{think}}ttara}}
+</ol>
+
+<h2><a name="w3d4"> @KJ{{No.}}3@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{tokoro}}
+<li> <a href=""></a> @Vta{{}}@HI{{tokoro}}
+<li> <a href=""></a> @HI{{tokorodehanai}}
+<li> <a href=""></a> @HI{{tokoroga}}
+</ol>
+
+<h2><a name="w3d5"> @KJ{{No.}}3@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{darake}}
+<li> <a href=""></a> @Vta{{}}@HI{{kiri}}
+<li> <a href=""></a> @HI{{ppanashi}}
+</ol>
+
+<h2><a name="w3d6"> @KJ{{No.}}3@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{anti-}}:hann}}shite}}
+<li> <a href=""></a> @FG{{@KJ{{anti-^mask}}:hanmenn}}
+<li> <a href=""></a> @FG{{@KJ{{one^direction}}:ippou}}
+<li> <a href=""></a> @FG{{@KJ{{one^direction}}:ippou}}@HI{{da}}
+</ol>
+
+<h2><a name="w4d1"> @KJ{{No.}}4@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @FG{{@KJ{{above}}:ue}}@HI{{ni}}
+<li> <a href=""></a> @FG{{@KJ{{above}}:ue}}@HI{{de}}
+<li> <a href=""></a> @FG{{@KJ{{above}}:ue}}@HI{{ha}}
+<li> <a href=""></a> @HI{{no}}@FG{{@KJ{{above}}:ue}}@HI{{deha}}
+</ol>
+
+<h2><a name="w4d2"> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @FG{{@KJ{{yonder}}:mu}}@HI{{ke}}
+<li> <a href=""></a> @FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}
+<li> <a href=""></a> @FG{{@KJ{{next^No.}}:shidai}}
+<li> <a href=""></a> @FG{{@KJ{{next^No.}}:shidai}}@HI{{desu}}
+</ol>
+
+<h2><a name="w4d3"> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{nikotaete}}
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}
+<li> <a href=""></a> @HI{{niyori}}
+<li> <a href=""></a> @HI{{nikakawatte}}
+</ol>
+
+<h2><a name="w4d4"> @KJ{{No.}}4@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{nagara}}
+<li> <a href=""></a> @HI{{tsutsu}}
+<li> <a href=""></a> @HI{{tsutsuaru}}
+<li> <a href=""></a> @HI{{kuseshite}}
+</ol>
+
+<h2><a name="w4d5"> @KJ{{No.}}4@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{bekidehanai}}
+<li> <a href=""></a> @HI{{zaruwoenai}}
+<li> <a href=""></a> @HI{{kotoninatteiru}}
+<li> <a href=""></a> @HI{{nisuginai}}
+</ol>
+
+<h2><a name="w4d6"> @KJ{{No.}}4@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{niatatte}}/@HI{{niatari}}/@HI{{niatatteha}}/@HI{{niatteno}}
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}tte}}/@HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}chi}}/
+  @HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}tsu}}@N{{}}
+<li> <a href=""></a> @HI{{niwatatte}}/@HI{{niwatari}}/@HI{{niwataru}}@N{{}}
+</ol>
+
+<h2><a name="w5d1"> @KJ{{No.}}5@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{kkonai}}
+<li> <a href=""></a> @HI{{kanenai}}
+<li> <a href=""></a> @HI{{kaneru}}
+<li> <a href=""></a> @HI{{gatai}}
+</ol>
+
+<h2><a name="w5d2"> @KJ{{No.}}5@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{kotokara}}
+<li> <a href=""></a> @HI{{nokotodakara}}
+<li> <a href=""></a> @HI{{kotonaku}}
+<li> <a href=""></a> @Vnai{{}}@HI{{kotoniha}}@Vnai{{}}
+</ol>
+
+<h2><a name="w5d3"> @KJ{{No.}}5@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @Vte{{}}@FG{{@KJ{{hit^sort*of*thing}}:touzen}}
+<li> <a href=""></a> @HI{{nomomottomo}}
+<li> <a href=""></a> @HI{{mo}}@FG{{@KJ{{same^sort*of*thing}}:douzen}}
+<li> <a href=""></a> @HI{{dakemashida}}
+</ol>
+
+<h2><a name="w5d4"> @KJ{{No.}}5@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{dakeatte}}/@HI{{dakeni}}/@HI{{dakenokotoharau}}
+<li> <a href=""></a> @HI{{bakari}} ~ @HI{{mo}}
+<li> <a href=""></a> @HI{{bakarini}}
+<li> <a href=""></a> @HI{{nominagara}}/@HI{{nomika}}
+</ol>
+
+<h2><a name="w5d5"> @KJ{{No.}}5@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{dehanaika}}
+<li> <a href=""></a> @HI{{youganai}}/@HI{{youmonai}}
+<li> <a href=""></a> @HI{{kanoyou}}
+<li> <a href=""></a> @HI{{souninai}}/@HI{{soumonai}}
+</ol>
+
+<h2><a name="w5d6"> @KJ{{No.}}5@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{occasion}}:sai}}shitemo}}
+<li> <a href=""></a> @HI{{@FG{{@KJ{{fundamentals}}:moto}}duite}}
+<li> <a href=""></a> @HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}
+<li> <a href=""></a> @HI{{no@FG{{@KJ{{below}}:moto}}de}}
+</ol>
+
+<h2><a name="w6d1"> @KJ{{No.}}6@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @FG{{@KJ{{by*means*of^come}}:irai}}
+<li> <a href=""></a> @FG{{@KJ{{by*means*of^above}}:ijou}}
+<li> <a href=""></a> @HI{{karaniha}}
+<li> <a href=""></a> @FG{{@KJ{{fold}}:ori}}(@HI{{ni}})
+</ol>
+
+<h2><a name="w6d2"> @KJ{{No.}}6@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{@FG{{@KJ{{say}}:i}}uto}}/@HI{{@FG{{@KJ{{say}}:i}}eha}}
+<li> <a href=""></a> @HI{{karasuruto}}
+<li> <a href=""></a> @HI{{karashite}}
+<li> <a href=""></a> @HI{{kara@FG{{@KJ{{see}}:mi}}ruto}}/@HI{{kara@FG{{@KJ{{see}}:mi}}eba}}
+</ol>
+
+<h2><a name="w6d3"> @KJ{{No.}}6@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{karatoitte}}
+<li> <a href=""></a> @Vte{{}}@HI{{karadenaito}}/@Vte{{}}@HI{{karadenakereba}}
+<li> <a href=""></a> @HI{{kara}} ~ @HI{{nikakete}}
+<li> <a href=""></a> @HI{{kaketeha}}/@HI{{kaketemo}}
+</ol>
+
+<h2><a name="w6d4"> @KJ{{No.}}6@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{toka}}
+<li> <a href=""></a> @Vru{{}}@HI{{mai}}
+<li> <a href=""></a> @Vru{{}}@HI{{mai}}
+<li> <a href=""></a> @HI{{ka}} ~ @HI{{maika}}
+</ol>
+
+<h2><a name="w6d5"> @KJ{{No.}}6@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{@FG{{@KJ{{decide}}:ki}}matteiru}}/@HI{{@FG{{@KJ{{difference}}:chiga}}inai}}/
+  @HI{{@FG{{@KJ{{inter-^difference}}:soui}}nai}}/
+<li> <a href=""></a> @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}
+<li> <a href=""></a> @HI{{yorihokanai}}
+<li> <a href=""></a> @HI{{nihokanaranai}}
+</ol>
+
+<h2><a name="w6d6"> @KJ{{No.}}6@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @N{{}}@HI{{wohajime}}
+<li> <a href=""></a> @N{{}}@HI{{wonugutte}}
+<li> <a href=""></a> @N{{}}@HI{{nioite}}
+<li> <a href=""></a> @N{{}}@HI{{nite}}
+</ol>
+
+<h2><a name="w7d1"> @KJ{{No.}}7@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{mokamawazu}}
+<li> <a href=""></a> @HI{{nimokakawarazu}}
+<li> <a href=""></a> @HI{{nikakawarazu}}
+<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
+</ol>
+
+<h2><a name="w7d2"> @KJ{{No.}}7@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{yara}}
+<li> <a href=""></a> @HI{{nitsuke}}
+<li> <a href=""></a> @HI{{nishiru}}
+<li> <a href=""></a> @N1{{}}@HI{{mo}}@Vba{{}}@HI{{mo}}
+</ol>
+
+<h2><a name="w7d3"> @KJ{{No.}}7@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{monoda}}
+<li> <a href=""></a> @HI{{monodehanai}}
+<li> <a href=""></a> @HI{{toiumonoda}}
+<li> <a href=""></a> @HI{{monoka}}
+</ol>
+
+<h2><a name="w7d4"> @KJ{{No.}}7@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{in^heart}}:chuushinn}}ni}}
+<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{crowded}}:ko}}mete}}
+<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}/@N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}shite}}
+<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{trust}}:tayo}}rini}}
+</ol>
+
+<h2><a name="w7d5"> @KJ{{No.}}7@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> <a href=""></a> @HI{{monogaaru}}
+<li> <a href=""></a> @HI{{monodemonai}}/@HI{{monodehanai}}
+<li> <a href=""></a> @HI{{dounika}} ~ @HI{{naimonoka}}
+</ol>
+
+<h2><a name="w7d6"> @KJ{{No.}}7@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @N{{}}@HI{{womotoni}}
+<li> <a href=""></a> @N{{}}@HI{{nitsuki}}
+<li> <a href=""></a> @HI{{wokikkakeni}}
+<li> <a href=""></a> @FG{{@KJ{{occasion}}:sai}}@HI{{ni}}
+</ol>
+
+<h2><a name="w8d1"> @KJ{{No.}}8@KJ{{week}}1@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{sorenanoni}}
+<li> <a href=""></a> @HI{{soretomo}}
+<li> <a href=""></a> @HI{{sorenara}}(@HI{{ba}})
+<li> <a href=""></a> @HI{{sorede}}
+</ol>
+
+<h2><a name="w8d2"> @KJ{{No.}}8@KJ{{week}}2@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{soreba}}
+<li> <a href=""></a> @HI{{sokode}}
+<li> <a href=""></a> @HI{{souieba}}
+<li> <a href=""></a> @HI{{sorehasouto}}
+</ol>
+
+<h2><a name="w8d3"> @KJ{{No.}}8@KJ{{week}}3@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{sunawachi}}
+<li> <a href=""></a> @HI{{aruiha}}
+<li> <a href=""></a> @HI{{daga}}
+<li> <a href=""></a> @HI{{datte}}
+</ol>
+
+<h2><a name="w8d4"> @KJ{{No.}}8@KJ{{week}}4@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{toiukotoha}}
+<li> <a href=""></a> @HI{{toiunoha}}
+<li> <a href=""></a> @HI{{shitagatte}}
+<li> <a href=""></a> @HI{{tadashi}}
+</ol>
+
+<h2><a name="w8d5"> @KJ{{No.}}8@KJ{{week}}5@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{mottomo}}
+<li> <a href=""></a> @HI{{naa}}
+<li> <a href=""></a> @HI{{sate}}
+<li> <a href=""></a> @HI{{suruto}}
+</ol>
+
+<h2><a name="w8d6"> @KJ{{No.}}8@KJ{{week}}6@KJ{{day^eye}} </a></h2>
+
+<ol>
+<li> <a href=""></a> @HI{{@FG{{@KJ{{need}}:you}}suruni}}
+<li> <a href=""></a> @HI{{shikamo}}
+<li> <a href=""></a> @HI{{omakeni}}
+<li> <a href=""></a> @HI{{chinamini}}
 </ol>
 
 </div>
