@@ -272,6 +272,7 @@ $command_to_op = {
   "Aistem" => :process_empty_code,
   "Ana" => :process_empty_code,
   "Anastem" => :process_empty_code,
+  "MIDDOT" => :process_empty_code,
   "BGRNDSTART" => :process_background_start,
   "BGRND" => :process_background_insert,
   "BGRNDEND" => :process_background_end,
@@ -583,6 +584,7 @@ def process_empty_code_helper(code)
         when "Aistem"      then mark_as_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
         when "Anastem"     then mark_as_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
+        when "MIDDOT"      then "#{jp_unicode(0x30fb)}"                                         # katakana mid-dot
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
