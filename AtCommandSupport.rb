@@ -8,6 +8,8 @@ require 'KanjiSupport.rb'
 require 'KatakanaSupport.rb'
 require 'RefsSupport.rb'
 
+require 'singleton'
+
 OPENING_BRACKETS = Regexp.escape("{{")
 CLOSING_BRACKETS = Regexp.escape("}}")
 
@@ -101,6 +103,58 @@ class Operation
 
   def display()
     return "Operation:   #{@operation}"
+  end
+end
+
+# An object to hold DIV settings
+class Divs
+
+  # names is an array of DIV names
+  def initialize(names)
+    @divs = names
+    @pos = @divs.size() + 1
+    @div_used = false
+  end
+
+  # Fetches the next DIV name
+  def next()
+    @div_used = true
+    @pos = @pos + 1
+    @pos = 0 if @pos >= @divs.size()
+    return @divs[@pos]
+  end
+
+  # Indicates that next() has been called
+  def div_used?()
+    return @div_used
+  end
+end
+
+# An object to hold global state
+class State
+  attr_accessor :divs
+
+  include Singleton
+  def initialize()
+    @divs = nil
+  end
+
+  def divs_start(names)
+    raise("DIVs within DIVs") unless @divs.nil?()
+    @divs = Divs.new(names)
+  end
+
+  def divs_end()
+    @divs = nil
+  end
+
+  def divs_next()
+    return @divs.next()
+  end
+
+  def divs_active?()
+    return false if @divs.nil?()
+    @divs.div_used?()
   end
 end
 
@@ -218,7 +272,9 @@ $command_to_op = {
   "Aistem" => :process_empty_code,
   "Ana" => :process_empty_code,
   "Anastem" => :process_empty_code,
-  "MIDDOT" => :process_empty_code,
+  "BGRNDSTART" => :process_background_start,
+  "BGRND" => :process_background_insert,
+  "BGRNDEND" => :process_background_end,
 }
 
 def process_at_commands(text)
@@ -282,8 +338,10 @@ def process_at_commands(text)
         debug_out("Invoking [#{op}]")
         begin
           result = send(op, mini_stack, object.code())
-        rescue
-          $stderr.puts("Fatal error near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
+        rescue => e
+          $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
+          $stderr.puts("Fatal data: [#{to_handle[0..30]}\n]")
+          $stderr.puts(e.backtrace())
         end
         if stack.empty?()
           answer += puts_result(result)
@@ -525,7 +583,6 @@ def process_empty_code_helper(code)
         when "Aistem"      then mark_as_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
         when "Anastem"     then mark_as_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
-        when "MIDDOT"      then "#{jp_unicode(0x30fb)}"                                         # katakana mid-dot
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
@@ -579,3 +636,49 @@ def process_grammar_index(stack, code)
   return []
 end
 
+# Handles @DIVSTART{{}}.
+# Sets up the set of DIVs through which @DIV{{}} will cycle
+def process_background_start(stack, unused)
+  state = State.instance()
+  names = []
+  stack.each() {
+    |x|
+    names << x.text().split(/\s*,\s* /)
+  }
+  names = names.flatten()
+  names = ["LightGrey", "MistyRose"] if names.empty?()
+  state.divs_start(names.flatten())
+  return []
+end
+
+# Handles @DIV{{}}
+# Closes a previous <DIV> (if one exists) and opens a new one.
+def process_background_insert(stack, unused)
+  state = State.instance()
+
+  text = ""
+  # If a DIV is in progress, close it off
+  text += insert_div_close() if state.divs_active?()
+
+  # Start a new DIV
+  name = "style-" + state.divs_next()
+  text += "<DIV class=\"#{name}\"><p><br/></p>\n"
+  return [ DoneText.new(text) ]
+end
+
+def process_background_end(stack, unused)
+  state = State.instance()
+
+  # If a DIV is in progress, close it off
+  text = ""
+  text += insert_div_close() if state.divs_active?()
+
+  # Forget the existing DIVs
+  state.divs_end()
+
+  return [ DoneText.new(text) ]
+end
+
+def insert_div_close()
+  return "\n<p><br/></p></DIV>\n"
+end
