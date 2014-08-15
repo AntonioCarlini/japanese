@@ -8,7 +8,7 @@ require 'DebugSupport.rb'
 $ref_data = nil
 def convert_ref(ref)
   if $ref_data.nil?()
-    ref_data_file = "references.data" # Hard code this for now
+    ref_data_file = "data/references.data" # Hard code this for now
     $ref_data = DataRefs.create_from_file(ref_data_file)
   end
 

@@ -1,3 +1,8 @@
+A. Change parsing style to allow @AA{{ .... @BB{{ ... @C{{ ... }} ... @D{{ ... }} ... }} ... }}
+
+B. Add "grammar-descriptor"s to each page to facilitate grammar TOC generation
+
+
 1. split read-kanjidic into build-kanji-data.rb and build-kanji-with-N-readings.rb
 
 2. decide on acceptable romanisations and fix parsing for all of them
