@@ -1,0 +1,18 @@
+DATA_FILES += $(DATADIR)/kanji.data
+DATA_FILES += $(DATADIR)/references.data
+
+SCRIPT_FILES += $(SCRIPTDIR)/DataKanji.rb
+SCRIPT_FILES += $(SCRIPTDIR)/DataKanjidic.rb
+SCRIPT_FILES += $(SCRIPTDIR)/DataRefs.rb
+SCRIPT_FILES += $(SCRIPTDIR)/DebugSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/FastKanji.rb
+SCRIPT_FILES += $(SCRIPTDIR)/HiraganaSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/Kanji.rb
+SCRIPT_FILES += $(SCRIPTDIR)/KanjiSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/KatakanaSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/RefsSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/UnicodeSupport.rb
+SCRIPT_FILES += $(SCRIPTDIR)/japanese-to-codes.rb 
+
+GLOBAL_DEPENDENCIES += $(DATA_FILES)
+GLOBAL_DEPENDENCIES += $(SCRIPT_FILES)

@@ -1,5 +1,6 @@
 
 SUBDIRS += css
+SUBDIRS += jlpt-vocab
 
 COMPONENTS += jhtml
 

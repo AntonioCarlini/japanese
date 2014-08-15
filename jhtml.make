@@ -385,14 +385,6 @@ JHTML_SRCS += verbs.jhtml
 
 GRMIDX_SRCS += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
 
-VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N1.mht
-VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N2.mht
-VOCAB_L_SRCS += $(EXTERNAL)/VocabList.N3.mht
-
-VOCAB_C_SRCS += $(EXTERNAL)/VocabList.C.N1toN5.mht
-VOCAB_C_SRCS += $(EXTERNAL)/VocabList.C.N2toN5.mht
-VOCAB_C_SRCS += $(EXTERNAL)/VocabList.C.N3toN5.mht
-
 TEST_JHTML_SRCS += test-include.jhtml
 TEST_JHTML_SRCS += test-kana.jhtml
 TEST_JHTML_SRCS += test.jhtml
@@ -404,72 +396,7 @@ TARGETS += $(TEST_TARGETS)
 TARGETS += $(OUTPUT)/heisig.gen.html
 TARGETS += $(OUTPUT)/grammar-index.html
 
-TARGETS += $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html
-
-TARGETS += $(OUTPUT)/N1-cumulative-vocabulary-with-annotated-kanji.html
-TARGETS += $(OUTPUT)/N2-cumulative-vocabulary-with-annotated-kanji.html
-TARGETS += $(OUTPUT)/N3-cumulative-vocabulary-with-annotated-kanji.html
-
-TARGETS += $(OUTPUT)/N1-level-vocabulary-with-annotated-kanji.html
-TARGETS += $(OUTPUT)/N2-level-vocabulary-with-annotated-kanji.html
-TARGETS += $(OUTPUT)/N3-level-vocabulary-with-annotated-kanji.html
-
-DATA_FILES += $(DATADIR)/kanji.data
-DATA_FILES += $(DATADIR)/references.data
-
-SCRIPT_FILES += $(SCRIPTDIR)/DataKanji.rb
-SCRIPT_FILES += $(SCRIPTDIR)/DataKanjidic.rb
-SCRIPT_FILES += $(SCRIPTDIR)/DataRefs.rb
-SCRIPT_FILES += $(SCRIPTDIR)/DebugSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/FastKanji.rb
-SCRIPT_FILES += $(SCRIPTDIR)/HiraganaSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/Kanji.rb
-SCRIPT_FILES += $(SCRIPTDIR)/KanjiSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/KatakanaSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/RefsSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/UnicodeSupport.rb
-SCRIPT_FILES += $(SCRIPTDIR)/japanese-to-codes.rb 
-
-GLOBAL_DEPENDENCIES += $(DATA_FILES)
-GLOBAL_DEPENDENCIES += $(SCRIPT_FILES)
-
 default: $(TARGETS)
-
-$(OUTPUT)/N1-cumulative-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.C.N1toN5.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N1 $< $(DATADIR)/kanji.data > $@
-
-$(OUTPUT)/N2-cumulative-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.C.N2toN5.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N2 $< $(DATADIR)/kanji.data > $@
-
-$(OUTPUT)/N3-cumulative-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.C.N3toN5.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N3 $< $(DATADIR)/kanji.data > $@
-
-$(OUTPUT)/N1-level-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.N1.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N1 $< $(DATADIR)/kanji.data > $@
-
-$(OUTPUT)/N2-level-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.N2.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N2 $< $(DATADIR)/kanji.data > $@
-
-$(OUTPUT)/N3-level-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.N3.mht $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N3 $< $(DATADIR)/kanji.data > $@
-
-$(GENDIR)/heisig.gen.jhtml : $(SCRIPTDIR)/build-heisig-page.rb
-	@mkdir -p $(GENDIR)
-	$(SCRIPTDIR)/build-heisig-page.rb > $@
-
-$(OUTPUT)/heisig.gen.html : $(GENDIR)/heisig.gen.jhtml
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
-
-$(OUTPUT)/N4-vocabulary-with-annotated-kanji.html : N4-vocabulary-with-annotated-kanji.html
-	@mkdir -p $(OUTPUT)
-	cp $< $@
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
