@@ -21,6 +21,8 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+@BGRND{{}}
 <p>
 @EM{{@HI{{ha}}}} is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
@@ -35,6 +37,7 @@ or about which the speaker is expected to know.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ha}}}} is used to mark a topic, which is then explained or described in the rest of the
 sentence.
@@ -50,6 +53,7 @@ sentence.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The sentence pattern @N1{{}}@EM{{@HI{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
 quality or property, @N2{{}}, is explained.
@@ -64,6 +68,7 @@ quality or property, @N2{{}}, is explained.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ha}}}} is used to indicate a contrast.
 
@@ -77,6 +82,7 @@ quality or property, @N2{{}}, is explained.
   </td> </tr>
 </table>
 </p>
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

@@ -23,7 +23,11 @@
 
 <p>
 @EM{{@HI{{ga}}}} is a particle which indicates the subject, or sometimes the object, of a verb
-or adjective. For uses of @HI{{ga}} as a conjunction, see <a href="grammar-ga-conjunction.html">here</a>.
+or adjective.
+</p>
+
+<p>
+For uses of @HI{{ga}} as a conjunction, see <a href="grammar-ga-conjunction.html">here</a>.
 </p>
 
 @BGRNDSTART{{}}
@@ -54,7 +58,8 @@ sentence he is marked by @HI{{ha}}.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ga}}}} is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}.
+@EM{{@HI{{ga}}}} is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}
+to indicate existence.
 If a contrast is being presented then @HI{{ha}} can replaced @EM{{@HI{{ga}}}}.
 
 <table class="sentence" border=0>
@@ -68,10 +73,6 @@ If a contrast is being presented then @HI{{ha}} can replaced @EM{{@HI{{ga}}}}.
 </p>
 
 @BGRND{{}}
-<p>
-@HI{{ha}} is used if information is being presented about a subject that has already been identified.
-</p>
-
 <p>
 @EM{{@HI{{ga}}}} indicates the subject of the predicate.
 
@@ -150,7 +151,7 @@ that @HI{{no}} can often perform this function too.
       @HI{{@KJ{{before^week^private}}@EM{{ga}}@KJ{{see}}ta@KJ{{reflect^brush-stroke}}hatsumaranakatta.}}
   </td> </tr>
   <tr class="en"> <td>
-      The film I saw last week was broing.
+      The film I saw last week was boring.
   </td> </tr>
 </table>
 </p>
