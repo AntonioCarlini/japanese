@@ -29,4 +29,6 @@ default: all_component_makefiles
 
 default: all_subdir_makefiles
 
+include $(MAKERULESDIR)/rules.make
+
 .DEFAULT_GOAL := default

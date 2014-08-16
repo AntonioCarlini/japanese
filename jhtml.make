@@ -2,9 +2,6 @@ JHTML_SRCS += aap.jhtml
 JHTML_SRCS += adjectives.jhtml
 JHTML_SRCS += ahij-vocabulary.jhtml
 JHTML_SRCS += confusible-kanji.jhtml
-JHTML_SRCS += doajg.jhtml
-JHTML_SRCS += dobjg.jhtml
-JHTML_SRCS += doijg.jhtml
 JHTML_SRCS += grammar-activity-time.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-adverb-naru.jhtml
@@ -397,10 +394,6 @@ TARGETS += $(OUTPUT)/grammar-index.html
 
 default: $(TARGETS)
 
-$(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
-
 $(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) $(SCRIPTDIR)/find-grammar-elements.rb
 	@mkdir -p $(GENDIR)
 	$(SCRIPTDIR)/find-grammar-elements.rb $< > $@
@@ -408,3 +401,5 @@ $(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) $(SCRIPTDIR)/find-gramm
 $(OUTPUT)/grammar-index.html : $(GRMIDX_SRCS) $(SCRIPTDIR)/build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
 	@$(SCRIPTDIR)/build-grammar-index.rb $(GRMIDX_SRCS) > $@
+
+include $(MAKERULESDIR)/lib.make
