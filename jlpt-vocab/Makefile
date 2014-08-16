@@ -40,14 +40,6 @@ $(OUTPUT)/N3-level-vocabulary-with-annotated-kanji.html : $(EXTERNAL)/VocabList.
 	@mkdir -p $(OUTPUT)
 	$(SCRIPTDIR)/build-kanji-vocab-list-by-jlpt.rb N3 $< $(DATADIR)/kanji.data > $@
 
-$(GENDIR)/heisig.gen.jhtml : $(SCRIPTDIR)/build-heisig-page.rb
-	@mkdir -p $(GENDIR)
-	$(SCRIPTDIR)/build-heisig-page.rb > $@
-
-$(OUTPUT)/heisig.gen.html : $(GENDIR)/heisig.gen.jhtml
-	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
-
 $(OUTPUT)/N4-vocabulary-with-annotated-kanji.html : N4-vocabulary-with-annotated-kanji.html
 	@mkdir -p $(OUTPUT)
 	cp $< $@

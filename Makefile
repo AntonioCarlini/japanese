@@ -1,5 +1,6 @@
 
 SUBDIRS += css
+SUBDIRS += heisig
 SUBDIRS += jlpt-vocab
 
 COMPONENTS += jhtml

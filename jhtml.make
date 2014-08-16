@@ -393,7 +393,6 @@ TEST_TARGETS += $(foreach JH,$(TEST_JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$
 
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 TARGETS += $(TEST_TARGETS)
-TARGETS += $(OUTPUT)/heisig.gen.html
 TARGETS += $(OUTPUT)/grammar-index.html
 
 default: $(TARGETS)
