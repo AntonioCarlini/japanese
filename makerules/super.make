@@ -14,7 +14,6 @@ $(COMPONENT_MAKEFILES):
 	$(MAKE) -f $@
 
 $(SUBDIR_MAKEFILES):
-	$(info MRLD before make -C: [$(MAKERULESDIR)])
 	$(info executing [make -C $@])
 	$(MAKE) -C $@
 
