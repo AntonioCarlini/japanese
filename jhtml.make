@@ -189,6 +189,7 @@ JHTML_SRCS += grammar-particle-kuse-ni.jhtml
 JHTML_SRCS += grammar-particle-made.jhtml
 JHTML_SRCS += grammar-particle-mo.jhtml
 JHTML_SRCS += grammar-particle-mono.jhtml
+JHTML_SRCS += grammar-particle-mono-ka-not.jhtml
 JHTML_SRCS += grammar-particle-na.jhtml
 JHTML_SRCS += grammar-particle-nado.jhtml
 JHTML_SRCS += grammar-particle-ne.jhtml
