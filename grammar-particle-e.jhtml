@@ -15,20 +15,16 @@
 
 <h2> Formation </h2>
 
-<dl>
-<dt> (A) direction of motion
 <ol>
 <li> @N{{location}} @EM{{@HI{{he}}}}
-</ol>
-<dt> (B) recipient of an action
-<ol>
 <li> @N{{recipient}} @EM{{@HI{{he}}}}
 </ol>
-</dl>
 
 <h2> Definition </h2>
 
 
+@BGRNDSTART{{}}
+@BGRND{{}}
 <p>
 @EM{{@HI{{he}}}} is used to indicate the direction in which someone is moving.
 
@@ -55,6 +51,7 @@ Strictly speaking, @HI{{ni}} indicates the destination.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{he}}}} is used to indicate the recipient of an action.
 
@@ -67,6 +64,7 @@ Strictly speaking, @HI{{ni}} indicates the destination.
   </td> </tr>
 </table>
 </p>
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

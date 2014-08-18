@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ni}}" grammar="@HI{{ni}} (sentence ending)"}}
+
+<body>
+
+<h1>@HI{{ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{ni}}}}. 
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{ni}}}} indicates that something regrettably has happened, although things could have turned out differently.
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{hokano@KJ{{person}}gayattara,motto@KJ{{early}}kudekitadeshou@EM{{ni}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It could have been finished much sooner had someone else done it.
+  </td> </tr>
+</table>
+</p>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{mou@KJ{{few}}shi@KJ{{wait}}tteitara,@KJ{{rain}}gayandarou@EM{{ni}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If we had waited a little longer the rain might have stopped.
+  </td> </tr>
+</table>
+</p>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+@EM{{@HI{{ni}}}} often follows @HI{{darou}}, @HI{{deshou}} and @V{{}}@HI{{tarou}}.
+It has basically the same meaning as <a href="grammar-noni-although.html">@HI{{noni}}</a>,
+although it is less often used.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 145).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
