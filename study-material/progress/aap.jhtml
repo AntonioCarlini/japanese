@@ -21,7 +21,7 @@
 <tr>
   <td class="">  1 </td>
   <td class=""> <a href="grammar-particle-wa.html">@HI{{ha}}</a> </td>
-  <td class="ok"> &radic; </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="">  2 </td>
@@ -355,8 +355,8 @@
 </tr>
 <tr>
   <td class=""> 68 </td>
-  <td class=""> @HI{{monoka}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono-ka.html">@HI{{monoka}}</a> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 69 </td>
