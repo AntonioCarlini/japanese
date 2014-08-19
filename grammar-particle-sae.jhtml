@@ -27,6 +27,8 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+@BGRND{{}}
 <p>
 @EM{{@HI{{sae}}}} is a particle meaning "even".
 
@@ -40,6 +42,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="if-only">@EM{{@HI{{sae}}}}</a>, when coupled with @Vta{{}}@HI{{ra}} or @Vba{{}} or @HI{{nara}},
 means "if only" something had been done a positive result would have followed.
@@ -65,6 +68,8 @@ means "if only" something had been done a positive result would have followed.
 </table>
 </ol>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

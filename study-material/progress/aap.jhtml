@@ -271,7 +271,7 @@
 <tr>
   <td class=""> 51 </td>
   <td class=""> <a href="grammar-particle-sae.html">@HI{{sae}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 52 </td>
@@ -281,7 +281,7 @@
 <tr>
   <td class=""> 53 </td>
   <td class=""> <a href="grammar-koso.html">@HI{{koso}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic;  </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 54 </td>
@@ -346,12 +346,12 @@
 <tr>
   <td class=""> 66 </td>
   <td class=""> <a href="grammar-particle-ze.html">@HI{{ze}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 67 </td>
   <td class=""> <a href="grammar-particle-zo.html">@HI{{zo}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 68 </td>

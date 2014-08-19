@@ -22,16 +22,14 @@
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{zo}}}} is a sentence ending particle that adds force to a sentence. It indicates a command or threat or
-adds force to a sentence.
-In this latter usage, it is more emphatic than <a href="grammar-particle-ze.html">ze</a>.
-It is mostly used by men.
+@EM{{@HI{{zo}}}} is a sentence ending particle that adds force to a sentence.
 </p>
 
-<h2> Examples </h2>
+@BGRNDSTART{{}}
+@BGRND{{}}
+<p>
+It indicates a command or threat.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{sorosoro@KJ{{meeting^deliberation}}wo@KJ{{commence}}meru@EM{{zo}}.}}
@@ -40,7 +38,14 @@ It is mostly used by men.
       Let's get the meeting under way.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+It adds force to a sentence of self-encouragement.
+In this latter usage, it is more emphatic than <a href="grammar-particle-ze.html">ze</a>.
+It is mostly used by men.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{stubborn^long}}ru@EM{{zo}}.}}
@@ -49,7 +54,9 @@ It is mostly used by men.
       I can do it!
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
