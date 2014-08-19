@@ -26,6 +26,13 @@
 </p>
 
 <p>
+The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{kashira}}</a>.
+<p>
+
+@BGRNDSTART{{}}
+@BGRND{{}}
+
+<p>
 <a name="uncertainty">@EM{{@HI{{kana}}}}</a> indicates uncertainty.
 
 <table class="sentence" border=0>
@@ -38,6 +45,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="self-question">@EM{{@HI{{kana}}}}</a> marks a question to oneself.
 
@@ -51,6 +59,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="muted-request">@EM{{@HI{{kana}}}}</a> indicates a hope or a muted request.
 
@@ -64,9 +73,7 @@
 </table>
 </p>
 
-<p>
-The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{kashira}}</a>.
-<p>
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

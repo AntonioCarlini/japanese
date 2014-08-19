@@ -25,6 +25,9 @@
 @EM{{@HI{{yo}}}} is a sentence ending particle.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{yo}}}} can urge a course of action.
 
@@ -38,6 +41,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{yo}}}} can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
 
@@ -51,6 +55,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{yo}}}} can indicate that the speaker feels certain of what he is saying.
 
@@ -64,6 +69,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{yo}}}} can indicate scolding or contempt.
 
@@ -76,6 +82,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

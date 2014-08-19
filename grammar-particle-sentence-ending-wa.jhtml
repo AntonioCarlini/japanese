@@ -25,6 +25,8 @@
 @EM{{@HI{{wa}}}} is a sentence ending particle mainly used by women.
 </p>
 
+@BGRNDSTART{{}}
+@BGRND{{}}
 <p>
 @EM{{@HI{{wa}}}} indicates emotion or feelings of admiration
 
@@ -38,6 +40,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{wa}}}} softens the tone of a statement.
 
@@ -51,10 +54,13 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{wa}}}} has the same pronunciation as the topic marker <a href="grammar-particle-wa.html">@HI{{ha}}</a>
 but is written with a different hiragana character.
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

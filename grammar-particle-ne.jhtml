@@ -25,6 +25,9 @@
 @EM{{@HI{{ne}}}} is a sentence ending particle.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can indicate emotion or feelings of admiration.
 
@@ -38,6 +41,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can indicate agreement with the other person.
 
@@ -51,6 +55,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can soften a request.
 
@@ -64,6 +69,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can request confirmation.
 
@@ -77,6 +83,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can indicate a mild assertion of opinion.
 
@@ -90,6 +97,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ne}}}} can indicate a mild assertion.
 
@@ -102,6 +110,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
