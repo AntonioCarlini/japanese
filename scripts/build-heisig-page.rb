@@ -12,8 +12,8 @@ $LOAD_PATH << File.dirname(__FILE__)
 
 require 'DataKanji.rb'
 
-# Read the Heisig kanji
-kanji_data_file = "data/kanji.data" # Hard code this for now
+# Read the Heisig kanji data file (supplied as first argument)
+kanji_data_file = ARGV.shift()
 kanji_data = DataKanji.create_from_file(kanji_data_file)
 
 heisig = []  # list of kanji indexed by Heisg number
