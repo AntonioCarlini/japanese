@@ -375,10 +375,10 @@ default: $(TARGETS)
 
 $(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) $(SCRIPTDIR)/find-grammar-elements.rb
 	@mkdir -p $(GENDIR)
-	$(SCRIPTDIR)/find-grammar-elements.rb $< > $@
+	@$(SCRIPTDIR)/find-grammar-elements.rb $< > $@
 
 $(OUTPUT)/grammar-index.html : $(GRMIDX_SRCS) $(SCRIPTDIR)/build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
-	@$(SCRIPTDIR)/build-grammar-index.rb $(GRMIDX_SRCS) > $@
+	@$(SCRIPTDIR)/build-grammar-index.rb $(GRMIDX_SRCS) > $@ && echo "Successfully built $@"
 
 include $(MAKERULESDIR)/lib.make
