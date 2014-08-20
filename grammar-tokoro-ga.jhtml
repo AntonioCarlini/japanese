@@ -21,20 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{tokoroga}} always follows @Vta{{}} even though its tense is not necessarily in the past and depends on the tense
 of the verb in the main clause.
-</p>
 
-<p>
-@HI{{tokoroga}} is used between two clauses to show that they have opposite meanings. The result is often unexpected (although
-it may be good or bad).
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{ano@KJ{{person}}ni@KJ{{meeting}}ini@KJ{{going}}tta@EM{{tokoroga}},@KJ{{meeting^deliberation^in}}
@@ -44,7 +37,13 @@ it may be good or bad).
     I went to see her but I couldn't because she was in a meeting.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{tokoroga}} is used between two clauses to show that they have opposite meanings. The result is often unexpected (although
+it may be good or bad).
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{amari@KJ{{period^wait}}shitenakatta@EM{{tokoroga}},sono@KT{{konsa-to}}hasubarashikatta.}}
@@ -53,8 +52,9 @@ it may be good or bad).
     Although I hadn't been expecting much, the concert was fabulous.
   </td> </tr>
 </table>
-</ol>
+</p>
 
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

@@ -21,20 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{tokorode}} always follows @Vta{{}} even though its tense is not necessarily in the past and depends on the tense
 of the verb in the main clause.
-</p>
 
-<p>
-@HI{{tokorode}} is used between two contrasting clauses to emphasise that something is less than expected or that the outcome
-stated in the first clause will be unfavourable.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{east^capital}}ha@KJ{{snow}}ga@KJ{{descend}}tta@EM{{tokorode}},sonnani@KJ{{volume}}morukotohaarimasenn.}}
@@ -43,7 +36,13 @@ stated in the first clause will be unfavourable.
     Even though it snows in Tokyo, it never snows that much.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{tokorode}} is used between two contrasting clauses to emphasise that something is less than expected or that the outcome
+stated in the first clause will be unfavourable.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{now}}kara@KJ{{busy}}ide@KJ{{going}}tta@EM{{tokorode}},1@KJ{{time}}no@KJ{{new^tree*trunk^line}}niha
@@ -53,7 +52,9 @@ stated in the first clause will be unfavourable.
     No matter how much we hurry now, we're not going to be in time for the one o'clock Shinkansen.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
