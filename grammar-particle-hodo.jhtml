@@ -48,7 +48,6 @@
       I　heard that some 100 people died in this accident.
   </td> </tr>
 </table>
-<hr>
 </p>
 
 @BGRND{{}}
@@ -64,14 +63,12 @@ follows a noun, the predicate must be in the negative.
       This year is not as cold as last year.
   </td> </tr>
 </table>
-<hr>
 </p>
 
 @BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
 
-<ul>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{now^day}}ha,@KJ{{exertion^study}}gadekinai@EM{{hodo}}@KJ{{exhausted}}reta.}}
@@ -80,13 +77,11 @@ follows a noun, the predicate must be in the negative.
       Today I'm so tired that I cannot study.
   </td> </tr>
 </table>
-<hr>
 </p>
 
 @BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
-<hr>
 </p>
 
 @BGRNDEND{{}}
