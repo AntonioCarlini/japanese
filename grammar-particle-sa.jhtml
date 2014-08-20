@@ -21,15 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{sa}}}} is a sentence ending particle mainly used by men either to soften an assertion or to indicate
+@EM{{@HI{{sa}}}} is a sentence ending particle mainly used by men to soften an assertion () or to indicate
 a critical response.
-<p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{soreyori,kocchino@KT{{se-ta-}}no@KJ{{direction}}ga@KJ{{large}}kii@EM{{sa}}.}}
@@ -38,16 +36,23 @@ a critical response.
       This sweater's bigger than that one, I'd say.
   </td> </tr>
 </table>
-<li>
+<p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{sa}}}} is a sentence ending particle used to indicate a critical response.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}noyarosounakoto<stron>sa</strong>.}}
+      @HI{{ano@KJ{{person}}noyarisounakoto@EM{{sa}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It's something he would do.
   </td> </tr>
 </table>
-</ol>
+<p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

@@ -96,7 +96,7 @@
 <tr>
   <td class=""> 16 </td>
   <td class=""> <a href="grammar-particle-made.html">@HI{{made}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 17 </td>
@@ -111,12 +111,12 @@
 <tr>
   <td class=""> 19 </td>
   <td class=""> <a href="grammar-particle-kurai.html">@HI{{kurai}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 20 </td>
   <td class=""> <a href="grammar-particle-hodo.html">@HI{{hodo}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 21 </td>
@@ -131,12 +131,12 @@
 <tr>
   <td class=""> 23 </td>
   <td class=""> <a href="grammar-particle-shika.html">@HI{{shika}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 24 </td>
   <td class=""> <a href="grammar-particle-nomi.html">@HI{{nomi}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 25 </td>
@@ -156,7 +156,7 @@
 <tr>
   <td class=""> 28 </td>
   <td class=""> <a href="grammar-particle-keredomo.html">@HI{{keredemo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 29 </td>
@@ -171,7 +171,7 @@
 <tr>
   <td class=""> 31 </td>
   <td class=""> <a href="grammar-particle-kuse-ni.html">@HI{{kuseni}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 32 </td>
@@ -316,12 +316,12 @@
 <tr>
   <td class=""> 60 </td>
   <td class=""> <a href="grammar-particle-sa.html">@HI{{sa}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 61 </td>
   <td class=""> <a href="grammar-particle-koto.html">@HI{{koto}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 62 </td>
@@ -341,7 +341,7 @@
 <tr>
   <td class=""> 65 </td>
   <td class=""> <a href="grammar-particle-mono.html">@HI{{mono}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr> 
 <tr>
   <td class=""> 66 </td>
