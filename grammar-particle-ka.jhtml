@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="question">@EM{{@HI{{ka}}}}</a> at the end of a sentence can indicate a simple question.
 
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ka}}}} at the end of a sentence can indicate a question of the form "how about".
 
@@ -47,6 +51,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ka}}}} at the end of a sentence can indicate a rhetorical question.
 
@@ -60,6 +65,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ka}}}} at the end of a sentence can indicate anger or censure.
 
@@ -73,6 +79,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ka}}}} at the end of a sentence can indicate that someone is talking to himself.
 
@@ -86,6 +93,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="alternative">Within</a> a sentence, @EM{{@HI{{ka}}}} can indicate a choice: "whether or not".
 
@@ -99,6 +107,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Within a sentence, @EM{{@HI{{ka}}}} can indicate uncertainty about a state or reason: "I wonder".
 
@@ -112,6 +121,7 @@ Within a sentence, @EM{{@HI{{ka}}}} can indicate uncertainty about a state or re
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Within a sentence, @EM{{@HI{{ka}}}} following an interrogative word indicates such
 meanings as "anyone, anything, someone, something".
@@ -122,11 +132,12 @@ meanings as "anyone, anything, someone, something".
       @KJ{{know}}tteimasuka.}}
   </td> </tr>
   <tr class="en"> <td>
-      Does anyone know Yamada's phonce number?
+      Does anyone know Yamada's phone number?
   </td> </tr>
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncertainty or doubt.
 
@@ -140,6 +151,7 @@ Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncerta
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ka}}}} also appears in the idiomatic expression
 @EM{{@HI{{ka}}}} ... @HI{{nai uchi ni}}.
@@ -153,6 +165,8 @@ Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncerta
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

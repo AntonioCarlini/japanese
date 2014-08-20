@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{toka}}}} is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
 However, @EM{{@HI{{toka}}}}
@@ -44,6 +47,7 @@ never can.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{toka}}}} can follow  pairs of words of opposite meaning to indicate uncertainty.
 
@@ -53,11 +57,13 @@ never can.
       @KJ{{mask^white}}kunai@EM{{@HI{{toka}}}}@KJ{{say}}unode,dochiranokawakarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
-      Depending on which day it is, she says she likes here work or she doesn't like it, so I don't know whether she does or not.
+      Depending on which day it is, she says she likes her work or she doesn't like it, so I don't know whether she does or not.
   </td> </tr>
 </table>
 
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
