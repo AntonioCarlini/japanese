@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern means that two actions (@V1{{}} and @V2{{}}) are being performed at the same time.
 The action in the main clause, @V2{{}}, is the more emphasised of the two.
@@ -35,6 +38,7 @@ The action in the main clause, @V2{{}}, is the more emphasised of the two.
 </table>
 <p>
 
+@BGRND{{}}
 <p>
 @HI{{nagara}} can be used between two clauses to emphasise that they are opposite in meaning.
 
@@ -48,6 +52,8 @@ The action in the main clause, @V2{{}}, is the more emphasised of the two.
   </td> </tr>
 </table>
 <p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{koto}}}} is a sentence ending particle that can indicate emotion.
 
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{koto}}}} is a sentence ending particle that can express a suggestion or invitation.
 
@@ -46,6 +50,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

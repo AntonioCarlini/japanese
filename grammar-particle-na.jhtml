@@ -26,6 +26,9 @@
 @EM{{@HI{{na}}}} is a sentence ending particle with a number of uses.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 Some uses of @EM{{@HI{{na}}}} are most often used by men:
 <ul>
@@ -35,6 +38,7 @@ Some uses of @EM{{@HI{{na}}}} are most often used by men:
 </ul>
 </p>
 
+@BGRND{{}}
 <p>
 Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
 <ul>
@@ -42,6 +46,8 @@ Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
 <li> softens a request or a command
 </ul>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Examples </h2>
 
