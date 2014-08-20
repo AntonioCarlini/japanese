@@ -28,6 +28,9 @@
 of "from" or "after".
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="start">@EM{{@HI{{kara}}}}</a> can follow nouns to indicate the time at which something
 starts or the place from which something begins.
@@ -53,6 +56,7 @@ starts or the place from which something begins.
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kara}}}} appears in certain idiomatic usages where figurative references to place are made.
 
@@ -66,6 +70,7 @@ starts or the place from which something begins.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kara}}}} can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
 to mean that an action immediately follows the end of a previous action; the meaning here may be "after" or "since".
@@ -94,6 +99,7 @@ to mean that an action immediately follows the end of a previous action; the mea
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kara}}}} can follow a noun to indicate the raw material from which something 
 is <a href="grammar-tsukuru.html">made</a>. If the process is not complex and the original material can be clearly
@@ -109,6 +115,7 @@ discerned then @HI{{de}} is preferred.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kara}}}} indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
 
@@ -122,6 +129,7 @@ discerned then @HI{{de}} is preferred.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="because">@EM{{@HI{{kara}}}}</a> can be used after a clause to mark it as a reason for something.
 
@@ -135,6 +143,7 @@ discerned then @HI{{de}} is preferred.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kara}}}} can be used trailingly at the end of a sentence to indicate censure of the listener.
 
@@ -147,6 +156,8 @@ discerned then @HI{{de}} is preferred.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

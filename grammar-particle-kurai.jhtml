@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{kurai}}}} indicates an approximate amount without saying anything about the amount's
 upper or lower limits.
@@ -39,6 +42,7 @@ upper or lower limits.
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kurai}}}} is used to indicate the extent of an action.
 
@@ -53,6 +57,7 @@ upper or lower limits.
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kurai}}}} is used to indicate a comparison.
 
@@ -67,6 +72,8 @@ upper or lower limits.
 </table>
 <hr>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

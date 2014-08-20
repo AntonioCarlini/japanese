@@ -34,6 +34,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="to">In</a> sentence pattern (A) a topic is introduced in the first utterance and in a subsequent sentence
 @EM{{@HI{{mo}}}} is used to increase the scope of the topic.
@@ -49,6 +52,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="both">In</a> sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel.
 
@@ -62,11 +66,13 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="as-much-as">In</a> sentence pattern (C) @EM{{@HI{{mo}}}} follows a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{mo}}}} can indicate an addition such as "as well as".
 
@@ -80,6 +86,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{mo}}}} can be used to show emphasis about a time or quantity.
 
@@ -105,6 +112,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{mo}}}} can be used to indicate a total negation when used with a negative verb.
 
@@ -118,6 +126,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{mo}}}} can be used to indicate an approximation.
 
@@ -130,6 +139,8 @@ idea that the speaker believes that the amount or number mentioned is large.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

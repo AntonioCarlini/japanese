@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}}  indicates <a name="surface">where</a> something is "in", "at" or "on".
 
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}}  indicates <a name="location">where</a> something is.
 
@@ -47,6 +51,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the location of an action, "in" or "at".
 
@@ -60,6 +65,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates <a name="time">time</a>.
 
@@ -73,6 +79,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates movement from a larger place to a smaller place; the place may be abstract,
 such as a group or society.
@@ -87,6 +94,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates <a name="direction">movement</a> towards a place.
 
@@ -100,6 +108,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the <a name="purpose">purpose</a> of an action.
 
@@ -113,6 +122,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the <a name="recipient">recipient</a> of an action.
 
@@ -126,6 +136,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the result of a change or impending change.
 
@@ -139,6 +150,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates a condition that already exists.
 
@@ -152,6 +164,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} marks the agent of a <a name="passive">passive</a> verb.
 
@@ -165,6 +178,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the person made to do something in a <a name="causative">causative</a> sentence.
 
@@ -178,6 +192,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the agent of a <a name="causative-passive">causative-passive</a> verb.
 
@@ -191,6 +206,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} joins nouns (usually three or more).
 
@@ -205,6 +221,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates a pair of people of things that are often mentioned together.
 
@@ -218,6 +235,7 @@ such as a group or society.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates the basis on which an action takes place.
 
@@ -231,6 +249,8 @@ such as a group or society.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

@@ -21,8 +21,11 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{made}}}} is indicates a time limit for an action: "until".
+@EM{{@HI{{made}}}} indicates a time limit for an action: "until".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{made}}}} can indicate the place to which an action extends.
 
@@ -47,6 +51,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{made}}}} can indicate the degree of a condition by citing an example.
 
@@ -60,6 +65,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{made}}}} can indicate an extreme condition.
 
@@ -73,6 +79,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

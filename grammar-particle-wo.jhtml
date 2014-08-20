@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="direct">@EM{{@HI{{wo}}}}</a> indicates the direct object of a transitive verb.
 
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{wo}}}} indicates the direct object of a passive verb.
 
@@ -47,6 +51,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{wo}}}} indicates the person made to do something in a causative sentence.
 
@@ -60,6 +65,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 With @HI{{suru}}, @EM{{@HI{{wo}}}} indicates a specific occupation or position.
 
@@ -73,6 +79,7 @@ With @HI{{suru}}, @EM{{@HI{{wo}}}} indicates a specific occupation or position.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
 
@@ -86,6 +93,7 @@ With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{wo}}}} indicates a movement from a smaller place to a larger one, both physically and in an abstract sense.
 
@@ -99,6 +107,7 @@ With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 When used with a verb of motion, <a name="location">@EM{{@HI{{wo}}}}</a> indicates the location of the
 movement rather than the destination.
@@ -113,6 +122,7 @@ movement rather than the destination.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="start">@EM{{@HI{{wo}}}}</a> indicates the location from which a
 movement begins.
@@ -127,6 +137,7 @@ movement begins.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="emotion">@EM{{@HI{{wo}}}}</a> indicates a human emotion. In Japanese, inwardly directed
 psychological verbs are not considered transitive, so this use of @EM{{@HI{{wo}}}} is considered
@@ -141,6 +152,8 @@ distinct from the @EM{{@HI{{wo}}}} that is a direct object marker.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

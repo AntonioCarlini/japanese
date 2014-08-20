@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="location">@EM{{@HI{{de}}}}</a> indicates the location of an action. Note that it normally cannot
 indicate location of existence except in the case where it is used with @HI{{aru}} to locate an event.
@@ -35,6 +38,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="means">@EM{{@HI{{de}}}}</a> indicates a means or an implement.
 
@@ -48,6 +52,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{de}}}} indicates the materials used.
 
@@ -61,6 +66,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{de}}}} indicates the greatest, least etc. in a comparison.
 
@@ -74,6 +80,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{de}}}} indicates the amount and scope.
 
@@ -87,6 +94,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{de}}}} indicates the mode or condition of the agent of an action.
 
@@ -100,6 +108,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="time">@EM{{@HI{{de}}}}</a> indicates time or age.
 
@@ -113,6 +122,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="cause">@EM{{@HI{{de}}}}</a> indicates the reason for something.
 
@@ -125,6 +135,8 @@ indicate location of existence except in the case where it is used with @HI{{aru
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

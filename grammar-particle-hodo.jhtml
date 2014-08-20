@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} is used to indicate an approximate amount or an approximate maximum.
 
@@ -48,6 +51,7 @@
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} is used to indicate a comparison. Note that when @EM{{@HI{{hodo}}}}
 follows a noun, the predicate must be in the negative.
@@ -63,6 +67,7 @@ follows a noun, the predicate must be in the negative.
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
 
@@ -80,10 +85,13 @@ follows a noun, the predicate must be in the negative.
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
 <hr>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

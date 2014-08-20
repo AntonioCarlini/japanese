@@ -24,28 +24,19 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This expression is used to mean "even if" or "even though" the conditon in the subordinate clause is true,
 the action expressed in the main clause will take place. The subordinate clause is not what would be
 expected from the main clause.
-</p>
-
-<p>
-@HI{{ikura}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
-@HI{{ikura}} stresses the degree of conditionality.
-</p>
-
-<p>
-@HI{{temo}} can be used to emphasise an approximate limit: "at most".
-</p>
-
-<h2> Examples </h2>
 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rain}}ga @KJ{{descend}}ttemo, @KJ{{wash^laundry}}shimasu.}}
+      @HI{{@KJ{{rain}}ga@KJ{{descend}}ttemo,@KJ{{wash^laundry}}shimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Even if it rains I'll do the laundry.
@@ -54,31 +45,49 @@ expected from the main clause.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^weekday^day}}demo, @KJ{{work}}kimasu.}}
+      @HI{{@KJ{{day^weekday^day}}demo,@KJ{{work}}kimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Even if it is Sunday I will work.
   </td> </tr>
 </table>
-<li>
+</ol>
+
+</p>
+
+@BGRND{{}}
+<p>
+With a WH word @HI{{temo}} means "no matter WH".
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{what}}wo @KJ{{eat}}betemo, oishii desu.}}
+      @HI{{@KJ{{what}}wo@KJ{{eat}}betemo,oishii desu.}}
   </td> </tr>
   <tr class="en"> <td>
       No matter what I eat it tastes good.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ikura}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+@HI{{ikura}} stresses the degree of conditionality.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ikura @KJ{{tall}}kutemo, @KJ{{buy}}imasu.}}
+      @HI{{ikura@KJ{{tall}}kutemo,@KJ{{buy}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       No matter how expensive it is I will buy it.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{temo}} can be used to emphasise an approximate limit: "at most".
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ano@KJ{{turf^reside}}ha@KJ{{long}}kutemo3@KJ{{time^interval}}de@KJ{{end}}warimasu.}}
@@ -87,16 +96,14 @@ expected from the main clause.
       That play will finish in 3 hours at most.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
 @HI{{te mo ii desuka}} is an idiomatic expression used to request permission to do something.
-</p>
-
-<p>
-With a WH word @HI{{temo}} means "no matter WH".
 </p>
 
 <h2> References </h2>

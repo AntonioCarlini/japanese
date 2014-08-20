@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="modifier">@EM{{@HI{{no}}}}</a> can be used between two nouns to indicate possession.
 
@@ -36,6 +39,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used between two nouns to indicate position or location.
 
@@ -49,6 +53,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used between two nouns to indicate that the first noun modifies the 
 second in terms of kind or category.
@@ -63,6 +68,7 @@ second in terms of kind or category.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used between two nouns to indicate that the two nouns are in apposition.
 
@@ -76,6 +82,7 @@ second in terms of kind or category.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used in place of @HI{{ga}} to mark the subject in a
 <a href="grammar-relative-clause.html">relative clause</a>.
@@ -90,6 +97,7 @@ second in terms of kind or category.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="indefinite">@EM{{@HI{{no}}}}</a> can be used following an adjective or a relative clause
 to form an indefinite pronoun.
@@ -104,6 +112,7 @@ to form an indefinite pronoun.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs and adjectives.
 In this use it is a simple nominaliser corresponding to "~ing" or "what".
@@ -118,6 +127,7 @@ In this use it is a simple nominaliser corresponding to "~ing" or "what".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs of perception.
 
@@ -131,6 +141,7 @@ In this use it is a simple nominaliser corresponding to "~ing" or "what".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="ending">@EM{{@HI{{no}}}}</a> can be used as a sentence ending particle as a 
 question marker in colloquial sentences.
@@ -145,6 +156,7 @@ question marker in colloquial sentences.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used as a sentence ending particle to soften a sentence.
 
@@ -158,6 +170,7 @@ question marker in colloquial sentences.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{no}}}} can be used as a sentence ending particle to indicate a mild command.
 
@@ -170,6 +183,8 @@ question marker in colloquial sentences.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
