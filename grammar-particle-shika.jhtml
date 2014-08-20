@@ -28,6 +28,9 @@ predicate. Its function is to highlight the word and express the idea that every
 marked word is negated. It carries a negative nuance.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 After a noun, @EM{{@HI{{shika}}}} indicates that there is nothing more than the quantity specified with the
 suggestion that the quantity is small.
@@ -54,6 +57,7 @@ suggestion that the quantity is small.
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 After a verb, @EM{{@HI{{shika}}}}  indicates a limit to the action specified by the verb.
 
@@ -69,6 +73,8 @@ After a verb, @EM{{@HI{{shika}}}}  indicates a limit to the action specified by 
 </table>
 </ol>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

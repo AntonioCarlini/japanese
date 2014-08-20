@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{node}}}} is a subordinate conjunction that expresses a reason or a cause.
 
@@ -37,6 +40,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{node}}}} implies that the speaker believes the subordinate clause to be the reason or cause
 for the main clause.
@@ -50,6 +54,8 @@ for the main clause.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

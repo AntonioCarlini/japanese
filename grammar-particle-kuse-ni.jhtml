@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{kuseni}}}} is used to indicate "despite the fact that" or "though". In this usage it is similar
 to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened feeling of censure or contempt.
@@ -37,6 +40,7 @@ to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened f
 <hr>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{kuseni}}}} can be used at the end of a sentence to indicate censure or contempt.
 
@@ -51,6 +55,8 @@ to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened f
 </table>
 <hr>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
