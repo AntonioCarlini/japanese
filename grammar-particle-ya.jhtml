@@ -29,6 +29,15 @@ often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compar
 with <a href="grammar-particle-to.html">@HI{{to}}</a>, which can be used to provide an exhaustive listing
 of nouns.
 
+<p>
+@EM{{@HI{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
+</p>
+
+<p>
+@EM{{@HI{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
+<a href="grammar-particle-toka.html">@HI{{toka}}</a> inexhaustively lists items in a more general fashion.
+</p>
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{te-buru}}no@KJ{{above}}ni,osushi@EM{{ya}}yakitori@EM{{ya}}
@@ -53,15 +62,6 @@ means "as soon as" or "no sooner had".
       No sooner had I gotten into the bath than the telephone rang.
   </td> </tr>
 </table>
-</p>
-
-<p>
-@EM{{@HI{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
-</p>
-
-<p>
-@EM{{@HI{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
-<a href="grammar-particle-toka.html">@HI{{toka}}</a> inexhaustively lists items in a more general fashion.
 </p>
 
 <h2> Notes </h2>
