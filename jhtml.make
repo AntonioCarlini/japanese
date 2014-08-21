@@ -201,6 +201,7 @@ JHTML_SRCS += grammar-particle-sae.jhtml
 JHTML_SRCS += grammar-particle-sentence-ending-ni.jhtml
 JHTML_SRCS += grammar-particle-sentence-ending-wa.jhtml
 JHTML_SRCS += grammar-particle-shika.jhtml
+JHTML_SRCS += grammar-particle-sura.jhtml
 JHTML_SRCS += grammar-particle-to-wa.jhtml
 JHTML_SRCS += grammar-particle-to.jhtml
 JHTML_SRCS += grammar-particle-toka.jhtml

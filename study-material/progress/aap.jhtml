@@ -275,8 +275,8 @@
 </tr>
 <tr>
   <td class=""> 52 </td>
-  <td class=""> @HI{{sura}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-sura.html">@HI{{sura}}</a> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 53 </td>
