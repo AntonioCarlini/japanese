@@ -28,10 +28,11 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sanha@KJ{{England^word}}no@FG{{@KJ{{teach^expert}}:kyoushi}}nanoni,@FG{{@KJ{{day^usual^meeting^tale}}:nichijoukaiwa}}@EM{{sura}}dekinai.}}
+      @HI{{@KJ{{mountain^rice*field}}sanha@KJ{{England^word}}no@FG{{@KJ{{teach^expert}}:kyoushi}}nanoni,
+@FG{{@KJ{{day^usual}}:nichijou}}@FG{{@KJ{{meeting^tale}}:kaiwa}}@EM{{sura}}dekinai.}}
   </td> </tr>
   <tr class="en"> <td>
-      Even though Yamada is an English teacher, she can't carry on an ordinary conversation.
+      Even though Yamada is an English teacher, she can't even carry on an ordinary conversation.
   </td> </tr>
 </table>
 </p>
