@@ -48,6 +48,7 @@ JHTML_SRCS += grammar-dekiru.jhtml
 JHTML_SRCS += grammar-demo.jhtml
 JHTML_SRCS += grammar-deshou-ka.jhtml
 JHTML_SRCS += grammar-deshou.jhtml
+JHTML_SRCS += grammar-douse.jhtml
 JHTML_SRCS += grammar-dou.jhtml
 JHTML_SRCS += grammar-doumo.jhtml
 JHTML_SRCS += grammar-douyatte.jhtml

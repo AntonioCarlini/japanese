@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{douse}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{douse}}" grammar="@HI{{douse}}"}}
+
+<body>
+
+<h1>@HI{{douse}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{douse}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The adverb @EM{{@HI{{douse}}}} indicates the feeling that no matter what the speaker does or how he does it, nothing will change.
+It may be translated as "in any case" or "anyway".
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+It often indicates anger or helplessness that nothing can be done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{douse}}kon'natakusanno@KJ{{inn^topic}},@KJ{{exit^come}}wakeganaikara,@KJ{{play}}bukotonishitayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot do this much homework anyway, so I've decided to play.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{douse}} can also indicate the finality of one's decision.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{douse}}@KJ{{come^week^day^book}}he@KJ{{going}}kimasukara,sono@FG{{@KJ{{resign^write}}:jisho}}ha@KJ{{day^book}}de@KJ{{buy}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm going to Japan next week anyway, so I'll buy that dictionary over there.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p 41).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
