@@ -30,7 +30,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kinou @KJ{{silver^squat}}no@KT{{resutorann}}@EM{{de}} @KJ{{nightfall}}gohanwo @KJ{{eat}}bemashita}}.
+      @HI{{kinou@FG{{@KJ{{silver^squat}}:ginza}}no@KT{{resutorann}}@EM{{de}}@KJ{{nightfall}}gohanwo@KJ{{eat}}bemashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Yesterday I had dinner at a restaurant in Ginza.
@@ -44,7 +44,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{day^book}}he @KJ{{boat}}@EM{{de}}@KJ{{come}}mashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{day^book}}he@KJ{{boat}}@EM{{de}}@KJ{{come}}mashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I came to Japan by boat.
@@ -55,10 +55,12 @@ indicate location of existence except in the case where it is used with @HI{{aru
 @BGRND{{}}
 <p>
 @EM{{@HI{{de}}}} indicates the materials used.
+Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the final product, otherwise
+@EM{{@HI{{de}}}} may be replaced by <a href="grammar-particle-kara.html">@HI{{kara}}</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KT{{ke-ki}}ha, @KJ{{egg}}to@KJ{{sugar}}@EM{{de}} @KJ{{make}}rimasu.}}
+      @HI{{kono @KT{{ke-ki}}ha,@KJ{{egg}}to@KJ{{sugar}}@EM{{de}}@KJ{{make}}rimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       This cake is made of butter and eggs.
@@ -72,7 +74,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{generation^world}}@EM{{de}}@KJ{{one^turn^tall}}i@KJ{{mountain}}ha @KJ{{what}}desuka.}}
+      @HI{{@KJ{{generation^world}}@EM{{de}}@KJ{{one^turn^tall}}i@KJ{{mountain}}ha@KJ{{what}}desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       What is the tallest mountain in the world?
@@ -86,7 +88,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{book}}ha 1@KJ{{time^interval}}@EM{{de}} @KJ{{read}}memasu.}}
+      @HI{{kono@KJ{{book}}ha1@KJ{{time^interval}}@EM{{de}}@KJ{{read}}memasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       You can read this book in an hour.
@@ -100,7 +102,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sanha @KT{{apa-to}}ni 1@KJ{{person}}@EM{{de}}@KJ{{dwell}}ndeimasu.}}
+      @HI{{@KJ{{mountain^rice*field}}sanha@KT{{apa-to}}ni1@KJ{{person}}@EM{{de}}@KJ{{dwell}}ndeimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Yamada lives in an apartment by himself.
@@ -114,7 +116,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{poem^person}}ha 25@KJ{{year-end}}@EM{{de}}@KJ{{death}}nda.}}
+      @HI{{ano@KJ{{poem^person}}ha25@KJ{{year-end}}@EM{{de}}@KJ{{death}}nda.}}
   </td> </tr>
   <tr class="en"> <td>
       That poet died at 25.
@@ -147,7 +149,7 @@ Note that if you walk somewhere, the expression @HI{{aruite}} is used and the pa
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 49).
+<li> @REF{{AAP}}. (p. 49).
 <li> @REF{{MNN-TR-I}}. (Chapter 5).
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @REF{{DOBJG}}. (p 105).

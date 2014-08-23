@@ -29,7 +29,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{tsumaranai @KJ{{meeting^deliberation}}@EM{{demo}} @KJ{{attend^matter}}desu kara, @KJ{{exit}}nakerebanarimasen.}}
+      @HI{{tsumaranai @KJ{{meeting^deliberation}}@EM{{demo}}@KJ{{attend^matter}}desu kara,@KJ{{exit}}nakerebanarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Even if the meetings are boring, because it's work you must attend.
@@ -57,7 +57,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{jonn}}sanha, @KJ{{day^book^fee^logic}}nara @KJ{{what}}@EM{{demo}}@KJ{{eat}}bemasu.}}
+      @HI{{@KT{{jonn}}sanha,@KJ{{day^book^fee^logic}}nara@KJ{{what}}@EM{{demo}}@KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       John will eat any kind of Japanese food.
@@ -67,11 +67,11 @@
 
 @BGRND{{}}
 <p>
-Used to mean "whatever" in the construct @HI{{donnna}} ... @EM{{@HI{{demo}}}}.
+Used to mean "whatever" in the construct @EM{{@HI{{don'na}}}} ... @EM{{@HI{{demo}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{yo-roppa}}he@KJ{{going}}ttara, @EM{{donna}}@KJ{{beauty^art^building}}@EM{{demo}}@KJ{{see}}temitai.}}
+      @HI{{@KT{{yo-roppa}}he@KJ{{going}}ttara,@EM{{don'na}}@KJ{{beauty^art^building}}@EM{{demo}}@KJ{{see}}temitai.}}
   </td> </tr>
   <tr class="en"> <td>
       If I go to Europe I'll want to see whatever museums I can.
@@ -85,8 +85,8 @@ Used to mean "whatever" in the construct @HI{{donnna}} ... @EM{{@HI{{demo}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{pine*tree^book}}sanha @KJ{{carry^move^gods^sutra}}ga ii node, @KT{{tenisu}}@EM{{demo}},
-      @KT{{gorufu}}@EM{{demo}} demimasu yo.}}
+      @HI{{@FG{{@KJ{{pine*tree^book}}:matsumoto}}sanha@KJ{{carry^move^gods^sutra}}gaiinode,@KT{{tenisu}}@EM{{demo}},
+      @KT{{gorufu}}@EM{{demo}}dekimasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       Given Matsumoto's good reflexes, he can play either golf or tennis.
@@ -115,7 +115,7 @@ Used to mean "whatever" in the construct @HI{{donnna}} ... @EM{{@HI{{demo}}}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 49).
+<li> @REF{{AAP}}. (p. 49).
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 

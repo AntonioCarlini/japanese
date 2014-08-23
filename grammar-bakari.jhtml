@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{bakari}}" grammar="@HI{{bakari}}"}}
+@GRMIDX{{index="@HI{{bakarini}}" grammar="@HI{{bakarini}}"}}
 
 <body>
 
@@ -32,6 +33,9 @@
 @EM{{@HI{{bakari}}}} is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @Vta{{}} @EM{{@HI{{bakari}}}} indicates that something has just happened or has just been done. It is the
 speaker's feeling that determines whether the action is recent or not.
@@ -46,6 +50,7 @@ speaker's feeling that determines whether the action is recent or not.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @Vte{{}} @EM{{@HI{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
 
@@ -59,6 +64,7 @@ speaker's feeling that determines whether the action is recent or not.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @Vru{{}} @EM{{@HI{{bakari}}}} indicates that something is about to be done.
 
@@ -72,6 +78,7 @@ speaker's feeling that determines whether the action is recent or not.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 In classical Japanese @EM{{@HI{{bakari}}}} expressed the speaker's conjecture and this is still seen
 in <em>quantifier</em>@EM{{@HI{{bakari}}}}, which means "about".
@@ -85,7 +92,77 @@ in <em>quantifier</em>@EM{{@HI{{bakari}}}}, which means "about".
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{bakari}}denai}} expresses the idea of "not also but also". In this usage it can be replaced by
+<a href="grammar-dake.html">@HI{{dake}}</a> but @EM{{@HI{{bakari}}}} is slightly more emphatic.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{England^word}}@EM{{bakari}}denaku,@KT{{furansu}}@KJ{{word}}mo@KJ{{exertion^strong}}shitaindesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I want to study not only English but French too.
+  </td> </tr>
+</table>
 </p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{bakari}}}} emphasises the singularity of the immediately preceding word.
+</p>
+<p>
+The position of @EM{{@HI{{bakari}}}} slightly changes the meaning, so several versions of a sentence are
+supplied to show the difference.
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{chapter^long}}:kachou}}hakono@KJ{{time}}@KT{{uisuki-}}@EM{{bakari}}@KJ{{drink}}ndeimasune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The section chief is drinking nothing but whiskey these days.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{chapter^long}}:kachou}}hakono@KJ{{time}}@KT{{uisuki-}}wo@KJ{{drink}}nde@EM{{bakari}}imasune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The section chief is doing nothing but drinking whiskey these days.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{chapter^long}}:kachou}}hakono@KJ{{time}}@KT{{uisuki-}}@KJ{{drink}}ndeiru@EM{{bakari}}desune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    All the section chief does these days is drink whiskey.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{bakarini}}}} emphasises a reason or a cause.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{transit^environs}}:watanabe}}sanha@KT{{sutereo}}wo@KJ{{buy}}itai@EM{{barakini}},
+    @FG{{@KJ{{one^life^suspend^fate}}:isshoukenmei}}ni@KT{{arubaito}}woshiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Watanbe is working like a dog at his part-time job because he wants to buy a stereo so badly.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -97,8 +174,9 @@ When @EM{{@HI{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 84).
+<li> @REF{{DOBJG}}. (p. 84).
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
+<li> @REF{{AAP}}. (p. 78).
 </ol>
 
 @include{{"grammar-footer.inc"}}

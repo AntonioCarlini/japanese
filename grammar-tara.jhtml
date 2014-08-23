@@ -17,76 +17,170 @@
 
 <ol>
 <li> @Vta{{}}@EM{{@HI{{ra}}}}
-<li> @Aistem{{}}katta@EM{{@HI{{ra}}}}
-<li> @Anastem{{}}datta@EM{{@HI{{ra}}}}
-<li> @N{{}}datta@EM{{@HI{{ra}}}}
-<li> @HI{{moshi}} ... @HI{{ta}}@EM{{@HI{{ra}}}}
+<li> @Aistem{{}}@HI{{kaxtsu@EM{{tara}}}}
+<li> @Anastem{{}}@HI{{daxtsu@EM{{tara}}}}
+<li> @N{{}}@HI{{daxtsu@EM{{tara}}}}
+<li> @HI{{moshi}} ... @HI{{@EM{{tara}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 When @EM{{@HI{{ra}}}} is attached to the plain past form of verbs, adjectives and nouns, it
 changes the preceding clause into a conditional expression. When a speaker wishes to state his opinion, request
-etc. in the conditional, this pattern is used. It is translated as "if ...".
+etc. in the conditional, this pattern is used. It is translated as "if ..." or "when ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ni@KJ{{meeting}}xtsu@EM{{tara}},yoroshikuto@KJ{{say}}tte@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you see him, give him my regards.
+  </td> </tr>
+</table>
 </p>
+
+@BGRND{{}}
 
 <p>
 @EM{{@Vta{{}}@HI{{ra}}}} can also be used to express that a certain action will be done or a
 certain situation will appear when something which is sure to happen in the future has been completed.
 In this case it is translated as "when ...". The main clause in this pattern is always in the present tense.
-</p>
 
-<p>
-To distinguish the "if" case from the "when" case, remember that if the subordiante clause represents a
-certainty then the expression means "when", otherwise it means "if".
-</p>
-
-<p>
-The main clause <em>can</em> contain a request, suggestion, command or volition.
-</p>
-
-<p>
-In both these constructions, the subordinate clause represents something that logically precedes the main clause.
-If this is not the case then this sentence pattern cannot be used.
-</p>
-
-<p>
-@HI{{moshi}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
-@HI{{moshi}} implies that an emphasis is on the speaker's supposition.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@KJ{{gold}}ga @EM{{attara}}, @KJ{{trip^going}}shimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      If I had money I would travel.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      10@HI{{@KJ{{time}}ni nattara, @KJ{{exit}}kakemashou.}}
+      10@HI{{@KJ{{time}}ninaxtsu@EM{{tara}},@KJ{{exit}}kakemashou.}}
   </td> </tr>
   <tr class="en"> <td>
       Let's go out when it gets to 10.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+To distinguish the "if" case from the "when" case, remember that if the subordinate clause represents a
+certainty then the expression means "when", otherwise it means "if".
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{moshi 1@KJ{{hundred*million^circle}} attara, iroirona @KJ{{country}}wo @KJ{{trip^going}}shitai desu.}}
+      @HI{{o@KJ{{gold}}gaaxtsu@EM{{tara}},@KJ{{trip^going}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I had money I would travel.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tara}}}} can indicate that one action immediately follows another.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ga@KJ{{voice}}wokake@EM{{tara}}@KJ{{come}}te@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      when I call, please come right away.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tara}}}} can indicate an action followed by something being learned.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}no@KJ{{house}}he@KJ{{going}}xtsu@EM{{tara}},@KJ{{he}}ha@FG{{@KJ{{detain^guard}}:rusu}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      when I went to my friend's house, (I found that) he was out.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The main clause <em>can</em> contain a request, suggestion, command or volition.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{attend^matter}}ga@KJ{{early}}ku@KJ{{end}}waxtsu@EM{{tara}}ouchinioukagaishimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I finish my work early, I'll come by your place.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The subordinate clause <em>can</em> contain be counterfactual.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}gaaxtsu@EM{{tara}}kon'nauchinihainai.}}a
+  </td> </tr>
+  <tr class="en"> <td>
+      If I had money, I wouldn't be in such a house.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In these constructions, the subordinate clause represents something that logically precedes the main clause.
+If this is not the case then this sentence pattern cannot be used.
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{moshi}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+@HI{{moshi}} implies that an emphasis is on the speaker's supposition.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{moshi1@KJ{{hundred*million^circle}}attara,iroirona@KJ{{country}}wo@KJ{{trip^going}}shitaidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       If I had 100 million yen I would want to travel in various countries.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tara}}}} can come at the end of a sentence to indicate a proposal. Often used by women.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mou@KJ{{slow}}ikara,sono@KJ{{attend^thing^bright^day}}ninasaxtsu@EM{{tara}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's late, so why not do that work tomorrow.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tara}}}} can come at the end of a sentence to indicate irritaion or impatience.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{early}}kushitextsu@EM{{tara}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      C'mon, get a move on!
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -95,7 +189,8 @@ If this is not the case then this sentence pattern cannot be used.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 25).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @REF{{DOBJG}}. (p 452).
+<li> @REF{{DOBJG}}. (p. 452).
+<li> @REF{{AAP}}. (p. 100).
 </ol>
 
 @include{{"grammar-footer.inc"}}

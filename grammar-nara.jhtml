@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 When a speaker wishes to take up a topic introduced by another person and give some information,
 @N{{}}@EM{{@HI{{nara}}}} is used.
@@ -45,6 +48,7 @@ When a speaker wishes to take up a topic introduced by another person and give s
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@HI{{nara}}}} is a conjunction that indicates that the preceding sentence is the
 speaker's supposition or the actualisation of something in the future.
@@ -58,6 +62,23 @@ speaker's supposition or the actualisation of something in the future.
   </td> </tr>
 </table>
 </p>
+
+<p>
+A major difference between @EM{{@HI{{nara}}}} and <a href="grammar-tara.html">@HI{{tara}}</a> is that 
+the clause following @EM{{@HI{{nara}}}} expresses what will definitely happen if the supposed event takes place
+whereas that following @HI{{tara}} expresses what would "happen to" take place.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ride}}ru@EM{{nara}}@KJ{{drink}}muna. @KJ{{drink}}ndara@KJ{{ride}}runa.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you (are going to) drive, don't drink. If you have been drinking, don't drive.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -78,6 +99,7 @@ can become @HI{{nn}}.
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
 <li> @REF{{DOBJG}}. (p. 281).
 <li> @REF{{NKZM-N3G}}. (p. 32).
+<li> @REF{{AAP}}. (p. 102).
 </ol>
 
 @include{{"grammar-footer.inc"}}

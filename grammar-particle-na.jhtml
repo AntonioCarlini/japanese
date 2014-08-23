@@ -30,29 +30,9 @@
 
 @BGRND{{}}
 <p>
-Some uses of @EM{{@HI{{na}}}} are most often used by men:
-<ul>
-<li> indicates emotion
-<li> asks for agreement
-<li> indicates <a href="grammar-verb-use-of-imperative-prohibitive.html">prohibition</a>
-</ul>
-</p>
+@EM{{@HI{{na}}}} can indicate emotion. This usage is employed mostly by men.
+The particle may be lengthened to @EM{{@HI{{naa}}}}.
 
-@BGRND{{}}
-<p>
-Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
-<ul>
-<li> softens the effect of an assertion
-<li> softens a request or a command
-</ul>
-</p>
-
-@BGRNDEND{{}}
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kireina@KJ{{star}}da@EM{{naa}}.}}
@@ -61,16 +41,27 @@ Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
       What a beautiful star!
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{na}}}} can ask for agreement. This usage is employed by men.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{car}}ha@KJ{{new^car}}da yo@EM{{na}}.}}
+      @HI{{ano@KJ{{car}}ha@KJ{{new^car}}dayo@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       That's a new car I bet.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{na}}}} can indicate <a href="grammar-verb-use-of-imperative-prohibitive.html">prohibition</a>.
+This usage is employed by men.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{mouano@KT{{ba-}}ni@KJ{{going}}@EM{{na}}.}}
@@ -79,7 +70,12 @@ Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
       Don't go to that bar again.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{na}}}} softens an assertion.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono@KJ{{reflect^brush-stroke}}hayokunakatta@EM{{na}}.}}
@@ -88,25 +84,33 @@ Some uses of @EM{{@HI{{na}}}} can be used by either men or women:
       That film wasn't very good.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{na}}}} softens a request or a command.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{turn*into^rice*field}}made@KJ{{going}}ttekudasai@EM{{na}}.}}
+      @HI{{@FG{{@KJ{{turn*into^rice*field}}:narita}}made@KJ{{going}}ttekudasai@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      Narita ariport, if you please. <em>(used by a woman)</em>
+      Narita airport, if you please. <em>(used by a woman)</em>
   </td> </tr>
 </table>
-<li>
+<br/>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{bright^day^invariably}}zu@KJ{{come}}ru@EM{{na}}.}}
+      @HI{{@KJ{{bright^day^invariably}}zu@KJ{{come}}i@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Be sure to come tomorrow. <em>(used by a man)</em>
   </td> </tr>
 </table>
-</ol>
+
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
