@@ -75,8 +75,6 @@ starts or the place from which something begins.
 @EM{{@HI{{kara}}}} can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
 to mean that an action immediately follows the end of a previous action; the meaning here may be "after" or "since".
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{mountain^rice*field}}sanga@KJ{{large^study}}wo@KJ{{graduate^business}}shite@EM{{kara}}
@@ -86,17 +84,20 @@ to mean that an action immediately follows the end of a previous action; the mea
       Five years have passed since Yamada graduated from university.
   </td> </tr>
 </table>
-<li>
+</p>
+<p>
+
+@Vte{{}}@EM{{@HI{{kara}}}} can also indicate the passage of time.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{bright^day}}no@KJ{{evening}},@KJ{{eat^matter}}woshite@EM{{kara}}@KJ{{reflect^brush-stroke}}wo
+      @HI{{@KJ{{bright^day}}no@KJ{{night}},@KJ{{eat^matter}}woshite@EM{{kara}}@KJ{{reflect^brush-stroke}}wo
       @KJ{{see}}masenka.}}
   </td> </tr>
   <tr class="en"> <td>
       How about a seeing a film after dinner tomorrow evening?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -135,7 +136,7 @@ discerned then @HI{{de}} is preferred.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{busy}}shikatta@EM{{kara}}@KJ{{private}}tachiha@KJ{{public^park}}heikimasendeshita.}}
+      @HI{{@KJ{{busy}}shikatta@EM{{kara}}@KJ{{private}}tachiha@KJ{{public^park}}he@KJ{{going}}imasendeshita.}}
   </td> </tr>
   <tr class="en"> <td>
       We didn't go to the park yesterday because we were too busy.

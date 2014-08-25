@@ -33,32 +33,14 @@ sentence patterns above, it means a specific point in time during the course of 
 
 @BGRND{{}}
 <p>
-In @Vru{{}} @EM{{@HI{{tokoro}}}} the meaning is that the action is about to start.
-</p>
+In @Vru{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action is about to start.
 
-@BGRND{{}}
-<p>
-In @Vte{{}} @HI{{iru @EM{{tokoro}}}} the meaning is that the action is happening now.
-</p>
-
-@BGRND{{}}
-<p>
-In @Vte{{}} @EM{{@HI{{tokoro}}}} the meaning is that the action has just been completed. It can also indicate
-the conclusion of a ceratin action.
-
-</p>
-@BGRNDEND{{}}
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    A: @HI{{@KJ{{daytime}}go@KJ{{meal}}ha mou @KJ{{eat}}mashitaka.}}
+    A: @HI{{@KJ{{daytime}}go@KJ{{meal}}hamou@KJ{{eat}}mashitaka.}}
   </td> </tr>
   <tr class="jp"> <td>
-    B: @HI{{iie, korekara @KJ{{eat}}beru @EM{{tokoro}}desu.}}
+    B: @HI{{iie,korekara@KJ{{eat}}beru@EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     A: Have you had lunch yet?
@@ -67,13 +49,18 @@ the conclusion of a ceratin action.
     B: No, I'm just about to have it now.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+In @Vte{{}}@HI{{iru@EM{{tokoro}}}} the meaning is that the action is happening now.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    A: @HI{{@KJ{{happenstance^hinder}}no @KJ{{meadow^cause}}ga wakarimashitaka.}}
+    A: @HI{{@KJ{{happenstance^hinder}}no@KJ{{meadow^cause}}gawakarimashitaka.}}
   </td> </tr>
   <tr class="jp"> <td>
-    B: @HI{{iie, @KJ{{now tune}}bete iru @EM{{tokoro}}desu.}}
+    B: @HI{{iie,@KJ{{now^tune}}beteiru@EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     A: Do you know what caused the breakdown?
@@ -82,16 +69,24 @@ the conclusion of a ceratin action.
     B: No, We are investigating it at the moment.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+In @Vta{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action has just been completed.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{tatta@KJ{{now}} @KT{{basu}}ga @KJ{{exit}}ta @EM{{tokoro}}desu.}}
+    @HI{{tatta@KJ{{now}}@KT{{basu}}ga@KJ{{exit}}ta@EM{{tokoro}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     The bus left just now.
   </td> </tr>
 </table>
-<li>
+</p>
+<p>
+@Vta{{}}@EM{{@HI{{tokoro}}}} can also indicate the conclusion of a certain action.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{depa-to}}ni@KJ{{question}}i@KJ{{fit}}wasetemita@EM{{tokoro}},sono@KJ{{goods^thing}}ha
@@ -101,8 +96,9 @@ the conclusion of a ceratin action.
     When I inquired at the department store, I found that the item was sold out.
   </td> </tr>
 </table>
-</ol>
+</p>
 
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

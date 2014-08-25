@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{ha}} ... 
+<li> @N{{}}@EM{{@HI{{wo}}}} ... 
 </ol>
 
 <h2> Definition </h2>
@@ -71,7 +71,7 @@ With @HI{{suru}}, @EM{{@HI{{wo}}}} indicates a specific occupation or position.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^book}}sannoo@KJ{{father}}sanwa @KJ{{doctor^someone}}@EM{{wo}}shiteiru.}}
+      @HI{{@KJ{{mountain^book}}san'noo@KJ{{father}}sanwa @KJ{{doctor^someone}}@EM{{wo}}shiteiru.}}
   </td> </tr>
   <tr class="en"> <td>
       Yamamoto's father is a doctor.
@@ -160,7 +160,7 @@ distinct from the @EM{{@HI{{wo}}}} that is a direct object marker.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 72).
+<li> @REF{{AAP}}. (p. 72).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p 347).
 <li> @REF{{DOBJG}}. (p 351).

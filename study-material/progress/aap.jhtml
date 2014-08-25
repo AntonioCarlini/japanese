@@ -91,7 +91,7 @@
 <tr>
   <td class=""> 15 </td>
   <td class=""> <a href="grammar-particle-kara.html">@HI{{kara}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr> 
 <tr>
   <td class=""> 16 </td>
@@ -101,12 +101,12 @@
 <tr>
   <td class=""> 17 </td>
   <td class=""> <a href="grammar-particle-no.html">@HI{{no}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 18 </td>
   <td class=""> <a href="grammar-particle-wo.html">@HI{{wo}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 19 </td>
@@ -161,7 +161,7 @@
 <tr>
   <td class=""> 29 </td>
   <td class=""> <a href="grammar-tokoro-de.html">@HI{{tokorode}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 30 </td>
@@ -181,7 +181,7 @@
 <tr>
   <td class=""> 33 </td>
   <td class=""> <a href="grammar-tokoro-ga.html">@HI{{tokoroga}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 34 </td>
@@ -206,7 +206,7 @@
 <tr>
   <td class=""> 38 </td>
   <td class=""> <a href="grammar-tokoro.html">@HI{{tokoro}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class=""> 39 </td>

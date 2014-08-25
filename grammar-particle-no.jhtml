@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}} @EM{{@HI{{no}}}} @N2{{}}
-<li> @Splain{{}} @EM{{@HI{{no}}}} ...
-<li> @S{{}} @EM{{@HI{{no}}}}.
+<li> @N1{{}}@EM{{@HI{{no}}}} @N2{{}}
+<li> @Splain{{}}@EM{{@HI{{no}}}} ...
+<li> @S{{}}@EM{{@HI{{no}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -28,10 +28,11 @@
 @BGRND{{}}
 <p>
 <a name="modifier">@EM{{@HI{{no}}}}</a> can be used between two nouns to indicate possession.
+If the context is understood, the second noun can be omitted.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{koreha@KJ{{tall^tree}}@EM{{no}}@KJ{{umbrella}}desu.}}
+      @HI{{koreha@FG{{@KJ{{tall^tree}}:tagaki}}san@EM{{no}}@KJ{{umbrella}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       This is Takagi's umbrella.
@@ -74,7 +75,7 @@ second in terms of kind or category.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kochiraga@KJ{{assistant^mountain}}sannoo@KJ{{elder*sister}}sann@EM{{no}}@KJ{{thousand^incense^child}}sandesu.}}
+      @HI{{kochiraga@FG{{@KJ{{assistant^mountain}}:sayama}}san'noo@KJ{{elder*sister}}sann@EM{{no}}@FG{{@KJ{{thousand^incense^child}}:chikako}}sandesu.}}
   </td> </tr>
   <tr class="en"> <td>
       This is Chikako, Sayama's elder sister.
@@ -158,7 +159,7 @@ question marker in colloquial sentences.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used as a sentence ending particle to soften a sentence.
+@EM{{@HI{{no}}}} can be used as a sentence ending particle to soften a sentence. This is usually used by women.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
