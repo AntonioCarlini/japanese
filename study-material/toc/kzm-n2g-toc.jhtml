@@ -55,6 +55,8 @@ div.main {
 <h3>1 @KJ{{chapter}}</h3>
 
 <ol>
+<li> <a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
+<li> <a href="grammar-sai.html#nisaishite">@HI{{ni@FG{{@KJ{{occasion}}:sai}}saishite}}</a>, @HI{{niatatte}}
 </ol>
 
 </div>

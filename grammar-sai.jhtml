@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{occasion}}:sai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sai}}" grammar="@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})"}}
+@GRMIDX{{index="@HI{{nisaishite}}" grammar="@HI{{ni}}@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}" anchor="nisaishite"}}
+
+<body>
+
+<h1>@FG{{@KJ{{occasion}}:sai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
+<li> @N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
+<li> @N{{}}@EM{{@HI{{ni}}@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}
+<li> @HI{{kono}}/@HI{{sono}}/@HI{{ano}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@FG{{@KJ{{occasion}}:sai}}}} is used to denote a special occasion when someone does something.
+It cannot be used if the occasion is not in some way special or significant.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{detailed}}@HI{{shii}}:kuwashii}}kotoha@KJ{{eight^month}}ni@FG{{@KJ{{above^capital}}:joukyou}}suru@EM{{@FG{{@KJ{{occasion}}:sai}}ni}},o@KJ{{tale}}shi@KJ{{doth}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will tell you the details when I come to Tokyo in August.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If a verb in the past preceded @EM{{@FG{{@KJ{{occasion}}:sai}}}} then that indicates completion ofthe main clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{neck^inter-}}:shushou}}ha@KT{{samitto}}@FG{{@KJ{{meeting^discuss}}:kaidann}}ni@KJ{{exit^seat}}shita
+      @EM{{@FG{{@KJ{{occasion}}:sai}}ni}}@FG{{@KJ{{country^occasion^income^branch}}:kokusaishuushi}}ni@KJ{{connection}}suru@KJ{{day^book^side}}no@KJ{{stand*up^location}}wo@KJ{{rumor/explanation^bright}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When the premier attended the summit meeting, he explained Japanese views on the balance of international payments.
+  </td> </tr>
+</table>
+</p>
+<p>
+A non-past verb indicates that the main clause is not complete.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{large^heights}}:oosaka}}ni@FG{{@KJ{{revolve^diligence}}:tenkinn}}suru@EM{{@FG{{@KJ{{occasion}}:sai}}ni}},@FG{{@KJ{{wife^child}}:saishi}}ha@KJ{{east^capital}}ni@KJ{{remainder}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I transferred to Osaka, I left my wife and children behind in Tokyo.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the optional particle @HI{{ni}} is dropped, the focus shifts from the event to the main clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{homecoming^country}}no@EM{{@FG{{@KJ{{occasion}}:sai}}}}@KT{{hosutofuxamuri-}}noo@KJ{{father}}sangakureta@FG{{@KJ{{arm^time^plot}}:udetokei}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is the watch that my host family father gave me when I left.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@FG{{@KJ{{occasion}}:sai}}@HI{{ni}}}} is a formal expression that is usually used with Sino-Japanese words or with an honorific verb. In the example below
+@EM{{@FG{{@KJ{{occasion}}:sai}}}} cannot be used in place of @EM{{@KJ{{time}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{detailed}}@HI{{shii}}:kuwashii}}kotoha@KJ{{eight^month}}ni@KJ{{come}}ru@EM{{@KJ{{time}}}}ni@KJ{{tale}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will tell you the details when I come in August.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nisaishite">@N{{}}@HI{{ni}}@EM{{@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}</a> is more formal than @N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}@HI{{ni}}}} and so it should be used
+only with a very special occasion, such as a wedding.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private^accomplished}}no@KJ{{tie^marriage}}@EM{{ni@FG{{@KJ{{occasion}}:sai}}}}@HI{{shite}}@FG{{@KJ{{overdo^part}}:kabun}}noo@KJ{{celebrate}}i@KJ{{thing}}
+      wo@KJ{{place*on*the*head}}i@FG{{@KJ{{fear^shrink}}:kyoushuku}}shiteorimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I feel much obliged to have received such an unmerited gift on the occasion of our wedding.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 8).
+<li> @REF{{DOIJG}}. (p. 369).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
