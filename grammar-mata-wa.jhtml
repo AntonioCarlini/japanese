@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mataha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{totann}}" grammar="@HI{{mataha}}(@HI{{ni}})"}}
+
+<body>
+
+<h1>@HI{{mataha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}(@HI{{ka}})@EM{{@HI{{mataha}}}}@N2{{}}
+<li> @S1{{}}@HI{{ka}}@EM{{@HI{{mataha}}}}@S2{{}}
+</ol>
+
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{mataha}}}} is a conjunction that connects two choices or options.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{daytime}}ha@KJ{{attend^matter}}arukara,@FG{{@KJ{{night^interval}}:yakkann}}@KT{{ko-su}}wo@KJ{{take}}ruka,@EM{{mataha}}@FG{{@KJ{{house^courtyard^teach^expert}}:yateikyoushi}}@FG{{@KJ{{grope}}:saga}}sushikanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have to work during the day so I have no choice but to take a night course or to look for a tutor.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @EM{{@HI{{mataha}}}} connects two noun phrases, @HI{{ka}} after the first noun phrase is optional.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{black}}(ka)),@EM{{mataha}}@KJ{{blue}}no@KT{{bo-rupenn}}wo@KJ{{use}}tte@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please use a black or blue ball-point pen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 171).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

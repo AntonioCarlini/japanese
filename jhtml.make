@@ -119,6 +119,7 @@ JHTML_SRCS += grammar-masen-ka.jhtml
 JHTML_SRCS += grammar-mashouka.jhtml
 JHTML_SRCS += grammar-masu-ni.jhtml
 JHTML_SRCS += grammar-masu.jhtml
+JHTML_SRCS += grammar-mata-wa.jhtml
 JHTML_SRCS += grammar-me.jhtml
 JHTML_SRCS += grammar-mieru.jhtml
 JHTML_SRCS += grammar-mitai.jhtml
