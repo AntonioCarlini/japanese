@@ -155,7 +155,7 @@ def processing()
         case element
         when "index"      then index = process_at_commands(value)
         when "grammar"    then grammar = process_at_commands(value)
-        when "anchor"     then anchor = process_at_value(value)
+        when "anchor"     then anchor = process_at_commands(value)
         else raise("Unkown element [#{element}] in [#{contents}]")
         end
       }
