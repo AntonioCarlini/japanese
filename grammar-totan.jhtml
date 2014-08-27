@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{route^edge}}:totann}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{totann}}" grammar="@FG{{@KJ{{route^edge}}:totann}}(@HI{{ni}})"}}
+
+<body>
+
+<h1>@FG{{@KJ{{route^edge}}:totann}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}(@HI{{ni}})
+<li> @Vta{{}}@HI{{ra}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}@HI{{ni}}
+</ol>
+
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@FG{{@KJ{{route^edge}}:totann}}}} is a noun or adverb that states that something happened the moment that something else was done or took place.
+It can only be used with actions and focusses on its suddenness.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^life}}no@KJ{{face}}wo@KJ{{see}}ta@EM{{@FG{{@KJ{{route^edge}}:totann}}}}(ni)@FG{{@KJ{{inn^topic}}:shukudai}}gaattakotowo@KJ{{think}}i@KJ{{exit}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The moment I saw my teacher, I remembered that there was a homework assignment.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The verb in the main clause must represent an uncontrollable action.
+However, if the subject of the main clause is a third person, a controllable action is acceptable.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ocean^child}}:youko}}ha@KJ{{before^life}}no@KJ{{face}}wo@KJ{{see}}ta@EM{{@FG{{@KJ{{route^edge}}:totann}}}},@KJ{{stand*up}}chi@KJ{{above}}gatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yoko stood up the moment she saw the teacher.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{sono}} may be used before @EM{{@FG{{@KJ{{route^edge}}:totann}}}}, but @HI{{kono}} and @HI{{ano}} cannot.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{help}}:tasu}}kattato@KJ{{think}}tta. sono@EM{{@FG{{@KJ{{route^edge}}:totann}}}}(ni),@FG{{@KJ{{power}}:chikara}}ga@FG{{@KJ{{slip*out}}:nu}}kete@KJ{{spirit}}wo@KJ{{lose}}tteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I thought I was saved; at that moment my strength was gone and I lost consciousness.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 8).
+<li> @REF{{DOIJG}}. (p. 525).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

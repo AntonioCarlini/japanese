@@ -889,9 +889,9 @@ table.progress td.left {
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{route^edge}}(@HI{{ni}})                                                   </td>
+  <td class="left"> <a href="grammar-totan.html">@FG{{@KJ{{route^edge}}:totan}}(@HI{{ni}})</a>                                  </td>
   <td class=""> DOIJG, p. 525                                                                                                   </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{toutou}}                                                                  </td>

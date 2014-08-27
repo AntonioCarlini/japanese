@@ -313,6 +313,7 @@ JHTML_SRCS += grammar-tokoro.jhtml
 JHTML_SRCS += grammar-toori-ni.jhtml
 JHTML_SRCS += grammar-toshite-wa.jhtml
 JHTML_SRCS += grammar-toshite.jhtml
+JHTML_SRCS += grammar-totan.jhtml
 JHTML_SRCS += grammar-tsuide-ni.jhtml
 JHTML_SRCS += grammar-tsukuru.jhtml
 JHTML_SRCS += grammar-tsumori.jhtml
