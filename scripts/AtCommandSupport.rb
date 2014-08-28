@@ -404,7 +404,7 @@ def transform_ref(text)
   res = ""
   ref = convert_ref(text)
   if ref.nil?()
-    res = "&lt;UNKNOWN REF [#{ident}]&gt;"
+    res = "&lt;UNKNOWN REF [#{text}]&gt;"
   else
     alt = ref.alternate()
     res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
