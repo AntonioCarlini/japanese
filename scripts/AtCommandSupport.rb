@@ -276,6 +276,13 @@ $command_to_op = {
   "BGRNDSTART" => :process_background_start,
   "BGRND" => :process_background_insert,
   "BGRNDEND" => :process_background_end,
+  "SHIME" => :process_empty_code,
+  "JTILDE" => :process_empty_code,
+  "JDOTS3" => :process_empty_code,
+  "JDOTS6" => :process_empty_code,
+  "KA" => :process_empty_code,    # small ke
+  "KOME" => :process_empty_code,
+  "JSTAR" => :process_empty_code,
 }
 
 def process_at_commands(text)
@@ -397,7 +404,7 @@ def transform_ref(text)
   res = ""
   ref = convert_ref(text)
   if ref.nil?()
-    res = "&lt;UNKNOWN REF [#{ident}]&gt;"
+    res = "&lt;UNKNOWN REF [#{text}]&gt;"
   else
     alt = ref.alternate()
     res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
@@ -585,6 +592,13 @@ def process_empty_code_helper(code)
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
         when "Anastem"     then mark_as_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
         when "MIDDOT"      then "#{jp_unicode(0x30fb)}"                                         # katakana mid-dot
+        when "SHIME"       then "#{jp_unicode(0x3006)}"                                         # "shime"
+        when "JTILDE"      then "#{jp_unicode(0x301c)}"                                         # ~ (Japanese)
+        when "JDOTS3"      then "#{jp_unicode(0x2026)}"                                         # ...
+        when "JDOTS6"      then "#{jp_unicode(0x2026)}#{jp_unicode(0x2026)}"                    # ... (twice)
+        when "KA"          then "#{jp_unicode(0x30f6)}"                                         # small ke
+        when "KOME"        then "#{jp_unicode(0x203b)}"                                         # "rice symbol"
+        when "JSTAR"       then "#{jp_unicode(0xff0a)}"                                         # 5 point line-star
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
