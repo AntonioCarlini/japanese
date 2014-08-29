@@ -15,7 +15,7 @@ def kanji_keyword(k)
 end
 
 # read and process the kanji datafile 
-kanji_data_file = "kanji.data" # Hard code this for now
+kanji_data_file = "data/kanji.data" # Hard code this for now
 kanji_data = DataKanji.create_from_file(kanji_data_file)
 kanji_data.kanji().each() {
   |k|

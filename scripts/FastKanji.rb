@@ -2637,6 +2637,7 @@ class KD
     "mochi*rice*cake" => Kanji.new(2802, 39173, ["HEI","HYOU"], ["mochi","mochii"], [""], ["mochi rice cake"], 8, 0),
     "vehicle" => Kanji.new(2803, 39381, ["KA","GA"], ["kago","ga.suru","shinogu","noru"], [""], ["vehicle","palanquin","litter","hitch up an animal"], 9, 0),
     "dappled*grey*horse" => Kanji.new(2804, 39464, ["TAN","DAN","TA","DA","TEN"], [""], [""], ["dappled grey horse"], 0, 0),
+    "rush" => Kanji.new(2805, 39347, ["CHI","JI"], ["ha.seru"], [""], ["rush","run","gallop","sail","drive (a wagon)","win (fame)","despatch"], 9, 0),
     "get*used*to" => Kanji.new(2807, 39348, ["JUN","SHYUN","KUN"], ["na.reru","na.rasu","shitaga.u"], [""], ["get used to","experienced","tamed"], 9, 0),
     "refutation" => Kanji.new(2808, 39361, ["HAKU","BAKU"], ["buchi","maji.ru","madara"], [""], ["refutation","contradiction"], 0, 0),
     "donkey" => Kanji.new(2810, 39522, ["RO","RYO"], ["usagiuma"], [""], ["donkey"], 0, 0),
