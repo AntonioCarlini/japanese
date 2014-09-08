@@ -11,6 +11,7 @@ JHTML_SRCS += jpod-lower-intermediate.jhtml
 JHTML_SRCS += jpod-miscellaneous.jhtml
 JHTML_SRCS += jpod-upper-intermediate.jhtml
 JHTML_SRCS += jpod.jhtml
+JHTML_SRCS += kic.jhtml
 JHTML_SRCS += kzm-n2g.jhtml
 JHTML_SRCS += kzm-n3g.jhtml
 JHTML_SRCS += mnn-int.jhtml
