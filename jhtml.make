@@ -187,6 +187,7 @@ JHTML_SRCS += grammar-particle-kanarazushimo.jhtml
 JHTML_SRCS += grammar-particle-kara.jhtml
 JHTML_SRCS += grammar-particle-kashira.jhtml
 JHTML_SRCS += grammar-particle-keredomo.jhtml
+JHTML_SRCS += grammar-particle-kiri.jhtml
 JHTML_SRCS += grammar-particle-koto.jhtml
 JHTML_SRCS += grammar-particle-kurai.jhtml
 JHTML_SRCS += grammar-particle-kuse-ni.jhtml

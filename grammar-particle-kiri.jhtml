@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kiri}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kiri}}" grammar="@HI{{kiri}}"}}
+
+<body>
+
+<h1>@HI{{kiri}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@EM{{@HI{{kiri}}}}
+<li> @N{{}}@EM{{@HI{{kiri}}}}
+<li> @HI{{kore/sore/are}}@EM{{@HI{{kiri}}}}
+<li> <em>counter</em>@EM{{@HI{{kiri}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{kiri}}}} when used as a conjunction means that since something happened, nothing has changed.
+When used as a particle, @EM{{@HI{{kiri}}}} indicates a strict limitation of a number or quantity.
+</p>
+
+<p>
+@EM{{@HI{{kkiri}}}} is a more colloquial form that can also be more emphatic.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+Used after a noun or a verb, @EM{{@HI{{kiri}}}} indicates a "cutting off" point or limit and may be translated as "only".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{anoojiisanha,1@KJ{{person}}@EM{{kiri}}de@KJ{{large}}kina@KJ{{house}}ni@KJ{{dwell}}ndeiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That old man lives all by himself in a big house.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{kiri}}}} emphasises a negative meaning and may be translated as "only".
+In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{dake}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ato@FG{{@KJ{{departure^car}}:hassha}}made2@KJ{{part}}@EM{{kiri}}dakara,@FG{{@KJ{{mountain^book}}:yamamoto}}sanhatotemo
+      @FG{{@KJ{{interval}}:ma}}ni@FG{{@KJ{{fit}}:a}}wanaidarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The train leaves in just two minutes, so it's very unlikely that Yamamoto will make it in time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{kiri}}}} can indicate the most recent incidence of something. In this case it can be translated as "the last".
+
+
+<table class="sentence">
+      @HI{{@KT{{arann}}sankaraha@KJ{{gone^year}}@KT{{kurisumasu}}@MIDDOT{{}}@KT{{ka-do}}ga@KJ{{come}}ta@EM{{kiri}}de,sonoato@KJ{{hand^paper}}ga@KJ{{come}}masenn.}}
+  <tr class="jp"> <td>
+  </td> </tr>
+  <tr class="en"> <td>
+      The last I heard from Alan was a Christmas card last year. Since then no letters have come.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{kore/sore/are}}@EM{{@HI{{kiri}}}}  is used to mean "only this/that much" or "ever since this/that time".
+
+<table class="sentence">
+      @HI{{@KJ{{he}}karahaare@EM{{@HI{{kkiri}}}}@KJ{{what}}mo@FG{{@KJ{{take*along^entwine}}:renraku}}ganaino?}}
+  <tr class="jp"> <td>
+  </td> </tr>
+  <tr class="en"> <td>
+      You haven't heard anything from him since then?
+  </td> </tr>
+</table>
+</p>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 87).
+<li> @REF{{DOAJG}}. (p. 219).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
