@@ -175,8 +175,8 @@
 </tr>
 <tr>
   <td class=""> 32 </td>
-  <td class=""> @HI{{monono}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono-no.html">@HI{{monono}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 33 </td>
@@ -210,8 +210,8 @@
 </tr>
 <tr>
   <td class=""> 39 </td>
-  <td class=""> @HI{{monowo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 40 </td>

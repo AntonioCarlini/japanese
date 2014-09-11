@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{monono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{monono}}" grammar="@HI{{monono}}"}}
+
+<body>
+
+<h1>@HI{{monono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{monono}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{monono}}}} is a conjunction used to mean "but" or "although".
+It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{sono@KJ{{country}}ha@FG{{@KJ{{single^stand*up}}:dokuritsu}}shita@EM{{monono}},mada@FG{{@KJ{{sutra^finish^bull's*eye}}:keizaiteki}}na@KJ{{question^topic}}gatakusan'aru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although the country has become independent, it still has many economic problems.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{amerika}}he@FG{{@KJ{{detain^study}}:ryuugaku}}surukotoni@FG{{@KJ{{decide}}:ki}}meta@EM{{monono}},@FG{{@KJ{{exhort^study^gold}}:shougakukinn}}wo@KJ{{take}}runogamuzukashii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although I've decided to study in the US, it's difficult to get a scholarship.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 95).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

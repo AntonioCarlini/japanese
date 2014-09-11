@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{monowo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{monowo}}" grammar="@HI{{monowo}}"}}
+
+<body>
+
+<h1>@HI{{monowo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{monowo}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{monowo}}}} is a particle that indicates resentment or complaint and is usually to be found at the end of a sentence
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{know}}rase@FG{{@KJ{{below}}:kuda}}sareba,@FG{{@KJ{{ill^Inst.}}:byouinn}}heo@FG{{@KJ{{see^dance}}:mima}}ini@FG{{@KJ{{nonplussed}}:mai}}rimashita@EM{{monowo}}@JDOTS6{{}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If only you had told me, I would have come to see you at the hospital.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{watashinidekirukotodeshitara,o@FG{{@KJ{{hand^transmit}}:tetsuda}}ishimashita@EM{{monowo}}@JDOTS6{{}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If there had been something I could have done, I would have helped out.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 106).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
