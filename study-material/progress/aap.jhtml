@@ -150,8 +150,8 @@
 </tr>
 <tr>
   <td class=""> 27 </td>
-  <td class=""> @HI{{monode}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono-de.html">@HI{{monode}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 28 </td>
