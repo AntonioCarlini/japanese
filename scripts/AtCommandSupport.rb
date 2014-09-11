@@ -283,6 +283,7 @@ $command_to_op = {
   "KA" => :process_empty_code,    # small ke
   "KOME" => :process_empty_code,
   "JSTAR" => :process_empty_code,
+  "TICK" => :process_empty_code,
 }
 
 def process_at_commands(text)
@@ -599,6 +600,7 @@ def process_empty_code_helper(code)
         when "KA"          then "#{jp_unicode(0x30f6)}"                                         # small ke
         when "KOME"        then "#{jp_unicode(0x203b)}"                                         # "rice symbol"
         when "JSTAR"       then "#{jp_unicode(0xff0a)}"                                         # 5 point line-star
+        when "TICK"        then "#{jp_unicode(0x2713)}"                                         # tick symbol (check mark)
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
