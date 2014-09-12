@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dakarato@KJ{{say}}tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toitteimashita}}" grammar="@HI{{dakarato@KJ{{say}}tte}}"}}
+
+<body>
+
+<h1>@HI{{dakarato@KJ{{say}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}.(@S2{{}}@JDOTS3{{}})@HI{{@EM{{dakarato@KJ{{say}}tte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{dakarato@KJ{{say}}tte}}}} is a conjunction that indicates that, while the speaker accepts the statements in the
+preceding sentences, he argues that the normally expected conclusions from those assertions do not necessarily follow
+in this particular case.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{fish}}ha@FG{{@KJ{{healthy^ease}}:kenkou}}niii.shikashi,@EM{{dakarato@KJ{{say}}tte}}
+      @KJ{{fish}}bakari@KJ{{eat}}beteitara,@KJ{{body}}ni@KJ{{bad}}ihazudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Eating fish is good for you. But if you ate only fish, it would be bad for you.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{dakarato@KJ{{say}}tte}}}} very often occurs with <a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a> or
+<a href="grammar-to-wa-kagiranai.html">@HI{{tohakagiranai}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KJ{{every^day}}@FG{{@KJ{{carry^move}}:undou}}woshiteiru.@KJ{{eat}}be@KJ{{thing}}nimo
+      @FG{{@KJ{{pour^idea}}:chuui}}shiteiru.@EM{{dakarato@KJ{{say}}tte}}@FG{{@KJ{{long^life}}:naga}}ikisuru
+      @FG{{@KJ{{protect^evidence}}:hoshou}}hanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I do exercise every day. I also pay attention to what I eat. But it doesn't guarantee that I will live long.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 21).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

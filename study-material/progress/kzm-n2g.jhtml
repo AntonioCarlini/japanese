@@ -25,11 +25,11 @@ td#heading {
        @KJ{{No.}}1@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 1 </a> </td> </tr>
 <tr>
   <td class=""> 1 @KJ{{chapter}} </td>
-  <td class=""> </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 2 @KJ{{chapter}} </td>
-  <td class=""> </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> &radic; </td> <td class="ok"> &radic; </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 3 @KJ{{chapter}} </td>
