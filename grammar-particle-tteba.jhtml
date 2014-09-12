@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tteba}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tteba}}" grammar="@HI{{tteba}}"}}
+
+<body>
+
+<h1>@HI{{tteba}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S{{}}@EM{{@HI{{tteba}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tteba}}}} can indicate annoyance with another person.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}madenidekinakereba@FG{{@KJ{{quandary}}:koma}}ru@EM{{tteba}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm telling you, there's going to be trouble if it's not done by tomorrow.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tteba}}}} can indicate an indirect command or prohibition.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{son'nakotowoshitara,dameda@EM{{tteba}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wouldn't do that if I were you.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{konpyu-ta-}}wo@KJ{{use}}wanakereba,dekinai@EM{{tteba}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You won't get anywhere unless you use the computer, I'd say.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 140).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

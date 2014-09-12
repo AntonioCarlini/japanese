@@ -325,13 +325,13 @@
 </tr>
 <tr>
   <td class=""> 62 </td>
-  <td class=""> @HI{{kke}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-kke.html">@HI{{kke}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 63 </td>
-  <td class=""> @HI{{tteba}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-tteba.html">@HI{{tteba}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 64 </td>
