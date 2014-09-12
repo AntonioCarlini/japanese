@@ -31,7 +31,7 @@
 <tr>
   <td class="">  3 </td>
   <td class=""> <a href="grammar-particle-mo.html">@HI{{mo}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="">  4 </td>
@@ -126,7 +126,7 @@
 <tr>
   <td class=""> 22 </td>
   <td class=""> <a href="grammar-particle-dake.html">@HI{{dake}}</a> </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 23 </td>
