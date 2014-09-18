@@ -225,8 +225,8 @@
 </tr>
 <tr>
   <td class=""> 42 </td>
-  <td class=""> @HI{{shi}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-plain-form-shi.html">@HI{{shi}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 43 </td>
