@@ -37,6 +37,7 @@ JHTML_SRCS += grammar-counter-shukan.jhtml
 JHTML_SRCS += grammar-counter-tsu.jhtml
 JHTML_SRCS += grammar-counters.jhtml
 JHTML_SRCS += grammar-daga.jhtml
+JHTML_SRCS += grammar-dakara-to-itte.jhtml
 JHTML_SRCS += grammar-dake-de-wa-naku-mo.jhtml
 JHTML_SRCS += grammar-darake.jhtml
 JHTML_SRCS += grammar-dasu.jhtml

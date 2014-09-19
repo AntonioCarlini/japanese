@@ -55,9 +55,43 @@ div.main {
 <h3>1 @KJ{{chapter}}</h3>
 
 <ol>
-<li> <a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
-<li> <a href="grammar-sai.html#nisaishite">@HI{{ni@FG{{@KJ{{occasion}}:sai}}saishite}}</a>, @HI{{niatatte}}
-<li> <a href="grammar-totan.html">@FG{{@KJ{{route^edge}}:totann}}(@HI{{ni}})</a>
+<li> <a href="grammar-sai.html">~@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
+<li> <a href="grammar-sai.html#nisaishite">~@HI{{ni@FG{{@KJ{{occasion}}:sai}}saishite}}</a>, ~@HI{{niatatte}}
+<li> <a href="grammar-totan.html">~@FG{{@KJ{{route^edge}}:totann}}(@HI{{ni}})</a>
+<li> ~(@HI{{ka}})@HI{{to@KJ{{think}}uto}}, ~(@HI{{ka}})@HI{{to@KJ{{think}}ttara}}
+<li> ~@HI{{ka}}~@HI{{naikanouchini}} 
+</ol>
+
+<h3>2 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@FG{{@KJ{{utmost^in}}:saichuu}}@HI{{da}}
+<li> ~@HI{{uchini}}
+<li> ~@HI{{bakarida}}, ~@FG{{@KJ{{one^direction}}:ippou}}@HI{{da}}
+<li> ~@Vyou{{}}@HI{{utoshiteiru}}
+<li> ~@HI{{tsutsuaru}}
+<li> ~@HI{{tsutsu}}
+</ol>
+
+<h3>3 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@Vte{{}}@HI{{hajimete}}
+<li> ~@KJ{{above}}(@HI{{de}})
+<li> ~@FG{{@KJ{{next^No.}}:shidai}}
+<li> ~@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}, ~@Vte{{}}@HI{{konokata}}
+<li> ~@Vte{{}}@HI{{karadenaito}}, ~@Vte{{}}@HI{{karadenakereba}}
+</ol>
+
+<h3>4 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{wohajime}}(@HI{{toshite}})
+<li> ~@HI{{karashite}}
+<li> ~@HI{{niwatatte}}
+<li> ~@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}
+<li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
+<li> ~@HI{{dake}}
 </ol>
 
 </div>
