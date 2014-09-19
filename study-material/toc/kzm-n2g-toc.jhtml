@@ -94,6 +94,250 @@ div.main {
 <li> ~@HI{{dake}}
 </ol>
 
+<h3>5 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}ri}}
+<li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}(@HI{{ha}})
+<li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{rideha}}
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}
+</ol>
+
+<h3>6 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}
+<li> ~@HI{{nominarazu}}
+<li> ~@HI{{bakarika}}
+<li> ~@HI{{hamotoyori}}
+<li> ~@KJ{{above}}(@HI{{ni}})
+</ol>
+
+<h3>7 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{ni@FG{{@KJ{{connection}}:kann}}shite}}
+<li> ~@HI{{womegutte}}
+<li> ~@HI{{nikaketeha}}
+<li> ~@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}
+<li> ~@HI{{nikotaete}}
+</ol>
+
+<h3>8 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{womotoni}}(@HI{{shite}})
+<li> ~@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}
+<li> ~@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}
+<li> ~@HI{{nomotode}}, ~@HI{{nomotoni}}
+<li> ~@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}
+</ol>
+
+<h3>9 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{nitsurete}}, ~@HI{{nishitagatte}}
+<li> ~@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}, ~@HI{{totomoni}}
+<li> ~@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}
+<li> ~@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}
+<li> ~@HI{{nitsukete}}
+</ol>
+
+<h3>10 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{yara}}~@HI{{yara}}
+<li> ~@HI{{toiuka}}~@HI{{toiuka}}
+<li> ~@HI{{nishitemo}}~@HI{{nishitemo}}, ~@HI{{nishiru}}~@HI{{nishiru}}, ~@HI{{niseyo}}~@HI{{niseyo}}
+<li> ~@HI{{toitta}}
+</ol>
+
+<h3>11 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
+<li> ~@HI{{nikakawarinaku}}, ~@HI{{nikakawarazu}}
+<li> ~@HI{{mokamawazu}}
+<li> ~@HI{{hatomokaku}}(@HI{{toshite}})
+<li> ~@HI{{hasateoki}}
+</ol>
+
+<h3>12 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{wakeganai}}
+<li> ~@HI{{dokorodehanai}}, ~@HI{{dokoroka}}
+<li> ~@HI{{monoka}}
+<li> ~@HI{{wakedehanai}}, ~@HI{{toiuwakedehanai}}
+<li> ~@HI{{toiumonodehanai}}, ~@HI{{toiumonodemonai}}
+<li> 
+<li> 
+</ol>
+
+<h3>13 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{toha}}
+<li> ~@HI{{toieba}}
+<li> ~@HI{{toiuto}}, ~@HI{{toieba}}, ~@HI{{toittara}}
+<li> ~(@HI{{nokoto}})@HI{{tonaruto}}
+<li> ~@HI{{toittara}}
+</ol>
+
+<h3>14 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{nimokakawarazu}}
+<li> ~@HI{{monono}}, ~@HI{{tohaiumonono}}
+<li> ~@HI{{nagara}}(@HI{{mo}})
+<li> ~@HI{{tsutsu}}(@HI{{mo}})
+<li> ~@HI{{toittemo}}
+<li> ~@HI{{karatoitte}}
+</ol>
+
+<h3>15 @KJ{{chapter}}</h3>
+
+<ol>
+<li> ~@HI{{toshitara}}, ~@HI{{tosureba}}, ~@HI{{tosuruto}}, ~@HI{{tonattara}}, ~@HI{{tonareba}}, ~@HI{{tonaruto}}
+<li> ~@HI{{mononara}}
+<li> ~@Vyou{{}}@HI{{mononara}}
+<li> ~@HI{{naikotoniha}}
+<li> ~@HI{{wo@FG{{@KJ{{slip*out}}:nu}}kinishiteha}}
+<li> ~@HI{{toshitemo}}, ~@HI{{nishitemo}}, ~@HI{{nishiru}}, ~@HI{{niseyo}}
+</ol>
+
+<h3>16 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>17 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>18 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>19 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>20 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>21 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>22 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>23 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>24 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>25 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
+<h3>26 @KJ{{chapter}}</h3>
+
+<ol>
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+<li> 
+</ol>
+
 </div>
 </body>
 </html>

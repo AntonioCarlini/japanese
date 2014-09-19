@@ -24,16 +24,14 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern is used to refer to a few actions amongst many. The tense of the sentence is determined
 by the tense of the end of the sentence. There is no implied ordering in this pattern (unlike,
 for example the use of @Vte{{}} as a conjunction).
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^weekday^day}}ha @KT{{tenisu}}wo shitari, @KJ{{reflect^brush-stroke}}wo @KJ{{see}}tari shimashita.}}
@@ -42,7 +40,9 @@ for example the use of @Vte{{}} as a conjunction).
       Last Sunday I played tennis, saw a film and so on.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kono @KT{{resutorann}}no@KT{{sute-ki}}ha @KJ{{large}}kikattari @KJ{{little}}sakattari shimasu.}}
@@ -51,7 +51,9 @@ for example the use of @Vte{{}} as a conjunction).
       Steaks at this restaurant are sometimes big and sometimes small.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^book}}no@KJ{{before^life}}ha @KJ{{day^book^person}}dattari @KT{{amerika}}@KJ{{person}}dattari
@@ -61,7 +63,51 @@ for example the use of @Vte{{}} as a conjunction).
       Teachers of Japanese are sometimes Japanese and sometimes American.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+This sentence pattern can be used to show that several similar actions are performed.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{noon^in*front^in}}:gozenchuu}}ha@KJ{{Sino-^character}}wo@KJ{{write}}i@EM{{tari}}@KJ{{read}}nn@EM{{dari}}suru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In the morning I read and write kanji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+This pattern can be used to show repetition of contrasting actions.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^week}},@FG{{@KJ{{stocks}}:kabu}}ha@KJ{{above}}gaxtsu@EM{{tari}}@KJ{{below}}gaxtsu@EM{{tari}}shiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      this week shares are going up and down.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+This sentence pattern can be used with the same verb in positive and negative forms to say "sometimes do and sometimes don't".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{father}}ha@KJ{{body}}no@FG{{@KJ{{tune^child}}:choushi}}niyotte,@KT{{gorufu}}ni@KJ{{going}}xtsu@EM{{tari}}@KJ{{going}}kanakaxtsu@EM{{tari}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My father plays golf or not depending on his physical condition.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -69,7 +115,8 @@ for example the use of @Vte{{}} as a conjunction).
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 19).
-<li> @REF{{DOBJG}}. (page 458).
+<li> @REF{{DOBJG}}. (p. 458).
+<li> @REF{{AAP}}. (p. 108).
 </ol>
 
 @include{{"grammar-footer.inc"}}

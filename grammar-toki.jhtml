@@ -24,79 +24,87 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{toki}}}} is a noun that indicates the time when something is or was done. It is often translated
 as "at the time when".
-</p>
 
-<p>
-@Vru{{}}@EM{{@HI{{toki}}}} means that the action in the main clause happens <em>right before</em> that in the
-relative clause.
-</p>
-
-<p>
-@Vta{{}}@EM{{@HI{{toki}}}} means that the action in the main clause happens <em>right after</em> that in the
-relative clause.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beru@EM{{toki}} @KJ{{hand}}wo @KJ{{wash}}u.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I will wash my hands right before I eat my meal.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha go@KJ{{meal}}wo @KJ{{eat}}beta@EM{{toki}} @KJ{{hand}}wo @KJ{{wash}}u.}}      
-  </td> </tr>
-  <tr class="en"> <td>
-      I will wash my hands right after I eat my meal.      
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{hiroshiha @KJ{{test^verification}}no@EM{{toki}} kaze wo hikimashita.}}
+      @HI{{hiroshiha@KJ{{test^verification}}no@EM{{toki}}kazewohikimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Hiroshi caught a cold at exam time.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{teri-}}ha @KT{{ju-su}}ga @KJ{{relax}}i@EM{{toki}}ni takusan @KJ{{buy}}tte oita.}}
+      @HI{{@KT{{teri-}}ha@KT{{ju-su}}ga@KJ{{relax}}i@EM{{toki}}nitakusan @KJ{{buy}}tteoita.}}
   </td> </tr>
   <tr class="en"> <td>
       Terry bought a lot of juice when it was cheap.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@Vru{{}}@EM{{@HI{{toki}}}} means that the action in the relative clause has not yet completed when the main clause happens.
+This can often be translated as <em>right before</em>.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}ru @EM{{toki}}, kabann wo @KJ{{buy}}imashita.}}
+      @HI{{@KJ{{private}}hago@KJ{{meal}}wo@KJ{{eat}}beru@EM{{toki}}@KJ{{hand}}wo@KJ{{wash}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will wash my hands right before I eat my meal.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{country}}he@KJ{{homecoming}}ru@EM{{toki}},kabanwo@KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I bought a bag when I was going back to my country (and I bought it before I finished my journey).
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@Vta{{}}@EM{{@HI{{toki}}}} means that the action in the relative clause has completed when the action in the main clause takes place.
+This can often be translated as <em>right after</em>.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}tta @EM{{toki}}, kabann wo @KJ{{buy}}imashita.}}
+      @HI{{@KJ{{private}}hago@KJ{{meal}}wo@KJ{{eat}}beta@EM{{toki}}@KJ{{hand}}wo@KJ{{wash}}u.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      I will wash my hands right after I eat my meal.      
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{country}}he@KJ{{homecoming}}tta@EM{{toki}},kabanwo@KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I bought a bag when I went back to my country (after my trip had been completed and I had already arrived in my country).
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -113,7 +121,8 @@ A @EM{{@HI{{toki}}}} clause never indicates a condiftion.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @REF{{DOBJG}}. (p 490).
+<li> @REF{{DOBJG}}. (p. 490).
+<li> @REF{{JPOD101-LI-S6-007}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
