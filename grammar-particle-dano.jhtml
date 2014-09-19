@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dano}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dano}}" grammar="@HI{{dano}}"}}
+
+<body>
+
+<h1>@HI{{dano}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{dano}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{dano}}}} is a particle that joins nouns in a non-exhastive list.
+It is a colloquial usage.
+This usage is similar to that of <a href="grammar-particle-yara.html">@HI{{yara}}</a> and <a href="grammar-particle-toka.html">@HI{{toka}}</a>.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{kurisumasu}}niha, @KJ{{friend^accomplished}}kara@KJ{{book}}@EM{{dano}},@KT{{karenda-}}@EM{{dano}},@KT{{chokore-to}}@EM{{dano}}womoraimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At Christmas I received from friends a book, a calendar, some chocolates and other such things.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{dano}}}} is a particle that can be used with a pair of opposite actions or states.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{o-sutoraria}}ha,@KJ{{now^cold}}i@EM{{dano}},@KJ{{sultry}}@EM{{dano}}to@KJ{{say}}u@KJ{{person}}gaite,dochirananokawakarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since some people say Australia is cold now, and some say it's hot, I'm not sure which it is.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 116).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
