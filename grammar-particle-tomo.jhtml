@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomo}}" grammar="@HI{{tomo}}"}}
+
+<body>
+
+<h1>@HI{{tomo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{tomo}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tomo}}}} is used after numbers and counters to mean "both", "all (three)" etc.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{se-ta-}}ha2@FG{{@KJ{{sheet*of...}}:mai}}@EM{{tomo}}}}M@HI{{@KT{{saizu}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Are both of these sweaters mediums?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tomo}}}} is used after the @HI{{ku}} form of an adjective to indicate an approximate maximum or minimum.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{house}}nara,@KJ{{few}}naku@EM{{tomo}}1@KJ{{hundred*million^circle}}hasurudeshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This house would cost at least 100 million yen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tomo}}}} can indicate inclusion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{sa-bisu}}@KJ{{fee}}@EM{{tomo}}@FG{{@KJ{{fit^plot}}:goukei}}1@KJ{{ten*thousand}}5000@KJ{{circle}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The total is &yen;15,000 including the service charge.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+After a verb in the volitional, @EM{{@HI{{tomo}}}} adds emphasis to a supposition.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}ha@KJ{{snow}}ga@KJ{{descend}}rou@EM{{tomo}},@KJ{{going}}kutsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if it should snow tomorrow, I intend to go.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tomo}}}}@HI{{arou}}@N{{}}@HI{{ga}} carries the meaning "of all people/things". 
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{neck^inter-}}:shushou}}@EM{{tomo}}arou@KJ{{person}}ga,son'nakotowoshite
+      @FG{{@KJ{{even^spirit}}:heiki}}datoha@FG{{@KJ{{faith}}:shin}}jirarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      For the prime minister, of all people, to do something like that and be calm about it is unbelievable.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{tomo}}}} after two words of opposite meaning and followed by @HI{{@KJ{{say}}enai}} it means "can't say X or Y".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{price^grade}}:nedann}}ha,@KJ{{tall}}i@EM{{tomo}}@KJ{{relax}}i@EM{{tomo}}@KJ{{say}}emansen'ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is hard to say whether the price is high or low.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+At the end of a sentence, @EM{{@HI{{tomo}}}} adds decisiveness to a positive statement.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@KJ{{bright^day}}no@FG{{@KJ{{test^fit}}:shiai}}ni@KJ{{going}}kimasuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@KJ{{going}}ku@EM{{tomo}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Are you going to the game tomorrow.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: I certainly am.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 111).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

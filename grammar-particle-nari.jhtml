@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nari}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nari}}" grammar="@HI{{nari}}"}}
+
+<body>
+
+<h1>@HI{{nari}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{nari}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{nari}}}} is a particle that indicates a choice ("whether or not").
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day^going}}ku@EM{{nari}},asatte@KJ{{going}}@EM{{nari}},@KJ{{early}}ku@FG{{@KJ{{decide}}:ki}}memashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's hurry up and decide whether we are going tomorrow or the day after tomorrow.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{nari}}}} is a particle that indicates a suggestion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{healthy^ease}}:kenkou}}notameni@KT{{tenisu}}@EM{{nari}},@KT{{gorufu}}@EM{{nari}},@KJ{{what}}ka@FG{{@KJ{{carry^move}}:undou}}shita@FG{{@KJ{{direction}}:hou}}gaiidesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      For the sake of your health, you should get some exrcise, like playing tennis or golf.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{nari}}}} is a particle that indicates that a second action follows immediately after the preceding action.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{faith^nickname}}:shingou}}ga@KJ{{blue}}ninaru@EM{{nari}},@KJ{{hold}}tteita@KJ{{car}}ga@FG{{@KJ{{run}}:hashi}}ri@FG{{@KJ{{exit}}:da}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As soon as the light turned green, the waiting cars began moving.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The expression @KJ{{what}}@EM{{@HI{{nari}}}} indicates "whatever" or "anything".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{go@FG{{@KJ{{negative^full}}:fumann}}nakotogaattara,@KJ{{what}}@EM{{nari}}toosshatte@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If there is anything unsatisfactory, please say whatever it is.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The expression @HI{{@KJ{{large}}@EM{{nari}}@KJ{{little}}@EM{{nari}}}} indicates "whether large or small".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{dokonidemo,@KJ{{large}}@EM{{nari}}@KJ{{little}}@EM{{nari}}@FG{{@KJ{{question^topic}}:mondai}}haarudeshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are problems everywhere - some big, some small.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 117).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

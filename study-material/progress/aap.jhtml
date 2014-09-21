@@ -200,8 +200,8 @@
 </tr>
 <tr>
   <td class=""> 37 </td>
-  <td class=""> @HI{{mononara}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-mono-nara.html">@HI{{mononara}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 38 </td>
@@ -230,8 +230,8 @@
 </tr>
 <tr>
   <td class=""> 43 </td>
-  <td class=""> @HI{{tomo}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-tomo.html">@HI{{tomo}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 44 </td>
@@ -245,8 +245,8 @@
 </tr> 
 <tr>
   <td class=""> 46 </td>
-  <td class=""> @HI{{nari}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> <a href="grammar-particle-nari.html">@HI{{nari}}</a> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 47 </td>
