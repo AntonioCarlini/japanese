@@ -6,4 +6,5 @@ SUBDIRS += study-material
 
 COMPONENTS += jhtml
 
+include makerules/main.make
 include makerules/super.make
