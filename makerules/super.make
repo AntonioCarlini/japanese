@@ -10,12 +10,10 @@ COMPONENT_MAKEFILES = $(foreach component,$(COMPONENTS),$(patsubst %,%.make,$(co
 SUBDIR_MAKEFILES = $(foreach subdir,$(SUBDIRS),$(patsubst %,%,$(subdir)))
 
 $(COMPONENT_MAKEFILES):
-	$(info executing [make -f $@])
-	$(MAKE) -f $@
+	@$(MAKE) -f $@
 
 $(SUBDIR_MAKEFILES):
-	$(info executing [make -C $@])
-	$(MAKE) -C $@
+	@$(MAKE) -C $@
 
 .PHONY: all_subdir_makefiles $(SUBDIR_MAKEFILES)
 
