@@ -6,9 +6,12 @@ require 'DataRefs.rb'
 require 'DebugSupport.rb'
 
 $ref_data = nil
-def convert_ref(ref)
+def convert_ref(ref, data_dir)
   if $ref_data.nil?()
-    ref_data_file = "data/references.data" # Hard code this for now
+    data_filename = data_dir.nil?() ? "" : data_dir.dup()
+    data_filename += "/" unless (data_filename.empty?() || data_filename[-1,1] == "/")
+    data_filename += "references.data"
+    ref_data_file = "#{data_filename}"
     $ref_data = DataRefs.create_from_file(ref_data_file)
   end
 

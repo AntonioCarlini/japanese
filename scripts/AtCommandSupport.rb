@@ -286,7 +286,7 @@ $command_to_op = {
   "TICK" => :process_empty_code,
 }
 
-def process_at_commands(text)
+def process_at_commands(text, data_dir)
 
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
@@ -295,7 +295,7 @@ def process_at_commands(text)
       |what|
       ref = $1
       debug_out("inserting for REF:[#{ref}]")
-      transform_ref(ref)
+      transform_ref(ref, data_dir)
     }
   end
   
@@ -401,9 +401,10 @@ end
 #-
 
 # Given some text, substitute @REF{{}} statements as required. 
-def transform_ref(text)
+def transform_ref(text, data_dir)
+  $stderr.puts("transform_ref: data_dir=[#{data_dir}]")
   res = ""
-  ref = convert_ref(text)
+  ref = convert_ref(text, data_dir)
   if ref.nil?()
     res = "&lt;UNKNOWN REF [#{text}]&gt;"
   else
