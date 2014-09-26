@@ -402,7 +402,6 @@ end
 
 # Given some text, substitute @REF{{}} statements as required. 
 def transform_ref(text, data_dir)
-  $stderr.puts("transform_ref: data_dir=[#{data_dir}]")
   res = ""
   ref = convert_ref(text, data_dir)
   if ref.nil?()
