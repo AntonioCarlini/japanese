@@ -179,6 +179,7 @@ JHTML_SRCS += grammar-particle-dake.jhtml
 JHTML_SRCS += grammar-particle-dano.jhtml
 JHTML_SRCS += grammar-particle-de.jhtml
 JHTML_SRCS += grammar-particle-demo.jhtml
+JHTML_SRCS += grammar-particle-dokoro.jhtml
 JHTML_SRCS += grammar-particle-e.jhtml
 JHTML_SRCS += grammar-particle-ga.jhtml
 JHTML_SRCS += grammar-particle-hodo.jhtml

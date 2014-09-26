@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dokoro}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dokoro}}" grammar="@HI{{dokoro}}"}}
+
+<body>
+
+<h1>@HI{{dokoro}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@HI{{dokoro}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{dokoro}}}} is a particle that emphasises a negative action or state as contrasted with a positive action or state.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{time}}ha@FG{{@KJ{{attend^matter}}:shigoto}}ga@KJ{{busy}}shikute,@KJ{{trip^going}}ni@KJ{{going}}ku@EM{{dokoro}}dehanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've been so busy at work lately that taking a trip is unthinkable.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern <a href="grammar-dokoro-ka.html">@EM{{@HI{{dokoroka}}}}</a>, the first of two parallel nouns is negated.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}ha@KJ{{England^word}}@EM{{dokoroka}},@KT{{furansu}}@KJ{{word}}moyokudekimasuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is not just good at English, but at French too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{AAP}}. (p. 121).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -16,19 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{toshite}}}}
+<li> @N{{}}@EM{{@HI{{toshite}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-This particle follows a noun and indicates that something functions in a particular capacity or role.
-</p>
+@EM{{@HI{{toshite}}}} follows a noun and indicates that something functions in a particular capacity or role.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{rice*field^in}}sanha @KT{{se-rusumann}}@EM{{toshite}} @KJ{{pick^utilize}}saremashita.}}
@@ -37,7 +35,21 @@ This particle follows a noun and indicates that something functions in a particu
       Mr. Tanaka was hired as a salesman.
   </td> </tr>
 </table>
-</ol>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{toshite}}}} can follow "1" and counters incorporating "1" to mean "without exception".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}tachinosuru@FG{{@KJ{{attend^matter}}:shigoto}}ha,1tsu@EM{{toshite}}iimonoganaindesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There isn't a single good thing about the work they do.
+  </td> </tr>
+</table>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -45,6 +57,7 @@ This particle follows a noun and indicates that something functions in a particu
 
 <ol>
 <li> @REF{{DOBJG}}. (p 501)
+<li> @REF{{AAP}}. (p. 122).
 </ol>
 
 @include{{"grammar-footer.inc"}}
