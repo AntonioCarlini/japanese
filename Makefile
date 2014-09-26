@@ -1,5 +1,6 @@
 
 SUBDIRS += css
+SUBDIRS += grammar
 SUBDIRS += heisig
 SUBDIRS += jlpt-vocab
 SUBDIRS += study-material
