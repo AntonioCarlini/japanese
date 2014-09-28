@@ -335,8 +335,8 @@
 </tr>
 <tr>
   <td class=""> 64 </td>
-  <td class=""> @HI{{i}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> @HI{{i}} (<a href="grammar-particle-dai.html">@HI{{dai}}</a> &amp; <a href="grammar-particle-kai.html">@HI{{kai}}</a>)</td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 65 </td>
