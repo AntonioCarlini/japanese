@@ -291,7 +291,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-kuse-ni.html"> @HI{{kuseni}} </a>                                                          </td>
   <td class=""> DOIJG, p. 155                                                                                                   </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{mademonai}}                                                    </td>
