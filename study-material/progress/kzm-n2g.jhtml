@@ -49,11 +49,11 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 6 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 7 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 8 @KJ{{chapter}} </td>
