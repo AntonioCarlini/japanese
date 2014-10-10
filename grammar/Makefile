@@ -377,7 +377,7 @@ TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH)))
 
 GRMIDX_SRCS += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
 
-$(OUTPUT)/grammar-index.html : $(GRMIDX_SRCS) $(SCRIPTDIR)/build-grammar-index.rb
+$(OUTPUT)/grammar-index.html: $(GRMIDX_SRCS) $(SCRIPTDIR)/build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
 	@$(SCRIPTDIR)/build-grammar-index.rb $(GRMIDX_SRCS) > $@ && echo "Successfully built $@"
 
