@@ -6,6 +6,7 @@ $LOAD_PATH << File.dirname(__FILE__)
 require 'AtCommandSupport.rb'
 require 'DebugSupport.rb'
 
+require 'getoptlong'
 require 'strscan'
 
 def handle_cli()
@@ -127,6 +128,36 @@ def processing()
 
   entries = []
 
+  data_dir = ""
+  include_dir = ""
+
+  args = GetoptLong.new(
+                        [ "--data",      "-d", GetoptLong::REQUIRED_ARGUMENT ],
+                        [ "--include",   "-i", GetoptLong::REQUIRED_ARGUMENT ],
+                        )
+
+  begin
+    args.each() {
+      |option, arg|
+      case option
+      when "--data"          then data_dir = arg.dup()
+      when "--include"       then include_dir = arg.dup()
+      end
+    }
+
+  rescue GetoptLong::AmbigousOption => ambiguous_option
+    $stderr << ambiguous_option << $endl
+    exit(1)
+  rescue GetoptLong::InvalidOption => invalid_option
+    $stderr << invalid_option << $endl
+    syntax
+    exit(1)
+  rescue GetoptLong::MissingArgument => missing_argument
+    $stderr << missing_argument << $endl
+    syntax
+    exit(1)
+  end
+
   ARGV.each() {
     |file|
     # Read the file and process each line.
@@ -153,9 +184,9 @@ def processing()
         |element, value|
         debug_out("  Found [#{element}] with value [#{value}]")
         case element
-        when "index"      then index = process_at_commands(value)
-        when "grammar"    then grammar = process_at_commands(value)
-        when "anchor"     then anchor = process_at_commands(value)
+        when "index"      then index = process_at_commands(value, data_dir)
+        when "grammar"    then grammar = process_at_commands(value, data_dir)
+        when "anchor"     then anchor = process_at_commands(value, data_dir)
         else raise("Unkown element [#{element}] in [#{contents}]")
         end
       }

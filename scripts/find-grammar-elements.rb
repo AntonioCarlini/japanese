@@ -5,6 +5,7 @@ $LOAD_PATH << File.dirname(__FILE__)
 
 require 'DebugSupport.rb'
 
+require 'getoptlong'
 require 'strscan'
 
 def handle_cli()
@@ -13,12 +14,43 @@ def handle_cli()
     exit
   end
 
-  return ARGV.shift()
+  include_dir = ""
+
+  args = GetoptLong.new(
+                        [ "--include",   "-i", GetoptLong::REQUIRED_ARGUMENT ],
+                        )
+
+  begin
+    args.each() {
+      |option, arg|
+      case option
+      when "--include"       then include_dir = arg.dup()
+      end
+    }
+
+  rescue GetoptLong::AmbigousOption => ambiguous_option
+    $stderr << ambiguous_option << $endl
+    exit(1)
+  rescue GetoptLong::InvalidOption => invalid_option
+    $stderr << invalid_option << $endl
+    syntax
+    exit(1)
+  rescue GetoptLong::MissingArgument => missing_argument
+    $stderr << missing_argument << $endl
+    syntax
+    exit(1)
+  end
+
+  file = ARGV.shift()
+
+  return file, include_dir
 end
 
 def processing()
 
-  file = handle_cli()
+  file, include_dir = handle_cli()
+
+  include_dir = include_dir + "/" unless (include_dir.empty?() || include_dir[-1,1] == "/")
 
   # Read the file and process @include statements
   file_text = IO.read(file)
@@ -28,7 +60,7 @@ def processing()
     file_text.gsub!(/@include\{\{\"([^\}]+)\"\}\}/m) {
       |what|
       include_seen = true
-      filename = $1
+      filename = include_dir + $1
       result = IO.read(filename)
       debug_out("inserting for:[#{result}]")
       result

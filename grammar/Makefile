@@ -373,12 +373,16 @@ JHTML_SRCS += grammar-zehi.jhtml
 JHTML_SRCS += grammar-zutsu.jhtml
 JHTML_SRCS += grammar.jhtml
 
+GRMIDX += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
+
+
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
+TARGETS += $(GRMIDX)
+TARGETS += $(OUTPUT)/grammar-index.html
 
-GRMIDX_SRCS += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
-
-$(OUTPUT)/grammar-index.html: $(GRMIDX_SRCS) $(SCRIPTDIR)/build-grammar-index.rb
+$(OUTPUT)/grammar-index.html: $(GRMIDX) $(SCRIPTDIR)/build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
-	@$(SCRIPTDIR)/build-grammar-index.rb $(GRMIDX_SRCS) > $@ && echo "Successfully built $@"
+	@$(SCRIPTDIR)/build-grammar-index.rb --data=$(DATADIR) --include=$(INCLUDEDIR) $(GRMIDX) > $@ && echo "Successfully built $@"
+
 
 include $(MAKERULESDIR)/lib.make
