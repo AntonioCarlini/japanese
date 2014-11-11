@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{amari}}" grammar="@HI{{amari}}"}}
+@GRMIDX{{index="@HI{{anmari}}" grammar="@HI{{anmari}}"}}
 
 <body>
 
@@ -15,20 +16,23 @@
 
 <h2> Formation </h2>
 
+<dl>
+<dt> As an adverb:</dt>
 <ol>
 <li>@EM{{@HI{{amari}}}} <em>predicate</em>
 </ol>
+<dt> As a conjunction:</dt>
+<ol>
+<li>@N{{}}@HI{{no}}@EM{{@HI{{amari}}}}
+<li>@Vru{{}}@EM{{@HI{{amari}}}}
+</ol>
+</dl>
 
 <h2> Definition </h2>
 
 <p>
-The adverb @EM{{@HI{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
-</p>
+<a name="not-much">The adverb @EM{{@HI{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@EM{{amari}}@KJ{{eat}}benai.}}
@@ -37,22 +41,43 @@ The adverb @EM{{@HI{{amari}}}} expresses that the degree of the action of the ve
       I don't each very much.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+<a name="excessive">As a conjunction @EM{{@HI{{amari}}}} marks a cause that involves excessive action.
+The action must represent a psychological state.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hasono@KJ{{nightfall}}@FG{{@KJ{{entertain^stirred*up}}:koufunn}}no@EM{{amari}}@FG{{@KJ{{lie*down}}:ne}}rarenakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was so excited that night that I couldn't sleep.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{amari}}}} is usually found in negative sentences.
+As an adverb @EM{{@HI{{amari}}}} is usually found in negative sentences.
 </p>
 
 <p>
 @HI{{anmari}} is a variant of @EM{{@HI{{amari}}}} sometimes found in conversation.
 </p>
 
+<p>
+As a conjunction @EM{{@HI{{amari}}}} is always part of a clause that expresses a cause.
+It can only be used when the noun or verb expresses a psychological state.
+Finally, the use of @EM{{@HI{{amari}}}} as a conjunction is limited to formal written Japanese.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 72).
+<li> @REF{{DOBJG}}. (p. 72).
+<li> @REF{{DOIJG}}. (p. 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -24,14 +24,14 @@ table.progress td.left {
   <th> Vocabulary </th> <th> Grammar </th> <th> Sentences </th> <th> Notes Made </th>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{amari}}                                                               </td>
+  <td class="left"> <a href="grammar-amari.html#excessive">@HI{{amari}}</a>                                                 </td>
   <td class="left"> DOIJG, p. 3                                                                                             </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-ba-hodo.html"></a> @Vba{{}} ... @HI{{hodo}}                                            </td>
+  <td class="left"> <a href="grammar-ba-hodo.html">@Vba{{}} ... @HI{{hodo}}</a>                                             </td>
   <td class="left"> DOIJG, p. 6                                                                                             </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-bakarika-sae.html"> ~ @HI{{bakari ka}} ~ (@HI{{sae}}) </a>                             </td>

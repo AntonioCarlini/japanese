@@ -16,9 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vba{{}} @Vru{{}} @HI{{hodo}}}}
-<li> @EM{{@Aistem{{}}@HI{{kereba}} @Ai{{}} @HI{{hodo}}}}
-<li> @EM{{@Anastem{{}}@HI{{nara}} @Ana{{}} @HI{{hodo}}}}
+<li> @EM{{@Vba{{}}@Vru{{}}@HI{{hodo}}}}
+<li> @EM{{@Aistem{{}}@HI{{kereba}} @Ai{{}}@HI{{hodo}}}}
+<li> @EM{{@Anastem{{}}@HI{{nara}}@Ana{{}}@HI{{hodo}}}}
+<li> @EM{{@Anastem{{}}@HI{{deareba}}@Ana{{}}@HI{{hodo}}}}
+<li> @HI{{@N{{}}sureba@N{{}}suruhodo}}
+<li> @HI{{@N{{}}surebasuruhodo}}
 </ol>
 </dl>
 
@@ -31,12 +34,8 @@ The adjective or verb is repeated in the above sentence patterns.
 <p>
 The meaning is that whatever is described in the latter part of the sentence increases
 or decreases with the change of the degree described in the former part of the sentence.
-</p>
+This can often be translated as "the more ... the more ...".
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{bi-toruzu}}no@KJ{{sound^music}}ha @KJ{{hear}}keba @KJ{{hear}}ku hodo
@@ -46,7 +45,20 @@ or decreases with the change of the degree described in the former part of the s
       The more I listen to the music of the Beatles, the better I like it.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+When formed with a @HI{{suru}} verb, either of two forms may be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}ha@FG{{@KJ{{exertion^strong}}:benkyou}}sureba@FG{{@KJ{{exertion^strong}}:benkyou}}suruhodo@KJ{{mask^white}}kunarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The more you study Japanese, the more interesting it will become.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -54,6 +66,7 @@ or decreases with the change of the degree described in the former part of the s
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{DOBIG}}. (p. 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

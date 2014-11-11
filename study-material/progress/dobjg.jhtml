@@ -39,7 +39,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-amari.html">@HI{{amari}}</a>                                                           </td>
+  <td class="left"> <a href="grammar-amari.html#not-very">@HI{{amari}}</a>                                                  </td>
   <td class="left"> DOBJG, p. 72                                                                                            </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>                    
