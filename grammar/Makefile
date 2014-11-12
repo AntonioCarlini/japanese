@@ -243,6 +243,7 @@ JHTML_SRCS += grammar-relative-clause.jhtml
 JHTML_SRCS += grammar-respect-markers.jhtml
 JHTML_SRCS += grammar-ru-koto-ga-aru.jhtml
 JHTML_SRCS += grammar-sai.jhtml
+JHTML_SRCS += grammar-sasuga.jhtml
 JHTML_SRCS += grammar-sei-de.jhtml
 JHTML_SRCS += grammar-sekkaku.jhtml
 JHTML_SRCS += grammar-shi-infix.jhtml
