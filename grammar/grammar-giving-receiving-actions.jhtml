@@ -8,6 +8,13 @@
 </head>
 
 @GRMIDX{{index="Giving and Receiving Actions" grammar="Giving and Receiving Actions"}}
+@GRMIDX{{index="@HI{{teageru}}" grammar="@Vte{{}}@HI{{ageru}}" anchor="ageru"}}
+@GRMIDX{{index="@HI{{tesashiageru}}" grammar="@Vte{{}}@HI{{sashiageru}}" anchor="sashiageru"}}
+@GRMIDX{{index="@HI{{teyaru}}" grammar="@Vte{{}}@HI{{yaru}}" anchor="yaru"}}
+@GRMIDX{{index="@HI{{temorau}}" grammar="@Vte{{}}@HI{{morau}}" anchor="morau"}}
+@GRMIDX{{index="@HI{{teitadaku}}" grammar="@Vte{{}}@HI{{itadaku}}" anchor="itadaku"}}
+@GRMIDX{{index="@HI{{tekureru}}" grammar="@Vte{{}}@HI{{kureru}}" anchor="kureru"}}
+@GRMIDX{{index="@HI{{tekudasaru}}" grammar="@Vte{{}}@HI{{kudasaru}}" anchor="kudasaru"}}
 
 <body>
 
@@ -27,15 +34,35 @@
 <h2> Definition </h2>
 
 <p>
-@Vte{{}}@HI{{ageru}} is used when something is done by the speaker for someone with a sense of goodwill. When the
-doer is the speaker and the receiver of the action is the listener, this could give the impression that
+<a name="ageru">@Vte{{}}@HI{{ageru}}</a> is used when something is done by the speaker for someone with a sense of goodwill.
+The recipient of the beneficial action should not be the speaker or someone the speaker is close to.
+When the doer is the speaker and the receiver of the action is the listener, this could give the impression that
 the speaker is being patronising. Under these circumstances the expression should only be used to
-someone the speaker is close. Otherwise the speaker should use @Vmasustem{{}}@HI{{mashouka}} instead.
+someone to whom the speaker is close. Otherwise the speaker should use @Vmasustem{{}}@HI{{mashouka}} instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{tree^village}}san'ni@KJ{{book}}wo@KJ{{lend}}shi@EM{{teagemashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I lent Ms. Kimura a book.
+  </td> </tr>
+</table>
 </p>
 
 <p>
-@Vte{{}}@HI{{morau}} is used to indicate that the speaker has had something done for him (has received an action).
+<a name="morau"@Vte{{}}@HI{{morau}}</a> is used to indicate that the speaker has had something done for him (has received an action).
 The expression conveys a sense of gratitude on the part of the receiver.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{mountain^rice*field}}san'ni@KJ{{map^write^building}}no
+      @KJ{{electricity^tale^turn^nickname}}wo @KJ{{teach}}e@EM{{temoraimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Yamada told me the telephone number of the library.
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -43,91 +70,78 @@ The expression conveys a sense of gratitude on the part of the receiver.
 this expression conveys a sense of gratitude on the part of the receiver. The difference is that the
 subject of the sentence if the performer of the action, implying that the actor has performed the
 action voluntarily.
-</p>
 
-<p>
-@Vte{{}}@HI{{yaru}} has the same basic meaning as @Vte{{}}@HI{{ageru}}. It is used when the 
-giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
-@Vte{{}}@HI{{yaru}}, like @Vte{{}}@HI{{ageru}}, may leave an impression of arrogance under some circumstances.
-</p>
-
-<p>
-@Vte{{}}@HI{{itadaku}} is the humble form of @Vte{{}}@HI{{morau}} and is used when an action if performed
-for the receiver by a person of higher social
-status.
-</p>
-
-<p>
-@Vte{{}}@HI{{kudasaru}} is the honorific form of @Vte{{}}@HI{{kureru}} and is used when a person of higher
-social status performs an action for the receiver.
-
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{tree^village}}sann ni @KJ{{book}}wo @KJ{{lend}}shite agemashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I lent Ms. Kimura a book.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{mountain^rice*field}}sann ni @KJ{{map^write^building}}no
-      @KJ{{electricity^tale^turn^nickname}}wo @KJ{{teach}}ete moraimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Mr. Yamada told me the telephone number of the library.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{mother}}ha @KJ{{private}}ni @KT{{se-ta-}}wo @KJ{{escort}}tte kuremashita.}}
+      @HI{{@KJ{{mother}}ha@KJ{{private}}ni@KT{{se-ta-}}wo@KJ{{escort}}t@EM{{tekuremashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       My mother sent me a sweater.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="yaru">@Vte{{}}@HI{{yaru}}<a/> has the same basic meaning as @Vte{{}}@HI{{ageru}}. It is used when the 
+giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
+@Vte{{}}@HI{{yaru}}, like @Vte{{}}@HI{{ageru}}, may leave an impression of arrogance under some circumstances.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{dog}}wo @KJ{{scatter^walk}}ni @KJ{{take*along}}rete @KJ{{going}}tte yarimashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{dog}}wo@KJ{{scatter^walk}}ni@KJ{{take*along}}rete@KJ{{going}}t@EM{{teyarimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I took my dog for a walk.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+The humble polite version of @Vte{{}}@HI{{ageru}} is <a name="sashiageru">@Vte{{}}@HI{{sashiageru}}</a>.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{chapter^long}}ni @KJ{{hand^paper}}no machigaiwo @KJ{{straightaway}}shite
-      itadakimashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{before^life}}ni@KT{{piano}}wohiite@EM{{sashiagemashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I played the piano for my teacher.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="itadaku">@Vte{{}}@HI{{itadaku}}</a> is the humble form of @Vte{{}}@HI{{morau}} and is used when an action if performed
+for the receiver by a person of higher social
+status.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{chapter^long}}ni@KJ{{hand^paper}}nomachigaiwo@KJ{{straightaway}}shi@EM{{teitadakimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I had my letter corrected by the manager.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="kudasaru">@Vte{{}}@HI{{kudasaru}}</a> is the honorific form of @Vte{{}}@HI{{kureru}} and is used when a person of higher
+social status performs an action for the receiver.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ha @KJ{{private}}wo @KJ{{station}}de @KJ{{escort}}tte kudasaimashita.}}
+      @HI{{@KJ{{section^long}}ha@KJ{{private}}wo@KJ{{station}}de@KJ{{escort}}t@EM{{tekudasaimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The general manager took me to the station.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-In the case of @Vte{{}}@HI{{ageru}}, if the person receiver the benefit is the direct object then the indirect object (@HI{{ni}}) is omitted.
+In the case of @Vte{{}}@HI{{ageru}}, if the person receiving the benefit is the direct object then the indirect object (@HI{{ni}}) is omitted.
 </p>
 
 <p>
