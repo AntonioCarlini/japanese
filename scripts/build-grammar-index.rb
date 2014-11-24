@@ -109,7 +109,9 @@ def display_all_for_key(key, entries, columns)
     |entry|
 
     add_tooltip = (entry.index =~ /&#x[[:xdigit:]]+;/)
-    line  = '<a href="' + entry.target() + '">'
+    line  = '<a href="' + entry.target()
+    line += '#'+ entry.anchor() unless entry.anchor().empty?()
+    line += '">'
     line += '<span title="' + entry.index() + '">' if add_tooltip
     line += entry.grammar() + '</a>'
     line += '</span>' if add_tooltip
