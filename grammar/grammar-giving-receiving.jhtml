@@ -40,50 +40,50 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{ageru}} is used when something is given by the speaker, or someone with whom the speaker empathises, to someone not
+@HI{{ageru}} is used when something is given to someone not
 part of the speaker's in-group. The giver is the subject and the receiver is marked with @HI{{ni}}.
-</p>
 
-<p>
-@HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used to show respect to the receiver. The degree of politeness is higher
-than with @HI{{kudasaru}} and @HI{{itadaku}}.
-</p>
-
-<p>
-@HI{{yaru}} is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
-</p>
-
-<p>
-@HI{{morau}} is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
-be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
-</p>
-
-<p>
-@HI{{itadaku}} is the humble polite version of @HI{{morau}} used to show respect to the giver.
-</p>
-
-<p>
-@HI{{kureru}} is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
-The giver is the subject and the receiver is marked by @HI{{ni}}.
-</p>
-
-<p>
-@HI{{kudasaru}} is the honorific polite version of @HI{{morau}} used to show respect to the giver.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sannha @KJ{{tree^village}}sannni @KJ{{flower}}wo agemashita.}}
+      @HI{{@KJ{{mountain^rice*field}}sannha@KJ{{tree^village}}sannni@KJ{{flower}}wo@EM{{agemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Yamada gave flowers to Ms. Kimura.
   </td> </tr>
 </table>      
-<li>
+</p>
+
+<p>
+@HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used to show respect to the receiver. The degree of politeness is higher
+than with @HI{{kudasaru}} and @HI{{itadaku}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{before^life}}ni@KJ{{book}}wo@EM{{sashiagemashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I gave my teacher a book.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+@HI{{yaru}} is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{dog}}niesawo@EM{{yarimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I gave some food to the dog.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+@HI{{morau}} is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
+be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{tree^village}}sannha @KJ{{mountain^rice*field}}ni @KJ{{flower}}wo moraimashita.}}
@@ -92,25 +92,11 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       Ms. Kimura received flowers from Mr. Yamada.
   </td> </tr>
 </table>      
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{assistant^wisteria}}sannha @KJ{{younger*sister}}ni o@KJ{{candy^child}} kuremashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Ms. Sato gave sweets to my younger sister.
-  </td> </tr>
-</table>      
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{dog}}ni esawo yarimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I gave some food to the dog.
-  </td> </tr>
-</table>      
-<li>
+</p>
+
+<p>
+@HI{{itadaku}} is the humble polite version of @HI{{morau}} used to show respect to the giver.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{section^long}}ni o@KJ{{soil^products}}wo itadakimashita.}}
@@ -119,7 +105,25 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       I received a souvenir from the general manager.
   </td> </tr>
 </table>      
-<li>
+</p>
+
+<p>
+@HI{{kureru}} is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
+The giver is the subject and the receiver is marked by @HI{{ni}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{assistant^wisteria}}sannha @KJ{{younger*sister}}ni o@KJ{{candy^child}} kuremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ms. Sato gave sweets to my younger sister.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+@HI{{kudasaru}} is the honorific polite version of @HI{{morau}} used to show respect to the giver.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{section^long}}ga @KJ{{private}}ni o@KJ{{soil^products}}wo kudasaimashita.}}
@@ -128,7 +132,7 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       The general manager gave me a souvenir.
   </td> </tr>
 </table>      
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -140,7 +144,7 @@ part of the speaker's in-group (@KT{{uchi}}) then a conflict arises and the sent
 <p>
 @HI{{morau}} requires the receiver's point of view. So if the giver is the speaker, a conflict arises. Therefore @HI{{morau}} is only
 used if the giver is not the speaker or part of the speaker's in-group. In the event that the giver is an organisation, @HI{{kara}} is
-more likely to be used.
+more likely to be used than @HI{{ni}}.
 </p>
 
 <p>
