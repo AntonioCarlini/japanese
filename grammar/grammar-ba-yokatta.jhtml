@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{ba yokatta}}" grammar="@HI{{ba yokatta}}"}}
+@GRMIDX{{index="@HI{{bayokatta}}" grammar="@HI{{@Vba{{}}yokatta}}"}}
 
 <body>
 
@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern expresses the speaker's regret and is often translated as "I wish I had done ...".
 It is an idiomatic expression made up of a conditional clause and @HI{{yokatta}}; the literal meaning
@@ -38,10 +41,12 @@ is "if ~ had been done, it would have been good".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @Vba{{}} expresses a condition that did not in fact happen in the past.
 </p>
 
+@BGRND{{}}
 <p>
 To express the idea that someone other than the speaker wishes that something had been done, use this expression
 with @KJ{{think}}@HI{{u}}.
@@ -55,6 +60,8 @@ with @KJ{{think}}@HI{{u}}.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

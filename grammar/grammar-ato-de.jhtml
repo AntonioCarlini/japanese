@@ -2,30 +2,30 @@
 <html>
 
 <head>
-<title>@HI{{ato de}}</title>
+<title>@HI{{atode}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{ato de}}" grammar="@HI{{ato de}}"}}
+@GRMIDX{{index="@HI{{atode}}" grammar="@HI{{atode}}"}}
 
 <body>
 
-<h1>@HI{{ato de}}</h1>
+<h1>@HI{{atode}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} @EM{{@HI{{ato de}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{ato de}}}}
+<li> @Vta{{}} @EM{{@HI{{atode}}}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{atode}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{ato de}}}} states that the main clause
-occurred after the clause preceding the @EM{{@HI{{ato de}}}}.
+@EM{{@HI{{atode}}}} states that the main clause
+occurred after the clause preceding the @EM{{@HI{{atode}}}}.
 </p>
 
 <h2> Examples </h2>
@@ -34,7 +34,7 @@ occurred after the clause preceding the @EM{{@HI{{ato de}}}}.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{attend^matter}}no @EM{{ato de}},@KJ{{drink}}mini @KJ{{going}}kimasenka.}}
+      @HI{{@KJ{{attend^matter}}no@EM{{atode}},@KJ{{drink}}mini@KJ{{going}}kimasenka.}}
   </td> </tr>
   <tr class="en"> <td>
       Shall we go and have a drink after work?
@@ -43,8 +43,7 @@ occurred after the clause preceding the @EM{{@HI{{ato de}}}}.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{new}}shiinowo @KJ{{buy}}tta @EM{{ato de}}, nakushita @KJ{{time^plot}}ga
-      @KJ{{see}}tsukarimashita.}}
+      @HI{{@KJ{{new}}shiinowo@KJ{{buy}}tta @EM{{atode}},nakushita @KJ{{time^plot}}ga@KJ{{see}}tsukarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       After I bought a new watch I found the old one I'd lost.
@@ -66,7 +65,7 @@ means "(any time) after".
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 78).
+<li> @REF{{DOBJG}}. (p. 78).
 <li> @REF{{MNN-TR-II}}. (Chapter 34).
 </ol>
 

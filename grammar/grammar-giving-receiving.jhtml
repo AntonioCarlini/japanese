@@ -8,7 +8,13 @@
 </head>
 
 @GRMIDX{{index="Giving and Receiving" grammar="Giving and Receiving"}}
-
+@GRMIDX{{index="@HI{{ageru}}" grammar="@HI{{ageru}}" anchor="ageru"}}
+@GRMIDX{{index="@HI{{sashiageru}}" grammar="@HI{{sashiageru}}" anchor="sashiageru"}}
+@GRMIDX{{index="@HI{{yaru}}" grammar="@HI{{yaru}}" anchor="yaru"}}
+@GRMIDX{{index="@HI{{morau}}" grammar="@HI{{morau}}" anchor="morau"}}
+@GRMIDX{{index="@HI{{itadaku}}" grammar="@HI{{itadaku}}" anchor="itadaku"}}
+@GRMIDX{{index="@HI{{kureru}}" grammar="@HI{{kureru}}" anchor="kureru"}}
+@GRMIDX{{index="@HI{{kudasaru}}" grammar="@HI{{kudasaru}}" anchor="kudasaru"}}
 <body>
 
 <h1>Giving and Receiving</h1>
@@ -40,50 +46,50 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{ageru}} is used when something is given by the speaker, or someone with whom the speaker empathises, to someone not
+<a name="ageru">@EM{{@HI{{ageru}}}}</a> is used when something is given to someone not
 part of the speaker's in-group. The giver is the subject and the receiver is marked with @HI{{ni}}.
-</p>
 
-<p>
-@HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used to show respect to the receiver. The degree of politeness is higher
-than with @HI{{kudasaru}} and @HI{{itadaku}}.
-</p>
-
-<p>
-@HI{{yaru}} is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
-</p>
-
-<p>
-@HI{{morau}} is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
-be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
-</p>
-
-<p>
-@HI{{itadaku}} is the humble polite version of @HI{{morau}} used to show respect to the giver.
-</p>
-
-<p>
-@HI{{kureru}} is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
-The giver is the subject and the receiver is marked by @HI{{ni}}.
-</p>
-
-<p>
-@HI{{kudasaru}} is the honorific polite version of @HI{{morau}} used to show respect to the giver.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sannha @KJ{{tree^village}}sannni @KJ{{flower}}wo agemashita.}}
+      @HI{{@KJ{{mountain^rice*field}}sannha@KJ{{tree^village}}sannni@KJ{{flower}}wo@EM{{agemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Yamada gave flowers to Ms. Kimura.
   </td> </tr>
 </table>      
-<li>
+</p>
+
+<p>
+<a name="sashiageru">@EM{{@HI{{sashiageru}}}}</a> is the humble form of @HI{{ageru}} and is used to show respect to the receiver. The degree of politeness is higher
+than with @HI{{kudasaru}} and @HI{{itadaku}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{before^life}}ni@KJ{{book}}wo@EM{{sashiagemashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I gave my teacher a book.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+<a name="yaru">@EM{{@HI{{yaru}}}}</a> is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{dog}}niesawo@EM{{yarimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I gave some food to the dog.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+<a name="morau">@EM{{@HI{{morau}}}}</a> is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
+be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{tree^village}}sannha @KJ{{mountain^rice*field}}ni @KJ{{flower}}wo moraimashita.}}
@@ -92,25 +98,11 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       Ms. Kimura received flowers from Mr. Yamada.
   </td> </tr>
 </table>      
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{assistant^wisteria}}sannha @KJ{{younger*sister}}ni o@KJ{{candy^child}} kuremashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Ms. Sato gave sweets to my younger sister.
-  </td> </tr>
-</table>      
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{dog}}ni esawo yarimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I gave some food to the dog.
-  </td> </tr>
-</table>      
-<li>
+</p>
+
+<p>
+<a name="itadaku">@EM{{@HI{{itadaku}}}}</a> is the humble polite version of @HI{{morau}} used to show respect to the giver.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{section^long}}ni o@KJ{{soil^products}}wo itadakimashita.}}
@@ -119,7 +111,25 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       I received a souvenir from the general manager.
   </td> </tr>
 </table>      
-<li>
+</p>
+
+<p>
+<a name="kureru">@EM{{@HI{{kureru}}}}</a> is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
+The giver is the subject and the receiver is marked by @HI{{ni}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{assistant^wisteria}}sannha @KJ{{younger*sister}}ni o@KJ{{candy^child}} kuremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ms. Sato gave sweets to my younger sister.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+<a name="kudasaru">@EM{{@HI{{kudasaru}}}}</a> is the honorific polite version of @HI{{morau}} used to show respect to the giver.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{section^long}}ga @KJ{{private}}ni o@KJ{{soil^products}}wo kudasaimashita.}}
@@ -128,24 +138,24 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
       The general manager gave me a souvenir.
   </td> </tr>
 </table>      
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-@HI{{ageru}} requires the speaker's point of view or a neutral point of view, so if the recipient is the speaker or
+@EM{{@HI{{ageru}}}} requires the speaker's point of view or a neutral point of view, so if the recipient is the speaker or
 part of the speaker's in-group (@KT{{uchi}}) then a conflict arises and the sentence is ungrammatical.
 </p>
 
 <p>
-@HI{{morau}} requires the receiver's point of view. So if the giver is the speaker, a conflict arises. Therefore @HI{{morau}} is only
+@EM{{@HI{{morau}}}} requires the receiver's point of view. So if the giver is the speaker, a conflict arises. Therefore @EM{{@HI{{morau}}}} is only
 used if the giver is not the speaker or part of the speaker's in-group. In the event that the giver is an organisation, @HI{{kara}} is
-more likely to be used.
+more likely to be used than @HI{{ni}}.
 </p>
 
 <p>
-@HI{{kureru}} is only used when the receiver is the speaker or someone with whom the speaker empathises. It cannot be used when the
-giver is the speaker or someone with whom the speaker empathises, even if the receiver is also such a person; in this case @HI{{ageru}}
+@EM{{@HI{{kureru}}}} is only used when the receiver is the speaker or someone with whom the speaker empathises. It cannot be used when the
+giver is the speaker or someone with whom the speaker empathises, even if the receiver is also such a person; in this case @EM{{@HI{{ageru}}}}
 must be used.
 </p>
 

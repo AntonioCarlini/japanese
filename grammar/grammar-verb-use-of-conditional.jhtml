@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="Use of the Conditional Form" grammar="Use of the Conditional Form"}}
+@GRMIDX{{index="nara", grammar="nara"}}
+@GRMIDX{{index="ba", grammar="@Vba{{}}"}}
 
 <body>
 
@@ -35,27 +37,16 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The conditional form is used in a relative clause at the beginning of a sentence
 to describe the conditions for an event, described in the remainder of the sentence,
 to occur. This is shown in sentence pattern (A).
 If the subject of the relative clause and the main sentence is the same then
 it is not permitted to use verbs of volition in both clauses.
-</p>
 
-<p>
-When a speaker wishes to take up a topic and give further information, sentence pattern (B)
-may be used. In this case it may be considered to mean "if you are talking about @N{{}} ...".
-</p>
-
-<p>
-Sentence pattern (C) can be used to ask about the best course of action.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{botann}}wo @EM{{@KJ{{push}}seba}}, @KJ{{window}}ga @KJ{{open}}kimasu.}}
@@ -64,7 +55,13 @@ Sentence pattern (C) can be used to ask about the best course of action.
       If you push the button, the window will open.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+When a speaker wishes to take up a topic and give further information, sentence pattern (B)
+may be used. In this case it may be considered to mean "if you are talking about @N{{}} ...".
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{hokani @KJ{{idea^see}}ga @EM{{nakereba}} korede @KJ{{end}}warimashou.}}
@@ -73,7 +70,14 @@ Sentence pattern (C) can be used to ask about the best course of action.
       If you don't have any other opinions, let's finish this meeting now.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+Sentence pattern (C) can be used to ask about the best course of action.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
