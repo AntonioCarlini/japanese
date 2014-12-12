@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{dou}}" grammar="@HI{{dou}}"}}
+@GRMIDX{{index="@HI{{ikaga}}" grammar="@HI{{ikaga}}"}}
 
 <body>
 
@@ -23,12 +24,7 @@
 
 <p>
 @EM{{@HI{{dou}}}} is an interrogative adverb which is used to inquire about a state or a way of doing something..
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{o@KJ{{mother}}sanha@EM{{dou}}desuka.}}
@@ -37,7 +33,48 @@
       How is your mother?
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+@EM{{@HI{{dou}}}} can be used to make an offer or make a suggestion. In this case @EM{{@HI{{dou}}}} is asking about the state of the listener's mnind.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{soil^weekday^day}}:doyoubi}}ha@EM{{dou}}?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How about Saturday?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@EM{{@HI{{dou}}}} can be used to ask how to do something. @HI{{ikaga}} is not
+normally used in this case.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{say^leaf}}:kotoba}}ha@EM{{dou}}@KJ{{read}}mimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How do you read this word?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The idiomatic expression @HI{{doushite}} is used to ask about manner, reason or causes. The reply should
+normally end in @HI{{kara}} ("because").
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{tree}}ha@EM{{dou}}shite@FG{{@KJ{{wither}}:ka}}retandesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Why did this tree die?
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -45,24 +82,10 @@
 @HI{{ikaga}} is the polite version of @EM{{@HI{{dou}}}} .
 </p>
 
-<p>
-@EM{{@HI{{dou}}}} can be used to make an offer.
-</p>
-
-<p>
-@EM{{@HI{{dou}}}} can be used to ask how to do something. @HI{{ikaga}} is not
-normally used in this case.
-</p>
-
-<p>
-The idiomatic expression @HI{{doushite}} is used to ask about manner, reason or causes. The reply should
-normally end in @HI{{kara}} ("because").
-</p>
-
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 114).
+<li> @REF{{DOBJG}}. (p. 114).
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
