@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@HI{{monoka}} (not)</title>
+<title>@HI{{monoka}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -13,7 +13,7 @@
 
 <body>
 
-<h1>@HI{{monoka}} (not)</h1>
+<h1>@HI{{monoka}}</h1>
 
 <h2> Formation </h2>
 
@@ -47,8 +47,8 @@ not to do something or a strong negative view.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 144).
-<li> @REF{{DOAJG}}. (p 266).
+<li> @REF{{AAP}}. (p. 144).
+<li> @REF{{DOAJG}}. (p. 266).
 </ol>
 
 @include{{"grammar-footer.inc"}}
