@@ -97,23 +97,23 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 16 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 17 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 18 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 19 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 20 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 20@KJ{{chapter}}) </td>
@@ -121,11 +121,11 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 21 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 22 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 23 @KJ{{chapter}} </td>
@@ -133,15 +133,15 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 24 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 25 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 26 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 26@KJ{{chapter}}) </td>
@@ -149,7 +149,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> A </td>
-  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> B </td>

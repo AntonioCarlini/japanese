@@ -17,7 +17,7 @@
 
 <p>
 <ol>
-<li> @N{{}} + <em>counter</em> + @KJ{{part}}
+<li> <em>number + counter</em> + @KJ{{part}} (@HI{{no}}@N{{}})
 <li> @N{{}} @KJ{{part}}
 </ol>
 </p>
@@ -29,7 +29,7 @@
 </p>
 
 <p>
-When @N{{}} comes before @KJ{{part}} directly, it means the amount or portion represented by that noun.
+When <em>number+counter</em> comes before @KJ{{part}} directly, it means the amount or portion represented by that noun.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -59,7 +59,7 @@ When @N{{}} comes before @KJ{{part}} directly, it means the amount or portion re
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p 16).
+<li> @REF{{DOIJG}}. (p. 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}
