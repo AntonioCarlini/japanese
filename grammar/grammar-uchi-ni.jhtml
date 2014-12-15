@@ -2,90 +2,101 @@
 <html>
 
 <head>
-<title>@HI{{uchi ni}}</title>
+<title>@HI{{uchini}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{uchi ni}}" grammar="@HI{{uchi ni}}"}}
+@GRMIDX{{index="@HI{{uchini}}" grammar="@HI{{uchini}}"}}
 
 <body>
 
-<h1>@HI{{uchi ni}}</h1>
+<h1>@HI{{uchini}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> @Vnai{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> @Ai{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> @Ana{{}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{uchi ni}}}}, @V2{{}}
-<li> <em>quantifier(period)</em> @EM{{@HI{{uchi ni}}}}, @V2{{}}
+<li> @Vru{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @Vnai{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @Ai{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @Ana{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @N{{}} @HI{{no}} @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> <em>quantifier(period)</em> @EM{{@HI{{uchini}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{uchi ni}}}} expresses the general time in which a state or action occurs.
+@EM{{@HI{{uchini}}}} expresses the general time in which a state or action occurs.
 </p>
 
-<h2> Examples </h2>
+<p>
+@EM{{@HI{{uchini}}}} can be preceded by a verb describing a state.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{consider}}eteiru<strong>@HI{{uchi ni}}@KJ{{part}}kara naku natta}}.
-  </td> </tr>
-  <tr class="en"> <td>
-      While thinking about it, I got lost.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{rain}}ga@KJ{{descend}}ranai @EM{{uchi ni}}@KT{{tenisu}}wo shite kimasu.}}
+      @HI{{@KJ{{rain}}ga@KJ{{descend}}ranai@EM{{uchini}}@KT{{tenisu}}woshitekimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll go and play tennis (and come back) before it rains.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+@EM{{@HI{{uchini}}}} can be preceded by a verb describing a progressive action.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{warm}}kai@EM{{uchi ni}}@KJ{{drink}}de kudasai.}}
+      @HI{{@KJ{{consider}}eteiru@EM{{uchini}}@KJ{{part}}karanakunatta}}.
+  </td> </tr>
+  <tr class="en"> <td>
+      While thinking about it, I got lost.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@EM{{@HI{{uchini}}}} can be preceded by an adjective expressing a duration.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{warm}}kai@EM{{uchini}}@KJ{{drink}}de kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please drink it while it is warm.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+@EM{{@HI{{uchini}}}} can be preceded by an noun expressing a duration.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rest}}mino@EM{{uchi ni}}yoku@KJ{{sleep}}teokimasu.}}
+      @HI{{@KJ{{rest}}mino@EM{{uchini}}yoku@KJ{{sleep}}teokimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'll sleep a lot during the holiday.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-The expression before @EM{{@HI{{uchi ni}}}} is always non-past even if the sentence itself is in the past.
+The expression before @EM{{@HI{{uchini}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-@EM{{@HI{{uchi ni}}}} cannot be used where the noun used is an event such as a class.
+@EM{{@HI{{uchini}}}} cannot be used where the noun used is an event such as a class, a conference or a game.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 512).
+<li> @REF{{DOBJG}}. (p. 512).
 </ol>
 
 @include{{"grammar-footer.inc"}}
