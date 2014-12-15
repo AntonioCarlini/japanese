@@ -25,14 +25,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@HI{{hazu}}}} which indicates the speaker's belief that something will happen (or happened).
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{come}}ru @EM{{hazu}}desuyo. kinou @KJ{{electricity^tale}}ga arimashitakara.}}
@@ -41,7 +39,54 @@
       I'm sure he'll come. I received a phone call from him yesterday.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+An expectation that something will not be the case can be expressed either by negating the sentence before @EM{{@HI{{hazu}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{kura-ku}}sanha@KT{{pa-texi-}}ni@KJ{{going}}kanai@EM{{hazu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I expect that Mr. Clark is going to the party.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Alternatively the sentence can be followed by @EM{{@HI{{hazu}}}} @HI{{ha/ganai}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{kura-ku}}sanha@KT{{pa-texi-}}ni@KJ{{going}}ku@EM{{hazu}}ganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is improbable that Mr. Clark will go to the party.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The latter construction carries the heavier weight.
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@HI{{hazu}}}} behaves as a noun so if "@S{{}}@EM{{@HI{{hazu}}}}" is a relative clause, @HI{{no}} follows it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^mouth}}:yamaguchi}}sanni@KJ{{exit}}shita@EM{{hazo}}no@KJ{{hand^paper}}@FG{{@KJ{{bed}}:yuka}}ni@FG{{@KJ{{fall}}:o}}chita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I found the letter I thought I had sent to Mr. Yamaguchi on the floor.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -50,19 +95,10 @@
 just a guess.
 </p>
 
-<p>
-An expectation that something will not be the case can be expressed either by negating the sentence before @EM{{@HI{{hazu}}}}
-or by following  the sentence with @EM{{@HI{{hazu}}}} @HI{{ha/ga nai}}. The latter construction carries heavier weight.
-</p>
-
-<p>
-@EM{{@HI{{hazu}}}} behaves as a noun so if "S @EM{{@HI{{hazu}}}}" is a relative clause, @HI{{no}} follows it.
-</p>
-
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 133).
+<li> @REF{{DOBJG}}. (p. 133).
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
 </ol>
 
