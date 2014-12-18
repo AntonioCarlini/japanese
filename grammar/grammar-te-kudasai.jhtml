@@ -26,17 +26,6 @@
 @EM{{@Vte{{}} @HI{{kudasai}}}} is an expression used to ask, instruct or encourage
 the listener to do something. It cannot be used to a superior.
 
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{sumimasenga,kono@KJ{{sino-^character}}no@KJ{{read}}mi@KJ{{direction}}wo@KJ{{teach}}etekudasai.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Excuse me, could you tell me how to read this kanji please?
-  </td> </tr>
-</table>      
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kokoni @KJ{{dwell^place}}to @KJ{{name^in*front}}wo @KJ{{write}}ite kudasai.}}
@@ -45,14 +34,24 @@ the listener to do something. It cannot be used to a superior.
       Please write your name and address here.
   </td> </tr>
 </table>      
-</ol>
 </p>
 
 <p>
 When used to ask the listener to do something, it is often preceded by @HI{{sumimasenga}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sumimasenga,kono@KJ{{sino-^character}}no@KJ{{read}}mi@KJ{{direction}}wo@KJ{{teach}}etekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Excuse me, could you tell me how to read this kanji please?
+  </td> </tr>
+</table>      
 </p>
 
 <p>
+The negative form makes a request even more polie.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{England^word}}wo@KJ{{use}}wanaidekudasai.}}
