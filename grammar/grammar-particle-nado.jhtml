@@ -59,7 +59,8 @@ with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 43).
+<li> @REF{{AAP}}. (p. 43).
+<li> @REF{{DOBJG}}. (p. 267).
 </ol>
 
 @include{{"grammar-footer.inc"}}

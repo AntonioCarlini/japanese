@@ -25,6 +25,8 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
 <p>
 @EM{{@HI{{kotonisuru}}}} indicates a volitional decision. It is a more complex form of
 <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
@@ -51,6 +53,7 @@
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in force.
 
@@ -63,6 +66,22 @@ The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in fo
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+To say that one has decided not to do something, negate the verb before @EM{{@HI{{kotonisuru}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pikunikku}}ni@KJ{{going}}kouto@KJ{{think}}ttandesuga,@KJ{{going}}kanai@EM{{kotonishimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I thought I would go to the picnic, but I decided not to.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

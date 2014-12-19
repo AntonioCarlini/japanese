@@ -16,7 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{kotoha}}}}.
+<li> @Vplain{{}}@HI{{@EM{{kotoha}}}}@Vplain{{}}
+<li> @Ai{{}}@HI{{@EM{{kotoha}}}}@Ai{{}}
+<li> @Anastem{{}}@HI{{na@EM{{kotoha}}}}@Anastem{{}}@HI{{da}}
+<li> @N{{}}@HI{{na@EM{{kotoha}}}}@N{{}}@HI{{da}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +32,7 @@ a disjunctive construction, and the following phrase goes on to minimise the abi
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{store}}ha@KJ{{relax}}ikotoha@KJ{{relax}}idesuga,monogayokuarimasenn.}}
+      @HI{{kono@KJ{{store}}ha@KJ{{relax}}i@EM{{kotoha}}@KJ{{relax}}idesuga,monogayokuarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       This store is cheap alright, but its goods are often of low quality.
@@ -38,7 +41,7 @@ a disjunctive construction, and the following phrase goes on to minimise the abi
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KT{{apa-to}}ha@KJ{{station}}ni@KJ{{near}}kute@KJ{{convenience^profit}}desuga,@KJ{{house^fare}}gatotemo@KJ{{tall}}idesu.}}
+      @HI{{@KJ{{private}}no@KT{{apa-to}}ha@KJ{{station}}ni@KJ{{near}}kute@KJ{{convenience^profit}}na@EM{{kotoha}}@KJ{{convenience^profit}}desuga,@KJ{{house^fare}}gatotemo@KJ{{tall}}idesu.}}
   </td> </tr>
   <tr class="en"> <td>
       My apartment is near to the station and convenient alright, but the rent is very high.

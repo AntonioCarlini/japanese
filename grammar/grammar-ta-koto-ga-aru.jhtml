@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@Vta{{}} @HI{{koto ga aru}}</title>
+<title>@Vta{{}} @HI{{kotogaaru}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -11,15 +11,15 @@
 
 <body>
 
-<h1>@Vta{{}} @HI{{koto ga aru}}</h1>
+<h1>@Vta{{}} @HI{{kotogaaru}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} @EM{{@HI{{koto ga aru}}}}
-<li> @Aistem{{}}@HI{{katta}} @EM{{@HI{{koto ga aru}}}}
-<li> @Anastem{{}}@HI{{datta}} @EM{{@HI{{koto ga aru}}}}
-<li> @N{{}}@HI{{datta}} @EM{{@HI{{koto ga aru}}}}
+<li> @Vta{{}}@EM{{@HI{{kotogaaru}}}}
+<li> @Aistem{{}}@HI{{katta}} @EM{{@HI{{kotogaaru}}}}
+<li> @Anastem{{}}@HI{{datta}} @EM{{@HI{{kotogaaru}}}}
+<li> @N{{}}@HI{{datta}} @EM{{@HI{{kotogaaru}}}}
 </ol>
 
 <h2> Definition </h2>

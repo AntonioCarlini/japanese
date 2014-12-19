@@ -25,13 +25,31 @@
 @EM{{@HI{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's
 volition.
 
-
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{come^year^large^heights}}ni@KJ{{revolve^diligence}}suru@EM{{kotoninarimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It has been decided that next year I will transfer to Osaka.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+This construction can be used even if the experiencer chooses to do something as it sounds more indirect than simply stating directly that
+the experiencer has made a decision and so is considered to be more polite. Compare with <a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>.
+</p>
+
+<p>
+Using @EM{{@HI{{kotoninatteiru}}}} shows that a decision took place at some point in the past and its results are still in effect. It may go so
+far as to indicate that something has become a rule or a custom./
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^day}}@FG{{@KJ{{mountain^rice*field}}:yamada}}@KJ{{before^life}}ni@KJ{{meeting}}u@EM{{kotoninatteimasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Today (it has been arranged that) I'm seeing Professor Yamada.
   </td> </tr>
 </table>
 </p>

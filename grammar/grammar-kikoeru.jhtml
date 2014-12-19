@@ -23,11 +23,7 @@
 
 <p>
 @KJ{{hear}}@HI{{koeru}} is used to indicate that something is passively and spontaneously audible. It is
-used when the subject has not actively caused the hearing to happen. If the listening is active
-then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{kikeru}}, is used.
-</p>
-
-<h2> Examples </h2>
+used when the subject has not actively caused the hearing to happen.
 
 <ol>
 <li>
@@ -50,6 +46,20 @@ then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{k
   </td> </tr>
 </table>
 </ol>
+</p>
+
+<p>
+If the listening is active then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{kikeru}}, is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ii@KT{{sutereo}}wo@KJ{{buy}}ttakara@KT{{reko-do}}ga@KJ{{hear}}keru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I bought a good stereo set, I can listen to records.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 

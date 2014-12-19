@@ -419,12 +419,12 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-mo.html#too">@HI{{mo}}</a>                                                    </td>
+  <td class="left"> <a href="grammar-particle-mo.html#too">@HI{{mo}}</a><sup>1</sup>                                        </td>
   <td class="left"> DOBJG, p. 247                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-mo.html#as-much-as">@HI{{mo}}</a>                                             </td>
+  <td class="left"> <a href="grammar-particle-mo.html#as-much-as">@HI{{mo}}</a><sup>2</sup>                                 </td>
   <td class="left"> DOBJG, p. 250                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
