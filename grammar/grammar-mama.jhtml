@@ -69,7 +69,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{cap^child}} kabutta @EM{{mama}} no @KJ{{study^life}}ga @KJ{{teach^room}}ni imashita.}}
+    @HI{{@KJ{{cap^child}}wokabutta@EM{{mama}}no@KJ{{study^life}}ga@KJ{{teach^room}}niimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     There was a student still wearing a hat in the classroom.
@@ -83,7 +83,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 236).
+<li> @REF{{DOBJG}}. (p. 236).
 </ol>
 
 @include{{"grammar-footer.inc"}}
