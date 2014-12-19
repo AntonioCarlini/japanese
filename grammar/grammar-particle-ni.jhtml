@@ -68,6 +68,17 @@
 @BGRND{{}}
 <p>
 @EM{{@HI{{ni}}}} indicates a specific <a name="time">time</a>.
+</p>
+
+<p>
+Note that a number ox expressions <em>cannot</em> take @HI{{@EM{{ni}}}}, for example
+@HI{{asa}}, @KJ{{bright^day}}, @KJ{{yesterday^day}}, @KJ{{now^day}}, @HI{{ototoi}},
+@KJ{{come^year}} and @FG{{@KJ{{utmost^near}}:saikinn}}.
+</p>
+
+<p>
+Generally, if a time expression can be specified uniquely in terms of digits it can take @HI{{@EM{{ni}}}},
+otherwise it cannot. @HI{{@EM{{ni}}}} is optional with the four seasons.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
