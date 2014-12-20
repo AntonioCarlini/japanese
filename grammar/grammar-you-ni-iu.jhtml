@@ -21,6 +21,8 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
 <p>
 This sentence pattern is used to tell someone to do something. In this case the verb must be volitional.
 
@@ -32,11 +34,13 @@ This sentence pattern is used to tell someone to do something. In this case the 
       Mr. Sakamoto told Yukie to be waiting in front of the library.
   </td> </tr>
 </table>
+</p>
 
+<p>
 In this usage the verb @KJ{{say}}@HI{{u}} can be replaced by similar verbs such as @HI{{tanomu}}, @HI{{meijiru}} and @HI{{motomeru}}.
 </p>
-<hrule>
 
+@BGRND{{}}
 <p>
 This sentence pattern can also be used to mean "to say in such a way". In this case the verb must be non-volitional.
 
@@ -49,7 +53,8 @@ This sentence pattern can also be used to mean "to say in such a way". In this c
   </td> </tr>
 </table>
 </p>
-<hrule>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
