@@ -879,7 +879,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-N1-to-iu-N2.html"> @HI{{toiu}} </a>                                                    </td>
+  <td class="left"> <a href="grammar-to-iu.html"> @HI{{toiu}} </a>                                                          </td>
   <td class="left"> DOBJG, p. 486                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
