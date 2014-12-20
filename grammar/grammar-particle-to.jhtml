@@ -240,7 +240,11 @@ replacing them.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 33).
+<li> @REF{{AAP}}. (p. 33).
+<li> @REF{{DOBJG}}. (p. 473).
+<li> @REF{{DOBJG}}. (p. 476).
+<li> @REF{{DOBJG}}. (p. 478).
+<li> @REF{{DOBJG}}. (p. 480).
 </ol>
 
 @include{{"grammar-footer.inc"}}
