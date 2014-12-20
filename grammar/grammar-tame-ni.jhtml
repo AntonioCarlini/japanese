@@ -25,7 +25,7 @@
 <h2> Definition </h2>
 
 <p>
-This sentence patterns indicates a purpose because the main clause is a volitional expression.
+This sentence pattern indicates a purpose if the main clause is a volitional expression.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -68,7 +68,7 @@ The pattern @N{{}} @HI{{no @EM{{tameni}}}} can also indicate
 <h2> Notes </h2>
 
 <p>
-The similar expression <a href="grammar-you-ni.html">@HI{{you ni}}</a>
+The similar expression <a href="grammar-you-ni.html">@HI{{youni}}</a>
  is used in clauses with verbs that do not contain volition,
 whereas @EM{{@HI{{tameni}}}} is used with verbs that do. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
