@@ -27,12 +27,31 @@
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{monoka}}}} is a sentence ending particle that marks a rhetorical question used to express a resolve
-not to do something or a strong negative view.
+<a name="disagree"> @EM{{@HI{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to express a
+strong negative view or disagreement.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{pond^rice*field}}:ikeda}}@KJ{{before^life}},@KJ{{parent^cut}}na@KJ{{before^life}}?}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@KJ{{parent^cut}}na@EM{{monka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Is Professor Ikeda a kind teacher?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Definitely not kind.
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+<p>
+<a name="intend-not">@EM{{@HI{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to
+express a resolve not to do something.
 
+<ol>
+<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{an'na@KJ{{place}},mou@KJ{{going}}u@EM{{monka}}.}}
@@ -41,6 +60,36 @@ not to do something or a strong negative view.
       I wouldn't be caught dead going there again.
   </td> </tr>
 </table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{an'nayatsutoha@KJ{{two^degrees}}@KJ{{fit}}u@EM{{monoka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I intend never to see that sort of guy again.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+<p>
+In male speech @EM{{@HI{{monoka}}}} becomes @EM{{@HI{{monka}}}} in colloquial male speech.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}},}}TOEFL@HI{{ga650@KJ{{spot}}dattateyo.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{masaka! son'nakotogaaru@EM{{monka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: I heard that Suzki got 650 points on the TOEFL.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Unbelievable! That can't be true!
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -49,6 +98,9 @@ not to do something or a strong negative view.
 <ol>
 <li> @REF{{AAP}}. (p. 144).
 <li> @REF{{DOAJG}}. (p. 266).
+<li> @REF{{NKZM-N2G}}. (p. 56).
+<li> @REF{{NKZM-N2G}}. (p. 109).
+<li> @REF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}
