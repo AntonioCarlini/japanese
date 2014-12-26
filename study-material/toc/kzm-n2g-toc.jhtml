@@ -381,7 +381,7 @@ div.main {
 <li> ~@HI{{monoda}}
 <li> ~@HI{{toiumonoda}}
 <li> ~@HI{{monoda}}
-<li> ~@HI{{monodehanai}}
+<li> ~<a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> ~<a href="grammar-particle-mono-ka-not.html#intend-not">@HI{{monoka}}</a> (intend not to)
 <li> ~@HI{{taimonoda}}
 <li> ~@Vte@HI{{hoshiimonoda}}

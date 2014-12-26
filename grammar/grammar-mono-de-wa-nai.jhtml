@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{monodehanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{monodehanai}}" grammar="@HI{{monodehanai}}"}}
+
+<body>
+
+<h1>@HI{{monodehanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}(non past)@EM{{@HI{{monodehanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{monodehanai}}}} can be used by the speaker to express that one should not do something, that one could not possibly
+do something or that one cannot do something due to obvious reasons.
+</p>
+
+<p>
+@HI{{@EM{{monodehanai}}}} can be used to express that something should not be done because to do so violates common ethics.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{night^slow}}:yoruoso}}ku@KJ{{person}}ni@KJ{{electricity^tale}}wokakeru@EM{{monodehanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You should not call people late at night.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{@EM{{monodehanai}}}} can be used by the speaker to express that one could not possibly do something
+because the quality is perceived to be very poor. In this usage the preceding potential verb is in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'natsumaranai@KJ{{little^rumor/explanation}},@KJ{{read}}meta@EM{{monjanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I couldn't possibly read such a boring novel.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{@EM{{monodehanai}}}} can be used by the speaker to express that one cannot do something
+for reasons that are natural and obvious.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{resign^write}}:jisho}}nadohasou@KJ{{simplicity^simple}}ni@KJ{{write}}keru@EM{{monodehanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is natural that dictionaries cannot be written so easily.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 263).
+<li> @REF{{NKZM-N2G}}. (p. 108).
+<li> @REF{{NKZM-N2G}}. (p. 128).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
