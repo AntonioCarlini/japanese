@@ -16,7 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{monono}}}}.
+<li> @Vplain{{}}@EM{{@HI{{monono}}}}
+<li> @Ai{{}}@EM{{@HI{{monono}}}}
+<li> @Ana{{}}@EM{{@HI{{monono}}}}
+<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{monono}}}}
+<li> @N{{}}@HI{{dearu}}@EM{{@HI{{monono}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -48,10 +52,17 @@ It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredo
 
 <h2> Notes </h2>
 
+<p>
+In @S1{{}}@HI{{@EM{{monono}}}}@S2{{}}, @S2{{}} is a fact which is generally unexpected given the factual contents of @S1{{}}.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 95).
+<li> @REF{{DOAJG}}. (p. 274).
+<li> @REF{{NKZM-N2G}}. (p. 64).
+<li> @REF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}
