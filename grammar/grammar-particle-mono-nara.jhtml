@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{mononara}}}}.
+<li> @V{{}}(pot.non-past)@EM{{@HI{{mononara}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -33,6 +33,21 @@ After a verb in the potential or volitional form, @EM{{@HI{{mononara}}}} indicat
   </td> </tr>
   <tr class="en"> <td>
       If you think you can do it, go ahead and try.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+With an imperative sentence, @EM{{@HI{{mononara}}}} is a challenge to the listener, with an implied "I bet you can't".
+This form can only be used in spoken language.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{one^person}}deyareru@EM{{mononara}},yattemiro!}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you think you can do it by yourself, go ahead and do it!
   </td> </tr>
 </table>
 </p>
@@ -74,6 +89,9 @@ After a verb in the potential or volitional form, @EM{{@HI{{mononara}}}} indicat
 
 <ol>
 <li> @REF{{AAP}}. (p. 103).
+<li> @REF{{DOAJG}}. (p. 272).
+<li> @REF{{NKZM-N2G}}. (p. 68).
+<li> @REF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}
