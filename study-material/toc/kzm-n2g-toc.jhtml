@@ -373,8 +373,8 @@ div.main {
 <li> ~@HI{{toiumonodehanai}}
 <li> ~<a href="grammar-particle-mono-no.html">@HI{{monono}}</a>
 <li> ~@HI{{tohaiumonono}}
-<li> ~<a href="grammar-particle-mono-nara.html">@HI{{mononara}}</a>
-<li> ~@Vyou{{}}@HI{{mononara}}
+<li> ~<a href="grammar-particle-mono-nara.html#unlikely">@HI{{mononara}}</a>
+<li> ~<a href="grammar-particle-mono-nara.html#undesirable">@Vyou{{}}@HI{{mononara}}</a>
 <li> ~@HI{{monode}}
 <li> ~@HI{{monodakara}}
 <li> ~@HI{{mono}}

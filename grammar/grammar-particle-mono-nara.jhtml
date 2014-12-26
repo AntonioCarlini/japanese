@@ -17,6 +17,7 @@
 
 <ol>
 <li> @V{{}}(pot.non-past)@EM{{@HI{{mononara}}}}.
+<li> @Vyou{{}}@EM{{@HI{{mononara}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +26,8 @@
 
 @BGRND{{}}
 <p>
-After a verb in the potential or volitional form, @EM{{@HI{{mononara}}}} indicates a condition and result, with a sense of censure or threat.
+<a name="unlikely">After</a> a verb in the potential form,
+@EM{{@HI{{mononara}}}} indicates a condition and result, with a sense of censure or threat.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -48,6 +50,20 @@ This form can only be used in spoken language.
   </td> </tr>
   <tr class="en"> <td>
       If you think you can do it by yourself, go ahead and do it!
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="undesirable">After</a> a verb in the volitional form, @EM{{@HI{{mononara}}}} marks an undesirable hypothetical situation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{pedestal^wind}}:taifuu}}demo@KJ{{come}}you@EM{{mononara}},kono@FG{{@KJ{{little^roof}}:koya}}ha@FG{{@KJ{{demolition}}:kowa}}resouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If a typhoon comes, this hut looks like it will be destroyed.
   </td> </tr>
 </table>
 </p>
@@ -92,6 +108,7 @@ This form can only be used in spoken language.
 <li> @REF{{DOAJG}}. (p. 272).
 <li> @REF{{NKZM-N2G}}. (p. 68).
 <li> @REF{{NKZM-N2G}}. (p. 128).
+<li> @REF{{DOAJG}}. (p. 728).
 </ol>
 
 @include{{"grammar-footer.inc"}}
