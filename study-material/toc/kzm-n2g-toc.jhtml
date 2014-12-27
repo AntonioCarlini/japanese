@@ -349,7 +349,47 @@ div.main {
 
 <h3>B</h3>
 
+<ol>
+<li> ~@HI{{toitta}}
+<li> ~@HI{{toieba}}
+<li> ~@HI{{toiuto}}
+<li> ~@HI{{toittara}}
+<li> ~@HI{{toittemo}}
+<li> ~@HI{{karatoitte}}
+<li> ~@HI{{tohaiinagara}}
+<li> ~@HI{{karashite}}
+<li> ~@HI{{toshitara}}
+<li> ~@HI{{tosureba}}
+<li> ~@HI{{tosuruto}}
+<li> ~@HI{{nishitemo}}
+<li> ~@HI{{nishiro}}
+<li> ~@HI{{nishiteha}}
+<li> ~@HI{{nishitara}}
+<li> ~@HI{{nisureba}}
+<li> ~@HI{{karasuruto}}
+<li> ~@HI{{karaiuto}}
+</ol>
+
 <h3>C</h3>
+
+<ol>
+<li> ~@HI{{mokamawazu}}
+<li> ~@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
+<li> ~@HI{{nikakawarazu}}
+<li> ~@HI{{nimokakarawazu}}
+<li> ~@HI{{zushimaida}}
+<li> ~@HI{{zunihairarenai}}
+<li> ~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
+<li> ~@HI{{bekida}}
+<li> ~@HI{{bekidehanai}}
+<li> ~@HI{{mai}}
+<li> ~@HI{{dehaarumaika}}
+<li> ~@HI{{mai}}
+<li> ~@HI{{tsutsu}}
+<li> ~@HI{{tsutsuaru}}
+<li> ~@HI{{tsutsu}}(@HI{{mo}})
+<li> ~@HI{{niseyo}}
+</ol>
 
 <h3>D</h3>
 
@@ -369,7 +409,7 @@ div.main {
 <li> ~<a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> ~<a href="grammar-particle-mono-ka-not.html#intend-not">@HI{{monoka}}</a> (intend not to)
 <li> ~<a href="grammar-tai-mono-da.html">@HI{{taimonoda}}</a>
-<li> ~@Vte@HI{{hoshiimonoda}}
+<li> ~@Vte{{}}@HI{{hoshiimonoda}}
 <li> ~<a href="grammar-mono-da.html#nostalgic">@HI{{monoda}}</a>
 <li> ~<a href="grammar-mono-da.html#conviction">@HI{{monoda}}</a>
 <li> ~@HI{{naimono}}(@HI{{darou}})@HI{{ka}}
