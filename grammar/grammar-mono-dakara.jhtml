@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{monodakara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{monodakara}}" grammar="@HI{{monodakara}}"}}
+
+<body>
+
+<h1>@HI{{monodakara}}</h1>
+<h1>@HI{{monode}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@EM{{@HI{{monodakara}}}}@S2{{}}
+<li> @S1{{}}@EM{{@HI{{monode}}}}@S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{monodakara}}}} is used by the speaker to indicate a reason in the first clause for something that happens in the second clause. 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sumimasenn. @KJ{{yesterday^day}}hachotto@KJ{{heat}}gaatta@EM{{monodesukara}},o@KJ{{rest}}mimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm sorry. Yesterday I had a bit of a fever, so I rested.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@EM{{@HI{{monode}}}} is also used by the speaker as a conjunction
+to indicate a reason in the first clause for something that happens in the second clause. 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{watashi,@FG{{@KJ{{near^eyeball}}:kingann}}na@EM{{monde}},o@KJ{{face}}yokumienakattandesu. @FG{{@KJ{{lose^salute}}:shitsurei}}shimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I'm shortsighted I often cannot see faces. I'm sorry.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JACG}}. (p. 251).
+<li> @REF{{NKZM-N2G}}. (p. 74).
+<li> @REF{{NKZM-N2G}}. (p. 128).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

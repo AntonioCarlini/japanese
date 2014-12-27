@@ -28,19 +28,28 @@
 @EM{{@HI{{monoda}}}} is used by the speaker to present a situation as though it were a tangible object.
 </p>
 
-<h2> Examples </h2>
+<p>
+<a name="statement">@EM{{@HI{{monoda}}}}</a> can indicate emotive excuse.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{yokusonnnabakanakotowoshita@EM{{monoda}}.}}
+      A: @HI{{doushite@KJ{{come}}kanaino?}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{datte,@KJ{{busy}}shii,no.}}
   </td> </tr>
   <tr class="en"> <td>
-      How could you do such a foolish thing!
+      A: How come you don't go there?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: 'Cause I'm busy.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="exclamation">@EM{{@HI{{monoda}}}}</a> can indicate an exclamation.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{yokuannna@KJ{{male}}to@KT{{de-to}}@KJ{{exit^come}}ru@EM{{monodesu}}.}}
@@ -49,7 +58,11 @@
       How could you date such a man!
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+<a name="nostalgia">@EM{{@HI{{monoda}}}}</a> can indicate nostalgic reminiscence.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{once*upon*a*time}}hayoku@KJ{{reflect^brush-stroke}}wo@KJ{{see}}ta@EM{{monodesu}}.}}
@@ -58,7 +71,47 @@
       I used to see films a lot!
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+<a name="desire">@EM{{@HI{{monoda}}}}</a> can indicate desire. See also <a href="grammar-tai-mono-da.html">here</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'naiiuchini@KJ{{one^degrees^dwell}}de@KJ{{see}}tai@EM{{monoda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'd like to live in such a nice house.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="should">@EM{{@HI{{monoda}}}}</a> can indicate something one should do.
+To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{morning^person}}ni@KJ{{meeting}}ttara[ohayou]to@KJ{{say}}u@EM{{monodesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You should say "Good Morning" when you see people in the morning.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="conviction">@EM{{@HI{{monoda}}}}</a> can indicate an indirect conviction.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{year}}wo@KJ{{take}}ruto@KJ{{once*upon*a*time}}nokotowo@KJ{{tale}}shitagaru@EM{{monoda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When one grows old, one wantst to talk about the past.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -66,6 +119,10 @@
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 257).
+<li> @REF{{NKZM-N2G}}. (p. 104).
+<li> @REF{{NKZM-N2G}}. (p. 108).
+<li> @REF{{NKZM-N2G}}. (p. 116).
+<li> @REF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}

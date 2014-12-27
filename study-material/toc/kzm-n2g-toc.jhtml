@@ -375,18 +375,18 @@ div.main {
 <li> ~@HI{{tohaiumonono}}
 <li> ~<a href="grammar-particle-mono-nara.html#unlikely">@HI{{mononara}}</a>
 <li> ~<a href="grammar-particle-mono-nara.html#undesirable">@Vyou{{}}@HI{{mononara}}</a>
-<li> ~@HI{{monode}}
-<li> ~@HI{{monodakara}}
+<li> ~<a href="grammar-mono-dakara.html">@HI{{monode}}</a>
+<li> ~<a href="grammar-mono-dakara.html">@HI{{monodakara}}</a>
 <li> ~@HI{{mono}}
-<li> ~@HI{{monoda}}
+<li> ~<a href="grammar-mono-da.html#statement">@HI{{monoda}}</a>
 <li> ~@HI{{toiumonoda}}
-<li> ~@HI{{monoda}}
+<li> ~<a href="grammar-mono-da.html#should">@HI{{monoda}}</a>
 <li> ~<a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> ~<a href="grammar-particle-mono-ka-not.html#intend-not">@HI{{monoka}}</a> (intend not to)
 <li> ~<a href="grammar-tai-mono-da.html">@HI{{taimonoda}}</a>
 <li> ~@Vte@HI{{hoshiimonoda}}
-<li> ~@HI{{monoda}}
-<li> ~@HI{{monoda}}
+<li> ~<a href="grammar-mono-da.html#nostalgic">@HI{{monoda}}</a>
+<li> ~<a href="grammar-mono-da.html#conviction">@HI{{monoda}}</a>
 <li> ~@HI{{naimono}}(@HI{{darou}})@HI{{ka}}
 <li> ~@HI{{monogaaru}}
 <li> ~(@HI{{nokoto}})@HI{{tonaruto}}

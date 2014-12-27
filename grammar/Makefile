@@ -125,6 +125,7 @@ JHTML_SRCS += grammar-me.jhtml
 JHTML_SRCS += grammar-mieru.jhtml
 JHTML_SRCS += grammar-mitai.jhtml
 JHTML_SRCS += grammar-mono-da.jhtml
+JHTML_SRCS += grammar-mono-dakara.jhtml
 JHTML_SRCS += grammar-mono-de-wa-nai.jhtml
 JHTML_SRCS += grammar-mou.jhtml
 JHTML_SRCS += grammar-n-desu.jhtml
