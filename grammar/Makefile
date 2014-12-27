@@ -274,6 +274,7 @@ JHTML_SRCS += grammar-suruto.jhtml
 JHTML_SRCS += grammar-ta-koto-ga-aru.jhtml
 JHTML_SRCS += grammar-tabi-ni.jhtml
 JHTML_SRCS += grammar-tachi.jhtml
+JHTML_SRCS += grammar-tai-mono-da.jhtml
 JHTML_SRCS += grammar-tai.jhtml
 JHTML_SRCS += grammar-tamaranai.jhtml
 JHTML_SRCS += grammar-tame-ni.jhtml
