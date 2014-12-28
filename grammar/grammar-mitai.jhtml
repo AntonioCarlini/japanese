@@ -16,28 +16,69 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{mitai}}}}
-<li> @Ai{{}} @EM{{@HI{{mitai}}}}
-<li> @Ana{{}} @EM{{@HI{{mitai}}}}
-<li> @N{{}} @EM{{@HI{{mitai}}}}
+<li> @Vplain{{}}@HI{{@EM{{mitai}}}}
+<li> @Ai{{}}@HI{{@EM{{mitai}}}}
+<li> @Ana{{}}@HI{{@EM{{mitai}}}}
+<li> @N{{}}@HI{{@EM{{mitai}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{mitai}}}} expresses the likelihood of something or the likeness of something to something else.
+@HI{{@EM{{mitai}}}} expresses the likelihood of something or the likeness of something to something else.
 In this respect its usage is the same as <a href="grammar-you-desu.html">@HI{{you desu}}</a>. However,
-@EM{{@HI{{mitai}}}} is a colloquial usage.
+@HI{{@EM{{mitai}}}} is a colloquial usage.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{waa,konoo@KJ{{sake}},@KT{{ju-su}}@EM{{mitai}}dane.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Whoa! This cocktail tastes like juice, doesn't it!
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+@BGRND{{}}
+<p>
+The pre-nominal form is @HI{{@EM{{mitai}}na}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{watashiha@KT{{ju-su}}@EM{{mitai}}nao@KJ{{sake}}shika@KJ{{drink}}manai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I only drink cocktails that resemble juice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The adverbial form form is @HI{{@EM{{mitai}}ni}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{konoo@KJ{{sake}}ha@KT{{ju-su}}@EM{{mitai}}ni@FG{{@KJ{{sweet}}:ama}}iyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Hey, this cocktail is as sweet as juice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 550).
+<li> @REF{{DOBJG}}. (p. 550).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}
