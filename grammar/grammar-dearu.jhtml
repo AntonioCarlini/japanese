@@ -16,20 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Anastem{{}} @EM{{@HI{{dearu}}}}
-<li> @N{{}} @EM{{@HI{{dearu}}}}
+<li> @Anastem{{}} @HI{{@EM{{dearu}}}}
+<li> @N{{}} @HI{{@EM{{dearu}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{dearu}}}} is a copula used in formal speech and writing.
-</p>
+@HI{{@EM{{dearu}}}} is a copula used in formal speech and writing.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@FG{{@KJ{{person^interval}}:ningenn}}ha@FG{{@KJ{{consider}}eru:kangaeru}}@FG{{@KJ{{reed}}:ashi}}@EM{{dearu}}.}}
@@ -38,22 +36,40 @@
       Man is a thinking reed.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nodearu}}}} is used in place of @HI{{noda}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{generation^world^in}}:sekaijuu}}no@FG{{@KJ{{hito^nomu}}:hitobito}}ga@FG{{@KJ{{ground^ball}}:chikyuu}}no@FG{{@KJ{{even^harmony}}:heiwa}}wo
+      @KJ{{petition}}tteiruno@EM{{dearu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      People all over the world are hoping for peace.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{dearu}}}} is used only in written Japanese.
+@HI{{@EM{{dearu}}}} is used only in written Japanese.
 </p>
 
 <p>
-@EM{{@HI{{dearu}}}} and @HI{{da}} can be used together in formal writing. Neither can be used with @HI{{desu}}.
+@HI{{@EM{{dearu}}}} and @HI{{da}} can be used together in formal writing. Neither can be used with @HI{{desu}}.
 </p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 30).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -113,7 +113,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{no}}/@HI{{no}}?
 <li> <a href="grammar-.html"></a>@HI{{cha}}/@HI{{toku}}/@HI{{teru}}
 <li> <a href="grammar-.html"></a>@Vsaserareru{{}}
-<li> <a href="grammar-.html"></a>@HI{{dearu}}
+<li> ~<a href="grammar-dearu.html">@HI{{dearu}}</a>
 <li> <a href="grammar-.html"></a>@Vmasustem{{}}@HI{{,}}@Vmasustem{{}}/@HI{{kute}}@HI{{,}}@HI{{kute}}
 <li> <a href="grammar-.html"></a>@HI{{garu}}/@HI{{gatteiru}}
 <li> <a href="grammar-.html"></a>~@HI{{koto}}/~@HI{{toiukoto}}
