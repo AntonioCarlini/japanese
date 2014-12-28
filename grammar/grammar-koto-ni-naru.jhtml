@@ -22,8 +22,10 @@
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's
-volition.
+@EM{{@HI{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's volition.
+The focus is on the action that happens.
+It differs from <a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>, which marks a volitional decision.
+
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,7 +44,7 @@ the experiencer has made a decision and so is considered to be more polite. Comp
 
 <p>
 Using @EM{{@HI{{kotoninatteiru}}}} shows that a decision took place at some point in the past and its results are still in effect. It may go so
-far as to indicate that something has become a rule or a custom./
+far as to indicate that something has become a rule or a custom.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -60,6 +62,7 @@ far as to indicate that something has become a rule or a custom./
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 202).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -330,6 +330,7 @@ JHTML_SRCS += grammar-toki.jhtml
 JHTML_SRCS += grammar-tokoro-de.jhtml
 JHTML_SRCS += grammar-tokoro-ga.jhtml
 JHTML_SRCS += grammar-tokoro-place.jhtml
+JHTML_SRCS += grammar-tokoro-when.jhtml
 JHTML_SRCS += grammar-tokoro.jhtml
 JHTML_SRCS += grammar-toori-ni.jhtml
 JHTML_SRCS += grammar-toshite-wa.jhtml

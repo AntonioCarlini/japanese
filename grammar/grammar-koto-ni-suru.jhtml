@@ -28,8 +28,9 @@
 @BGRNDSTART{{}}
 
 <p>
-@EM{{@HI{{kotonisuru}}}} indicates a volitional decision. It is a more complex form of
-<a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
+@EM{{@HI{{kotonisuru}}}} indicates a volitional decision, it's focus is on who is going to take the action.
+In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>, which indicates a non-volitional decision.
+@EM{{@HI{{kotonisuru}}}} is a more complex form of <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
 
 <ol>
 <li>
@@ -55,20 +56,6 @@
 
 @BGRND{{}}
 <p>
-The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in force.
-
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{meat}}woamari@KJ{{eat}}nai<strong>kotonishiteiru</strong.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I make it a rule not to eat very much meat.
-  </td> </tr>
-</table>
-</p>
-
-@BGRND{{}}
-<p>
 To say that one has decided not to do something, negate the verb before @EM{{@HI{{kotonisuru}}}}.
 
 <table class="sentence">
@@ -77,6 +64,36 @@ To say that one has decided not to do something, negate the verb before @EM{{@HI
   </td> </tr>
   <tr class="en"> <td>
       I thought I would go to the picnic, but I decided not to.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in force.
+This is a previously decided habit.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^weekday^weekday^day}}no@KJ{{night}}ha@KJ{{outside}}de@KJ{{eat^matter}}wosuru@EM{{kotonishiteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We make it a rule to eat out on Sunday evening.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The form @EM{{@HI{{kotonishiteiru}}}} with a negative form indicates that a previous decision
+not to do something is still in force.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{meat}}woamari@KJ{{eat}}benai<strong>kotonishiteiru</strong.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I make it a rule not to eat very much meat.
   </td> </tr>
 </table>
 </p>
@@ -90,6 +107,7 @@ To say that one has decided not to do something, negate the verb before @EM{{@HI
 <ol>
 <li> @REF{{DOBJG}}. (p. 204).
 <li> @REF{{NKZM-N3G}}. (p. 50).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

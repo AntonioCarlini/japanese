@@ -89,7 +89,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{youni@KJ{{say}}u}}/@KJ{{pour^idea}}@HI{{suru}}/
     @KJ{{transmit}}@HI{{eru}}/@KJ{{trust}}@HI{{mu}}
 <li> ~<a href="grammar-mitai.html">@HI{{mitaida}}</a> @MIDDOT{{}} ~<a href="grammar-mitai.html">@HI{{mitaina}}</a> @MIDDOT{{}} ~<a href="grammar-mitai.html">@HI{{mitaini}}</a>
-<li> <a href="grammar-.html"></a>@HI{{tokoro}}
+<li> ~<a href="grammar-tokoro-when.html">@HI{{tokoro}}</a>
 </ol>
 
 <h2><a name="chapter3">Chapter 3</a></h2>
@@ -97,8 +97,10 @@ div.main {
 <ol>
 <li> <a href="grammar-.html"></a>@Vsasete{{}}@HI{{moraemasenka}}/@Vsasete{{}}@HI{{itadakemasenka}}/
     @Vsasete{{}}@HI{{moraenaideshou}}/@Vsasete{{}}@HI{{itadakenaideshou}}
-<li> <a href="grammar-.html"></a>@HI{{kotonisuru}}/@HI{{kotonishiteiru}}
-<li> <a href="grammar-.html"></a>@HI{{kotoninaru}}/@HI{{kotoninatteiru}}
+<li> ~<a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>
+<li> ~<a href="grammar-koto-ni-suru.html">@HI{{kotonishiteiru}}</a>
+<li> ~<a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>
+<li> ~<a href="grammar-koto-ni-naru.html">@HI{{kotoninatteiru}}</a>
 <li> <a href="grammar-.html"></a>@Vte{{}}@HI{{hoshii}}/@Vnaide{{}}@HI{{hoshii}}
 <li> <a href="grammar-.html"></a>@HI{{souna}}/@HI{{souni}}/@HI{{nasasou}}/@HI{{soumonai}}
 <li> <a href="grammar-.html"></a>@Vta{{}}@HI{{ato}}
