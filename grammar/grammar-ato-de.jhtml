@@ -16,31 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} @EM{{@HI{{atode}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{atode}}}}
+<li> @Vta{{}}@EM{{@HI{{atode}}}}
+<li> @N{{}}@HI{{no}}@EM{{@HI{{atode}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{atode}}}} states that the main clause
-occurred after the clause preceding the @EM{{@HI{{atode}}}}.
-</p>
+@HI{{@EM{{atode}}}} states that the main clause occurred after the clause preceding the @HI{{@EM{{atode}}}}.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{attend^matter}}no@EM{{atode}},@KJ{{drink}}mini@KJ{{going}}kimasenka.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Shall we go and have a drink after work?
-  </td> </tr>
-</table>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{new}}shiinowo@KJ{{buy}}tta @EM{{atode}},nakushita @KJ{{time^plot}}ga@KJ{{see}}tsukarimashita.}}
@@ -49,7 +34,33 @@ occurred after the clause preceding the @EM{{@HI{{atode}}}}.
       After I bought a new watch I found the old one I'd lost.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+@HI{{@EM{{atode}}}} can be used after a noun that indicates an event.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{attend^matter}}no@EM{{atode}},@KJ{{drink}}mini@KJ{{going}}kimasenka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Shall we go and have a drink after work?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When the main clause contains words such as @HI{{iru}} or @HI{{aru}}, @HI{{@EM{{atode}}}} sounds awkward and @HI{{@EM{{ato}}}} should be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{impart^business}}:jugyou}}ga@KJ{{finish}}watta@EM{{ato}},@KJ{{study^life}}ga2,3@KJ{{person}}mada@KJ{{teach^room}}ni@FG{{@KJ{{remainder}}:noko}}tteimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      After the lesson was over, two or three students were still in the classroom, staying behind.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
@@ -58,7 +69,7 @@ In informal conversations, @HI{{de}} may be dropped.
 </p>
 
 <p>
-<a href="grammar-te-kara.html">@Vte{{}}@HI{{kara}}</a> has a similar meaning but means "immediately after" whereas @EM{{@HI{{atode}}}}
+<a href="grammar-te-kara.html">@Vte{{}}@HI{{kara}}</a> has a similar meaning but means "immediately after" whereas @HI{{@EM{{atode}}}}
 means "(any time) after".
 </p>
  
@@ -67,6 +78,7 @@ means "(any time) after".
 <ol>
 <li> @REF{{DOBJG}}. (p. 78).
 <li> @REF{{MNN-TR-II}}. (Chapter 34).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}
