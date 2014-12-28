@@ -153,10 +153,11 @@ div.main {
 <h2><a name="chapter7">Chapter 7</a></h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>~ @HI{{nakutehanaranai}} / @HI{{ikenai}} / @HI{{nakutemokamawanai}}
+<li> ~<a href="grammar-nakute-wa-naranai.html">@HI{{nakutehanaranai}} / @HI{{ikenai}}</a> /
+  <a href="grammar-nakute-mo-kamawanai.html">@HI{{nakutemokamawanai}}</a>
 <li> <a href="grammar-.html"></a>~ @HI{{nakucha}}/ @HI{{nakya}}[@HI{{ikenai}}]
-<li> <a href="grammar-.html"></a>@HI{{dakeda}}/@HI{{dakedeii}}
-<li> <a href="grammar-.html"></a>@HI{{kana}}
+<li> <a href="grammar-particle-dake.html">@HI{{dakeda}}</a>/<a href="grammar-dake-de-ii.html">@HI{{dakedeii}}</a>
+<li> <a href="grammar-particle-kana.html">@HI{{kana}}</a>
 <li> <a href="grammar-.html"></a>~ @N{{}}@HI{{nanka}}
 <li> <a href="grammar-.html"></a>@HI{{nante}}
 <li> <a href="grammar-.html"></a>@Vsaseru{{}} (emotion)

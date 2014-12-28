@@ -16,7 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{kana}}}}. 
+<li> @Vru{{}}@EM{{@HI{{kana}}}}. 
+<li> @Ai{{}}@EM{{@HI{{kana}}}}. 
+<li> @Anastem{{}}@EM{{@HI{{kana}}}}. 
+<li> @N{{}}@EM{{@HI{{kana}}}}. 
+<li> <em>interrogative</em>@EM{{@HI{{kana}}}}. 
 </ol>
 
 <h2> Definition </h2>
@@ -30,8 +34,8 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 <p>
 
 @BGRNDSTART{{}}
-@BGRND{{}}
 
+@BGRND{{}}
 <p>
 <a name="uncertainty">@EM{{@HI{{kana}}}}</a> indicates uncertainty.
 
@@ -73,6 +77,21 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="softened-invitation">@HI{{nai}}@EM{{@HI{{kana}}}}</a> makes an invitation or request less direct.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{3@KJ{{time}}madenikono@FG{{@KJ{{assets^fee}}:shiryou}}wo@FG{{@KJ{{whole^section}}:zenbu}}@KT{{kopi-}}shinakerebanaranaindakedo,
+      @FG{{@KJ{{hand^transmit}}:tetsuda}}ttekurenai@EM{{kana}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have to get all of these materials copied by three o'clock, and I wondered whether you might not be able to help me.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -82,6 +101,7 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 <ol>
 <li> @REF{{AAP}}. (p. 133).
 <li> @REF{{DOIJG}}. (p. 90).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

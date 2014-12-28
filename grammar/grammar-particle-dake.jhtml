@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dake}}}} can also be used after a verb or an adjective.
+@EM{{@HI{{dake}}}} can also be used after a verb or an adjective. In this case it creates a predicate.
 
 <ol>
 <li>
@@ -97,6 +97,7 @@ and @HI{{wo}}, which can optionally be used only after @EM{{@HI{{dake}}}}.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 93).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

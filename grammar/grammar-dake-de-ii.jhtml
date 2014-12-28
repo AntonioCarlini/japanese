@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dakedeii}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dakedeii}}" grammar="@HI{{dakedeii}}"}}
+
+<body>
+
+<h1>@HI{{dakedeii}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@EM{{@HI{{dakedeii}}}}
+<li> @Ai{{}}@EM{{@HI{{dakedeii}}}}
+<li> @Ana{{}}@EM{{@HI{{dakedeii}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{dakedeii}}}} follows a verb to indicate that it is only necessary to perform the specified action and nothing else.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{crowded}}:ko}}mihadousurundesuka?}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{kono@KJ{{paper}}ni@FG{{@KJ{{name^in*front}}:namae}}wo@KJ{{write}}ku@EM{{dakedeii}}ndesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: How so I apply?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: All you have to do is write your name on this piece of paper.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

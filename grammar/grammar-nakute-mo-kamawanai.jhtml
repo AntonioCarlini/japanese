@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vnai{{}} @HI{{nakutemokamawanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nakutemokamawanai}}" grammar="@HI{{nakutemokamawanai}}"}}
+
+<body>
+
+<h1>@Vnai{{}}@HI{{nakutemokamawanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vnaistem{{}}@HI{{@EM{{nakutemokamawanai}}}}
+<li> @Aistem{{}}@HI{{ku@EM{{nakutemokamawanai}}}}
+<li> @Anastem{{}}@HI{{@EM{{nakutemokamawanai}}}}
+<li> @N{{}}@HI{{@EM{{nakutemokamawanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@HI{{nakutemokamawanai}}}} expresses the idea that something is not necessary.
+It is more polite than <a href="grammar-nakute-mo-ii.html">@HI{{nakutemoii}}.</a>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{heat}}ga@KJ{{below}}gattara,@KJ{{medicine}}wo@KJ{{drink}}ma@EM{{nakutemokamawanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Once your temperature has gone down, it's alright to not take the medicine.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
