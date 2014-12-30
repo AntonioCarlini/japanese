@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tonaruto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tonaruto}}" grammar="@HI{{tonaruto}}"}}
+
+<body>
+
+<h1>@HI{{tonaruto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{tonaruto}}}}
+<li> @Splain{{}}@HI{{@EM{{tonaruto}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@N{{}}@HI{{tonaruto}} means "when it comes to @N{{}}".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what}}demo@KJ{{attend^matter}}@EM{{tonaruto}}@FG{{@KJ{{music}}:raku}}namonohanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Nothing is easy when it comes to work.
+  </td> </tr>
+</table>
+</p>
+</p>
+
+<p>
+@Splain{{}}@HI{{tonaruto}} means "if it is true that S".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{secret^secrecy}}:himitsu}}ga@FG{{@KJ{{leak}}:mo}}reta@EM{{tonaruto}}kono@FG{{@KJ{{plot^brush-stroke}}:keikaku}}ha@FG{{@KJ{{unusual^grow*late}}:henkou}}shinakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If it is true that the secret has leaked, we must change plans.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{tonaruto}}}} cannot be used when the situation involves something the speaker takes to be a hypotehtical event.
+In that case, <a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a>
+is used instead.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 512).
+<li> @REF{{NKZM-N2G}}. (p. 61).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
