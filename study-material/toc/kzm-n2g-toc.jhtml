@@ -438,10 +438,10 @@ div.main {
 <li> ~<a href="grammar-to-naru-to.html">(@HI{{nokoto}})@HI{{tonaruto}}</a>
 <li> ~<a href="grammar-nai-koto-ni-wa.html">@HI{{naikotoniha}}</a>
 <li> ~@HI{{kotodashi}}
-<li> ~@HI{{nokotodakara}}
-<li> ~@HI{{kotoda}}
+<li> ~<a href="grammar-no-koto-dakara.html">@HI{{nokotodakara}}</a>
+<li> ~<a href="grammar-koto-da-should.html">@HI{{kotoda}}</a>
 <li> ~@HI{{kotohanai}}
-<li> ~@HI{{kotoda}}
+<li> ~<a href="grammar-koto-da-emotion.html">@HI{{kotoda}}</a>
 <li> ~@HI{{kotodarou}}
 <li> ~<a href="grammar-koto-ka.html">@HI{{kotoka}}</a>
 <li> ~@HI{{koto}}

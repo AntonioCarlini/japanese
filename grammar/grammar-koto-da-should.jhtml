@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotoda}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kotoda}}" grammar="@HI{{kotoda}} (should)"}}
+
+<body>
+
+<h1>@HI{{kotoda}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{kotoda}}}}.
+<li> @Vnai{{}}@HI{{@EM{{kotoda}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{kotoda}}}} is used after a verb by the speaker to express advice that something should or should not be done.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{plump}}ritakunakereba,@FG{{@KJ{{night^slow}}:yoruoso}}ku@KJ{{eat}}benai@EM{{kotodesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you don't want to gain weight, don't eat late at night.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JACG}}. (p. 223).
+<li> @REF{{NKZM-N2G}}. (p. 108).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

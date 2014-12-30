@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nokotodakara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nokotodakara}}" grammar="@HI{{nokotodakara}}"}}
+
+<body>
+
+<h1>@HI{{nokotodakara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nokotodakara}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@N{{}}@HI{{@EM{{nokotodakara}}}} is used by the speaker to present a reason for something based on what is known to usually happen with @N{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{summer}}@EM{{nokotodakara}},@KJ{{eat}}be@KJ{{thing}}niha@FG{{@KJ{{ten^part}}:juubunn}}@KJ{{spirit}}wo@KJ{{adhere}}kete@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because it is summer [when foods go bad quickly], please be very careful about what you eat.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The main clause must represent a future action, event or state.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 306).
+<li> @REF{{NKZM-N2G}}. (p. 78).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

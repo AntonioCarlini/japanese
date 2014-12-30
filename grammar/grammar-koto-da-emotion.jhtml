@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotoda}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kotoda}}" grammar="@HI{{kotoda}} (emotion)"}}
+
+<body>
+
+<h1>@HI{{kotoda}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Ai{{}}@HI{{@EM{{kotoda}}}}.
+<li> @Ana{{}}@HI{{@EM{{kotoda}}}}.
+<li> @Vta{{}}@HI{{@EM{{kotoda}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{kotoda}}}} is used after an adjective by the speaker to express emotion.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{quandary}}:koma}}ttatoki@FG{{@KJ{{help}}:tasu}}ketekureru@KJ{{friend^accomplished}}gairu. arigatai@EM{{kotoda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are friends who will help when I'm troubled. I'm thankful.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+A verb in the past can be used if it can be seen to act as an adjective.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 117).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
