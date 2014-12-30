@@ -112,7 +112,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{toiukotoda}}
 <li> <a href="grammar-.html"></a>@HI{{no}}/@HI{{no}}?
 <li> <a href="grammar-.html"></a>@HI{{cha}}/@HI{{toku}}/@HI{{teru}}
-<li> <a href="grammar-.html"></a>@Vsaserareru{{}}
+<li> ~@Vsaserareru{{}} <a href="grammar-verb-formation-causative-passive.html">(formation)</a>, <a href="grammar-verb-use-of-causative-passive.html">(usage)</a>
 <li> ~<a href="grammar-dearu.html">@HI{{dearu}}</a>
 <li> <a href="grammar-.html"></a>@Vmasustem{{}}@HI{{,}}@Vmasustem{{}}/@HI{{kute}}@HI{{,}}@HI{{kute}}
 <li> <a href="grammar-.html"></a>@HI{{garu}}/@HI{{gatteiru}}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Use of the Causative-Passive</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="Use of the Causative-Passive" grammar="Use of the Causative-Passive"}}
+
+<body>
+
+<h1>Use of the Causative-Passive</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}@HI{{ha}}@N2{{}}@HI{{ni}}@Vsaserareru{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Causative-Passive indicates compulsion or permission. 
+In the sentence pattern shown in the formation, it indicates that @N1{{}} was forced to do @V{{}} by @N2{{}} rather than doing it voluntarily.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plump^son}}:tarou}}@KJ{{mister}}ha@KJ{{before^life}}ni@KJ{{sweep^exclude}}wo@EM{{saseraremashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Taro was made to clean by the teacher.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+It is possible to omit @N2{{}}@HI{{ni}}, but the basic meaning is unchanged.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{meeting^deliberation}}deha@KJ{{every^month^new}}shii@KJ{{question^topic}}nitsuite@KJ{{polish^research}}shitakotowo@KJ{{departure^surface}}@EM{{saseraremasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At this conference, every month we are made to present what we have found out about a new issue.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

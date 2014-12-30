@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Causative-Passive Verbs</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="Causative-Passive Verbs" grammar="Causative-Passive Verbs"}}
+
+<body>
+
+<h1>Causative-Passive Verbs</h1>
+
+<h2> Formation </h2>
+
+<p>
+<dl>
+<dt> @KJ{{five}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="3"> example </th>
+<tr> <th> ending      </th> <th> dictionary      </th> <th> causative-passive     </th> <th> alternative         </th> </tr>
+<tr> <td> ~@HI{{ku}}  </td> <td> @HI{{kiku}}     </td> <td> @HI{{kikaserareru}}   </td> <td> @HI{{kikasareru}}   </td> </tr>
+<tr> <td> ~@HI{{gu}}  </td> <td> @HI{{oyogu}}    </td> <td> @HI{{oyogaserareru}}  </td> <td> @HI{{oyogasareru}}  </td> </tr>
+<tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumu}}     </td> <td> @HI{{fumaserareru}}   </td> <td> @HI{{fumasareru}}   </td> </tr>
+<tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobu}}     </td> <td> @HI{{yobaserareru}}   </td> <td> @HI{{yobasareru}}   </td> </tr>
+<tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinu}}    </td> <td> @HI{{shinaserareru}}  </td> <td> @HI{{shinasareru}}  </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iu}}       </td> <td> @HI{{iwaserareru}}    </td> <td> @HI{{iwasareru}}    </td> </tr>
+<tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{toraserareru}}   </td> <td> @HI{{torasareru}}   </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motaserareru}}   </td> <td> @HI{{motasareru}}   </td> </tr>
+<tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanasaserareru}} </td> <td> @HI{{hanasareru}}   </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> @KJ{{ichi}}@KJ{{grade}} verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp;       </th> <th colspan="3"> example </th>
+<tr> <th> ending       </th> <th> dictionary     </th> <th> causative-passive     </th> </tr>
+<tr> <td> ~@HI{{eru}}  </td> <td> @HI{{homeru}}  </td> <td> @HI{{homesaserareru}} </td> </tr>
+<tr> <td> ~@HI{{iru}}  </td> <td> @HI{{miru}}    </td> <td> @HI{{misaserareru}}   </td> </tr>
+</table>
+</p>
+
+<p>
+<dt> Irregular verbs:
+</br></br>
+<table class="highlight">
+<tr> <th> &nbsp; </th> <th colspan="3"> example </th>
+<tr> <th> ending       </th> <th> dictionary   </th> <th> causative-passive   </th> </tr>
+<tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kosaserareru}} </td> </tr>
+<tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{saserareru}}   </td> </tr>
+</table>
+</p>
+
+</dl>
+
+<h2> Definition </h2>
+
+<p>
+@KJ{{five^grade}} verbs form the causative-passive by changing the final kana to the @HI{{a}}-row
+and adding the suffix @HI{{serareru}}. Note that ~@HI{{u}} changes to ~@HI{{wa}}.
+</p>
+
+<p>
+@KJ{{ichi^grade}} verbs form the causative-passive by dropping the final @HI{{ru}}
+and adding the suffix @HI{{saserareru}}.
+</p>
+
+<p>
+The two irregular verbs conjugate as shown above.
+</p>
+
+<p>
+All causative-passive verbs conjugate into further forms as @KJ{{ichi^grade}} verbs.
+</p>
+
+<p>
+An additional conjugation (shown here as the <em>alternative</em>) uses @HI{{sareru}} to form @KJ{{five^grade}} verbs.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
