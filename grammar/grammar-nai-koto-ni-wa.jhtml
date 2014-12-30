@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{naikotoniha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naikotoniha}}" grammar="@HI{{naikotoniha}}"}}
+
+<body>
+
+<h1>@HI{{naikotoniha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vnai{{}}@HI{{@EM{{kotoniha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{naikotoniha}}}} expresses the idea that unless the preceding clause happens then the subsequent clause cannot happen either.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{attend^matter}}ga@KJ{{end}}waru@EM{{naikotoniha}},@KJ{{house^tribe}}to@KJ{{trip^going}}ni@KJ{{going}}kukotomodekinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I don't finish this work, I cannot go on a trip with my family.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 303).
+<li> @REF{{NKZM-N2G}}. (p. 69).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

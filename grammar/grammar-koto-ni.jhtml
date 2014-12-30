@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotoni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kotoni}}" grammar="@HI{{kotoni}}"}}
+
+<body>
+
+<h1>@HI{{kotoni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{kotoni}}}}
+<li> @Ai{{}}@HI{{@EM{{kotoni}}}}
+<li> @Ana{{}}@HI{{@EM{{kotoni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{kotoni}}}} expresses the emotion or subjective judgement of the speaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ureshii@EM{{kotoni}},@KJ{{now}}@FG{{@KJ{{study^period}}:gakki}}ha@FG{{@KJ{{ritual^day}}:saijitsu}}ga3@KJ{{day}}moaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm glad there are as many as 3 holidays this term.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 235).
+<li> @REF{{NKZM-N2G}}. (p. 129).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

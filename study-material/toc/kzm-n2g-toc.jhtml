@@ -436,17 +436,17 @@ div.main {
 <li> ~@HI{{naimono}}(@HI{{darou}})@HI{{ka}}
 <li> ~@HI{{monogaaru}}
 <li> ~(@HI{{nokoto}})@HI{{tonaruto}}
-<li> ~@HI{{naikotoniha}}
+<li> ~<a href="grammar-nai-koto-ni-wa.html">@HI{{naikotoniha}}</a>
 <li> ~@HI{{kotodashi}}
 <li> ~@HI{{nokotodakara}}
 <li> ~@HI{{kotoda}}
 <li> ~@HI{{kotohanai}}
 <li> ~@HI{{kotoda}}
 <li> ~@HI{{kotodarou}}
-<li> ~@HI{{kotoka}}
+<li> ~<a href="grammar-koto-ka.html">@HI{{kotoka}}</a>
 <li> ~@HI{{koto}}
 <li> ~@HI{{kotonaku}}
-<li> ~@HI{{kotoni}}
+<li> ~<a href="grammar-koto-ni.html">@HI{{kotoni}}</a>
 <li> ~@HI{{kotoha}}~@HI{{ga}}
 <li> ~@HI{{toiukotoda}}
 <li> ~@HI{{tonokotoda}}
