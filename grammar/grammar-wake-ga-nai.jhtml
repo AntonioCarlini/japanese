@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wakeganai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wakeganai}}" grammar="@HI{{wakeganai}}"}}
+
+<body>
+
+<h1>@HI{{wakeganai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Ana{{}}@HI{{@EM{{wakeganai}}}}
+<li> @N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{wakeganai}}}} is used by the speaker to negate the preceding clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'nayasashii@KJ{{attend^matter}}ga@FG{{@KJ{{mister}}:kimi}}ni@KJ{{exit^come}}nai@EM{{wakeganai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no reason why you cannot do such an easy job.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The phrase before @HI{{@EM{{wakeganai}}}} is never in the past.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 578).
+<li> @REF{{NKZM-N2G}}. (p. 56).
+<li> @REF{{NKZM-N2G}}. (p. 132).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
