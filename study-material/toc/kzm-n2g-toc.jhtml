@@ -455,12 +455,12 @@ div.main {
 <h3><a name="chapter1.E">E</a></h3>
 
 <ol>
-<li> ~@HI{{wakeganai}}
-<li> ~@HI{{wakedehanai}}
-<li> ~@HI{{toiuwakedehanai}}
-<li> ~@HI{{wakenihaikanai}}
-<li> ~@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}
-<li> ~@HI{{wakeda}}
+<li> ~<a href="grammar-wake-ga-nai.html">@HI{{wakeganai}}</a>
+<li> ~<a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>
+<li> ~<a href="grammar-wake-dewa-nai.html">@HI{{toiuwakedehanai}}</a>
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html#obligation">@HI{{wakenihaikanai}}</a>
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html#no-choice">@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}</a>
+<li> ~<a href="grammar-wake-da.html">@HI{{wakeda}}</a>
 <li> ~@HI{{toiuwakeda}}
 <li> ~@HI{{dokorodehanai}}
 <li> ~@HI{{dokoroka}}

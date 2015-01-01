@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wakenihaikanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wakenihaikanai}}" grammar="@HI{{wakenihaikanai}}"}}
+
+<body>
+
+<h1>@HI{{wakenihaikanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}(non-past)@HI{{@EM{{wakenihaikanai}}}}
+<li> @Vnai{{}}(non-past)@HI{{@EM{{wakeni(ha)ikanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="obligation">@Vru{{}}@HI{{@EM{{wakenihaikanai}}}}</a> is used by the speaker to indicate that something cannot be done because of some external circumstance.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mada@FG{{@KJ{{determine^post}}:teishoku}}monaindakara,@KJ{{tie^marriage}}suru@EM{{wakenihaikanai}}ndesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't have a steady job, so I cannot get married.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@Vru{{}}@HI{{@EM{{wakenihaikanai}}}} would be inappropriate in the following sentence as it expresses a simple inability.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KT{{piano}}ga@KJ{{bullet}}kenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot play the piano. <em>(I do not know how to play the piano).</em>
+  </td> </tr>
+</table>
+</p>
+
+<p>
+This sentence, however, indicates that the speaker is not able to play the piano because of some external circumstance,
+for example it is late at night. It is in fact likely that the speaker does know how to play the piano.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KT{{piano}}ga@KJ{{bullet}}ku@EM{{wakenihaikanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot play the piano <em>(owing to external circumstances).</em>
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="no-choice">@Vnai{{}}@HI{{@EM{{wakenihaikanai}}}}</a> is used by the speaker to indicate that there is no choice otehr than to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{above^director}}:joushi}}no@FG{{@KJ{{fate^orders}}:meirei}}nanodakara,@FG{{@KJ{{report^revelation^write}}:houkokusho}}wo@KJ{{write}}kanai@EM{{wakenihaikanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is my boss's order, so I have no choice  but to write the report.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 581).
+<li> @REF{{NKZM-N2G}}. (p. 82).
+<li> @REF{{NKZM-N2G}}. (p. 113).
+<li> @REF{{NKZM-N2G}}. (p. 132).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
