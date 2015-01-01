@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{wakedehanai}}" grammar="@HI{{wakedehanai}}"}}
+@GRMIDX{{index="@HI{{toiuwakedehanai}}" grammar="@HI{{toiuwakedehanai}}"}}
 
 <body>
 
@@ -16,7 +17,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{wakedehanai}}}}
+<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Vplain{{}}@HI{{@EM{{toiuwakeganai}}}}
+<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Ai{{}}@HI{{@EM{{toiuwakeganai}}}}
+<li> @Ana{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Ana{{}}(@HI{{da}})@HI{{toiu}}@HI{{@EM{{wakeganai}}}}
+<li> @N{{}}@HI{{datta}}@HI{{@EM{{wakeganai}}}}
+<li> @N{{}}(@HI{{da}})@HI{{@EM{{toiuwakeganai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,6 +43,19 @@ used in cases where the circumstances may suggest one thing but the facts are di
 </table>
 </p>
 
+<p>
+@HI{{@EM{{toiuwakedehanai}}}} carries the same meaning as @HI{{@EM{{wakedehanai}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{say}}waretakotodakeshiteitarasoredeii@EM{{toiuwakedehanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Doing only what you are told is just not enough.
+  </td> </tr>
+</table>
+</p>
+
 <h2> Notes </h2>
 
 <p>
@@ -46,6 +67,8 @@ used in cases where the circumstances may suggest one thing but the facts are di
 <ol>
 <li> @REF{{DOIJG}}. (p. 574).
 <li> @REF{{NKZM-N3G}}. (p. 38).
+<li> @REF{{NKZM-N2G}}. (p. 57).
+<li> @REF{{NKZM-N2G}}. (p. 132).
 </ol>
 
 @include{{"grammar-footer.inc"}}
