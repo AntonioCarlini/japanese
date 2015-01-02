@@ -474,21 +474,21 @@ div.main {
 <h3><a name="chapter1.F">F</a></h3>
 
 <ol>
-<li> ~@HI{{yara}}~@HI{{yara}}
+<li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
 <li> ~@HI{{toiuka}}~@HI{{toiuka}}
 <li> ~@HI{{nishitemo}}~@HI{{nishitemo}}
 <li> ~@HI{{nishiro}}~@HI{{nishiro}}
 <li> ~@HI{{niseyo}}~@HI{{niseyo}}
-<li> ~@HI{{dano}}~@HI{{dano}}
+<li> ~<a href="grammar-particle-dano.html">@HI{{dano}}~@HI{{dano}}</a>
 <li> ~@HI{{ka}}~@HI{{naikanouchini}}
-<li> ~@Vyou{{}}@HI{{ka}}~@HI{{maika}}
+<li> ~<a href="grammar-you-ka-mai-ka.html">@Vyou{{}}@HI{{ka}}~@HI{{maika}}</a>
 <li> ~@HI{{toha}}
 <li> ~@HI{{gurai}}@MIDDOT{{}}@HI{{kurai}}
 <li> ~@HI{{nado}}@MIDDOT{{}}@HI{{nanka}}@MIDDOT{{}}@HI{{nante}}
 <li> ~@HI{{made}}
 <li> ~@HI{{toshite}}
-<li> ~@HI{{sae}}
-<li> ~@HI{{nomi}}
+<li> ~<a href="grammar-particle-sae.html">@HI{{sae}}</a>
+<li> ~<a href="grammar-particle-nomi.html">@HI{{nomi}}</a>
 </ol>
 
 <h3><a name="chapter1.G">G</a></h3>

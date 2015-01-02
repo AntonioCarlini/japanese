@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{nomi}}}}
-<li> @EM{{@HI{{nomi}}}} @HI{{narazu}} ... @HI{{mo}}
+<li> @N{{}}@HI{{@EM{{nomi}}}}
+<li> @HI{{@EM{{nomi}}}} @HI{{narazu}} ... @HI{{mo}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,16 +26,41 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nomi}}}} follows a noun and means that there is nothing other than  the thing stated: "only". In this usage
-@EM{{@HI{{nomi}}}} has the same meaning as <a href="grammar-particle-dake.html">@HI{{dake}}</a>, but it is used more in
-writing than in the spoken language. @EM{{@HI{{nomi}}}} can be followed by <a href="grammar-particle-shika.html">@HI{{shika}}<a/>.
+@HI{{@EM{{nomi}}}} follows a noun and means that there is nothing other than  the thing stated: "only". In this usage
+@HI{{@EM{{nomi}}}} has the same meaning as <a href="grammar-particle-dake.html">@HI{{dake}}</a>, but it is used more in
+writing than in the spoken language. @HI{{@EM{{nomi}}}} can be followed by <a href="grammar-particle-shika.html">@HI{{shika}}<a/>.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{by*means*of^in*front}},kono@KJ{{large^study}}niha@KJ{{male^sex}}@EM{{@HI{{nomi}}}}shika@KJ{{enter}}renakatta.}}
+      @HI{{@KJ{{by*means*of^in*front}},kono@KJ{{large^study}}niha@KJ{{male^sex}}@HI{{@EM{{nomi}}}}shika@KJ{{enter}}renakatta.}}
   </td> </tr>
   <tr class="en"> <td>
       In the past only men were able to enter this univeristy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When the particle @HI{{de}} appears with @HI{{@EM{{nomi}}}}, there is a subtle difference in meaning according to whether @HI{{de}}
+comes before or after @HI{{@EM{{nomi}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{day^book^word}}de@EM{{nomi}}@FG{{@KJ{{rumor/explanation^bright}}:setsumei}}@KJ{{exit^come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I can explain it only in Japanese. <em>(I cannot explain it in any other language)</em>
+  </td> </tr>
+</table>
+</p>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{day^book^word}}@EM{{nomi}}de@FG{{@KJ{{rumor/explanation^bright}}:setsumei}}@KJ{{exit^come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I can explain it in Japanese alone. <em>(I don't need any other language other than Japanese to explain it)</em>
   </td> </tr>
 </table>
 </p>
@@ -58,10 +83,16 @@ writing than in the spoken language. @EM{{@HI{{nomi}}}} can be followed by <a hr
 
 <h2> Notes </h2>
 
+<p>
+The particles @HI{{ga}} and @HI{{wo}} are optional after @HI{{@EM{{nomi}}}}. Other particles may appear either before or after @HI{{@EM{{nomi}}}}.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 86).
+<li> @REF{{DOIJG}}. (p. 308).
+<li> @REF{{NKZM-N2G}}. (p. 134).
 </ol>
 
 @include{{"grammar-footer.inc"}}

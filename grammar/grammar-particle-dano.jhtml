@@ -16,7 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{dano}}}}.
+<li> @N1{{}}@HI{{@EM{{dano}}}}@N2{{}}@HI{{@EM{{dano}}}}
+<li> @V1{{}}@HI{{@EM{{dano}}}}@V2{{}}@HI{{@EM{{dano}}}}
+<li> @Ai{{}}@HI{{@EM{{dano}}}}@Ai{{}}@HI{{@EM{{dano}}}}
+<li> @Anastem{{}}@HI{{@EM{{dano}}}}@Anastem{{}}@HI{{@EM{{dano}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dano}}}} is a particle that joins nouns in a non-exhastive list.
+@HI{{@EM{{dano}}}} is a particle that joins nouns in a non-exhaustive list.
 It is a colloquial usage.
 This usage is similar to that of <a href="grammar-particle-yara.html">@HI{{yara}}</a> and <a href="grammar-particle-toka.html">@HI{{toka}}</a>.
 
@@ -41,7 +44,7 @@ This usage is similar to that of <a href="grammar-particle-yara.html">@HI{{yara}
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dano}}}} is a particle that can be used with a pair of opposite actions or states.
+@HI{{@EM{{dano}}}} is a particle that can be used with a pair of opposite actions or states.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,10 +60,15 @@ This usage is similar to that of <a href="grammar-particle-yara.html">@HI{{yara}
 
 <h2> Notes </h2>
 
+<p>
+In the form @HI{{~@EM{{dano}}~@EM{{dano}}to}}, the speaker is usually critical of the situations stated.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 116).
+<li> @REF{{DOAJG}}. (p. 57).
 </ol>
 
 @include{{"grammar-footer.inc"}}
