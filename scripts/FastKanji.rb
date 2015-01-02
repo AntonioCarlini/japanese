@@ -1041,7 +1041,7 @@ class KD
     "umbrella" => Kanji.new(1026, 20632, ["SAN"], ["kasa"], [""], ["umbrella"], 8, 1),
     "monme" => Kanji.new(1027, 21249, [""], ["monme","me"], [""], ["monme","3.75 grams","(kokuji)"], 9, 1),
     "by*means*of" => Kanji.new(1028, 20197, ["I"], ["mochisai_tsu.te"], ["mochi"], ["by means of","because","in view of","compared with"], 4, 3),
-    "becoming" => Kanji.new(1029, 20284, ["JI"], ["ni.ru","hi.ru"], ["nita"], ["becoming","resemble","counterfeit","imitate","suitable"], 5, 2),
+    "similar" => Kanji.new(1029, 20284, ["JI"], ["ni.ru","hi.ru"], ["nita"], ["similar","becoming","resemble","counterfeit","imitate","suitable"], 5, 2),
     "join" => Kanji.new(1030, 20341, ["HEI"], ["awa.seru"], [""], ["join","get together","unite","collective"], 8, 1),
     "tile" => Kanji.new(1031, 29926, ["GA"], ["kawara","guramu"], [""], ["tile","gram"], 8, 0),
     "flower*pot" => Kanji.new(1032, 29942, ["BIN"], ["kame"], ["hei","be","pe"], ["flower pot","bottle","vial","jar","jug","vat","urn"], 8, 1),

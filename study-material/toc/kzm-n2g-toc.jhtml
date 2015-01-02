@@ -462,13 +462,13 @@ div.main {
 <li> ~<a href="grammar-wake-ni-wa-ikanai.html#no-choice">@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}</a>
 <li> ~<a href="grammar-wake-da.html">@HI{{wakeda}}</a>
 <li> ~@HI{{toiuwakeda}}
-<li> ~@HI{{dokorodehanai}}
-<li> ~@HI{{dokoroka}}
-<li> ~@HI{{dokorodehanai}}
-<li> ~@Vta{{}}@HI{{tokoro}}
+<li> ~<a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
+<li> ~<a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>
+<li> ~<a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
+<li> ~<a href="grammar-tokoro.html#even-if">@Vta{{}}@HI{{tokoro}}</a>
 <li> ~@HI{{tokorodatta}}
-<li> ~@HI{{tokorokara}}
-<li> ~@HI{{kotokara}}
+<li> ~<a href="grammar-tokoro-kara.html">@HI{{tokorokara}}</a>
+<li> ~<a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
 </ol>
 
 <h3><a name="chapter1.F">F</a></h3>

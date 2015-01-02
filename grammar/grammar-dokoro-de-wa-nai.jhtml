@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dokorodehanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dokorodehanai}}" grammar="@HI{{dokorodehanai}}"}}
+@GRMIDX{{index="@HI{{dokorojanai}}" grammar="@HI{{dokorojanai}}"}}
+@GRMIDX{{index="@HI{{dokoronohanashi}}" grammar="@HI{{dokorono@KJ{{tale}}}}"}}
+<body>
+
+<h1>@HI{{dokorodehanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{dokorodehanai}}}}
+<li> @Ai{{}}@HI{{@EM{{dokorodehanai}}}}
+<li> @Anastem{{}}@HI{{@EM{{dokorodehanai}}}}
+<li> @N{{}}(@HI{{wosuru}})@HI{{@EM{{dokorodehanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{dokorodehanai}}}} is a phrase indicating that an action or state is simply impossible due to some adverse situation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{year^extremity}}:nenmatsu}}nanoni@FG{{@KJ{{many^busy}}:tabou}}de,@FG{{@KJ{{sea^outside^trip^going}}:kaigairyokou}}(wosuru)@EM{{dokorodehanakatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was so busy towards the end of the year that there was no way I could travel abroad.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{dokorodehanai}}}}} can be contracted to @HI{{@EM{{dokorojanai}}}}} in informal conversation.
+</p>
+
+<p>
+@HI{{@EM{{dokorodehanai}}}}} is similar to <a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>, although @HI{{dokoroka}} appears at the end of a clause, whereas @HI{{@EM{{dokorodehanai}}}}}
+occurs at the end of a sentence.
+</p>
+
+<p>
+@HI{{@EM{{dokorodehanai}}}}} can always be replaced by @HI{{dokorono@KJ{{tale}}}}, which is more emphatic.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 85).
+<li> @REF{{NKZM-N2G}}. (p. 56).
+<li> @REF{{NKZM-N2G}}. (p. 83).
+<li> @REF{{NKZM-N2G}}. (p. 132).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

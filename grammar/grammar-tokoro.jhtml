@@ -7,7 +7,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{tokoro}}" grammar="@HI{{tokoro}}"}}
+@GRMIDX{{index="@HI{{rutokoro}}" grammar="@Vru{{}}@HI{{tokoro}}"}}
+@GRMIDX{{index="@HI{{tatokoro}}" grammar="@Vta@HI{{tokoro}}"}}
+@GRMIDX{{index="@HI{{teirutokoro}}" grammar="@Vte{{}}@HI{{irutokoro}}"}}
+@GRMIDX{{index="@HI{{tatokorode}}" grammar="@Vta{{}}@HI{{tokorode}}"}}
 
 <body>
 
@@ -16,9 +19,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
-<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
-<li> @Vta{{}} @EM{{@HI{{tokoro}}}} @HI{{desu}}
+<li> @Vru{{}}@HI{{@EM{{tokoro}}desu}}
+<li> @Vte{{}}@HI{{iru}}@HI{{@EM{{tokoro}}desu}}
+<li> @Vta{{}}@HI{{@EM{{tokoro}}desu}}
+<li> @Vta{{}}@HI{{@EM{{tokorode}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -33,7 +37,7 @@ sentence patterns above, it means a specific point in time during the course of 
 
 @BGRND{{}}
 <p>
-In @Vru{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action is about to start.
+<a name="start">In @Vru{{}}@HI{{@EM{{tokoro}}}}</a> the meaning is that the action is about to start.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +57,7 @@ In @Vru{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action is about to start
 
 @BGRND{{}}
 <p>
-In @Vte{{}}@HI{{iru@EM{{tokoro}}}} the meaning is that the action is happening now.
+<a name="ongoing">In @Vte{{}}@HI{{iru@EM{{tokoro}}}}</a> the meaning is that the action is happening now.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -73,7 +77,7 @@ In @Vte{{}}@HI{{iru@EM{{tokoro}}}} the meaning is that the action is happening n
 
 @BGRND{{}}
 <p>
-In @Vta{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action has just been completed.
+<a name="complete">In @Vta{{}}@HI{{@EM{{tokoro}}}}</a> the meaning is that the action has just been completed.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +89,7 @@ In @Vta{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action has just been com
 </table>
 </p>
 <p>
-@Vta{{}}@EM{{@HI{{tokoro}}}} can also indicate the conclusion of a certain action.
+@Vta{{}}@HI{{@EM{{tokoro}}}} can also indicate the conclusion of a certain action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -97,6 +101,24 @@ In @Vta{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action has just been com
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="even-if">In @Vta{{}}@HI{{@EM{{tokorode}}}}</a> the meaning is "even if X happened".
+Whatever is expressed in the @HI{{@EM{{tokorode}}}} clause has not yet taken place, so
+@Vta{{}} here is the counterfactual marker. The main clause expresses a negative, either explicilty
+or by stating an undesriable consequence.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{one^week^interval}}no@KJ{{one^degrees}}gurai@FG{{@KJ{{carry^move}}:undou}}shi@EM{{tatokorode}},amari@KJ{{merit^fruit}}hanaideshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Even if you exrcise once a week, it won't be very effective.
+  </td> </tr>
+</table>
+</p>
+<p>
 
 @BGRNDEND{{}}
 
@@ -112,6 +134,9 @@ In @Vta{{}}@EM{{@HI{{tokoro}}}} the meaning is that the action has just been com
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
 <li> @REF{{DOBJG}}. (p. 496).
 <li> @REF{{AAP}}. (p. 105).
+<li> @REF{{DOAJG}}. (p. 452).
+<li> @REF{{NKZM-N2G}}. (p. 90).
+<li> @REF{{NKZM-N2G}}. (p. 132).
 </ol>
 
 @include{{"grammar-footer.inc"}}

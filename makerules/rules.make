@@ -4,4 +4,4 @@ $(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) $(SCRIPTDIR)/find-gramm
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb --data=$(DATADIR) --include=$(INCLUDEDIR) $< > $@
+	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@ --data=$(DATADIR) --include=$(INCLUDEDIR)
