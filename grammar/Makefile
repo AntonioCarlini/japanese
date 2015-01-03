@@ -162,6 +162,7 @@ JHTML_SRCS += grammar-nantoka-onegai-dekinai-deshou-ka.jhtml
 JHTML_SRCS += grammar-nara.jhtml
 JHTML_SRCS += grammar-naranai.jhtml
 JHTML_SRCS += grammar-nasai.jhtml
+JHTML_SRCS += grammar-ni-atatte.jhtml
 JHTML_SRCS += grammar-ni-chigainai.jhtml
 JHTML_SRCS += grammar-ni-kagiru.jhtml
 JHTML_SRCS += grammar-ni-shite-wa.jhtml

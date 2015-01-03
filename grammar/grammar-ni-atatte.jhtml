@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@FG{{@KJ{{hit}}:a}}tatte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niatatte}}" grammar="@HI{{ni@FG{{@KJ{{hit}}:a}}tatte}}"}}
+@GRMIDX{{index="@HI{{niatari}}" grammar="@HI{{ni}}@HI{{ni@FG{{@KJ{{hit}}:a}}tari}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{hit}}:a}}tatte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}(non-past)@EM{{@HI{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}
+<li> @Vplain{{}}(non-past)@EM{{@HI{{ni@FG{{@KJ{{hit}}:a}}tari}}}}
+<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}
+<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is used in formal Japanese to denote an occasion when someone does something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}no@FG{{@KJ{{detain^study}}:ryuugaku}}@EM{{ni@FG{{@KJ{{hit}}:a}}tari}},@KJ{{father}}ha@KJ{{oneself^part}}no@FG{{@KJ{{sutra^verification}}:keikenn}}wo
+      @KJ{{tale}}shitekureta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the occasion of my study abroad, my father told me about his own experience.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The verb before @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is always non-past, which indicates that the action in that clause is not yet complete.
+So the appropriate translation is often "before" or "prior to".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{general^logic}}:souri}}ha@KT{{samitto}}@KJ{{exit^seat}}@EM{{ni@FG{{@KJ{{hit}}:a}}tari}},@FG{{@KJ{{}}:kakuryou}}to@KJ{{meeting^deliberation}}woshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Premier had a conference with cabinet members before attending the summit.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+Before a noun, the form @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}no@N{{}}}} is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{new^enter^company^employee}}:shin'nyuushainn}}no@FG{{@KJ{{enter^company}}:nyuusha}}@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}no@KT{{pa-texi}}ni
+      @FG{{@KJ{{company^long}}:shachou}}mo@KJ{{exit^seat}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The president attended the party held on the occasion of new employees joining the company.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is less formal than @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}, but they are otherwise identical.
+</p>
+
+<p>
+Both @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} and <a href="grammar-sai.html#nisaishite">@HI{{ni@FG{{@KJ{{occasion}}:sai}}shite}}</a> can only be used in a formal sentence, but the former can
+be used for any occasion whereas the latter can only be used for a special occasion. So, as long as the sentence is formal,  @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}
+can always replace @HI{{ni@FG{{@KJ{{occasion}}:sai}}shite}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 8).
+<li> @REF{{DOIJG}}. (p. 237).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

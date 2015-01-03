@@ -76,8 +76,9 @@ div.main {
 <h3><a name="chapter1.1">1 @KJ{{chapter}}</a></h3>
 
 <ol>
-<li> <a href="grammar-sai.html">~@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
-<li> <a href="grammar-sai.html#nisaishite">~@HI{{ni@FG{{@KJ{{occasion}}:sai}}saishite}}</a>, ~@HI{{niatatte}}
+<li> ~<a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
+<li> ~<a href="grammar-sai.html#nisaishite">@HI{{ni@FG{{@KJ{{occasion}}:sai}}saishite}}</a>
+<li> ~<a href="grammar-ni-atatte.html">@HI{{niatatte}}</a>
 <li> <a href="grammar-totan.html">~@FG{{@KJ{{route^edge}}:totann}}(@HI{{ni}})</a>
 <li> ~(@HI{{ka}})@HI{{to@KJ{{think}}uto}}, ~(@HI{{ka}})@HI{{to@KJ{{think}}ttara}}
 <li> ~@HI{{ka}}~@HI{{naikanouchini}} 
