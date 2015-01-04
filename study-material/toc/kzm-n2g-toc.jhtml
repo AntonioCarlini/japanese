@@ -87,12 +87,12 @@ div.main {
 <h3><a name="chapter1.2">2 @KJ{{chapter}}</a></h3>
 
 <ol>
-<li> ~@FG{{@KJ{{utmost^in}}:saichuu}}@HI{{da}}
+<li> ~<a href="grammar-saichuu.html">@FG{{@KJ{{utmost^in}}:saichuu}}@HI{{da}}</a>
 <li> ~<a href="grammar-uchi-ni.html">@HI{{uchini}}</a>
 <li> ~@HI{{bakarida}}, ~@FG{{@KJ{{one^direction}}:ippou}}@HI{{da}}
 <li> ~@Vyou{{}}@HI{{utoshiteiru}}
-<li> ~@HI{{tsutsuaru}}
-<li> ~@HI{{tsutsu}}
+<li> ~<a href="grammar-tsutsu.html#ongoing">@HI{{tsutsuaru}}</a>
+<li> ~<a href="grammar-tsutsu.html#simultaneous">@HI{{tsutsu}}</a>
 </ol>
 
 <h3><a name="chapter1.3">3 @KJ{{chapter}}</a></h3>

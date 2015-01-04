@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{utmost^in}}:saichuu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@FG{{@KJ{{utmost^in}}:saichuu}}" grammar="@FG{{@KJ{{utmost^in}}:saichuu}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{utmost^in}}:saichuu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{iru}}@FG{{@KJ{{utmost^in}}:saichuu}}
+<li> @N{{}}@FG{{@KJ{{utmost^in}}:saichuu}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@FG{{@KJ{{utmost^in}}:saichuu}} expresses the time period during which an event is taking place.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanha@KJ{{now}}@FG{{@KJ{{consider}}:ka}}egotowoshiteiru@FG{{@KJ{{utmost^in}}:saichuu}}dakara,jamashinaihougaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As Tanaka is thinking deeply now, it is better not to bother him.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@FG{{@KJ{{utmost^in}}:saichuu}} can be used with verbs in the continous form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{seacoast^environs}}:hamabe}}de@KT{{ba-bekyu-}}woyatteiru@FG{{@KJ{{utmost^in}}:saichuu}}ni,@KJ{{hurry}}ni@KJ{{rain}}ga@KJ{{descend}}ri@KJ{{exit}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As I was preparing the barbecue at the beach, suddenly it began to rain.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 12).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

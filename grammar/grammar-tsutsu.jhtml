@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tsutsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tsutsu}}" grammar="@HI{{tsutsu}} anchor="simultaneous"}}
+@GRMIDX{{index="@HI{{tsutsuaru}}" grammar="@HI{{tsutsuaru}}" anchor="ongoing"}}
+
+<body>
+
+<h1>@HI{{tsutsu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{tsutsu}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{tsutsuaru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="simultaneous">@EM{{@HI{{tsutsu}}}}</a> is a conjunction indicating that two actions are performed simultaneously by the same subject.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{iroirona@FG{{@KJ{{body^verification}}:taiken}}wo@KJ{{music}}shimi@EM{{tsutsu}},@KJ{{day^book}}no@KJ{{life^lively}}ni@FG{{@KJ{{accustomed}}:na}}reteitta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whilst enjoying various personal experiences, I became accustomed to the Japanese way of life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ongoing">@HI{{@EM{{tsutsuaru}}}}</a> is an auxiliary which expresses that an action is in progress.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{orinpikku}}no@FG{{@KJ{{alms^establishment}}:shisetsu}}ga@FG{{@KJ{{exit^come}}:deki}}@EM{{tsutsuaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Olympic facilities are being completed.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@Vte{{}}@HI{{iru}} also expresses an action in progress, however, with a punctual verb the meaning is that the state has happened and persists,
+not that it is in progress.
+
+Compare the meaning of the following sentences with a punctual verb.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{dance^pedestal}}:butai}}no@FG{{@KJ{{curtain}}:maku}}ga@KJ{{open}}iteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The stage curtain is up.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+and
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{dance^pedestal}}:butai}}no@FG{{@KJ{{curtain}}:maku}}ga@KJ{{open}}ki@EM{{tsutsuaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The stage curtain is up.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@Vte{{}}@HI{{iru}} also expresses an action in progress, but with a verb of movement the meaning is that the movement has occurred and its effects persist,
+not that the movement is in progress.
+
+Compare the following sentences with a verb of movement.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{difficult^people}}:nanmin}}ha@KJ{{oneself^part^accomplished}}no@KJ{{country}}ni@KJ{{homecoming}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The refugees are back in their own country.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+and
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{difficult^people}}:nanmin}}ha@KJ{{oneself^part^accomplished}}no@KJ{{country}}ni@KJ{{homecoming}}ri@EM{{tsutsuaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The refugees are returning to their own country.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{tsutsu}}}} is not used to describe everyday actions.
+</p>
+
+<p>
+The auxiliary verb @HI{{iru}}, for example in the form @Vte{{}}@HI{{iru}} cannot be followed by @HI{{@EM{{tsutsu}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 542).
+<li> @REF{{NKZM-N2G}}. (p. 13).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
