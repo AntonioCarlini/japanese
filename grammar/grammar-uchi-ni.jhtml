@@ -16,23 +16,26 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> @Vnai{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> @Ai{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> @Ana{{}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{uchini}}}}, @V2{{}}
-<li> <em>quantifier(period)</em> @EM{{@HI{{uchini}}}}, @V2{{}}
+<li> @Vru{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
+<li> @Vnai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
+<li> @Vte{{}}@HI{{iru@EM{{uchini}}}}, @V2{{}}
+<li> @Ai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
+<li> @Ana{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
+<li> @N{{}}@HI{{no@EM{{uchini}}}}, @V2{{}}
+<li> <em>quantifier(period)</em> @HI{{@EM{{uchini}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{uchini}}}} expresses the general time in which a state or action occurs.
+@HI{{@EM{{uchini}}}} expresses the general time in which a state or action occurs.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{uchini}}}} can be preceded by a verb describing a state.
+@HI{{@EM{{uchini}}}} can be preceded by a verb describing a state.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -44,8 +47,9 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@EM{{@HI{{uchini}}}} can be preceded by a verb describing a progressive action.
+@HI{{@EM{{uchini}}}} can be preceded by a verb describing a progressive action.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -57,8 +61,9 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@EM{{@HI{{uchini}}}} can be preceded by an adjective expressing a duration.
+@HI{{@EM{{uchini}}}} can be preceded by an adjective expressing a duration.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -70,8 +75,9 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@EM{{@HI{{uchini}}}} can be preceded by an noun expressing a duration.
+@HI{{@EM{{uchini}}}} can be preceded by an noun expressing a duration.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -83,20 +89,23 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-The expression before @EM{{@HI{{uchini}}}} is always non-past even if the sentence itself is in the past.
+The expression before @HI{{@EM{{uchini}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-@EM{{@HI{{uchini}}}} cannot be used where the noun used is an event such as a class, a conference or a game.
+@HI{{@EM{{uchini}}}} cannot be used where the noun used is an event such as a class, a conference or a game.
 </p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 512).
+<li> @REF{{NKZM-N2G}}. (p. 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}
