@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toiunoha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiunoha}}" grammar="@HI{{toiunoha}}"}}
+@GRMIDX{{index="@HI{{toha}}" grammar="@HI{{toha}} (define)"}}
+
+<body>
+
+<h1>@HI{{toiunoha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{toiunoha}}}}
+<li> @Anastem{{}}@HI{{@EM{{toiunoha}}}}
+<li> @Splain{{}}@HI{{@EM{{toiunoha}}}}
+<li> @N{{}}@HI{{@EM{{toha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiunoha}}}} is a phrase used to define, interpret or explain a work, phrase or sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pasokonn}}@EM{{toiunoha}}@KT{{pa-sonaru}}@MIDDOT{{}}@KT{{konpyu-ta}}nokotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      <em>Pasokon</em> means personal computer.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the phrase after @HI{{@EM{{toiunoha}}}} is an explanation or interpretation of the phrase before it then the
+explanation should end in @HI{{toiunokotoda}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@FG{{@KJ{{monkey}}:saru}}mo@KJ{{tree}}kara@FG{{@KJ{{fall}}:ochiru}}]@EM{{toiunoha}}
+      @KJ{{above^hand}}na@KJ{{person}}demo@FG{{@KJ{{time}}:toki}}niha@FG{{@KJ{{lose^failure}}:shippai}}surukotogaarutoiukotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      "Even monkeys fall from tree" means that even a skillful person sometimes makes a mistake.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+If, on the other hand, the subsequent phrase is a definition or a synonym, then the second @HI{{toiu}} is not used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{maika-}}@EM{{toiunoha}}@FG{{@KJ{{individual^person}}:kojinn}}ga@KJ{{hold}}tteiru@KJ{{car}}nokotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      <em>Maika</em> means a car owned by an individual.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="to-wa">@HI{{@EM{{toha}}}}</a> is an abbreviation of @HI{{@EM{{toiunoha}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pasokonn}}@EM{{toiunoha}}@KT{{pa-sonaru}}@MIDDOT{{}}@KT{{konpyu-ta}}nokotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      <em>Pasokon</em> means personal computer.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="meaning-request">To</a> ask the meaning of a word use either this form:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{karaoke}}@EM{{toiunoha}}@KJ{{what}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What does <em>karaoke</em> mean?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+or this form:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@FG{{@KJ{{neck}}:kubi}}wo@FG{{@KJ{{cut}}:ki}}ru]@EM{{toiunoha}}douiu@FG{{@KJ{{idea^flavor}}:imi}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What does <em>kubi o kiru</em> mean?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiunoha}}}} is often contracted to @HI{{tte}} in conversation.
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 487).
+<li> @REF{{NKZM-N2G}}. (p. 60).
+<li> @REF{{NKZM-N2G}}. (p. 134).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

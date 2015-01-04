@@ -328,6 +328,7 @@ JHTML_SRCS += grammar-to-ieba.jhtml
 JHTML_SRCS += grammar-to-itte-imashita.jhtml
 JHTML_SRCS += grammar-to-iu-imi.jhtml
 JHTML_SRCS += grammar-to-iu-koto-da.jhtml
+JHTML_SRCS += grammar-to-iu-no-wa.jhtml
 JHTML_SRCS += grammar-to-iu-yori.jhtml
 JHTML_SRCS += grammar-to-iu.jhtml
 JHTML_SRCS += grammar-to-iwarete-iru.jhtml
