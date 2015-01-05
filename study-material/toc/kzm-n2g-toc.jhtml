@@ -4,37 +4,6 @@
 <title>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{sentence^method}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<style>
-
-div.nav {
-    position: fixed;
-    background-color: #fff0e0;
-    top: 0px;
-}
-
-ul.nav {
-    list-style-type:none;
-    margin:0;
-    padding:0;
-}
-
-ul.nav a {
-    display:block;
-    width:60px;
-}
-
-ul.nav li {
-    float:left;
-}
-
-ul.nav a:hover {
-    color:grey;
-}
-
-div.main {
-}
-
-</style>
 </head>
 <body>
 
@@ -56,14 +25,9 @@ div.main {
   <li> <a href="#chapter1.G">G</a>
 <ul>
 </ul>
-<p>&nbsp;</p>
 </div>
 
 <div class="main">
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{sentence^method}}</h1>
 
@@ -73,7 +37,7 @@ div.main {
 <h2>@KJ{{reality^power^foster^turn*into^compilation}} 
     @KJ{{No.}}1@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 1</h2>
 
-<h3><a name="chapter1.1">1 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.1">_</a>1 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~<a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
@@ -84,7 +48,7 @@ div.main {
 <li> ~<a href="grammar-nai-ka-no-uchi-ni.html">@HI{{ka}}~@HI{{naikanouchini}}</a>
 </ol>
 
-<h3><a name="chapter1.2">2 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~<a href="grammar-saichuu.html">@FG{{@KJ{{utmost^in}}:saichuu}}@HI{{da}}</a>
@@ -95,7 +59,7 @@ div.main {
 <li> ~<a href="grammar-tsutsu.html#simultaneous">@HI{{tsutsu}}</a>
 </ol>
 
-<h3><a name="chapter1.3">3 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.3">_</a>3 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~<a href="grammar-te-hajimete.html">@Vte{{}}@HI{{hajimete}}</a>
@@ -105,7 +69,7 @@ div.main {
 <li> ~@Vte{{}}@HI{{karadenaito}}, ~@Vte{{}}@HI{{karadenakereba}}
 </ol>
 
-<h3><a name="chapter1.4">4 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{wohajime}}(@HI{{toshite}})
@@ -116,7 +80,7 @@ div.main {
 <li> ~@HI{{dake}}
 </ol>
 
-<h3><a name="chapter1.5">5 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}ri}}
@@ -125,7 +89,7 @@ div.main {
 <li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}
 </ol>
 
-<h3><a name="chapter1.6">6 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}
@@ -135,7 +99,7 @@ div.main {
 <li> ~@KJ{{above}}(@HI{{ni}})
 </ol>
 
-<h3><a name="chapter1.7">7 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{ni@FG{{@KJ{{connection}}:kann}}shite}}
@@ -145,7 +109,7 @@ div.main {
 <li> ~@HI{{nikotaete}}
 </ol>
 
-<h3><a name="chapter1.8">8 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{womotoni}}(@HI{{shite}})
@@ -155,7 +119,7 @@ div.main {
 <li> ~@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}
 </ol>
 
-<h3><a name="chapter1.9">9 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{nitsurete}}, ~@HI{{nishitagatte}}
@@ -165,7 +129,7 @@ div.main {
 <li> ~@HI{{nitsukete}}
 </ol>
 
-<h3><a name="chapter1.10">10 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{yara}}~@HI{{yara}}
@@ -174,7 +138,7 @@ div.main {
 <li> ~@HI{{toitta}}
 </ol>
 
-<h3><a name="chapter1.11">11 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
@@ -184,7 +148,7 @@ div.main {
 <li> ~@HI{{hasateoki}}
 </ol>
 
-<h3><a name="chapter1.12">12 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{wakeganai}}
@@ -194,7 +158,7 @@ div.main {
 <li> ~@HI{{toiumonodehanai}}, ~@HI{{toiumonodemonai}}
 </ol>
 
-<h3><a name="chapter1.13">13 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~<a href="grammar-to-iu-no-wa.html#to-wa">@HI{{toha}}</a>
@@ -204,7 +168,7 @@ div.main {
 <li> ~@HI{{toittara}}
 </ol>
 
-<h3><a name="chapter1.14">14 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.14">_</a>14 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{nimokakawarazu}}
@@ -215,7 +179,7 @@ div.main {
 <li> ~@HI{{karatoitte}}
 </ol>
 
-<h3><a name="chapter1.15">15 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{toshitara}}, ~@HI{{tosureba}}, ~@HI{{tosuruto}}, ~@HI{{tonattara}}, ~@HI{{tonareba}}, ~@HI{{tonaruto}}
@@ -226,7 +190,7 @@ div.main {
 <li> ~@HI{{toshitemo}}, ~@HI{{nishitemo}}, ~@HI{{nishiru}}, ~@HI{{niseyo}}
 </ol>
 
-<h3><a name="chapter1.16">16 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{niyotte}}
@@ -236,7 +200,7 @@ div.main {
 <li> ~@HI{{nitsuki}}
 </ol>
 
-<h3><a name="chapter1.17">17 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{kotodashi}}
@@ -246,7 +210,7 @@ div.main {
 <li> ~@HI{{karaniha}} @MIDDOT{{}} ~@FG{{@KJ{{by*means*of^above}}:ijou}}(@HI{{ha}}) @MIDDOT{{}} ~@FG{{@KJ{{above}}:ue}}@HI{{ha}}
 </ol>
 
-<h3><a name="chapter1.18">18 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{gatai}}
@@ -257,7 +221,7 @@ div.main {
 <li> ~@FG{{@KJ{{gain}}:u}}@HI{{ru}}/@FG{{@KJ{{gain}}:e}}@HI{{nai}}
 </ol>
 
-<h3><a name="chapter1.19">19 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.19">_</a>19 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{warini}}(@HI{{ha}})
@@ -268,7 +232,7 @@ div.main {
 <li> ~@HI{{nishitara}} @MIDDOT{{}} ~@HI{{nisureba}} @MIDDOT{{}} ~@HI{{nishitemireba}} @MIDDOT{{}} ~@HI{{nishitemo}}
 </ol>
 
-<h3><a name="chapter1.20">20 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.20">_</a>20 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@Vta{{}}@HI{{tokora}}
@@ -279,7 +243,7 @@ div.main {
 <li> ~@HI{{zujimaida}}
 </ol>
 
-<h3><a name="chapter1.21">21 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.21">_</a>21 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{gurai}} @MIDDOT{{}} ~@HI{{kurai}}
@@ -290,7 +254,7 @@ div.main {
 <li> ~@Vte{{}}@HI{{demo}}
 </ol>
 
-<h3><a name="chapter1.22">22 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.22">_</a>22 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{tomieru}}
@@ -301,7 +265,7 @@ div.main {
 <li> ~@HI{{nikimatteiru}}
 </ol>
 
-<h3><a name="chapter1.23">23 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.23">_</a>23 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{monoda}}
@@ -313,7 +277,7 @@ div.main {
 <li> ~@HI{{bekida}}/~@HI{{bekidehanai}}
 </ol>
 
-<h3><a name="chapter1.24">24 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.24">_</a>24 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@Vyou{{}}@HI{{dehanaika}}
@@ -324,7 +288,7 @@ div.main {
 <li> ~@HI{{monoka}}
 </ol>
 
-<h3><a name="chapter1.25">25 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.25">_</a>25 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@Vte{{}}@HI{{shikataganai}} @MIDDOT{{}} ~@Vte{{}}@HI{{shouganai}} @MIDDOT{{}} ~@Vte{{}}@HI{{tamaranai}}
@@ -334,7 +298,7 @@ div.main {
 <li> ~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
 </ol>
 
-<h3><a name="chapter1.26">26 @KJ{{chapter}}</a></h3>
+<h3><a class="navtarget" name="chapter1.26">_</a>26 @KJ{{chapter}}</h3>
 
 <ol>
 <li> ~@HI{{taimonoda}} @MIDDOT{{}} ~@Vte{{}}@HI{{hoshiimonoda}}
@@ -345,7 +309,7 @@ div.main {
 <li> ~@HI{{kotodarou}} @MIDDOT{{}} ~@HI{{kotoka}}
 </ol>
 
-<h3><a name="chapter1.A">A</a></h3>
+<h3><a class="navtarget" name="chapter1.A">_</a>A</h3>
 
 <ol>
 <li> @HI{{ni@FG{{@KJ{{occasion}}:sai}}shite}}
@@ -369,7 +333,7 @@ div.main {
 <li> @HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}tte}}
 </ol>
 
-<h3><a name="chapter1.B">B</a></h3>
+<h3><a class="navtarget" name="chapter1.B">_</a>B</h3>
 
 <ol>
 <li> ~@HI{{toitta}}
@@ -392,7 +356,7 @@ div.main {
 <li> ~@HI{{karaiuto}}
 </ol>
 
-<h3><a name="chapter1.C">C</a></h3>
+<h3><a class="navtarget" name="chapter1.C">_</a>C</h3>
 
 <ol>
 <li> ~@HI{{mokamawazu}}
@@ -413,7 +377,7 @@ div.main {
 <li> ~@HI{{niseyo}}
 </ol>
 
-<h3><a name="chapter1.D">D</a></h3>
+<h3><a class="navtarget" name="chapter1.D">_</a>D</h3>
 
 <ol>
 <li> ~<a href="grammar-particle-mono-ka-not.html#disagree">@HI{{monoka}}</a> (disagreement)
@@ -453,7 +417,7 @@ div.main {
 <li> ~@HI{{tonokotoda}}
 </ol>
 
-<h3><a name="chapter1.E">E</a></h3>
+<h3><a class="navtarget" name="chapter1.E">_</a>E</h3>
 
 <ol>
 <li> ~<a href="grammar-wake-ga-nai.html">@HI{{wakeganai}}</a>
@@ -472,7 +436,7 @@ div.main {
 <li> ~<a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
 </ol>
 
-<h3><a name="chapter1.F">F</a></h3>
+<h3><a class="navtarget" name="chapter1.F">_</a>F</h3>
 
 <ol>
 <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
@@ -492,7 +456,7 @@ div.main {
 <li> ~<a href="grammar-particle-nomi.html">@HI{{nomi}}</a>
 </ol>
 
-<h3><a name="chapter1.G">G</a></h3>
+<h3><a class="navtarget" name="chapter1.G">_</a>G</h3>
 
 
 </div>

@@ -1,0 +1,30 @@
+div.nav {
+    position: fixed;
+    background-color: #fff0e0;
+    top: 0px;
+}
+
+ul.nav {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+ul.nav a {
+    display:block;
+    padding-right: 20px;
+}
+
+ul.nav li {
+    float:left;
+}
+
+ul.nav a:hover {
+    color:grey;
+}
+
+a.navtarget{
+    position: relative;
+    padding-top: 80px;
+    visibility: hidden;
+}

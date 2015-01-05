@@ -4,37 +4,6 @@
 <title>@HI{{minnnano}}@KJ{{day^book^word^in^class}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<style>
-
-div.nav {
-    position: fixed;
-    background-color: #fff0e0;
-    top: 0px;
-}
-
-ul.nav {
-    list-style-type:none;
-    margin:0;
-    padding:0;
-}
-
-ul.nav a {
-    display:block;
-    width:60px;
-}
-
-ul.nav li {
-    float:left;
-}
-
-ul.nav a:hover {
-    color:grey;
-}
-
-div.main {
-}
-
-</style>
 </head>
 <body>
 
@@ -53,18 +22,13 @@ div.main {
   <li> <a href="#chapter21">21</a> <li> <a href="#chapter22">22</a> <li> <a href="#chapter23">23</a>
   <li> <a href="#chapter24">24</a> 
 </ul>
-<p>&nbsp;</p>
 </div>
 
 <div class="main">
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <h1>@HI{{minnnano}}@KJ{{day^book^word^in^class}} I &amp; II</h1>
 
-<h2><a name="chapter1">Chapter 1</a></h2>
+<h2><a class="navtarget" name="chapter1">_</a>Chapter 1</h2>
 
 <ol>
 <li> <a href="grammar-te-itadakemasenka.html">@Vte{{}}@HI{{moraemasenka}}/@Vte{{}}@HI{{itadakemasenka}}</a>/
@@ -80,7 +44,7 @@ div.main {
 <li> <a href="grammar-nantoka-onegai-dekinai-deshou-ka.html">@HI{{@KJ{{what}}tokao@KJ{{petition}}idekinaideshouka}}</a>
 </ol>
 
-<h2><a name="chapter2">Chapter 2</a></h2>
+<h2><a class="navtarget" name="chapter2">_</a>Chapter 2</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>~@HI{{tara}}/~@HI{{da}}
@@ -92,7 +56,7 @@ div.main {
 <li> ~<a href="grammar-tokoro-when.html">@HI{{tokoro}}</a>
 </ol>
 
-<h2><a name="chapter3">Chapter 3</a></h2>
+<h2><a class="navtarget" name="chapter3">_</a>Chapter 3</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@Vsasete{{}}@HI{{moraemasenka}}/@Vsasete{{}}@HI{{itadakemasenka}}/
@@ -106,7 +70,7 @@ div.main {
 <li> ~<a href="grammar-ato-de.html">@Vta{{}}@HI{{ato}}</a>
 </ol>
 
-<h2><a name="chapter4">Chapter 4</a></h2>
+<h2><a class="navtarget" name="chapter4">_</a>Chapter 4</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{toiukotoda}}
@@ -121,7 +85,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{mashitara}}/@HI{{mashite}}
 </ol>
 
-<h2><a name="chapter5">Chapter 5</a></h2>
+<h2><a class="navtarget" name="chapter5">_</a>Chapter 5</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{a}}/@HI{{so}}
@@ -137,7 +101,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{no}} in place of @HI{{ga}}
 </ol>
 
-<h2><a name="chapter6">Chapter 6</a></h2>
+<h2><a class="navtarget" name="chapter6">_</a>Chapter 6</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{te}}/@HI{{tte}}
@@ -152,7 +116,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{ko}}
 </ol>
 
-<h2><a name="chapter7">Chapter 7</a></h2>
+<h2><a class="navtarget" name="chapter7">_</a>Chapter 7</h2>
 
 <ol>
 <li> ~<a href="grammar-nakute-wa-naranai.html">@HI{{nakutehanaranai}} / @HI{{ikenai}}</a> /
@@ -168,7 +132,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@Vte{{}}@HI{{kuru}}
 </ol>
 
-<h2><a name="chapter8">Chapter 8</a></h2>
+<h2><a class="navtarget" name="chapter8">_</a>Chapter 8</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{aida}}/@HI{{aidani}}
@@ -180,7 +144,7 @@ div.main {
 <li> <a href="grammar-.html"></a><em>physical property</em>@HI{{woshiteiru}}
 </ol>
 
-<h2><a name="chapter9">Chapter 9</a></h2>
+<h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{o}}@Vmasustem{{}}@HI{{desu}}
@@ -191,7 +155,7 @@ div.main {
 <li> <a href="grammar-.html"></a>~ @Vtara{{}}/~@Vba{{}} ... @HI{{ta}}
 </ol>
 
-<h2><a name="chapter10">Chapter 10</a></h2>
+<h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>... @HI{{hazuda}}
@@ -205,7 +169,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{toiukotoninaru}}
 </ol>
 
-<h2><a name="chapter11">Chapter 11</a></h2>
+<h2><a class="navtarget" name="chapter11">_</a>Chapter 11</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@Vte{{}}@HI{{kuru}}/@Vte{{}}@HI{{iku}}
@@ -220,7 +184,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{nankadou}}
 </ol>
 
-<h2><a name="chapter12">Chapter 12</a></h2>
+<h2><a class="navtarget" name="chapter12">_</a>Chapter 12</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>...@HI{{mono}}/@HI{{mondakara}}
@@ -234,7 +198,7 @@ div.main {
 <li> <a href="grammar-.html"></a>~ @HI{{masu}}/@HI{{masenyouni}}
 </ol>
 
-<h2><a name="chapter13">Chapter 13</a></h2>
+<h2><a class="navtarget" name="chapter13">_</a>Chapter 13</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{tate}}
@@ -247,7 +211,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{yone}}
 </ol>
 
-<h2><a name="chapter14">Chapter 14</a></h2>
+<h2><a class="navtarget" name="chapter14">_</a>Chapter 14</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@KJ{{occasion}}
@@ -263,7 +227,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{kke}}
 </ol>
 
-<h2><a name="chapter15">Chapter 15</a></h2>
+<h2><a class="navtarget" name="chapter15">_</a>Chapter 15</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{toiu}}
@@ -277,7 +241,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{toieba}}
 </ol>
 
-<h2><a name="chapter16">Chapter 16</a></h2>
+<h2><a class="navtarget" name="chapter16">_</a>Chapter 16</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{apply}}jite}}
@@ -292,7 +256,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{limit}}tte}}
 </ol>
 
-<h2><a name="chapter17">Chapter 17</a></h2>
+<h2><a class="navtarget" name="chapter17">_</a>Chapter 17</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{karanatte}}
@@ -308,7 +272,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{desho}}
 </ol>
 
-<h2><a name="chapter18">Chapter 18</a></h2>
+<h2><a class="navtarget" name="chapter18">_</a>Chapter 18</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{difference}}inai}}
@@ -321,7 +285,7 @@ div.main {
 <li> <a href="grammar-.html"></a>X@HI{{koto}}Y
 </ol>
 
-<h2><a name="chapter19">Chapter 19</a></h2>
+<h2><a class="navtarget" name="chapter19">_</a>Chapter 19</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{wo@KJ{{vis-a-vis^elephant}}ni}}
@@ -334,7 +298,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@KJ{{decide}}@HI{{shite}} ~ @HI{{nai}}
 </ol>
 
-<h2><a name="chapter20">Chapter 20</a></h2>
+<h2><a class="navtarget" name="chapter20">_</a>Chapter 20</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{nomotode}}
@@ -350,7 +314,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{karatoitte}}
 </ol>
 
-<h2><a name="chapter21">Chapter 21</a></h2>
+<h2><a class="navtarget" name="chapter21">_</a>Chapter 21</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{mosezuni}}
@@ -365,7 +329,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{limit}}razu}}
 </ol>
 
-<h2><a name="chapter22">Chapter 22</a></h2>
+<h2><a class="navtarget" name="chapter22">_</a>Chapter 22</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{@KJ{{next^no.}}desu}}
@@ -381,7 +345,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{toiuyori}}
 </ol>
 
-<h2><a name="chapter23">Chapter 23</a></h2>
+<h2><a class="navtarget" name="chapter23">_</a>Chapter 23</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{reach*out}}bu}}
@@ -396,7 +360,7 @@ div.main {
 <li> <a href="grammar-.html"></a>@HI{{wohajime}}
 </ol>
 
-<h2><a name="chapter24">Chapter 24</a></h2>
+<h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>
 
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{zaru}}

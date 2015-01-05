@@ -4,37 +4,6 @@
 <title>@HI{{minnna no}} &#x65e5;&#x672c;&#x8a9e;</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<style>
-
-div.nav {
-    position: fixed;
-    background-color: #fff0e0;
-    top: 0px;
-}
-
-ul.nav {
-    list-style-type:none;
-    margin:0;
-    padding:0;
-}
-
-ul.nav a {
-    display:block;
-    width:60px;
-}
-
-ul.nav li {
-    float:left;
-}
-
-ul.nav a:hover {
-    color:grey;
-}
-
-div.main {
-}
-
-</style>
 </head>
 <body>
 
@@ -66,18 +35,13 @@ div.main {
 
   <li> <a href="#chapter50">50</a>
 </ul>
-<p>&nbsp;</p>
 </div>
 
 <div class="main">
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 <h1>@HI{{minnnano}}@KJ{{day^book^word^first*time^class}} I &amp; II</h1>
 
-<h2><a name="chapter1">Chapter 1</a></h2>
+<h2><a class="navtarget" name="chapter1">_</a>Chapter 1</h2>
 
 <ol>
 <li> <a href="grammar-basic-sentence-patterns.html">@N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}</a>
@@ -88,7 +52,7 @@ div.main {
 <li> <a href="grammar-respect-markers.html#san">@HI{{sann}}</a>
 </ol>
 
-<h2><a name="chapter2">Chapter 2</a></h2>
+<h2><a class="navtarget" name="chapter2">_</a>Chapter 2</h2>
 
 <ol>
 <li> <a href="grammar-kosoado.html#kore"> @HI{{ko}} vs @HI{{so}}: @HI{{kore/sore/are}} </a>
@@ -99,7 +63,7 @@ div.main {
 <li> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a>
 </ol>
 
-<h2><a name="chapter3">Chapter 3</a></h2>
+<h2><a class="navtarget" name="chapter3">_</a>Chapter 3</h2>
 
 <ol>
 <li> <a href="grammar-kosoado.html#koko"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
@@ -110,7 +74,7 @@ div.main {
 <li> <a href="grammar-respect-markers.html#o">@HI{{o}} (respect)</a>
 </ol>
 
-<h2><a name="chapter4">Chapter 4</a></h2>
+<h2><a class="navtarget" name="chapter4">_</a>Chapter 4</h2>
 
 <ol>
 <li> <a href="grammar-expressing-time.html">Expressing time</a>
@@ -122,7 +86,7 @@ div.main {
 <li> <a href="grammar-particle-ne.html">@S{{}}@HI{{ne}}</a> (sentence ending particle)
 </ol>
 
-<h2><a name="chapter5">Chapter 5</a></h2>
+<h2><a class="navtarget" name="chapter5">_</a>Chapter 5</h2>
 
 <ol>
 <li> <a href="grammar-particle-e.html">@N{{place}}@HI{{he @KJ{{going}}kimasu/@KJ{{come}}masu/@KJ{{homecoming}}rimasu}}</a>
@@ -134,7 +98,7 @@ div.main {
 <li> <a href="grammar-particle-yo.html">@S{{}}@HI{{yo}}</a>
 </ol>
 
-<h2><a name="chapter6">Chapter 6</a></h2>
+<h2><a class="navtarget" name="chapter6">_</a>Chapter 6</h2>
 
 <ol>
 <li> <a href="grammar-particle-wo.html">@N{{}}@HI{{wo}}@V{{transitive}}</a>
@@ -147,7 +111,7 @@ div.main {
 <li> <a href="grammar-respect-markers.html">@HI{{o}} (respect)</a>
 </ol>
 
-<h2><a name="chapter7">Chapter 7</a></h2>
+<h2><a class="navtarget" name="chapter7">_</a>Chapter 7</h2>
 
 <ol>
 <li> <a href="grammar-particle-de.html">@N{{tool}}@HI{{de}}@V{{}}</a>
@@ -157,7 +121,7 @@ div.main {
 <li> <a href="grammar-mou.html"> @HI{{mou}}@Vmasustem{{}}@HI{{mashita}} </a>
 </ol>
 
-<h2><a name="chapter8">Chapter 8</a></h2>
+<h2><a class="navtarget" name="chapter8">_</a>Chapter 8</h2>
 
 <ol>
 <li> <a href="adjectives.html">Adjectives as predicates</a>
@@ -169,7 +133,7 @@ div.main {
 <li> <a href="grammar-kosoado.html"> @HI{{dore}}</a>
 </ol>
 
-<h2><a name="chapter9">Chapter 9</a></h2>
+<h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>
 
 <ol>
 <li> <a href="grammar-aru.html">@HI{{ga aru}}</a>, <a href="grammar-wakaru.html">@HI{{ga wakaru}}</a>
@@ -180,7 +144,7 @@ div.main {
 <li> <a href="grammar-dou.html">@HI{{doushite}}</a>
 </ol>
 
-<h2><a name="chapter10">Chapter 10</a></h2>
+<h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
 
 <ol>
 <li> @N{{}}@HI{{ga}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
@@ -192,7 +156,7 @@ div.main {
 <li> <a href="grammar-arimasen-ka.html">@HI{{arimasenka}}</a>
 </ol>
 
-<h2><a name="chapter11">Chapter 11</a></h2>
+<h2><a class="navtarget" name="chapter11">_</a>Chapter 11</h2>
 
 <ol>
 <li> <a href="grammar-counters.html"> Counters </a>
@@ -201,7 +165,7 @@ div.main {
 <li> <a href="grammar-quantifier-ni.html"> Quantifier @HI{{ni}} </a>
 </ol>
 
-<h2><a name="chapter12">Chapter 12</a></h2>
+<h2><a class="navtarget" name="chapter12">_</a>Chapter 12</h2>
 
 <ol>
 <li> Past tense of <a href="grammar-noun-sentences.html">noun</a> and <a href="adjectives.html">@HI{{na}}-adjective</a> sentences
@@ -211,7 +175,7 @@ div.main {
 <li> <a href="adjectives.html#superlatives">Choosing a superlative</a>
 </ol>
 
-<h2><a name="chapter13">Chapter 13</a></h2>
+<h2><a class="navtarget" name="chapter13">_</a>Chapter 13</h2>
 
 <ol>
 <li> <a href="grammar-hoshii.html"> @HI{{hoshii}}</a>
@@ -222,7 +186,7 @@ div.main {
 <li> <a href="grammar-respect-markers.html#go">@HI{{go}}@KJ{{pour^sentence}}</a>
 </ol>
 
-<h2><a name="chapter14">Chapter 14</a></h2>
+<h2><a class="navtarget" name="chapter14">_</a>Chapter 14</h2>
 
 <ol>
 <li><a href="grammar-verb-conjugations.html"> Verb Conjugations </a>
@@ -234,7 +198,7 @@ div.main {
 <li> @N{{}}@HI{{ga}} V
 </ol>
 
-<h2><a name="chapter15">Chapter 15</a></h2>
+<h2><a class="navtarget" name="chapter15">_</a>Chapter 15</h2>
 
 <ol>
 <li> <a href="grammar-te-mo-ii.html"> @HI{{te mo ii}} </a>
@@ -243,7 +207,7 @@ div.main {
 <li> @HI{{shirimasenn}}
 </ol>
 
-<h2><a name="chapter16">Chapter 16</a></h2>
+<h2><a class="navtarget" name="chapter16">_</a>Chapter 16</h2>
 
 <ol>
 <li> <a href="grammar-te-conjunctive-forms.html"> @HI{{te}} conjunctive forms </a>
@@ -253,7 +217,7 @@ div.main {
 <li> <a href="grammar-kosoado.html"> @HI{{dono}} @N{{}} </a>
 </ol>
 
-<h2><a name="chapter17">Chapter 17</a></h2>
+<h2><a class="navtarget" name="chapter17">_</a>Chapter 17</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-nai.html"> How to make the @HI{{nai}}-form </a> </h3>
@@ -264,7 +228,7 @@ div.main {
 <li> <a href="grammar-made-ni.html"> @HI{{made ni}} </a>
 </ol>
 
-<h2><a name="chapter18">Chapter 18</a></h2>
+<h2><a class="navtarget" name="chapter18">_</a>Chapter 18</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-dictionary.html"> How to make the dictionary form from the @HI{{masu}} form</a>
@@ -275,7 +239,7 @@ div.main {
 <li> <a href="grammar-zehi.html"> @HI{{zehi}} </a>
 </ol>
 
-<h2><a name="chapter19">Chapter 19</a></h2>
+<h2><a class="navtarget" name="chapter19">_</a>Chapter 19</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-ta.html"> How to make the @HI{{ta}}-form </a> </h3>
@@ -285,13 +249,13 @@ div.main {
 <li> @HI{{sou desu ne}}
 </ol>
 
-<h2><a name="chapter20">Chapter 20</a></h2>
+<h2><a class="navtarget" name="chapter20">_</a>Chapter 20</h2>
 
 <ol>
 <li> <a href="grammar-polite-and-plain.html"> Polite and Plain Style </a>
 </ol>
 
-<h2><a name="chapter21">Chapter 21</a></h2>
+<h2><a class="navtarget" name="chapter21">_</a>Chapter 21</h2>
 
 <ol>
 <li> <a href="grammar-to-omou.html"> @HI{{to@KJ{{think}}u}} </a>
@@ -303,14 +267,14 @@ div.main {
 <li> <a href="grammar-nai-to.html"> @HI{{nai to}} </a>
 </ol>
 
-<h2><a name="chapter22">Chapter 22</a></h2>
+<h2><a class="navtarget" name="chapter22">_</a>Chapter 22</h2>
 
 <ol>
 <li> <a href="grammar-relative-clause.html"> Noun modification by a relative clause </a>
 <li> <a href="grammar-activity-time.html"> Expressing the time for an activity </a>
 </ol>
 
-<h2><a name="chapter23">Chapter 23</a></h2>
+<h2><a class="navtarget" name="chapter23">_</a>Chapter 23</h2>
 
 <ol>
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
@@ -319,7 +283,7 @@ div.main {
 <li> <a href="grammar-particle-wo.html"> @HI{{wo}} @V{{movement}} </a>
 </ol>
 
-<h2><a name="chapter24">Chapter 24</a></h2>
+<h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>
 
 <ol>
 <li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
@@ -328,7 +292,7 @@ div.main {
 <li> <a href="grammar-particle-ga.html"><em>interrogative</em> @HI{{ga}} @V{{}}</a>
 </ol>
 
-<h2><a name="chapter25">Chapter 25</a></h2>
+<h2><a class="navtarget" name="chapter25">_</a>Chapter 25</h2>
 
 <ol>
 <li> <a href="grammar-tara.html"> @HI{{tara}} </a>
@@ -338,7 +302,7 @@ div.main {
 <li> <a href="grammar-relative-clause.html">@HI{{ga}} and relative clauses</a>
 </ol>
 
-<h2><a name="chapter26">Chapter 26</a></h2>
+<h2><a class="navtarget" name="chapter26">_</a>Chapter 26</h2>
 
 <ol>
 <li> <a href="grammar-n-desu.html"> @HI{{ndesu}} </a>
@@ -347,7 +311,7 @@ div.main {
 <li> @N{{}}@HI{{ha}} ...
 </ol>
 
-<h2><a name="chapter27">Chapter 27</a></h2>
+<h2><a class="navtarget" name="chapter27">_</a>Chapter 27</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-potential.html"> How to make potential verbs </a>
@@ -358,7 +322,7 @@ div.main {
 <li> <a href="grammar-particle-shika.html"> @HI{{shika}} (particle) </a>
 </ol>
 
-<h2><a name="chapter28">Chapter 28</a></h2>
+<h2><a class="navtarget" name="chapter28">_</a>Chapter 28</h2>
 
 <ol>
 <li> <a href="grammar-nagara.html"> @HI{{nagara}} </a>
@@ -369,7 +333,7 @@ div.main {
 <li> <a href="grammar-particle-e.html"> @HI{{he}} (particle) </a>
 </ol>
 
-<h2><a name="chapter29">Chapter 29</a></h2>
+<h2><a class="navtarget" name="chapter29">_</a>Chapter 29</h2>
 
 <ol>
 <li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
@@ -378,7 +342,7 @@ div.main {
 <li> @HI{{dokokade}}@HI{{dokokani}}
 </ol>
 
-<h2><a name="chapter30">Chapter 30</a></h2>
+<h2><a class="navtarget" name="chapter30">_</a>Chapter 30</h2>
 
 <ol>
 <li> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a>
@@ -387,7 +351,7 @@ div.main {
 <li> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a>
 </ol>
 
-<h2><a name="chapter31">Chapter 31</a></h2>
+<h2><a class="navtarget" name="chapter31">_</a>Chapter 31</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-volitional.html"> How to make volitional verbs </a>
@@ -399,7 +363,7 @@ div.main {
 <li> <a href="grammar-kosoado.html#ko-vs-so"> @HI{{ko}} vs @HI{{so}} demonstratives in writing </a>
 </ol>
 
-<h2><a name="chapter32">Chapter 32</a></h2>
+<h2><a class="navtarget" name="chapter32">_</a>Chapter 32</h2>
 
 <ol>
 <li> <a href="grammar-hou-ga-ii.html"> @HI{{hou ga ii}} </a>
@@ -410,7 +374,7 @@ div.main {
 <li> <a href="grammar-quantifier-de.html"> <em>quantifier</em> @HI{{de}} </a>
 </ol>
 
-<h2><a name="chapter33">Chapter 33</a></h2>
+<h2><a class="navtarget" name="chapter33">_</a>Chapter 33</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-imperative.html"> How to make the imperative form </a>
@@ -421,7 +385,7 @@ div.main {
 <li> <a href="grammar-to-tsutaete-itadakemasenka.html"> @HI{{to @KJ{{transmit}}ete itadakemasenka}} </a>
 </ol>
 
-<h2><a name="chapter34">Chapter 34</a></h2>
+<h2><a class="navtarget" name="chapter34">_</a>Chapter 34</h2>
 
 <ol>
 <li> <a href="grammar-toori-ni.html"> @HI{{toori ni}} </a>
@@ -430,7 +394,7 @@ div.main {
 <li> <a href="grammar-shinaide-alternative.html"> @Vnai{{}} @HI{{de}} (alternative)</a>
 </ol>
 
-<h2><a name="chapter35">Chapter 35</a></h2>
+<h2><a class="navtarget" name="chapter35">_</a>Chapter 35</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-conditional.html"> How to make the conditional form </a>
@@ -440,7 +404,7 @@ div.main {
 <li> <a href="grammar-ba-hodo.html"> @HI{{ba}} ... @HI{{hodo}} </a>
 </ol>
 
-<h2><a name="chapter36">Chapter 36</a></h2>
+<h2><a class="navtarget" name="chapter36">_</a>Chapter 36</h2>
 
 <ol>
 <li> <a href="grammar-you-ni.html"> @HI{{you ni}} </a>
@@ -449,7 +413,7 @@ div.main {
 <li> <a href="grammar-particle-toka.html"> @HI{{toka}} </a>
 </ol>
 
-<h2><a name="chapter37">Chapter 37</a></h2>
+<h2><a class="navtarget" name="chapter37">_</a>Chapter 37</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-passive.html"> How to make passive verbs </a>
@@ -457,14 +421,14 @@ div.main {
 <li> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a>
 </ol>
 
-<h2><a name="chapter38">Chapter 38</a></h2>
+<h2><a class="navtarget" name="chapter38">_</a>Chapter 38</h2>
 
 <ol>
 <li> <a href="grammar-no-nominaliser.html"> @HI{{no}} (nominaliser) </a>
 <li> <a href="grammar-no-wa-N-desu.html"> @HI{{no ha}} N @HI{{desu}} </a>
 </ol>
 
-<h2><a name="chapter39">Chapter 39</a></h2>
+<h2><a class="navtarget" name="chapter39">_</a>Chapter 39</h2>
 
 <ol>
 <li> <a href="grammar-te-cause.html"> @HI{{te}}-form cause </a>
@@ -473,7 +437,7 @@ div.main {
 <li> <a href="grammar-tochuu-de.html"> @HI{{tochuu de}} </a>
 </ol>
 
-<h2><a name="chapter40">Chapter 40</a></h2>
+<h2><a class="navtarget" name="chapter40">_</a>Chapter 40</h2>
 
 <ol>
 <li> <a href="grammar-kadouka.html"> @HI{{kadouka}} </a>
@@ -482,7 +446,7 @@ div.main {
 <li> <a href="grammar-deshou-ka.html"> @HI{{deshouka}} </a>
 </ol>
 
-<h2><a name="chapter41">Chapter 41</a></h2>
+<h2><a class="navtarget" name="chapter41">_</a>Chapter 41</h2>
 
 <ol>
 <li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
@@ -491,7 +455,7 @@ div.main {
 <li> <a href="grammar-token-ni.html"> <em>in memory of</em> @HI{{ni}} </a>
 </ol>
 
-<h2><a name="chapter42">Chapter 42</a></h2>
+<h2><a class="navtarget" name="chapter42">_</a>Chapter 42</h2>
 <ol>
 <li> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a>
 <li> <a href="grammar-purpose-ni.html"> <em>purpose</em> @HI{{ni}} </a>
@@ -499,7 +463,7 @@ div.main {
 <li> <a href="grammar-quantifier-mo.html"> <em>quantifier</em> @HI{{mo}} </a>
 </ol>
 
-<h2><a name="chapter43">Chapter 43</a></h2>
+<h2><a class="navtarget" name="chapter43">_</a>Chapter 43</h2>
 
 <ol>
 <li> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a>
@@ -507,7 +471,7 @@ div.main {
 <li> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a>
 </ol>
 
-<h2><a name="chapter44">Chapter 44</a></h2>
+<h2><a class="navtarget" name="chapter44">_</a>Chapter 44</h2>
 
 <ol>
 <li> <a href="grammar-sugiru.html"> @HI{{sugiru}} </a>
@@ -517,14 +481,14 @@ div.main {
 <li> <a href="grammar-adverbs.html"> Adverbs </a>
 </ol>
 
-<h2><a name="chapter45">Chapter 45</a></h2>
+<h2><a class="navtarget" name="chapter45">_</a>Chapter 45</h2>
 
 <ol>
 <li> <a href="grammar-baai.html"> @HI{{baai}} </a>
 <li> <a href="grammar-noni-although.html"> @HI{{noni}} (although) </a>
 </ol>
 
-<h2><a name="chapter46">Chapter 46</a></h2>
+<h2><a class="navtarget" name="chapter46">_</a>Chapter 46</h2>
 
 <ol>
 <li> <a href="grammar-tokoro.html"> @HI{{tokoro}} </a>
@@ -532,7 +496,7 @@ div.main {
 <li> <a href="grammar-hazu.html"> @HI{{hazu}} </a>
 </ol>
 
-<h2><a name="chapter47">Chapter 47</a></h2>
+<h2><a class="navtarget" name="chapter47">_</a>Chapter 47</h2>
 
 <ol>
 <li> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a>
@@ -540,7 +504,7 @@ div.main {
 <li> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a>
 </ol>
 
-<h2><a name="chapter48">Chapter 48</a></h2>
+<h2><a class="navtarget" name="chapter48">_</a>Chapter 48</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-causative.html"> How to make the causative form </a>
@@ -548,14 +512,14 @@ div.main {
 <li> <a href="grammar-te-causative-itadakemasenka.html"> @Vte{{}}(causative)@HI{{itadakemasenka}} </a>
 </ol>
 
-<h2><a name="chapter49">Chapter 49</a></h2>
+<h2><a class="navtarget" name="chapter49">_</a>Chapter 49</h2>
 
 <ol>
 <li> <a href="grammar-sonkeigo.html"> @HI{{sonkeigo}}: Honorific Language </a> (see also
 <a href="grammar-honorific-humble.html"> Honorific &amp; Humble Language </a>)
 </ol>
 
-<h2><a name="chapter50">Chapter 50</a></h2>
+<h2><a class="navtarget" name="chapter50">_</a>Chapter 50</h2>
 
 <ol>
 <li> <a href="grammar-kenjougo.html"> @HI{{kenjougo}}: Humble Language </a> (see also
