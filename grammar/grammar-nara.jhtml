@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
-<li> @Ai{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
-<li> @Anastem{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
-<li> @N{{}} (@HI{{no}}) @EM{{@HI{{nara}}}}
+<li> @Vplain{{}}(@HI{{no}})@HI{{@EM{{nara}}}}
+<li> @Ai{{}}(@HI{{no}})@HI{{@EM{{nara}}}}
+<li> @Anastem{{}}@HI{{@EM{{nara}}}}
+<li> @N{{}}@HI{{@EM{{nara}}}}
 </ol>
 </dl>
 
@@ -30,7 +30,7 @@
 @BGRND{{}}
 <p>
 When a speaker wishes to take up a topic introduced by another person and give some information,
-@N{{}}@EM{{@HI{{nara}}}} is used.
+@N{{}}@HI{{@EM{{nara}}}} is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -50,7 +50,7 @@ When a speaker wishes to take up a topic introduced by another person and give s
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nara}}}} is a conjunction that indicates that the preceding sentence is the
+@HI{{@EM{{nara}}}} is a conjunction that indicates that the preceding sentence is the
 speaker's supposition or the actualisation of something in the future.
 
 <table class="sentence">
@@ -64,8 +64,8 @@ speaker's supposition or the actualisation of something in the future.
 </p>
 
 <p>
-A major difference between @EM{{@HI{{nara}}}} and <a href="grammar-tara.html">@HI{{tara}}</a> is that 
-the clause following @EM{{@HI{{nara}}}} expresses what will definitely happen if the supposed event takes place
+A major difference between @HI{{@EM{{nara}}}} and <a href="grammar-tara.html">@HI{{tara}}</a> is that 
+the clause following @HI{{@EM{{nara}}}} expresses what will definitely happen if the supposed event takes place
 whereas that following @HI{{tara}} expresses what would "happen to" take place.
 
 <table class="sentence">
@@ -83,12 +83,12 @@ whereas that following @HI{{tara}} expresses what would "happen to" take place.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{nara}}}} is the simplified form of @HI{{naraba}}, the conditional form of the copula @HI{{da}}.
+@HI{{@EM{{nara}}}} is the simplified form of @HI{{naraba}}, the conditional form of the copula @HI{{da}}.
 In modern Japanese, however, the @HI{{ba}} is usually omitted.
 </p>
 
 <p>
-@EM{{@HI{{nara}}}} requires a noun or noun equivalent. So if the preceding element is not a noun, it is
+@HI{{@EM{{nara}}}} requires a noun or noun equivalent. So if the preceding element is not a noun, it is
 nominalised by @HI{{no}}. However, in modern Japanese this @HI{{no}} is optional. In conversation, this @HI{{no}}
 can become @HI{{nn}}.
 </p>
@@ -97,6 +97,7 @@ can become @HI{{nn}}.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 <li> @REF{{DOBJG}}. (p. 281).
 <li> @REF{{NKZM-N3G}}. (p. 32).
 <li> @REF{{AAP}}. (p. 102).
