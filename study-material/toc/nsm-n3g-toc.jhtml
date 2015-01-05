@@ -63,15 +63,16 @@
 <h2><a class="navtarget" name="w1d1">_</a> @KJ{{No.}}1@KJ{{week}}1@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-verb-use-of-passive.html"> Uses of the passive </a>
-<li> <a href="grammar-verb-use-of-causative.html"> Uses of the causative form </a>
+<li> <a href="grammar-verb-use-of-passive.html#direct"> Uses of the direct passive</a>
+<li> <a href="grammar-verb-use-of-passive.html#suffering"> Uses of the suffering passive</a>
+<li> <a href="grammar-sasete-kudasai.html"> Making polite requests</a>
 </ol>
 
 <h2><a class="navtarget" name="w1d2">_</a> @KJ{{No.}}1@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @Vnai{{}}@HI{{to}}
-<li> V@HI{{nakucha}}
+<li> <a href="grammar-nai-to.html">@Vnai{{}}@HI{{to}}</a>
+<li> <a href="grammar-verb-contractions.html">V@HI{{nakucha}}</a>
 <li> <a href="grammar-verb-contractions.html"> Contraction of @Vte{{}}@HI{{shimau}} </a>
 <li> <a href="grammar-verb-contractions.html"> Contraction of @Vte{{}}@HI{{oku}} </a>
 </ol>

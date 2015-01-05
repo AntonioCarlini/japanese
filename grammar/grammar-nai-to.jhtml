@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vnai{{}} @HI{{to}}}}
-<li> @EM{{@Vnai{{}} @HI{{to ikemasenn}}}}
+<li> @EM{{@Vnai{{}}@HI{{to}}}}
+<li> @EM{{@Vnai{{}}@HI{{toikenai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,21 +26,16 @@
 @Vnai{{}} @HI{{to}} is a shortened form of @Vnai{{}} @HI{{to ikemasenn}}, which itself is similar in
 meaning to <a href="grammar-nakereba-naranai.html">@Vnaistem{{}}@HI{{nakereba naranai}}</a>. The basic idea
 is one of "must" or "have to".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{mou @KJ{{homecoming}}ranai to}} ...
+    @HI{{mou@KJ{{homecoming}}ra@EM{{naito}}}} ...
   </td> </tr>
   <tr class="en"> <td>
     I have to go home now.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -48,6 +43,7 @@ is one of "must" or "have to".
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
