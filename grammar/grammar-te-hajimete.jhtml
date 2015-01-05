@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}" grammar="@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}"}}
+
+<body>
+
+<h1>@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@EM{{@Vte{{}}@HI{{@FG{{@KJ{{first*time}}:haji}}mete}}}} is used to express the idea that something happens only after something else has happened.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{consider}}eha@FG{{@KJ{{sentence^character}}:moji}}shitemite@FG{{@KJ{{first*time}}:haji}}metehakkirisurukotoga@KJ{{many}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is often not until you write down your idea that it becomes clear.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@FG{{@KJ{{life}}:u}}@HI{{marete@FG{{@KJ{{first*time}}:haji}}mete}} is an idiomatic phrase meaning "for the first time in one's life".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{life}}:u}}@HI{{marete@FG{{@KJ{{first*time}}:haji}}mete}}sashimiwo@KJ{{eat}}beta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I ate sashimi for the first time in my life.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The idiom may also appear in form below.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sashimi(wo@KJ{{eat}}beruno)ha@FG{{@KJ{{life}}:u}}@HI{{marete@FG{{@KJ{{first*time}}:haji}}mete}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      kthis is the first time I've had sashimi.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 456).
+<li> @REF{{NKZM-N2G}}. (p. 16).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

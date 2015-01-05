@@ -98,7 +98,7 @@ div.main {
 <h3><a name="chapter1.3">3 @KJ{{chapter}}</a></h3>
 
 <ol>
-<li> ~@Vte{{}}@HI{{hajimete}}
+<li> ~<a href="grammar-te-hajimete.html">@Vte{{}}@HI{{hajimete}}</a>
 <li> ~@KJ{{above}}(@HI{{de}})
 <li> ~@FG{{@KJ{{next^No.}}:shidai}}
 <li> ~@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}, ~@Vte{{}}@HI{{konokata}}
