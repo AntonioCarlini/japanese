@@ -477,9 +477,9 @@ div.main {
 <ol>
 <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
 <li> ~@HI{{toiuka}}~@HI{{toiuka}}
-<li> ~@HI{{nishitemo}}~@HI{{nishitemo}}
-<li> ~@HI{{nishiro}}~@HI{{nishiro}}
-<li> ~@HI{{niseyo}}~@HI{{niseyo}}
+<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}~@HI{{nishitemo}}</a>
+<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishiro}}~@HI{{nishiro}}</a>
+<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a>
 <li> ~<a href="grammar-particle-dano.html">@HI{{dano}}~@HI{{dano}}</a>
 <li> ~@HI{{ka}}~@HI{{naikanouchini}}
 <li> ~<a href="grammar-you-ka-mai-ka.html">@Vyou{{}}@HI{{ka}}~@HI{{maika}}</a>

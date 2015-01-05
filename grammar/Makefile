@@ -166,6 +166,7 @@ JHTML_SRCS += grammar-nasai.jhtml
 JHTML_SRCS += grammar-ni-atatte.jhtml
 JHTML_SRCS += grammar-ni-chigainai.jhtml
 JHTML_SRCS += grammar-ni-kagiru.jhtml
+JHTML_SRCS += grammar-ni-shite-mo.jhtml
 JHTML_SRCS += grammar-ni-shite-wa.jhtml
 JHTML_SRCS += grammar-ni-suru.jhtml
 JHTML_SRCS += grammar-ni-taishite.jhtml
