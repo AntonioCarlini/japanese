@@ -16,29 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{tabini}}}}
-<li> @N{{}}@HI{{no}}@EM{{@HI{{tabini}}}}
+<li> @Vru{{}}@HI{{@EM{{tabini}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{tabini}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
+@HI{{@EM{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
 the following clause also occurs.
-</p>
 
-<p>
-@EM{{@HI{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
-</p>
-
-<p>
-The @HI{{ni}} particle part of the construction cannot be dropped.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^book}}he@KJ{{going}}ku@EM{{tabini}}@KJ{{new}}shiikotowo@KJ{{study}}nde@KJ{{return}}rimasu.}}
@@ -47,9 +34,26 @@ The @HI{{ni}} particle part of the construction cannot be dropped.
       Each time I return home to Japan I come home having learned something new.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+@HI{{@EM{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{father}}ha@KJ{{trip^going}}no@EM{{tabigotoni}}omiyagewo@KJ{{buy}}ttekitakureru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On each and every trip my father comes back with souvenirs.
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+The @HI{{ni}} particle part of the construction cannot be dropped.
+</p>
 
 <h2> References </h2>
 

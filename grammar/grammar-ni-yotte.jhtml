@@ -16,21 +16,34 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{niyotte}}}}
-<li> <em>embedded-question</em>@HI{{kadouka}}@EM{{@HI{{niyotte}}}}
-<li> <em>embedded-wh-question</em>@HI{{ka}}@EM{{@HI{{niyotte}}}}
+<li> @N{{}}@HI{{@EM{{niyotte}}}}
+<li> <em>embedded-question</em>@HI{{kadouka}}@HI{{@EM{{niyotte}}}}
+<li> <em>embedded-wh-question</em>@HI{{ka}}@HI{{@EM{{niyotte}}}}
+<li> @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@HI{{niyotte}}}} indicates a change in behaviour depending on or according to something.
+@HI{{@EM{{niyotte}}}} can indicate a means for doing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto@EM{{niyotte}}@KJ{{inspection^plains}}wo@KJ{{wide}}gerukotoga@KJ{{exit^come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We can expand our horizons by reading books.
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+@BGRND{{}}
+<p>
+@HI{{@EM{{niyotte}}}} can indicate a change in behaviour depending on or according to something.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{person}}@EM{{niyotte}}@KJ{{year}}notori@KJ{{direction}}ga@KJ{{difference}}u.}}
@@ -39,17 +52,83 @@
       Depending on the person, the ageing process differs.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niyotte}}}} can indicate a cause for something.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{ego^noma}}ha@KJ{{book}}wo@KJ{{read}}mukoto@EM{{niyotte}}@KJ{{inspection^plains}}wo@KJ{{wide}}gerukotoga
-      @KJ{{exit^come}}ru.}}
+      @HI{{@FG{{@KJ{{war^contend}}:sensou}}@EM{{niyotte}}@KJ{{father}}ha@FG{{@KJ{{deceased}}:na}}kushita.}}
   </td> </tr>
   <tr class="en"> <td>
-      We can expand our horizons by reading books.
+      We lost our father because of the war.
   </td> </tr>
 </table>
-</ol>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niyotte}}}} can be the agent of a passive sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{polish^research^place}}:kenkyuujo}}ha@FG{{@KJ{{sentence^section^focus}}:monbushou}}@EM{{niyotte}}
+      @FG{{@KJ{{establishment^stand*up}}:setsuritsu}}sareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This research institute was established by the Ministry of Education.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{niyotte}}}} means dependency on a situation, it can be replaced by @HI{{@EM{{niyori}}}}. The latter is used in written Japanese.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}no@FG{{@KJ{{teach^impart^method}}:kyoujuhou}}ha@FG{{@KJ{{teach^expert}}:kyoushi}}@EM{{niyori}}@FG{{@KJ{{uncommon}}:koto}}naru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese language pedagogy differs depending on the instructor.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niyotte}}}} can also be replaced by @HI{{@EM{{niyori}}}} when it means an instrument by which something is done, unless the instrument
+is concrete and tangible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{konogoroha@FG{{@KJ{{eaves^mid-air^in^inherit}}:uchuuchuukei}}@EM{{niyori}}@KJ{{generation^world}}no@KT{{nyu-su}}wo
+      @KT{{terebi}}de@KJ{{see}}rukotoga@KJ{{exit^come}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      These days we can watch world news on TV via satellite live broadcasting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The pre-nominal form is @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{nyu-yo-ku}}deha@FG{{@KJ{{hemp^music}}:mayaku}}@FG{{@KJ{{usual^utilize^someone}}:jouyousha}}@EM{{niyoru}}
+      @FG{{@KJ{{kill^person}}:satsujin}}@KJ{{matter^affair}}ga@FG{{@KJ{{many^departure}}:tahatsu}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In New York murders by habitual drug users occur frequently.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 
 <h2> Notes </h2>
 
