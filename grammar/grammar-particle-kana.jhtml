@@ -16,17 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{kana}}}}. 
-<li> @Ai{{}}@EM{{@HI{{kana}}}}. 
-<li> @Anastem{{}}@EM{{@HI{{kana}}}}. 
-<li> @N{{}}@EM{{@HI{{kana}}}}. 
-<li> <em>interrogative</em>@EM{{@HI{{kana}}}}. 
+<li> @Vru{{}}@HI{{@EM{{kana}}}}. 
+<li> @Ai{{}}@HI{{@EM{{kana}}}}. 
+<li> @Anastem{{}}@HI{{@EM{{kana}}}}. 
+<li> @N{{}}@HI{{@EM{{kana}}}}. 
+<li> <em>interrogative</em>@HI{{@EM{{kana}}}}. 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kana}}}} is a sentence ending particle mainly used by men and usually is translated as "I wonder".
+@HI{{@EM{{kana}}}} is a sentence ending particle mainly used by men and usually is translated as "I wonder".
 </p>
 
 <p>
@@ -37,7 +37,7 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 
 @BGRND{{}}
 <p>
-<a name="uncertainty">@EM{{@HI{{kana}}}}</a> indicates uncertainty.
+<a name="uncertainty">@HI{{@EM{{kana}}}}</a> indicates uncertainty.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -51,7 +51,7 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 
 @BGRND{{}}
 <p>
-<a name="self-question">@EM{{@HI{{kana}}}}</a> marks a question to oneself.
+<a name="self-question">@HI{{@EM{{kana}}}}</a> marks a question to oneself.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -65,7 +65,7 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 
 @BGRND{{}}
 <p>
-<a name="muted-request">@EM{{@HI{{kana}}}}</a> indicates a hope or a muted request.
+<a name="muted-request">@HI{{@EM{{kana}}}}</a> indicates a hope or a muted request.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -79,7 +79,7 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 
 @BGRND{{}}
 <p>
-<a name="softened-invitation">@HI{{nai}}@EM{{@HI{{kana}}}}</a> makes an invitation or request less direct.
+<a name="softened-invitation">@HI{{nai}}@HI{{@EM{{kana}}}}</a> makes an invitation or request less direct.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

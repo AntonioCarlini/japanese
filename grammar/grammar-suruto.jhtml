@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{suruto}}}}
+<li> @HI{{@EM{{suruto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{suruto}}}} is a conjunction that joins two sentences. The second of the two either describes an event that
+@HI{{@EM{{suruto}}}} is a conjunction that joins two sentences. The second of the two either describes an event that
 occurs immediately after the first sentence or expresses a logical guess related to it.
 </p>
 
@@ -58,7 +58,7 @@ occurs immediately after the first sentence or expresses a logical guess related
 <h2> Notes </h2>
 
 <p>
-The @HI{{to}} in @EM{{@HI{{suruto}}}} is the <a href="grammar-to-conditional.html">@HI{{to}} conditional</a>,
+The @HI{{to}} in @HI{{@EM{{suruto}}}} is the <a href="grammar-to-conditional.html">@HI{{to}} conditional</a>,
 so the second sentence normally expresses something beyond the control of the speaker and cannot be a command, request or suggestion.
 </p>
 

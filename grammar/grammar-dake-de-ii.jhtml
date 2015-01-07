@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{dakedeii}}}}
-<li> @Ai{{}}@EM{{@HI{{dakedeii}}}}
-<li> @Ana{{}}@EM{{@HI{{dakedeii}}}}
+<li> @Vru{{}}@HI{{@EM{{dakedeii}}}}
+<li> @Ai{{}}@HI{{@EM{{dakedeii}}}}
+<li> @Ana{{}}@HI{{@EM{{dakedeii}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{dakedeii}}}} follows a verb to indicate that it is only necessary to perform the specified action and nothing else.
+@HI{{@EM{{dakedeii}}}} follows a verb to indicate that it is only necessary to perform the specified action and nothing else.
 
 <table class="sentence">
   <tr class="jp"> <td>

@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(past) @EM{{@HI{{mama}}}}
-<li> @Ai{{}} @EM{{@HI{{mama}}}}
-<li> @Ana{{}} @EM{{@HI{{mama}}}}
-<li> @N{{}} @HI{{no }}@EM{{@HI{{mama}}}}
+<li> @Vplain{{}}(past) @HI{{@EM{{mama}}}}
+<li> @Ai{{}} @HI{{@EM{{mama}}}}
+<li> @Ana{{}} @HI{{@EM{{mama}}}}
+<li> @N{{}} @HI{{no }}@HI{{@EM{{mama}}}}
 </ol>
 
 <h2> Definition </h2>
 
-@EM{{@HI{{mama}}}} indicates that a situation remains unaltered.
+@HI{{@EM{{mama}}}} indicates that a situation remains unaltered.
 <p></p>
 
 <h2> Examples </h2>

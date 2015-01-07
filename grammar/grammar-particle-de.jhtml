@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-<a name="location">@EM{{@HI{{de}}}}</a> indicates the location of an action. Note that it normally cannot
+<a name="location">@HI{{@EM{{de}}}}</a> indicates the location of an action. Note that it normally cannot
 indicate location of existence except in the case where it is used with @HI{{aru}} to locate an event.
 
 <table class="sentence" border=0>
@@ -40,7 +40,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 @BGRND{{}}
 <p>
-<a name="means">@EM{{@HI{{de}}}}</a> indicates a means or an implement.
+<a name="means">@HI{{@EM{{de}}}}</a> indicates a means or an implement.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -54,9 +54,9 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{de}}}} indicates the materials used.
-Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the final product, otherwise
-@EM{{@HI{{de}}}} may be replaced by <a href="grammar-particle-kara.html">@HI{{kara}}</a>.
+@HI{{@EM{{de}}}} indicates the materials used.
+Note that @HI{{@EM{{de}}}} must be used if the raw material is obvious from the final product, otherwise
+@HI{{@EM{{de}}}} may be replaced by <a href="grammar-particle-kara.html">@HI{{kara}}</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -70,7 +70,7 @@ Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{de}}}} indicates the greatest, least etc. in a comparison.
+@HI{{@EM{{de}}}} indicates the greatest, least etc. in a comparison.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -84,7 +84,7 @@ Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{de}}}} indicates the amount and scope.
+@HI{{@EM{{de}}}} indicates the amount and scope.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -98,7 +98,7 @@ Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{de}}}} indicates the mode or condition of the agent of an action.
+@HI{{@EM{{de}}}} indicates the mode or condition of the agent of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -112,7 +112,7 @@ Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-<a name="time">@EM{{@HI{{de}}}}</a> indicates time or age.
+<a name="time">@HI{{@EM{{de}}}}</a> indicates time or age.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -126,7 +126,7 @@ Note that @EM{{@HI{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-<a name="cause">@EM{{@HI{{de}}}}</a> indicates the reason for something.
+<a name="cause">@HI{{@EM{{de}}}}</a> indicates the reason for something.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

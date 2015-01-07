@@ -18,22 +18,22 @@
 <dl>
 <dt>(A)
 <ol>
-<li> @Ana{{}} @EM{{@HI{{dai}}}}
-<li> @N{{}} @EM{{@HI{{dai}}}}
+<li> @Ana{{}} @HI{{@EM{{dai}}}}
+<li> @N{{}} @HI{{@EM{{dai}}}}
 </ol>
 <dt>(B)
 <ol>
-<li> @Vplain{{}} @HI{{nn}} @EM{{@HI{{dai}}}}
-<li> @Ai{{}} @HI{{nn}} @EM{{@HI{{dai}}}}
-<li> @Ana{{}} @HI{{nn}} @EM{{@HI{{dai}}}}
-<li> @N{{}} @HI{{nann}} @EM{{@HI{{dai}}}}
+<li> @Vplain{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
+<li> @Ai{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
+<li> @Ana{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
+<li> @N{{}} @HI{{nann}} @HI{{@EM{{dai}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{dai}}}} is a sentence-final particle which is used in informal male speech to mark a WH-question.
+@HI{{@EM{{dai}}}} is a sentence-final particle which is used in informal male speech to mark a WH-question.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -48,13 +48,13 @@
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{dai}}}} is used with a question, it must be an interrogative one:
+When @HI{{@EM{{dai}}}} is used with a question, it must be an interrogative one:
 <a href="grammar-particle-kai.html">@HI{{kai}}</a> is used with yes-no questions.
 </p>
 
 <p>
-@EM{{@HI{{dai}}}} is actually the <a href="grammar-copula.html">copula</a> followed by @HI{{i}}, so it can only
-follow @HI{{na}}-adjectives and nouns. It can follow @HI{{i}}-adjectives and verbs if the form @EM{{@HI{{ndai}}}}
+@HI{{@EM{{dai}}}} is actually the <a href="grammar-copula.html">copula</a> followed by @HI{{i}}, so it can only
+follow @HI{{na}}-adjectives and nouns. It can follow @HI{{i}}-adjectives and verbs if the form @HI{{@EM{{ndai}}}}
 as the @HI{{nn}} is an abbreviation of the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>.
 </p>
 

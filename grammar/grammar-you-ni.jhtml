@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(<em>non-volitional</em>) @EM{{@HI{{you ni}}}}, <em>volitional expression</em>
-<li> @Vnai{{}} @EM{{@HI{{you ni}}}}, <em>volitional expression</em>
+<li> @Vru{{}}(<em>non-volitional</em>) @HI{{@EM{{you ni}}}}, <em>volitional expression</em>
+<li> @Vnai{{}} @HI{{@EM{{you ni}}}}, <em>volitional expression</em>
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@ These sentence patterns indicate a purpose.
 </p>
 
 <p>
-The verb before @EM{{@HI{{you ni}}}} should be a non-volitional one or a verb in the negative form.
+The verb before @HI{{@EM{{you ni}}}} should be a non-volitional one or a verb in the negative form.
 </p>
 
 <h2> Examples </h2>
@@ -57,7 +57,7 @@ The verb before @EM{{@HI{{you ni}}}} should be a non-volitional one or a verb in
 
 The similar expression <a href="grammar-tame-ni.html">@HI{{tame ni}}</a> is used in clauses with verbs
 that contain volition,
-whereas @EM{{@HI{{you ni}}}} is used with verbs that do not. Note that if the verb involved
+whereas @HI{{@EM{{you ni}}}} is used with verbs that do not. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
 </br>
 

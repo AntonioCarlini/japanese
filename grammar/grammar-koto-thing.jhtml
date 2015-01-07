@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{koto}}}}
-<li> @Ai{{}} @EM{{@HI{{koto}}}}
-<li> @Ana{{}} @EM{{@HI{{koto}}}}
-<li> @N{{}}@HI{{no}} @EM{{@HI{{koto}}}}
+<li> @Vru{{}} @HI{{@EM{{koto}}}}
+<li> @Ai{{}} @HI{{@EM{{koto}}}}
+<li> @Ana{{}} @HI{{@EM{{koto}}}}
+<li> @N{{}}@HI{{no}} @HI{{@EM{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{koto}}}} represents an intangible thing.
+@HI{{@EM{{koto}}}} represents an intangible thing.
 
 <ol>
 <li>
@@ -52,7 +52,7 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{koto}}}} can only be used to refer to something intangible. For tangible items use
+@HI{{@EM{{koto}}}} can only be used to refer to something intangible. For tangible items use
 <a href="grammar-mono-da.html">@HI{{mono}}</a>.
 </p>
 

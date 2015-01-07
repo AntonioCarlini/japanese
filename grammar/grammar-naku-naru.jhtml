@@ -16,18 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnaistem{{}}@EM{{@HI{{nakunaru}}}}
-<li> @Aistem{{}}@HI{{ku}}@EM{{@HI{{nakunaru}}}}
-<li> @Anastem{{}}@HI{{deha}}@EM{{@HI{{nakunaru}}}}
-<li> @Anastem{{}}@HI{{ja}}@EM{{@HI{{nakunaru}}}}
-<li> @N{{}}@HI{{deha}}@EM{{@HI{{nakunaru}}}}
-<li> @N{{}}@HI{{ja}}@EM{{@HI{{nakunaru}}}}
+<li> @Vnaistem{{}}@HI{{@EM{{nakunaru}}}}
+<li> @Aistem{{}}@HI{{ku}}@HI{{@EM{{nakunaru}}}}
+<li> @Anastem{{}}@HI{{deha}}@HI{{@EM{{nakunaru}}}}
+<li> @Anastem{{}}@HI{{ja}}@HI{{@EM{{nakunaru}}}}
+<li> @N{{}}@HI{{deha}}@HI{{@EM{{nakunaru}}}}
+<li> @N{{}}@HI{{ja}}@HI{{@EM{{nakunaru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{nakunaru}}}} is used to convey the idea that the point has been reached where a state or action 
+@HI{{@EM{{nakunaru}}}} is used to convey the idea that the point has been reached where a state or action 
 does not take place any more.
 
 <table class="sentence">

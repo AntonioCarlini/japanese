@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@EM{{@HI{{darake}}}}@HI{{no}}@N2{{}}
-<li> @N1{{}}@HI{{ha}}@N2{{}}@EM{{@HI{{darake}}}}@HI{{da}}
+<li> @N1{{}}@HI{{@EM{{darake}}}}@HI{{no}}@N2{{}}
+<li> @N1{{}}@HI{{ha}}@N2{{}}@HI{{@EM{{darake}}}}@HI{{da}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{darake}}}} is a suffix used to indicate that someone or something is filled or covered with something undesirable.
+@HI{{@EM{{darake}}}} is a suffix used to indicate that someone or something is filled or covered with something undesirable.
 </p>
 
 <h2> Examples </h2>
@@ -43,7 +43,7 @@
 <h2> Notes </h2>
 
 <p>
-@HI{{mamire}} is similar to @EM{{@HI{{darake}}}}, but former means "totally covered in or mixed with a dirty liquid or powder", whereas the latter
+@HI{{mamire}} is similar to @HI{{@EM{{darake}}}}, but former means "totally covered in or mixed with a dirty liquid or powder", whereas the latter
 can include intangible objects and is not restricted to liquids or powders.
 </p>
 

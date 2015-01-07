@@ -16,20 +16,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{monoda}}}}
-<li> @Vmasustem{{}}@HI{{tai}}@EM{{@HI{{monoda}}}}
-<li> @Ai{{}}@EM{{@HI{{monoda}}}}
-<li> @Anastem{{}}@HI{{da}}@EM{{@HI{{monoda}}}}
+<li> @Vru{{}}@HI{{@EM{{monoda}}}}
+<li> @Vmasustem{{}}@HI{{tai}}@HI{{@EM{{monoda}}}}
+<li> @Ai{{}}@HI{{@EM{{monoda}}}}
+<li> @Anastem{{}}@HI{{da}}@HI{{@EM{{monoda}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{monoda}}}} is used by the speaker to present a situation as though it were a tangible object.
+@HI{{@EM{{monoda}}}} is used by the speaker to present a situation as though it were a tangible object.
 </p>
 
 <p>
-<a name="statement">@EM{{@HI{{monoda}}}}</a> can indicate emotive excuse.
+<a name="statement">@HI{{@EM{{monoda}}}}</a> can indicate emotive excuse.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -48,7 +48,7 @@
 </p>
 
 <p>
-<a name="exclamation">@EM{{@HI{{monoda}}}}</a> can indicate an exclamation.
+<a name="exclamation">@HI{{@EM{{monoda}}}}</a> can indicate an exclamation.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,7 +61,7 @@
 </p>
 
 <p>
-<a name="nostalgia">@EM{{@HI{{monoda}}}}</a> can indicate nostalgic reminiscence.
+<a name="nostalgia">@HI{{@EM{{monoda}}}}</a> can indicate nostalgic reminiscence.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,7 +74,7 @@
 </p>
 
 <p>
-<a name="desire">@EM{{@HI{{monoda}}}}</a> can indicate desire. See also <a href="grammar-tai-mono-da.html">here</a>.
+<a name="desire">@HI{{@EM{{monoda}}}}</a> can indicate desire. See also <a href="grammar-tai-mono-da.html">here</a>.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -87,7 +87,7 @@
 </p>
 
 <p>
-<a name="should">@EM{{@HI{{monoda}}}}</a> can indicate something one should do.
+<a name="should">@HI{{@EM{{monoda}}}}</a> can indicate something one should do.
 To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>.
 
 <table class="sentence">
@@ -101,7 +101,7 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
 </p>
 
 <p>
-<a name="conviction">@EM{{@HI{{monoda}}}}</a> can indicate an indirect conviction.
+<a name="conviction">@HI{{@EM{{monoda}}}}</a> can indicate an indirect conviction.
 
 <table class="sentence">
   <tr class="jp"> <td>

@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{kara}}}}.
-<li> @Vte{{}}@EM{{@HI{{kara}}}}.
-<li> @S{{}}@EM{{@HI{{kara}}}}, ...
+<li> @N{{}}@HI{{@EM{{kara}}}}.
+<li> @Vte{{}}@HI{{@EM{{kara}}}}.
+<li> @S{{}}@HI{{@EM{{kara}}}}, ...
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kara}}}} is a particle which can be used in a number of ways, generally with a meaning
+@HI{{@EM{{kara}}}} is a particle which can be used in a number of ways, generally with a meaning
 of "from" or "after".
 </p>
 
@@ -32,7 +32,7 @@ of "from" or "after".
 
 @BGRND{{}}
 <p>
-<a name="start">@EM{{@HI{{kara}}}}</a> can follow nouns to indicate the time at which something
+<a name="start">@HI{{@EM{{kara}}}}</a> can follow nouns to indicate the time at which something
 starts or the place from which something begins.
 
 <ol>
@@ -58,7 +58,7 @@ starts or the place from which something begins.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kara}}}} appears in certain idiomatic usages where figurative references to place are made.
+@HI{{@EM{{kara}}}} appears in certain idiomatic usages where figurative references to place are made.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -72,7 +72,7 @@ starts or the place from which something begins.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kara}}}} can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
+@HI{{@EM{{kara}}}} can follow the <a href="grammar-te-kara.html">@HI{{te}}-form of a verb</a>
 to mean that an action immediately follows the end of a previous action; the meaning here may be "after" or "since".
 
 <table class="sentence" border=0>
@@ -87,7 +87,7 @@ to mean that an action immediately follows the end of a previous action; the mea
 </p>
 <p>
 
-@Vte{{}}@EM{{@HI{{kara}}}} can also indicate the passage of time.
+@Vte{{}}@HI{{@EM{{kara}}}} can also indicate the passage of time.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -102,7 +102,7 @@ to mean that an action immediately follows the end of a previous action; the mea
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kara}}}} can follow a noun to indicate the raw material from which something 
+@HI{{@EM{{kara}}}} can follow a noun to indicate the raw material from which something 
 is <a href="grammar-tsukuru.html">made</a>. If the process is not complex and the original material can be clearly
 discerned then @HI{{de}} is preferred.
 
@@ -118,7 +118,7 @@ discerned then @HI{{de}} is preferred.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kara}}}} indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
+@HI{{@EM{{kara}}}} indicates the <a href="grammar-verb-use-of-passive.html">agent of a passive verb</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -132,7 +132,7 @@ discerned then @HI{{de}} is preferred.
 
 @BGRND{{}}
 <p>
-<a name="because">@EM{{@HI{{kara}}}}</a> can be used after a clause to mark it as a reason for something.
+<a name="because">@HI{{@EM{{kara}}}}</a> can be used after a clause to mark it as a reason for something.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -146,7 +146,7 @@ discerned then @HI{{de}} is preferred.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kara}}}} can be used trailingly at the end of a sentence to indicate censure of the listener.
+@HI{{@EM{{kara}}}} can be used trailingly at the end of a sentence to indicate censure of the listener.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

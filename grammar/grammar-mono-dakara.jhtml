@@ -17,14 +17,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@EM{{@HI{{monodakara}}}}@S2{{}}
-<li> @S1{{}}@EM{{@HI{{monode}}}}@S2{{}}
+<li> @S1{{}}@HI{{@EM{{monodakara}}}}@S2{{}}
+<li> @S1{{}}@HI{{@EM{{monode}}}}@S2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{monodakara}}}} is used by the speaker to indicate a reason in the first clause for something that happens in the second clause. 
+@HI{{@EM{{monodakara}}}} is used by the speaker to indicate a reason in the first clause for something that happens in the second clause. 
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -37,7 +37,7 @@
 </p>
 
 <p>
-@EM{{@HI{{monode}}}} is also used by the speaker as a conjunction
+@HI{{@EM{{monode}}}} is also used by the speaker as a conjunction
 to indicate a reason in the first clause for something that happens in the second clause. 
 
 <table class="sentence">

@@ -17,7 +17,8 @@
 
 <ol>
 <li> @N{{}}@HI{{@EM{{nomi}}}}
-<li> @HI{{@EM{{nomi}}}} @HI{{narazu}} ... @HI{{mo}}
+<li> @HI{{@EM{{nomi}}narazu}} ... @HI{{mo}}
+<li> @Vplain{{}}@HI{{@EM{{nomi}}da}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nomi}}}} follows a noun and means that there is nothing other than  the thing stated: "only". In this usage
+@HI{{@EM{{nomi}}}} can follow a noun and means that there is nothing other than  the thing stated: "only". In this usage
 @HI{{@EM{{nomi}}}} has the same meaning as <a href="grammar-particle-dake.html">@HI{{dake}}</a>, but it is used more in
 writing than in the spoken language. @HI{{@EM{{nomi}}}} can be followed by <a href="grammar-particle-shika.html">@HI{{shika}}<a/>.
 
@@ -67,6 +68,20 @@ comes before or after @HI{{@EM{{nomi}}}}.
 
 @BGRND{{}}
 <p>
+@HI{{@EM{{nomi}}}} can follow a verb in the informal form and means that there is nothing other than the action stated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hatada@KJ{{say}}waretakotosuru@EM{{nomi}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will do just what I was told to do.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 "A @HI{{@EM{{nomi}}narazu}}B@HI{{mo}}" is a form used to mean "not only ... but also ...".
 
 <table class="sentence">
@@ -91,7 +106,7 @@ The particles @HI{{ga}} and @HI{{wo}} are optional after @HI{{@EM{{nomi}}}}. Oth
 
 <ol>
 <li> @REF{{AAP}}. (p. 86).
-<li> @REF{{DOIJG}}. (p. 308).
+<li> @REF{{DOIJG}}. (p. 307).
 <li> @REF{{NKZM-N2G}}. (p. 134).
 </ol>
 

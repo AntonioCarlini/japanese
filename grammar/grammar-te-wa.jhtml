@@ -25,11 +25,11 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{teha}} is a conjunction used to present a topic about which a negative comment is then made.
+@HI{{@EM{{teha}}}} is a conjunction used to present a topic about which a negative comment is then made.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{son'nani@KJ{{play}}ndeiteha,@KJ{{test^verification}}ni@KJ{{lose^failure}}shimasuyo.}}
+      @HI{{son'nani@KJ{{play}}ndei@EM{{teha}},@KJ{{test^verification}}ni@KJ{{lose^failure}}shimasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       If you keep fooling around like that, you will fail the examination.
@@ -40,15 +40,15 @@
 <h2> Notes </h2>
 
 <p>
-The information on the @HI{{teha}} clause, about which a negative comment is to be made, is shared information.
+The information on the @HI{{@EM{{teha}}}} clause, about which a negative comment is to be made, is shared information.
 </p>
 
 <p>
-Etymologically @HI{{teha}} comes from @Vte{{}}@HI{{ha}}, but it is used as a conjunction.
+Etymologically @HI{{@EM{{teha}}}} comes from @Vte{{}}@HI{{ha}}, but it is used as a conjunction.
 </p>
 
 <p>
-<a href="grammar-te-wa-ikemasen.html">@HI{{tehaikenai}}</a>, which indicates prohibition, is a special case of @HI{{teha}}.
+<a href="grammar-te-wa-ikemasen.html">@HI{{tehaikenai}}</a>, which indicates prohibition, is a special case of @HI{{@EM{{teha}}}}.
 </p>
 
 

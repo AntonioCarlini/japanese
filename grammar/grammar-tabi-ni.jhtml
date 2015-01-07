@@ -26,6 +26,7 @@
 @HI{{@EM{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
 the following clause also occurs.
 
+<<<<<<< HEAD
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^book}}he@KJ{{going}}ku@EM{{tabini}}@KJ{{new}}shiikotowo@KJ{{study}}nde@KJ{{return}}rimasu.}}
@@ -34,6 +35,10 @@ the following clause also occurs.
       Each time I return home to Japan I come home having learned something new.
   </td> </tr>
 </table>
+=======
+<p>
+@HI{{@EM{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
+>>>>>>> dbed888525bb53df65526bab1c441c5e7bbc41f5
 </p>
 
 <p>

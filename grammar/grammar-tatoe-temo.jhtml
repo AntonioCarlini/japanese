@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{tatoe}}}} @Vte{{}} @EM{{@HI{{mo}}}}
-<li> @EM{{@HI{{tatoe}}}} @Aistem{{}} @EM{{@HI{{kutemo}}}}
-<li> @EM{{@HI{{tatoe}}}} @Anastem{{}} @EM{{@HI{{demo}}}}
-<li> @EM{{@HI{{tatoe}}}} @N{{}} @EM{{@HI{{demo}}}}
+<li> @HI{{@EM{{tatoe}}}} @Vte{{}} @HI{{@EM{{mo}}}}
+<li> @HI{{@EM{{tatoe}}}} @Aistem{{}} @HI{{@EM{{kutemo}}}}
+<li> @HI{{@EM{{tatoe}}}} @Anastem{{}} @HI{{@EM{{demo}}}}
+<li> @HI{{@EM{{tatoe}}}} @N{{}} @HI{{@EM{{demo}}}}
 </ol>
 
 <h2> Definition </h2>

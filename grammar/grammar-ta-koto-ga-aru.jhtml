@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@EM{{@HI{{kotogaaru}}}}
-<li> @Aistem{{}}@HI{{katta}} @EM{{@HI{{kotogaaru}}}}
-<li> @Anastem{{}}@HI{{datta}} @EM{{@HI{{kotogaaru}}}}
-<li> @N{{}}@HI{{datta}} @EM{{@HI{{kotogaaru}}}}
+<li> @Vta{{}}@HI{{@EM{{kotogaaru}}}}
+<li> @Aistem{{}}@HI{{katta}} @HI{{@EM{{kotogaaru}}}}
+<li> @Anastem{{}}@HI{{datta}} @HI{{@EM{{kotogaaru}}}}
+<li> @N{{}}@HI{{datta}} @HI{{@EM{{kotogaaru}}}}
 </ol>
 
 <h2> Definition </h2>

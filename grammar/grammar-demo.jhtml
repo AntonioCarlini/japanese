@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{demo}}}}
+<li> @N{{}} @HI{{@EM{{demo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{demo}}}} means "even".
+@HI{{@EM{{demo}}}} means "even".
 
 <ol>
 <li>
@@ -58,11 +58,11 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{demo}}}} is not the same as the combination of particles @HI{{de}} + @HI{{mo}}.
+@HI{{@EM{{demo}}}} is not the same as the combination of particles @HI{{de}} + @HI{{mo}}.
 </p>
 
 <p>
-@EM{{@HI{{demo}}}} combines with various WH-words.
+@HI{{@EM{{demo}}}} combines with various WH-words.
 
 <table class="sentence">
   <tr class="jp"> <td>

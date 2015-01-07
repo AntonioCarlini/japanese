@@ -18,16 +18,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(non-past)@EM{{@HI{{monoka}}}}.
-<li> @Ai{{}}@EM{{@HI{{monoka}}}}.
-<li> @Ana{{}}@EM{{@HI{{monoka}}}}.
-<li> @N{{}}@HI{{na}}@EM{{@HI{{monoka}}}}.
+<li> @Vru{{}}(non-past)@HI{{@EM{{monoka}}}}.
+<li> @Ai{{}}@HI{{@EM{{monoka}}}}.
+<li> @Ana{{}}@HI{{@EM{{monoka}}}}.
+<li> @N{{}}@HI{{na}}@HI{{@EM{{monoka}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-<a name="disagree"> @EM{{@HI{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to express a
+<a name="disagree"> @HI{{@EM{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to express a
 strong negative view or disagreement.
 
 <table class="sentence" border=0>
@@ -47,7 +47,7 @@ strong negative view or disagreement.
 </p>
 
 <p>
-<a name="intend-not">@EM{{@HI{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to
+<a name="intend-not">@HI{{@EM{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to
 express a resolve not to do something.
 
 <ol>
@@ -73,7 +73,7 @@ express a resolve not to do something.
 </p>
 
 <p>
-In male speech @EM{{@HI{{monoka}}}} becomes @EM{{@HI{{monka}}}} in colloquial male speech.
+In male speech @HI{{@EM{{monoka}}}} becomes @HI{{@EM{{monka}}}} in colloquial male speech.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

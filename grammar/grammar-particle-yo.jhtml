@@ -16,20 +16,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S{{}} @EM{{@HI{{yo}}}}.
+<li> @S{{}} @HI{{@EM{{yo}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{yo}}}} is a sentence ending particle.
+@HI{{@EM{{yo}}}} is a sentence ending particle.
 </p>
 
 @BGRNDSTART{{}}
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yo}}}} can urge a course of action.
+@HI{{@EM{{yo}}}} can urge a course of action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yo}}}} can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
+@HI{{@EM{{yo}}}} can indicate a request (in this usage it is stronger than <a href="grammar-particle-ne.html">@HI{{ne}}</a>).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yo}}}} can indicate that the speaker feels certain of what he is saying.
+@HI{{@EM{{yo}}}} can indicate that the speaker feels certain of what he is saying.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -71,7 +71,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yo}}}} can indicate scolding or contempt.
+@HI{{@EM{{yo}}}} can indicate scolding or contempt.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{yo}}}} generally indicates that the speaker is convinced of something. It can be an assertion by the speaker
+@HI{{@EM{{yo}}}} generally indicates that the speaker is convinced of something. It can be an assertion by the speaker
 of something that he assumes is not known to the listener.
 </p>
 

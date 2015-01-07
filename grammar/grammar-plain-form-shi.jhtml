@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{shi}}}},
-<li> @Ai{{}} @EM{{@HI{{shi}}}},
-<li> @Anastem{{}} @HI{{da}} @EM{{@HI{{shi}}}},
-<li> @N{{}} @HI{{da}} @EM{{@HI{{shi}}}},
+<li> @Vplain{{}} @HI{{@EM{{shi}}}},
+<li> @Ai{{}} @HI{{@EM{{shi}}}},
+<li> @Anastem{{}} @HI{{da}} @HI{{@EM{{shi}}}},
+<li> @N{{}} @HI{{da}} @HI{{@EM{{shi}}}},
 </ol>
 
 <h2> Definition </h2>
@@ -42,7 +42,7 @@ This sentence pattern is used to link sentences that are stated from the same vi
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{shi}}}} indicates, and often emphasises, the existence of two or more states.
+@HI{{@EM{{shi}}}} indicates, and often emphasises, the existence of two or more states.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

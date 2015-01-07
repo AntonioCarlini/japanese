@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{ppoi}}}}
-<li> @Aistem{{}} @EM{{@HI{{ppoi}}}}
-<li> @Anastem{{}} @EM{{@HI{{ppoi}}}}
-<li> @Vmasustem{{}} @EM{{@HI{{ppoi}}}}
+<li> @N{{}} @HI{{@EM{{ppoi}}}}
+<li> @Aistem{{}} @HI{{@EM{{ppoi}}}}
+<li> @Anastem{{}} @HI{{@EM{{ppoi}}}}
+<li> @Vmasustem{{}} @HI{{@EM{{ppoi}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{ppoi}}}} is used as a suffix to indicate that something has a distinctive characteristic of an attribute
+@HI{{@EM{{ppoi}}}} is used as a suffix to indicate that something has a distinctive characteristic of an attribute
 identified by the noun, adjective or verb stem.
 </p>
 
@@ -64,7 +64,7 @@ identified by the noun, adjective or verb stem.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{ppoi}}}} conjugates as an @HI{{i}}-adjective.
+@HI{{@EM{{ppoi}}}} conjugates as an @HI{{i}}-adjective.
 </p>
 
 <p>

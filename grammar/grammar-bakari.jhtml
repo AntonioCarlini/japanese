@@ -17,27 +17,27 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{bakari}}}}
-<li> @Vte{{}} @EM{{@HI{{bakari}}}}
-<li> @Vta{{}} @EM{{@HI{{bakari}}}}
-<li> @Ai{{}} @EM{{@HI{{bakari}}}}
-<li> @Ana{{}} @EM{{@HI{{bakari}}}}
-<li> @N{{}} @EM{{@HI{{bakari}}}}
-<li> @N{{}} <em>particle</em> @EM{{@HI{{bakari}}}}
-<li> <em>quantifier</em> @EM{{@HI{{bakari}}}}
+<li> @Vru{{}} @HI{{@EM{{bakari}}}}
+<li> @Vte{{}} @HI{{@EM{{bakari}}}}
+<li> @Vta{{}} @HI{{@EM{{bakari}}}}
+<li> @Ai{{}} @HI{{@EM{{bakari}}}}
+<li> @Ana{{}} @HI{{@EM{{bakari}}}}
+<li> @N{{}} @HI{{@EM{{bakari}}}}
+<li> @N{{}} <em>particle</em> @HI{{@EM{{bakari}}}}
+<li> <em>quantifier</em> @HI{{@EM{{bakari}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{bakari}}}} is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
+@HI{{@EM{{bakari}}}} is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
 </p>
 
 @BGRNDSTART{{}}
 
 @BGRND{{}}
 <p>
-@Vta{{}} @EM{{@HI{{bakari}}}} indicates that something has just happened or has just been done. It is the
+@Vta{{}} @HI{{@EM{{bakari}}}} indicates that something has just happened or has just been done. It is the
 speaker's feeling that determines whether the action is recent or not.
 
 <table class="sentence" border=0>
@@ -52,7 +52,7 @@ speaker's feeling that determines whether the action is recent or not.
 
 @BGRND{{}}
 <p>
-@Vte{{}} @EM{{@HI{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
+@Vte{{}} @HI{{@EM{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -66,7 +66,7 @@ speaker's feeling that determines whether the action is recent or not.
 
 @BGRND{{}}
 <p>
-@Vru{{}} @EM{{@HI{{bakari}}}} indicates that something is about to be done.
+@Vru{{}} @HI{{@EM{{bakari}}}} indicates that something is about to be done.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -80,8 +80,8 @@ speaker's feeling that determines whether the action is recent or not.
 
 @BGRND{{}}
 <p>
-In classical Japanese @EM{{@HI{{bakari}}}} expressed the speaker's conjecture and this is still seen
-in <em>quantifier</em> @EM{{@HI{{bakari}}}}, which means "about".
+In classical Japanese @HI{{@EM{{bakari}}}} expressed the speaker's conjecture and this is still seen
+in <em>quantifier</em> @HI{{@EM{{bakari}}}}, which means "about".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -96,7 +96,7 @@ in <em>quantifier</em> @EM{{@HI{{bakari}}}}, which means "about".
 @BGRND{{}}
 <p>
 @HI{{@EM{{bakari}}denai}} expresses the idea of "not also but also". In this usage it can be replaced by
-<a href="grammar-dake.html">@HI{{dake}}</a> but @EM{{@HI{{bakari}}}} is slightly more emphatic.
+<a href="grammar-dake.html">@HI{{dake}}</a> but @HI{{@EM{{bakari}}}} is slightly more emphatic.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -113,7 +113,7 @@ in <em>quantifier</em> @EM{{@HI{{bakari}}}}, which means "about".
 @HI{{@EM{{bakari}}}} emphasises the singularity of the immediately preceding word.
 </p>
 <p>
-The position of @EM{{@HI{{bakari}}}} slightly changes the meaning, so several versions of a sentence are
+The position of @HI{{@EM{{bakari}}}} slightly changes the meaning, so several versions of a sentence are
 supplied to show the difference.
 
 <ol>
@@ -167,7 +167,7 @@ supplied to show the difference.
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. When it follows
+When @HI{{@EM{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. When it follows
 @HI{{ni}} or @HI{{he}}, these particles may optionally drop. Other particles remain.
 </p>
 

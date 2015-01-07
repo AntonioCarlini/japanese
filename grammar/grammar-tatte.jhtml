@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@EM{{@HI{{tatte}}}}
-<li> @Aistem{{}}@HI{{ku}}@EM{{@HI{{tatte}}}}
+<li> @Vta{{}}@HI{{@EM{{tatte}}}}
+<li> @Aistem{{}}@HI{{ku}}@HI{{@EM{{tatte}}}}
 <li> @Anastem{{}}@HI{{datte}}
 <li> @Anastem{{}}@HI{{dattatte}}
 <li> @N{{}}@HI{{datte}}
@@ -27,7 +27,7 @@
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{tatte}}}} is used to mean that even if something were done or something were in some state,
+@HI{{@EM{{tatte}}}} is used to mean that even if something were done or something were in some state,
 the desired result would not come about.
 
 <table class="sentence">
@@ -43,7 +43,7 @@ the desired result would not come about.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{tatte}}}} is used only in informal Japanese.
+@HI{{@EM{{tatte}}}} is used only in informal Japanese.
 </p>
 
 <h2> References </h2>

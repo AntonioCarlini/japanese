@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}} @EM{{@HI{{soshite}}}} @S2{{}}
+<li> @S1{{}} @HI{{@EM{{soshite}}}} @S2{{}}
 </ol>
 
 <h2> Definition </h2>
 
-@EM{{@HI{{soshite}}}} is a conjunction used to connect two sentences. It means "and" or "and then".
+@HI{{@EM{{soshite}}}} is a conjunction used to connect two sentences. It means "and" or "and then".
 </br>
 
 <h2> Examples </h2>
@@ -30,7 +30,7 @@
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{now^day}}ha @KJ{{east^capital}}ni @KJ{{going}}kimashita. @EM{{@HI{{soshite}}}} @KJ{{friend^accomplished}} ni @KJ{{meeting}}imashita.}}
+      @HI{{@KJ{{now^day}}ha @KJ{{east^capital}}ni @KJ{{going}}kimashita. @HI{{@EM{{soshite}}}} @KJ{{friend^accomplished}} ni @KJ{{meeting}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I went to Tokyo today and I met my friend there.

@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@EM{{@HI{{kke}}}}.
+<li> @Vta{{}}@HI{{@EM{{kke}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kke}}}} can indicate a muted question where there is shared information which the speaker is trying to recall.
+@HI{{@EM{{kke}}}} can indicate a muted question where there is shared information which the speaker is trying to recall.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kke}}}} can indicate that the speaker is remembering something from the distant past.
+@HI{{@EM{{kke}}}} can indicate that the speaker is remembering something from the distant past.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

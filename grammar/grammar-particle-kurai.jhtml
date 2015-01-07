@@ -17,9 +17,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>number/counter</em> @EM{{@HI{{kurai}}}}
-<li> <em>demonstrative</em> @EM{{@HI{{kurai}}}}
-<li> <em>interrogative pronoun</em> @EM{{@HI{{kurai}}}}
+<li> <em>number/counter</em> @HI{{@EM{{kurai}}}}
+<li> <em>demonstrative</em> @HI{{@EM{{kurai}}}}
+<li> <em>interrogative pronoun</em> @HI{{@EM{{kurai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kurai}}}} indicates an approximate amount without saying anything about the amount's
+@HI{{@EM{{kurai}}}} indicates an approximate amount without saying anything about the amount's
 upper or lower limits.
 
 <table class="sentence" border=0>
@@ -43,7 +43,7 @@ upper or lower limits.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kurai}}}} is used to indicate the extent of an action.
+@HI{{@EM{{kurai}}}} is used to indicate the extent of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@ upper or lower limits.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kurai}}}} is used to indicate a comparison.
+@HI{{@EM{{kurai}}}} is used to indicate a comparison.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -75,7 +75,7 @@ upper or lower limits.
 <h2> Notes </h2>
 
 <p>
-There is no difference in meaning between @EM{{@HI{{kurai}}}} and @EM{{@HI{{gurai}}}}.
+There is no difference in meaning between @HI{{@EM{{kurai}}}} and @HI{{@EM{{gurai}}}}.
 </p>
 
 <h2> References </h2>

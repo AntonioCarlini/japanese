@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@EM{{@HI{{hajimeru}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{hajimeru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{hajimeru}}}} is attached as a suffix to the @HI{{masu}}-stem of verbs to mean that someone or something 
+@HI{{@EM{{hajimeru}}}} is attached as a suffix to the @HI{{masu}}-stem of verbs to mean that someone or something 
 begins to be in  some state.
 </p>
 
@@ -43,7 +43,7 @@ begins to be in  some state.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{hajimeru}}}} can be attached to a punctual verb as long as the subject is plural.
+@HI{{@EM{{hajimeru}}}} can be attached to a punctual verb as long as the subject is plural.
 
 <table class="sentence">
   <tr class="jp"> <td>

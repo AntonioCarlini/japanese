@@ -16,18 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}} @EM{{@HI{{keredomo}}}}
-<li> @Vru{{}} @EM{{@HI{{keredomo}}}}
-<li> @Vta{{}} @EM{{@HI{{keredomo}}}}
-<li> @Ai{{}} @EM{{@HI{{keredomo}}}}
-<li> @Anastem{{}}@HI{{da}} @EM{{@HI{{keredomo}}}}
-<li> @N{{}}@HI{{da}} @EM{{@HI{{keredomo}}}}
+<li> @Splain{{}} @HI{{@EM{{keredomo}}}}
+<li> @Vru{{}} @HI{{@EM{{keredomo}}}}
+<li> @Vta{{}} @HI{{@EM{{keredomo}}}}
+<li> @Ai{{}} @HI{{@EM{{keredomo}}}}
+<li> @Anastem{{}}@HI{{da}} @HI{{@EM{{keredomo}}}}
+<li> @N{{}}@HI{{da}} @HI{{@EM{{keredomo}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{keredomo}}}} has a number of informal forms. In decreasing order of formality
+@HI{{@EM{{keredomo}}}} has a number of informal forms. In decreasing order of formality
 these are @HI{{keredo}}, @HI{{kedomo}} and @HI{{kedo}}.
 </p>
 
@@ -35,7 +35,7 @@ these are @HI{{keredo}}, @HI{{kedomo}} and @HI{{kedo}}.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{keredomo}}}} is a disjunctive subordinate conjunction that joins two sentences.
+@HI{{@EM{{keredomo}}}} is a disjunctive subordinate conjunction that joins two sentences.
 the basic meaning is "although."
 
 <ol>
@@ -63,7 +63,7 @@ the basic meaning is "although."
 
 @BGRND{{}}
 <p>
-At the end of a sentence @EM{{@HI{{keredomo}}}} implies something exists that qualifies what is actually said.
+At the end of a sentence @HI{{@EM{{keredomo}}}} implies something exists that qualifies what is actually said.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -77,7 +77,7 @@ At the end of a sentence @EM{{@HI{{keredomo}}}} implies something exists that qu
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{keredomo}}}} can be used to delimit a preliminary remark.
+@HI{{@EM{{keredomo}}}} can be used to delimit a preliminary remark.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -92,7 +92,7 @@ At the end of a sentence @EM{{@HI{{keredomo}}}} implies something exists that qu
 
 @BGRND{{}}
 <p>
-Another usage of @EM{{@HI{{keredomo}}}} at the end of a sentence is to emphasise that the speaker
+Another usage of @HI{{@EM{{keredomo}}}} at the end of a sentence is to emphasise that the speaker
 wants things to turn out as stated.
 
 <table class="sentence">
@@ -110,7 +110,7 @@ wants things to turn out as stated.
 <h2> Notes </h2>
 
 <p>
-In @S1{{}}@EM{{@HI{{keredomo}}}}@S2{{}}, @S1{{}} is a subordinate clause and is usually in the plain form.
+In @S1{{}}@HI{{@EM{{keredomo}}}}@S2{{}}, @S1{{}} is a subordinate clause and is usually in the plain form.
 However, in very polite speech @S1{{}} can be in the polite form.
 </p>
 

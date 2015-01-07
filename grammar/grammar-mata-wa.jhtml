@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}(@HI{{ka}})@EM{{@HI{{mataha}}}}@N2{{}}
-<li> @S1{{}}@HI{{ka}}@EM{{@HI{{mataha}}}}@S2{{}}
+<li> @N1{{}}(@HI{{ka}})@HI{{@EM{{mataha}}}}@N2{{}}
+<li> @S1{{}}@HI{{ka}}@HI{{@EM{{mataha}}}}@S2{{}}
 </ol>
 
 
@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mataha}}}} is a conjunction that connects two choices or options.
+@HI{{@EM{{mataha}}}} is a conjunction that connects two choices or options.
 
 
 <table class="sentence">
@@ -42,7 +42,7 @@
 
 @BGRND{{}}
 <p>
-When @EM{{@HI{{mataha}}}} connects two noun phrases, @HI{{ka}} after the first noun phrase is optional.
+When @HI{{@EM{{mataha}}}} connects two noun phrases, @HI{{ka}} after the first noun phrase is optional.
 
 
 <table class="sentence">

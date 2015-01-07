@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{node}}}} is a subordinate conjunction that expresses a reason or a cause.
+@HI{{@EM{{node}}}} is a subordinate conjunction that expresses a reason or a cause.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -42,7 +42,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{node}}}} implies that the speaker believes the subordinate clause to be the reason or cause
+@HI{{@EM{{node}}}} implies that the speaker believes the subordinate clause to be the reason or cause
 for the main clause.
 
 <table class="sentence" border=0>
@@ -61,16 +61,16 @@ for the main clause.
 
 <p>
 <a href="grammar-particle-de.html">@HI{{de}}</a> also expresses a reason or cause, however,
-it can only be used with nouns whereas @EM{{@HI{{node}}}} (and @HI{{kara}}) are only used with sentences.
+it can only be used with nouns whereas @HI{{@EM{{node}}}} (and @HI{{kara}}) are only used with sentences.
 </p>
 
 <p>
-@EM{{@HI{{node}}}} and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that
+@HI{{@EM{{node}}}} and @HI{{kara}} have similar meanings but @HI{{kara}} does not imply that
 the speaker believes that the subordinate clause is the reason or cause for the main clause.
 </p>
 
 <p>
-@HI{{kara}}, and not @EM{{@HI{{node}}}}, must be used when:
+@HI{{kara}}, and not @HI{{@EM{{node}}}}, must be used when:
 <ul>
 <li> the subordinate clause involves conjecture
 <li> the subordinate clause involves volition or personal opinion

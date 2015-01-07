@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}@EM{{@HI{{toiukotoda}}}}
-<li> @Splain{{}}@EM{{@HI{{tonokotoda}}}}
+<li> @Splain{{}}@HI{{@EM{{toiukotoda}}}}
+<li> @Splain{{}}@HI{{@EM{{tonokotoda}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{toiukotoda}}}} and @EM{{@HI{{tonokotoda}}}} are used to report speech.
+@HI{{@EM{{toiukotoda}}}} and @HI{{@EM{{tonokotoda}}}} are used to report speech.
 
 <ol>
 <li>

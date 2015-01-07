@@ -16,20 +16,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{no}}}}
-<li> @Ai{{}} @EM{{@HI{{no}}}}
-<li> @Ana{{}} @EM{{@HI{{no}}}}
+<li> @Vru{{}} @HI{{@EM{{no}}}}
+<li> @Ai{{}} @HI{{@EM{{no}}}}
+<li> @Ana{{}} @HI{{@EM{{no}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{no}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
+@HI{{@EM{{no}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
 phrase can normally be used.
 </p>
 
 <p>
-@EM{{@HI{{no}}}} cannot occur in position B of the sentence pattern:
+@HI{{@EM{{no}}}} cannot occur in position B of the sentence pattern:
 <table class="sentence">
   <tr class="jp"> <td>
       A@HI{{ha}} B @HI{{desu}}.
@@ -43,12 +43,12 @@ nominalised sentences are subordinate clauses and so @HI{{ha}} cannot appear and
 </p>
 
 <p>
-Unlike the nominaliser <a href="grammar-koto-nominaliser.html">@HI{{koto}}</a>, @EM{{@HI{{no}}}} tends to indicate
+Unlike the nominaliser <a href="grammar-koto-nominaliser.html">@HI{{koto}}</a>, @HI{{@EM{{no}}}} tends to indicate
 something to which the speaker does not feel very close.
 </p>
 
 <p>
-@EM{{@HI{{no}}}} tends to be used when the nominalised clause indicates something concrete or perceptible
+@HI{{@EM{{no}}}} tends to be used when the nominalised clause indicates something concrete or perceptible
 whereas <a href="grammar-koto-nominaliser.html">@HI{{koto}}</a> tends to be used when it indicates something
 abstract or imperceptible.
 </p>
@@ -80,7 +80,7 @@ abstract or imperceptible.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{no}}}} is used in various cases:
+@HI{{@EM{{no}}}} is used in various cases:
 <ul>
 <li> @Vru{{}} @HI{{@EM{{no}}ha}} <em>adjective</em> @HI{{desu}}.
 <li> @Vru{{}} @HI{{@EM{{no}}ga}} <em>adjective</em> @HI{{desu}}.

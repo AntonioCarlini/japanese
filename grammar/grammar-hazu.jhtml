@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{hazu}}}}
-<li> @Vnai{{}} @EM{{@HI{{hazu}}}}
-<li> @Ai{{}} @EM{{@HI{{hazu}}}}
-<li> @Ana{{}} @EM{{@HI{{hazu}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{hazu}}}}
+<li> @Vru{{}} @HI{{@EM{{hazu}}}}
+<li> @Vnai{{}} @HI{{@EM{{hazu}}}}
+<li> @Ai{{}} @HI{{@EM{{hazu}}}}
+<li> @Ana{{}} @HI{{@EM{{hazu}}}}
+<li> @N{{}} @HI{{no}} @HI{{@EM{{hazu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hazu}}}} which indicates the speaker's belief that something will happen (or happened).
+@HI{{@EM{{hazu}}}} which indicates the speaker's belief that something will happen (or happened).
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-An expectation that something will not be the case can be expressed either by negating the sentence before @EM{{@HI{{hazu}}}}.
+An expectation that something will not be the case can be expressed either by negating the sentence before @HI{{@EM{{hazu}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@ An expectation that something will not be the case can be expressed either by ne
 </p>
 
 <p>
-Alternatively the sentence can be followed by @EM{{@HI{{hazu}}}} @HI{{ha/ganai}}.
+Alternatively the sentence can be followed by @HI{{@EM{{hazu}}}} @HI{{ha/ganai}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,7 +74,7 @@ The latter construction carries the heavier weight.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hazu}}}} behaves as a noun so if "@S{{}}@EM{{@HI{{hazu}}}}" is a relative clause, @HI{{no}} follows it.
+@HI{{@EM{{hazu}}}} behaves as a noun so if "@S{{}}@HI{{@EM{{hazu}}}}" is a relative clause, @HI{{no}} follows it.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -91,7 +91,7 @@ The latter construction carries the heavier weight.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{hazu}}}} indicates an expectation based on some reliable knowledge and so it is more than
+@HI{{@EM{{hazu}}}} indicates an expectation based on some reliable knowledge and so it is more than
 just a guess.
 </p>
 

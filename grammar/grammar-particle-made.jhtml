@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{made}}}}
+<li> @N{{}}@HI{{@EM{{made}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{made}}}} indicates a time limit for an action: "until".
+@HI{{@EM{{made}}}} indicates a time limit for an action: "until".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{made}}}} can indicate the place to which an action extends.
+@HI{{@EM{{made}}}} can indicate the place to which an action extends.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{made}}}} can indicate the degree of a condition by citing an example.
+@HI{{@EM{{made}}}} can indicate the degree of a condition by citing an example.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{made}}}} can indicate an extreme condition.
+@HI{{@EM{{made}}}} can indicate an extreme condition.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@
 <h2> Notes </h2>
 
 <p>
-When X refers to a duration of time, then "X @EM{{@HI{{made}}}}" means "up to and including X" rather than "until X"
+When X refers to a duration of time, then "X @HI{{@EM{{made}}}}" means "up to and including X" rather than "until X"
 (the latter usually excludes X).
 
 <table class="sentence" border=0>

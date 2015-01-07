@@ -339,7 +339,7 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{rai}}@HI{{ru}}                </td>
    <td> @HI{{kuru}}                        </td>
    <td>                                    </td>
-   <td> @KJ{{rai}}@EM{{@HI{{masu}}}} </td>
+   <td> @KJ{{rai}}@HI{{@EM{{masu}}}} </td>
    <td> @HI{{konai}}                       </td>
    <td> @HI{{kite}}                        </td>
    <td>                                    </td>
@@ -354,14 +354,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{kou}}@HI{{u}} </td>
    <td> @HI{{iku}} </td>
    <td> @5D{{}}        </td>
-   <td> @KJ{{kou}}@EM{{@HI{{imasu}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{anai}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{tte}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{ou}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{e}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{eru}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{aseru}}}} </td>
-   <td> @KJ{{kou}}@EM{{@HI{{areru}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{imasu}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{anai}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{tte}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{ou}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{e}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{eru}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{aseru}}}} </td>
+   <td> @KJ{{kou}}@HI{{@EM{{areru}}}} </td>
  </tr>
 
 <!-- iru, unchecked -->
@@ -385,7 +385,7 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @HI{{aru}}     </td>
    <td> @5D{{}}        </td>
    <td> @HI{{arimasu}}   </td>
-   <td> @EM{{@HI{{nai}}}}    </td>
+   <td> @HI{{@EM{{nai}}}}    </td>
    <td> @HI{{atte}}     </td>
    <td> @HI{{arou}}    </td>
    <td> @HI{{iro}}     </td>
@@ -400,14 +400,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{shoku}}@HI{{ru}} </td>
    <td> @HI{{taberu}} </td>
    <td> @1D{{}}        </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{masu}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{nai}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{te}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{you}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{eyo}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{raeru}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{saseru}}}} </td>
-   <td> @KJ{{shoku}}@EM{{@HI{{rareru}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{masu}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{nai}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{te}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{you}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{eyo}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{raeru}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{saseru}}}} </td>
+   <td> @KJ{{shoku}}@HI{{@EM{{rareru}}}} </td>
  </tr>
 
 <!-- miru, unchecked -->
@@ -415,14 +415,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{mi}}@HI{{ru}} </td>
    <td> @HI{{taberu}} </td>
    <td> @1D{{}}        </td>
-   <td> @KJ{{mi}}@EM{{@HI{{masu}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{nai}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{te}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{you}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{eyo}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{raeru}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{saseru}}}} </td>
-   <td> @KJ{{mi}}@EM{{@HI{{rareru}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{masu}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{nai}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{te}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{you}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{eyo}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{raeru}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{saseru}}}} </td>
+   <td> @KJ{{mi}}@HI{{@EM{{rareru}}}} </td>
  </tr>
 
 <!-- au, unchecked -->
@@ -430,14 +430,14 @@ Verb conjugations are based on the basic forms shown in the table below.
    <td> @KJ{{kai}}@HI{{u}} </td>
    <td> @HI{{au}} </td>
    <td> @5D{{}}        </td>
-   <td> @KJ{{kai}}@EM{{@HI{{imasu}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{wanai}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{tte}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{ou}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{e}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{eru}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{waseru}}}} </td>
-   <td> @KJ{{kai}}@EM{{@HI{{wareru}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{imasu}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{wanai}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{tte}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{ou}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{e}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{eru}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{waseru}}}} </td>
+   <td> @KJ{{kai}}@HI{{@EM{{wareru}}}} </td>
  </tr>
 
 <!--

@@ -16,17 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@HI{{kotokara}}}}
-<li> @Ai{{}}@EM{{@HI{{kotokara}}}}
-<li> @Ana{{}}@EM{{@HI{{kotokara}}}}
-<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{kotokara}}}}
-<li> @N{{}}@HI{{dearu}}@EM{{@HI{{kotokara}}}}
+<li> @Vplain{{}}@HI{{@EM{{kotokara}}}}
+<li> @Ai{{}}@HI{{@EM{{kotokara}}}}
+<li> @Ana{{}}@HI{{@EM{{kotokara}}}}
+<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{kotokara}}}}
+<li> @N{{}}@HI{{dearu}}@HI{{@EM{{kotokara}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kotokara}}}} is used in this construction to mean that the preceding clause is the cause
+@HI{{@EM{{kotokara}}}} is used in this construction to mean that the preceding clause is the cause
 of the subsequent one. Often translated as "due to" or "from the fact that".
 
 <table class="sentence">

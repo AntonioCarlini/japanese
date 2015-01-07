@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @N{{}}@HI{{tonaruto}} means "when it comes to @N{{}}".
 
@@ -36,6 +39,7 @@
 </p>
 </p>
 
+@BGRND{{}}
 <p>
 @Splain{{}}@HI{{tonaruto}} means "if it is true that S".
 
@@ -48,6 +52,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

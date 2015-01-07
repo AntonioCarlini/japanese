@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{dake}}}}
-<li> <em>quantifier</em> @EM{{@HI{{dake}}}} 
-<li> @Vru{{}} @EM{{@HI{{dake}}}}
-<li> @Ai{{}} @EM{{@HI{{dake}}}}
-<li> @Ana{{}} @EM{{@HI{{dake}}}}
+<li> @N{{}} @HI{{@EM{{dake}}}}
+<li> <em>quantifier</em> @HI{{@EM{{dake}}}} 
+<li> @Vru{{}} @HI{{@EM{{dake}}}}
+<li> @Ai{{}} @HI{{@EM{{dake}}}}
+<li> @Ana{{}} @HI{{@EM{{dake}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dake}}}} follows nouns and quantifiers and means "that's all" or "only".
+@HI{{@EM{{dake}}}} follows nouns and quantifiers and means "that's all" or "only".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dake}}}} can also be used after a verb or an adjective. In this case it creates a predicate.
+@HI{{@EM{{dake}}}} can also be used after a verb or an adjective. In this case it creates a predicate.
 
 <ol>
 <li>
@@ -72,13 +72,13 @@
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{dake}}}} follows a noun, the particle used with that
-noun can precede or follow @EM{{@HI{{dake}}}}, except for @HI{{ga}}
-and @HI{{wo}}, which can optionally be used only after @EM{{@HI{{dake}}}}.
+When @HI{{@EM{{dake}}}} follows a noun, the particle used with that
+noun can precede or follow @HI{{@EM{{dake}}}}, except for @HI{{ga}}
+and @HI{{wo}}, which can optionally be used only after @HI{{@EM{{dake}}}}.
 </p>
 
 <p>
-@Vreru{{}} + @EM{{@HI{{dake}}}} means "as much as one can".
+@Vreru{{}} + @HI{{@EM{{dake}}}} means "as much as one can".
 
 <ol>
 <li>

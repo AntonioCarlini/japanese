@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@EM{{@HI{{no}}}} @N2{{}}
-<li> @Splain{{}}@EM{{@HI{{no}}}} ...
-<li> @S{{}}@EM{{@HI{{no}}}}.
+<li> @N1{{}}@HI{{@EM{{no}}}} @N2{{}}
+<li> @Splain{{}}@HI{{@EM{{no}}}} ...
+<li> @S{{}}@HI{{@EM{{no}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-<a name="modifier">@EM{{@HI{{no}}}}</a> can be used between two nouns to indicate possession.
+<a name="modifier">@HI{{@EM{{no}}}}</a> can be used between two nouns to indicate possession.
 If the context is understood, the second noun can be omitted.
 
 <table class="sentence" border=0>
@@ -42,7 +42,7 @@ If the context is understood, the second noun can be omitted.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used between two nouns to indicate position or location.
+@HI{{@EM{{no}}}} can be used between two nouns to indicate position or location.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@ If the context is understood, the second noun can be omitted.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used between two nouns to indicate that the first noun modifies the 
+@HI{{@EM{{no}}}} can be used between two nouns to indicate that the first noun modifies the 
 second in terms of kind or category.
 
 <table class="sentence" border=0>
@@ -71,7 +71,7 @@ second in terms of kind or category.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used between two nouns to indicate that the two nouns are in apposition.
+@HI{{@EM{{no}}}} can be used between two nouns to indicate that the two nouns are in apposition.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@ second in terms of kind or category.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used in place of @HI{{ga}} to mark the subject in a
+@HI{{@EM{{no}}}} can be used in place of @HI{{ga}} to mark the subject in a
 <a href="grammar-relative-clause.html">relative clause</a>.
 
 <table class="sentence" border=0>
@@ -100,7 +100,7 @@ second in terms of kind or category.
 
 @BGRND{{}}
 <p>
-<a name="indefinite">@EM{{@HI{{no}}}}</a> can be used following an adjective or a relative clause
+<a name="indefinite">@HI{{@EM{{no}}}}</a> can be used following an adjective or a relative clause
 to form an indefinite pronoun.
 
 <table class="sentence" border=0>
@@ -115,7 +115,7 @@ to form an indefinite pronoun.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs and adjectives.
+@HI{{@EM{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs and adjectives.
 In this use it is a simple nominaliser corresponding to "~ing" or "what".
 
 <table class="sentence" border=0>
@@ -130,7 +130,7 @@ In this use it is a simple nominaliser corresponding to "~ing" or "what".
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs of perception.
+@HI{{@EM{{no}}}} can be to <a href="grammar-no-nominaliser.html">nominalise</a> verbs of perception.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -144,7 +144,7 @@ In this use it is a simple nominaliser corresponding to "~ing" or "what".
 
 @BGRND{{}}
 <p>
-<a name="ending">@EM{{@HI{{no}}}}</a> can be used as a sentence ending particle as a 
+<a name="ending">@HI{{@EM{{no}}}}</a> can be used as a sentence ending particle as a 
 question marker in colloquial sentences.
 
 <table class="sentence" border=0>
@@ -159,7 +159,7 @@ question marker in colloquial sentences.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used as a sentence ending particle to soften a sentence. This is usually used by women.
+@HI{{@EM{{no}}}} can be used as a sentence ending particle to soften a sentence. This is usually used by women.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -173,7 +173,7 @@ question marker in colloquial sentences.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{no}}}} can be used as a sentence ending particle to indicate a mild command.
+@HI{{@EM{{no}}}} can be used as a sentence ending particle to indicate a mild command.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

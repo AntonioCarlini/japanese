@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quote</em> @EM{{@HI{{tte}}}}
+<li> <em>quote</em> @HI{{@EM{{tte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{tte}}}} is an informal version of the quotation marker @HI{{to}}.
-When @EM{{@HI{{tte}}}} is followed by @KJ{{say}}@HI{{u}},
+@HI{{@EM{{tte}}}} is an informal version of the quotation marker @HI{{to}}.
+When @HI{{@EM{{tte}}}} is followed by @KJ{{say}}@HI{{u}},
 then the meaning is "the person who is the topic says ...".
 
 <table class="sentence">

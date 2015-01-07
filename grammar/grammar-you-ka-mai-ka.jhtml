@@ -2,12 +2,12 @@
 <html>
 
 <head>
-<title>@Vyou{{}}@KJ{{kamaika}}</title>
+<title>@Vyou{{}}@HI{{ka}}@Vru{{}}@HI{{maika}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{youkamaika}}" grammar="@Vyou{{}}@KJ{{kamaika}}"}}
+@GRMIDX{{index="@HI{{youkamaika}}" grammar="@Vyou{{}}@HI{{ka}}@Vru{{}}@HI{{maika}}"}}
 
 <body>
 

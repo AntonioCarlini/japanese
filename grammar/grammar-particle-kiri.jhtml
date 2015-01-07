@@ -16,28 +16,28 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@EM{{@HI{{kiri}}}}
-<li> @N{{}}@EM{{@HI{{kiri}}}}
-<li> @HI{{kore/sore/are}}@EM{{@HI{{kiri}}}}
-<li> <em>counter</em>@EM{{@HI{{kiri}}}}
+<li> @Vta{{}}@HI{{@EM{{kiri}}}}
+<li> @N{{}}@HI{{@EM{{kiri}}}}
+<li> @HI{{kore/sore/are}}@HI{{@EM{{kiri}}}}
+<li> <em>counter</em>@HI{{@EM{{kiri}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kiri}}}} when used as a conjunction means that since something happened, nothing has changed.
-When used as a particle, @EM{{@HI{{kiri}}}} indicates a strict limitation of a number or quantity.
+@HI{{@EM{{kiri}}}} when used as a conjunction means that since something happened, nothing has changed.
+When used as a particle, @HI{{@EM{{kiri}}}} indicates a strict limitation of a number or quantity.
 </p>
 
 <p>
-@EM{{@HI{{kkiri}}}} is a more colloquial form that can also be more emphatic.
+@HI{{@EM{{kkiri}}}} is a more colloquial form that can also be more emphatic.
 </p>
 
 @BGRNDSTART{{}}
 
 @BGRND{{}}
 <p>
-Used after a noun or a verb, @EM{{@HI{{kiri}}}} indicates a "cutting off" point or limit and may be translated as "only".
+Used after a noun or a verb, @HI{{@EM{{kiri}}}} indicates a "cutting off" point or limit and may be translated as "only".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -51,7 +51,7 @@ Used after a noun or a verb, @EM{{@HI{{kiri}}}} indicates a "cutting off" point 
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kiri}}}} emphasises a negative meaning and may be translated as "only".
+@HI{{@EM{{kiri}}}} emphasises a negative meaning and may be translated as "only".
 In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{dake}}</a>.
 
 <table class="sentence">
@@ -67,7 +67,7 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kiri}}}} can indicate the most recent incidence of something. In this case it can be translated as "the last".
+@HI{{@EM{{kiri}}}} can indicate the most recent incidence of something. In this case it can be translated as "the last".
 
 
 <table class="sentence">
@@ -82,11 +82,11 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
 
 @BGRND{{}}
 <p>
-@HI{{kore/sore/are}}@EM{{@HI{{kiri}}}}  is used to mean "only this/that much" or "ever since this/that time".
+@HI{{kore/sore/are}}@HI{{@EM{{kiri}}}}  is used to mean "only this/that much" or "ever since this/that time".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{he}}karahaare@EM{{@HI{{kkiri}}}}@KJ{{what}}mo@FG{{@KJ{{take*along^entwine}}:renraku}}ganaino?}}
+      @HI{{@KJ{{he}}karahaare@HI{{@EM{{kkiri}}}}@KJ{{what}}mo@FG{{@KJ{{take*along^entwine}}:renraku}}ganaino?}}
   </td> </tr>
   <tr class="en"> <td>
       You haven't heard anything from him since then?

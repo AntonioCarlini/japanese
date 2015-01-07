@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{tsutsu}}" grammar="@HI{{tsutsu}} anchor="simultaneous"}}
+@GRMIDX{{index="@HI{{tsutsu}}" grammar="@HI{{tsutsu}}" anchor="simultaneous"}}
 @GRMIDX{{index="@HI{{tsutsuaru}}" grammar="@HI{{tsutsuaru}}" anchor="ongoing"}}
 
 <body>
@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-<a name="simultaneous">@EM{{@HI{{tsutsu}}}}</a> is a conjunction indicating that two actions are performed simultaneously by the same subject.
+<a name="simultaneous">@HI{{@EM{{tsutsu}}}}</a> is a conjunction indicating that two actions are performed simultaneously by the same subject.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -121,7 +121,7 @@ and
 </p>
 
 <p>
-The auxiliary verb @HI{{iru}}, for example in the form @Vte{{}}@HI{{iru}} cannot be followed by @HI{{@EM{{tsutsu}}}}.
+The auxiliary verb @HI{{iru}}, for example in the form @Vte{{}}@HI{{iru}}, cannot be followed by @HI{{@EM{{tsutsu}}}}.
 </p>
 
 <h2> References </h2>

@@ -14,7 +14,7 @@
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{goro}}}} is used with a specific point in time to indicate an approximation around that point.
+@HI{{@EM{{goro}}}} is used with a specific point in time to indicate an approximation around that point.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -29,7 +29,7 @@
 <h2> Notes </h2>
 
 <p>
-Note that @EM{{@HI{{goro}}}} is used with a specific point in time whereas <a href="grammar-particle-kurai.html">@HI{{kurai/gurai}}</a>
+Note that @HI{{@EM{{goro}}}} is used with a specific point in time whereas <a href="grammar-particle-kurai.html">@HI{{kurai/gurai}}</a>
 is used with a time interval.
 </p>
 

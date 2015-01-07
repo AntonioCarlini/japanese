@@ -17,21 +17,21 @@
 
 <p>
 <ol>
-<li> @Vplain{{}}(non-past) @EM{{@HI{{beki}}}} @HI{{desu}}
-<li> @Anastem{{}}@HI{{dearu}} @EM{{@HI{{beki}}}}
-<li> @N{{}}@HI{{dearu}} @EM{{@HI{{beki}}}}
+<li> @Vplain{{}}(non-past) @HI{{@EM{{beki}}}} @HI{{desu}}
+<li> @Anastem{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}
+<li> @N{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}
 </ol>
 </p>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{beki}}}} is an auxiliary that expresses the speaker's judgement that something should be
+@HI{{@EM{{beki}}}} is an auxiliary that expresses the speaker's judgement that something should be
 in some state.
 </p>
 
 <p>
-@EM{{@HI{{beki}}}} expresses the idea that something should be in a certain state because it is their
+@HI{{@EM{{beki}}}} expresses the idea that something should be in a certain state because it is their
 responsibility or duty, or because it is the right thing to do.
 
 <ol>
@@ -84,7 +84,7 @@ responsibility or duty, or because it is the right thing to do.
 </p>
 
 <p>
-@EM{{@HI{{beki}}}} can also express the idea that somone is expected to do something.
+@HI{{@EM{{beki}}}} can also express the idea that somone is expected to do something.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -97,7 +97,7 @@ responsibility or duty, or because it is the right thing to do.
 </p>
 
 <p>
-@EM{{@HI{{beki}}}} can immediately precede a noun.
+@HI{{@EM{{beki}}}} can immediately precede a noun.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -116,11 +116,11 @@ Either @HI{{suru@EM{{beki}}}} or @HI{{su@EM{{beki}}}} is acceptable.
 </p>
 
 <p>
-@EM{{@HI{{beki}}}} should not be used to someone of higher status.
+@HI{{@EM{{beki}}}} should not be used to someone of higher status.
 </p>
 
 <p>
-@EM{{@HI{{beki}}}} is similar to <a href="grammar-mono-da.html">@HI{{mono da}}</a>
+@HI{{@EM{{beki}}}} is similar to <a href="grammar-mono-da.html">@HI{{mono da}}</a>
 but the latter expresses a social norm (e.g. "Students should study")
 and cannot be applied to a specific situation (e.g. "<em>You</em> should study.").
 </p>

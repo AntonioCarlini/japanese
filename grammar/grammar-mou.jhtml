@@ -16,23 +16,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{mou}}}}@Vta{{}}
-<li> @EM{{@HI{{mou}}}}@Vmasustem{{}}@HI{{mashita}}
+<li> @HI{{@EM{{mou}}}}@Vta{{}}
+<li> @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashita}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{mou}}}} means "already" and when combined with a verb in the past tense
+@HI{{@EM{{mou}}}} means "already" and when combined with a verb in the past tense
 the meaning is that the action specified by the verb has been completed.
 </p>
 
 <p>
-In an affirmative interrogative sentence @EM{{@HI{{mou}}}} means "yet" or "already".
+In an affirmative interrogative sentence @HI{{@EM{{mou}}}} means "yet" or "already".
 </p>
 
 <p>
-In a negative sentence @EM{{@HI{{mou}}}} means "not yet" or "not any longer".
+In a negative sentence @HI{{@EM{{mou}}}} means "not yet" or "not any longer".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -45,7 +45,7 @@ In a negative sentence @EM{{@HI{{mou}}}} means "not yet" or "not any longer".
 </p>
 
 <p>
-The answer to the question @EM{{@HI{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
+The answer to the question @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
 @HI{{iie,madadesu}}.
 
 

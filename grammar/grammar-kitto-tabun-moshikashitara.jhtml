@@ -18,28 +18,28 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{kitto}}}} V ...
-<li> @EM{{@HI{{kitto}}}} V ... @HI{{deshou}}
-<li> @EM{{@HI{{tabunn}}}} V ...
-<li> @EM{{@HI{{tabunn}}}} V ... @HI{{deshou}}
-<li> @EM{{@HI{{moshikashitara}}}} V ...
-<li> @EM{{@HI{{moshikashitara}}}} V ... @HI{{kamoshiremasenn}}
+<li> @HI{{@EM{{kitto}}}} V ...
+<li> @HI{{@EM{{kitto}}}} V ... @HI{{deshou}}
+<li> @HI{{@EM{{tabunn}}}} V ...
+<li> @HI{{@EM{{tabunn}}}} V ... @HI{{deshou}}
+<li> @HI{{@EM{{moshikashitara}}}} V ...
+<li> @HI{{@EM{{moshikashitara}}}} V ... @HI{{kamoshiremasenn}}
 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kitto}}}} indicates a high degree of certainty. It can be used with @HI{{deshou}}.
+@HI{{@EM{{kitto}}}} indicates a high degree of certainty. It can be used with @HI{{deshou}}.
 </p>
 
 <p>
-@EM{{@HI{{tabunn}}}} implies less certainty than when @EM{{@HI{{kitto}}}} is used. It is most often
+@HI{{@EM{{tabunn}}}} implies less certainty than when @HI{{@EM{{kitto}}}} is used. It is most often
 used with @HI{{deshou}}.
 </p>
 
 <p>
-@EM{{@HI{{moshikashitara}}}} is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
+@HI{{@EM{{moshikashitara}}}} is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
 this one involves the least amount of certainty.
 </p>
 

@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{nado}}}} ... 
+<li> @N{{}} @HI{{@EM{{nado}}}} ... 
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nado}}}} is used to terminate a non-exhaustive list of nouns. It is often used in conjunction
+@HI{{@EM{{nado}}}} is used to terminate a non-exhaustive list of nouns. It is often used in conjunction
 with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 
 <table class="sentence" border=0>
@@ -40,7 +40,7 @@ with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nado}}}} can be used to indicate a tentative suggestion.
+@HI{{@EM{{nado}}}} can be used to indicate a tentative suggestion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

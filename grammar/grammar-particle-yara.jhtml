@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{yara}}}}.
+<li> @HI{{@EM{{yara}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yara}}}} is a particle that joins nouns in a non-exhaustive list. This usage is similar to that of <a href="grammar-particle-ya.html">@HI{{ya}}</a>,
+@HI{{@EM{{yara}}}} is a particle that joins nouns in a non-exhaustive list. This usage is similar to that of <a href="grammar-particle-ya.html">@HI{{ya}}</a>,
 <a href="grammar-particle-toka.html">@HI{{toka}}</a> and <a href="grammar-particle-dano.html">@HI{{dano}}</a>.
 
 <table class="sentence" border=0>
@@ -40,7 +40,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yara}}}} is a particle that can be used with words of opposite meaning. This usage is similar to that of <a href="grammar-particle-ka.html#alternative">@HI{{ka}}</a>,
+@HI{{@EM{{yara}}}} is a particle that can be used with words of opposite meaning. This usage is similar to that of <a href="grammar-particle-ka.html#alternative">@HI{{ka}}</a>,
 but @EM{{yara}} is softer in tone.
 
 <table class="sentence" border=0>
@@ -55,7 +55,7 @@ but @EM{{yara}} is softer in tone.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{yara}}}} is a particle that can be usd with interrogatives to express uncertainty.
+@HI{{@EM{{yara}}}} is a particle that can be usd with interrogatives to express uncertainty.
 (@HI{{wakaranai}}, if not explicitly included, is understood).
 
 
@@ -71,7 +71,7 @@ but @EM{{yara}} is softer in tone.
 
 @BGRND{{}}
 <p>
-At the end of a sentence, @EM{{@HI{{yara}}}} is a particle that marks a rhetorical question with negative implications.
+At the end of a sentence, @HI{{@EM{{yara}}}} is a particle that marks a rhetorical question with negative implications.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

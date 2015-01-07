@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{kamo shiremasenn}}}}
-<li> @Ai{{}} @EM{{@HI{{kamo shiremasenn}}}}
-<li> @Anastem{{}} @EM{{@HI{{kamo shiremasenn}}}}
-<li> @N{{}} @EM{{@HI{{kamo shiremasenn}}}}
+<li> @Vplain{{}} @HI{{@EM{{kamo shiremasenn}}}}
+<li> @Ai{{}} @HI{{@EM{{kamo shiremasenn}}}}
+<li> @Anastem{{}} @HI{{@EM{{kamo shiremasenn}}}}
+<li> @N{{}} @HI{{@EM{{kamo shiremasenn}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kamo shiremasenn}}}} expresses the speaker's conjecture, possibly from some information he has. Note, however, 
+@HI{{@EM{{kamo shiremasenn}}}} expresses the speaker's conjecture, possibly from some information he has. Note, however, 
 that the probability that the conjecture is correct is lower than with <a href="grammar-deshou.html">@HI{{deshou}}</a>.
 </p>
 

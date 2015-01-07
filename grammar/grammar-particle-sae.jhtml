@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{sae}}}}
-<li> @N{{}}<em>particle</em>@EM{{@HI{{sae}}}}
-<li> @Vte{{}}@EM{{@HI{{sae}}}}
-<li> @Vmasu{{}}@EM{{@HI{{sae}}}}@HI{{suru}}
-<li> @Aistem{{}}@EM{{@HI{{sae}}}}@HI{{aru}}
-<li> @Anastem{{}}@HI{{de}}@EM{{@HI{{sae}}}}@HI{{aru}}
-<li> @N{{}}@HI{{de}}@EM{{@HI{{sae}}}}@HI{{aru}}
+<li> @N{{}}@HI{{@EM{{sae}}}}
+<li> @N{{}}<em>particle</em>@HI{{@EM{{sae}}}}
+<li> @Vte{{}}@HI{{@EM{{sae}}}}
+<li> @Vmasu{{}}@HI{{@EM{{sae}}}}@HI{{suru}}
+<li> @Aistem{{}}@HI{{@EM{{sae}}}}@HI{{aru}}
+<li> @Anastem{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}
+<li> @N{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@
 @BGRNDSTART{{}}
 @BGRND{{}}
 <p>
-@EM{{@HI{{sae}}}} is a particle meaning "even".
+@HI{{@EM{{sae}}}} is a particle meaning "even".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -44,7 +44,7 @@
 
 @BGRND{{}}
 <p>
-<a name="if-only">@EM{{@HI{{sae}}}}</a>, when coupled with @Vta{{}}@HI{{ra}} or @Vba{{}} or @HI{{nara}},
+<a name="if-only">@HI{{@EM{{sae}}}}</a>, when coupled with @Vta{{}}@HI{{ra}} or @Vba{{}} or @HI{{nara}},
 means "if only" something had been done a positive result would have followed.
 
 <ol>

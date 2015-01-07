@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{dokoro}}}}.
+<li> @HI{{@EM{{dokoro}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{dokoro}}}} is a particle that emphasises a negative action or state as contrasted with a positive action or state.
+@HI{{@EM{{dokoro}}}} is a particle that emphasises a negative action or state as contrasted with a positive action or state.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-In the pattern <a href="grammar-dokoro-ka.html">@EM{{@HI{{dokoroka}}}}</a>, the first of two parallel nouns is negated.
+In the pattern <a href="grammar-dokoro-ka.html">@HI{{@EM{{dokoroka}}}}</a>, the first of two parallel nouns is negated.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}(particle)@EM{{@HI{{koso}}}}
-<li> @Vte{{}}@EM{{@HI{{koso}}}}
-<li> @Splain{{}}@EM{{@HI{{koso}}}}
+<li> @N{{}}(particle)@HI{{@EM{{koso}}}}
+<li> @Vte{{}}@HI{{@EM{{koso}}}}
+<li> @Splain{{}}@HI{{@EM{{koso}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{koso}}}} is a particle that emphasises the word, phrase or clause before it.
+@HI{{@EM{{koso}}}} is a particle that emphasises the word, phrase or clause before it.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@
 
 @BGRND{{}}
 <p>
-The idiomatic expression @HI{{kochira}} @EM{{@HI{{koso}}}} means "not at all, the pleasure is all mine".
+The idiomatic expression @HI{{kochira}} @HI{{@EM{{koso}}}} means "not at all, the pleasure is all mine".
 
 <table class="sentence">
   <tr class="jp"> <td>

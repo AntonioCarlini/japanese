@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{wo}}}} ... 
+<li> @N{{}}@HI{{@EM{{wo}}}} ... 
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-<a name="direct">@EM{{@HI{{wo}}}}</a> indicates the direct object of a transitive verb.
+<a name="direct">@HI{{@EM{{wo}}}}</a> indicates the direct object of a transitive verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{wo}}}} indicates the direct object of a passive verb.
+@HI{{@EM{{wo}}}} indicates the direct object of a passive verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{wo}}}} indicates the person made to do something in a causative sentence.
+@HI{{@EM{{wo}}}} indicates the person made to do something in a causative sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-With @HI{{suru}}, @EM{{@HI{{wo}}}} indicates a specific occupation or position.
+With @HI{{suru}}, @HI{{@EM{{wo}}}} indicates a specific occupation or position.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -81,7 +81,7 @@ With @HI{{suru}}, @EM{{@HI{{wo}}}} indicates a specific occupation or position.
 
 @BGRND{{}}
 <p>
-With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
+With @HI{{tai}} or @HI{{tagaru}}, @HI{{@EM{{wo}}}} indicates a wish or a desire.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -95,7 +95,7 @@ With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{wo}}}} indicates a movement from a smaller place to a larger one, both physically and in an abstract sense.
+@HI{{@EM{{wo}}}} indicates a movement from a smaller place to a larger one, both physically and in an abstract sense.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -109,7 +109,7 @@ With @HI{{tai}} or @HI{{tagaru}}, @EM{{@HI{{wo}}}} indicates a wish or a desire.
 
 @BGRND{{}}
 <p>
-When used with a verb of motion, <a name="location">@EM{{@HI{{wo}}}}</a> indicates the location of the
+When used with a verb of motion, <a name="location">@HI{{@EM{{wo}}}}</a> indicates the location of the
 movement rather than the destination.
 
 <table class="sentence" border=0>
@@ -124,7 +124,7 @@ movement rather than the destination.
 
 @BGRND{{}}
 <p>
-<a name="start">@EM{{@HI{{wo}}}}</a> indicates the location from which a
+<a name="start">@HI{{@EM{{wo}}}}</a> indicates the location from which a
 movement begins.
 
 <table class="sentence" border=0>
@@ -139,9 +139,9 @@ movement begins.
 
 @BGRND{{}}
 <p>
-<a name="emotion">@EM{{@HI{{wo}}}}</a> indicates a human emotion. In Japanese, inwardly directed
-psychological verbs are not considered transitive, so this use of @EM{{@HI{{wo}}}} is considered
-distinct from the @EM{{@HI{{wo}}}} that is a direct object marker.
+<a name="emotion">@HI{{@EM{{wo}}}}</a> indicates a human emotion. In Japanese, inwardly directed
+psychological verbs are not considered transitive, so this use of @HI{{@EM{{wo}}}} is considered
+distinct from the @HI{{@EM{{wo}}}} that is a direct object marker.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

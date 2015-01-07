@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{toshite}}}}
+<li> @N{{}}@HI{{@EM{{toshite}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{toshite}}}} follows a noun and indicates that something functions in a particular capacity or role.
+@HI{{@EM{{toshite}}}} follows a noun and indicates that something functions in a particular capacity or role.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -38,7 +38,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{toshite}}}} can follow "1" and counters incorporating "1" to mean "without exception".
+@HI{{@EM{{toshite}}}} can follow "1" and counters incorporating "1" to mean "without exception".
 
 <table class="sentence">
   <tr class="jp"> <td>

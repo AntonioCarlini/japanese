@@ -2,38 +2,38 @@
 <html>
 
 <head>
-<title>@HI{{bakari ka}} ... (@HI{{sae}})</title>
+<title>@HI{{bakarika}} ... (@HI{{sae}})</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{bakari ka}} ... (@HI{{sae}})" grammar="@HI{{bakari ka}} ... (@HI{{sae}})"}}
+@GRMIDX{{index="@HI{{bakarika}} ... (@HI{{sae}})" grammar="@HI{{bakarika}} ... (@HI{{sae}})"}}
 
 <body>
 
-<h1>@HI{{bakari ka}} ... (@HI{{sae}})</h1>
+<h1>@HI{{bakarika}} ... (@HI{{sae}})</h1>
 
 <h2> Formation </h2>
 
 <p>
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
-<li> @Ai{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
-<li> @Ana{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
-<li> @N{{}} @EM{{@HI{{bakari ka}} ... (@HI{{sae}})}}
+<li> @Vplain{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
+<li> @Ai{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
+<li> @Ana{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
+<li> @N{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
 </ol>
 </p>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{bakari ka}} ... @HI{{sae}}}} is a compound particle which carries the meaning of "not only ... but also".
-The item that precedes @EM{{@HI{{bakari ka}}}} is something that is normally to be expected and whatever follows
+@HI{{@EM{{bakarika}}}} ... @HI{{@EM{{sae}}}} is a compound particle which carries the meaning of "not only ... but also".
+The item that precedes @HI{{@EM{{bakarika}}}} is something that is normally to be expected and whatever follows
 is something that normally would be unexpected.
 </p>
 
 <p>
-In speech @EM{{@HI{{sae}}}} can be replaced by @HI{{mo}}.
+In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
 </p>
 
 <h2> Examples </h2>

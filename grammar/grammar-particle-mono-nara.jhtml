@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @V{{}}(pot.non-past)@EM{{@HI{{mononara}}}}.
-<li> @Vyou{{}}@EM{{@HI{{mononara}}}}.
+<li> @V{{}}(pot.non-past)@HI{{@EM{{mononara}}}}.
+<li> @Vyou{{}}@HI{{@EM{{mononara}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@
 @BGRND{{}}
 <p>
 <a name="unlikely">After</a> a verb in the potential form,
-@EM{{@HI{{mononara}}}} indicates a condition and result, with a sense of censure or threat.
+@HI{{@EM{{mononara}}}} indicates a condition and result, with a sense of censure or threat.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@
 
 @BGRND{{}}
 <p>
-With an imperative sentence, @EM{{@HI{{mononara}}}} is a challenge to the listener, with an implied "I bet you can't".
+With an imperative sentence, @HI{{@EM{{mononara}}}} is a challenge to the listener, with an implied "I bet you can't".
 This form can only be used in spoken language.
 
 <table class="sentence" border=0>
@@ -56,7 +56,7 @@ This form can only be used in spoken language.
 
 @BGRND{{}}
 <p>
-<a name="undesirable">After</a> a verb in the volitional form, @EM{{@HI{{mononara}}}} marks an undesirable hypothetical situation.
+<a name="undesirable">After</a> a verb in the volitional form, @HI{{@EM{{mononara}}}} marks an undesirable hypothetical situation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -70,7 +70,7 @@ This form can only be used in spoken language.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mononara}}}} can indicate a condition with a bad result.
+@HI{{@EM{{mononara}}}} can indicate a condition with a bad result.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@ This form can only be used in spoken language.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mononara}}}} can indicate a condition with an unlikely result.
+@HI{{@EM{{mononara}}}} can indicate a condition with an unlikely result.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

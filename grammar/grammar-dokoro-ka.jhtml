@@ -16,24 +16,24 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{dokoroka}}}}
-<li> @Ai{{}}@EM{{@HI{{dokoroka}}}}
-<li> @Anastem{{}}(@HI{{na}})@EM{{@HI{{dokoroka}}}}
-<li> @N{{}}@EM{{@HI{{dokoroka}}}}
+<li> @Vru{{}}@HI{{@EM{{dokoroka}}}}
+<li> @Ai{{}}@HI{{@EM{{dokoroka}}}}
+<li> @Anastem{{}}(@HI{{na}})@HI{{@EM{{dokoroka}}}}
+<li> @N{{}}@HI{{@EM{{dokoroka}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{dokoroka}}}} is a conjunction that indicates that something is very far from an expected state.
-The situation in the clause following @EM{{@HI{{dokoroka}}}} is very different to that stated in the clause preceding it.
+@HI{{@EM{{dokoroka}}}} is a conjunction that indicates that something is very far from an expected state.
+The situation in the clause following @HI{{@EM{{dokoroka}}}} is very different to that stated in the clause preceding it.
 </p>
 
 @BGRNDSTART{{}}
 
 @BGRND{{}}
 <p>
-If the predicates of the preceding and following clauses are both positive or both negative, then @EM{{@HI{{dokoroka}}}} means "not just" or "even".
+If the predicates of the preceding and following clauses are both positive or both negative, then @HI{{@EM{{dokoroka}}}} means "not just" or "even".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -58,7 +58,7 @@ If the predicates of the preceding and following clauses are both positive or bo
 
 @BGRND{{}}
 <p>
-If the predicates of the preceding and following clauses differ (i.e. one is positive and the other is negative) then @EM{{@HI{{dokoroka}}}} means "far from".
+If the predicates of the preceding and following clauses differ (i.e. one is positive and the other is negative) then @HI{{@EM{{dokoroka}}}} means "far from".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

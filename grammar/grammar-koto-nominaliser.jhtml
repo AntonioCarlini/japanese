@@ -16,25 +16,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{koto}}}}
-<li> @Ai{{}} @EM{{@HI{{koto}}}}
-<li> @Ana{{}} @EM{{@HI{{koto}}}}
+<li> @Vru{{}} @HI{{@EM{{koto}}}}
+<li> @Ai{{}} @HI{{@EM{{koto}}}}
+<li> @Ana{{}} @HI{{@EM{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{koto}}}} is a nominaliser that indicates the speaker's relative lack of empathy with the
+@HI{{@EM{{koto}}}} is a nominaliser that indicates the speaker's relative lack of empathy with the
 content of the nominalised sentence.
 </p>
 
 <p>
-@EM{{@HI{{koto}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
+@HI{{@EM{{koto}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
 phrase can normally be used.
 </p>
 
 <p>
-Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, @EM{{@HI{{koto}}}} tends to indicate
+Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, @HI{{@EM{{koto}}}} tends to indicate
 something to which the speaker does not feel very close.
 </p>
 
@@ -80,7 +80,7 @@ can be used to better define a hobby.
 <h2> Notes </h2>
 
 <p>
-There are various structures where @EM{{@HI{{koto}}}} is used and @HI{{no}} is not:
+There are various structures where @HI{{@EM{{koto}}}} is used and @HI{{no}} is not:
 <ul>
 <li> ... @HI{{ha @EM{{koto}} desu.}}
 <li> ... @HI{{@EM{{koto}} ga aru}} ...

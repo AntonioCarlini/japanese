@@ -17,13 +17,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{dou}}}}
+<li> @N{{}}@HI{{@EM{{dou}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{dou}}}} is an interrogative adverb which is used to inquire about a state or a way of doing something..
+@HI{{@EM{{dou}}}} is an interrogative adverb which is used to inquire about a state or a way of doing something..
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -36,7 +36,7 @@
 </p>
 
 <p>
-@EM{{@HI{{dou}}}} can be used to make an offer or make a suggestion. In this case @EM{{@HI{{dou}}}} is asking about the state of the listener's mnind.
+@HI{{@EM{{dou}}}} can be used to make an offer or make a suggestion. In this case @HI{{@EM{{dou}}}} is asking about the state of the listener's mnind.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -49,7 +49,7 @@
 </p>
 
 <p>
-@EM{{@HI{{dou}}}} can be used to ask how to do something. @HI{{ikaga}} is not
+@HI{{@EM{{dou}}}} can be used to ask how to do something. @HI{{ikaga}} is not
 normally used in this case.
 
 <table class="sentence" border=0>
@@ -79,7 +79,7 @@ normally end in @HI{{kara}} ("because").
 <h2> Notes </h2>
 
 <p>
-@HI{{ikaga}} is the polite version of @EM{{@HI{{dou}}}} .
+@HI{{ikaga}} is the polite version of @HI{{@EM{{dou}}}} .
 </p>
 
 <h2> References </h2>
