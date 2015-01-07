@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="kurai-da">In</a> this usage, @EM{{@HI{{kurai}}}} indicates an example (which did not actually happen)
 the extent of which is being emphasised.
@@ -39,6 +42,7 @@ the extent of which is being emphasised.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kurai-wa-nai">With</a> a negative predicate, @EM{{@HI{{kurai}}}} expresses a superlative.
 
@@ -54,6 +58,7 @@ the extent of which is being emphasised.
 </p>
 <p>
 
+@BGRND{{}}
 <p>
 <a name="kurainara">@EM{{@HI{{kurainara}}}}</a> expresses the idea that one would be better off
 doing something else rather than whatever is expressed by the preceding clause.
@@ -69,6 +74,7 @@ doing something else rather than whatever is expressed by the preceding clause.
 </p>
 <p>
 
+@BGRNDEND{{}}
 
 <h2> References </h2>
 
