@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{kure}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tekure}}" grammar="@Vte{{}}@HI{{kure}}"}}
+
+<body>
+
+<h1>@Vte{{}}@HI{{kure}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @EM{{@Vte{{}}@HI{{kure}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@EM{{@Vte{{}}@HI{{kure}}}} is an expression used to instruct or request something indirectly.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanhao@KJ{{mother}}san'ni@KJ{{what}}to@KJ{{say}}imashitaka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      N: @HI{{7@KJ{{time}}ni@FG{{@KJ{{rouse}}:o}}koshi@EM{{tekure}}to@KJ{{say}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: What did Mr. Tanaka say to his mother?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: he asked her to wake him up at seven o'clock.
+  </td> </tr>
+</table>      
+</p>
+
+<p>
+@EM{{@Vte{{}}@HI{{kure}}}} is used mainly by men when asking someone junior to do something and sounds a little rough.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @FG{{@KJ{{section^long}}:buchou}}: @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}},kono@FG{{@KJ{{assets^fee}}:shiryou}}wo@KT{{kopi-}}shite@KJ{{come}}@EM{{tekure}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Dept. Mgr.: Tanaka, go and copy these materials please.
+  </td> </tr>
+</table>      
+</p>
+
+<h2> Notes </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

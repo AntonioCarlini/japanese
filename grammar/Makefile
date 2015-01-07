@@ -317,6 +317,7 @@ JHTML_SRCS += grammar-te-kara-denaito.jhtml
 JHTML_SRCS += grammar-te-kara.jhtml
 JHTML_SRCS += grammar-te-kudasai.jhtml
 JHTML_SRCS += grammar-te-kudasaimasenka.jhtml
+JHTML_SRCS += grammar-te-kure.jhtml
 JHTML_SRCS += grammar-te-kuru.jhtml
 JHTML_SRCS += grammar-te-miru.jhtml
 JHTML_SRCS += grammar-te-mo-ii.jhtml
