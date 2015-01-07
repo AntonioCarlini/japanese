@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{koro}}}}
-<li> @Ai{{}} @EM{{@HI{{koro}}}}
-<li> @Ana{{}} @EM{{@HI{{koro}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{koro}}}}
+<li> @Vplain{{}} @HI{{@EM{{koro}}}}
+<li> @Ai{{}} @HI{{@EM{{koro}}}}
+<li> @Ana{{}} @HI{{@EM{{koro}}}}
+<li> @N{{}} @HI{{no}} @HI{{@EM{{koro}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{koro}}}} specifies a time period and behaves as a noun. It indicates an approximate
+@HI{{@EM{{koro}}}} specifies a time period and behaves as a noun. It indicates an approximate
 time and is often translated as "when".
 </p>
 

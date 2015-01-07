@@ -16,17 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@HI{{monono}}}}
-<li> @Ai{{}}@EM{{@HI{{monono}}}}
-<li> @Ana{{}}@EM{{@HI{{monono}}}}
-<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{monono}}}}
-<li> @N{{}}@HI{{dearu}}@EM{{@HI{{monono}}}}
+<li> @Vplain{{}}@HI{{@EM{{monono}}}}
+<li> @Ai{{}}@HI{{@EM{{monono}}}}
+<li> @Ana{{}}@HI{{@EM{{monono}}}}
+<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{monono}}}}
+<li> @N{{}}@HI{{dearu}}@HI{{@EM{{monono}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{monono}}}} is a conjunction used to mean "but" or "although".
+@HI{{@EM{{monono}}}} is a conjunction used to mean "but" or "although".
 It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>
 
 <table class="sentence" border=0>

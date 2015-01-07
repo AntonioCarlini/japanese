@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@HI{{kuseni}}}}
-<li> @Ai{{}}@EM{{@HI{{kuseni}}}}
-<li> @Ana{{}}@EM{{@HI{{kuseni}}}}
-<li> @N{{}}@HI{{no}}@EM{{@HI{{kuseni}}}}
+<li> @Vplain{{}}@HI{{@EM{{kuseni}}}}
+<li> @Ai{{}}@HI{{@EM{{kuseni}}}}
+<li> @Ana{{}}@HI{{@EM{{kuseni}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{kuseni}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kuseni}}}} is a conjunction expressing the speaker's contempt, anger or disagreement about someone's actions, behaviour or state.
+@HI{{@EM{{kuseni}}}} is a conjunction expressing the speaker's contempt, anger or disagreement about someone's actions, behaviour or state.
 </p>
 
 <h2> Examples </h2>
@@ -45,11 +45,11 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{kuseni}}}} can only be used when the subordinate clause and the main clause share the same subject.
+@HI{{@EM{{kuseni}}}} can only be used when the subordinate clause and the main clause share the same subject.
 </p>
 
 <p>
-@EM{{@HI{{kuseni}}}} cannot be used when the subject is the first person.
+@HI{{@EM{{kuseni}}}} cannot be used when the subject is the first person.
 </p>
 
 <h2> References </h2>

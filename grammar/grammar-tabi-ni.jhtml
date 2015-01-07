@@ -16,19 +16,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{tabini}}}}
-<li> @N{{}}@HI{{no}}@EM{{@HI{{tabini}}}}
+<li> @Vru{{}}@HI{{@EM{{tabini}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{tabini}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
+@HI{{@EM{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs,
 the following clause also occurs.
 </p>
 
 <p>
-@EM{{@HI{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
+@HI{{@EM{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
 </p>
 
 <p>

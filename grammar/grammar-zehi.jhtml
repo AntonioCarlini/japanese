@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{zehi}}}}
+<li> @HI{{@EM{{zehi}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{zehi}}}} is usually used with expressions of hope or request. It emphasises
+@HI{{@EM{{zehi}}}} is usually used with expressions of hope or request. It emphasises
 the meaning of these expressions.
 </p>
 
@@ -32,7 +32,7 @@ the meaning of these expressions.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@EM{{@HI{{zehi}}}}@KJ{{north^sea^road-way}}he @KJ{{going}}kitaidesu.}}
+      @HI{{@HI{{@EM{{zehi}}}}@KJ{{north^sea^road-way}}he @KJ{{going}}kitaidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I want to go to Hokkaido very much.

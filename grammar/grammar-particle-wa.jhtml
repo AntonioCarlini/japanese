@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{ha}}}} ... 
+<li> @N{{}} @HI{{@EM{{ha}}}} ... 
 </ol>
 
 <h2> Definition </h2>
@@ -24,7 +24,7 @@
 @BGRNDSTART{{}}
 @BGRND{{}}
 <p>
-@EM{{@HI{{ha}}}} is used to indicate information about something that has already been introduced
+@HI{{@EM{{ha}}}} is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
 
 <table class="sentence" border=0>
@@ -39,7 +39,7 @@ or about which the speaker is expected to know.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ha}}}} is used to mark a topic, which is then explained or described in the rest of the
+@HI{{@EM{{ha}}}} is used to mark a topic, which is then explained or described in the rest of the
 sentence.
 
 <table class="sentence" border=0>
@@ -55,7 +55,7 @@ sentence.
 
 @BGRND{{}}
 <p>
-The sentence pattern @N1{{}}@EM{{@HI{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
+The sentence pattern @N1{{}}@HI{{@EM{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
 quality or property, @N2{{}}, is explained.
 
 <table class="sentence" border=0>
@@ -70,7 +70,7 @@ quality or property, @N2{{}}, is explained.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ha}}}} is used to indicate a contrast.
+@HI{{@EM{{ha}}}} is used to indicate a contrast.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -87,8 +87,8 @@ quality or property, @N2{{}}, is explained.
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{ha}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @EM{{@HI{{ha}}}}
-replaces those particles. For all other particles, @EM{{@HI{{ha}}}} follows them rather than
+When @HI{{@EM{{ha}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @HI{{@EM{{ha}}}}
+replaces those particles. For all other particles, @HI{{@EM{{ha}}}} follows them rather than
 replacing them.
 </p>
 

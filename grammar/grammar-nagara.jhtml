@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}} @EM{{@HI{{nagara}}}}, @V2{{}}
+<li> @Vmasustem{{}} @HI{{@EM{{nagara}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -58,12 +58,12 @@ The action in the main clause, @V2{{}}, is the more emphasised of the two.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{nagara}}}} expresses the fact that an action occurs at the same time as another action.
-The action marked by @EM{{@HI{{nagara}}}} is the secondary action.
+@HI{{@EM{{nagara}}}} expresses the fact that an action occurs at the same time as another action.
+The action marked by @HI{{@EM{{nagara}}}} is the secondary action.
 </p>
 
 <p>
-If the subjects of the two verbs are different, @EM{{@HI{{nagara}}}} cannot be used.
+If the subjects of the two verbs are different, @HI{{@EM{{nagara}}}} cannot be used.
 A possible alternative in this case would be <a href="grammar-aida.html">@HI{{aida}}</a>.
 </p>
 

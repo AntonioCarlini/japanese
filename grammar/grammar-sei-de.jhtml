@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no}}@EM{{@HI{{seide}}}}
-<li> @Splain{{}}@EM{{@HI{{seide}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{seide}}}}
+<li> @Splain{{}}@HI{{@EM{{seide}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{seide}}}} expresses a cause which brings about an undesirable outcome.
+@HI{{@EM{{seide}}}} expresses a cause which brings about an undesirable outcome.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -38,8 +38,8 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{seide}}}} can only be used when the speaker cannot control the cause of the undesirable result.
-@EM{{@HI{{seika}}}}, however, can be used whether the result is undesirable or not.
+@HI{{@EM{{seide}}}} can only be used when the speaker cannot control the cause of the undesirable result.
+@HI{{@EM{{seika}}}}, however, can be used whether the result is undesirable or not.
 </p>
 
 <h2> References </h2>

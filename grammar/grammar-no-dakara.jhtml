@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@HI{{nodakara}}}}
-<li> @Ana{{}}@EM{{@HI{{nodakara}}}}
-<li> @N{{}}@HI{{na}}@EM{{@HI{{nodakara}}}}
+<li> @Vplain{{}}@HI{{@EM{{nodakara}}}}
+<li> @Ana{{}}@HI{{@EM{{nodakara}}}}
+<li> @N{{}}@HI{{na}}@HI{{@EM{{nodakara}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{dakara}}}} expresses the idea that the following clause is a natural consequence
+@HI{{@EM{{dakara}}}} expresses the idea that the following clause is a natural consequence
 of the preceding one. There is a nuance that the listener is expected to know this.
 
 <table class="sentence">

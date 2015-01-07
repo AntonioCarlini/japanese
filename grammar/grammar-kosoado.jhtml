@@ -117,26 +117,26 @@ tr.hg:hover
 <h2> Definition </h2>
 
 <p>
-The @EM{{@HI{{ko}}-}} demonstratives generally relate to something near to the speaker, either physically or emotionally.
+The @HI{{@EM{{ko-}}}} demonstratives generally relate to something near to the speaker, either physically or emotionally.
 </p>
 
 <p>
-The @EM{{@HI{{so}}-}} demonstratives generally relate to something near to the listener. They can be used to
+The @HI{{@EM{{so-}}}} demonstratives generally relate to something near to the listener. They can be used to
 refer to something that is not close to either the speaker or the listener if information about that
 thing has already been provided.
 </p>
 
 <p>
-The @EM{{@HI{{a}}-}} demonstratives generally relate to something that is not near to either the speaker
+The @HI{{@EM{{a-}}}} demonstratives generally relate to something that is not near to either the speaker
 or the listener.
 </p>
 
 <p>
-The @EM{{@HI{{do}}-}} demonstratives refer to something about which a question is being asked.
+The @HI{{@EM{{do-}}}} demonstratives refer to something about which a question is being asked.
 </p>
 
 <p>
-<a name="kore">@EM{{@HI{{kore}}}}</a>, @EM{{@HI{{sore}}}} and @EM{{@HI{{are}}}} are 
+<a name="kore">@HI{{@EM{{kore}}}}</a>, @HI{{@EM{{sore}}}} and @HI{{@EM{{are}}}} are 
 demonstratives and function as pronouns.
 
 <ol>
@@ -162,14 +162,14 @@ demonstratives and function as pronouns.
 </p>
 
 <p>
-<a name="dore">@EM{{@HI{{dore}}}}</a> is an interrogative used to ask the listener to choose one item from a
+<a name="dore">@HI{{@EM{{dore}}}}</a> is an interrogative used to ask the listener to choose one item from a
 set of <em>three</em> or more things.
 </p>
 
 
 <p>
-<a name="kono">@EM{{@HI{{kono}}}}</a>, @EM{{@HI{{sono}}}} and @EM{{@HI{{ano}}}} are
-pre-noun adjectivals and serve to modify a noun. @EM{{@HI{{dono}}}} is used with a following noun to ask "which" noun.
+<a name="kono">@HI{{@EM{{kono}}}}</a>, @HI{{@EM{{sono}}}} and @HI{{@EM{{ano}}}} are
+pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with a following noun to ask "which" noun.
 
 <ol>
 <li>
@@ -214,7 +214,7 @@ pre-noun adjectivals and serve to modify a noun. @EM{{@HI{{dono}}}} is used with
 </p>
 
 <p>
-<a name="donna">@EM{{@HI{{donnna}}}}</a> is used with a following noun to mean "what kind of". 
+<a name="donna">@HI{{@EM{{donnna}}}}</a> is used with a following noun to mean "what kind of". 
 It can also be used to ask the listener to name one of a group which the following noun describes describes.
 
 <ol>
@@ -246,20 +246,20 @@ It can also be used to ask the listener to name one of a group which the followi
 </p>
 
 <p>
-<a name="koko">@EM{{@HI{{koko}}}}</a>, @EM{{@HI{{soko}}}} and <stron>@HI{{asoko}}</strong> refer to a place.
+<a name="koko">@HI{{@EM{{koko}}}}</a>, @HI{{@EM{{soko}}}} and <stron>@HI{{asoko}}</strong> refer to a place.
 </p>
 
 <p>
-<a name="kochira">@EM{{@HI{{kochira}}}}</a>, <stron>@HI{{sochira}}</strong> and @EM{{@HI{{achira}}}} are demonstratives
+<a name="kochira">@HI{{@EM{{kochira}}}}</a>, <stron>@HI{{sochira}}</strong> and @HI{{@EM{{achira}}}} are demonstratives
 that refer to a direction. They can also be used to refer to a place, in which case they are considered more
-polite than @EM{{@HI{{koko}}}}, @EM{{@HI{{soko}}}} and @EM{{@HI{{asoko}}}}.
+polite than @HI{{@EM{{koko}}}}, @HI{{@EM{{soko}}}} and @HI{{@EM{{asoko}}}}.
 </p>
 
 <p>
-<a name="doko">@EM{{@HI{{doko}}}}</a> means "where" and @EM{{@HI{{dochira}}}} means "which direction".
-@EM{{@HI{{dochira}}}} can also mean "where", in which case it is more polite than
-@EM{{@HI{{doko}}}}. <br/>
-@EM{{@HI{{doko}}}} or @EM{{@HI{{dochira}}}} are also used to ask the name of a country, school,
+<a name="doko">@HI{{@EM{{doko}}}}</a> means "where" and @HI{{@EM{{dochira}}}} means "which direction".
+@HI{{@EM{{dochira}}}} can also mean "where", in which case it is more polite than
+@HI{{@EM{{doko}}}}. <br/>
+@HI{{@EM{{doko}}}} or @HI{{@EM{{dochira}}}} are also used to ask the name of a country, school,
 company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
 used for this purpose.
 </p>

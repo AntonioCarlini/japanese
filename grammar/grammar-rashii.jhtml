@@ -20,14 +20,14 @@
 <dl>
 <dt>(A)
 <ol>
-<li> @N1{{}} @EM{{@HI{{rashii}}}} @N2{{}}
+<li> @N1{{}} @HI{{@EM{{rashii}}}} @N2{{}}
 </ol>
 <dt>(B)
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{rashii}}}}
-<li> @Ai{{}} @EM{{@HI{{rashii}}}}
-<li> @Ana{{}} @EM{{@HI{{rashii}}}}
-<li> @N{{}} @EM{{@HI{{rashii}}}}
+<li> @Vplain{{}} @HI{{@EM{{rashii}}}}
+<li> @Ai{{}} @HI{{@EM{{rashii}}}}
+<li> @Ana{{}} @HI{{@EM{{rashii}}}}
+<li> @N{{}} @HI{{@EM{{rashii}}}}
 </ol>
 </dl>
 </p>
@@ -37,7 +37,7 @@
 (A) means that @N2{{}} possesses the properties of an ideal form of @N1{{}}.
 <p></p>
 
-In usage (B) @EM{{@HI{{rashii}}}} is an auxiliary adjective that indicates that the preceding sentence
+In usage (B) @HI{{@EM{{rashii}}}} is an auxiliary adjective that indicates that the preceding sentence
 is the speaker's conjecture based on what he has heard, seen or read. First-hand information is not invovled.
 <p></p>
 

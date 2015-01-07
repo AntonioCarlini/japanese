@@ -16,25 +16,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{ya}}}} ... 
-<li> @Vru{{}} @EM{{@HI{{ya}}}} @HI{{ina}} @EM{{@HI{{ya}}}}
+<li> @N{{}} @HI{{@EM{{ya}}}} ... 
+<li> @Vru{{}} @HI{{@EM{{ya}}}} @HI{{ina}} @HI{{@EM{{ya}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{ya}}}} is used to join nouns in a non-exhaustive list. Its use implies that the nouns
-listed are some examples taken from a larger list. In this usage @EM{{@HI{{ya}}}} is
-often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compare @EM{{@HI{{ya}}}} 
+@HI{{@EM{{ya}}}} is used to join nouns in a non-exhaustive list. Its use implies that the nouns
+listed are some examples taken from a larger list. In this usage @HI{{@EM{{ya}}}} is
+often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compare @HI{{@EM{{ya}}}} 
 with <a href="grammar-particle-to.html">@HI{{to}}</a>, which can be used to provide an exhaustive listing
 of nouns.
 
 <p>
-@EM{{@HI{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
+@HI{{@EM{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
 </p>
 
 <p>
-@EM{{@HI{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
+@HI{{@EM{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
 <a href="grammar-particle-toka.html">@HI{{toka}}</a> inexhaustively lists items in a more general fashion.
 </p>
 
@@ -50,7 +50,7 @@ tenpuranadogaarimasu.}}
 </p>
 
 <p>
-The idomatic expression @EM{{@HI{{ya}}}} @HI{{ina}} @EM{{@HI{{ya}}}}
+The idomatic expression @HI{{@EM{{ya}}}} @HI{{ina}} @HI{{@EM{{ya}}}}
 means "as soon as" or "no sooner had".
 
 <table class="sentence" border=0>

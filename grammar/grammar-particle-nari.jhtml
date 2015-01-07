@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{nari}}}}.
+<li> @HI{{@EM{{nari}}}}.
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nari}}}} is a particle that indicates a choice ("whether or not").
+@HI{{@EM{{nari}}}} is a particle that indicates a choice ("whether or not").
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nari}}}} is a particle that indicates a suggestion.
+@HI{{@EM{{nari}}}} is a particle that indicates a suggestion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{nari}}}} is a particle that indicates that a second action follows immediately after the preceding action.
+@HI{{@EM{{nari}}}} is a particle that indicates that a second action follows immediately after the preceding action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-The expression @KJ{{what}}@EM{{@HI{{nari}}}} indicates "whatever" or "anything".
+The expression @KJ{{what}}@HI{{@EM{{nari}}}} indicates "whatever" or "anything".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

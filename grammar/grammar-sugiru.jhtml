@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}} @EM{{@HI{{sugiru}}}}
-<li> @Aistem{{}} @EM{{@HI{{sugiru}}}}
-<li> @Anastem{{}} @EM{{@HI{{sugiru}}}}
+<li> @Vmasustem{{}} @HI{{@EM{{sugiru}}}}
+<li> @Aistem{{}} @HI{{@EM{{sugiru}}}}
+<li> @Anastem{{}} @HI{{@EM{{sugiru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{sugiru}}}} is an auxiliary that adds the meaning of "too much" or "to excess".
+@HI{{@EM{{sugiru}}}} is an auxiliary that adds the meaning of "too much" or "to excess".
 It is usually used to indicate an undesirable state.
 
 <table class="sentence" border=0>
@@ -61,7 +61,7 @@ The negative @HI{{nai}} combines with @HI{{@EM{{sugiru}}}} to form @HI{{@EM{{nan
 </p>
 
 <p>
-@EM{{@HI{{sugiru}}}} is an @1D{{}} verb.
+@HI{{@EM{{sugiru}}}} is an @1D{{}} verb.
 </p>
 
 <h2> References </h2>

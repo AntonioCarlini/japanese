@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{kashira}}}}.
-<li> @Ai{{}} @EM{{@HI{{kashira}}}}.
-<li> @Anastem{{}} @EM{{@HI{{kashira}}}}.
-<li> @N{{}} @EM{{@HI{{kashira}}}}.
+<li> @Vru{{}} @HI{{@EM{{kashira}}}}.
+<li> @Ai{{}} @HI{{@EM{{kashira}}}}.
+<li> @Anastem{{}} @HI{{@EM{{kashira}}}}.
+<li> @N{{}} @HI{{@EM{{kashira}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{kashira}}}} is a sentence ending particle mainly used by women and usually is translated as "I wonder".
+@HI{{@EM{{kashira}}}} is a sentence ending particle mainly used by women and usually is translated as "I wonder".
 </p>
 
 <p>
@@ -36,7 +36,7 @@ The equivalent male particle is <a href="grammar-particle-kana.html">@HI{{kana}}
 @BGRND{{}}
 
 <p>
-@EM{{@HI{{kashira}}}} can indicate uncertainty.
+@HI{{@EM{{kashira}}}} can indicate uncertainty.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -50,7 +50,7 @@ The equivalent male particle is <a href="grammar-particle-kana.html">@HI{{kana}}
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kashira}}}} can mark a question to oneself.
+@HI{{@EM{{kashira}}}} can mark a question to oneself.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -64,7 +64,7 @@ The equivalent male particle is <a href="grammar-particle-kana.html">@HI{{kana}}
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{kashira}}}} can indicate a hope or a muted request.
+@HI{{@EM{{kashira}}}} can indicate a hope or a muted request.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{sou desu}}}}
-<li> @EM{{@HI{{sou jaarimasenn}}}}
+<li> @HI{{@EM{{sou desu}}}}
+<li> @HI{{@EM{{sou jaarimasenn}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{sou desu}}}} can be used to reply to a noun sentence in the affirmative.
-To anser in the negative, use @EM{{@HI{{sou jaarimasenn}}}}. An equivalent negative response
+@HI{{@EM{{sou desu}}}} can be used to reply to a noun sentence in the affirmative.
+To anser in the negative, use @HI{{@EM{{sou jaarimasenn}}}}. An equivalent negative response
 would be to use @KJ{{difference}}@HI{{imasu}}.
 </p>
 

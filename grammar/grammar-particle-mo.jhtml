@@ -19,15 +19,15 @@
 <dl>
 <dt> (A) "also, too"
 <ol>
-<li> @N1{{}} @HI{{ha}} ... @N2{{}} @EM{{@HI{{mo}}}}
+<li> @N1{{}} @HI{{ha}} ... @N2{{}} @HI{{@EM{{mo}}}}
 </ol>
 <dt> (B) "both, as well"
 <ol>
-<li> @N1{{}} @EM{{@HI{{mo}}}} @N2{{}} @EM{{@HI{{mo}}}}
+<li> @N1{{}} @HI{{@EM{{mo}}}} @N2{{}} @HI{{@EM{{mo}}}}
 </ol>
 <dt> (C) "as much as, as many as"
 <ol>
-<li> number/counter @EM{{@HI{{mo}}}}
+<li> number/counter @HI{{@EM{{mo}}}}
 </ol>
 </dl>
 </p>
@@ -39,12 +39,12 @@
 @BGRND{{}}
 <p>
 <a name="too">In</a> sentence pattern (A) a topic is introduced in the first utterance and in a subsequent sentence
-@EM{{@HI{{mo}}}} is used to increase the scope of the topic.
+@HI{{@EM{{mo}}}} is used to increase the scope of the topic.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KT{{kurara}}@HI{{sanha}}@KJ{{England}}@KJ{{word}}@HI{{ga}} @KJ{{tale}}@HI{{semasu.}}
-      @KT{{furansu}}@KJ{{word}}@EM{{@HI{{mo}}}} @KJ{{tale}}@HI{{semasu.}}
+      @KT{{furansu}}@KJ{{word}}@HI{{@EM{{mo}}}} @KJ{{tale}}@HI{{semasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Klara can speak English. She can speak French too.
@@ -68,13 +68,13 @@
 
 @BGRND{{}}
 <p>
-<a name="as-much-as">In</a> sentence pattern (C) @EM{{@HI{{mo}}}} follows a number or a counter to express the
+<a name="as-much-as">In</a> sentence pattern (C) @HI{{@EM{{mo}}}} follows a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mo}}}} can indicate an addition such as "as well as".
+@HI{{@EM{{mo}}}} can indicate an addition such as "as well as".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mo}}}} can be used to show emphasis about a time or quantity.
+@HI{{@EM{{mo}}}} can be used to show emphasis about a time or quantity.
 
 <ol>
 <li>
@@ -114,7 +114,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mo}}}} can be used to indicate a total negation when used with a negative verb.
+@HI{{@EM{{mo}}}} can be used to indicate a total negation when used with a negative verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -128,7 +128,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{mo}}}} can be used to indicate an approximation.
+@HI{{@EM{{mo}}}} can be used to indicate an approximation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -145,8 +145,8 @@ idea that the speaker believes that the amount or number mentioned is large.
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{mo}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @EM{{@HI{{mo}}}}
-replaces those particles. For all other particles, @EM{{@HI{{mo}}}} follows them rather than
+When @HI{{@EM{{mo}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @HI{{@EM{{mo}}}}
+replaces those particles. For all other particles, @HI{{@EM{{mo}}}} follows them rather than
 replacing them.
 </p>
 

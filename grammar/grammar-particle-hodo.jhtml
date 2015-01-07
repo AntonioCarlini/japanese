@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{hodo}}}}
-<li> <em>demonstrative</em>@EM{{@HI{{hodo}}}}
-<li> @Splain{{}}@EM{{@HI{{hodo}}}}
+<li> @N{{}}@HI{{@EM{{hodo}}}}
+<li> <em>demonstrative</em>@HI{{@EM{{hodo}}}}
+<li> @Splain{{}}@HI{{@EM{{hodo}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hodo}}}} is used to indicate an approximate amount or an approximate maximum.
+@HI{{@EM{{hodo}}}} is used to indicate an approximate amount or an approximate maximum.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -52,7 +52,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hodo}}}} is used to indicate a comparison. Note that when @EM{{@HI{{hodo}}}}
+@HI{{@EM{{hodo}}}} is used to indicate a comparison. Note that when @HI{{@EM{{hodo}}}}
 follows a noun, the predicate must be in the negative.
 
 <table class="sentence" border=0>
@@ -67,7 +67,7 @@ follows a noun, the predicate must be in the negative.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
+@HI{{@EM{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -81,7 +81,7 @@ follows a noun, the predicate must be in the negative.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
+@HI{{@EM{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
 </p>
 
 @BGRNDEND{{}}

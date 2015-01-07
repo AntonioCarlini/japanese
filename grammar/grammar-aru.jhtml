@@ -16,25 +16,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{location}} @HI{{ni}} @HI{{ha}} @N2{{}} @HI{{ga}} @EM{{@HI{{aru}}}}
-<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} @EM{{@HI{{aru}}}}
-<li> @EM{{@HI{{aru}}}} <em>predicate</em>
+<li> @N1{{location}} @HI{{ni}} @HI{{ha}} @N2{{}} @HI{{ga}} @HI{{@EM{{aru}}}}
+<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} @HI{{@EM{{aru}}}}
+<li> @HI{{@EM{{aru}}}} <em>predicate</em>
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In the first sentence pattern, a location is presented as the topic and @EM{{@HI{{aru}}}}
+In the first sentence pattern, a location is presented as the topic and @HI{{@EM{{aru}}}}
 focuses on what exists. @HI{{ni}} may be dropped.
 </p>
 
 <p>
-In the second sentence pattern, a thing is presented as the topic and @EM{{@HI{{aru}}}}
+In the second sentence pattern, a thing is presented as the topic and @HI{{@EM{{aru}}}}
 focuses on where that thing is.
 </p>
 
 <p>
-Note that @EM{{@HI{{aru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
+Note that @HI{{@EM{{aru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
 </p>
 
 <h2> Examples </h2>
@@ -42,21 +42,21 @@ Note that @EM{{@HI{{aru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{aru}}}} is only used to express the existence or possession of inanimate things.
+@HI{{@EM{{aru}}}} is only used to express the existence or possession of inanimate things.
 For animate things, <a href="grammar-iru.html">@HI{{iru}}</a> is used.
 </p>
 
 <p>
-The negative form of @EM{{@HI{{aru}}}} is @HI{{nai}}.
+The negative form of @HI{{@EM{{aru}}}} is @HI{{nai}}.
 </p>
 
 <p>
-When @EM{{@HI{{aru}}}} is used to indicate having an animate object,
+When @HI{{@EM{{aru}}}} is used to indicate having an animate object,
 that object must have a close connection with the possessor.
 </p>
 
 <p>
-When @EM{{@HI{{aru}}}} is used to for an event such as a party, @HI{{de}}
+When @HI{{@EM{{aru}}}} is used to for an event such as a party, @HI{{de}}
 rather than @HI{{ni}} must be used.
 </p>
 

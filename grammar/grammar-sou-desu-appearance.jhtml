@@ -17,9 +17,9 @@
 
 <p>
 <dl>
-<li> @Vmasustem{{}} @EM{{@HI{{sou desu}}}}
-<li> @Aistem{{}} @EM{{@HI{{sou desu}}}}
-<li> @Anastem{{}} @EM{{@HI{{sou desu}}}}
+<li> @Vmasustem{{}} @HI{{@EM{{sou desu}}}}
+<li> @Aistem{{}} @HI{{@EM{{sou desu}}}}
+<li> @Anastem{{}} @HI{{@EM{{sou desu}}}}
 </ol>
 
 <h2> Definition </h2>

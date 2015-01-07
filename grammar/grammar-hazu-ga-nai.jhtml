@@ -16,25 +16,25 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@HI{{hazuganai}}}}
-<li> @Ai{{}}@EM{{@HI{{hazuganai}}}}
-<li> @Anastem{{}}@HI{{na}}@EM{{@HI{{hazuganai}}}}
-<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{hazuganai}}}}
-<li> @N{{}}@HI{{no}}@EM{{@HI{{hazuganai}}}}
-<li> @N{{}}@HI{{dearu}}@EM{{@HI{{hazuganai}}}}
+<li> @Vplain{{}}@HI{{@EM{{hazuganai}}}}
+<li> @Ai{{}}@HI{{@EM{{hazuganai}}}}
+<li> @Anastem{{}}@HI{{na}}@HI{{@EM{{hazuganai}}}}
+<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{hazuganai}}}}
+<li> @N{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}
 
-<li> @Vplain{{}}@EM{{@HI{{wakeganai}}}}
-<li> @Ai{{}}@EM{{@HI{{wakeganai}}}}
-<li> @Anastem{{}}@HI{{na}}@EM{{@HI{{wakeganai}}}}
-<li> @Anastem{{}}@HI{{dearu}}@EM{{@HI{{wakeganai}}}}
-<li> @N{{}}@HI{{no}}@EM{{@HI{{wakeganai}}}}
-<li> @N{{}}@HI{{dearu}}@EM{{@HI{{wakeganai}}}}
+<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
+<li> @Anastem{{}}@HI{{na}}@HI{{@EM{{wakeganai}}}}
+<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{wakeganai}}}}
+<li> @N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{hazuganai}}}} expresses the speaker's subjective judgement that an event is very unlikely.
+@HI{{@EM{{hazuganai}}}} expresses the speaker's subjective judgement that an event is very unlikely.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -47,7 +47,7 @@
 </p>
 
 <p>
-@EM{{@HI{{hazuganai}}}} is a phrase that expresses the speaker's opinion that "there is no reason why ...".
+@HI{{@EM{{hazuganai}}}} is a phrase that expresses the speaker's opinion that "there is no reason why ...".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -62,7 +62,7 @@
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{hazuganai}}}} can be used with sentences in the past. @EM{{@HI{{wakeganai}}}} cannot be
+@HI{{@EM{{hazuganai}}}} can be used with sentences in the past. @HI{{@EM{{wakeganai}}}} cannot be
 used with past sentences, except indirectly by presenting the negation as a statement of common belief or about ability.
 </p>
 

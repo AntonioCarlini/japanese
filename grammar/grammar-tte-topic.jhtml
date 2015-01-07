@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{tte}}}}
-<li> @Vru{{}}@EM{{@HI{{tte}}}}
-<li> @Ai{{}}@EM{{@HI{{tte}}}}
+<li> @N{{}}@HI{{@EM{{tte}}}}
+<li> @Vru{{}}@HI{{@EM{{tte}}}}
+<li> @Ai{{}}@HI{{@EM{{tte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-In this sentence pattern @EM{{@HI{{tte}}}} is an informal topic introducer.
+In this sentence pattern @HI{{@EM{{tte}}}} is an informal topic introducer.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@ In this sentence pattern @EM{{@HI{{tte}}}} is an informal topic introducer.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{tte}}}} is not only colloquial, but it also expresses the speaker's emotive judgment or evaluation.
+@HI{{@EM{{tte}}}} is not only colloquial, but it also expresses the speaker's emotive judgment or evaluation.
 So it cannot be used to introduce a simple fact.
 </p>
 

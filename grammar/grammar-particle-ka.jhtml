@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{ka}}}}
+<li> @HI{{@EM{{ka}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-<a name="question">@EM{{@HI{{ka}}}}</a> at the end of a sentence can indicate a simple question.
+<a name="question">@HI{{@EM{{ka}}}}</a> at the end of a sentence can indicate a simple question.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ka}}}} at the end of a sentence can indicate a question of the form "how about".
+@HI{{@EM{{ka}}}} at the end of a sentence can indicate a question of the form "how about".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ka}}}} at the end of a sentence can indicate a rhetorical question.
+@HI{{@EM{{ka}}}} at the end of a sentence can indicate a rhetorical question.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ka}}}} at the end of a sentence can indicate anger or censure.
+@HI{{@EM{{ka}}}} at the end of a sentence can indicate anger or censure.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -81,7 +81,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ka}}}} at the end of a sentence can indicate that someone is talking to himself.
+@HI{{@EM{{ka}}}} at the end of a sentence can indicate that someone is talking to himself.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -95,7 +95,7 @@
 
 @BGRND{{}}
 <p>
-<a name="alternative">Within</a> a sentence, @EM{{@HI{{ka}}}} can indicate a choice: "whether or not".
+<a name="alternative">Within</a> a sentence, @HI{{@EM{{ka}}}} can indicate a choice: "whether or not".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -109,7 +109,7 @@
 
 @BGRND{{}}
 <p>
-Within a sentence, @EM{{@HI{{ka}}}} can indicate uncertainty about a state or reason: "I wonder".
+Within a sentence, @HI{{@EM{{ka}}}} can indicate uncertainty about a state or reason: "I wonder".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -123,7 +123,7 @@ Within a sentence, @EM{{@HI{{ka}}}} can indicate uncertainty about a state or re
 
 @BGRND{{}}
 <p>
-Within a sentence, @EM{{@HI{{ka}}}} following an interrogative word indicates such
+Within a sentence, @HI{{@EM{{ka}}}} following an interrogative word indicates such
 meanings as "anyone, anything, someone, something".
 
 <table class="sentence" border=0>
@@ -139,7 +139,7 @@ meanings as "anyone, anything, someone, something".
 
 @BGRND{{}}
 <p>
-Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncertainty or doubt.
+Within a sentence, @HI{{@EM{{ka}}}} following other particles, indicates uncertainty or doubt.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -153,8 +153,8 @@ Within a sentence, @EM{{@HI{{ka}}}} following other particles, indicates uncerta
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{ka}}}} also appears in the idiomatic expression
-@EM{{@HI{{ka}}}} ... @HI{{nai uchi ni}}.
+@HI{{@EM{{ka}}}} also appears in the idiomatic expression
+@HI{{@EM{{ka}}}} ... @HI{{nai uchi ni}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

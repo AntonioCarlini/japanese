@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{monode}}}}.
+<li> @HI{{@EM{{monode}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{monode}}}} is used to indicate a reason or a cause.
+@HI{{@EM{{monode}}}} is used to indicate a reason or a cause.
  It is more polite and more formal than <a href="grammar-particle-kara.html">@HI{{kara}}</a> and <a href="grammar-node.html">@HI{{node}}</a>
 
 <table class="sentence" border=0>

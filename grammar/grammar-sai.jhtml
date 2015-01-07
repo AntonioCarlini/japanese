@@ -19,7 +19,7 @@
 <ol>
 <li> @Vplain{{}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
 <li> @N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
-<li> @N{{}}@EM{{@HI{{ni}}@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}
+<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}
 <li> @HI{{kono}}/@HI{{sono}}/@HI{{ano}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}
 </ol>
 

@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{toori ni}}}},
-<li> @Vta{{}} @EM{{@HI{{toori ni}}}},
-<li> @N{{}} @HI{{no}} @EM{{@HI{{toori ni}}}},
+<li> @Vru{{}} @HI{{@EM{{toori ni}}}},
+<li> @Vta{{}} @HI{{@EM{{toori ni}}}},
+<li> @N{{}} @HI{{no}} @HI{{@EM{{toori ni}}}},
 </ol>
 
 <h2> Definition </h2>

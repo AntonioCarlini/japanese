@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{to}}}} ... 
+<li> @N{{}} @HI{{@EM{{to}}}} ... 
 </ol>
 
 <h2> Definition </h2>
@@ -25,9 +25,9 @@
 
 @BGRND{{}}
 <p>
-<a name="list">@EM{{@HI{{to}}}}</a> follows nouns to indicate "and".
+<a name="list">@HI{{@EM{{to}}}}</a> follows nouns to indicate "and".
 It can only be used with nouns and not phrases or clauses.
-In this usage @EM{{@HI{{to}}}} follows each noun except the last.
+In this usage @HI{{@EM{{to}}}} follows each noun except the last.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@ In this usage @EM{{@HI{{to}}}} follows each noun except the last.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} can be used to mark a comparison or contrast.
+@HI{{@EM{{to}}}} can be used to mark a comparison or contrast.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -55,7 +55,7 @@ In this usage @EM{{@HI{{to}}}} follows each noun except the last.
 
 @BGRND{{}}
 <p>
-<a name="with">@EM{{@HI{{to}}}}</a> can mean "with" to indicate participants in an action.
+<a name="with">@HI{{@EM{{to}}}}</a> can mean "with" to indicate participants in an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -69,7 +69,7 @@ In this usage @EM{{@HI{{to}}}} follows each noun except the last.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} can indicate a change or a result.
+@HI{{@EM{{to}}}} can indicate a change or a result.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -83,7 +83,7 @@ In this usage @EM{{@HI{{to}}}} follows each noun except the last.
 
 @BGRND{{}}
 <p>
-Following an expression of quantity, @EM{{@HI{{to}}}} reinforces the negative idea of the sentence.
+Following an expression of quantity, @HI{{@EM{{to}}}} reinforces the negative idea of the sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -97,7 +97,7 @@ Following an expression of quantity, @EM{{@HI{{to}}}} reinforces the negative id
 
 @BGRND{{}}
 <p>
-<a name="quote">@EM{{@HI{{to}}}}</a> can indicate what someone says, asks or orders.
+<a name="quote">@HI{{@EM{{to}}}}</a> can indicate what someone says, asks or orders.
 In this usage it acts as a quotation marker.
 
 <table class="sentence" border=0>
@@ -112,7 +112,7 @@ In this usage it acts as a quotation marker.
 
 @BGRND{{}}
 <p>
-<a name="quote">@EM{{@HI{{to}}}}</a> can indicate what someone <a href="grammar-to-omou.html">thinks</a> or feels.
+<a name="quote">@HI{{@EM{{to}}}}</a> can indicate what someone <a href="grammar-to-omou.html">thinks</a> or feels.
 In this usage it acts as a quotation marker.
 
 <table class="sentence" border=0>
@@ -127,7 +127,7 @@ In this usage it acts as a quotation marker.
 
 @BGRND{{}}
 <p>
-In the form <a href="grammar-to-iu.html">@EM{{@HI{{to}}}}@HI{{iu}}</a> it indicates the name of something
+In the form <a href="grammar-to-iu.html">@HI{{@EM{{to}}}}@HI{{iu}}</a> it indicates the name of something
 about which an explanation follows.
 
 <table class="sentence" border=0>
@@ -142,7 +142,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} follows an onomatopoeic verb.
+@HI{{@EM{{to}}}} follows an onomatopoeic verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -156,7 +156,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} indicates that a second action immediately follows a preceding one. In this usage, 
+@HI{{@EM{{to}}}} indicates that a second action immediately follows a preceding one. In this usage, 
 @HI{{sugu}} is often present too.
 
 <table class="sentence" border=0>
@@ -171,7 +171,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-<a name="condition">@EM{{@HI{{to}}}}</a> can indicate the inevitability of a second action.
+<a name="condition">@HI{{@EM{{to}}}}</a> can indicate the inevitability of a second action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -185,7 +185,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} can indicate a hypothetical condition.
+@HI{{@EM{{to}}}} can indicate a hypothetical condition.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -199,7 +199,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} can indicate that something has been learned as a result of an action.
+@HI{{@EM{{to}}}} can indicate that something has been learned as a result of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -213,7 +213,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{to}}}} follows two verbs in the volitional, or the same verb firstly in the volitional and secondly in @HI{{mai}},
+@HI{{@EM{{to}}}} follows two verbs in the volitional, or the same verb firstly in the volitional and secondly in @HI{{mai}},
 to indicate a lack of concern over which of two events occurs.
 
 <table class="sentence" border=0>
@@ -232,8 +232,8 @@ to indicate a lack of concern over which of two events occurs.
 <h2> Notes </h2>
 
 <p>
-When @EM{{@HI{{to}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @EM{{@HI{{to}}}}
-replaces those particles. For all other particles, @EM{{@HI{{to}}}} follows them rather than
+When @HI{{@EM{{to}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}}, @HI{{@EM{{to}}}}
+replaces those particles. For all other particles, @HI{{@EM{{to}}}} follows them rather than
 replacing them.
 </p>
 

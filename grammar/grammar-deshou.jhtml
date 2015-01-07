@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{deshou}}}}
-<li> @Ai{{}} @EM{{@HI{{deshou}}}}
-<li> @Anastem{{}} @EM{{@HI{{deshou}}}}
-<li> @N{{}} @EM{{@HI{{deshou}}}}
+<li> @Vplain{{}} @HI{{@EM{{deshou}}}}
+<li> @Ai{{}} @HI{{@EM{{deshou}}}}
+<li> @Anastem{{}} @HI{{@EM{{deshou}}}}
+<li> @N{{}} @HI{{@EM{{deshou}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{deshou}}}} expresses the speaker's conjecture, possibly from some information he has.
+@HI{{@EM{{deshou}}}} expresses the speaker's conjecture, possibly from some information he has.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -58,7 +58,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{darou}}}} or @EM{{@HI{{deshou}}}} with the question marker @HI{{ka}} makes the question softer.
+@HI{{@EM{{darou}}}} or @HI{{@EM{{deshou}}}} with the question marker @HI{{ka}} makes the question softer.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

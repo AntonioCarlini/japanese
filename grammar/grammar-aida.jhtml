@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}} @HI{{iru}} @EM{{@HI{{aida}}}}
-<li> @HI{{iru}} @EM{{@HI{{aida}}}}
-<li> @Ai{{}} @EM{{@HI{{aida}}}}
-<li> @Ana{{}} @EM{{@HI{{aida}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{aida}}}}
+<li> @Vte{{}} @HI{{iru}} @HI{{@EM{{aida}}}}
+<li> @HI{{iru}} @HI{{@EM{{aida}}}}
+<li> @Ai{{}} @HI{{@EM{{aida}}}}
+<li> @Ana{{}} @HI{{@EM{{aida}}}}
+<li> @N{{}} @HI{{no}} @HI{{@EM{{aida}}}}
 </ol>
 
 <h2> Definition </h2>
 
-The @EM{{@HI{{aida}}}} clause expresses the idea of "while" or "during".
+The @HI{{@EM{{aida}}}} clause expresses the idea of "while" or "during".
 <p></p>
 
 <h2> Examples </h2>
@@ -33,8 +33,8 @@ The @EM{{@HI{{aida}}}} clause expresses the idea of "while" or "during".
 <h2> Notes </h2>
 
 <p>
-The subjects in the @EM{{@HI{{aida}}}} clause and the main clause can be the same or different. If they are the same
-the subject in the @EM{{@HI{{aida}}}} clause is marked by @HI{{ha}}.
+The subjects in the @HI{{@EM{{aida}}}} clause and the main clause can be the same or different. If they are the same
+the subject in the @HI{{@EM{{aida}}}} clause is marked by @HI{{ha}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -47,7 +47,7 @@ the subject in the @EM{{@HI{{aida}}}} clause is marked by @HI{{ha}}.
 </p>
 
 <p>
-If they are different, the subject in the @EM{{@HI{{aida}}}} clause is marked by @HI{{ga}} and not by @HI{{ha}}.
+If they are different, the subject in the @HI{{@EM{{aida}}}} clause is marked by @HI{{ga}} and not by @HI{{ha}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,13 +61,13 @@ If they are different, the subject in the @EM{{@HI{{aida}}}} clause is marked by
 </p>
 
 <p>
-The verb before @EM{{@HI{{aida}}}} is usually either @Vte{{}}@HI{{iru}} or @HI{{iru}} regardless of the
+The verb before @HI{{@EM{{aida}}}} is usually either @Vte{{}}@HI{{iru}} or @HI{{iru}} regardless of the
 tense of the main clause.
 </p>
 
 <p>
-If the @EM{{@HI{{aida}}}} clause is followed by @HI{{ni}} then the time span of the main clause
-falls within that of the @EM{{@HI{{aida}}}} clause.
+If the @HI{{@EM{{aida}}}} clause is followed by @HI{{ni}} then the time span of the main clause
+falls within that of the @HI{{@EM{{aida}}}} clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -80,7 +80,7 @@ falls within that of the @EM{{@HI{{aida}}}} clause.
 </p>
 
 <p>
-If @EM{{@HI{{aida}}}} is not followed by @HI{{ni}},
+If @HI{{@EM{{aida}}}} is not followed by @HI{{ni}},
  the two clauses are expected to cover the same span of time.
 
 <table class="sentence">

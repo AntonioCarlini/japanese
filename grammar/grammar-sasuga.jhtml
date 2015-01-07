@@ -16,19 +16,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li>@EM{{@HI{{sasuga}}}}@HI{{ni}}@S{{}}
-<li>@EM{{@HI{{sasuga}}}}(@HI{{ha}})@N{{}}@HI{{da}}
-<li>@EM{{@HI{{sasuga}}}}@Vplain{{}}@HI{{dake}}
-<li>@EM{{@HI{{sasuga}}}}@Ai{{}}@HI{{dake}}
-<li>@EM{{@HI{{sasuga}}}}@Anastem{{}}@HI{{nadake}}
-<li>@EM{{@HI{{sasuga}}}}@Anastem{{}}@HI{{dearudake}}
-<li>@EM{{@HI{{sasuga}}}}@HI{{no@N{{}}mo}}
+<li>@HI{{@EM{{sasuga}}}}@HI{{ni}}@S{{}}
+<li>@HI{{@EM{{sasuga}}}}(@HI{{ha}})@N{{}}@HI{{da}}
+<li>@HI{{@EM{{sasuga}}}}@Vplain{{}}@HI{{dake}}
+<li>@HI{{@EM{{sasuga}}}}@Ai{{}}@HI{{dake}}
+<li>@HI{{@EM{{sasuga}}}}@Anastem{{}}@HI{{nadake}}
+<li>@HI{{@EM{{sasuga}}}}@Anastem{{}}@HI{{dearudake}}
+<li>@HI{{@EM{{sasuga}}}}@HI{{no@N{{}}mo}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-The adverb @EM{{@HI{{sasuga}}}} expresses speaker's strong feeling that something has turned out as expected..
+The adverb @HI{{@EM{{sasuga}}}} expresses speaker's strong feeling that something has turned out as expected..
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@ The adverb @EM{{@HI{{sasuga}}}} expresses speaker's strong feeling that somethin
 </p>
 
 <p>
-@EM{{@HI{{sasuga}}}} can expresses speaker's strong feeling that something has not turned out as expected..
+@HI{{@EM{{sasuga}}}} can expresses speaker's strong feeling that something has not turned out as expected..
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -54,7 +54,7 @@ The adverb @EM{{@HI{{sasuga}}}} expresses speaker's strong feeling that somethin
 </p>
 
 <p>
-@EM{{@HI{{sasuga}}}}@JDOTS3{{}}@HI{{dake}} may be followed by either @HI{{atte}} or @HI{{ni}} (either may be used interchangeably).
+@HI{{@EM{{sasuga}}}}@JDOTS3{{}}@HI{{dake}} may be followed by either @HI{{atte}} or @HI{{ni}} (either may be used interchangeably).
 
 <ol>
 <li>
@@ -79,7 +79,7 @@ The adverb @EM{{@HI{{sasuga}}}} expresses speaker's strong feeling that somethin
 </p>
 
 <p>
-@EM{{@HI{{sasuga}}}}@HI{{no}}X@HI{{mo}}
+@HI{{@EM{{sasuga}}}}@HI{{no}}X@HI{{mo}}
 means that something has occurred that is contrary to what might be expected from the characterstics of X.
 
 <table class="sentence" border=0>
@@ -93,7 +93,7 @@ means that something has occurred that is contrary to what might be expected fro
 </p>
 
 <p>
-In conversational Japanese, @EM{{@HI{{sasuga}}}} can be used as an exclamation.
+In conversational Japanese, @HI{{@EM{{sasuga}}}} can be used as an exclamation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -114,7 +114,7 @@ In conversational Japanese, @EM{{@HI{{sasuga}}}} can be used as an exclamation.
 <h2> Notes </h2>
 
 <p>
-<a href="grammar-yahari.html">@HI{{yahari}}</a> is similar in usage to @EM{{@HI{{sasuga}}}}, but it does not have the latter's strong feeling that an expectation has been fulfilled. 
+<a href="grammar-yahari.html">@HI{{yahari}}</a> is similar in usage to @HI{{@EM{{sasuga}}}}, but it does not have the latter's strong feeling that an expectation has been fulfilled. 
 Also it does not have prenomial or precopula uses.
 </p>
 

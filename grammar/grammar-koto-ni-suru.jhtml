@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@EM{{@HI{{kotonisuru}}}}
-<li> @Vte{{}}@HI{{iru}}@EM{{@HI{{kotonisuru}}}}
-<li> @Vnai{{}}@EM{{@HI{{kotonisuru}}}}
-<li> @Vru{{}}@EM{{@HI{{kotonishiteiru}}}}
-<li> @Vnai{{}}@EM{{@HI{{kotonishiteiru}}}}
+<li> @Vru{{}}@HI{{@EM{{kotonisuru}}}}
+<li> @Vte{{}}@HI{{iru}}@HI{{@EM{{kotonisuru}}}}
+<li> @Vnai{{}}@HI{{@EM{{kotonisuru}}}}
+<li> @Vru{{}}@HI{{@EM{{kotonishiteiru}}}}
+<li> @Vnai{{}}@HI{{@EM{{kotonishiteiru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,9 +28,9 @@
 @BGRNDSTART{{}}
 
 <p>
-@EM{{@HI{{kotonisuru}}}} indicates a volitional decision, it's focus is on who is going to take the action.
+@HI{{@EM{{kotonisuru}}}} indicates a volitional decision, it's focus is on who is going to take the action.
 In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>, which indicates a non-volitional decision.
-@EM{{@HI{{kotonisuru}}}} is a more complex form of <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
+@HI{{@EM{{kotonisuru}}}} is a more complex form of <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
 
 <ol>
 <li>
@@ -56,7 +56,7 @@ In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotonin
 
 @BGRND{{}}
 <p>
-To say that one has decided not to do something, negate the verb before @EM{{@HI{{kotonisuru}}}}.
+To say that one has decided not to do something, negate the verb before @HI{{@EM{{kotonisuru}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -70,7 +70,7 @@ To say that one has decided not to do something, negate the verb before @EM{{@HI
 
 @BGRND{{}}
 <p>
-The form @EM{{@HI{{kotonishiteiru}}}} indicates that the decision is still in force.
+The form @HI{{@EM{{kotonishiteiru}}}} indicates that the decision is still in force.
 This is a previously decided habit.
 
 <table class="sentence">
@@ -85,7 +85,7 @@ This is a previously decided habit.
 
 @BGRND{{}}
 <p>
-The form @EM{{@HI{{kotonishiteiru}}}} with a negative form indicates that a previous decision
+The form @HI{{@EM{{kotonishiteiru}}}} with a negative form indicates that a previous decision
 not to do something is still in force.
 
 <table class="sentence">

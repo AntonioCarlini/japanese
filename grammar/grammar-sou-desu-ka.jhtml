@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@HI{{sou desu ka}}}}
+<li> @HI{{@EM{{sou desu ka}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -38,7 +38,7 @@ that it has been understood.
       B: @HI{{iee, @KJ{{difference}}imasu. @KT{{shumitto}}sannodesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      A: @EM{{@HI{{sou desu ka}}}}.
+      A: @HI{{@EM{{sou desu ka}}}}.
   </td> </tr>
   <tr class="en"> <td>
       A: Is this your umbrella?

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @EM{{@HI{{toka}}}}
-<li> @Vru{{}} @EM{{@HI{{toka}}}}
+<li> @N{{}} @HI{{@EM{{toka}}}}
+<li> @Vru{{}} @HI{{@EM{{toka}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,9 +26,9 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{toka}}}} is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
-However, @EM{{@HI{{toka}}}}
-is more informal. Furthermore, @EM{{@HI{{toka}}}} can sometimes follow the last noun listed, which @HI{{ya}}
+@HI{{@EM{{toka}}}} is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
+However, @HI{{@EM{{toka}}}}
+is more informal. Furthermore, @HI{{@EM{{toka}}}} can sometimes follow the last noun listed, which @HI{{ya}}
 never can.
 
 <table class="sentence">
@@ -36,7 +36,7 @@ never can.
       A: @HI{{donnna @KT{{supo-tsu}}wo shite imasuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{sou desune. @KT{{tenisu}}@EM{{@HI{{toka}}}} @KJ{{water^swim}}@EM{{@HI{{toka}}}}...}}
+      B: @HI{{sou desune. @KT{{tenisu}}@HI{{@EM{{toka}}}} @KJ{{water^swim}}@HI{{@EM{{toka}}}}...}}
   </td> </tr>
   <tr class="en"> <td>
       A: What kind of sports do you do?
@@ -49,12 +49,12 @@ never can.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{toka}}}} can follow  pairs of words of opposite meaning to indicate uncertainty.
+@HI{{@EM{{toka}}}} can follow  pairs of words of opposite meaning to indicate uncertainty.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{person}}hasonotokiniyotte,@KJ{{attend^matter}}ga@KJ{{mask^white}}i@EM{{@HI{{toka}}}}
-      @KJ{{mask^white}}kunai@EM{{@HI{{toka}}}}@KJ{{say}}unode,dochiranokawakarimasenn.}}
+      @HI{{ano@KJ{{person}}hasonotokiniyotte,@KJ{{attend^matter}}ga@KJ{{mask^white}}i@HI{{@EM{{toka}}}}
+      @KJ{{mask^white}}kunai@HI{{@EM{{toka}}}}@KJ{{say}}unode,dochiranokawakarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Depending on which day it is, she says she likes her work or she doesn't like it, so I don't know whether she does or not.
@@ -68,7 +68,7 @@ never can.
 <h2> Notes </h2>
 
 <p>
-When used with nouns @EM{{@HI{{toka}}}} has a more informal feel than @HI{{ya}}.
+When used with nouns @HI{{@EM{{toka}}}} has a more informal feel than @HI{{ya}}.
 </p>
 
 

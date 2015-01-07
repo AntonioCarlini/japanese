@@ -28,7 +28,7 @@ It affirmative sentences it can usually be translated as "still".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @EM{{@HI{{mada}}}}@KJ{{rain}}@HI{{ga}}@KJ{{descend}}@HI{{tteimasu.}}
+      @HI{{@EM{{mada}}}}@KJ{{rain}}@HI{{ga}}@KJ{{descend}}@HI{{tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       It's still raining.

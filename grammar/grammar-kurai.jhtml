@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{kurai}}}}
-<li> @Vru{{}}@EM{{@HI{{kurai}}}}
-<li> @Ai{{}}@EM{{@HI{{kurai}}}}
-<li> @Ana{{}}@EM{{@HI{{kurai}}}}
+<li> @N{{}}@HI{{@EM{{kurai}}}}
+<li> @Vru{{}}@HI{{@EM{{kurai}}}}
+<li> @Ai{{}}@HI{{@EM{{kurai}}}}
+<li> @Ana{{}}@HI{{@EM{{kurai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-<a name="kurai-da">In</a> this usage, @EM{{@HI{{kurai}}}} indicates an example (which did not actually happen)
+<a name="kurai-da">In</a> this usage, @HI{{@EM{{kurai}}}} indicates an example (which did not actually happen)
 the extent of which is being emphasised.
 
 <table class="sentence">
@@ -44,7 +44,7 @@ the extent of which is being emphasised.
 
 @BGRND{{}}
 <p>
-<a name="kurai-wa-nai">With</a> a negative predicate, @EM{{@HI{{kurai}}}} expresses a superlative.
+<a name="kurai-wa-nai">With</a> a negative predicate, @HI{{@EM{{kurai}}}} expresses a superlative.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -60,7 +60,7 @@ the extent of which is being emphasised.
 
 @BGRND{{}}
 <p>
-<a name="kurainara">@EM{{@HI{{kurainara}}}}</a> expresses the idea that one would be better off
+<a name="kurainara">@HI{{@EM{{kurainara}}}}</a> expresses the idea that one would be better off
 doing something else rather than whatever is expressed by the preceding clause.
 
 <table class="sentence">

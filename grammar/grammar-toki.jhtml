@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li>  @Vplain{{}}@EM{{@HI{{toki}}}}
-<li>  @Ai{{}}@EM{{@HI{{toki}}}}
-<li>  @Ana{{}}@EM{{@HI{{toki}}}}
-<li>  @N{{}}@HI{{no}}@EM{{@HI{{toki}}}}
+<li>  @Vplain{{}}@HI{{@EM{{toki}}}}
+<li>  @Ai{{}}@HI{{@EM{{toki}}}}
+<li>  @Ana{{}}@HI{{@EM{{toki}}}}
+<li>  @N{{}}@HI{{no}}@HI{{@EM{{toki}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{toki}}}} is a noun that indicates the time when something is or was done. It is often translated
+@HI{{@EM{{toki}}}} is a noun that indicates the time when something is or was done. It is often translated
 as "at the time when".
 
 <table class="sentence">
@@ -54,7 +54,7 @@ as "at the time when".
 
 @BGRND{{}}
 <p>
-@Vru{{}}@EM{{@HI{{toki}}}} means that the action in the relative clause has not yet completed when the main clause happens.
+@Vru{{}}@HI{{@EM{{toki}}}} means that the action in the relative clause has not yet completed when the main clause happens.
 This can often be translated as <em>right before</em>.
 
 <table class="sentence">
@@ -80,7 +80,7 @@ This can often be translated as <em>right before</em>.
 
 @BGRND{{}}
 <p>
-@Vta{{}}@EM{{@HI{{toki}}}} means that the action in the relative clause has completed when the action in the main clause takes place.
+@Vta{{}}@HI{{@EM{{toki}}}} means that the action in the relative clause has completed when the action in the main clause takes place.
 This can often be translated as <em>right after</em>.
 
 <table class="sentence">
@@ -109,12 +109,12 @@ This can often be translated as <em>right after</em>.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{toki}}}} can be followed by an optional @HI{{ni}}, in which the time at which the relative clause
+@HI{{@EM{{toki}}}} can be followed by an optional @HI{{ni}}, in which the time at which the relative clause
 happened comes under particular focus.
 </p>
 
 <p>
-A @EM{{@HI{{toki}}}} clause never indicates a condiftion.
+A @HI{{@EM{{toki}}}} clause never indicates a condiftion.
 </p>
 
 <h2> References </h2>

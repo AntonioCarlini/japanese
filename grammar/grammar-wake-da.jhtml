@@ -16,17 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @EM{{@HI{{wakeda}}}}
-<li> @Ai{{}} @EM{{@HI{{wakeda}}}}
-<li> @Ana{{}} @EM{{@HI{{wakeda}}}}
-<li> @N{{}} @HI{{to iu}} @EM{{@HI{{wakeda}}}}
-<li> @N{{}} @HI{{datta}} @EM{{@HI{{wakeda}}}}
+<li> @Vplain{{}} @HI{{@EM{{wakeda}}}}
+<li> @Ai{{}} @HI{{@EM{{wakeda}}}}
+<li> @Ana{{}} @HI{{@EM{{wakeda}}}}
+<li> @N{{}} @HI{{to iu}} @HI{{@EM{{wakeda}}}}
+<li> @N{{}} @HI{{datta}} @HI{{@EM{{wakeda}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{wakeda}}}} represents the speaker's conclusion reached through deductive reasoning, logic or calculation
+@HI{{@EM{{wakeda}}}} represents the speaker's conclusion reached through deductive reasoning, logic or calculation
 based on something heard or read.
 </p>
 

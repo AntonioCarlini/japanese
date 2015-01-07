@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <dl>
-<li> @Vplain{{}} @EM{{@HI{{you desu}}}}
-<li> @Ai{{}} @EM{{@HI{{you desu}}}}
-<li> @Ana{{}} @EM{{@HI{{you desu}}}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{you desu}}}}
-<li> <em>demonstrative</em> @EM{{@HI{{you desu}}}}
+<li> @Vplain{{}} @HI{{@EM{{you desu}}}}
+<li> @Ai{{}} @HI{{@EM{{you desu}}}}
+<li> @Ana{{}} @HI{{@EM{{you desu}}}}
+<li> @N{{}} @HI{{no}} @HI{{@EM{{you desu}}}}
+<li> <em>demonstrative</em> @HI{{@EM{{you desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,11 +32,11 @@ information, usually visual information.
 </p>
 
 <p>
-@EM{{@HI{{you desu}}}} can express either the likelihood of something or the likeness of something to something else.
+@HI{{@EM{{you desu}}}} can express either the likelihood of something or the likeness of something to something else.
 </p>
 
 <p>
-@EM{{@HI{{you desu}}}} can be used before a noun in the form @EM{{@HI{{youna}}}}.
+@HI{{@EM{{you desu}}}} can be used before a noun in the form @HI{{@EM{{youna}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -49,7 +49,7 @@ information, usually visual information.
 </p>
 
 <p>
-@EM{{@HI{{you desu}}}} can be used before a verb in the form @EM{{@HI{{youni}}}}.
+@HI{{@EM{{you desu}}}} can be used before a verb in the form @HI{{@EM{{youni}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ information, usually visual information.
 <h2> Notes </h2>
 
 <p>
-The colloquial form of @EM{{@HI{{you desu}}}} is @HI{{mitai}}.
+The colloquial form of @HI{{@EM{{you desu}}}} is @HI{{mitai}}.
 </p>
 
 <h2> References </h2>

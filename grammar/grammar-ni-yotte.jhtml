@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{niyotte}}}}
-<li> <em>embedded-question</em>@HI{{kadouka}}@EM{{@HI{{niyotte}}}}
-<li> <em>embedded-wh-question</em>@HI{{ka}}@EM{{@HI{{niyotte}}}}
+<li> @N{{}}@HI{{@EM{{niyotte}}}}
+<li> <em>embedded-question</em>@HI{{kadouka}}@HI{{@EM{{niyotte}}}}
+<li> <em>embedded-wh-question</em>@HI{{ka}}@HI{{@EM{{niyotte}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{niyotte}}}} indicates a change in behaviour depending on or according to something.
+@HI{{@EM{{niyotte}}}} indicates a change in behaviour depending on or according to something.
 </p>
 
 <h2> Examples </h2>

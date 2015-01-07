@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{mae ni}}}}, @V2{{}}
-<li> @N{{}} @HI{{no}} @EM{{@HI{{mae ni}}}}, @V2{{}}
-<li> <em>quantifier(period)</em> @EM{{@HI{{mae ni}}}}, @V2{{}}
+<li> @Vru{{}} @HI{{@EM{{mae ni}}}}, @V2{{}}
+<li> @N{{}} @HI{{no}} @HI{{@EM{{mae ni}}}}, @V2{{}}
+<li> <em>quantifier(period)</em> @HI{{@EM{{mae ni}}}}, @V2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -63,11 +63,11 @@ This sentence pattern indicates that @V2{{}} happens before whatever is stated i
 <h2> Notes </h2>
 
 <p>
-The verb before @EM{{@HI{{mae ni}}}} is always non-past even if the sentence itself is in the past.
+The verb before @HI{{@EM{{mae ni}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-@EM{{@HI{{mae ni}}}} is used when the speaker something is going to take place. If the speaker
+@HI{{@EM{{mae ni}}}} is used when the speaker something is going to take place. If the speaker
 is unsure when the event might take place, <a href="grammar-uchi-ni.html">@HI{{uchini}}</a> should be used instead.
 </p>
 

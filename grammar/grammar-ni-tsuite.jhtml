@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@EM{{@HI{{nitsuite}}}}
-<li> @Splain{{}}@EM{{@HI{{nitsuite}}}}
-<li> @N1{{}}/@Splain{{}}@HI{{no koto}}@EM{{@HI{{nitsuite}}}}@HI{{no}}@N2{{}}
+<li> @N{{}}@HI{{@EM{{nitsuite}}}}
+<li> @Splain{{}}@HI{{@EM{{nitsuite}}}}
+<li> @N1{{}}/@Splain{{}}@HI{{no koto}}@HI{{@EM{{nitsuite}}}}@HI{{no}}@N2{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@HI{{nitsuite}}}} means "about" or "concerning".
+@HI{{@EM{{nitsuite}}}} means "about" or "concerning".
 </p>
 
 <h2> Examples </h2>

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@HI{{you ni naru}}}}
-<li> @Vnai{{}} @EM{{@HI{{you ni naru}}}}
+<li> @Vru{{}} @HI{{@EM{{you ni naru}}}}
+<li> @Vnai{{}} @HI{{@EM{{you ni naru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -33,7 +33,7 @@ The form which uses @Vru{{}} means that something which could not be done now ca
 </p>
 
 <p>
-The form @EM{{@HI{{you ni natteiru}}}} emphasises that the current state has come about after a long process.
+The form @HI{{@EM{{you ni natteiru}}}} emphasises that the current state has come about after a long process.
 </p>
 
 <h2> Examples </h2>

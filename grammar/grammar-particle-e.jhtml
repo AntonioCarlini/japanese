@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{location}} @EM{{@HI{{he}}}}
-<li> @N{{recipient}} @EM{{@HI{{he}}}}
+<li> @N{{location}} @HI{{@EM{{he}}}}
+<li> @N{{recipient}} @HI{{@EM{{he}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,7 +26,7 @@
 @BGRNDSTART{{}}
 @BGRND{{}}
 <p>
-@EM{{@HI{{he}}}} is used to indicate the direction in which someone is moving.
+@HI{{@EM{{he}}}} is used to indicate the direction in which someone is moving.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@ Strictly speaking, @HI{{ni}} indicates the destination.
 
 @BGRND{{}}
 <p>
-@EM{{@HI{{he}}}} is used to indicate the recipient of an action.
+@HI{{@EM{{he}}}} is used to indicate the recipient of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -69,8 +69,8 @@ Strictly speaking, @HI{{ni}} indicates the destination.
 <h2> Notes </h2>
 
 <p>
-@EM{{@HI{{he}}}} can always be replaced by @HI{{ni}} except when it is followed by @HI{{no}}. In the example below
-@HI{{ni}} cannot replace @EM{{@HI{{he}}}}, but @HI{{made}} can.
+@HI{{@EM{{he}}}} can always be replaced by @HI{{ni}} except when it is followed by @HI{{no}}. In the example below
+@HI{{ni}} cannot replace @HI{{@EM{{he}}}}, but @HI{{made}} can.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
