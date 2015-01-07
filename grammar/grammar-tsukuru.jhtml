@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{@EM{{de tsukuru}}}}
-<li> @N{{}} @HI{{@EM{{kara tsukuru}}}}
+<li> @N{{}} @HI{{@EM{{detsukuru}}}}
+<li> @N{{}} @HI{{@EM{{karatsukuru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -33,14 +33,13 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{bi-ru}}ha @KJ{{barley}}@EM{{kara}} @KJ{{create}}raremasu.}}
+      @HI{{@KT{{bi-ru}}ha@KJ{{barley}}@EM{{kara}}@KJ{{create}}raremasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Beer is made from barley.
   </td> </tr>
   <tr class="jp"> <td>
-      @HI{{@KJ{{once*upon*a*time day^book}}no@KJ{{house}}ha @KJ{{tree}}@EM{{de}}
-      @KJ{{create}}raremashita.}}
+      @HI{{@KJ{{once*upon*a*time day^book}}no@KJ{{house}}ha@KJ{{tree}}@EM{{de}}@KJ{{create}}raremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Japanese houses were made of wood in the past.
