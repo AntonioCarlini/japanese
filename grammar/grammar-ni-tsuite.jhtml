@@ -18,7 +18,8 @@
 <ol>
 <li> @N{{}}@HI{{@EM{{nitsuite}}}}
 <li> @Splain{{}}@HI{{@EM{{nitsuite}}}}
-<li> @N1{{}}/@Splain{{}}@HI{{no koto}}@HI{{@EM{{nitsuite}}}}@HI{{no}}@N2{{}}
+<li> @N1{{}}@HI{{@EM{{nitsuite}}no}}@N2{{}}
+<li> @Splain{{}}@HI{{koto@EM{{nitsuite}}no}}@N2{{}}
 </ol>
 
 <h2> Definition </h2>
