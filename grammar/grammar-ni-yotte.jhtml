@@ -19,10 +19,7 @@
 <li> @N{{}}@HI{{@EM{{niyotte}}}}
 <li> <em>embedded-question</em>@HI{{kadouka}}@HI{{@EM{{niyotte}}}}
 <li> <em>embedded-wh-question</em>@HI{{ka}}@HI{{@EM{{niyotte}}}}
-<<<<<<< HEAD
 <li> @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}
-=======
->>>>>>> dbed888525bb53df65526bab1c441c5e7bbc41f5
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +28,6 @@
 
 @BGRND{{}}
 <p>
-<<<<<<< HEAD
 @HI{{@EM{{niyotte}}}} can indicate a means for doing something.
 
 <table class="sentence">
@@ -42,9 +38,6 @@
       We can expand our horizons by reading books.
   </td> </tr>
 </table>
-=======
-@HI{{@EM{{niyotte}}}} indicates a change in behaviour depending on or according to something.
->>>>>>> dbed888525bb53df65526bab1c441c5e7bbc41f5
 </p>
 
 @BGRND{{}}
