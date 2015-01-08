@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{nitaishite}}" grammar="@HI{{ni@KJ{{vis-a-vis}}shite}}"}}
+@GRMIDX{{index="@HI{{nitaisuru}}" grammar="@HI{{ni@KJ{{vis-a-vis}}suru}}"}}
 
 <body>
 
@@ -16,19 +17,93 @@
 <h2> Formation </h2>
 
 <ol>
+<li> @N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @Vplain{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @Ai{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @Ana{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @Anastem{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @N{{}}@HI{{na}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 <li> @N{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{ni@KJ{{vis-a-vis}}shite}} is used to clearly contrast actions or things.
+@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}} can be used to express someone's attitude toward something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}sanha@KJ{{who}}ni@KJ{{vis-a-vis}}shitemo@FG{{@KJ{{street^rather}}:teinei}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Suzuki is polite towards everybody.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}} can be used to express a contrast or comparison.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@KJ{{large^study}}ha@FG{{@KJ{{enter^study}}:nyuugaku}}surunoga@KJ{{difficult}}shiinoni@KJ{{vis-a-vis}}shite,
+      @KT{{amerika}}no@KJ{{large^study}}ha@FG{{@KJ{{graduate^business}}:sotsugyou}}surunoga@KJ{{difficult}}shii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In Japan universities are hard to enter, whereas American universtities are hard to graduate from.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}} can be used to express confrontation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{market^people}}:shiminn}}ha@FG{{@KJ{{increase^tax}}:zouzei}}ni@KJ{{vis-a-vis}}shite@FG{{@KJ{{anti-^vis-a-vis}}:hantai}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The citizens are strongly opposed to the tax hike.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}} can be used to express interest.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{politics^reign}}:seiji}}ni@KJ{{vis-a-vis}}shite@FG{{@KJ{{strong}}:tsuyo}}i@FG{{@KJ{{connection^heart}}:kanshinn}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have a strong interest in politics.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}} can be used to express a sense of "per".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hand^number^fee}}:tesuuryou}}ha@KJ{{one^ten*thousand^circle}}ni@KJ{{vis-a-vis}}shite@KJ{{five^hundred^circle}}desu.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      The commission charge will be 500 yen per 10,000 yen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N1{{}}@HI{{ni@KJ{{vis-a-vis}}shiteno}}@N2{{}}, or @N1{{}}@HI{{ni@KJ{{vis-a-vis}}suru}}@N2{{}}, can mean @N2{{}} in regard to @N1{{}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,10 +116,27 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@N{{}}@HI{{nanoni@KJ{{vis-a-vis}}shite}} means "whereas".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{graceful^child}}:yoshiko}}ga@KJ{{fond}}kina@KJ{{male^sex}}ha@FG{{@KJ{{overpowering^cheerful}}:goukai}}na@KJ{{male^sex}}nani@KJ{{vis-a-vis}},
+      @FG{{@KJ{{wherefore^beauty^child}}:yumiko}}ga@KJ{{fond}}kina@KJ{{male^sex}}ha@FG{{@KJ{{tendernes}}:yasa}}shii@KJ{{male^sex}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The men Yoshiklo likes are spirited; whereas the men Yumiko likes are considerate.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-@HI{{ni@KJ{{vis-a-vis}}shite}} can be replaced by @HI{{@KJ{{vis-a-vis}}shi}} in formal speech.
+@HI{{ni@KJ{{vis-a-vis}}shite}} can be replaced by @HI{{ni@KJ{{vis-a-vis}}shi}} in formal speech.
 </P>
 
 <h2> References </h2>
