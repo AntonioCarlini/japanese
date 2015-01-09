@@ -284,6 +284,12 @@ $command_to_op = {
   "KOME" => :process_empty_code,
   "JSTAR" => :process_empty_code,
   "TICK" => :process_empty_code,
+  "QNTF" => :process_empty_code,
+  "QW" => :process_empty_code,
+  "CTR" => :process_empty_code,
+  "ADV" => :process_empty_code,
+  "PRT" => :process_empty_code,
+  "RELC" => :process_empty_code,
 }
 
 def process_at_commands(text, data_dir)
@@ -601,6 +607,12 @@ def process_empty_code_helper(code)
         when "KOME"        then "#{jp_unicode(0x203b)}"                                         # "rice symbol"
         when "JSTAR"       then "#{jp_unicode(0xff0a)}"                                         # 5 point line-star
         when "TICK"        then "#{jp_unicode(0x2713)}"                                         # tick symbol (check mark)
+        when "QNTF"        then "<em>quantifier</em>"                                           # 
+        when "QW"          then "<em>interrogative</em>"                                        # QW = question word = interrogative
+        when "CTR"         then "<em>counter</em>"                                              # 
+        when "ADV"         then "<em>adverb</em>"                                               # 
+        when "PRT"         then "<em>particle</em>"                                             # 
+        when "RELC"        then "<em>relative-clause</em>"                                      # 
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"

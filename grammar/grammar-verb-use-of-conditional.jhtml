@@ -21,16 +21,16 @@
 <dl>
 <dt>(A) 
 <ol>
-<li> <em>relative clause</em> @EM{{@Vba{{}}}}, <em> main clause</em>
+<li> @RELC{{}}@EM{{@Vba{{}}}}, <em> main clause</em>
 </ol>
 <dt>(B)
 <ol>
-<li> @N{{}} @HI{{@EM{{nara}}}}, ...
+<li> @N{{}}@HI{{@EM{{nara}}}}, ...
 </ol>
 </dl>
 <dt>(C)
 <ol>
-<li> <em>interrogative</em> @EM{{@Vba{{}}}} @HI{{ii desuka.}}
+<li> @QW{{}}@EM{{@Vba{{}}}}@HI{{iidesuka.}}
 </ol>
 </dl>
 </p>
