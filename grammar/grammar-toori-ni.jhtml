@@ -16,9 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{toori ni}}}},
-<li> @Vta{{}} @HI{{@EM{{toori ni}}}},
-<li> @N{{}} @HI{{no}} @HI{{@EM{{toori ni}}}},
+<li> @Vru{{}}@HI{{@EM{{toori ni}}}},
+<li> @Vta{{}}@HI{{@EM{{toori ni}}}},
+<li> @N{{}}@HI{{no@EM{{toori ni}}}},
+<li> <em>demonstrative</em>@HI{{no@EM{{toori ni}}}},
 </ol>
 
 <h2> Definition </h2>
@@ -27,49 +28,102 @@
 These sentence patterns mean to copy exactly in words or actions whatever V describes.
 </p>
 
-<h2> Examples </h2>
+@BGRNDSTART{{}}
 
-<ol>
-<li>
+@BGRND{{}}
+<p>
+The dictionary form is used before @HI{{@EM{{toorini}}}} when the action is going to be performed from now.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ga yaru @EM{{toori ni}}, yatte kudasai.}}
+      @HI{{@KJ{{private}}gayaru@EM{{toori ni}},yattekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please do as I do.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The @Vta{{}}-form is used before @HI{{@EM{{toorini}}}} when the action has already been performed.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{see}}ta@EM{{toori ni}}, @KJ{{tale}}shite kudasai.}}
+      @HI{{@KJ{{see}}ta@EM{{toori ni}},@KJ{{tale}}shitekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please tell us what you saw as it was.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{notoori}}}} means "in the same manner", the @HI{{ni}} is optional. When it means an agreement of some sort (concordance),
+the particle @HI{{ni}} cannot be used.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{line}}no@EM{{toori ni}}, @KJ{{paper}}wo@KJ{{cut}}tte kudasai.}}
+      @HI{{@KJ{{think}}tta@EM{{toori}}@KJ{{he}}ga@FG{{@KJ{{one^turn^before}}:ichibansaki}}ni@KJ{{come}}teita.}}
   </td> </tr>
   <tr class="en"> <td>
-      Please cut the paper folowing the line.
+      As I expected, he was the first to come.
   </td> </tr>
 </table>
-</ol>
+</p>
 
-<h2> Notes </h2>
+@BGRND{{}}
+<p>
+The form @N{{}}@HI{{@EM{{notoorini}}}} means "in the same manner".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{line}}no@EM{{toorini}},@KJ{{paper}}wo@KJ{{cut}}ttekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please cut the paper following the line.
+  </td> </tr>
+</table>
+</p>
 
 <p>
-The dictionary form is used when the action is going to be performed from now and the @HI{{ta}}-form is used
-when the action has already been performed.
+The suffix @HI{{doori}}, that is @N{{}}@HI{{@EM{{doori}}}} is more common than @N{{}}@HI{{@EM{{notoorini}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{finger^show}}:shiji}}@EM{{doori}}(ni)@KJ{{move}}ite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please move as directed.
+  </td> </tr>
+</table>
 </p>
+
+@BGRND{{}}
+<p>
+If @HI{{@EM{{toori}}}} is followed by the object marker @HI{{wo}}, then it is equivalent to @HI{{@EM{{toori}}nokoto}}
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{think}}tteiru@EM{{toori}}(nokoto)wo@KJ{{write}}ite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please write what you are thinking.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 34).
+<li> @REF{{DOIJG}}. (p. 514).
+<li> @REF{{NKZM-N3G}}. (p. 18).
 </ol>
 
 @include{{"grammar-footer.inc"}}

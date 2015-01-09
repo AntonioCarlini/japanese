@@ -874,7 +874,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @KJ{{road-way}}@HI{{ri}}(@HI{{ni}})                                       </td>
+  <td class="left"> <a href="grammar-toori-ni.html"> @KJ{{road-way}}@HI{{ri}}(@HI{{ni}}) </a>                              </td>
   <td class="left"> DOIJG, p. 514                                                                                          </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>

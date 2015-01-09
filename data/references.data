@@ -16,11 +16,11 @@ NSM-N1L        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 
 NSM-N1V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{word}}@KJ{{glossary}} | Nihongo So-Matome N1 Vocabulary
 NSM-N1G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{sentence}}@KJ{{method}} | Nihongo So-Matome N1 Grammar
 NSM-N1R        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{read}}@KJ{{unravel}} | Nihongo So-Matome N1 Reading Comprehension
-NKZM-N3G       | @KJ{{new}}@KJ{{perfect}}@KJ{{whole}}@KT{{masuta-}} @KJ{{sentence}}@KJ{{method}} N3 | New Kanzen Master Grammar N3
+NKZM-N3G       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sentence^method}} N3 | New Kanzen Master Grammar N3
 NKZM-N3L       | New Kanzen Master N3 Listening |
 NKZM-N2K       | New Kanzen Master N2 Kanji |
 NKZM-N2V       | New Kanzen Master N2 Vocabulary |
-NKZM-N2G       | New Kanzen Master N2 Grammar |
+NKZM-N2G       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sentence^method}} N2 | New Kanzen Master Grammar N2
 NKZM-N2L       | New Kanzen Master N2 Listening |
 NKZM-N2R       | New Kanzen Master N2 Reading Comprehension |
 NKZM-N1K       | New Kanzen Master N1 Kanji |
@@ -31,11 +31,11 @@ NKZM-N1R       | New Kanzen Master N1 Reading Comprehension |
 DOBJG          | Dictionary of Basic Japanese Grammar |
 DOIJG          | Dictionary of Intermediate Japanese Grammar |
 DOAJG          | Dictionary of Advanced Japanese Grammar |
-MNN-TR-I       | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} I. Translation &amp; Grammatical Notes |
-MNN-JP-I       | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} I. Japanese Textbook |
-MNN-TR-II      | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} II. Translation &amp; Grammatical Notes |
-MNN-JP-II      | Minna no Nihongo @KJ{{first*time}}@KJ{{class}} II. Japanese Textbook |
-MNN-INT-TR-I   | Minna no Nihongo @KJ{{in}}@KJ{{class}} I. Translation &amp; Grammatical Notes |
-MNN-INT-JP-I   | Minna no Nihongo @KJ{{in}}@KJ{{class}} I. Japanese Textbook |
-MNN-INT-TR-II  | Minna no Nihongo @KJ{{in}}@KJ{{class}} II. Translation &amp; Grammatical Notes |
-MNN-INT-JP-II  | Minna no Nihongo @KJ{{in}}@KJ{{class}} II. Japanese Textbook |
+MNN-TR-I       | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{first*time^class}} I. Translation &amp; Grammatical Notes | Minna no Nihongo Elementary Level I.
+MNN-JP-I       | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{first*time^class}} I. Japanese Textbook | Minna no Nihongo Elementary Level I.
+MNN-TR-II      | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{first*time^class}} II. Translation &amp; Grammatical Notes | Minna no Nihongo Elementary Level II.
+MNN-JP-II      | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{first*time^class}} II. Japanese Textbook | Minna no Nihongo Elementary Level II.
+MNN-INT-TR-I   | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{in^class}} I. Translation &amp; Grammatical Notes | Minna no Nihongo Intermediate Level I.
+MNN-INT-JP-I   | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{in^class}} I. Japanese Textbook | Minna no Nihongo Intermediate Level I.
+MNN-INT-TR-II  | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{in^class}} II. Translation &amp; Grammatical Notes | Minna no Nihongo Intermediate Level II.
+MNN-INT-JP-II  | @HI{{min'nano}}@KJ{{day^book^word}}@KJ{{in^class}} II. Japanese Textbook | Minna no Nihongo Intermediate Level II.

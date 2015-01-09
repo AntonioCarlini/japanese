@@ -21,12 +21,18 @@
 <li> @Ana{{}}@KJ{{one^direction}}@HI{{de}}
 <li> @Anastem{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
 <li> @N{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
+<li> VN@HI{{no}}@KJ{{one^direction}}@HI{{de}}
+<li> @S1{{}}.@KJ{{one^direction}},@S2{{}}.
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@KJ{{one^direction}}@HI{{de}} is a conjunction used to present two contrasting situations.
+@KJ{{one^direction}}@HI{{de}} is a conjunction used to present two concurrent actions, events or states
+or two contrasting situations.
 Often translated as "while" or "at the same time" or "on the other hand".
 
 <table class="sentence">
@@ -40,7 +46,46 @@ Often translated as "while" or "at the same time" or "on the other hand".
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The particle @HI{{de}} of @KJ{{one^direction}}@HI{{de}} may be present when @KJ{{one^direction}} is connected to another element,
+but it is optional.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{flower^flour^symptoms}}:kafunshou}}ha@FG{{@KJ{{perfect^reign}}:kanchi}}ga@KJ{{difficult}}shii@KJ{{one^direction}},
+      @FG{{@KJ{{beforehand^ward*off}}:yobou}}hashiyasui.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While pollen allergies are hard to cure completely, they are easy to prevent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @KJ{{one^direction}}@HI{{de}} appears as a sentence-initial conjunction, the preceding and following sentences
+present contrasting situations and do not represent concurrent actions.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{feelings^report}}:jouhou}}toiumonoha@FG{{@KJ{{simplicity^simple}}:kantann}}ni@FG{{@KJ{{duplicate^made*in...}}:fukusei}}shi
+      @FG{{@KJ{{together^possess}}:kyouyuu}}surukotogadekiru.@EM{{@KJ{{one^direction}}}},@FG{{@KJ{{thing^logic^bull's*eye}}:butsuriteki}}na@KT{{mono}}
+      no@FG{{@KJ{{location^fit}}:baai}}ha,@FG{{@KJ{{perfect^whole}}:kanzenn}}ni@KJ{{duplicate^made*in...}}surunoha@FG{{@KJ{{contain^easy}}:youi}}dehanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Information is something that can easily be reproduced and shared. Physical objects, on the other hand, are not so easily reproduced.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
+
+<p>
+Sentences in VN@HI{{no@KJ{{one^direction}}(de)}} can be rephrased to use @N{{}}@HI{{suru@KJ{{one^direction}}(de)}}.
+</p>
 
 <h2> References </h2>
 
