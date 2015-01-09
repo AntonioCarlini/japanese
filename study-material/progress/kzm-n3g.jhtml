@@ -37,11 +37,11 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 3 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 4 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{practice^learn}} (3@KJ{{chapter}} @MIDDOT{{}} 4@KJ{{chapter}}) </td>
@@ -53,7 +53,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 5 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class="none"> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 6 @KJ{{chapter}} </td>

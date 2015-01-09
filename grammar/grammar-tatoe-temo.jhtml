@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{tatoe}}}} @Vte{{}} @HI{{@EM{{mo}}}}
-<li> @HI{{@EM{{tatoe}}}} @Aistem{{}} @HI{{@EM{{kutemo}}}}
-<li> @HI{{@EM{{tatoe}}}} @Anastem{{}} @HI{{@EM{{demo}}}}
-<li> @HI{{@EM{{tatoe}}}} @N{{}} @HI{{@EM{{demo}}}}
+<li> @HI{{@EM{{tatoe}}}}@Vte{{}}@HI{{@EM{{mo}}}}
+<li> @HI{{@EM{{tatoe}}}}@Aistem{{}}@HI{{@EM{{kutemo}}}}
+<li> @HI{{@EM{{tatoe}}}}@Anastem{{}}@HI{{@EM{{demo}}}}
+<li> @HI{{@EM{{tatoe}}}}@N{{}}@HI{{@EM{{demo}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,8 +29,7 @@ This construction is used to indicate that even if a certain fact or state exist
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@EM{{tatoe}}@KJ{{circumference}}rino@KJ{{person}}tachinidon'nani@KJ{{anti-^vis-a-vis}}saretemo,
-      bokuha@KT{{puro}}no@KJ{{song^hand}}ninaritai.}}
+      @HI{{@EM{{tatoe}}@KJ{{circumference}}rino@KJ{{person}}tachinidon'nani@KJ{{anti-^vis-a-vis}}sare@EM{{temo}},bokuha@KT{{puro}}no@KJ{{song^hand}}ninaritai.}}
   </td> </tr>
   <tr class="en"> <td>
       Even if everyone around me is against it, I want to become a professional singer.
