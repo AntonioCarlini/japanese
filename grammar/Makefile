@@ -269,6 +269,7 @@ JHTML_SRCS += grammar-shi-infix.jhtml
 JHTML_SRCS += grammar-shinaide-alternative.jhtml
 JHTML_SRCS += grammar-shiru.jhtml
 JHTML_SRCS += grammar-sonkeigo.jhtml
+JHTML_SRCS += grammar-sono-mono.jhtml
 JHTML_SRCS += grammar-sore-de.jhtml
 JHTML_SRCS += grammar-sore-dewa.jhtml
 JHTML_SRCS += grammar-sore-kara.jhtml

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sonomono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sonomono}}" grammar="@HI{{sonomono}}"}}
+
+<body>
+
+<h1>@HI{{sonomono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{sonomono}}}}
+<li> @Anastem{{}}@HI{{@EM{{sonomono}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{sonomono}}}} is preceded by a noun or a noun phrase, the expression refers strictly to the noun and nothing else.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}hakono@FG{{@KJ{{group^body}}:dantai}}no@FG{{@KJ{{suppose^exist}}:sonzai}}@EM{{sonomono}}wo@FG{{@KJ{{doubt}}:utaga}}teiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I doubt this group's very existence.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{sonomono}}}} is preceded by a @HI{{na}}-adjective, the expression refers strictly to the essential quality of the adjective itself..
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice^godown}}:yonekura}}sanha@FG{{@KJ{{sincerity^reality}}:seijitsu}}@EM{{sonomono}}no@FG{{@KJ{{}}:hitogara}}de@KJ{{know}}rareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ms. Yonekura is known for her totally sincere personality.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sonomono}}}} cannot be used with a specific human, but can be used with nouns that represent generic humans.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{wait^interview}}:taiguu}}woyokusurukotomo@FG{{@KJ{{invariably^need}}:hitsuyou}}daga,@FG{{@KJ{{skill^art^someone}}:gijutsusha}}@EM{{sonomono}}
+      wo@FG{{@KJ{{increase}}:fu}}yasukotoga@FG{{@KJ{{hurry^task}}:kyuumu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We need to improve the engineer's working conditions too, but the urgent need is to increase the number of engineers themselves.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{jishin'}} can be used to refer to a specific person.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}@FG{{@KJ{{oneself^somebody}}:jishin'}}hakono@FG{{@KJ{{fit^join}}:gappei}}@FG{{@KJ{{plan}}:an'}}ni@KJ{{special}}
+      @KJ{{question^topic}}wo@FG{{@KJ{{emotion}}:kan'}}jiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I personally don't feel that there is any particular problem ith this merger plan.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 553).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

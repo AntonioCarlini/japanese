@@ -867,9 +867,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{sonomono}}                                                             </td>
+  <td class="left"> <a href="grammar-sono-mono.html">@HI{{sonomono}}</a>                                                    </td>
   <td class="left"> DOAJG, p. 553                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{soredake}}                                                             </td>
