@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{soredake}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{soredake}}" grammar="@HI{{soredake}}"}}
+
+<body>
+
+<h1>@HI{{soredake}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{soredake}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{soredake}}}} is an adverbial phrase that means that the degree of something is proportionate to the degree of whatever
+has been mentioned in the previous sentence or clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{attend^matter}}ha@FG{{@KJ{{suffering^labor}}:kurou}}mo@KJ{{many}}iga,@EM{{soredake}}yarigaimoaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This job is hard work, but to the same extent I also find it rewarding.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{soredake}}}} is usally to be found at the beginning of the second sentence, but it can be found anywhere that an adverb can be.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 557).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

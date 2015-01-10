@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sorenari}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sorenari}}" grammar="@HI{{sorenari}}"}}
+
+<body>
+
+<h1>@HI{{sorenari}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{sorenari}}no}}@N{{}}
+<li> @HI{{@EM{{sorenari}}ni}}@V{{}}
+<li> @HI{{@EM{{sorenari}}ni}}@Ai{{}}
+<li> @HI{{@EM{{sorenari}}ni}}@Anastem{{}}@HI{{da}}
+<li> @HI{{@EM{{sorenari}}ni}}@N{{}}@HI{{da}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorenari}}}} can mean "in one's own way".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{buy}}tta@FG{{@KJ{{nonplussed^consider^write}}:sankousho}}hadoremomina@EM{{sorenari}}ni@FG{{@KJ{{duty}}:yaku}}ni@FG{{@KJ{{stand*up}}:ta}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      All the reference books I have bought have been helpful in their own way.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorenari}}}} can mean "accompanying".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{above}}no@FG{{@KJ{{ground^rank}}:chii}}niireba@EM{{sorenari}}no@FG{{@KJ{{blame^responsibility}}:sekinin'}}gakakattekuru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you are in a high-ranking position, you have to assume the responsibilities that come with it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorenari}}}} can mean "suitable", proper" or "proportionate".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kitsui@KJ{{attend^matter}}niha@EM{{sorenari}}no@FG{{@KJ{{report^repay}}:houshuu}}wo@FG{{@KJ{{pay}}:hara}}ubekida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      For a tough assignment we should pay appropriate compensation.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorenari}}}} can mean "expected".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^year}}@EM{{sorenari}}no@FG{{@KJ{{turn*into^exploits}}:seiseki}}wo@KJ{{above}}gerukotogadekireba,@KJ{{come^year}}
+      @FG{{@KJ{{branch^store^long}}:shitenchou}}ni@FG{{@KJ{{rise*up^advance}}:shoushin'}}dekisouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If I can achieve the expected results this year, it looks like I'll be promoted to branch manager next year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorenari}}}} can mean "which naturally leads to".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}gamin'nani@KJ{{fond}}kareteinainoha@EM{{sorenari}}no@FG{{@KJ{{logic^wherefore}}:riyuu}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a reason no one likes here.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 559).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

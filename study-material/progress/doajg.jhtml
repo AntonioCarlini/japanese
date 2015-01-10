@@ -872,14 +872,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{soredake}}                                                             </td>
+  <td class="left"> <a href="grammar-sore-dake.html">@HI{{soredake}}</a>                                                    </td>
   <td class="left"> DOAJG, p. 557                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{soredarini}}/@HI{{no}}                                                 </td>
+  <td class="left"> <a href="grammar-sore-nari.html">@HI{{sorenarini}}/@HI{{no}}</a>                                        </td>
   <td class="left"> DOAJG, p. 559                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})                                      </td>
