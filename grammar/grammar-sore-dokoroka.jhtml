@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{soredokoroka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{soredokoroka}}" grammar="@HI{{soredokoroka}}"}}
+
+<body>
+
+<h1>@HI{{soredokoroka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}.@HI{{@EM{{soredokoroka}}}}@S2{{}}.
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{soredokoroka}}}} is a conjunction used to state that the degree expressed in the second sentence is far above or below
+that  of the first sentence. The basic meaning is  "as a matter of fact" or "on the contrary".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}ha@FG{{@KJ{{one^coin}}:issen'}}moarimasen.@EM{{soredokoroka}},@FG{{@KJ{{borrow^gold}}:shakkin'}}de@FG{{@KJ{{suffering}}:kuru}}shindeirundesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't have a penny. As a matter of fact, I'm suffering from debts.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When followed by @HI{{ka}}, @HI{{dehanai}} or @HI{{janai}}, @HI{{@EM{{soredokoro}}}} can indicate a flat rejection of
+an invitation, command or request, and is followed by the unusual circumstance that makes it impossible to accept.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{harmony^child}}:kazuko}},@KJ{{hand^transmit}}ttekureru?}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@EM{{soredokoro}}janainoyo.@KJ{{now}}@FG{{@KJ{{inn^topic}}:shukudai}}shinakerebanaranaihodo@KJ{{busy}}shiinda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Kazuko, can you help me?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: No way, I'm busy doing homework, you know.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 420).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
