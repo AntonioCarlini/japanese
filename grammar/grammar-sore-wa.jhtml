@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{soreha}}" grammar="@HI{{soreha}}"}}
+@GRMIDX{{index="@HI{{soreha}}" grammar="@HI{{soreha}} (reference)"}}
 
 <body>
 
@@ -21,8 +21,9 @@
 
 <h2> Definition </h2>
 
+<p>
 @HI{{@EM{{soreha}}}} is used to refer to something that has just been stated.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 

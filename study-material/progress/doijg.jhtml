@@ -724,24 +724,24 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{soremo}}                                                             </td>
+  <td class="left"> <a href="grammar-sore-mo.html"> @HI{{soremo}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 425                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{soreni}}                                                             </td>
+  <td class="left"> <a href="grammar-sore-ni.html"> @HI{{soreni}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 427                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{soreto}}                                                             </td>
+  <td class="left"> <a href="grammar-sore-to.html"> @HI{{soreto}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 431                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{soreha}}                                                             </td>
+  <td class="left"> <a href="grammar-sore-wa-interjection.html"> @HI{{soreha}} </a>                                        </td>
   <td class="left"> DOIJG, p. 434                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{sorezore}}                                                           </td>
