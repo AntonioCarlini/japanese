@@ -89,6 +89,7 @@ JHTML_SRCS += grammar-kaette.jhtml
 JHTML_SRCS += grammar-kagiri-conjunction.jhtml
 JHTML_SRCS += grammar-kagiri-suffix.jhtml
 JHTML_SRCS += grammar-kamo-shiremasen.jhtml
+JHTML_SRCS += grammar-kara-ni-kakete.jhtml
 JHTML_SRCS += grammar-kata.jhtml
 JHTML_SRCS += grammar-kawari-ni.jhtml
 JHTML_SRCS += grammar-kekkou.jhtml
