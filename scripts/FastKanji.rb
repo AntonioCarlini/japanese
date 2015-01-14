@@ -810,7 +810,7 @@ class KD
     "run*alongside" => Kanji.new(795, 27839, ["EN"], ["so.u","-zo.i"], [""], ["run alongside","follow along","run along","lie along"], 6, 1),
     "prize" => Kanji.new(796, 36062, ["SHYOU"], ["ho.meru"], [""], ["prize","reward","praise"], 4, 2),
     "party" => Kanji.new(797, 20826, ["TOU"], ["nakama","mura"], [""], ["party","faction","clique"], 6, 2),
-    "public*chamber" => Kanji.new(798, 22530, ["DOU"], [""], [""], ["public chamber","hall"], 4, 3),
+    "hall" => Kanji.new(798, 22530, ["DOU"], [""], [""], ["hall","public chamber"], 4, 3),
     "usual" => Kanji.new(799, 24120, ["JOU"], ["tsune","toko-"], ["toki","nobu","hi","hita"], ["usual","ordinary","normal","regular"], 5, 2),
     "skirt" => Kanji.new(800, 35059, ["SHYOU"], ["mo","mosuso"], [""], ["skirt"], 9, 0),
     "manipulate" => Kanji.new(801, 25484, ["SHYOU"], ["tenohira","tanagokoro"], [""], ["manipulate","rule","administer","conduct","palm of hand"], 8, 1),
