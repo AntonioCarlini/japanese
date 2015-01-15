@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{limit}}razu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikagirazu}}" grammar="@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}} expresses indicates that something is not limited.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sound^music}}:ongaku}}ha@KT{{kurashiku}}ni@FG{{@KJ{{limit}}:kagi}}razu@FG{{@KJ{{what}}:nan'}}demo@KJ{{listen}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Talking about music, I listen to any music, not just classical music.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{fruit^thing}}:kudamono}}ha@KJ{{what}}ni@FG{{@KJ{{limit}}:kagi}}razu@KJ{{fond}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I like any kind of fruit. <em>(my preference for fruit is not limited)</em>
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 249).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

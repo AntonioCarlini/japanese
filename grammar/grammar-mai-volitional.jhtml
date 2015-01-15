@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{every}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mai}}" grammar="@KJ{{every}}"}}
+
+<body>
+
+<h1>@KJ{{every}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}(non-past)@HI{{@EM{{mai}}}}
+<li> @Aistem{{}}@HI{{ku@EM{{mai}}}}
+<li> @Anastem@HI{{dearu@EM{{mai}}}}
+<li> @N@HI{{dearu@EM{{mai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{mai}}}} is an auxiliary that expresses the writer's negative volition or conjecture ("will probably not").
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{nonplussed^add^someone}}:sankasha}}hasorehodo@KJ{{many}}kuhaarumai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There probably won't be many participants.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{mai}}}} is mainly a written form.
+</p>
+
+<p>
+@1D{{}} verbs occasionally use @Vmasustem{{}}@HI{{@EM{{mai}}}}.
+</p>
+
+<p>
+@HI{{sumai}} is sometimes used in place of @HI{{surumai}} and @HI{{komai}} is sometimes used in place of @HI{{kurumai}}.
+</p>
+
+<p>
+<a href="grammar-you-ka-mai-ka.jhtml">@Vyou{{}}@HI{{ka}}@Vru{{}}@HI{{maika}}</a> is used to express the idea "whether or not".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 161).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
