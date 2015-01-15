@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{naku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naku}}" grammar="@HI{{naku}}"}}
+
+<body>
+
+<h1>@HI{{naku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}@HI{{ku@EM{{naku}}}}
+<li> @Anastem@HI{{deha@EM{{naku}}}}
+<li> @N{{}}@HI{{deha@EM{{naku}}}}
+<li> @V{{}}@HI{{ku@EM{{naku}}naru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{naku}}}} is the continuative form of @HI{{nai}}, used in written Japanese.
+<a href="grammar-nakute.html">@HI{{nakute}}</a>, on the other hand, can be used in both spoken and written Japanese.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When attached to an @HI{{i}}-adjective or @HI{{na}}-adjective, @HI{{@EM{{naku}}}} indicates a reason or a cause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}no@FG{{@KJ{{period^extremity}}:kimatsu}}@FG{{@KJ{{test^verification}}:shiken'}}haamari@KJ{{difficult}}shiku@EM{{naku}},hottoshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Japanese final examination was not very hard and I felt relieved.
+  </td> </tr>
+</table>
+</p>
+<p>
+
+@BGRND{{}}
+<p>
+When attached to a noun @HI{{@EM{{naku}}}} indicates a contrast.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}no@FG{{@KJ{{polish^research}}:kenkyuu}}@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ha@FG{{@KJ{{present^substitue^history}}:gendaishi}}deha@EM{{naku}},
+      @FG{{@KJ{{old^substitue^history}}:kodaishi}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My research area is not modern history but ancient history.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, if the noun is a Sino-Japanese one with an adjectival nature, then it indicates a reason for what follows.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{write}}ita@KJ{{book}}ga@FG{{@KJ{{fond^evaluate}}:kouhyou}}de@EM{{naku}},gakkarishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The book I wrote was not popular, and I felt disappointed.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+A verb cannot precede @HI{{@EM{{naku}}}} unless it is followed by the verb @HI{{naru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{uchino@KJ{{child}}ha@KJ{{book}}wo@KJ{{read}}ma@EM{{naku}}narimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our child doesn't read books any more.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a href="grammar-nakute.html">@HI{{nakute}}</a> does not have this restriction.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{uchino@KJ{{child}}ha@KJ{{book}}wo@KJ{{read}}manakute,@FG{{@KJ{{quandary}}:koma}}rundesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our child doesn't read books and we don't know what to do.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{naku}}}} only modifies adjectives with positive meanings.
+</p>
+
+<p>
+Only nouns that incorporate the idea of an adjective or adverb can be modified by @HI{{@EM{{naku}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 211).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -16,35 +16,55 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{nakanaka}}}}
+<li> @HI{{@EM{{nakanaka}}}}@Ai{{}}
+<li> @HI{{@EM{{nakanaka}}}}@Ana{{}}
+<li> @HI{{@EM{{nakanaka}}}}@V{{}}
+<li> @HI{{@EM{{nakanaka}}}}@ADV{{}}
+<li> @HI{{@EM{{nakanaka}}(no)}}@N{{}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-When accompanied by a negative expression, @HI{{@EM{{nakanaka}}}} means "not easily" or "not as expected."
-</p>
+When accompanied by a positive expression, @HI{{@EM{{nakanaka}}}} indicates that the speaker is impressed.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}deha @EM{{nakanaka}} @KJ{{horse}}wo@KJ{{see}}ru koto ga dekimasenn.}}
+      @HI{{@KT{{buraun}}sanha@KJ{{day^book^word}}ga@EM{{nakanaka}}@KJ{{above^hand}}desune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Brown you are remarkably good at Japanese.
+  </td> </tr>
+</table>
+</p>
+<p>
+When accompanied by a negative expression, @HI{{@EM{{nakanaka}}}} means "not easily" or "not as expected."
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}deha@EM{{nakanaka}}@KJ{{horse}}wo@KJ{{see}}rukotogadekimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       In Japan we can rarely see horses.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+@HI{{@EM{{nakanaka}}}} only modifies adjectives with positive meanings.
+</p>
+
+<p>
+Only nouns that incorporate the idea of an adjective or adverb can be modified by @HI{{@EM{{nakanaka}}}}.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{DOIJG}}. (p. 206).
 </ol>
 
 @include{{"grammar-footer.inc"}}
