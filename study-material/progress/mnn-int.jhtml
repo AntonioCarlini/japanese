@@ -12,7 +12,7 @@
 
 <table class="progress">
 <tr>
-  <th> &nbsp; </th> <th colspan="5"> Studied </th> <th> &nbsp; </th> <th> Grammar </th>
+  <th> &nbsp; </th> <th colspan="5"> Studied </th> <th> &nbsp; </th> <th> SRS </th> <th> Grammar </th>
 </tr>
 <tr>
   <th> Chapter </th>
@@ -21,79 +21,80 @@
   <th> @FG{{@KJ{{tale}}:hana}}@HI{{su}}@MIDDOT{{}}@FG{{@KJ{{hear}}:ki}}@HI{{ku}}</th>
   <th> @FG{{@KJ{{read}}:yo}}@HI{{mu}}@MIDDOT{{}}@FG{{@KJ{{write}}:ka}}@HI{{ku}}</th>
   <th> @FG{{@KJ{{question^topic}}:mondai}} </th>
+  <th> Sentences </th>
   <th> Notes Made </th>
 </tr>
 <tr>
   <td class="">  1 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="">  2 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  3 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  4 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  5 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  6 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  7 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  8 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="">  9 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 10 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 11 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 12 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
