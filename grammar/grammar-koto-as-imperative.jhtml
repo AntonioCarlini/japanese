@@ -23,13 +23,12 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{koto}} occurs in this sentence pattern mainly while giving a caution or when conveying instructions
+@HI{{@EM{{koto}}}} occurs in this sentence pattern mainly while giving a caution or when conveying instructions
 or orders in writing, for example in notices.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{speaketh^crowded^write}}wo@KJ{{write}}ku@KJ{{in*front}}ni@KJ{{pour^idea^write}}ki
-      woyoku@KJ{{read}}mukoto.}}
+      @HI{{@KJ{{speaketh^crowded^write}}wo@KJ{{write}}ku@KJ{{in*front}}ni@KJ{{pour^idea^write}}kiwoyoku@KJ{{read}}mu@EM{{koto}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Before writing on the form, read the instructions carefully.
@@ -43,6 +42,7 @@ or orders in writing, for example in notices.
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 46).
+<li> @REF{{DOIJG}}. (p. 73).
 </ol>
 
 @include{{"grammar-footer.inc"}}

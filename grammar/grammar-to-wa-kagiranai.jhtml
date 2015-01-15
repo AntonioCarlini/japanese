@@ -7,26 +7,26 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{tohakagiranai}}" grammar="@HI{{toha@KJ{{limit}}ranai}}"}}
+@GRMIDX{{index="@HI{{tohakagiranai}}" grammar="@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}"}}
 
 <body>
 
-<h1>@HI{{toha@KJ{{limit}}ranai}}</h1>
+<h1>@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}@HI{{toha@KJ{{limit}}ranai}}
+<li> @Splain{{}}@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@HI{{toha@KJ{{limit}}ranai}} expresses the idea that something is "not always the case" or "not necessarily so".
+@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}} expresses the idea that something is "not always the case" or "not necessarily so".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^life}}gasou@KJ{{say}}ttakarato@KJ{{say}}ttesorega@KJ{{correct}}shiitoha@KJ{{limit}}ranai.}}
+      @HI{{@KJ{{before^life}}gasou@KJ{{say}}ttakarato@KJ{{say}}ttesorega@KJ{{correct}}shiitoha@FG{{@KJ{{limit}}:kagi}}ranai.}}
   </td> </tr>
   <tr class="en"> <td>
       It is not necessarily correct just because a teacher said so.
@@ -37,7 +37,7 @@
 <h2> Notes </h2>
 
 <p>
-The adverbs @KJ{{invariably}}@HI{{zushimo}} and @HI{{itsumo}} can be used with @HI{{toha@KJ{{limit}}ranai}}.
+The adverbs @KJ{{invariably}}@HI{{zushimo}} and @HI{{itsumo}} can be used with @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}.
 </p>
 
 <h2> References </h2>
