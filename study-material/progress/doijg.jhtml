@@ -519,9 +519,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{niha}}                                                               </td>
+  <td class="left"> <a href="grammar-ni-wa.html"> @HI{{niha}} </a>                                                         </td>
   <td class="left"> DOIJG, p. 289                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ni-yotte.html"> @HI{{niyotte}}/@HI{{yori}} </a>                                       </td>
@@ -699,9 +699,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{souninaru}}                                                          </td>
+  <td class="left"> <a href="grammar-sou-ni-naru.html"> @HI{{souninaru}} </a>                                              </td>
   <td class="left"> DOIJG, p. 409                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-sono-ue.html"> @HI{{sono}}@KJ{{above}} </a>                                           </td>

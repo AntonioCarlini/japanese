@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{souninaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{souninaru}}" grammar="@HI{{souninaru}}"}}
+
+<body>
+
+<h1>@HI{{souninaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{souninaru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{souninaru}}}} indicates a non-volitional action that almost happened.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ground^quake}}:jishin'}}de@KJ{{me}}no@KJ{{house}}hatsubare@EM{{souninatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My house almost got destroyed by an earthquake.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{no@EM{{souninaru}}}} often occurs with adverbial phrases such as @HI{{@FG{{@KJ{{dangerous}}:aya}}uku}} ("barely").
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{child^submit}}no@KJ{{time}},@KT{{pu-ru}}de@FG{{@KJ{{dangerous}}:aya}}ukuobore@EM{{souninatta}}kotogaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a child I almost drowned in a swimming pool.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the verb is volitional and the subject is the speaker, @HI{{@EM{{souninaru}}}} cannot be used, unless the entire sentence expresses
+a situation that is beyond human control. In this example sentence, the speaker is not willingly spending counterfeit money.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}hamouchottodesono@FG{{@KJ{{falsehood^tag}}:nisesatsu}}de@KJ{{buy}}i@KJ{{thing}}woshi@EM{{souninatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I almost bought things with that counterfeit money.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the subject is not the speaker, @HI{{@EM{{souninaru}}}} can be used even with a volitional verb.
+This is because whatever may happen to another person is considered to be out of the speaker's control.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{little}}sai@KJ{{child^submit}}ga@KJ{{sake}}wo@KJ{{drink}}mi@EM{{souninatta}}node,@KJ{{mother^parent}}ha@KJ{{hurry}}ide@KJ{{take}}ri@KJ{{above}}geta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because a small child almost drank sake, the mother hastily took it away.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 409).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

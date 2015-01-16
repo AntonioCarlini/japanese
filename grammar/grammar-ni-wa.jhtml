@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niha}}" grammar="@HI{{niha}}"}}
+
+<body>
+
+<h1>@HI{{niha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{niha}}}}
+<li> @N{{}}@HI{{@EM{{niha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@Vru{{}}@HI{{@EM{{niha}}}}, with a non-past verb, indicates a purpose for doing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{bountiful}}:yuta}}kana@KJ{{life^lively}}wo@FG{{@KJ{{escort}}:oku}}ru@EM{{niha}}@FG{{@KJ{{healthy^ease}}:kenkou}}ga@FG{{@KJ{{No.^one}}:daiichi}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In order to lead a rich life, health should be your primary concern.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+In a nominalised form, i.e. @Vru{{}}@HI{{no@EM{{niha}}}}, the sentence carries an identical meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{bountiful}}:yuta}}kana@KJ{{life^lively}}wo@FG{{@KJ{{escort}}:oku}}runo@EM{{niha}}@FG{{@KJ{{healthy^ease}}:kenkou}}ga@FG{{@KJ{{No.^one}}:daiichi}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In order to lead a rich life, health should be your primary concern.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{@EM{{niha}}}}, where @N{{}} indicates an action, indicates a purpose.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{konokabanha@FG{{@KJ{{long^trip}}:nagatabi}}@EM{{niha}}@KJ{{convenience^profit}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This baf is suitable for long travel.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{@EM{{niha}}}}, if @N{{}} does <em>not</em> indicate an action, then the sentence does not indicate a purpose.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{black^plank}}:kokuban'}}@EM{{niha}}@KJ{{Sino-^character}}ga@KJ{{write}}iteatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the blackboard were written kanji.
+  </td> </tr>
+</table>
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 289).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
