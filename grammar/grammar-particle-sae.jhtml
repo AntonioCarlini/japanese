@@ -30,7 +30,7 @@
 @BGRNDSTART{{}}
 @BGRND{{}}
 <p>
-@HI{{@EM{{sae}}}} is a particle meaning "even".
+@HI{{@EM{{sae}}}} is a particle meaning "even". It is used with extreme examples that underline the unexpected degree of the statement.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -79,6 +79,7 @@ means "if only" something had been done a positive result would have followed.
 <li> @REF{{AAP}}. (p. 126).
 <li> @REF{{DOIJG}}. (p. 363).
 <li> @REF{{NKZM-N3G}}. (p. 32).
+<li> @REF{{NKZM-N3G}}. (p. 58).
 </ol>
 
 @include{{"grammar-footer.inc"}}

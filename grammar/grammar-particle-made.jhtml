@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{made}}}} indicates a time limit for an action: "until".
+<a name="time-limit">@HI{{@EM{{made}}}}</a> indicates a time limit for an action: "until".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{made}}}} can indicate the place to which an action extends.
+<a name="extent">@HI{{@EM{{made}}}}</a> can indicate the place to which an action extends.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{made}}}} can indicate the degree of a condition by citing an example.
+<a name="degree">@HI{{@EM{{made}}}}</a> can indicate the degree of a condition by citing an example.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{made}}}} can indicate an extreme condition.
+<a name="extreme">@HI{{@EM{{made}}}}</a> can indicate an extreme condition.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,8 +85,8 @@
 <h2> Notes </h2>
 
 <p>
-When X refers to a duration of time, then "X @HI{{@EM{{made}}}}" means "up to and including X" rather than "until X"
-(the latter usually excludes X).
+When X refers to a duration of time, then "X@HI{{@EM{{made}}}}" means "up to and including X" rather than "until X"
+(the latter usually excludes X in English).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -107,6 +107,7 @@ When X refers to a duration of time, then "X @HI{{@EM{{made}}}}" means "up to an
 <li> @REF{{AAP}}. (p. 65).
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{DOBJG}}. (p. 225).
+<li> @REF{{NKZM-N3G}}. (p. 59).
 </ol>
 
 @include{{"grammar-footer.inc"}}

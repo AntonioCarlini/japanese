@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{demo}}}} is used after nouns to emphasize a hypothetical event ("even" or "even if").
+<a name="even-if">@HI{{@EM{{demo}}}}</a> is used after nouns to emphasize a hypothetical event ("even" or "even if").
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{demo}}}} is used after nouns for emphasis.
+<a name="emphasis">@HI{{@EM{{demo}}}}</a> is used after nouns for emphasis.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{demo}}}} is used after an interrogative word for positive emphasis.
+<a name="positive-emphasis">@HI{{@EM{{demo}}}}</a> is used after an interrogative word for positive emphasis.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@
 
 @BGRND{{}}
 <p>
-Used to mean "whatever" in the construct @HI{{@EM{{don'na}}}} ... @HI{{@EM{{demo}}}}.
+<a name="whatever">Used</a> to mean "whatever" in the construct @HI{{@EM{{don'na}}}} ... @HI{{@EM{{demo}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -81,7 +81,7 @@ Used to mean "whatever" in the construct @HI{{@EM{{don'na}}}} ... @HI{{@EM{{demo
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{demo}}}} is used with two or more nouns which serve as examples of a larger list.
+<a name="example-list">@HI{{@EM{{demo}}}}</a> is used with two or more nouns which serve as examples of a larger list.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -96,7 +96,7 @@ Used to mean "whatever" in the construct @HI{{@EM{{don'na}}}} ... @HI{{@EM{{demo
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{demo}}}} indicates a possibility and translates as "... or something."
+<a name="possibility">@HI{{@EM{{demo}}}}</a> indicates a possibility and translates as "... or something."
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -117,6 +117,7 @@ Used to mean "whatever" in the construct @HI{{@EM{{don'na}}}} ... @HI{{@EM{{demo
 <ol>
 <li> @REF{{AAP}}. (p. 49).
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{NKZM-N3G}}. (p. 58).
 </ol>
 
 @include{{"grammar-footer.inc"}}

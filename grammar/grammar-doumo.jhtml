@@ -26,14 +26,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{doumo}}}} is an adverb indicating that the speaker cannot make a definite statement because of a lack of hard evidence.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{konogoro@EM{{doumo}}@FG{{@KJ{{body}}:karada}}no@FG{{@KJ{{tune^child}}:choushi}}gayokunaindesu.}}
@@ -42,7 +40,37 @@
       I don't know why, but lately I don't feel very well.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{doumo}}}} is used, the final predicate is usually negative.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{sentence}}:bun'}}no@FG{{@KJ{{idea^flavor}}:imi}}ga@EM{{doumo}}yokuwakaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I tried, but I cannot understand the meaning of this sentence very well.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the final predicate is not negative, then the sentence normally ends with @HI{{rashii}} or @HI{{youda}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}ha@EM{{doumo}}@FG{{@KJ{{stern}}:kibi}}shiiyouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That teacher seems strict to me.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -55,6 +83,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 36).
+<li> @REF{{NKZM-N3G}}. (p. 92).
 </ol>
 
 @include{{"grammar-footer.inc"}}

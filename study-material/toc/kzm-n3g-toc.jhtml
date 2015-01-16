@@ -134,13 +134,14 @@
 <h3>A</h3>
 
 <ol>
-<li> @HI{{zoso}}
-<li> @HI{{demo}}
+<li> <a href="grammar-koso.html">@HI{{zoso}}</a>
+<li> <a href="grammar-particle-demo.html#emphasis">@HI{{demo}}</a>
 <li> @HI{{mo}}
-<li> @HI{{sae}}
-<li> @HI{{made}}
+<li> <a href="grammar-particle-sae.html">@HI{{sae}}</a>
+<li> <a href="grammar-particle-made.html#extreme">@HI{{made}}</a>
 <li> @HI{{kurai}}, @HI{{gurai}}
-<li> @HI{{nado}}, @HI{{nanka}}
+<li> <a href="grammar-particle-nado.html">@HI{{nado}}</a>
+<li> <a href="grammar-nanka.html">@HI{{nanka}}</a>
 <li> @HI{{dake}}
 </ol>
 
@@ -221,7 +222,7 @@
 <li> ~@HI{{moshikashitara}}
 <li> ~@HI{{moshikasuruto}}
 <li> ~@HI{{osoraku}}
-<li> ~@HI{{doumo}}
+<li> ~<a href="grammar-doumo.html">@HI{{doumo}}</a>
 <li> ~@HI{{imanimo}}
 <li> ~@HI{{marude}}
 <li> ~@HI{{choudo}}
