@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{wakenihaikanai}}" grammar="@HI{{wakenihaikanai}}"}}
+@GRMIDX{{index="@HI{{naiwakenihaikanai}}" grammar="@HI{{naiwakenihaikanai}}"}}
 
 <body>
 
@@ -91,6 +92,7 @@ for example it is late at night. It is in fact likely that the speaker does know
 <li> @REF{{NKZM-N2G}}. (p. 82).
 <li> @REF{{NKZM-N2G}}. (p. 113).
 <li> @REF{{NKZM-N2G}}. (p. 132).
+<li> @REF{{NKZM-N3G}}. (pp. 74-75).
 </ol>
 
 @include{{"grammar-footer.inc"}}

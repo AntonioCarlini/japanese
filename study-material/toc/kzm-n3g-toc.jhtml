@@ -174,9 +174,9 @@
 <h3>E</h3>
 
 <ol>
-<li> ~@HI{{wakeda}}, ~@HI{{toiuwakeda}}
-<li> ~@HI{{wakenihaikanai}}
-<li> ~@HI{{naiwakenihaikanai}}
+<li> ~<a href="grammar-wake-da.html">@HI{{wakeda}}</a>, ~@HI{{toiuwakeda}}
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html#obligation">@HI{{wakenihaikanai}}</a>
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html#no-choice">@HI{{naiwakenihaikanai}}</a>
 </ol>
 
 <h3>F</h3>
@@ -245,18 +245,18 @@
 <li> ~@HI{{kakeru}}
 <li> ~@HI{{kiru}}
 <li> ~@HI{{taosu}}
-<li> ~@HI{{dasu}}
-<li> ~@HI{{yasui}}
-<li> ~@HI{{nikui}}
+<li> ~<a href="grammar-dasu.html">@HI{{dasu}}</a>
+<li> ~<a href="grammar-yasui.html">@HI{{yasui}}</a>
+<li> ~<a href="grammar-nikui.html">@HI{{nikui}}</a>
 <li> ~@HI{{durai}}
-<li> ~@HI{{sugiru}}
+<li> ~<a href="grammar-sugiru.html">@HI{{sugiru}}</a>
 <li> ~@HI{{sugida}}
-<li> ~@HI{{gachida}}
-<li> ~@HI{{rashii}}
-<li> ~@HI{{ppoi}}
+<li> ~<a href="grammar-gachi.html">@HI{{gachida}}</a>
+<li> ~<a href="gramamr-rashii.html">@HI{{rashii}}</a>
+<li> ~<a href="grammar-ppoi.html".@HI{{ppoi}}</a>
 <li> ~@HI{{noyouda}}
-<li> ~@HI{{mitaida}}
-<li> ~@HI{{darakeda}}
+<li> ~<a href="grammar-mitai.html">@HI{{mitaida}}</a>
+<li> ~<a href="grammar-darake.html">@HI{{darakeda}}</a>
 </ol>
 
 <h2>@KJ{{reality^power^foster^turn*into^compilation}} 
