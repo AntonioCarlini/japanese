@@ -24,8 +24,9 @@
 
 <h2> Definition </h2>
 
+<p>
 In these sentence patterns, @HI{{@EM{{kawari ni}}}} indicates that something (including an action) replaces something else.
-<p></p>
+</p>
 
 <h2> Examples </h2>
 
@@ -70,17 +71,20 @@ In these sentence patterns, @HI{{@EM{{kawari ni}}}} indicates that something (in
 
 <h2> Notes </h2>
 
+<p>
 In @N1{{}} @HI{{@EM{{kawari ni}}}} @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
 @S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
-<p></p>
+</p>
 
+<p>
 In @S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @HI{{@EM{{kawari ni}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
-<p></p>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 184).
+<li> @REF{{NKZM-N3G}}. (p. 25).
 </ol>
 
 @include{{"grammar-footer.inc"}}
