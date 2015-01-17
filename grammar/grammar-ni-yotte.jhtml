@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyotte}}}} can indicate a means for doing something.
+<a name="means">@HI{{@EM{{niyotte}}}}</a> can indicate a means for doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,7 +42,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyotte}}}} can indicate a change in behaviour depending on or according to something.
+<a name="change">@HI{{@EM{{niyotte}}}}</a> can indicate a change in behaviour depending on or according to something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyotte}}}} can indicate a cause for something.
+<a name="cause">@HI{{@EM{{niyotte}}}}</a> can indicate a cause for something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -69,7 +69,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyotte}}}} can be the agent of a passive sentence.
+<a name="passive-agent">@HI{{@EM{{niyotte}}}}</a> can be the agent of a passive sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -84,7 +84,7 @@
 
 @BGRND{{}}
 <p>
-When @HI{{@EM{{niyotte}}}} means dependency on a situation, it can be replaced by @HI{{@EM{{niyori}}}}. The latter is used in written Japanese.
+<a name="niyori-dependency">When</a> @HI{{@EM{{niyotte}}}} means dependency on a situation, it can be replaced by @HI{{@EM{{niyori}}}}. The latter is used in written Japanese.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -98,7 +98,7 @@ When @HI{{@EM{{niyotte}}}} means dependency on a situation, it can be replaced b
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyotte}}}} can also be replaced by @HI{{@EM{{niyori}}}} when it means an instrument by which something is done, unless the instrument
+<a name="niyori-instrument">@HI{{@EM{{niyotte}}}}</a> can also be replaced by @HI{{@EM{{niyori}}}} when it means an instrument by which something is done, unless the instrument
 is concrete and tangible.
 
 <table class="sentence">
@@ -114,7 +114,7 @@ is concrete and tangible.
 
 @BGRND{{}}
 <p>
-The pre-nominal form is @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}.
+<a name="pre-nominal">The pre-nominal</a> form is @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -137,6 +137,7 @@ The pre-nominal form is @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}.
 <ol>
 <li> @REF{{DOIJG}}. (p. 292).
 <li> @REF{{NKZM-N3G}}. (p. 18).
+<li> @REF{{NKZM-N3G}}. (p. 62).
 </ol>
 
 @include{{"grammar-footer.inc"}}

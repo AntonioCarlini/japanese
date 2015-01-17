@@ -148,11 +148,11 @@
 <h3>B</h3>
 
 <ol>
-<li> @HI{{nitsuite}}
-<li> @HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}, @HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}suru}}
-<li> @HI{{niyotte}}
-<li> @HI{{nitotte}}
-<li> @HI{{toshite}}
+<li> <a href="grammar-ni-tsuite.html">@HI{{nitsuite}}</a>
+<li> <a href="grammar-ni-taishite.html">@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}, @HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}suru}}</a>
+<li> <a href="grammar-ni-yotte.html#passive-agent">@HI{{niyotte}}</a>
+<li> <a href="grammar-ni-totte.html">@HI{{nitotte}}</a>
+<li> <a href="grammar-toshite.html">@HI{{toshite}}</a>
 </ol>
 
 <h3>C</h3>

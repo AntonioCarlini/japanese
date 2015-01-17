@@ -17,7 +17,7 @@
 
 <ol>
 <li> @N{{}}@HI{{@EM{{nitsuite}}}}
-<li> @Splain{{}}@HI{{@EM{{nitsuite}}}}
+<li> @Splain{{}}@HI{{koto@EM{{nitsuite}}}}
 <li> @N1{{}}@HI{{@EM{{nitsuite}}no}}@N2{{}}
 <li> @Splain{{}}@HI{{koto@EM{{nitsuite}}no}}@N2{{}}
 </ol>
@@ -58,6 +58,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 280).
+<li> @REF{{NKZM-N3G}}. (p. 62).
 </ol>
 
 @include{{"grammar-footer.inc"}}
