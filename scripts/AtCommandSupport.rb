@@ -268,6 +268,7 @@ $command_to_op = {
   "Vsaseru" => :process_empty_code,
   "Vsasete" => :process_empty_code,
   "Vsaserareru" => :process_empty_code,
+  "NS" => :process_empty_code,
   "Ai" => :process_empty_code,
   "Aistem" => :process_empty_code,
   "Ana" => :process_empty_code,
@@ -594,6 +595,7 @@ def process_empty_code_helper(code)
         when "Vsaseru"     then mark_as_grammar("V#{convert_to_hiragana('saseru')}")            # causative
         when "Vsasete"     then mark_as_grammar("V#{convert_to_hiragana('sasete')}")            # causative-te-form
         when "Vsaserareru" then mark_as_grammar("V#{convert_to_hiragana('saserareru')}")        # causative-passive
+        when "NS"          then mark_as_grammar("N<del>#{convert_to_hiragana('suru')}</del>")   # noun-suru without suru
         when "Ai"          then mark_as_grammar("A-#{convert_to_hiragana('i')}")                # i-adjective
         when "Aistem"      then mark_as_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective

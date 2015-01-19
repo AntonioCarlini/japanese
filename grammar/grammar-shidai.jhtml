@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{next^No.}}:shidai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{shidai}}" grammar="@FG{{@KJ{{next^No.}}:shidai}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{next^No.}}:shidai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@FG{{@KJ{{next^No.}}:shidai}}
+<li> @HI{{irasshari}}@FG{{@KJ{{next^No.}}:shidai}}
+<li> @HI{{osshari}}@FG{{@KJ{{next^No.}}:shidai}}
+<li> @HI{{nasari}}@FG{{@KJ{{next^No.}}:shidai}}
+<li> @NS{{}}@FG{{@KJ{{next^No.}}:shidai}}
+<li> (X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}
+<li> (X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@Vmasu{{}}@FG{{@KJ{{next^No.}}:shidai}} means "as soon as".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{husband}}:otto}}ha@KJ{{attend^matter}}ga@FG{{@KJ{{end}}:o}}wari@FG{{@KJ{{next^No.}}:shidai}},
+      @KJ{{every^day}}massugu@FG{{@KJ{{homecoming^home}}:kitaku}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My husband comes stright home every day, as soon as he has finished his work.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@NS{{}}@FG{{@KJ{{next^No.}}:shidai}} means "as soon as".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{inquire}}:tazu}}neno@FG{{@KJ{{affair}}:ken'}}ha,@FG{{@KJ{{judgement^bright}}:hanmei}}@FG{{@KJ{{next^No.}}:shidai}},
+      go@FG{{@KJ{{take*along^entwine}}:renraku}}@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{above}}:a}}gemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the matter you have inquired about, I will inform you as soon as I find out.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}} means "depends on".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{concerning^post}}:shuushoku}}ha@KT{{kone}}@FG{{@KJ{{next^No.}}:shidai}}desuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Finding employment depends on connections.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}} means "depending on".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{pour^sentence}}:chuumon'}}@FG{{@KJ{{next^No.}}:shidai}}de,
+      don'na@FG{{@KJ{{thing}}:mono}}demo@FG{{@KJ{{fee^logic}}:ryouri}}@FG{{@KJ{{doth}}:shi}}masu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Depending on your orders, I will cook anything you like.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+As noted in the formation, the use of this structure with honorific polite verbs  is irregular.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^beach}}:yamagishi}}@KJ{{before^life}}gairasshari@FG{{@KJ{{next^No.}}:shidai}},
+      @KJ{{meeting^deliberation}}wo@KJ{{commence}}metaito@KJ{{think}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As soon as Professor Yamagishi comes here, I'd like to begin our meeting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+When @FG{{@KJ{{next^No.}}:shidai}} is used, the main clause cannot be in the past tense.
+</p>
+
+<p>
+@Vmasu{{}}@FG{{@KJ{{next^No.}}:shidai}} cannot use @HI{{suru}}, possibly because this would give rise to a difficult to pronounce @HI{{shishi}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 385).
+<li> @REF{{NKZM-N3G}}. (p. 92).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

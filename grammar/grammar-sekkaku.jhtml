@@ -21,12 +21,12 @@
 
 <h2> Definition </h2>
 
-<p>
-@HI{{@EM{{sekkaku}}}} means that a relatively rare sitaution has occurred and one can now take
-advantage of it or, with regret, fail to take advantage of it.
+@BGRNDSTART{{}}
 
-<ol>
-<li>
+@BGRND{{}}
+<p>
+@HI{{@EM{{sekkaku}}}} can mean that a relatively rare situation has occurred and one can now regret, fail to take advantage of it.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{sekkaku}}no@KJ{{day^weekday^day}}nanoni@KJ{{work}}kimashita.}}
@@ -35,7 +35,13 @@ advantage of it or, with regret, fail to take advantage of it.
       Even though Sunday is precious to me, I worked.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sekkaku}}}} can mean that a relatively rare situation has occurred and one can now take
+advantage of it. @HI{{@EM{{sekkaku}}}} is often used with @HI{{nodakara}}, as in this example.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{sekkaku}}ii@KJ{{large^study}}ni@KJ{{enter}}ttanodakarayoku@KJ{{exertion^strong}}tsumoridesu.}}
@@ -44,11 +50,23 @@ advantage of it or, with regret, fail to take advantage of it.
       I entered a good university with great effort, so I intend to study hard.
   </td> </tr>
 </table>
-</ol>
 </p>
 
-<h2> Notes </h2>
+@BGRND{{}}
+<p>
+@HI{{@EM{{sekkaku}}}}@HI{{desukara}} often co-occurs with @HI{{noni}}.
 
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{sekkaku}}@KJ{{meeting}}ni@KJ{{going}}ttanoni,@KJ{{friend^accomplished}}haimasendeshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although I took the trouble to go to see my friend, he wasn't at home.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{sekkaku}}}}@HI{{desuga}} can be used to politely decline an offer.
 
@@ -62,6 +80,7 @@ advantage of it or, with regret, fail to take advantage of it.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{sekkaku}}}}@HI{{desukara}} can be used to politely accept an offer.
 
@@ -75,10 +94,15 @@ advantage of it or, with regret, fail to take advantage of it.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 392).
+<li> @REF{{NKZM-N3G}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}

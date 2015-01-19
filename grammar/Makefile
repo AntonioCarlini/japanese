@@ -274,6 +274,7 @@ JHTML_SRCS += grammar-sasuga.jhtml
 JHTML_SRCS += grammar-sei-de.jhtml
 JHTML_SRCS += grammar-sekkaku.jhtml
 JHTML_SRCS += grammar-shi-infix.jhtml
+JHTML_SRCS += grammar-shidai.jhtml
 JHTML_SRCS += grammar-shinaide-alternative.jhtml
 JHTML_SRCS += grammar-shiru.jhtml
 JHTML_SRCS += grammar-sonkeigo.jhtml

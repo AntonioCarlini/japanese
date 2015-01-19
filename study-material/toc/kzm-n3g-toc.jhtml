@@ -215,7 +215,7 @@
 <li> ~@HI{{mettani}}
 <li> ~@HI{{sudeni}}
 <li> ~@HI{{sukoshizutsu}}
-<li> ~@HI{{shidai}}
+<li> ~<a href="grammar-shidai.html">@FG{{@KJ{{next^No.}}:shidai}}</a>
 <li> ~@HI{{masumasu}}
 <li> ~@HI{{sonouchi}}
 <li> ~@HI{{imani}}
@@ -235,7 +235,7 @@
 <li> ~@HI{{don'nani}}
 <li> ~@HI{{ikura}}
 <li> ~@HI{{tatoe}}
-<li> ~@HI{{sekkaku}}
+<li> ~<a href="grammar-sekkaku.html">@HI{{sekkaku}}</a>
 <li> ~@HI{{tada}}
 </ol>
 
