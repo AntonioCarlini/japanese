@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{zaruwoenai}}" grammar="@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}"}}
+
+<body>
+
+<h1>@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @Vnaistem{{}}@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
+<li> @HI{{sezaruwo@FG{{@KJ{{gain}}:e}}nai}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}} is an auxiliary that indicates that there is no other choice but to do something.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{koreha@KJ{{tall}}kattaga,@FG{{@KJ{{teach^department^write}}:kyoukasho}}dattakara@KJ{{buy}}wazaruwo@FG{{@KJ{{gain}}:e}}nai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Although it was expensive, because it was a textbook I had no choice but to buy it.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+Note that @HI{{suru}} when used with @HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}} becomes @HI{{sezaruwo@FG{{@KJ{{gain}}:e}}nai}}, as shown in the Formation.
+</p>
+
+<p>
+The verb used must be volitional.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 606).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

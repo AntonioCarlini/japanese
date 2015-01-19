@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yatto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{yatto}}" grammar="@HI{{yatto}}"}}
+
+<body>
+
+<h1>@HI{{yatto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{yatto}}}}@Vplain{{}}
+<li> @Vplain{{}}(non-past))@HI{{@EM{{yatto}}}}
+<li> @HI{{@EM{{yatto}}nokotode}}@V{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{yatto}}}} is an adverb that is used to indicate that something desirable has finally been achieved
+or that something desirable will eventually be achieved, although with great difficulty.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{yatto}}}} can be used with @Vplain{{}} when something desirable has finally been acheieved.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{day^book^history}}:nihinshi}}no@FG{{@KJ{{period^extremity}}:kimatsu}}@KT{{repo-to}}wo
+      @EM{{yatto}}@FG{{@KJ{{write}}:ka}}ki@FG{{@KJ{{end}}:o}}eta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I finally finished writing my Japanese history term paper.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{yatto}}}} can be used to mean "barely".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}no@KJ{{day^book^word}}no@FG{{@KJ{{power}}:chikara}}deaisatsuwosurunoga@EM{{yatto}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My Japanese language ability is barely enough to make greetings.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{yatto}}nokotode}} is a set phrase that stresses the time and effort it takes for something positive to be achieved.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{yatto}}nokotode,@KJ{{house}}ga@KJ{{buy}}eta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At long last, I could buy a house.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{yatto}}}} cannot be used for something negative.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 591).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

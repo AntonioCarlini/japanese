@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vmasustem{{}} as a Noun</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{darake}}" grammar="@HI{{darake}}"}}
+
+<body>
+
+<h1>@Vmasustem{{}} as a Noun</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+The @HI{{masu}} stem, @Vmasustem{{}}, of almost any verb (except Sino-Japanese @HI{{suru}} verbs) can be used as a noun.
+Some of these stems are treated as real nouns and appear as separate entries in dictionaries.
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{end}}:o}}warigayokereba,@FG{{@KJ{{whole^body}}:zentai}}gayokunara.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If the end is alright, all becomes good.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Some verb stems can form compounds of the form @Vmasustem{{}}@Vmasustem{{}}. In this case the two stems have a contrastive meaning.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{gold}}:kane}}no@EM{{@FG{{@KJ{{lend}}:ka}}shi@FG{{@KJ{{borrow}}:ka}}ri}}hashinai@FG{{@KJ{{direction}}:hou}}gaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is better not to borrow or lend money. (<em>Neither a lender nor a borrower be.</em>)
+  </td> </tr>
+</table>
+</p>
+
+<p>
+A few @Vmasustem{{}} nouns cannot be used as nouns in isolation but can be used in a compound.
+
+<ul>
+<table border=0>
+<tr> <td> @HI{{@FG{{@KJ{{thing}}:mono}}@FG{{@KJ{{know}}:shi}}ri}}     </td> <td> an erudite person       </td> </tr>
+<tr> <td> @HI{{sozoro@FG{{@KJ{{walk}}:aru}}ki}}                       </td> <td> slow walking            </td> </tr>
+<tr> <td> @HI{{@FG{{@KJ{{dog}}:inu}}@FG{{@KJ{{death}}:ji}}ni}}        </td> <td> die in vain             </td> </tr>
+<tr> <td> @HI{{@FG{{@KJ{{flower}}:hana}}@FG{{@KJ{{see}}:mi}}}}        </td> <td> cherry blossom viewing  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 561).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
