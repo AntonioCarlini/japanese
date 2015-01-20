@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{osoregaaru}}" grammar="@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> @Vplain{{}}@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> @Ai{{}}@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> @Ana{{}}@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> @N{{}}@HI{{dearu@FG{{@KJ{{fear}}:oso}}regaaru}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is used to indicate the speaker's concern that something may happen or may have been or may be the case.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koko@KT{{kafuxereria}}ha@KJ{{eat^lumber}}ga@KJ{{old}}i@FG{{@KJ{{fear}}:oso}}regaaru}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      The ingredients used at this cafeteria may be old.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is modified by a clause it represents a future or past event or a present state.
+</p>
+
+<p>
+A future event:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{other^person}}:tanin}}no@FG{{@KJ{{special^permit^authority}}:tokkyoken'}}wo@FG{{@KJ{{encroach^harm}}:shingai}}suru@FG{{@KJ{{fear}}:oso}}regaaru}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a risk you will infringe on other's patent rights.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+A past event:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{other^person}}:tanin}}no@FG{{@KJ{{special^permit^authority}}:tokkyoken'}}wo@FG{{@KJ{{encroach^harm}}:shingai}}shita@FG{{@KJ{{fear}}:oso}}regaaru}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a risk you infringes on other's patent rights.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+A present state:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{other^person}}:tanin}}no@FG{{@KJ{{special^permit^authority}}:tokkyoken'}}wo@FG{{@KJ{{encroach^harm}}:shingai}}shiteiru@FG{{@KJ{{fear}}:oso}}regaaru}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a risk you are infringing on other's patent rights.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Nouns that modify @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} with @HI{{no}} are usually the stems of @HI{{suru}} verbs (i.e. @NS{{}})
+or nouns that refer to a natural disaster.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{ground^range}}:chiiki}}no@FG{{@KJ{{plains^life}}:yasei}}@KJ{{move^thing}}ha@FG{{@KJ{{discontinue^destroy}}:zetsumetsu}}no@FG{{@KJ{{fear}}:oso}}regaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The wild animals in this region are in danger of becoming extinct.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When X@HI{{ha/ga@N{{}}da}} modifies @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}, @HI{{da}} becomes @HI{{dearu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{take^pull}}:torihiki}}@FG{{@KJ{{inter-^hand}}:aite}}ga@FG{{@KJ{{outburst^power^group}}:bouryokudan'}}dearu@FG{{@KJ{{fear}}:oso}}regaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We're worried that we may be dealing with a Japanese mafia group.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The negative form of @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is @HI{{@FG{{@KJ{{fear}}:oso}}rehanai}}, "there is no fear that".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{other^person}}:tanin}}no@FG{{@KJ{{special^permit^authority}}:tokkyoken'}}wo@FG{{@KJ{{encroach^harm}}:shingai}}suru@FG{{@KJ{{fear}}:oso}}rehanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no fear that you will infringe on others' patent rights.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 509).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
