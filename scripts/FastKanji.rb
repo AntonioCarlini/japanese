@@ -2134,7 +2134,7 @@ class KD
     "bliss" => Kanji.new(2119, 20502, ["KOU"], ["shiawa.se","saiwa.i"], [""], ["bliss","happiness","luck"], 9, 1),
     "temporary*home" => Kanji.new(2120, 20689, ["KYOU"], [""], ["kyuu"], ["temporary home"], 0, 0),
     "partner" => Kanji.new(2121, 20406, ["RYO","RO"], ["tomo"], [""], ["partner","companion","follower"], 8, 0),
-    "deed" => Kanji.new(2122, 20238, ["GI","KI"], ["waza","wazaogi"], [""], ["deed","skill"], 8, 1),
+    "performing*artist" => Kanji.new(2122, 20238, ["GI","KI"], ["waza","wazaogi"], [""], ["performing artist","deed","skill"], 8, 1),
     "integrity" => Kanji.new(2123, 20355, ["KAN"], ["tsuyo.i"], ["akira","tadashi"], ["integrity","strong","just","righteous","peace-loving"], 9, 1),
     "mate" => Kanji.new(2124, 20534, ["GU","KU"], ["tomo.ni"], [""], ["mate","both"], 0, 0),
     "as*it*is" => Kanji.new(2125, 20397, ["JIN"], ["mama","kotogotoku"], [""], ["as it is","because"], 0, 0),

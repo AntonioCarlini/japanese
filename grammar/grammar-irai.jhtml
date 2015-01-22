@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{by*means*of^come}}:irai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@FG{{@KJ{{by*means*of^come}}:irai}}" grammar="@FG{{@KJ{{by*means*of^come}}:irai}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{by*means*of^come}}:irai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}
+<li> @Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}
+<li> <em>demonstrative-adj</em>@FG{{@KJ{{by*means*of^come}}:irai}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@N{{}}@FG{{@KJ{{by*means*of^come}}:irai}} is an adverbial phrase meaning "since @N{{}}", where @N{{}} must refer to a specific time or event in the past.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hit}}:tou}}@KT{{hoteru}}ha,@FG{{@KJ{{bright^reign}}:meiji}}42@KJ{{year}}@FG{{@KJ{{genesis^business}}:sougyou}}
+      @FG{{@KJ{{by*means*of^come}}:irai}}90@KJ{{year}}no@FG{{@KJ{{curriculum^history}}:rekishi}}wo@KJ{{hold}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our hotel boasts a 90-year history, having been established in the 42nd year of Meiji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}} is an adverbial phrase meaning "since X", where "X" refers to a specific time or event in the past.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{life}}:nama}}no@FG{{@KJ{{dance^pedestal}}:butai}}wo@KJ{{see}}te@FG{{@KJ{{by*means*of^come}}:irai}},sukkari
+      @FG{{@KJ{{song^dance^performing*artist}}:kabuki}}no@KT{{fuxan}}ninatteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ever since seeing my first live performance, I've become a big fan of <em>kabuki</em>.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}@HI{{no}} and @Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}@HI{{no}} can modify nouns.
+In both these cases @FG{{@KJ{{by*means*of^come}}:irai}}@HI{{no}} conveys the idea of "the first time" or of a superlative.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{half^guidance^body}}:handoutai}}@FG{{@KJ{{market^location}}:shijou}}ha95@KJ{{year}}@FG{{@KJ{{by*means*of^come}}:irai}}no
+      @FG{{@KJ{{two^beam}}:futaketa}}@FG{{@KJ{{turn*into^long}}:seichou}}ga@FG{{@KJ{{beforehand^fathom}}:yosoku}}sareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Two-digit growth is predicted in the semiconductor market for the first time since 1995.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{empty^harbor}}:kuukou}}@KJ{{commence}}matte@FG{{@KJ{{by*means*of^come}}:irai}}no@FG{{@KJ{{large^matter^happenstance}}:daijiko}}tonatta.}}
+  <tr class="en"> <td>
+      This is the worst accident since this airport opened.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{are}}@FG{{@KJ{{by*means*of^come}}:irai}} assumes that the listener has knowledge about the event. If this is not the case
+@HI{{sore}} is used.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^week}}@FG{{@KJ{{pure^beauty}}:kiyomi}}to@FG{{@KJ{{large}}:oo}}genkawoshita.
+      sore@FG{{@KJ{{by*means*of^come}}:irai}},@KJ{{he^woman}}toha@KJ{{mouth}}wokiiteinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had a ferocious quarrel with Kiyomi last week. Since then, I haven't talked to her.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@FG{{@KJ{{by*means*of^come}}:irai}}@HI{{da}} conveys the idea of "for the first time".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plant^town}}:uemura}}ni@KJ{{meeting}}unoha10@KJ{{year^in*front}}no@KJ{{tall^exam}}no@KT{{kurasu}}@KJ{{meeting}}
+      @FG{{@KJ{{by*means*of^come}}:irai}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This will be the first time since our high school class reunion 10 years ago that I've seen Uemura.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@FG{{@KJ{{by*means*of^come}}:irai}} cannot be used with a time in the recent past.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 154).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
