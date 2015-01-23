@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hitotsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{hitotsu}}" grammar="@HI{{hitotsu}}"}}
+
+<body>
+
+<h1>@HI{{hitotsu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{hitotsu}}@Vte{{}}miyou.}}
+<li> @HI{{@EM{{hitotsu}}@N{{}}demo@Vte{{}}doudesuka.}}
+<li> @HI{{@EM{{hitotsu}}@N{{}}demo@Vta{{}}radoudesuka.}}
+<li> @HI{{@EM{{hitotsu}}@Vmasustem{{}}masenka.}}
+<li> @HI{{@EM{{hitotsu}}@Vte{{}}@KJ{{below}}sai.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{hitotsu}}}} is an adverb that can be used when the speaker intends to do something.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{hitotsu}}@KJ{{day^book}}no@FG{{@KJ{{little^rumor/explanation}}:shousetsu}}no@FG{{@KJ{{England^translate}}:eiyaku}}woyattemiyou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will try to translate a Japanese novel into English.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{hitotsu}}}} is an adverb that can be used when the speaker asks for a favour.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{jaa,kono@KJ{{attend^matter}}wo@EM{{hitotsu}}yattemoraimashouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      So, can I ask for your help with this work?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{hitotsu}}}} is an adverb that can be used when the speaker makes a suggestion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{hitotsu}}@KT{{gorufu}}demoyattaradoudesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How about giving golf a try?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{hitotsu}}}} is an adverb that can be used when the speaker gives someone advice.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{hitotsu}}@FG{{@KJ{{stocks}}:kabu}}demoyattemimasenka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Don't you want to try stocks?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 119).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

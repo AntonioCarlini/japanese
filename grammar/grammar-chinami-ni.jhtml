@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{chinamini}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{chinamini}}" grammar="@HI{{chinamini}}"}}
+
+<body>
+
+<h1>@HI{{chinamini}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{.@EM{{chinamini}}}}@S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{chinamini}}}} is a conjunction used to add an incidental piece of information to what has gone before.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^month}}no26@KJ{{day}}to27@KJ{{day}}ni@KJ{{east^capital}}de@FG{{@KJ{{country^occasion}}:kokusai}}@FG{{@KJ{{build^fabricate}}:kenchiku}}@FG{{@KJ{{study^meeting}}:gakkai}}ga@KJ{{open}}kareta.
+      @KJ{{build^fabricate}}no@FG{{@KJ{{person^interval^change}}:ningenka}}toiunoga@KT{{te-ma}}datta.@EM{{chinamini}}@FG{{@KJ{{nonplussed^add^someone}}:sankasha}}@FG{{@KJ{{number}}:suu}}ha@FG{{@KJ{{promise}}:yaku}}1500
+      @KJ{{person}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the 26<super>th</super> and 27<super>th</super> of last month there was an international conference on architecture in Tokyo.
+      The theme of the conference was "The humanisation of architecture". Incidentally, about 1,500 people attended.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+Note that, unlike @HI{{tokorode}}, which changes the topic,
+@HI{{ka@EM{{chinamini}}}} offers additional information without changing the topic.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 40).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
