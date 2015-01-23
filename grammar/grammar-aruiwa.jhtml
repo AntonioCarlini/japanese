@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{aruiha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{aruiha}}" grammar="@HI{{aruiha}}"}}
+
+<body>
+
+<h1>@HI{{aruiha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}@HI{{(ka),@EM{{aruiha}}@N2{{}}}}
+<li> @V1{{}}@HI{{ka,@EM{{aruiha}}@V2{{}}ka}}
+<li> @Ai{{}}@HI{{ka,@EM{{aruiha}}@Ai{{}}ka}}
+<li> @Anastem{{}}@HI{{ka,@EM{{aruiha}}@Anastem{{}}ka}}
+<li> @HI{{@EM{{aruiha}}@Vplain{{}}(no)kamoshirenai}}
+<li> @HI{{@EM{{aruiha}}@Ai{{}}(no)kamoshirenai}}
+<li> @HI{{@EM{{aruiha}}@Anastem{{}}(no)kamoshirenai}}
+<li> @HI{{@EM{{aruiha}}@N{{}}(no)kamoshirenai}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{aruiha}}}} is a conjunction that marks an alternative.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{bo-rupen'}}ka@EM{{aruiha}}@KJ{{ten*thousand^year^write}}deo@KJ{{write}}ki@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please write either with a ball-point pen or a fountain pen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{aruiha}}}} appears with @HI{{kamoshirenai}}, it denotes a possibility.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{subeteno@FG{{@KJ{{}}:shuukyou}},@EM{{aruiha}}@KT{{animizumi}}kara@KJ{{come}}teirunokamoshirenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Perhaps all religions originate from animism.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+When @HI{{ka@EM{{aruiha}}}} denotes an alternative, it can be replaced by a simple @HI{{ka}}, this, however, is less formal.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 16).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
