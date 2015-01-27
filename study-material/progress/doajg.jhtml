@@ -262,14 +262,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{by*means*of^come}}:irai}}                                         </td>
+  <td class="left"> <a href="grammar-irai.html">@FG{{@KJ{{by*means*of^come}}:irai}}</a>                                     </td>
   <td class="left"> DOAJG, p. 154                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{one^cut}}:issai}} ~ @HI{{nai}}                                    </td>
+  <td class="left"> <a href="grammar-issai-nai.html">@FG{{@KJ{{one^cut}}:issai}} ~ @HI{{nai}}</a>                           </td>
   <td class="left"> DOAJG, p. 159                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{one^daybreak}}:ittann}}                                           </td>

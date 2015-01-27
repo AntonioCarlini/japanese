@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{one^cut}}:issai}}~@HI{{nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@FG{{@KJ{{one^cut}}:issai}}nai" grammar="@FG{{@KJ{{one^cut}}:issai}}~@HI{{nai}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{one^cut}}:issai}}~@HI{{nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FG{{@KJ{{one^cut}}:issai}}@Vnai{{}}
+<li> @FG{{@KJ{{one^cut}}:issai}}@HI{{no}}@N{{}}~@Vnai{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When used with a negative verb, @FG{{@KJ{{one^cut}}:issai}} is an adverb that means "absolutely not" or "not whatsoever".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{fly^going^mechanism}}:hikouki}}@FG{{@KJ{{matter^happenstance}}:jiko}}no@FG{{@KJ{{meadow^cause}}:genin'}}ha
+      @FG{{@KJ{{one^cut}}:issai}}@KJ{{part}}karanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We have no idea what caused the airplane incident.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@FG{{@KJ{{one^cut}}:issai}} can also modify a noun, with @HI{{no}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{steal^difficult}}:tounan'}}ni@FG{{@KJ{{connection}}:kan'}}shiteha@FG{{@KJ{{hit^company}}:tousha}}
+      @FG{{@KJ{{one^cut}}:issai}}no@FG{{@KJ{{blame^responsibility}}:sekinin'}}wo@FG{{@KJ{{defeat}}:o}}imasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our company will not accept any responsibility whatsoever for thefts.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 159).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
