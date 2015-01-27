@@ -287,9 +287,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{say}}@HI{{waba}}:iwaba}}                                          </td>
+  <td class="left"> <a href="grammar-iwaba.html">@KJ{{say}}@HI{{waba}}</a>                                                  </td>
   <td class="left"> DOAJG, p. 170                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{iwayuru}}                                                              </td>
@@ -417,9 +417,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}} ~ @HI{{nai}}                      </td>
+  <td class="left"> <a href="grammar-metta-ni-nai.html">@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}} ~ @HI{{nai}}</a>          </td>
   <td class="left"> DOAJG, p. 252                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{see}}ru:miru}}@HI{{karani}}                                       </td>
@@ -472,19 +472,19 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{mottomo}}                                                              </td>
+  <td class="left"> <a href="grammar-motto-mo.html">@HI{{mottomo}}</a>                                                      </td>
   <td class="left"> DOAJG, p. 288                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{muke}}                                                                 </td>
+  <td class="left"> <a href="grammar-muke.html">@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</a>                                        </td>
   <td class="left"> DOAJG, p. 291                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{mushiro}}                                                              </td>
+  <td class="left"> <a href="grammar-mushiro.html">@HI{{mushiro}}</a>                                                       </td>
   <td class="left"> DOAJG, p. 295                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{naidemonai}}                                                           </td>
@@ -527,9 +527,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nan}} (num + counter) @HI{{mo}}                                        </td>
+  <td class="left"> <a href="grammar-nan-counter-mo.html">@HI{{nan}} (num + counter) @HI{{mo}}</a>                          </td>
   <td class="left"> DOAJG, p. 326                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{what}} ~ @HI{{nai}}:@HI{{nani}} ~ @HI{{nai}}}}                    </td>

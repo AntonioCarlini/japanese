@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mushiro}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mushiro}}" grammar="@HI{{mushiro}}"}}
+
+<body>
+
+<h1>@HI{{mushiro}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @V1{{}}(non past)@HI{{yoriha/mo@EM{{mushiro}}}}@V2{{}}(non past)
+<li> @N1{{}}@HI{{yoriha/mo@EM{{mushiro}}}}@N2{{}}
+<li> @Vru{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}
+<li> @Ai{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}
+<li> @Anastem{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}
+<li> @N{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mushiro}}}} is an adverb used by the speaker to focus on one of two characteristics on which to express a desire, preference etc.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When the characteristics of a person or thing are described the phrase @HI{{toiuyoriha@EM{{mushiro}}}} is used.
+The combinations of tenses before and after this expression cannot be past ~ nonpast, but the other three combinations are permitted.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      (i)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mushiro}}}} can be used to compare two actions.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{summer^rest}}miha@KT{{arubaito}}wosuruyorimo@EM{{mushiro}}@KJ{{sea^outside^trip^going}}gashitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      During the summer holiday I would rather travel abroad than work part time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mushiro}}}} can be used to compare two things.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha,@FG{{@KJ{{healthy^ease^above}}:kenkoujou}},@KJ{{meat}}yori@EM{{mushiro}}@KJ{{fish}}no@KJ{{direction}}wo@FG{{@KJ{{elect}}:era}}bu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I choose fish instead of meat for health reasons.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mushiro}}}} can be used to compare two characteristics of a person or a thing.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@FG{{@KJ{{excel^genius}}:shuusai}}toiuyoriha@EM{{mushiro}}@FG{{@KJ{{toil^power^house}}:doryokuka}}@KJ{{direction}}gaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is a man of effort rather than of great talent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mushiro}}}} can be used to compare two negative situations.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{nothingness^do}}:mui}}no@FG{{@KJ{{life^lively}}:seikatsu}}wosurugurainara,@EM{{mushiro}}@KJ{{death}}nda@KJ{{direction}}gaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I would rather die than live a good-for-nothing life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 295).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

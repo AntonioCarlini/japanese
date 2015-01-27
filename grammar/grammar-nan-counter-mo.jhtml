@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{what}}number+@CTR{{}}@HI{{mo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nan'@CTR{{}}mo}}" grammar="@KJ{{what}}number+@CTR{{}}@HI{{mo}}"}}
+
+<body>
+
+<h1>@KJ{{what}}number+@CTR{{}}@HI{{mo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{what}}number+@CTR{{}}@HI{{mo}}
+<li> @KJ{{what}}number+@CTR{{}}@HI{{mono}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@KJ{{what}}number+@CTR{{}}@HI{{mo}} means that there is a large number of the item being counted.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{day^book}}eha@EM{{@KJ{{what^-times}}mo}}@KJ{{going}}ttakotogaaruga,@FG{{@KJ{{Korea^country}}:kankoku}}to@FG{{@KJ{{in^country}}:chuugoku}}madada.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've been to Japan many times, but I've never been to Korea or China.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the phrase @KJ{{what}}number+@CTR{{}}@HI{{mo}}, the number is optional, but if it is present it must be a multiple of ten.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{every^day}}noyouni@FG{{@KJ{{ego}}@HI{{ga}}@KJ{{house}}:wagaya}}no@FG{{@KJ{{above^empty}}:joukuu}}@KT{{koumori}}ga@EM{{@KJ{{what^ten^equal}}mo}}@FG{{@KJ{{riot^dance}}:ranbu}}suru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Dozens of bats swarm over our house almost every day.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a specific counter is not available, @HI{{ikutsu}} is used.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{saito}}wo@KJ{{see}}ruto,@FG{{@KJ{{}}:kyoumibuka}}i@FG{{@KJ{{}}:douhou}}ga@EM{{ikutsumo}}@KJ{{see}}tsukaruto@KJ{{think}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you look at this site, I think you will find many interesting pieces of information.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @KJ{{what}}number+@CTR{{}}@HI{{mo}} modifies a noun, @HI{{no}} must be used before the noun.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{company}}:sha}}no@KT{{pairotto}}@FG{{@KJ{{camp}}:jin'}}ha}}FAA@HI{{no@FG{{@KJ{{acquiesce^acknowledge}}:shounin'}}wo@FG{{@KJ{{gain}}:e}}teori,
+      @EM{{@KJ{{what^thousand}}}}@KJ{{time^interval}}@EM{{mo}}no@FG{{@KJ{{fly^going}}:hikou}}@FG{{@KJ{{sutra^verification}}:keiken'}}wo@KJ{{hold}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The pilots in our company are FAA accredited and have thousands of hours of flying experience.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 326).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

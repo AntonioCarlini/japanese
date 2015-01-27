@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{muke}}" grammar="@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}
+<li> @N1{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}ke(no)}}@N2{{}}
+<li> @N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keni}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{yonder}}:mu}}ke}} is derived from the verb @HI{{@FG{{@KJ{{yonder}}:mu}}keru}}, meaning "to turn towards; to point".
+@HI{{@FG{{@KJ{{yonder}}:mu}}ke}} is used as a suffix meaning "made for" or "for the use of" and so on.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{gita-}}@FG{{@KJ{{bend^gather}}:kyokushuu}}ha@FG{{@KJ{{first*time^heart^someone}}:shoshinsha}}@FG{{@KJ{{yonder}}:mu}}keda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This collection of guitar pieces is for beginners.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{yonder}}:mu}}keni}} is used to modify verbs.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{D@FG{{@KJ{{company}}:sha}}ha,@FG{{@KJ{{portable^sash}}:keitai}}@FG{{@KJ{{mechanism^utensil}}:kiki}}@EM{{@FG{{@KJ{{yonder}}:mu}}ke}}ni
+      @FG{{@KJ{{little^mould}}:kogata}}@FG{{@KJ{{burn^fee^electricity^pond}}:nenryoudenchi}}wo@FG{{@KJ{{open^departure}}:haitatsu}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      D Company is developing small fuel-cell batteries for portable devices.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{yonder}}:mu}}keno}} is used to modify nouns but the @HI{{no}} is often omitted.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{autumn}}ha@KT{{ajia}}@EM{{@FG{{@KJ{{yonder}}:mu}}ke}}(no))@FG{{@KJ{{products^business^utilize}}:sangyouyou}}@KT{{robotto}}no@FG{{@KJ{{marketing^sell}}:hanbai}}ga@FG{{@KJ{{fond^tune}}:kouchou}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This autumn, sales of industrial robots for Asia have been good.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In @N1{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keno}}@N2{{}}, the @HI{{no}}@N2{{}} is often omitted when it is understood from the context.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{transport^exit}}:yushutsu}}hakoko@FG{{@KJ{{number^year}}:suunen'}}@KJ{{in^country}}@EM{{@FG{{@KJ{{yonder}}:mu}}ke}}(no@KJ{{transport^exit}})ga
+      @FG{{@KJ{{hurry^quick}}:kyuusoku}}@FG{{@KJ{{expand}}:no}}biteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Regarding exports, for the last few years those to China have been increasing rapidly.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 291).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

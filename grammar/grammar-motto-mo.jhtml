@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mottomo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mottomo}}" grammar="@HI{{mottomo}}"}}
+
+<body>
+
+<h1>@HI{{mottomo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{.@EM{{mottomo}}}}@S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mottomo}}}} is an adverb used at the beginning of a subsequent sentence to add a comment to supplement information in the preceding sentence.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{carry^move}}:undou}}ha@KJ{{body}}niiito@KJ{{say}}iwareteiru.@EM{{mottomo}},yarisugiruto@FG{{@KJ{{inverted^merit^fruit}}:gyakukouka}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      They say that exrcise is good for the body, but doing too much will bring about the opposite effect.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The sentence which starts with @HI{{@EM{{mottomo}}}} often ends with a conjunction such as @HI{{ga}} or @HI{{keredo}}, which has the effect of hedging.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{politics^reign^house}}:seijika}}ha@FG{{@KJ{{protect^guard^bull's*eye}}:hoshuteki}}dato@KJ{{say}}wareteiru.@EM{{mottomo}},@KJ{{time^noma}}@FG{{@KJ{{leather^new^bull's*eye}}:kakushinteki}}nakoto
+      wo@KJ{{say}}ukotomoaruga.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That politician is said to be conservative, although he sometimes innovative statements.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 288).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

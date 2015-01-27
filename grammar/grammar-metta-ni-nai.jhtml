@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mettani}}" grammar="@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}}~@Vnai{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}} is used with a negative verb to indicate something with an extremely low frequency, that is, something that occurs rarely. 
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{environs}}:ata}}rideha@FG{{@KJ{{ground^quake}}:jishin'}}ha@FG{{@KJ{{destroy^many}}:metta}}@HI{{ni}}@KJ{{rouse}}kinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Earthquakes seldom occur in this area.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 252).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
