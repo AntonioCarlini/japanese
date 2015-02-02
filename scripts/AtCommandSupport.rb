@@ -6,6 +6,7 @@ require 'DebugSupport.rb'
 require 'HiraganaSupport.rb'
 require 'KanjiSupport.rb'
 require 'KatakanaSupport.rb'
+require 'RadicalSupport.rb'
 require 'RefsSupport.rb'
 
 require 'singleton'
@@ -291,6 +292,7 @@ $command_to_op = {
   "ADV" => :process_empty_code,
   "PRT" => :process_empty_code,
   "RELC" => :process_empty_code,
+  "RD" => :process_radical,
 }
 
 def process_at_commands(text, data_dir)
@@ -354,6 +356,9 @@ def process_at_commands(text, data_dir)
         debug_out("Invoking [#{op}]")
         begin
           result = send(op, mini_stack, object.code())
+        rescue NoMethodError => e
+          # This is probably a missing require or similar
+          raise e
         rescue => e
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
           $stderr.puts("Fatal data: [#{to_handle[0..30]}\n]")
@@ -500,6 +505,20 @@ def process_kanji(stack, unused)
       result << x
     else
       result << DoneText.new(convert_to_kanji(x.text()))
+    end
+  }
+  return collapse_stack(result)
+end
+
+# Process all unprocessed text as radicals
+def process_radical(stack, unused)
+  result = []
+  stack.each() {
+    |x|
+    if x.processed?()
+      result << x
+    else
+      result << DoneText.new(convert_to_radical(x.text()))
     end
   }
   return collapse_stack(result)
