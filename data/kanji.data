@@ -68,7 +68,7 @@
    68 :  0x52fa :  :  SHYAKU :   :   :  {ladle} {one tenth of a go} {dip} :  9 :  1
    69 :  0x7684 : mato :  TEKI :  mato :  ikuha yukuha :  {bull's eye} {mark} {target} {object} {adjective ending} :  4 :  2
    70 :  0x9996 :  :  SHYU :  kubi :  obito kobe su :  {neck} {counter for songs and poems} :  2 :  3
-   71 :  0x4e59 : kinoto oto- :  OTSU ITSU :  oto- kinoto :   :  {the latter} {duplicate} {strange} {witty} {fishhook radical (no. 5)} :  8 :  1
+   71 :  0x4e59 : kinoto oto- :  OTSU ITSU :  oto- kinoto :   :  {fish guts} {the latter} {duplicate} {strange} {witty} {fishhook radical (no. 5)} :  8 :  1
    72 :  0x4e71 : mida mida.ru :  RAN RON :  mida.reru mida.ru mida.su mida osa.meru wata.ru :  ra :  {riot} {war} {disorder} {disturb} :  6 :  2
    73 :  0x76f4 : -nao.su JIKA nao.ki su.gu tada.chini :  CHYOKU JIKI JIKA :  tada.chini nao.su -nao.su nao.ru nao.ki su.gu :  sugu nao nou noo :  {straightaway} {honesty} {frankness} {fix} {repair} :  2 :  2
    74 :  0x5177 :  :  GU :  sona.eru tsubusa.ni :  tomo :  {tool} {utensil} {means} {possess} {ingredients} {counter for armor, suits, sets of furniture} :  3 :  2
@@ -1613,7 +1613,7 @@
  1613 :  0x5357 : minami :  NAN NA :  minami :  nami ha mina mimami :  {south} :  2 :  4
  1614 :  0x6960 : kusu :  NAN DAN ZEN NEN :  kusu kusunoki :  kuzu na :  {camphor tree} :  9 :  1
  1615 :  0x732e :  :  KEN KON :  tatematsu.ru :   :  {offering} {counter for drinks} {present} {offer} :  8 :  1
- 1616 :  0x9580 :  :  MON :  kado to :  jou mo to yuki :  {gate} {counter for cannons} :  2 :  3
+ 1616 :  0x9580 :  :  MON :  kado to :  jou mo to yuki :  {gates} {counter for cannons} :  2 :  3
  1617 :  0x554f : to.i ton :  MON :  to.u to.i ton :  haru :  {question} {ask} {problem} :  3 :  3
  1618 :  0x95b2 : kemi.suru :  ETSU :  kemi.suru :   :  {review} {inspection} {revision} :  8 :  1
  1619 :  0x95a5 :  :  BATSU :   :   :  {clique} {lineage} {pedigree} {faction} {clan} :  8 :  1
@@ -2062,7 +2062,7 @@
  2062 :  0x7ae3 :  :  DOU SHYUN :  warawa warabe owa.ru :   :  {complete a job} {end} {finish} :  9 :  1
  2063 :  0x81fc : usu usudu.ku :  KYUU GU :  usu usudu.ku :   :  {mortar} :  8 :  
  2064 :  0x8205 :  :  KYUU :  shyuuto :   :  {father-in-law} :   :  
- 2065 :  0x9f20 : nezu nezumi :  SO SHYO :  nezumi nezu :   :  {rat} {mouse} {dark gray} :   :  
+ 2065 :  0x9f20 : nezu nezumi :  SO SHYO :  nezumi nezu :   :  {mouse} {rat} {dark gray} :   :  
  2066 :  0x947f :  :  SAKU :  nomi uga.tsu :   :  {chisel} :   :  
  2067 :  0x6bc0 : kobo.tsu :  KI :  kobo.tsu kowa.su kobo.reru kowa.reru soshi.ru yabu.ru :   :  {break} {destroy} {censure} {be chipped} {be scratched} {be broken} {be ruined} :  8 :  
  2068 :  0x8258 :  :  SHYOU SHYUU SOU :  fune :   :  {counter for small boats} :   :  
@@ -2100,7 +2100,7 @@
  2100 :  0x66fc :  :  MAN BAN :  naga.i :   :  {mandala} {wide} {beautiful} :   :  
  2101 :  0x5dfe : chikiri kire :  KIN HUKU :  oo.i chikiri kire :  haba :  {towel} {hanging scroll} {width} {cloth radical (no. 50)} :  8 :  
  2102 :  0x4e91 :  :  UN :  i.u kokoni :   : {quote} {say} :  9 :  
- 2103 :  0x535c : uranai :  BOKU :  urana.u uranai :  ura bokunoto :  {divining} {fortune-telling} {divination or katakana to radical (no. 25)} :  9 :  
+ 2103 :  0x535c : uranai :  BOKU :  urana.u uranai :  ura bokunoto :  {augury} {divining} {fortune-telling} {divination or katakana to radical (no. 25)} :  9 :  
  2104 :  0x55ac :  :  KYOU :  taka.i :  takashi taka : {heaven-high} {high} {boasting} :  9 :  1
  2105 :  0x83ab :  :  BAKU BO MAKU MO NAI :  kure naka.re nashi :   :  {must not} {do not} {be not} :  9 :  
  2106 :  0x502d :  :  WA I :  shitaga.u :  masa yasu yamato :  {Yamato} {ancient Japan} :  9 :  1
@@ -2862,8 +2862,8 @@
  2862 :  0x6b6a : hizu.mu ibitsu iga.mu yuga.mu :  WAI E :  iga.mu ibitsu hizu.mu yuga.mu :   :  {warp} {bend} {strained} {distort} :   :  
  2863 :  0x7fe0 : kawasemi :  SUI :  kawasemi midori :  akira :  {green} :  9 :  1
  2864 :  0x9edb : mayuzumi :  TAI :  mayuzumi :   :  {blackened eyebrows} :  9 :  1
- 2865 :  0x9f0e : kanae :  TEI :  kanae :   :  {three legged kettle} :  9 :  
- 2866 :  0x9e75 : shiochi :  RO :  shio shiochi tate :   :  {salt} :   :  
+ 2865 :  0x9f0e : kanae :  TEI :  kanae :   :  {tripod} {three legged kettle} :  9 :  
+ 2866 :  0x9e75 : shiochi :  RO :  shio shiochi tate :   :  {rocksalt} :   :  
  2867 :  0x9e78 :  :  KEN KAN SEN :  a.ku :   :  {saltiness} :   :  
  2868 :  0x8654 :  :  KEN :  tsutsushi.mu :   :  {respect} :   :  
  2869 :  0x71d5 : tsubakura tsubakuro tsubame :  EN :  tsubame tsubakura tsubakuro :   :  {swallow (bird)} :  9 :  
@@ -2934,7 +2934,7 @@
  2934 :  0x7693 :  :  KOU :  shiro.i hika.ru :  akira teru aki hiro hiroshi :  {white} {clear} :  9 :  1
  2935 :  0x9ece :  :  REI RI :  kuro.i :  re :  {dark} {black} {many} :  9 :  1
  2936 :  0x8d73 :  :  KYUU :   :  take takeshi :  {strong and brave} :  9 :  1
- 2937 :  0x5df2 : hanahada :  I :  ya.mu sude.ni nomi hanahada :  mi :  {stop} {halt} {previously} {already} {long ago} :  9 :  
+ 2937 :  0x5df2 : hanahada :  I :  ya.mu sude.ni nomi hanahada :  mi :  {stop short} {stop} {halt} {previously} {already} {long ago} :  9 :  
  2938 :  0x68d8 :  :  KYOKU :  ibara toge :   :  {thorn} {splinter} {spine} {biting words} {briers} :   :  
  2939 :  0x805a :  :  SHYUU SHYU :  atsu.maru :   :  {assemble} :   :  
  2940 :  0x7526 :  :  SO KOU :  yomigae.ru :   :  {be resuscitated} {revived} :   :  
@@ -3003,5 +3003,5 @@
  3003 :  0x68a7 : aogiri :  GO :  aogiri :   :  {Chinese parasol tree} {phoenix tree} :  9 :  1
  3004 :  0x6b3d :  :  KIN KON :  tsutsushi.mu :  yoshi hitoshi :  {respect} {revere} {long for} :  9 :  1
  3005 :  0x7155 : tanoshi.mu :  KI :  tanoshi.mu hika.ru hiro.i yoroko.bu kawa.ku akiraka hiro.meru hiro.maru :  oki hiroshi :  {shine} :   :  
- 3006 :  0x800c : shika.mo shika.redomo shika.shite shikaruni shiko.ushite :  JI NI :  shiko.ushite shika.shite shika.mo shika.redomo sunawachi nanji shikaruni :   :  {rake} :  9 :  
+ 3006 :  0x800c : shika.mo shika.redomo shika.shite shikaruni shiko.ushite :  JI NI :  shiko.ushite shika.shite shika.mo shika.redomo sunawachi nanji shikaruni :   :  {and then} {rake} :  9 :  
  3007 :  0x639f : okite :  TOU CHYOU JOU TEI :  okite :   :  {law} {commandments} {regulations} :   :  
