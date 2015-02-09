@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{naruhodo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naruhodo}}" grammar="@HI{{naruhodo}}"}}
+
+<body>
+
+<h1>@HI{{naruhodo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{ga,@EM{{naruhodo}}}}@S2{{}}@HI{{.}}
+<li> @HI{{@EM{{naruhodo}},}}@S1{{}}@HI{{ga,}}@S2{{}}@HI{{.}}
+<li> @HI{{@EM{{naruhodo}}ne.}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{naruhodo}} is an adverb used by the speaker to affirm the correctness of something the speaker has seen or heard.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{naruhodo}} can be used following a disjunctive conjunction after a preceding sentence to confirm that the speaker has heard or read and then confirms what is contrary to expectation in the next sentence. 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{book^day}}:honjitsu}}@FG{{@KJ{{stream^above}}:kawakami}}@FG{{@KJ{{pull^beauty}}:hiromi}}[@FG{{@KJ{{coconut*tree^child}}:yashi}}@MIDDOT{{}}@KJ{{coconut*tree^child}}]wo@FG{{@KJ{{read^complete}}:dokuryou}}.
+      @EM{{naruhodo}}@KJ{{mask^white}}i@KJ{{book}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Today I finished reading Hiromi Kawakami's "Yashi, Yashi". It is indeed an interesting book.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{naruhodo}} can be used at the beginning of a sentence that ends in a disjunctive conjunction, then the speaker presents an alternate viewpoint is a subsequent sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{naruhodo}}@KJ{{day^book}}no@FG{{@KJ{{sentence^change}}:bunka}}to@KT{{doitsu}}no@KJ{{sentence^change}}ha@FG{{@KJ{{difference}}:chiga}}tteiru@FG{{@KJ{{spot}}:ten'}}gaaruga,
+      @FG{{@KJ{{reality}}:jitsu}}ha@FG{{@KJ{{together^traffic^spot}}:kyoutsuuten'}}no@KJ{{direction}}ga@KJ{{many}}iyouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Indeed there are differences between Japanese cluture and German culture, but actually it seems that they have more similarities than differences.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{naruhodo}} can be used as a form of interjection, as a form of @KJ{{inter-^hammer}} (@HI{{aizuchi}}).
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{sentence^change}}:bunka}}tte,@FG{{@KJ{{religion^teach}}:shuukyou}}noyouni@FG{{@KJ{{ethics^logic^bull's*eye}}:rinriteki}}na@FG{{@KJ{{decide}}:ki}}mariga@KJ{{many}}idesune.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@EM{{naruhodo}}ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Culture, like religion,has a lot of ethical rules.
+  </td> </tr>
+  <tr class="en"> <td>
+      I see.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 359).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
