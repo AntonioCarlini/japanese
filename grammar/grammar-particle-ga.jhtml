@@ -78,7 +78,7 @@ If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{asoko ni @KJ{{cherry}}@EM{{ga}} @KJ{{blossom}}teimasu.}}
+      @HI{{asoko ni @KJ{{cherry*tree}}@EM{{ga}} @KJ{{blossom}}teimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Over there the cherry trees are blooming.
@@ -177,7 +177,7 @@ subject of the main clause.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mother}}@EM{{ga}}@KJ{{day^book}}nikuru@KJ{{in*front}}ni, kono@KJ{{section^roof}}wokireini
+      @HI{{@KJ{{mama}}@EM{{ga}}@KJ{{day^book}}nikuru@KJ{{in*front}}ni, kono@KJ{{section^roof}}wokireini
       @KJ{{sweep^exclude}}shinakereba naranai.}}
   </td> </tr>
   <tr class="en"> <td>

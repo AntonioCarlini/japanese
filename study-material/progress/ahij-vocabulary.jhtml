@@ -257,7 +257,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{storey^grade}}                                      </td>
+   <td> @KJ{{story^grade}}                                      </td>
    <td> @HI{{kaidann}}                                           </td>
    <td> stairs                                                   </td>
    <td> n                                                        </td>
@@ -372,13 +372,13 @@ td#heading {
    <td> v5t                                                      </td>
  </tr>
  <tr>
-   <td> @HI{{o}}@KJ{{salute}}                                    </td>
+   <td> @HI{{o}}@KJ{{salutation}}                                    </td>
    <td> @HI{{orei}}                                              </td>
    <td> thanking; expression of gratitude                        </td>
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{squat}}@HI{{ru}}                                    </td>
+   <td> @KJ{{sit}}@HI{{ru}}                                    </td>
    <td> @HI{{suwaru}}                                            </td>
    <td> to sit                                                   </td>
    <td> v5i                                                      </td>
@@ -850,7 +850,7 @@ td#heading {
    <td> adv                                                      </td>
  </tr>
  <tr>
-   <td> @KJ{{before^salute}}                                     </td>
+   <td> @KJ{{before^salutation}}                                     </td>
    <td> @HI{{shitsurei}}                                         </td>
    <td> impolite; rude                                           </td>
    <td> n; ns                                                    </td>
@@ -953,7 +953,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{male^hot*water}}                                    </td>
+   <td> @KJ{{man^hot*water}}                                     </td>
    <td> @HI{{otokoyu}}                                           </td>
    <td> men's section in a public bath                           </td>
    <td> n                                                        </td>
@@ -1062,7 +1062,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{nonplussed^add}}@HI{{suru}}                         </td>
+   <td> @KJ{{visit^add}}@HI{{suru}}                         </td>
    <td> @HI{{sankasuru}}                                         </td>
    <td> to participate                                           </td>
    <td> v5s                                                      </td>
@@ -1511,7 +1511,7 @@ td#heading {
    <td> n;ns                                                     </td>
  </tr>
  <tr>
-   <td> @KJ{{stop-over^car}}                                     </td>
+   <td> @KJ{{parking^car}}                                     </td>
    <td> @HI{{chuusha}}                                           </td>
    <td> parking (e.g. car)                                       </td>
    <td> n;ns                                                     </td>
@@ -1662,7 +1662,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{cherry}}                                            </td>
+   <td> @KJ{{cherry*tree}}                                            </td>
    <td> @HI{{sakura}}                                            </td>
    <td> cherry tree                                              </td>
    <td> n                                                        </td>
@@ -1716,7 +1716,7 @@ td#heading {
    <td> v5t                                                      </td>
  </tr>
  <tr>
-   <td> @KJ{{escort}}@HI{{ru}}                                   </td>
+   <td> @KJ{{send*off}}@HI{{ru}}                                   </td>
    <td> @HI{{okuru}}                                             </td>
    <td> to send (a thing)                                        </td>
    <td> v5t                                                      </td>
@@ -1807,7 +1807,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{scatter}}@HI{{rikakeno}}@KJ{{cherry}}               </td>
+   <td> @KJ{{scatter}}@HI{{rikakeno}}@KJ{{cherry*tree}}               </td>
    <td> @HI{{chirikakenosakura}}                                 </td>
    <td> falling cherry blossoms                                  </td>
    <td>                                                          </td>
@@ -1855,7 +1855,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{body^bring*up^building}}                            </td>
+   <td> @KJ{{body^bring*up^Bldg.}}                            </td>
    <td> @HI{{taiikukan}}                                         </td>
    <td> gymnasium                                                </td>
    <td> n                                                        </td>
@@ -2055,7 +2055,7 @@ td#heading {
    <td> i-adj                                                    </td>
  </tr>
  <tr>
-   <td> @KJ{{exit^departure}}                                    </td>
+   <td> @KJ{{exit^discharge}}                                    </td>
    <td> @HI{{shuppatsu}}                                         </td>
    <td> departure                                                </td>
    <td> n;ns                                                     </td>
@@ -2074,7 +2074,7 @@ td#heading {
  </tr>
  <tr> <td colspan="4" id="heading"> <a name="unit20"> Unit 20 </a> </td> </tr>
  <tr>
-   <td> @KJ{{departure}}@HI{{tsu}}                               </td>
+   <td> @KJ{{discharge}}@HI{{tsu}}                               </td>
    <td> @HI{{tatsu}}                                             </td>
    <td> to depart (on a train etc.)                              </td>
    <td> v5i                                                      </td>
@@ -2170,7 +2170,7 @@ td#heading {
    <td> n                                                        </td>
  </tr>
  <tr>
-   <td> @KJ{{see^escort}}@HI{{ru}}                               </td>
+   <td> @KJ{{see^send*off}}@HI{{ru}}                               </td>
    <td> @HI{{miokuru}}                                           </td>
    <td> to see off (to the airport etc.)                         </td>
    <td> v5t                                                      </td>

@@ -48,7 +48,7 @@ If the predicates of the preceding and following clauses are both positive or bo
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{jonsonn}}sanha@KJ{{Sino-^character}}ga@KJ{{write}}kenai@EM{{dokoroka}}@FG{{@KJ{{even^sham^name}}:hiragana}}mo@KJ{{write}}kenai.}}
+      @HI{{@KT{{jonsonn}}sanha@KJ{{Sino-^character}}ga@KJ{{write}}kenai@EM{{dokoroka}}@FG{{@KJ{{even^provisional^name}}:hiragana}}mo@KJ{{write}}kenai.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Johnson is not just unable to write kanji; he cannot write even hiragana. 
@@ -72,7 +72,7 @@ If the predicates of the preceding and following clauses differ (i.e. one is pos
 <p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{sumisu}}sanha@KJ{{day^book^word}}ga@KJ{{write}}kenai@EM{{dokoroka}},@KJ{{day^book^word}}de@FG{{@KJ{{little^rumor/explanation}}:shousetsu}}ga@KJ{{write}}keruguraida.}}
+      @HI{{@KT{{sumisu}}sanha@KJ{{day^book^word}}ga@KJ{{write}}kenai@EM{{dokoroka}},@KJ{{day^book^word}}de@FG{{@KJ{{little^explanation}}:shousetsu}}ga@KJ{{write}}keruguraida.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Smith is far from being unable to write Japanese; he can even write a novel in Japanese.
@@ -94,7 +94,7 @@ If the predicates of the preceding and following clauses differ (i.e. one is pos
 <p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{sumisu}}sanha@KJ{{day^book^word}}no@KJ{{new^hear}}ga@KJ{{read}}meru@EM{{dokoroka}},@FG{{@KJ{{even^sham^name}}:hiragana}}mo@KJ{{know}}ranai.}}
+      @HI{{@KT{{sumisu}}sanha@KJ{{day^book^word}}no@KJ{{new^hear}}ga@KJ{{read}}meru@EM{{dokoroka}},@FG{{@KJ{{even^provisional^name}}:hiragana}}mo@KJ{{know}}ranai.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Smith is far from being able to read a Japanese newspaper; he doesn't even know hiragana.

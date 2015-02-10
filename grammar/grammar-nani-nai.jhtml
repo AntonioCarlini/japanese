@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{what}}~@HI{{nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naninai}}" grammar="@KJ{{what}}~@HI{{nai}}"}}
+@GRMIDX{{index="@HI{{darehitoriinai}}" grammar="@KJ{{who^one^person}}@HI{{inai}}"}}
+
+<body>
+
+<h1>@KJ{{what}}~@HI{{nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{what}}@N1{{}}@HI{{nai}}@N2{{}}
+<li> @KJ{{what}}@N{{}}@HI{{naku}}@V{{}}
+<li> @KJ{{what^one}}@HI{{tsunai}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The @KJ{{what}}~@HI{{nai}} is a structure that indicates that something does not exist at all.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}ha@KJ{{what}}@FG{{@KJ{{negative^oneself^wherefore}}:fujiyuu}}nai@FG{{@KJ{{abundant^blessing}}:yuufuku}}na@FG{{@KJ{{house^courtyard}}:katei}}de@FG{{@KJ{{bring*up}}:soda}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She grew up in a comfortanle and rich family without inconveniences.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@KJ{{who^one^person}}@HI{{inai}} is an expression that indicates the lack of human presence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{doitsu}}no@FG{{@KJ{{one-sided^rice*field^cottage}}:katainaka}}no@KJ{{station}}no@FG{{@KJ{{wait^fit^room}}:machiaishitsu}}niha@KJ{{who^one^person}}inakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There was not a soul in the waiting room of the station in the German countryside.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@KJ{{what}}@N{{}}@HI{{nai}}/@HI{{naku}} is limited to use with the nouns @FG{{@KJ{{negative^convenience}}:fuben'}},
+@FG{{@KJ{{negative^oneself^wherefore}}:fujiyuu}}, @FG{{@KJ{{negative^metropolis^fit}}:futsugou}},
+@FG{{@KJ{{negative^leg}}:fusoku}} and @HI{{@FG{{@KJ{{spirit^concurrently}}:kiga}}ne}}.
+</p>
+
+<p>
+Apart from @HI{{@KJ{{one}}tsu}}, @KJ{{one}} plus a counter cannot be paired with @KJ{{what}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 328).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

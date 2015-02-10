@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{what}}@HI{{toka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nantoka}}" grammar="@KJ{{what}}@HI{{toka}}"}}
+
+<body>
+
+<h1>@KJ{{what}}@HI{{toka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @KJ{{what}}@HI{{toka}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@KJ{{what}}@HI{{toka}} is an adverb that expresses that someone does something somehow or that something somehow occurs.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego^noma}}:wareware}}ha@KJ{{now}}no@KJ{{day^book}}no@FG{{@KJ{{politics^reign^status*quo^but*of*course}}:seijijoukyou}}wo@EM{{@KJ{{what}}@HI{{toka}}}}@FG{{@KJ{{unusual}}:ka}}eyouto
+      @FG{{@KJ{{toil^power}}:doryoku}}shiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are making an effort to change the current Japanese political situation somehow.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@KJ{{what}}@HI{{toka}} can be used with @HI{{suru}} to mean "do something about it".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{night^mould}}:yorugata}}no@FG{{@KJ{{life^lively}}:seikatsu}}wo@EM{{@KJ{{what}}@HI{{toka}}}}shitaito@KJ{{think}}inagara,@KJ{{now}}demosorewo@KJ{{continue}}keru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although I keep thinking I want to do something about my night owl lifestyle, I still stay up late.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@KJ{{what}}@HI{{toka}} can be used with @HI{{naru}} to mean "something somehow happens".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{amerika}}he@KJ{{going}}keba@EM{{@KJ{{what}}@HI{{toka}}}}narunanteiu@KJ{{consider}}ede@KT{{amerika}}ni@KJ{{come}}tatte,
+      @FG{{@KJ{{oneself^part}}:jibun'}}de@EM{{@KJ{{what}}@HI{{toka}}}}shinakya@KJ{{what}}tomonaranainda!}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you come to the US thinking that you'll get by somehow, you will amount to nothing unless you make an effort on your own.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@KJ{{what}}@HI{{toka}} can be used with @HI{{iu}} to mean "someone says something (so that a problem is solved)".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @KJ{{mama^parent}}: @HI{{ara,@FG{{@KJ{{possess^incense}}:yuka}},mou@FG{{@KJ{{exertion^strong}}:benkyou}}ha@FG{{@KJ{{end}}:o}}wattano.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @KJ{{daughter}}: @HI{{@FG{{@KJ{{exertion^strong}}:benkyou}}nankayatteran'naiwayo.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      @KJ{{mama^parent}}: @HI{{mattakushouganai@KJ{{child}}nee. o@KJ{{father}}san,@EM{{@KJ{{what}}toka}}@KJ{{say}}tte@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mother: Oh, Yuka, you've already finished studying?
+  </td> </tr>
+  <tr class="en"> <td>
+      Daughter: I hate studying!
+  </td> </tr>
+  <tr class="en"> <td>
+      Mother: You're impossible! Dear, say something to her!
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 341).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

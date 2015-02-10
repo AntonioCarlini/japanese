@@ -20,7 +20,7 @@ This line contains some hiragana with embedded katakana: @HI{{hiragana @KT{{tere
 
 This line contains some kanji: @KJ{{ichi^dan}} and @KJ{{go^dan}}.</br>
 
-Hiragana with embedded kanji and katakana: @HI{{ashita @KJ{{private}}ha @KJ{{town}}de @KT{{ke-ki}}wo @KJ{{buy}}imasu.}}</br>
+Hiragana with embedded kanji and katakana: @HI{{ashita @KJ{{private}}ha @KJ{{village}}de @KT{{ke-ki}}wo @KJ{{buy}}imasu.}}</br>
 
 Test lines:</br>
 @HI{{ sore ha @KJ{{hon}} desu ka.}}</br>
