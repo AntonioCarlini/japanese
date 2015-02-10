@@ -51,7 +51,7 @@ part of the speaker's in-group. The giver is the subject and the receiver is mar
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sannha@KJ{{tree^village}}sannni@KJ{{flower}}wo@EM{{agemashita}}.}}
+      @HI{{@KJ{{mountain^rice*field}}sannha@KJ{{tree^town}}sannni@KJ{{flower}}wo@EM{{agemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Yamada gave flowers to Ms. Kimura.
@@ -92,7 +92,7 @@ be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{tree^village}}sannha @KJ{{mountain^rice*field}}ni @KJ{{flower}}wo moraimashita.}}
+      @HI{{@KJ{{tree^town}}sannha @KJ{{mountain^rice*field}}ni @KJ{{flower}}wo moraimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Ms. Kimura received flowers from Mr. Yamada.

@@ -42,7 +42,7 @@ someone to whom the speaker is close. Otherwise the speaker should use @Vmasuste
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{tree^village}}san'ni@KJ{{book}}wo@KJ{{lend}}shi@EM{{teagemashita}}.}}
+      @HI{{@KJ{{private}}ha@KJ{{tree^town}}san'ni@KJ{{book}}wo@KJ{{lend}}shi@EM{{teagemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I lent Ms. Kimura a book.
@@ -56,7 +56,7 @@ The expression conveys a sense of gratitude on the part of the receiver.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{mountain^rice*field}}san'ni@KJ{{map^write^building}}no
+      @HI{{@KJ{{private}}ha@KJ{{mountain^rice*field}}san'ni@KJ{{map^write^Bldg.}}no
       @KJ{{electricity^tale^turn^nickname}}wo @KJ{{teach}}e@EM{{temoraimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -73,7 +73,7 @@ action voluntarily.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mother}}ha@KJ{{private}}ni@KT{{se-ta-}}wo@KJ{{escort}}t@EM{{tekuremashita}}.}}
+      @HI{{@KJ{{mama}}ha@KJ{{private}}ni@KT{{se-ta-}}wo@KJ{{send*off}}t@EM{{tekuremashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       My mother sent me a sweater.
@@ -130,7 +130,7 @@ social status performs an action for the receiver.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ha@KJ{{private}}wo@KJ{{station}}de@KJ{{escort}}t@EM{{tekudasaimashita}}.}}
+      @HI{{@KJ{{section^long}}ha@KJ{{private}}wo@KJ{{station}}de@KJ{{send*off}}t@EM{{tekudasaimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The general manager took me to the station.

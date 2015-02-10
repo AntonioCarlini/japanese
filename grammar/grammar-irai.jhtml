@@ -31,7 +31,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{hit}}:tou}}@KT{{hoteru}}ha,@FG{{@KJ{{bright^reign}}:meiji}}42@KJ{{year}}@FG{{@KJ{{genesis^business}}:sougyou}}
+      @HI{{@FG{{@KJ{{hit}}:tou}}@KT{{hoteru}}ha,@FG{{@KJ{{bright^reign}}:meiji}}42@KJ{{year}}@FG{{@KJ{{genesis^profession}}:sougyou}}
       @FG{{@KJ{{by*means*of^come}}:irai}}90@KJ{{year}}no@FG{{@KJ{{curriculum^history}}:rekishi}}wo@KJ{{hold}}tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -103,7 +103,7 @@ In both these cases @FG{{@KJ{{by*means*of^come}}:irai}}@HI{{no}} conveys the ide
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{plant^town}}:uemura}}ni@KJ{{meeting}}unoha10@KJ{{year^in*front}}no@KJ{{tall^exam}}no@KT{{kurasu}}@KJ{{meeting}}
+      @HI{{@FG{{@KJ{{plant^village}}:uemura}}ni@KJ{{meeting}}unoha10@KJ{{year^in*front}}no@KJ{{tall^exam}}no@KT{{kurasu}}@KJ{{meeting}}
       @FG{{@KJ{{by*means*of^come}}:irai}}da.}}
   </td> </tr>
   <tr class="en"> <td>

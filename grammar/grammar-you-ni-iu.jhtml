@@ -28,7 +28,7 @@ This sentence pattern is used to tell someone to do something. In this case the 
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{slope^book}}sanha@KJ{{snow^creek}}ni@KJ{{map^write^building}}no@KJ{{in*front}}de@KJ{{wait}}tteiruyouni@KJ{{say}}tta.}}
+      @HI{{@KJ{{slope^book}}sanha@KJ{{snow^creek}}ni@KJ{{map^write^Bldg.}}no@KJ{{in*front}}de@KJ{{wait}}tteiruyouni@KJ{{say}}tta.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Sakamoto told Yukie to be waiting in front of the library.

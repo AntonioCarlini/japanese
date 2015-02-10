@@ -29,7 +29,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{ego^noma}}:wareware}}ha@KJ{{now}}no@KJ{{day^book}}no@FG{{@KJ{{politics^reign^status*quo^condition}}:seijijoukyou}}wo@EM{{@KJ{{what}}@HI{{toka}}}}@FG{{@KJ{{unusual}}:ka}}eyouto
+      @HI{{@FG{{@KJ{{ego^noma}}:wareware}}ha@KJ{{now}}no@KJ{{day^book}}no@FG{{@KJ{{politics^reign^status*quo^but*of*course}}:seijijoukyou}}wo@EM{{@KJ{{what}}@HI{{toka}}}}@FG{{@KJ{{unusual}}:ka}}eyouto
       @FG{{@KJ{{toil^power}}:doryoku}}shiteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -73,13 +73,13 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{mother^parent}}: @HI{{ara,@FG{{@KJ{{possess^incense}}:yuka}},mou@FG{{@KJ{{exertion^strong}}:benkyou}}ha@FG{{@KJ{{end}}:o}}wattano.}}
+      @KJ{{mama^parent}}: @HI{{ara,@FG{{@KJ{{possess^incense}}:yuka}},mou@FG{{@KJ{{exertion^strong}}:benkyou}}ha@FG{{@KJ{{end}}:o}}wattano.}}
   </td> </tr>
   <tr class="jp"> <td>
       @KJ{{daughter}}: @HI{{@FG{{@KJ{{exertion^strong}}:benkyou}}nankayatteran'naiwayo.}}
   </td> </tr>
   <tr class="jp"> <td>
-      @KJ{{mother^parent}}: @HI{{mattakushouganai@KJ{{child}}nee. o@KJ{{father}}san,@EM{{@KJ{{what}}toka}}@KJ{{say}}tte@KJ{{below}}sai.}}
+      @KJ{{mama^parent}}: @HI{{mattakushouganai@KJ{{child}}nee. o@KJ{{father}}san,@EM{{@KJ{{what}}toka}}@KJ{{say}}tte@KJ{{below}}sai.}}
   </td> </tr>
   <tr class="en"> <td>
       Mother: Oh, Yuka, you've already finished studying?

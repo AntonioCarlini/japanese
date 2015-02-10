@@ -13,12 +13,12 @@
   <tr>
     <td title="@HI{{iku}}"> @KJ{{going}}@HI{{ku}} </td>
     <td>  @HI{{irassharu}}/@HI{{oideninaru}}</td>
-    <td title="@HI{{mairu}}">  @KJ{{nonplussed}}@HI{{ru}} </td>
+    <td title="@HI{{mairu}}">  @KJ{{visit}}@HI{{ru}} </td>
   </tr>
   <tr>
     <td title="@HI{{kuru}}"> @KJ{{come}}@HI{{ru}} </td>
     <td>  @HI{{irassharu}}/@HI{{oideninaru}}</td>
-    <td title="@HI{{mairu}}">  @KJ{{nonplussed}}@HI{{ru}} </td>
+    <td title="@HI{{mairu}}">  @KJ{{visit}}@HI{{ru}} </td>
   </tr>
   <tr>
     <td> @HI{{iru}} </td>

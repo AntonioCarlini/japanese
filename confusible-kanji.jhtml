@@ -77,12 +77,12 @@ table.example th.wide {
  <tr> <td> 1908   </td> <td class="kanji"> @KJ{{interpretation}}             </td> <td> interpretation (was explanation/interpretation)  </td> </tr>
 </table>
 
-<h2> government office, borough/municipality </h2>
+<h2> government office, municipality </h2>
 
 <table class="example">
  <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
  <tr> <td>  591   </td> <td class="kanji"> @KJ{{government*office}}          </td> <td> government office               </td> </tr>
- <tr> <td> 1002   </td> <td class="kanji"> @KJ{{borough/municipality}}       </td> <td> borough/municipality            </td> </tr>
+ <tr> <td> 1002   </td> <td class="kanji"> @KJ{{municipality}}               </td> <td> municipality                    </td> </tr>
 </table>
 
 <h2> repress, resist </h2>
@@ -127,11 +127,11 @@ table.example th.wide {
  <tr> <td> 1963   </td> <td class="kanji"> @KJ{{hawser}}                     </td> <td> hawser                          </td> </tr>
 </table>
 
-<h2> perfume, fragrant                </h2>
+<h2> perfumed, fragrant               </h2>
 
 <table class="example">
  <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase            </th> </tr>
- <tr> <td>  493   </td> <td class="kanji"> @KJ{{perfume}}                    </td> <td> perfume                         </td> </tr>
+ <tr> <td>  493   </td> <td class="kanji"> @KJ{{perfumed}}                   </td> <td> perfumed                        </td> </tr>
  <tr> <td> 1681   </td> <td class="kanji"> @KJ{{fragrant}}                   </td> <td> fragrant                        </td> </tr>
 </table>
 
