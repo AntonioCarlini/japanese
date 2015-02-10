@@ -72,9 +72,9 @@ table.example th.wide {
 <h2> rumor/explanation, explanation/interpretation </h2>
 
 <table class="example">
- <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase           </th> </tr>
- <tr> <td>  499   </td> <td class="kanji"> @KJ{{rumor/explanation}}          </td> <td> rumor/explanation              </td> </tr>
- <tr> <td> 1908   </td> <td class="kanji"> @KJ{{explanation/interpretation}} <td> explanation/interpretation           </td> </tr>
+ <tr> <th> Heisig </th> <th> Kanji                                           </th> <th  class="wide"> Phrase                             </th> </tr>
+ <tr> <td>  499   </td> <td class="kanji"> @KJ{{explanation}}                </td> <td> explanation (was rumor/explanation)              </td> </tr>
+ <tr> <td> 1908   </td> <td class="kanji"> @KJ{{interpretation}}             </td> <td> interpretation (was explanation/interpretation)  </td> </tr>
 </table>
 
 <h2> government office, borough/municipality </h2>

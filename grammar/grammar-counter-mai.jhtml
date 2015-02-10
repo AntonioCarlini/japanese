@@ -2,31 +2,31 @@
 <html>
 
 <head>
-<title>counter @KJ{{sheet*of...}}</title>
+<title>counter @KJ{{a*sheet*of}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="counter @HI{{mai}}" grammar="counter @KJ{{sheet*of...}}"}}
+@GRMIDX{{index="counter @HI{{mai}}" grammar="counter @KJ{{a*sheet*of}}"}}
 
 <body>
 
-<h1>counter @KJ{{sheet*of...}}</h1>
+<h1>counter @KJ{{a*sheet*of}}</h1>
 
 <h2> Formation </h2>
 
 <p>
 <table class="highlight">
-<tr> <td> 1  </td> <td>                   @HI{{ichimai}}</td>    <td> @KJ{{one^sheet*of...}} </td></tr>
-<tr> <td> 2  </td> <td>                   @HI{{nimai}}</td>      <td> @KJ{{two^sheet*of...}} </td></tr>
-<tr> <td> 3  </td> <td>                   @HI{{sannmai}}</td>    <td> @KJ{{three^sheet*of...}} </td></tr>
-<tr> <td> 4  </td> <td>                   @HI{{yonmai}}</td>     <td> @KJ{{four^sheet*of...}} </td></tr>
-<tr> <td> 5  </td> <td>                   @HI{{gomai}}</td>      <td> @KJ{{five^sheet*of...}} </td></tr>
-<tr> <td> 6  </td> <td>                   @HI{{rokumai}}</td>    <td> @KJ{{six^sheet*of...}} </td></tr>
-<tr> <td> 7  </td> <td>                   @HI{{nanamai}}</td>    <td> @KJ{{seven^sheet*of...}} </td></tr>
-<tr> <td> 8  </td> <td>                   @HI{{hachimai}}</td>   <td> @KJ{{eight^sheet*of...}} </td></tr>
-<tr> <td> 9  </td> <td>                   @HI{{kyuumai}}</td>    <td> @KJ{{nine^sheet*of...}} </td></tr>
-<tr> <td> 10 </td> <td>                   @HI{{juumai}}</td>     <td> @KJ{{ten^sheet*of...}} </td></tr>
+<tr> <td> 1  </td> <td>                   @HI{{ichimai}}</td>    <td> @KJ{{one^a*sheet*of}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nimai}}</td>      <td> @KJ{{two^a*sheet*of}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannmai}}</td>    <td> @KJ{{three^a*sheet*of}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonmai}}</td>     <td> @KJ{{four^a*sheet*of}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gomai}}</td>      <td> @KJ{{five^a*sheet*of}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokumai}}</td>    <td> @KJ{{six^a*sheet*of}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanamai}}</td>    <td> @KJ{{seven^a*sheet*of}} </td></tr>
+<tr> <td> 8  </td> <td>                   @HI{{hachimai}}</td>   <td> @KJ{{eight^a*sheet*of}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuumai}}</td>    <td> @KJ{{nine^a*sheet*of}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{juumai}}</td>     <td> @KJ{{ten^a*sheet*of}} </td></tr>
 <tr> <td> ?  </td> <td>                   @HI{{nannmai}}</td>    <td> &nbsp; </td></tr>
 </table>
 </p>
