@@ -1007,9 +1007,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@HI{{to@KJ{{say}}unoha}}:toiunoha}}                                    </td>
+  <td class="left"> <a href="grammar-to-iu-no-wa-reason.html">@FG{{@HI{{to@KJ{{say}}unoha}}:toiunoha}}</a>                  </td>
   <td class="left"> DOAJG, p. 640                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@HI{{to@KJ{{say}}uwazu}} ~ @HI{{to@KJ{{say}}uwazu}}:toiuwazu ~ toiuwazu}}</td>
@@ -1132,9 +1132,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{wherefore}}:yoshi}}                                               </td>
+  <td class="left"> <a href="grammar-yoshi.html">@FG{{@KJ{{wherefore}}:yoshi}}</a>                                          </td>
   <td class="left"> DOAJG, p. 738                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{youto}}/@HI{{ga}}                                                      </td>

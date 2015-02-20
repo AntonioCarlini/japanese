@@ -2627,6 +2627,7 @@ class KD
     "suddenly" => Kanji.new(2788, 38931, ["TON","TOTSU"], ["niwaka.ni","ton.to","tsumazu.ku","tomi.ni","nukazuku"], [""], ["suddenly","immediately","in a hurry"], 8, 0),
     "overturn" => Kanji.new(2789, 39003, ["TEN"], ["itadaki","tao.reru"], [""], ["overturn","summit","origin"], 0, 0),
     "heads*of*grain" => Kanji.new(2790, 31310, ["EI"], ["hosaki","nogi"], [""], ["heads of grain","cleverness"], 0, 0),
+    "about*that*time" => Kanji.new(2791, 38915, ["KEI","KYOU"], ["koro","goro","shibara.ku"], ["koromo"], ["about that time","about","toward"], 8, 0),
     "cheeks" => Kanji.new(2792, 38956, ["KYOU"], ["hoo","hoho"], [""], ["cheeks","jaw"], 0, 0),
     "prejudiced" => Kanji.new(2793, 38935, ["HA"], ["sukobu.ru","katayo.ru"], [""], ["prejudiced","exceedingly"], 9, 0),
     "eulogy" => Kanji.new(2794, 38924, ["SHYOU","JU","YOU"], ["katachi","tata.eru","home.ru"], ["tsugu","nobu"], ["eulogy"], 9, 1),

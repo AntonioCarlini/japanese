@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}noha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiunoha}} (reason)" grammar="@HI{{to@KJ{{say}}noha}} (reason)"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}noha}} (reason)</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{.@EM{{to@KJ{{say}}noha}},}}@S2{{}}
+<li> @S1{{}}@HI{{.}} word/phrase @HI{{@EM{{to@KJ{{say}}noha}},}}@S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}noha}}}} is a phrase used to mean "the reason why I am saying this is ..."
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{come^month}}no@KJ{{trip^going}}ha@FG{{@KJ{{take}}:to}}riyamemasu.@EM{{to@KJ{{say}}unoha}},@KJ{{same}}ji@KJ{{about*that*time}}@KJ{{large^matter}}nao@FG{{@KJ{{guest}}:kyaku}}ga
+      @KJ{{come}}rukotoninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are cancelling next month's trip. I'm saying this because it turns out that we're going to have an important guest around that time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In very polite speech @HI{{to@KJ{{say}}imasu}} can be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{korerano@KT{{ge-mu}}ha,yori@FG{{@KJ{{correct^assurance}}:seikaku}}ni@KJ{{say}}eba,[@FG{{@KJ{{one^person^utilize}}:hitoriyou}}]toiuyori[@KJ{{one^person}}demodekiru@KT{{ge-mu}}]
+      to@KJ{{say}}bekideshou. @EM{{to@KJ{{say}}iimasu}}nowa,korerano@KT{{ge-mu}}hayari@KJ{{direction}}niyotteha@KJ{{two^person}}@FG{{@KJ{{by*means*of^above}}:ijou}}demodekirukaradesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To be more accurate, these games should be called "games that can be played alone" rather than "games for one person". What I mean is, depending on how you play them, these
+      games can be played by two or more people.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}noha}}}} can be used to refer to a word or phrase in the preceding sentence in order to provide a reason for having used that word or phrase.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{propose^plan^write}}:teiansho}}hatabun@FG{{@KJ{{traffic}}:too}}ruto@KJ{{think}}u.tabun@EM{{to@KJ{{say}}unoha}},
+      @FG{{@KJ{{hearing^investigate}}:shinsa}}@FG{{@KJ{{committee^employee}}:iin'}}no@KJ{{in}}ni@KJ{{one^person}}dake@FG{{@KJ{{anti-^vis-a-vis}}:hantai}}surukamoshirenainogairunda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think that the proposal will probably be approved. I say "probably" because ther is one person on the review committee who might oppose it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 640).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
