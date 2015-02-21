@@ -233,7 +233,7 @@ td {
 <tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (A@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="14"> @KJ{{practice^learn}}1 </th> <th colspan="5"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KJ{{practice^learn}}1 </th> <th colspan="7"> @KJ{{practice^learn}}2 </th>
   <th colspan="8"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
@@ -261,7 +261,7 @@ td {
 <tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (B@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="7"> @KJ{{practice^learn}}1 </th> <th colspan="7"> @KJ{{practice^learn}}2 </th>
+  <th colspan="14"> @KJ{{practice^learn}}1 </th> <th colspan="5"> @KJ{{practice^learn}}2 </th>
   <th colspan="8"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
@@ -272,16 +272,265 @@ td {
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th>
 </tr>
 <tr>
+  <td> 2015-02-21 </td>
+
+  <td class="missing"> d </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> d </td>
+  <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="missing"> d </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="missing"> a+b </td> <td class="ok">
+
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
+
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (C@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="4"> @KJ{{practice^learn}}1 </th> <th colspan="12"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9.1 </th> <th> 9.2 </th>
+</tr>
+<tr>
+  <td> 2015-02-21 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a+b+c </td>
+
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{no}} </td>
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="missing"> @KJ{{thing}} </td> <td class="ok">  </td> <td class="missing"> </td>
+  <td class="missing"> @KJ{{thing}} </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok">
+
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (D@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="13"> @KJ{{practice^learn}}1 </th> <th colspan="8"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td> 2015-02-21 </td>
+
+  <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok">
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{youni}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (E@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
   <td>  </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="">
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
 
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (F@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td>  </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (G@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td>  </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (H@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td>  </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (I@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td>  </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+<table class="progress">
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (J@KJ{{chapter}}) </th> </tr>
+<tr>
+  <th> Date </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+</tr>
+<tr>
+  <th>  </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+</tr>
+<tr>
+  <td>  </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
