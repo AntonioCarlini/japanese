@@ -352,30 +352,26 @@ td {
 <tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (E@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
-  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="5"> @KJ{{practice^learn}}2 </th>
+  <th colspan="6"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
-  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
-  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
-  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
-  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-22 </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="missing"> b </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{wake}} </td> <td class="ok"> </td>
+  <td class="ok"> </td>
 </tr>
 </table>
 
@@ -383,30 +379,28 @@ td {
 <tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (F@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="15"> @KJ{{practice^learn}}2 </th>
-  <th colspan="10"> @KT{{wanpointoressun'}} </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="8"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
-  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
+  <th> 8 </th> <th> 9 </th> <th> 10 </th>
+  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
-  <th> 8 </th> <th> 9 </th> <th> 10 </th> <th> 11 </th> <th> 12 </th> <th> 13 </th> <th> 14 </th> <th> 15 </th>
-  <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-22  </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{hajimeru}} </td> <td class="ok"> </td> <td class="missing"> @HI{{natta}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{miteite}} </td> <td class="ok"> </td> <td class="missing"> @HI{{kita}}  </td>
+  <td class="missing"> @HI{{nayamu}} </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td>
 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{tokoro}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
