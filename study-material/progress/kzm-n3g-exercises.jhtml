@@ -525,12 +525,12 @@ td {
   <th colspan="10"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
-  <th> 2015-02-26 </th>
+  <th> </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
   <th> 8 </th> <th> 9 </th> <th> 10 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-26 </td>
 
   <td class="missing"> 3124 </td> <td class="missing"> 4321 </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> 2431 </td> <td class="missing"> 1234 </td>
@@ -545,12 +545,12 @@ td {
   <th colspan="10"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
-  <th> 2015-02-26 </th>
+  <th> </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th>
   <th> 8 </th> <th> 9 </th> <th> 10 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-26 </td>
 
   <td class="missing"> 4123 </td> <td class="missing"> 1234 </td> <td class="missing"> 2314 </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> 3241 </td> <td class="missing"> 3421 </td> <td class="ok"> </td>
@@ -564,11 +564,11 @@ td {
   <th colspan="10"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
-  <th> 2015-02-27 </th>
+  <th> </th>
   <th> 1 </th> <th> 2 </th> <th> 3 </th> <th> 4 </th> <th> 5 </th> <th> 6 </th> <th> 7 </th> <th> 8 </th> <th> 9 </th> <th> 10 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-27 </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> 2314 </td> <td class="ok"> </td>
@@ -643,14 +643,14 @@ td {
   <th colspan="16"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
-  <th> 2015-02-28 </th>
+  <th> </th>
   <th> 1.1 </th> <th> 1.2 </th> <th> 2.1 </th> <th> 2.2 </th>
   <th> 3.1 </th> <th> 3.2 </th> <th> 3.3 </th> <th> 3.4 </th>
   <th> 4.1 </th> <th> 4.2 </th> <th> 4.3 </th> <th> 4.4 </th>
   <th> 5.1 </th> <th> 5.2 </th> <th> 5.3 </th> <th> 5.4 </th>
 </tr>
 <tr>
-  <td>  </td>
+  <td> 2015-02-28 </td>
 
   <td class="ok"> </td> <td class="missing"> @HI{{keshite}} </td> <td class="missing"> @HI{{kineta}} </td> <td class="missing"> @HI{{kita}} </td>
   <td class="ok"> </td> <td class="missing"> @HI{{akeru}} </td> <td class="missing"> @HI{{deta}} </td> <td class="ok"> </td>
