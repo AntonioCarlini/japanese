@@ -2,22 +2,22 @@
 <html>
 
 <head>
-<title>@HI{{to@KJ{{say}}noha}}</title>
+<title>@HI{{to@KJ{{say}}unoha}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{toiunoha}} (reason)" grammar="@HI{{to@KJ{{say}}noha}} (reason)"}}
+@GRMIDX{{index="@HI{{toiunoha}} (reason)" grammar="@HI{{to@KJ{{say}}unoha}} (reason)"}}
 
 <body>
 
-<h1>@HI{{to@KJ{{say}}noha}} (reason)</h1>
+<h1>@HI{{to@KJ{{say}}unoha}} (reason)</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@HI{{.@EM{{to@KJ{{say}}noha}},}}@S2{{}}
-<li> @S1{{}}@HI{{.}} word/phrase @HI{{@EM{{to@KJ{{say}}noha}},}}@S2{{}}
+<li> @S1{{}}@HI{{.@EM{{to@KJ{{say}}unoha}},}}@S2{{}}
+<li> @S1{{}}@HI{{.}} word/phrase @HI{{@EM{{to@KJ{{say}}unoha}},}}@S2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}noha}}}} is a phrase used to mean "the reason why I am saying this is ..."
+@HI{{@EM{{to@KJ{{say}}unoha}}}} is a phrase used to mean "the reason why I am saying this is ..."
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@ In very polite speech @HI{{to@KJ{{say}}imasu}} can be used.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}noha}}}} can be used to refer to a word or phrase in the preceding sentence in order to provide a reason for having used that word or phrase.
+@HI{{@EM{{to@KJ{{say}}unoha}}}} can be used to refer to a word or phrase in the preceding sentence in order to provide a reason for having used that word or phrase.
 
 <table class="sentence">
   <tr class="jp"> <td>

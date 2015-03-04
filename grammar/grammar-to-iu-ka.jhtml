@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}uka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiuuka}}" grammar="@HI{{to@KJ{{say}}uka}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}uka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S{{}}@HI{{@EM{{to@KJ{{say}}uka}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}uka}}}} is a phrase used to restate what has just been said in order to be more accurate or more appropriate.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{oneself^part}}no@FG{{@KJ{{intuition^difference}}:kanchiga}}i@EM{{to@KJ{{say}}uka}},@FG{{@KJ{{negative^pour^idea}}:fuchuui}}deshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was my misunderstanding ... or carelessness, rather.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{nan@EM{{to@KJ{{say}}uka}}}} is used when the speaker cannot come up with a good word or phrase.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{what}}@EM{{to@KJ{{say}}uka}},maa,@FG{{@KJ{{one^species}}:isshu}}no@FG{{@KJ{{gentle^co-}}:dakyou}}deshoune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      WHat should I call it?, Hmm, it's a kind of compromise, I guess.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}uka}}}} can also be used on its own to restate something that the other person has said.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{ano@KJ{{person}}ha@FG{{@KJ{{core}}:oku}}sandesuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{u-n,@EM{{to@KJ{{say}}uka}},@FG{{@KJ{{romance^person}}:koibito}}mitainamondesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Is she your wife?      
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Well, I'd say she's something like a lover.
+  </td> </tr>
+</table>
+</p>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 638).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

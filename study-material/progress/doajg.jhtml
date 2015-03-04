@@ -987,9 +987,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{toitta}}                                                               </td>
+  <td class="left"> <a href="grammar-to-itta.html">@HI{{to@KJ{{say}}tta}}</a>                                               </td>
   <td class="left"> DOAJG, p. 629                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{toittatokoroda}}                                                       </td>
@@ -1002,9 +1002,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@HI{{to@KJ{{say}}uka}}:toiuka}}                                        </td>
+  <td class="left"> <a href="grammar-to-iu-ka.html">@HI{{to@FG{{@KJ{{say}}:i}}uka}}                                         </td>
   <td class="left"> DOAJG, p. 638                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-to-iu-no-wa-reason.html">@FG{{@HI{{to@KJ{{say}}unoha}}:toiunoha}}</a>                  </td>

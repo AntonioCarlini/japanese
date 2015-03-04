@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}tta}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toitta}}" grammar="@HI{{to@KJ{{say}}tta}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}tta}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}}, @N2 ... @HI{{@EM{{to@KJ{{say}}tta}}}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}tta}}}} is compound particles used to introduce examples. It is always followed by a generic noun. The preceding nouns, phrases or sentences are all examples of the generic noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{doitsu}},@KT{{furansu}},@KT{{roshia}}@EM{{toitta}}@FG{{@KJ{{country^noma}}:kuniguni}}ga@FG{{@KJ{{war^contend}}:sensou}}ga@FG{{@KJ{{anti-^vis-a-vis}}:hantai}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Countires such as Germany, France and Russia are opposed to the war.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{to@KJ{{say}}tta}}}} is preceded by a series of nouns, various connectors, such as @HI{{ya}}, @HI{{soshite}} and @HI{{shikamo}} can be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zozodeha}}BMW@HI{{ya@KT{{bentsu}}@EM{{toitta}}@KT{{doitsu}}no@FG{{@KJ{{tall^class^car}}:koukyuusha}}ga@FG{{@KJ{{person^spirit}}:ninki}}gaaruyouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It looks like expensive German cars, such as BMW and Mercedes-Benzes are popular here.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{to@KJ{{say}}tta}}}} is preceded by a single sentence, the implication is that there are other things that are simlar to whatever the sentence describes.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{one^current}}:ichiryuu}}@KJ{{large^study}}kara@KJ{{one^current}}@FG{{@KJ{{graduate^profession}}:sotsugyou}}ni@FG{{@KJ{{concerning^post}}:shuushoku}}sureba
+      @FG{{@KJ{{one^life}}:isshou}}@FG{{@KJ{{relax^peaceful}}:antai}}no@FG{{@KJ{{person^life}}:jinsei}}ga@KJ{{send*off}}reru@EM{{toitta}}@KJ{{consider}}e@KJ{{direction}}ha
+      mou@FG{{@KJ{{traffic^utilize}}:tsuuyou}}shinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is no longer realistic to think that if you graduate from a first-class university and get a job at a first-class company you are set for life.
+  </td> </tr>
+</table>
+</p>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 629).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
