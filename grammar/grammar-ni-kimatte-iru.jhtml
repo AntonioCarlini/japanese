@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{decide}}matteiru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikimatteiru}}" grammar="@HI{{ni@KJ{{decide}}matteiru}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{decide}}:li}}matteiru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{ni@KJ{{decide}}matteiru}}
+<li> @Ai{{}}@HI{{ni@KJ{{decide}}matteiru}}
+<li> @Anastem{{}}@HI{{ni@KJ{{decide}}matteiru}}
+<li> @N{{}}@HI{{ni@KJ{{decide}}matteiru}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}} is used to express the speaker's strong conviction about something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{guest}}:kyaku}}samadatte@KJ{{relax}}ku@KJ{{buy}}itaini@KJ{{decide}}matteirujanaika.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Of course customers want to buy things cheaply.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 395).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -622,9 +622,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{petition}}u:negau}}/@FG{{@KJ{{petition}}imasu:negaimasu}}         </td>
+  <td class="left"> <a href="grammar-negau.html">@FG{{@KJ{{petition}}:nega}}@HI{{u}}/@FG{{@KJ{{petition}}:nega}}@HI{{imasu}}</a> </td>
   <td class="left"> DOAJG, p. 377                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nihikikae}}                                                            </td>
@@ -652,14 +652,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{ni}}@FG{{@KJ{{decide}}matte:kimatte}}@HI{{iru}}                        </td>
+  <td class="left"> <a href="grammar-ni-kimatte-iru.html">@HI{{ni}}@FG{{@KJ{{decide}}:ki}}@HI{{matteiru}}</a>               </td>
   <td class="left"> DOAJG, p. 395                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nikoshitakotohanai}}                                                   </td>
+  <td class="left"> <a href="grammar-ni-koshita-koto-wa-nai.html">@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</a>       </td>
   <td class="left"> DOAJG, p. 398                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{ni}}/@HI{{to}}@HI{{monaruto}}                                          </td>
@@ -682,9 +682,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{ni}}@FG{{@KJ{{apply}}jite:oujite}}/@FG{{@KJ{{apply}}jita:oujita}}      </td>
+  <td class="left"> <a href="grammar-ni-oujite.html">@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}/@HI{{@FG{{@KJ{{apply}}:ou}}jita}}</a> </td>
   <td class="left"> DOAJG, p. 412                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nishiro}}/@HI{{niseyo}}                                                </td>

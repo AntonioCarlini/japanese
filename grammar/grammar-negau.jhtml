@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{petition}}u}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{negau}}" grammar="@HI{{@KJ{{petition}}u}}"}}
+
+<body>
+
+<h1>@HI{{@KJ{{petition}}u}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{o}}@Vmasustem{{}}@HI{{@EM{{@KJ{{petition}}imasu}}}}
+<li> @HI{{go}}@NS{{}}@HI{{@EM{{@KJ{{petition}}imasu}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{petition}}u}}}} is used to form a polite request.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{first*time}}:haji}}meni,koredakeha@FG{{@KJ{{invariably}}:kanara}}zuo@KJ{{read}}mi@KJ{{petition}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please be sure to read at least this part first.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the form @HI{{go}}@NS{{}}@HI{{@EM{{@KJ{{petition}}imasu}}}} the @NS{{}} is a word of Sino-Japanese origin. When a borrowed Western word, such as
+@KT{{adobaisu}} is used, the politeness marker @HI{{go}} is omitted.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{adobaisu}}@KJ{{petition}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please give me advice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@KJ{{petition}}u}} can be used in dependent clauses.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{branch^pay}}:shiharai}}@KJ{{petition}}u@KJ{{time}}haarakajimeo@KJ{{know}}raseitashimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We will inform you in advance when we ask for payment.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The past tense of @HI{{@KJ{{petition}}u}} can be used:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sutra^finish^world}}:keizaikai}}no@FG{{@KJ{{large^honorable^place}}:oogosho}}nozo@FG{{@KJ{{help^power}}:joryoku}}(wo)@KJ{{petition}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We asked for assistance from a powerful figure in the financial world.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 377).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

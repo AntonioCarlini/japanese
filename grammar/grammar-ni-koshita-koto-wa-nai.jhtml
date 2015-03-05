@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{surpass}}shitakotohanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikoshitakotohanai}}" grammar="@HI{{ni@KJ{{surpass}}shitakotohanai}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}(non-past)@HI{{ni@KJ{{surpass}}shitakotohanai}}
+<li> @Ai{{}}(non-past)@HI{{ni@KJ{{surpass}}shitakotohanai}}
+<li> @Anastem{{}}(non-past)(@HI{{dearu}})@HI{{ni@KJ{{surpass}}shitakotohanai}}
+<li> @N{{}}(non-past)(@HI{{dearu}})@HI{{ni@KJ{{surpass}}shitakotohanai}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}} is used to indicate that a state or action is more desirable, if possible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{go-between^interval}}:nakama}}ha@KJ{{many}}ini@KJ{{surpass}}shitakotohanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The more buddies you have, the better.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 398).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
