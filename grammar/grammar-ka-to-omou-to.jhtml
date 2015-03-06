@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@HI{{kato@FG{{@KJ{{think}}:omo}}to}}</title>
+<title>@HI{{kato@FG{{@KJ{{think}}:omo}}uto}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -13,13 +13,13 @@
 
 <body>
 
-<h1>@HI{{kato@FG{{@KJ{{think}}:omo}}to}}</h1>
+<h1>@HI{{kato@FG{{@KJ{{think}}:omo}}uto}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}(past)@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}to}}}}@S2{{}}(non-emotive)
-<li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}to}}}}@S2{{}}(emotive)
+<li> @S1{{}}(past)@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(non-emotive)
+<li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(emotive)
 <li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}ttara}}}}@S2{{}}
 <li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}eba}}}}@S2{{}}
 </ol>
@@ -30,12 +30,12 @@
 
 @BGRND{{}}
 <p>
-When the predicate in @S2{{}} (the main clause) is not emotive and the subjects of both sentences are the same, @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}to}}}}
+When the predicate in @S2{{}} (the main clause) is not emotive and the subjects of both sentences are the same, @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
 carries the meaning of "as soon as" or "the moment that". In this case @S1{{}} must be in the past.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{utmost^near}}:saikinn}}@FG{{@KJ{{texture^cold}}:hadasamu}}kunatta@EM{{kato@FG{{@KJ{{think}}:omo}}to}}@FG{{@KJ{{the*following^day}}:yokujitsu}}@KJ{{warmth}}kakunattarisurua.}}
+      @HI{{@FG{{@KJ{{utmost^near}}:saikinn}}@FG{{@KJ{{texture^cold}}:hadasamu}}kunatta@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}@FG{{@KJ{{the*following^day}}:yokujitsu}}@KJ{{warmth}}kakunattarisurua.}}
   </td> </tr>
   <tr class="en"> <td>
       These days, just when you think it's gotten chilly, the next day it turns warm again.
@@ -45,12 +45,12 @@ carries the meaning of "as soon as" or "the moment that". In this case @S1{{}} m
 
 @BGRND{{}}
 <p>
-When the predicate in @S2{{}} (the main clause) is emotive , @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}to}}}}
+When the predicate in @S2{{}} (the main clause) is emotive , @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
 carries the meaning of "when I think that". In this case @S1{{}} may be either past or nonpast.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{write}}ita@FG{{@KJ{{little^explanation}}:shousetsu}}@FG{{@KJ{{exit^printing*block}}:shuppann}}sareru@EM{{kato@FG{{@KJ{{think}}:omo}}to}}totemo@FG{{@KJ{{glad}}:ure}}shii.}}
+      @HI{{@KJ{{private}}no@KJ{{write}}ita@FG{{@KJ{{little^explanation}}:shousetsu}}@FG{{@KJ{{exit^printing*block}}:shuppann}}sareru@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}totemo@FG{{@KJ{{glad}}:ure}}shii.}}
   </td> </tr>
   <tr class="en"> <td>
       When I think that the novel I wrote will be published, I feel very happy.
@@ -63,7 +63,7 @@ If the context is a recollection, the tense of the main clause can be past.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{write}}ita@FG{{@KJ{{little^explanation}}:shousetsu}}@FG{{@KJ{{exit^printing*block}}:shuppann}}sareru@EM{{kato@FG{{@KJ{{think}}:omo}}to}}totemo@FG{{@KJ{{glad}}:ure}}shikatta.}}
+      @HI{{@KJ{{private}}no@KJ{{write}}ita@FG{{@KJ{{little^explanation}}:shousetsu}}@FG{{@KJ{{exit^printing*block}}:shuppann}}sareru@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}totemo@FG{{@KJ{{glad}}:ure}}shikatta.}}
   </td> </tr>
   <tr class="en"> <td>
       When I think that the novel I wrote will be published, I feel very happy.
