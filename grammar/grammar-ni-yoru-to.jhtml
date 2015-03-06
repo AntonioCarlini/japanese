@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niyoruto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niyoruto}}" grammar="@HI{{niyoruto}}"}}
+
+<body>
+
+<h1>@HI{{niyoruto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{niyoruto}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niyoruto}}}} is a compound particle used to identify the source of the information provided in a sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@FG{{@KJ{{method^rhythm}}:houritsu}}@EM{{niyoruto}}oomune12@KJ{{year-end}}@FG{{@KJ{{un-^full}}:miman'}}no@KJ{{someone}}ha
+      @FG{{@KJ{{apprehend^catch}}:taiho}}no@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ninaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      According to Japanese law, generally, youths under 12 are not subject to arrest.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the information is hearsay, the final predicate ends with @HI{{souda}} or @HI{{toiu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{warm^spring}}:onsen'}}ha@KJ{{trip^going}}@FG{{@KJ{{miscellaneous^document}}:zasshi}}@EM{{niyoruto}}@FG{{@KJ{{gods^sutra^pain}}:shinkeitsuu}}niiisouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      One of the travel magazines said that hot springs are good for arthritis.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the information is conjecture, the final predicate ends with @HI{{rashii}}.
+clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{hear}}itatokoro@EM{{niyoruto}}@KJ{{come^year}}ha@FG{{@KJ{{impart^profession^fee}}:jugyouryou}}ga@KJ{{above}}garurashii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      (Based on what I heard,) it appears that tuition will go up next year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 459).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

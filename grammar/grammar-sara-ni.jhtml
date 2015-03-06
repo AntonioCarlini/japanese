@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sarani}}" grammar="@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ai{{}}
+<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ana{{}}
+<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@ADV{{}}
+<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}number+@CTR{{}}
+<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@V{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}} is an adverb that represents the idea of "additionally" or "further".
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}} modifes a verb or an adjective, it generally means "even more".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{in*front}}no@FG{{@KJ{{flip^translate}}:hon'yaku}}mo@FG{{@KJ{{difficult}}:muzuka}}shikattaga,@KJ{{now^degrees}}noha@FG{{@KJ{{grow*late}}:sara}}ni@KJ{{difficult}}shii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The last translation job was difficult, but this one is even harder.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}} modifies numbers and units, it generaly means "additional".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{grow*late}}:sara}}ni500@KJ{{person}}no@FG{{@KJ{{person^employee}}:jin'in'}}ga@FG{{@KJ{{organize^logic}}:seiri}}sareru@FG{{@KJ{{see^traffic}}:mitoo}}shida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is expected that an additional 500 employees will be laid off.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}} modifies verb it means "further".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{country}}:kuni}}no@FG{{@KJ{{sutra^finish}}:keizai}}ha@FG{{@KJ{{grow*late}}:sara}}ni@FG{{@KJ{{bad^change}}:akka}}shisouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It looks like our nation's economy will worsen still further.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}} modifies a sentence it means "further", "furthermore" or "in addition".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{open^store^day}}:kaitenbi}}no@FG{{@KJ{{come^location^someone}}:raijousha}}nihamorenaku@FG{{@KJ{{scribe^wish^goods}}:kinenhin'}}wo@FG{{@KJ{{distinction}}:sa}}shi@FG{{@KJ{{above}}:a}}gemasu.
+      @FG{{@KJ{{grow*late}}:sara}}ni,@FG{{@KJ{{pluck^elect}}:chuusen'}}de50@FG{{@KJ{{name}}:mei}}no@FG{{@KJ{{direction}}:kata}}ni@FG{{@KJ{{sideways^revolve}}:outen'}}no@FG{{@KJ{{make*a*deal^goods^ticket}}:shouhinken'}}ga
+      @FG{{@KJ{{hit}}:a}}tarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We'll give a commemorative souvenir to all customers on opening day. In addition we'll give a gift certificate for our store to 50 people selected in a drawing.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 543).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

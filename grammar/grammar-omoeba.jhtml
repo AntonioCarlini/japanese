@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{think}}eba}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{omoeba}}" grammar="@HI{{@KJ{{think}}eba}}"}}
+
+<body>
+
+<h1>@HI{{@KJ{{think}}eba}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@KJ{{think}}eba}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{@KJ{{think}}eba}}}} is an adverb used to indicate feelings of nostalgia or regret when recollecting one's past experiences.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{think}}eba}},@KJ{{large^study^time^substitute}}hatotemo@KJ{{music}}shikatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I come to think of it, I had a great time when I was in college.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 492).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
