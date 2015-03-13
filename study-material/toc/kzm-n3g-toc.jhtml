@@ -206,13 +206,13 @@
 <h3>I</h3>
 
 <ol>
-<li> ~@HI{{mattaku}}
-<li> ~@HI{{sukoshi}}
+<li> ~<a href="grammar-mattaku.html">@HI{{mattaku}}</a>
+<li> ~<a href="grammar-sukoshi.html">@HI{{@KJ{{few}}shimo}}</a>
 <li> ~@HI{{son'nani}}
 <li> ~@HI{{sou}}
 <li> ~@HI{{taishite}}
-<li> ~@HI{{kesshite}}
-<li> ~@HI{{mettani}}
+<li> ~<a href="grammar-kesshite.html">@HI{{kesshite}}</a>
+<li> ~<a href="grammar-metta-ni-nai.html">@HI{{mettani}}</a>
 <li> ~@HI{{sudeni}}
 <li> ~@HI{{sukoshizutsu}}
 <li> ~<a href="grammar-shidai.html">@FG{{@KJ{{next^No.}}:shidai}}</a>
@@ -224,8 +224,8 @@
 <li> ~@HI{{osoraku}}
 <li> ~<a href="grammar-doumo.html">@HI{{doumo}}</a>
 <li> ~@HI{{imanimo}}
-<li> ~@HI{{marude}}
-<li> ~@HI{{choudo}}
+<li> ~<a href="grammar-marude.html">@HI{{marude}}</a>
+<li> ~<a href="grammar-choudo.html">@HI{{choudo}}</a>
 <li> ~@HI{{zehi}}
 <li> ~@HI{{nantokashite}}
 <li> ~@HI{{douka}}
@@ -233,7 +233,7 @@
 <li> ~@HI{{man'ichi}}
 <li> ~@HI{{mangaichi}}
 <li> ~@HI{{don'nani}}
-<li> ~@HI{{ikura}}
+<li> ~<a href="grammar-ikura.html#temo">@HI{{ikura}}</a>
 <li> ~@HI{{tatoe}}
 <li> ~<a href="grammar-sekkaku.html">@HI{{sekkaku}}</a>
 <li> ~@HI{{tada}}

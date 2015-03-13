@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{whole}}ku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mattaku}}" grammar="@HI{{@FG{{@KJ{{whole}}:matta}}ku}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{whole}}:matta}}ku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{mattaku}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{whole}}ku}}}} is an adverb which is can be used used in a sentence with a positive predicate to mean "completely".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{mattaku}}@FG{{@KJ{{wonder}}:odoro}}kimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was really surprised.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{whole}}ku}}}} is an adverb which is can be used used in a sentence with a negative predicate to mean "not at all".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@EM{{mattaku}}@FG{{@KJ{{faith^utilize}}:shin'you}}dekimasen'.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is not at all trustworthy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{EJG}}. (p. 244).
+<li> @REF{{NKZM-N3G}}. (p. 92).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

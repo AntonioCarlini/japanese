@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@FG{{@KJ{{street^degrees}}:choudo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{choudo}}" grammar="@FG{{@KJ{{street^degrees}}:choudo}}"}}
+
+<body>
+
+<h1>@FG{{@KJ{{street^degrees}}:choudo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{choudo}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{choudo}} can be used with @Vta{{}}@HI{{tokoro}} (or @Vta{{}}@HI{{bakari}}) to mean "have just done".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{choudo}}@KJ{{now}}@FG{{@KJ{{don}}:tsu}}itabakaridesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've just arrived.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{choudo}} can be used before "number + counter" to mean "exactly" or "precisely".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{choudo}}@KJ{{nine^time}}ni@KJ{{come}}tekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please come at nine sharp.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{choudo}} can be used with @HI{{ii}} to mean "just right".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{sono@KJ{{car}}no@KT{{saizu}}ha@EM{{choudo}}ii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This car is just the right size.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{choudo}}}} is usually written in kana alone.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{EJG}}. (p. 148).
+<li> @REF{{NKZM-N3G}}. (p. 93).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
