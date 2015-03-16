@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karashite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karashite}}" grammar="@HI{{karashite}}"}}
+
+<body>
+
+<h1>@HI{{karashite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{karashite}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{karashite}}}} either singles out something for emphasis or presents something as the basis for judgement.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{karashite}}}} is preceded by a noun referring to a human, it always means "even".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{puro}}no@KJ{{gold^going^employee}}@EM{{karashite}}@FG{{@KJ{{first*time^walk^bull's*eye}}:shohoteki}}na@FG{{@KJ{{sutra^finish}}:keizai}}no@FG{{@KJ{{part^chop}}:bunseki}}ni
+      @FG{{@KJ{{invariably^need}}:hitsuyou}}na@FG{{@KJ{{number^study}}:suugaku}}ni@FG{{@KJ{{weak}}:yowa}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even professional bankers are weak in the maths necessary for elementary economic analysis.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Whether @HI{{@EM{{karashite}}}} means "even" or "judging from" depends on the context.
+
+In the first case below, it means "even" because no judgement is offered. In the second case, a judgement is being offered, so it means "judging from".
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{me}}:boku}}@FG{{@KJ{{he^woman}}:kanojo}}no@KJ{{tale}}shi@KJ{{direction}}@EM{{karashite}}@KJ{{spirit}}ni@FG{{@KJ{{eat}}:ku}}wanainda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I hate even the way she talks.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he^woman}}:kanojo}}no@KJ{{tale}}shi@KJ{{direction}}@EM{{karashite}}meisekina@FG{{@KJ{{head^brain}}:zunou}}wo@KJ{{hold}}tteiruto@KJ{{think}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Judging from the way she talks, I think she is clearheaded.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 199).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niwatatte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niwatatte}}" grammar="@HI{{niwatatte}}"}}
+
+<body>
+
+<h1>@HI{{niwatatte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{niwatatte}}}}
+<li> @N1{{}}@HI{{kara}}@N2{{}}@HI{{@EM{{niwatatte}}}}
+<li> (@N1{{}}@HI{{kara}})@N2{{}}@HI{{@EM{{niwataru}}}}@N3{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niwatatte}}}} is a compound particle that indicates that something takes place over a particular span of time or physical space.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{orinpikku}}ga16@FG{{@KJ{{day^interval}}:nichikan'}}@EM{{niwatatte}}@KJ{{open}}kareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Olympic Games were held for 16 days.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niwatatte}}}} can be used to represent a number of occurrences or topic area.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{yesterday^year}}:sakunen'}}1@KJ{{year^interval}}ni@FG{{@KJ{{}}:ryousha}}no@KJ{{interval}}de5@KJ{{-times}}@EM{{niwatatte}}@FG{{@KJ{{bribe^graft}}:wairo}}no
+      @FG{{@KJ{{impart^accept}}:juju}}gaattakotoga@FG{{@KJ{{bright}}:aki}}rakaninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It became evident that one party paid the other party bribes 5 times during the past year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a single entity is used with @HI{{@EM{{niwatatte}}}}, the noun used must be a word which represents the entirety of something (e.g. @HI{{zenshin'}}, "the whole body").
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{whole^somebody}}:zenshin'}}@EM{{niwatatte}}@FG{{@KJ{{discharge^measles}}:hasshin'}}ga@KJ{{exit}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had a rash all over my body.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+X@HI{{kara}}Y@HI{{@EM{{niwatatte}}}} is most commonly used when X and Y indicate specific times or specific places.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{west^shinto*shrine}}:nishinomiya}}@KT{{inta-}}kara@FG{{@KJ{{hollow*reed^roof}}:ashiya}}@KT{{inta-}}@EM{{niwatatte}}mada@FG{{@KJ{{mingle^traffic}}:koutsuu}}ga@FG{{@KJ{{astringent^^stagnate}}:juutai}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Traffic was congested from the Nishinomiya Interchange to the Ashiya Interchange.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The adjectival form is @HI{{@EM{{niwataru}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{promise}}:yaku}}40@KJ{{year}}@EM{{niwataru}}@FG{{@KJ{{cool^war}}:reisen'}}gatsuini@KJ{{end}}watta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Cold War, which lasted for about 40 years, finally came to an end.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{niwatatte}}}} commonly appears in written language, but it can be used in formal speech, such as news reports.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 447).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

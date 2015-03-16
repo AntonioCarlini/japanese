@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wohajime(toshite)}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wohajime(toshite)}}" grammar="@HI{{wohajime(toshite)}}"}}
+
+<body>
+
+<h1>@HI{{wohajime(toshite)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{wohajime(toshite)}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@N{{}}@HI{{@EM{{wohajime}}}} basically means "making @N{{}} the begining".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}nouchideha,@KJ{{father}}@EM{{wohajime(toshite)}},@FG{{@KJ{{house^tribe}}:kazoku}}@FG{{@KJ{{whole^employee}}:zen'in'}}@KT{{supo-tsu}}ga@KJ{{fiond}}kida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In my family, starting with my father, all of us like sports.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+@N{{}}@HI{{@EM{{wohajime}}}} is a shortened form of @N{{}}@HI{{@EM{{wohajimetoshite}}}}.
+</p>
+
+<p>
+@N{{}}@HI{{@EM{{wohajime(toshite)}}}} is not used in conversation, instead use <a href="grammar-dake-de-wa-naku-mo.html">@HI{{dakede(ha)naku~mo}}</a>.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 320).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

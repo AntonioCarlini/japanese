@@ -2361,7 +2361,7 @@
  2361 :  0x8299 :  :  HU :   :  hasu :  {lotus} {Mt Fuji} :  9 :  1
  2362 :  0x84c9 :  :  YOU :   :  hasu yo :  {lotus} :  9 :  1
  2363 :  0x862d :  :  RAN RA :   :  ka araragi :  {orchid} {Holland} :  9 :  1
- 2364 :  0x82a6 :  :  RO :  ashi yoshi :  a :  {reed} {bullrush} :  9 :  
+ 2364 :  0x82a6 :  :  RO :  ashi yoshi :  a :  {hollow reed} {reed} {bullrush} :  9 :  
  2365 :  0x85af :  :  SHYO :  imo :   :  {potato} :   :  
  2366 :  0x83d6 :  :  SHYOU :   :   :  {iris} :  9 :  1
  2367 :  0x8549 :  :  SHYOU :   :   :  {banana} :  9 :  1
@@ -2735,7 +2735,7 @@
  2735 :  0x8cce : shizu :  SEN ZEN :  iya.shii iya.shimu iya.shimeru shizu yasu.i :   :  {despise} {low-life} {poverty} :   :  
  2736 :  0x8cbc :  :  TEN CHYOU :  ha.ru tsu.ku :   : {post a bill} {stick} {paste} {apply} :  8 :  
  2737 :  0x8cb0 : mora.u :  SEI SHYA :  mora.u :   :  {get} {have} {obtain} :  9 :  
- 2738 :  0x8cc2 : maina.i maina.u :  RO :  maina.i maina.u :   :  {bribe} :  8 :  
+ 2738 :  0x8cc2 : maina.i maina.u :  RO :  maina.i maina.u :   : {graft} {bribe} :  8 :  
  2739 :  0x8cd1 : nigi.wai nigi.wasu nigi.wau nigi.yaka :  SHIN :  nigi.wai nigi.yaka nigi.wasu nigi.wau :   :  {flourish} {be bustling} {prosperity} :  9 :  
  2740 :  0x8e93 :  :  CHI :  tsumazu.ku :   :  {stumble} :   :  
  2741 :  0x8e44 : hidume :  TEI :  hidume :   :  {hoof} :  9 :  

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{above}}de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{uede}}" grammar="@HI{{@KJ{{above}}de}}"}}
+
+<body>
+
+<h1>@HI{{@KJ{{above}}de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@HI{{@EM{{@KJ{{above}}de}}}}
+<li> @N{{}}@HI{{no@EM{{@KJ{{above}}de}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@Vta{{}}@HI{{@KJ{{above}}de}} expresses that a relatively important action will be performed after a preparatory action has taken place.
+The verbs of the main clause and the preparatory action should be non-passive, volitional verbs.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{yoku@KJ{{consider}}eta@EM{{@KJ{{above}}de}}@FG{{@KJ{{honorable^return^matter}}:gohenji}}itashimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will reply upon careful consideration.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{no@KJ{{above}}de}} expresses the same idea. @N{{}} is typically a noun of investigation, interview, discussion and so on.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tale}}:hana}}shi@FG{{@KJ{{fit}}:a}}i@EM{{no@KJ{{above}}de}}@FG{{@KJ{{tie^argument}}:ketsuron'}}wo@FG{{@KJ{{exit}}:da}}shitaito@KJ{{think}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I would like to draw a conclusion after discussion.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 547).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
