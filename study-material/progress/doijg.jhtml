@@ -444,14 +444,14 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{limit}}tte}}                                                  </td>
+  <td class="left"> <a href="grammar-ni-kagitte.html"> @HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} </a>                           </td>
   <td class="left"> DOIJG, p. 250                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{connection}}shite/@KJ{{connection}}suru}}                     </td>
+  <td class="left"> <a href="grammar-ni-kanshite.html"> @HI{{ni@FG{{@KJ{{connection}}:kan'}}shite/@FG{{@KJ{{connection}}:kan'}}suru}} </a> </td>
   <td class="left"> DOIJG, p. 252                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{ni@KJ{{substitute}}watte}}                                           </td>
@@ -594,9 +594,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{wo@KJ{{traffic}}shite}}                                              </td>
+  <td class="left"> <a href="grammar-wo-tooshite.html"> @HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>                        </td>
   <td class="left"> DOIJG, p. 330                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ppanashi.html"> @HI{{ppanashi}} </a>                                                  </td>

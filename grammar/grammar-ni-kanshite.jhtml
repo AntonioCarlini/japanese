@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{connection}}shite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikanshite}}" grammar="@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}}
+<li> @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}}
+<li> @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}suru}}@N2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}} means "with regard to" or "concerning".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{extinguish^expense^tax}}:shouhizei}}ni@KJ{{connection}}shite@FG{{@KJ{{bestow^plains^party}}:yoyatou}}no@FG{{@KJ{{idea^see}}:iken'}}ga@FG{{@KJ{{vis-a-vis^stand*up}}:tairitsu}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With regard to sales tax, the opinions of the leading party and the opposition parties conflicted.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} is used to present a topic.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{person^interval}}:ningen'}}no@FG{{@KJ{{say^word}}:gengo}}@FG{{@KJ{{learn^gain}}:shuutoku}}ni@KJ{{connection}}shiteha,madamada@FG{{@KJ{{negative^bright}}:fumei}}nokotoga@FG{{@KJ{{many}}:oo}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Concerning human language acquisition, there are still many unknowns.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}suru}} is used to modify a following noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^week}},@KJ{{east^capital}}de@FG{{@KJ{{transcend^transmit^guidance}}:choudendou}}ni@KJ{{connection}}suru@FG{{@KJ{{study^meeting}}:gakkai}}ga@FG{{@KJ{{open}}:hira}}kareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Last week a conference on superconductivity was held in Tokyo.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The polite form @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shimashite}} can be used in formal speech.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{affair}}:ken'}}ni@KJ{{connection}}shimashiteha,mada@FG{{@KJ{{discharge^surface}}:happyou}}dekiru@FG{{@KJ{{grade^story}}:dankai}}dehaarimasen'.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With regard to the issue, we are not yet at the stage where we can announce anything.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 252).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

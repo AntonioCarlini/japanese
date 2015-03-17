@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{limit}}tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikagitte}}" grammar="@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} expresses an exclusive focus on the topic item.
+The expression is intended to show that only the noun that precedes the compund particle is different from all the others.
+The predicate is expressly negative or implicitly negative.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{umbrella}}:kasa}}wo@KJ{{hold}}tte@KJ{{come}}nai@KJ{{day}}ni@KJ{{limit}}tte@KJ{{rain}}ga@FG{{@KJ{{descend}}:fu}}rundesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Only on the day when I don't bring my umbrella, it rains, you know.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 250).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

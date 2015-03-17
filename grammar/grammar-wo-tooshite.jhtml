@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wo@KJ{{traffic}}shite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wotooshite}}" grammar="@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}"}}
+
+<body>
+
+<h1>@HI{{wo@KJ{{traffic}}shite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{wo@KJ{{traffic}}shite}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}} can mean "through the medium of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{write}}:ka}}kininatta@FG{{@KJ{{honorable^book}}:gohon'}}wo@FG{{@KJ{{traffic}}:tooshite}},@KJ{{before^life}}nokotoha@FG{{@KJ{{exist}}:zonji}}@FG{{@KJ{{above}}:a}}geteorimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I knew you through the books you wrote.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}} can mean "through a specific duration of time".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{one^year}}:ichinen'}}wo@FG{{@KJ{{traffic}}:too}}shite@FG{{@KJ{{five^-times}}:gokai}}gurai@FG{{@KJ{{sea^outside}}:kaigai}}ni@KJ{{going}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I go abroad about 5 times throughout the year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}} can be replaced by @HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}} except when the medium is a concrete physical medium.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{father}}:chichi}}ha@FG{{@KJ{{one^life}}:isshou}}wo@FG{{@KJ{{traffic}}:tsuu}}jite,@FG{{@KJ{{one^degrees}}:ichidou}}mo@FG{{@KJ{{east^capital}}:toukyou}}wo@FG{{@KJ{{exit}}:de}}takotoganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My father has never left Tokyo in his life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 330).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
