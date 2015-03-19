@@ -26,7 +26,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}nouchideha,@KJ{{father}}@EM{{wohajime(toshite)}},@FG{{@KJ{{house^tribe}}:kazoku}}@FG{{@KJ{{whole^employee}}:zen'in'}}@KT{{supo-tsu}}ga@KJ{{fiond}}kida.}}
+      @HI{{@KJ{{private}}nouchideha,@KJ{{father}}@EM{{wohajime(toshite)}},@FG{{@KJ{{house^tribe}}:kazoku}}@FG{{@KJ{{whole^employee}}:zen'in'}}@KT{{supo-tsu}}ga@KJ{{fond}}kida.}}
   </td> </tr>
   <tr class="en"> <td>
       In my family, starting with my father, all of us like sports.
@@ -48,6 +48,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 320).
+<li> @REF{{NKZM-N2G}}. (p. 20).
 </ol>
 
 @include{{"grammar-footer.inc"}}

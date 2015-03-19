@@ -47,7 +47,7 @@
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@FG{{@KJ{{life}}:nama}}no@FG{{@KJ{{dance^pedestal}}:butai}}wo@KJ{{see}}te@FG{{@KJ{{by*means*of^come}}:irai}},sukkari
-      @FG{{@KJ{{song^dance^performing*artist}}:kabuki}}no@KT{{fuxan}}ninatteshimatta.}}
+      @FG{{@KJ{{song^dance^performing*artist}}:kabuki}}no@KT{{fuxan'}}ninatteshimatta.}}
   </td> </tr>
   <tr class="en"> <td>
       Ever since seeing my first live performance, I've become a big fan of <em>kabuki</em>.
@@ -124,6 +124,7 @@ In both these cases @FG{{@KJ{{by*means*of^come}}:irai}}@HI{{no}} conveys the ide
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 154).
+<li> @REF{{NKZM-N2G}}. (p. 17).
 </ol>
 
 @include{{"grammar-footer.inc"}}

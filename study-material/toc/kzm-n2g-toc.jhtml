@@ -63,18 +63,18 @@
 
 <ol>
 <li> ~<a href="grammar-te-hajimete.html">@Vte{{}}@HI{{hajimete}}</a>
-<li> ~@KJ{{above}}(@HI{{de}})
-<li> ~@FG{{@KJ{{next^No.}}:shidai}}
-<li> ~@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}, ~@Vte{{}}@HI{{konokata}}
-<li> ~@Vte{{}}@HI{{karadenaito}}, ~@Vte{{}}@HI{{karadenakereba}}
+<li> ~<a href="grammar-ue-de.html">@KJ{{above}}(@HI{{de}})</a>
+<li> ~<a href="grammar-shidai.html">@FG{{@KJ{{next^No.}}:shidai}}</a>
+<li> ~<a href="grammar-irai.html#te-irai">@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}</a>, ~@Vte{{}}@HI{{konokata}}
+<li> ~<a href="grammar-te-kara-denaito.html">@Vte{{}}@HI{{karadenaito}}</a>, ~@Vte{{}}@HI{{karadenakereba}}
 </ol>
 
 <h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{wohajime}}(@HI{{toshite}})
-<li> ~@HI{{karashite}}
-<li> ~@HI{{niwatatte}}
+<li> ~<a href="grammar-wo-hajime-toshite.html">@HI{{wohajime}}(@HI{{toshite}})</a>
+<li> ~<a href="grammar-kara-shite.html">@HI{{karashite}}</a>
+<li> ~<a href="grammar-ni-watatte.html">@HI{{niwatatte}}</a>
 <li> ~@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}
 <li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
 <li> ~@HI{{dake}}
@@ -86,7 +86,7 @@
 <li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}ri}}
 <li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}(@HI{{ha}})
 <li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{rideha}}
-<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}
+<li> ~<a href="grammar-ni-kagitte.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
