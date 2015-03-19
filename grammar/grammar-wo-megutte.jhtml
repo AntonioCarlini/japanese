@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{megutte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{megutte}}" grammar="@HI{{megutte}}"}}
+@GRMIDX{{index="@HI{{meguru}}"  grammar="@HI{{meguru}}"}}
+@GRMIDX{{index="@HI{{meguri}}"  grammar="@HI{{meguri}}"}}
+
+<body>
+
+<h1>@HI{{megutte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{womegutte}}}}
+<li> @N1{{}}@HI{{@EM{{womeguru}}}}@N2{{}}
+<li> @N1{{}}@HI{{ka}}@N2@HI{{@EM{{womegutte}}}}
+<li> <em>embedded question</em>@HI{{@EM{{womegutte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{megutte}}}} is a compound particle meaning "concerning" or "over". It is used when different opinions are
+expressed over a single issue.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{oneself^defense^regiment^faction^dispatch}}:jieitaihaken'}}no@FG{{@KJ{{just*so^un-}}:zehi}}@EM{{womegutte}}@FG{{@KJ{{violent}}:hage}}shii@FG{{@KJ{{deliberation^argument}}:giron'}}ga
+      @FG{{@KJ{{mingle}}:ka}}wasareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There were fierce arguments over the pros and cons of dispatching the Self-Defense Forces.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{megutte}}}} can only be used when different opinions about a single issue are expressed by multiple people or sources.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{new}}shii@FG{{@KJ{{curriculum^history}}:rekishi}}@FG{{@KJ{{teach^department^write}}:kyoukasho}}@EM{{womegutte}}@FG{{@KJ{{violent}}:hage}}shii
+      @FG{{@KJ{{deliberation^argument}}:giron'}}ga@FG{{@KJ{{continue}}:tsdu}}iteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The fierce debate over the new history textbook continues.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{megutte}}}} often occurs in titles.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{panerudexisukasshon'}}:@FG{{@KJ{{country^occasion}}:kokusai}}@FG{{@KJ{{time^substitute}}:jidai}}no@FG{{@KJ{{teach^bring*up}}:kyouiku}}@EM{{womegutte}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Panel Discussion: About Education in the International Age
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{meguru}}}} is the the pre-nominal form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{prefecture}}:ken'}}demo}}IT@HI{{@EM{{womeguru}}@FG{{@KJ{{move}}:dou}}kiga@FG{{@KJ{{add^quick}}:kasoku}}shisoudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It looks like the movement towards IT will accelerate in our prefecture too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{megutte}} and @HI{{meguri}} can be used interchangeably
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{monore-ru}}@FG{{@KJ{{build^establishment}}:kensetsu}}@EM{{womeguri}}@FG{{@KJ{{market^people}}:shimin'}}no@FG{{@KJ{{idea^see}}:iken'}}ga@FG{{@KJ{{vis-a-vis^stand*up}}:tairitsu}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Citizen's opinions are divided over the monorail construction.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{megutte}}, @HI{{meguru}} and @HI{{meguri}} are highly formal expressions and are used only in written language or 
+in formal presentations such as news reports.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 486).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

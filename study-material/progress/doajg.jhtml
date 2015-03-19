@@ -747,9 +747,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nominarazu}}                                                           </td>
+  <td class="left"> <a href="grammar-nominarazu.html">@HI{{nominarazu}}</a>                                                 </td>
   <td class="left"> DOAJG, p. 461                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nonan}}'@HI{{notte}}                                                   </td>
@@ -787,9 +787,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{womegutte}}/@HI{{meguru}}                                              </td>
+  <td class="left"> <a href="grammar-wo-megutte.html">@HI{{womegutte}}/@HI{{meguru}}</a>                                    </td>
   <td class="left"> DOAJG, p. 486                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-omoeba.html">@HI{{@FG{{@KJ{{think}}:omo}}eba}}</a>                                      </td>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nominarazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nominarazu}}" grammar="@HI{{nominarazu}}"}}
+
+<body>
+
+<h1>@HI{{nominarazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nominarazu}}}}
+<li> @Vru{{}}@HI{{@EM{{nominarazu}}}}
+<li> @Ai{{}}@HI{{@EM{{nominarazu}}}}
+<li> @Anastem{{}}@HI{{dearu@EM{{nominarazu}}}}
+<li> @N{{}}@HI{{dearu@EM{{nominarazu}}}}
+<li> @S1{{}}@HI{{.u@EM{{nominarazu}},}}@S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nominarazu}}}} is used in formal wriitng or speeches to mean "not only".
+It is a combination of the particle <a href="grammar-particle-nomi.html">@HI{{nomi}}</a> and the negative
+continuative form of @HI{{nari}}. The literal meaning is "be not only ~ and".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{company}}:sha}}ha@KJ{{day^book}}@FG{{@KJ{{country^inside}}:kokunai}}@EM{{nominarazu}},@KT{{amerika}}ya@KT{{yo-roppa}}nadodemo@KT{{bijinisu}}
+      @FG{{@KJ{{lively^move}}:katsudou}}wo@KJ{{going}}tteorimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our company does business not only in Japane but also in America, Europr and elsewhere.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nominarazu}}}} can appear in the sentence initial position. In this case it means "not only whatever the previous sentence said".
+@HI{{sore}} can precede @HI{{@EM{{nominarazu}}}} in this usage, but it is usually omitted.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}noshitakotoha@KJ{{person^interval}}toshite@FG{{@KJ{{shame}}:ha}}zubekikotodearu. @EM{{norinarazu}},soreha@FG{{@KJ{{bright}}:aki}}rakani@FG{{@KJ{{crime^guilt^going^do}}:hanzaizoui}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As a human being, he should be ashamed of what he did. Not only that, it is clearly a criminal act.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 461).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
