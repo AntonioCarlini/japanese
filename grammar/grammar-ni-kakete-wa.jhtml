@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nikaketeha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikaketeha}}" grammar="@HI{{nikaketeha}}"}}
+
+<body>
+
+<h1>@HI{{nikaketeha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nikaketeha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nikaketeha}}}} is a compound particle that marks something in which someone excels or has confidence.
+It is usually used with a positive predicate.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{craft^location}}:koujou}}ha@FG{{@KJ{{special^particularly^steel}}:tokushukou}}no@FG{{@KJ{{made*in...^create}}:seizou}}@EM{{nikaketeha}}@FG{{@KJ{{generation^world}}:sekai}}
+      @FG{{@KJ{{yield^finger}}:kusshi}}no@FG{{@KJ{{skill^art}}:gijutsu}}wo@FG{{@KJ{{possess}}:yuu}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When it comes to the production of special steels, this factory has the world's best technology.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The @HI{{ha}} of @HI{{@EM{{nikaketeha}}}} cannot be omitted.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 391).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{fundamentals}}zuite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitaishite}}" grammar="@HI{{ni@KJ{{fundamentals}}zuite}}"}}
+@GRMIDX{{index="@HI{{nitaisuru}}" grammar="@HI{{ni@KJ{{vis-a-vis}}suru}}"}}
+
+<body>
+
+<h1>@HI{{ni@KJ{{fundamentals}}zuite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuite}}
+<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuita}}@N2{{}}
+<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuiku}}@N2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{ni@KJ{{fundamentals}}zuite}} states that something is being used as a basis.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{matter^reality}}:jijitsu}}ni@KJ{{fundamentals}}zuiteo@FG{{@KJ{{tale}}:hana}}shishimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will give you the facts. (<em>Lit: I will talk on the basis of facts</em>)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+One pre-nominal form is @HI{{ni@KJ{{fundamentals}}zuiku}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{five^hundred^year^in*front}}no@FG{{@KJ{{history^fee}}:shiryou}}ni@KJ{{fundamentals}}zuiku@FG{{@KJ{{polish^research}}:kenkyuu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is a study based on historical documents from 500 years ago.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Another pre-nominal form is @HI{{ni@KJ{{fundamentals}}zuita}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zoreha@KJ{{one}}tsuno@FG{{@KJ{{provisional^explanation}}:kasetsu}}ni@KJ{{fundamentals}}zuita@FG{{@KJ{{deliberation^argument}}:giron'}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Thisis a discussion based on a hypothesis.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 261).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

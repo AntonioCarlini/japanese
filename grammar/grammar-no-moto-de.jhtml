@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{no@KJ{{below}}de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitaishite}}" grammar="@HI{{no@KJ{{below}}de}}"}}
+@GRMIDX{{index="@HI{{nitaisuru}}" grammar="@HI{{ni@KJ{{vis-a-vis}}suru}}"}}
+
+<body>
+
+<h1>@HI{{no@KJ{{below}}de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@KJ{{below}}de}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@N{{}}@HI{{no@KJ{{below}}de}} states that something is under the control of some object.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{small*bell^tree}}:suzuki}}@KJ{{before^life}}no@FG{{@KJ{{finger^guidance}}:shidou}}@EM{{no@KJ{{below}}de}}@FG{{@KJ{{discipline^gentleman^argument^sentence}}:shuushironbun'}}wo
+      @FG{{@KJ{{write}}:ka}}ki@FG{{@KJ{{above}}:a}}geta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I finished my master's thesis under Prof. Suzuki's guidance.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{no@KJ{{below}}de}} refers to a physical space it is limited to "atmospheric space", for example, the sky or the weather.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sansantaru@FG{{@KJ{{plump^sunshine}}:taiyou}}@EM{{no@KJ{{below}}de}}@FG{{@KJ{{open^meeting^style}}:kaikaishiki}}ga@FG{{@KJ{{going}}:okona}}wareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The opening ceremony was held in the brilliant sunshine. (<em>lit. under the bright sun</e>)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Some nouns require @HI{{ni}} rather than @HI{{de}} after @HI{{no@KJ{{below}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^mouth}}:taguchi}}@KJ{{before^life}}no@FG{{@KJ{{permit^can}}:kyoka}}@EM{{no@KJ{{below}}ni}}@FG{{@KJ{{reality^verification^room}}:jikkenshitsu}}wo@FG{{@KJ{{use}}:tsuka}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are using this lab with Prof. Taguchi's permission.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 310).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
