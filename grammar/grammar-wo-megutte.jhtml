@@ -20,7 +20,7 @@
 <ol>
 <li> @N{{}}@HI{{@EM{{womegutte}}}}
 <li> @N1{{}}@HI{{@EM{{womeguru}}}}@N2{{}}
-<li> @N1{{}}@HI{{ka}}@N2@HI{{@EM{{womegutte}}}}
+<li> @N1{{}}@HI{{ka}}@N2{{}}@HI{{@EM{{womegutte}}}}
 <li> <em>embedded question</em>@HI{{@EM{{womegutte}}}}
 </ol>
 

@@ -75,7 +75,7 @@
 <li> ~<a href="grammar-wo-hajime-toshite.html">@HI{{wohajime}}(@HI{{toshite}})</a>
 <li> ~<a href="grammar-kara-shite.html">@HI{{karashite}}</a>
 <li> ~<a href="grammar-ni-watatte.html">@HI{{niwatatte}}</a>
-<li> ~<a href="grammar-wo-tooshite.html>"@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
+<li> ~<a href="grammar-wo-tooshite.html">@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
 <li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
 <li> ~@HI{{dake}}
 </ol>
@@ -93,7 +93,7 @@
 
 <ol>
 <li> ~<a href="grammar-ni-kagirazu.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</a>
-<li> ~<a href="grammar-nomirazu.html">@HI{{nominarazu}}</a>
+<li> ~<a href="grammar-nominarazu.html">@HI{{nominarazu}}</a>
 <li> ~@HI{{bakarika}}
 <li> ~@HI{{hamotoyori}}
 <li> ~<a href="grammar-ue-ni.html">@KJ{{above}}(@HI{{ni}})</a>
@@ -104,8 +104,8 @@
 <ol>
 <li> ~<a href="grammar-ni-kanshite.html">@HI{{ni@FG{{@KJ{{connection}}:kann}}shite}}</a>
 <li> ~<a href="grammar-wo-megutte.html">@HI{{womegutte}}</a>
-<li> ~<a href="grammar-ni-kaketa.html">@HI{{nikaketeha}}</a>
-<li> ~< ahref="grammar-ni-taishite.html">@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}</a>
+<li> ~<a href="grammar-ni-kakete-wa.html">@HI{{nikaketeha}}</a>
+<li> ~<a href="grammar-ni-taishite.html">@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}</a>
 <li> ~@HI{{nikotaete}}
 </ol>
 
