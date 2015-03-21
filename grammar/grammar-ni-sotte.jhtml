@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{run*alongside}}tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nisotte}}" grammar="@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "along".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{traffic}}:too}}rini@KJ{{run*alongside}}ttetakusan@KJ{{store}}gaarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are a lot of stores along the street.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "parallel to".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{line^path}}:senro}}ha@FG{{@KJ{{country^road-way}}:kokudou}}ni@KJ{{run*alongside}}tte@FG{{@KJ{{run}}:hashi}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This railroad runs parallel to the national highway.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "in accordance with".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@FG{{@KJ{{above^director}}:joushi}}no@FG{{@KJ{{direction^needle}}:houshin'}}ni@KJ{{run*alongside}}ttesorewo
+      @FG{{@KJ{{reality^going}}:jikkou}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He carried it out in accordance with his boss's policy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{HOJG}}. (p. 147).
+<li> @REF{{NKZM-N2G}}. (p. 38).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
