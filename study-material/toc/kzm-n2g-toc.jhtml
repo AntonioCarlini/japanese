@@ -53,7 +53,7 @@
 <ol>
 <li> ~<a href="grammar-saichuu.html">@FG{{@KJ{{utmost^in}}:saichuu}}@HI{{da}}</a>
 <li> ~<a href="grammar-uchi-ni.html">@HI{{uchini}}</a>
-<li> ~@HI{{bakarida}}, ~@FG{{@KJ{{one^direction}}:ippou}}@HI{{da}}
+<li> ~<a href="grammar-bakari.html">@HI{{bakarida}}</a>, ~@FG{{@KJ{{one^direction}}:ippou}}@HI{{da}}
 <li> ~@Vyou{{}}@HI{{utoshiteiru}}
 <li> ~<a href="grammar-tsutsu.html#ongoing">@HI{{tsutsuaru}}</a>
 <li> ~<a href="grammar-tsutsu.html#simultaneous">@HI{{tsutsu}}</a>
@@ -75,7 +75,7 @@
 <li> ~<a href="grammar-wo-hajime-toshite.html">@HI{{wohajime}}(@HI{{toshite}})</a>
 <li> ~<a href="grammar-kara-shite.html">@HI{{karashite}}</a>
 <li> ~<a href="grammar-ni-watatte.html">@HI{{niwatatte}}</a>
-<li> ~@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}
+<li> ~<a href="grammar-wo-tooshite.html>"@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
 <li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
 <li> ~@HI{{dake}}
 </ol>
@@ -92,20 +92,20 @@
 <h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}
-<li> ~@HI{{nominarazu}}
+<li> ~<a href="grammar-ni-kagirazu.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</a>
+<li> ~<a href="grammar-nomirazu.html">@HI{{nominarazu}}</a>
 <li> ~@HI{{bakarika}}
 <li> ~@HI{{hamotoyori}}
-<li> ~@KJ{{above}}(@HI{{ni}})
+<li> ~<a href="grammar-ue-ni.html">@KJ{{above}}(@HI{{ni}})</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{ni@FG{{@KJ{{connection}}:kann}}shite}}
-<li> ~@HI{{womegutte}}
-<li> ~@HI{{nikaketeha}}
-<li> ~@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}
+<li> ~<a href="grammar-ni-kanshite.html">@HI{{ni@FG{{@KJ{{connection}}:kann}}shite}}</a>
+<li> ~<a href="grammar-wo-megutte.html">@HI{{womegutte}}</a>
+<li> ~<a href="grammar-ni-kaketa.html">@HI{{nikaketeha}}</a>
+<li> ~< ahref="grammar-ni-taishite.html">@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}</a>
 <li> ~@HI{{nikotaete}}
 </ol>
 
@@ -113,10 +113,10 @@
 
 <ol>
 <li> ~@HI{{womotoni}}(@HI{{shite}})
-<li> ~@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}
+<li> ~<a href="grammar-ni-motozuite.html">@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}</a>
 <li> ~@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}
-<li> ~@HI{{nomotode}}, ~@HI{{nomotoni}}
-<li> ~@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}
+<li> ~<a href="grammar-no-moto-de.html#de">@HI{{nomotode}}</a>, ~<a href="grammar-no-moto-de.html#ni">@HI{{nomotoni}}</a>
+<li> ~<a href="grammar-muke.html">@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
@@ -125,17 +125,17 @@
 <li> ~@HI{{nitsurete}}, ~@HI{{nishitagatte}}
 <li> ~@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}, ~@HI{{totomoni}}
 <li> ~@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}
-<li> ~@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}
+<li> ~<a href="grammar-ni-oujite.html">@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}</a>
 <li> ~@HI{{nitsukete}}
 </ol>
 
 <h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{yara}}~@HI{{yara}}
+<li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
 <li> ~@HI{{toiuka}}~@HI{{toiuka}}
-<li> ~@HI{{nishitemo}}~@HI{{nishitemo}}, ~@HI{{nishiru}}~@HI{{nishiru}}, ~@HI{{niseyo}}~@HI{{niseyo}}
-<li> ~@HI{{toitta}}
+<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}~@HI{{nishitemo}}</a>, ~@HI{{nishiru}}~@HI{{nishiru}}, ~@HI{{niseyo}}~@HI{{niseyo}}
+<li> ~<a g=href="grammar-to-itta.html">@HI{{toitta}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>

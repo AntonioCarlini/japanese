@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@N{{}}@HI{{no@KJ{{below}}de}} states that something is under the control of some object.
+<a name="de">@N{{}}@HI{{no@KJ{{below}}de}}</a> states that something is under the control of some object.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -55,7 +55,7 @@ When @HI{{no@KJ{{below}}de}} refers to a physical space it is limited to "atmosp
 
 @BGRND{{}}
 <p>
-Some nouns require @HI{{ni}} rather than @HI{{de}} after @HI{{no@KJ{{below}}}}.
+<a name="ni">Some</a> nouns require @HI{{ni}} rather than @HI{{de}} after @HI{{no@KJ{{below}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -75,6 +75,7 @@ Some nouns require @HI{{ni}} rather than @HI{{de}} after @HI{{no@KJ{{below}}}}.
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 310).
+<li> @REF{{NKZM-N2G}}. (p. 39).
 </ol>
 
 @include{{"grammar-footer.inc"}}
