@@ -34,10 +34,10 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      
+      @HI{{@FG{{@KJ{{me}}:boku}}hasushiyori@EM{{mushiro}}sashimi(no@KJ{{direction}})ga@KJ{{fond}}kida.}}
   </td> </tr>
   <tr class="en"> <td>
-      
+      I prefer <em>sashimi</em> rather than <sm>sushi</em>.
   </td> </tr>
 </table>
 </p>
@@ -49,10 +49,10 @@ The combinations of tenses before and after this expression cannot be past ~ non
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      
+      @HI{{@KJ{{now^year}}no@FG{{@KJ{{north^sea^road-way}}:hokkaidou}}no@KJ{{summer}}ha@FG{{@KJ{{refreshing}}:suzu}}shikattatoiuyoriha@EM{{mushiro}}@KJ{{cold}}katta.}}
   </td> </tr>
   <tr class="en"> <td>
-      (i)
+      This summer Hokkaido was cold instead of just comfortably cool.
   </td> </tr>
 </table>
 </p>
