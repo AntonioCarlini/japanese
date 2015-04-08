@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{wind}}:fuu}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{fuuni}}" grammar="@HI{{@FG{{@KJ{{wind}}:fuu}}ni}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{wind}}:fuu}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}/@HI{{kon'na/son'na/an'na/don'na@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}
+<li> @S{{}}@HI{{toiu@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}} is an adverbial phrase which means with an appearance or mannaer or style or tone of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{korehadon'na@EM{{@KJ{{wind}}ni}}@KJ{{hold}}ttaraiindesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How should I hold this?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@S{{}}@HI{{toiu@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}} has a meaning of "in such a way that".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{mama}}:kaa}}sanga@FG{{@KJ{{enter^Inst.}}:nyuuin'}}nasattatoiu@EM{{@KJ{{wind}}ni}}@FG{{@KJ{{person}}:hito}}kara@FG{{@KJ{{pay*respects}}:ukaga}}imashitaga,ikagadesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I heard that your mother has gone into hospital, but how is she?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N1{{}}@HI{{toiu@EM{{@FG{{@KJ{{wind}}:fuu}}no}}}}@N2{{}} has a meaning of "@N2{{}} with a style of @N1{{}}".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jemi-}}ga@KJ{{day^book}}@EM{{@KJ{{wind}}}}noo@FG{{@KJ{{resign^ceremony}}:jigi}}woshita@FG{{@KJ{{time}}:toki}}nihabikkurishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was surprised when Jemmy bowed &aacute; la Japonais.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 44).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

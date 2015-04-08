@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>~@HI{{ka}}~@HI{{ka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="~@HI{{ka}}~@HI{{ka}}" grammar="@HI{{ka}}@HI{{ka}}"}}
+
+<body>
+
+<h1>@HI{{sonomono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{kato@KJ{{say}}to}},@S{{}}.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kato@KJ{{say}}to}}}} is a conjunction used by the speaker to assert that a popular belief, or something the speaker may believe, is not always true.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{bosuton'}}deno@KJ{{car}}nashino@FG{{@KJ{{life^lively}}:seikastu}}ga@FG{{@KJ{{negative^convenience}}:fuben'}}datta@EM{{kato@KJ{{say}}to}},@FG{{@KJ{{whole^sort*of*thing}}:zenzen'}}dehanakattadesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You would think that life without a car in Boston must have been inconvenient, but it wasn't at all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In @S1{{}}@HI{{@EM{{kato@KJ{{say}}to}}}}@S2{{}}, @S1{{}} expresses what the listener is expected to believe, and @S2{{}} is often @HI{{soudewanai}} or a variant thereof.
+However, the @S2{{}} part can be omitted.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{loose^brush-stroke}}:manga}}hakudaranai@EM{{kato@KJ{{say}}to}},@FG{{@KJ{{in}}:naka}}nihatotemoii@KJ{{loose^brush-stroke}}moaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You would think that comic books are trash, but some of thm are really good.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 114).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
