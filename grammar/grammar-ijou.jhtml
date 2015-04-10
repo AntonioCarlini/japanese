@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{fuuni}}" grammar="@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}(@HI{{ha}})
+<li> @N{{}}@HI{{dearu}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ha}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}}} is a conjunction indication the speaker's feeling that there should be a strong connection between
+the phrase that precedes the conjunction and that which follows it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}ni@KJ{{come}}ta@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}(ha),@KJ{{day^book^word}}woshikkari@KJ{{exertion^strong}}shitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since I came to Japane to study, I would like to study Japanese hard.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@S1{{}}@HI{{@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ha}}}}@S2{{}} can be used when one feels strongly that there should be a close and necessary connection between @S1{{}} and @S2{{}}.
+This cannot be used to express an objective causal relation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{person}}to@FG{{@KJ{{promise^bundle}}:yakusoku}}shta@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}ha,sorewo@FG{{@KJ{{guard}}:mamo}}ranakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Once you have made a promise to someone, you have to keep it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+As shown in the Formation, @S1{{}} always ends in a verb or @HI{{dearu}} and never in an adjective.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 64).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

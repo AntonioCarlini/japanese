@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>~@HI{{ka}}~@HI{{ka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="~@HI{{ka}}~@HI{{ka}}" grammar="@HI{{ka}}@HI{{ka}}"}}
+
+<body>
+
+<h1>@HI{{sonomono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @V1{{}}@HI{{@EM{{ka}}}}@V2{{}}@HI{{@EM{{ka}}}}
+<li> @Ai{{}}@HI{{@EM{{ka}}}}@Ai{{}}@HI{{@EM{{ka}}}}
+<li> @Anastem{{}}@HI{{@EM{{ka}}}}@Anastem{{}}@HI{{@EM{{ka}}}}
+<li> @N1{{}}@HI{{@EM{{ka}}}}@N2{{}}@HI{{@EM{{ka}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+~@HI{{ka}}~@HI{{ka}} is used when the speaker is unsure about two choices or possibilities.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{meeting^deliberation}}:kaigi}}ga@FG{{@KJ{{tree^weekday^day}}:mokuyoubi}}datta@EM{{ka}}@FG{{@KJ{{gold^weekday^day}}:kin'youbi}}datta@EM{{ka}},@KJ{{forget}}reteshimaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I forgot whether the meeting was on Thursday or Friday.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the most common case, ~@HI{{ka}}~@HI{{ka}} is used when there are two choices, but when one lists the choices, more than two @HI{{ka}}'s can be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{spring^rest}}:haruyasu}}miha,@FG{{@KJ{{house}}:ie}}niiru@EM{{ka}}@FG{{@KJ{{trip^going}}:ryokou}}wosuru@EM{{ka}}@FG{{@KJ{{polish^research^place}}:kenkyuujo}}de@FG{{@KJ{{work}}:hataraku}}@EM{{ka}},
+      mada@KJ{{decide}}meteimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I haven't decided whether to stay here or go on a trip or work at the research institue during the spring break.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When the same verb is repeated, the second one can be replaced by @HI{{douka}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{come^year^day^book}}he@KJ{{going}}kerukadouka,mada@KJ{{part}}karimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know yet whether I can go to Japan next year or not.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 87).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
