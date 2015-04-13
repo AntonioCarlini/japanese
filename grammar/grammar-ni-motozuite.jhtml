@@ -7,8 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{nitaishite}}" grammar="@HI{{ni@KJ{{fundamentals}}zuite}}"}}
-@GRMIDX{{index="@HI{{nitaisuru}}" grammar="@HI{{ni@KJ{{vis-a-vis}}suru}}"}}
+@GRMIDX{{index="@HI{{nimotozuite}}" grammar="@HI{{ni@KJ{{fundamentals}}zuite}}"}}
+@GRMIDX{{index="@HI{{womotonishite}}" grammar="@HI{{wo@KJ{{fundamentals}}ni(shite)}}"}}
 
 <body>
 
@@ -20,6 +20,8 @@
 <li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuite}}
 <li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuita}}@N2{{}}
 <li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuiku}}@N2{{}}
+<li> @N{{}}@HI{{wo@KJ{{fundamentals}}ni(shite)}}
+<li> @N{{}}@HI{{wo@KJ{{fundamentals}}nishita}}@N2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -64,6 +66,34 @@ Another pre-nominal form is @HI{{ni@KJ{{fundamentals}}zuita}}.
   </td> </tr>
   <tr class="en"> <td>
       Thisis a discussion based on a hypothesis.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="wo-moto-ni-shite">An</a> alternative form of @HI{{ni@KJ{{fundamentals}}zuite}} is @HI{{wo@FG{{@KJ{{fundamentals}}:moto}}ni(shite)}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{matter^reality}}:jijitsu}}wo@KJ{{fundamentals}}ni(shite)@FG{{@KJ{{tale}}:hana}}shishimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will give you the facts. (<em>Lit: I will talk on the basis of facts</em>)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The pre-nominal form of @HI{{wo@FG{{@KJ{{fundamentals}}:moto}}ni(shite)}} is @HI{{wo@FG{{@KJ{{fundamentals}}:moto}}nishita}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{five^hundred^year^in*front}}no@FG{{@KJ{{history^fee}}:shiryou}}wo@KJ{{fundamentals}}nishita@FG{{@KJ{{polish^research}}:kenkyuu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is a study based on historical documents from 500 years ago.
   </td> </tr>
 </table>
 </p>
