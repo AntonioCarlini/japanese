@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nishitagatte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nishitagatte}}" grammar="@HI{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}
+<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}} expresses that something beyond human control happens simultaneously with something else.
+Both the main and subordinate clauses must express a continuous action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{income^enter}}:shuunyuu}}@KJ{{increase}}eRU@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}},@FG{{@KJ{{branch^exit}}:shishutsu}}mo@KJ{{increase}}eru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As our income increases, our expenditure increases too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}}}} is a more formal form of @HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}, with the same meaning.
+@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}}}} is usually used only in writing.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{promise^bundle}}:yakusoku}}@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}},@FG{{@KJ{{borrow^gold}}:shakkin'}}wo
+      @FG{{@KJ{{one}}:ixtsu}}ka@FG{{@KJ{{month^behind}}:getsugo}}ni@FG{{@KJ{{return}}:kae}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In accordance with the promise I returned the loaned money after a month.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}} and <a href="grammar-ni-tsurete.html">@HI{{nitsurete}}</a> are very similar.
+The former seems to be preferred in writing and the latter in speech.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 268).
+<li> @REF{{NKZM-N2G}}. (p. 42).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

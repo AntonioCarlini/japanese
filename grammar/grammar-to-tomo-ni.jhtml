@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{totomoni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{totomoni}}" grammar="@HI{{to@FG{{@KJ{{together}}:tomo}}ni}}"}}
+@GRMIDX{{index="@HI{{nitomonatte}}" grammar="@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}"}}
+<body>
+
+<h1>@HI{{to@FG{{@KJ{{together}}:tomo}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}}
+<li> @Vru{{}}@HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}}
+<li> @Ai{{}}@HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}}
+<li> @Anastem{{}}@HI{{dearu@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}}
+<li> @N{{}}@HI{{dearu@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+If two things share a common property, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "as well".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      A,a
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If two things are actors of the same action, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "with" or "along with".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      B,b,c
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded y a noun representing an event or an action, then it means "at the same time" or "with", depending on the noun.
+In this usage it can be replaced by @HI{{ni@@FG{{@KJ{{consort}}:tomona}}tte}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      d,e
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a verb, it means "as" or "while".
+In this usage it can be replaced by @HI{{ni@@FG{{@KJ{{consort}}:tomona}}tte}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      C,f-i
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by @HI{{dearu}} is means "as well as".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      D,j
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nitomonatte">@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}</a> can be used to mean "as".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      e,C
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 532).
+<li> @REF{{NKZM-N2G}}. (p. 42).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

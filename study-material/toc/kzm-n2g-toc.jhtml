@@ -122,11 +122,11 @@
 <h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{nitsurete}}, ~@HI{{nishitagatte}}
-<li> ~@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}, ~@HI{{totomoni}}
-<li> ~@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}
+<li> ~<a href="grammar-ni-tsurete.html">@HI{{nitsurete}}</a>, ~<a href="grammar-ni-shitagatte.html">@HI{{nishitagatte}}</a>
+<li> ~<a href="grammar-to-tomo-ni.html#nitomonatte">@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}</a>, ~<a href="grammar-to-tomo-ni.html">@HI{{totomoni}}</a>
+<li> ~<a href="grammar-shidai.html">@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}</a>
 <li> ~<a href="grammar-ni-oujite.html">@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}</a>
-<li> ~@HI{{nitsukete}}
+<li> ~<a href="grammar-ni-tsukete.html">@HI{{nitsukete}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>

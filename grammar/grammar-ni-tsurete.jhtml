@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitsurete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitsurete}}" grammar="@HI{{nitsurete}}"}}
+
+<body>
+
+<h1>@HI{{nitsurete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{nitsurete}}}}
+<li> @N{{}}@HI{{@EM{{nitsurete}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nitsurete}}}} is used to express two simultaneously growing changes.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{next^No.}}:shidai}}no@FG{{@KJ{{unusual^change}}:henka}}@EM{{nitsurete}},@FG{{@KJ{{sentence^change}}:bunka}}mo@FG{{@KJ{{unusual}}:ka}}watteiku.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Culture also changes with the change of times.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+As @HI{{@EM{{nitsurete}}}} expresses change, both clauses have to involve change or process.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{year}}:toshi}}wo@FG{{@KJ{{take}}:to}}ru@EM{{nitsurete}},@FG{{@KJ{{body^power}}:tairyoku}}ganakunaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As people grow older, they lose their physical strength.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{nitsure}}}} is a more formal form of @HI{{@EM{{nitsurete}}}}, with the same meaning.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 285).
+<li> @REF{{NKZM-N2G}}. (p. 42).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

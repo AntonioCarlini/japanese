@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitsukete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitsukete}}" grammar="@HI{{nitsukete}}"}}
+
+<body>
+
+<h1>@HI{{nitsukete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{nitsukete}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nitsuke}}}} is a conjunction used to indicate that every time someone perceives something, they feel or think something associated with it.
+The perception is expressed by a verb of cognition such as @HI{{@KJ{{see}}ru}}, @HI{{@KJ{{read}}mu}}, @HI{{@KJ{{consider}}eru}}, @HI{{@KJ{{emotion}}jiru}}, and so on.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{napori}}de@FG{{@KJ{{take}}:to}}tta@FG{{@KJ{{both^parent}}:ryoushin'}}no@FG{{@KJ{{copy^true}}:shashin'}}wo@KJ{{see}}ru@EM{{nitsuke}}
+      ano@KJ{{time}}no@KJ{{music}}shikatta@KJ{{trip^going}}wo@KJ{{think}}i@KJ{{exit}}su.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I see a photo of my parents I took in Naples, I remember what a great time we had on that trip.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nitsuke}}}} can be repeated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{two^ten^year-end}}:hatachi}}woharukani@FG{{@KJ{{overdo}}:su}}gitemo@FG{{@KJ{{oneself^stand*up}}:jiritsu}}heno@FG{{@KJ{{see^traffic}}:mitoo}}shi
+      notsukanai@FG{{@KJ{{young^someone}}:wakamono}}wo@KJ{{see}}ru@EM{{nitsuke}}@KJ{{hear}}ku@EM{{nitsuke}},yarusenai@KJ{{think}}igaarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As I watch or hear about young people who are well over 20 but have no prospects for becoming independent, I feel heay-hearted.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nitsuke}}}} can take the form @HI{{@EM{{nitsukete(mo)}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{new^green}}:shinryoku}}no@FG{{@KJ{{incense}}:kao}}riwo@FG{{@KJ{{sniff}}:ka}}gu@EM{{nitsukete(mo)}},[aa,@KJ{{spring}}nandanaa]to@KJ{{think}}wazunohohontoshiteshimaimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As I smell the scent of the fresh green foliage, I tell myself that it's finally spring and I feel really relaxed, almost without realising it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@KJ{{what}}ka@EM{{nitsuke(te)}}}} is an idiomatic phrase meaning "in various ways".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{portable^sash}}:keitai}}wo@KJ{{hold}}tsuyouninatte,@KJ{{what}}ka@EM{{nitsuke(te)}}@FG{{@KJ{{convenience^profit}}:benri}}ninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Now that I have a mobile phone my life has become convenient in various ways.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@KJ{{what^matter}}@EM{{nitsuke(temo)}}}} is an idiomatic phrase meaning "in various ways".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what^matter}}@EM{{nitsuke(temo)}},@FG{{@KJ{{heat^in}}:necchuu}}suruto@FG{{@KJ{{other}}:hoka}}nokotoga@KJ{{see}}enakunaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter what it is, when you get engrossed in one thing, you become blind to everything else.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 444).
+<li> @REF{{NKZM-N2G}}. (p. 43).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
