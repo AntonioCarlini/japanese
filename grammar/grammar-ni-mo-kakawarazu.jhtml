@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nimokakawarazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nimokakawarazu}}" grammar="@HI{{nimokakawarazu}}"}}
+
+<body>
+
+<h1>@HI{{nimokakawarazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nimokakawarazu}}}}
+<li> @Vru{{}}@HI{{(no)@EM{{nimokakawarazu}}}}
+<li> @Ai{{}}@HI{{(no)@EM{{nimokakawarazu}}}}
+<li> @Anastem{{}}@HI{{nano@EM{{nimokakawarazu}}}}
+<li> @Anastem{{}}@HI{{dearu(no)@EM{{nimokakawarazu}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nimokakawarazu}}}} expresses the idea that despite the preceding condition the following clause holds.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{violent}}:hage}}shii@KJ{{rain}}@EM{{nimokakawarazu}},@KT{{sakka-}}no@FG{{@KJ{{^fit}}:shiai}}ha@FG{{@KJ{{continue}}:tsudu}}ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In spite of the fierce rain, the game of soccer continued.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+As shown in the formation, verbs and @HI{{i}}-adjectives can connect directly to @HI{{@EM{{nimokakawarazu}}}} but @HI{{na}}-adjectives have to be nominalised.
+However, if the @HI{{na}}-adjective is followed by @HI{{dearu}}, then the nominaliser becomes optional.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{healthy^sane}}:kenkou}}dearu(no)@EM{{nimokakawarazu}},@KJ{{work}}kanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although he is healthy, he does no work.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 257).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

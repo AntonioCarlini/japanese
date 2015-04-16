@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nikakawarazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikakawarazu}}" grammar="@HI{{nikakawarazu}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}}} means that regardless of the preceding condition, someone does something or something happens or romething is the case.
+As shown in the formation, a variety of forms can precede @HI{{@EM{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hit^company}}:tousha}}ha@FG{{@KJ{{sex^separate}}:seibetsu}}@EM{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}@FG{{@KJ{{same^Esq.}}:douyou}}ni@FG{{@KJ{{rise*up^advance}}:shoushin'}}dekimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At this company you can be promoted equally, regardless of sex.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{connection}}:kakawa}}razu}}}} must not be confused with <a href="grammar-ni-mo-kakawarazu.html">@HI{{@EM{{nimokakawarazu}}}}</a>, which has an entirely different meaning.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 386).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
