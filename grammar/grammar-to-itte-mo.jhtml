@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}ttemo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toittemo}}" grammar="@HI{{to@KJ{{say}}ttemo}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}ttemo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{to@KJ{{say}}ttemo}}}}
+<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}ttemo}}}}
+<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}ttemo}}}}
+<li> @Anastem{{}}@HI{{@EM{{to@KJ{{say}}ttemo}}}}
+<li> @N{{}}@HI{{da@EM{{to@KJ{{say}}ttemo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}ttemo}}}} is a phrase used to clarify an earlier statement that might otherwise be misleading or unclear.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}niha@KJ{{child^submit}}gaimasu. @KJ{{child^submit}}@EM{{to@KJ{{say}}ttemo}}mou@KJ{{large^study^life}}desuga.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have a child. Well, I say "child", but he's already a college student.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The element immediately before @HI{{@EM{{to@KJ{{say}}ttemo}}}} can be dropped when it is part of the immediately preceding sentence and is uttered by the same speaker
+and @HI{{@EM{{to@KJ{{say}}ttemo}}}} is the very beginning of the subsequent sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{attend^matter}}ga@KJ{{see}}tsukarimashita.@EM{{to@KJ{{say}}ttemo}}@KT{{pa-to}}nandesuga.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've found a job. Well, I say "job", it is a part-time job.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 474).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

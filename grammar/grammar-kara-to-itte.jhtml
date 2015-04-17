@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karato@KJ{{say}}tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karatoitte}}" grammar="@HI{{karato@KJ{{say}}tte}}"}}
+
+<body>
+
+<h1>@HI{{karato@KJ{{say}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S{{}}@HI{{@EM{{karato@KJ{{say}}tte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karato@KJ{{say}}tte}}}} is a conjunction which introduces the reason for an action or for an idea, and conveys disapproval for it.
+The main clause is a negative form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child^submit}}da@EM{{karato@KJ{{say}}tte}}@FG{{@KJ{{permit}}:yuru}}suwakenihaikenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot forgive him just because he is a child.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@S1{{}}@HI{{@EM{{karato@KJ{{say}}tte}}}}@S2{{}} can be used when the speaker expects someone else to think of @S2{{}} because of @S1{{}}, but the speaker disagrees or denies it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'nakotowo@KJ{{say}}u@EM{{karato@KJ{{say}}tte}}@FG{{@KJ{{separate}}:betsu}}ni@FG{{@KJ{{criticism^judgment}}:hihan'}}shiteiruwakedehanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even though I tell you such a thing, it doesn't mean that I'm criticising you.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@S1{{}}@HI{{@EM{{karato@KJ{{say}}tte}}}}@S2{{}} can be used when the listener (or someone else) does something because of @S1{{}} but the speaker disagrees with the action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{test^verification}}:shiken'}}ni@FG{{@KJ{{accept}}:u}}karanakatta@EM{{karato@KJ{{say}}tte}}son'nani@FG{{@KJ{{sad^outlook}}:hikan'}}surukotohanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You don't have to be so pessimistic because you didn't pass the exam.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 103).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

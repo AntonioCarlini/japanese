@@ -204,9 +204,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{karato@KJ{{say}}tte}}                                                </td>
+  <td class="left"> <a href="grammar-kara-to-itte.html"> @HI{{karato@KJ{{say}}tte}} </a>                                   </td>
   <td class="left"> DOIJG, p. 103                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{karou}}                                                              </td>
@@ -809,9 +809,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{to@KJ{{say}}ttemo}}                                                  </td>
+  <td class="left"> <a href="grammar-to-itte-mo.html"> @HI{{to@KJ{{say}}ttemo}} </a>                                       </td>
   <td class="left"> DOIJG, p. 474                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{toiu@KJ{{wind}}ni}}                                                  </td>
