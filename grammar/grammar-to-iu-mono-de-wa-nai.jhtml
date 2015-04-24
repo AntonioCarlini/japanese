@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}monodehanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiumonodehanai}}" grammar="@HI{{to@KJ{{say}}monodehanai}}"}}
+@GRMIDX{{index="@HI{{toiumonodemonai}}" grammar="@HI{{to@KJ{{say}}monodemonai}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}monodehanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}monodehanai}}}}
+<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}monodehanai}}}}
+<li> @Anastem{{}}@HI{{(da)@EM{{to@KJ{{say}}monodehanai}}}}
+<li> @N{{}}@HI{{(da)@EM{{to@KJ{{say}}monodehanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}monodehanai}}}} is used to strongly deny the preceding phrase.
+It is used to state emphatically that an assertion or idea cannot be correct.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{don}}:ki}}tteiru@FG{{@KJ{{clothing}}:fuku}}dakega,@FG{{@KJ{{person^interval}}:ningen'}}no@FG{{@KJ{{individual^sex}}:kosei}}wo@FG{{@KJ{{surface}}:arawa}}su@EM{{toiumonodehaarimasen'}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It cannot be said that our clothes alone express our individuality.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 57).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
