@@ -2,25 +2,25 @@
 <html>
 
 <head>
-<title>@HI{{to@KJ{{say}}monodehanai}}</title>
+<title>@HI{{to@KJ{{say}}umonodehanai}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{toiumonodehanai}}" grammar="@HI{{to@KJ{{say}}monodehanai}}"}}
-@GRMIDX{{index="@HI{{toiumonodemonai}}" grammar="@HI{{to@KJ{{say}}monodemonai}}"}}
+@GRMIDX{{index="@HI{{toiumonodehanai}}" grammar="@HI{{to@KJ{{say}}umonodehanai}}"}}
+@GRMIDX{{index="@HI{{toiumonodemonai}}" grammar="@HI{{to@KJ{{say}}umonodemonai}}"}}
 
 <body>
 
-<h1>@HI{{to@KJ{{say}}monodehanai}}</h1>
+<h1>@HI{{to@KJ{{say}}umonodehanai}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}monodehanai}}}}
-<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}monodehanai}}}}
-<li> @Anastem{{}}@HI{{(da)@EM{{to@KJ{{say}}monodehanai}}}}
-<li> @N{{}}@HI{{(da)@EM{{to@KJ{{say}}monodehanai}}}}
+<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}
+<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}
+<li> @Anastem{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}
+<li> @N{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}monodehanai}}}} is used to strongly deny the preceding phrase.
+@HI{{@EM{{to@KJ{{say}}umonodehanai}}}} is used to strongly deny the preceding phrase.
 It is used to state emphatically that an assertion or idea cannot be correct.
 
 <table class="sentence">
