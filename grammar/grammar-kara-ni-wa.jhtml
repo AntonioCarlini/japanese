@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karaniha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karaniha}}" grammar="@HI{{karaniha}}"}}
+
+<body>
+
+<h1>@HI{{karaniha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{karaniha}}}}.
+<li> <em>quote</em>@HI{{to@EM{{karaniha}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karaniha}}}} can be used with a verb in the informal past to mean "once someone has done something".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ittan@FG{{@KJ{{pull}}:hi}}ki@FG{{@KJ{{accept}}:uk}}keta@EM{{karaniha}}@FG{{@KJ{{utmost^behind}}:saigo}}made@FG{{@KJ{{blame^responsibility}}:sekinin'}}womotteyarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Once I ntake on (the job), I will fulfill my responsibility and complete it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karaniha}}}} can be used with a verb in the informal past to mean "now that".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{life}}maretekita@EM{{karaniha}}@FG{{@KJ{{long^life}}:nagai}}kishitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As long as I'm here (lit: as I have been born), I'd like to live a long time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karaniha}}}} when used with a verb in the informal non-past means "as long as", "since" or "because".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tailor^judgment}}:saiban'}}to@KJ{{say}}@EM{{karaniha}}@FG{{@KJ{{valve^safeguard^person}}:bengonin'}}ga@FG{{@KJ{{negative^can^lack}}:fukaketsu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since it is a trial, a defence laywer will be indispensable.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karaniha}}}} is often used with @HI{{to@KJ{{say}}u}} or @HI{{to@KJ{{say}}tta}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{going}}kutte@KJ{{say}}tta@EM{{karaniha}}chanto@KJ{{going}}kanakya@FG{{@KJ{{burdensome^eye}}:dame}}dayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Now that you've said you're going there, you have to go, OK?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The @HI{{ni}} of @HI{{@EM{{karaniha}}}} can be omitted in spoken Japanese.
+</p>
+
+<p>
+@HI{{@EM{{karaniha}}}} can always be replaced by <a href="grammar-ijou.html">@FG{{@KJ{{by*means*of^above}}:ijou}}(@HI{{ha}})</a>
+but the reverse is not true when the latter means "as long as someone does something continuously, either a good or a bad result follows".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 195).
+<li> @REF{{NKZM-N2G}}. (p. 79).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

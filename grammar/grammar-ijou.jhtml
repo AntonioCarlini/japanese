@@ -17,7 +17,7 @@
 
 <ol>
 <li> @Vru{{}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}(@HI{{ha}})
-<li> @N{{}}@HI{{dearu}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ha}}
+<li> @N{{}}@HI{{dearu@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ha}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -54,8 +54,6 @@ This cannot be used to express an objective causal relation.
 </table>
 </p>
 
-@BGRND{{}}
-
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -68,6 +66,7 @@ As shown in the Formation, @S1{{}} always ends in a verb or @HI{{dearu}} and nev
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 64).
+<li> @REF{{NKZM-N2G}}. (p. 79).
 </ol>
 
 @include{{"grammar-footer.inc"}}

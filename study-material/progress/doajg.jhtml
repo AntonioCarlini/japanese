@@ -52,9 +52,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{bakari}}@HI{{ni}}                                                      </td>
+  <td class="left"> <a href="grammar-bakari-ni.html">@HI{{bakari}}@HI{{ni}}</a>                                             </td>
   <td class="left"> DOAJG, p. 25                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{bakoso}}                                                               </td>
@@ -97,9 +97,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{dakeni}}                                                               </td>
+  <td class="left"> <a href="grammar-dake-ni.html">@HI{{dakeni}}</a>                                                        </td>
   <td class="left"> DOAJG, p. 47                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{dakenokotohaaru}}                                                      </td>
@@ -337,9 +337,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{karaniwa}}                                                             </td>
+  <td class="left"> <a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a>                                                   </td>
   <td class="left"> DOAJG, p. 195                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kara-shite.html">@HI{{karashite}}</a>                                                  </td>

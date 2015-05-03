@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{bakarin}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{bakarini}}" grammar="@HI{{bakarini}}"}}
+@GRMIDX{{index="@HI{{tobakarini}}" grammar="@HI{{tobakarini}}" anchor=to }}
+
+<body>
+
+<h1>@HI{{bakarin}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@HI{{@EM{{bakarini}}}}.
+<li> @Ai{{}}@HI{{@EM{{bakarini}}}}.
+<li> @Ana{{}}@HI{{@EM{{bakarini}}}}.
+<li> @N{{}}@HI{{dearu@EM{{bakarini}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{bakarin}}}} is a conjunction that indicates that a single factor causes a negative situation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{me}}:boku}}ga@FG{{@KJ{{one^say}}:hitokoto}}@FG{{@KJ{{unusual}}:hen'}}nakotowo@KJ{{say}}tta@EM{{bakarini}}@FG{{@KJ{{he^woman}}:kanojo}}tono
+      @FG{{@KJ{{connection^person*in*charge}}:kankei}}na@KJ{{bad}}kunatteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Just because I said one nasty thing to her, my relationship with her deteriorated.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the clause before @HI{{@EM{{bakarini}}}} takes the auxiliary adjective @HI{{tai}} then the main clause can indicate effort.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{yanki-su}}no@FG{{@KJ{{pine*tree^well^excel^rejoice}}:matsuihideki}}wo@KJ{{see}}tai@EM{{bakarini}},wazawaza@KJ{{day^book}}kara@KT{{nyu-yo-ku}}niyattekimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I came to New York all the way from Japan just to see the Yankee's Hideki Matsui.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="to">If</a> @HI{{@EM{{bakarini}}}} is preceded by @HI{{to}} then the meaning is completely different and becomes "as if someone were saying".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@KJ{{now}}ga@KT{{chansu}}@EM{{tobakarini}}@FG{{@KJ{{he^woman}}:kanojo}}ni@FG{{@KJ{{say}}:i}}i@FG{{@KJ{{draw*near}}:yo}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Thinking this was his best chance (lit. As if he were saying "now is my chance"), he made advances towards her.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 25).
+<li> @REF{{NKZM-N2G}}. (p. 79).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

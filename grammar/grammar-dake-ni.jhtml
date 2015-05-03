@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dakeni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dakeni}}" grammar="@HI{{dakeni}}"}}
+
+<body>
+
+<h1>@HI{{dakeni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{dakeni}}}}.
+<li> @Ai{{}}@HI{{@EM{{dakeni}}}}.
+<li> @Ana{{}}@HI{{@EM{{dakeni}}}}.
+<li> @N{{}}@HI{{@EM{{dakeni}}}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dakeni}}}} expreses the idea that the preceding clause is "as one would expect" and so explains the following clause.
+The preceding clause is something taken as a fact.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{biru}}ha@FG{{@KJ{{beginning}}:moto}}@KT{{futtobo-ru}}@FG{{@KJ{{elect^hand}}:senshu}}@EM{{dakeni}}@KJ{{leg}}ga@FG{{@KJ{{quick}}:haya}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bill used to be a footballer and, as one would expect, he runs fast.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The adverb @HI{{sasuga}} is sometimes used with @HI{{@EM{{dakeni}}}} to indicate that the speaker is impressed by the following clause.
+@HI{{sasuga}} can appear immediately before or immediately after the topic.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sasuga@KJ{{he}}ha@KJ{{beginning}}@KT{{anaunsa-}}@EM{{dakeni}}@KJ{{voice}}gayoku@KJ{{traffic}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He used to be an announcer, so naturally his voice carries well.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 47).
+<li> @REF{{NKZM-N2G}}. (p. 78).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

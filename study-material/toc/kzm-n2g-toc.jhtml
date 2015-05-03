@@ -203,11 +203,13 @@
 <h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{kotodashi}}
-<li> ~@HI{{nokotodakara}}
-<li> ~@HI{{dakeni}}
-<li> ~@HI{{bakarini}}
-<li> ~@HI{{karaniha}} @MIDDOT{{}} ~@FG{{@KJ{{by*means*of^above}}:ijou}}(@HI{{ha}}) @MIDDOT{{}} ~@FG{{@KJ{{above}}:ue}}@HI{{ha}}
+<li> ~<a href="grammar-koto-dashi.html">@HI{{kotodashi}}</a>
+<li> ~<a href="grammar-no-koto-dakara.html">@HI{{nokotodakara}}</a>
+<li> ~<a href="grammar-dake-ni.html">@HI{{dakeni}}</a>
+<li> ~<a href="grammar-bakari-ni.html">@HI{{bakarini}}</a>
+<li> ~<a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ijou.html">@FG{{@KJ{{by*means*of^above}}:ijou}}(@HI{{ha}})</a> @MIDDOT{{}}
+     ~@FG{{@KJ{{above}}:ue}}@HI{{ha}}
 </ol>
 
 <h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
