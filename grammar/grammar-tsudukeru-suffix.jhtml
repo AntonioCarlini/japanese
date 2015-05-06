@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tsudukeru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tsudukeru}}" grammar="@HI{{@FG{{@KJ{{continue}}:tsudu}}keru}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{continue}}:tsudu}}keru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{continue}}:tsudu}}keru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{tsudukeru}}}} functions as a auxiliary verb attached to the @HI{{masu}} stem of a verb and gives the meaning of "to continue to do ~".
+</p>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{5@FG{{@KJ{{part^interval}}:funkan'}}@FG{{@KJ{{run}}:hashi}}@EM{{@KJ{{continue}}kete}}kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Please keep running for five minutes.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

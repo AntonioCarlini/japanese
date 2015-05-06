@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toiukotoninaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiukotoninaru}}" grammar="@HI{{toiukotoninaru}}"}}
+
+<body>
+
+<h1>@HI{{toiukotoninaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{toiukotoninaru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{toiukotoninaru}}}} is used to sum up several items of information. It is followed by a clause that states the implications of the situation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{crowded}}:komu}}@KJ{{study^life}}ga10@FG{{@KJ{{person}}:nin'}}@FG{{@KJ{{by*means*of^above}}:ijou}}ninaranakereba,
+      kono@FG{{@KJ{{trip^going}}:ryokou}}ha@FG{{@KJ{{in^stop}}:chuushi}}@EM{{toiukotoninaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Unless at least 10 students apply, the trip will be cancelled.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

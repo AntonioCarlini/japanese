@@ -158,15 +158,19 @@
 <h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>... @HI{{hazuda}}
-<li> <a href="grammar-.html"></a>... @HI{{hazuka}}/@HI{{hanai}}
-<li> <a href="grammar-.html"></a>... @HI{{hazudatta}}
-<li> <a href="grammar-.html"></a>... @HI{{kotoga}}/@HI{{moaru}}
-<li> <a href="grammar-.html"></a>~ @Vta{{}}@KJ{{tie^fruit}}/@N{{}}@HI{{no}}@KJ{{tie^fruit}}
-<li> <a href="grammar-.html"></a>~@KJ{{exit}}@HI{{su}}
-<li> <a href="grammar-.html"></a>~@KJ{{commence}}@HI{{meru}}/@KJ{{end}}@HI{{waru}}/@KJ{{continue}}@HI{{keru}}
-<li> <a href="grammar-.html"></a>~@KJ{{forget}}@HI{{reru}}/@KJ{{fit}}@HI{{u}}/@KJ{{interchange}}@HI{{eru}}
-<li> <a href="grammar-.html"></a>@HI{{toiukotoninaru}}
+<li> ~<a href="grammar-hazu.html#da">@HI{{hazuda}}</a>
+<li> ~<a href="grammar-hazu-ga-nai.html">@HI{{hazuga}}/@HI{{hanai}}</a>
+<li> ~<a href="grammar-hazu.html#datta">@HI{{hazudatta}}</a>
+<li> ~<a href="grammar-ru-koto-ga-aru.html">@HI{{kotoga}}/@HI{{moaru}}</a>
+<li> ~<a href="grammar-kekka.html">@Vta{{}}@KJ{{tie^fruit}} @MIDDOT{{}} @N{{}}@HI{{no}}@KJ{{tie^fruit}}</a>
+<li> ~<a href="grammar-dasu-suffix.html">@KJ{{exit}}@HI{{su}}</a>
+<li> <a href="grammar-hajimeru-suffix.html">@KJ{{commence}}@HI{{meru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-owaru-suffix.html">@KJ{{end}}@HI{{waru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-tsudukeru-suffix.html">@KJ{{continue}}@HI{{keru}}</a>
+<li> ~<a href="grammar-wasureru-suffix.html">@KJ{{forget}}@HI{{reru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-au-suffix.html">@KJ{{fit}}@HI{{u}}</a> @MIDDOT{{}}
+     ~<a href="grammar-kaeru-suffix.html">@KJ{{interchange}}@HI{{eru}}</a>
+<li> ~<a href="grammar-to-iu-koto-ni-naru.html">@HI{{toiukotoninaru}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter11">_</a>Chapter 11</h2>

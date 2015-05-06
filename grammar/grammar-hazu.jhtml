@@ -7,7 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{hazu}}" grammar="@HI{{hazu}}"}}
+@GRMIDX{{index="@HI{{hazu}}" grammar="@HI{{hazu}}" anchor="da"}}
+@GRMIDX{{index="@HI{{hazudatta}}" grammar="@HI{{hazudatta}}" anchor="datta"}}
 
 <body>
 
@@ -16,11 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{hazu}}}}
-<li> @Vnai{{}} @HI{{@EM{{hazu}}}}
-<li> @Ai{{}} @HI{{@EM{{hazu}}}}
-<li> @Ana{{}} @HI{{@EM{{hazu}}}}
-<li> @N{{}} @HI{{no}} @HI{{@EM{{hazu}}}}
+<li> @Vru{{}}@HI{{@EM{{hazu}}}}
+<li> @Vnai{{}}@HI{{@EM{{hazu}}}}
+<li> @Ai{{}}@HI{{@EM{{hazu}}}}
+<li> @Ana{{}}@HI{{@EM{{hazu}}}}
+<li> @N{{}}@HI{{no}}@HI{{@EM{{hazu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{hazu}}}} which indicates the speaker's belief that something will happen (or happened).
+<a name="da">@HI{{@EM{{hazu}}}}</a> which indicates the speaker's belief that something will happen (or happened).
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +44,7 @@
 
 @BGRND{{}}
 <p>
-An expectation that something will not be the case can be expressed either by negating the sentence before @HI{{@EM{{hazu}}}}.
+An expectation that something will not be the case can be expressed by negating the sentence before @HI{{@EM{{hazu}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -86,13 +87,27 @@ The latter construction carries the heavier weight.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="datta">@HI{{@EM{{hazudatta}}}}</a> is the past form of @HI{{@EM{{hazuda}}}} and indicates what the speaker thinks should have happened.
+It is most commonly used when the result turns out to be different from what had been expected.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{trip^going}}:ryokou}}ni@KJ{{going}}ku@EM{{hazudatta}}. shikashi,@FG{{@KJ{{ill^spirit}}:byouki}}de@KJ{{going}}kenakunatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was supposed to go on a trip. However, I fell ill and couldn't go.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{hazu}}}} indicates an expectation based on some reliable knowledge and so it is more than
-just a guess.
+@HI{{@EM{{hazu}}}} indicates an expectation based on some reliable knowledge and so it is more than just a guess.
 </p>
 
 <h2> References </h2>
@@ -100,6 +115,7 @@ just a guess.
 <ol>
 <li> @REF{{DOBJG}}. (p. 133).
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}
