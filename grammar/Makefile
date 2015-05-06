@@ -109,6 +109,7 @@ JHTML_SRCS += grammar-kara-shite.jhtml
 JHTML_SRCS += grammar-kara-to-itte.jhtml
 JHTML_SRCS += grammar-kata.jhtml
 JHTML_SRCS += grammar-kawari-ni.jhtml
+JHTML_SRCS += grammar-kekka.jhtml
 JHTML_SRCS += grammar-kekkou.jhtml
 JHTML_SRCS += grammar-kenjougo.jhtml
 JHTML_SRCS += grammar-kesshite.jhtml

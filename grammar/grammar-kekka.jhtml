@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{tie^fruit}}:kekka}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kekka}}" grammar="@HI{{@FG{{@KJ{{tie^fruit}}:kekka}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{tie^fruit}}:kekka}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@HI{{@EM{{@FG{{@KJ{{tie^fruit}}:kekka}}}}}}
+<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{tie^fruit}}:kekka}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+This sentence pattern shows that the action before @HI{{@EM{{kekka}}}} led to the event described in the subsequent clause.
+It is used mainly in writing but can also be found on TV or the radio.
+</p>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{tune^investigate}}:chousa}}no@EM{{@KJ{{tie^fruit}}}},kono@KJ{{village}}no@FG{{@KJ{{person^mouth}}:jinkou}}ga@FG{{@KJ{{dwindle}}:he}}ttekiteirukotogawakarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The investigation showed that the population of this town is shrinking.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

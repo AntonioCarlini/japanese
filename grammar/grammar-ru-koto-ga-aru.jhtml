@@ -17,6 +17,7 @@
 
 <ol>
 <li> @Vru{{}}(non-past)@HI{{@EM{{kotogaaru}}}}
+<li> @Vnai{{}}@HI{{@EM{{kotogaaru}}}}
 <li> @Ai{{}}@HI{{@EM{{kotogaaru}}}}
 <li> @Ana{{}}@HI{{@EM{{kotogaaru}}}}
 <li> @N{{}}@HI{{no}}@HI{{@EM{{kotogaaru}}}}
@@ -44,6 +45,7 @@ This sentence pattern is used to indicate that something happens from time to ti
 
 <ol>
 <li> @REF{{DOBJG}}. (page 198).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}
