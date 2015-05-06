@@ -252,9 +252,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{one^direction}}:ippou}}(@HI{{da}})                                </td>
+  <td class="left"> <a href="grammar-ippou-da.html">@FG{{@KJ{{one^direction}}:ippou}}(@HI{{da}})</a>                        </td>
   <td class="left"> DOAJG, p. 146                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ippou-de.html">@FG{{@KJ{{one^direction}}:ippou}}(@HI{{de}})</a>                        </td>

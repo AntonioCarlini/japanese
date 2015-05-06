@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{one^direction}}@HI{{da}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ippouda}}" grammar="@KJ{{one^direction}}@HI{{da}}"}}
+
+<body>
+
+<h1>@KJ{{one^direction}}@HI{{da}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{da}}
+<li> @Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{no}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@KJ{{one^direction}}@HI{{da}} can be used when describing a state that progresses in a  single direction.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:bukka}}ha@KJ{{above}}garu@EM{{@KJ{{one^direction}}}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Prices are rising steadily.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@KJ{{one^direction}}@HI{{da}} can be used to describe a state in which one party does something to or for another but not vice versa.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{long*time^child}}:hisako}}ha@KJ{{private}}nimonowo@FG{{@KJ{{trust}}:tano}}mu@EM{{@KJ{{one^direction}}}}de,@KJ{{what}}moshitekuretakotoganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hisako is always asking for favours but has never done anything for me.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 146).
+<li> @REF{{NKZM-N3G}}. (p. 12).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

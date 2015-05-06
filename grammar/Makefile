@@ -87,6 +87,7 @@ JHTML_SRCS += grammar-imasara.jhtml
 JHTML_SRCS += grammar-interrogative-te-mo.jhtml
 JHTML_SRCS += grammar-interrogatives-with-particles.jhtml
 JHTML_SRCS += grammar-interrogatives.jhtml
+JHTML_SRCS += grammar-ippou-da.jhtml
 JHTML_SRCS += grammar-ippou-de.jhtml
 JHTML_SRCS += grammar-irai.jhtml
 JHTML_SRCS += grammar-iru-need.jhtml
