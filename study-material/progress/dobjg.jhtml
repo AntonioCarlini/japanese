@@ -94,7 +94,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-dasu.html">@HI{{dasu}}</a>                                                             </td>
+  <td class="left"> <a href="grammar-dasu-suffix.html">@HI{{dasu}}</a>                                                      </td>
   <td class="left"> DOBJG, p. 102                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
@@ -154,7 +154,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-hajimeru.html">@HI{{hajimeru}}</a>                                                     </td>
+  <td class="left"> <a href="grammar-hajimeru-suffix.html">@HI{{hajimeru}}</a>                                              </td>
   <td class="left"> DOBJG, p. 131                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
@@ -649,7 +649,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-owaru.html"> @KJ{{end}}@HI{{waru}} </a>                                                </td>
+  <td class="left"> <a href="grammar-owaru-suffix.html"> @KJ{{end}}@HI{{waru}} </a>                                         </td>
   <td class="left"> DOBJG, p. 362                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>

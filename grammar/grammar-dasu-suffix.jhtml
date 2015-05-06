@@ -53,8 +53,8 @@ has started to happen.
 
 <p>
 The suffix @KJ{{exit}}@HI{{su}} usually indicates an abrupt and non-volitional start.
-<a href="grammar-hajimeru.html">@HI{{hajimeru}}</a>, on the other hand, has a broader usage.
-The antonym of both of these forms is a verb with the suffix <a href="grammar-owaru.html">@KJ{{end}}@HI{{waru}}</a>.
+<a href="grammar-hajimeru-suffix.html">@HI{{hajimeru}}</a>, on the other hand, has a broader usage.
+The antonym of both of these forms is a verb with the suffix <a href="grammar-owaru-suffix.html">@KJ{{end}}@HI{{waru}}</a>.
 </p>
 
 <h2> References </h2>
@@ -62,6 +62,7 @@ The antonym of both of these forms is a verb with the suffix <a href="grammar-ow
 <ol>
 <li> @REF{{DOBJG}}. (p. 102).
 <li> @REF{{NKZM-N3G}}. (p. 96).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}

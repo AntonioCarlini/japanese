@@ -163,9 +163,9 @@
 <li> ~<a href="grammar-hazu.html#datta">@HI{{hazudatta}}</a>
 <li> ~<a href="grammar-ru-koto-ga-aru.html">@HI{{kotoga}}/@HI{{moaru}}</a>
 <li> ~<a href="grammar-kekka.html">@Vta{{}}@KJ{{tie^fruit}} @MIDDOT{{}} @N{{}}@HI{{no}}@KJ{{tie^fruit}}</a>
-<li> <a href="grammar-.html"></a>~@KJ{{exit}}@HI{{su}}
-<li> <a href="grammar-.html"></a>~@KJ{{commence}}@HI{{meru}} @MIDDOT{{}}
-     ~@KJ{{end}}@HI{{waru}} @MIDDOT{{}}
+<li> ~<a href="grammar-dasu-suffix.html">@KJ{{exit}}@HI{{su}}</a>
+<li> <a href="grammar-hajimeru-suffix.html">@KJ{{commence}}@HI{{meru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-owaru-suffix.html">@KJ{{end}}@HI{{waru}}</a> @MIDDOT{{}}
      ~<a href="grammar-tsudukeru-suffix.html">@KJ{{continue}}@HI{{keru}}</a>
 <li> ~<a href="grammar-wasureru-suffix.html">@KJ{{forget}}@HI{{reru}}</a> @MIDDOT{{}}
      ~<a href="grammar-au-suffix.html">@KJ{{fit}}@HI{{u}}</a> @MIDDOT{{}}
