@@ -158,9 +158,9 @@
 <h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>... @HI{{hazuda}}
-<li> <a href="grammar-.html"></a>... @HI{{hazuka}}/@HI{{hanai}}
-<li> <a href="grammar-.html"></a>... @HI{{hazudatta}}
+<li> ~<a href="grammar-hazu.html#da">@HI{{hazuda}}</a>
+<li> ~<a href="grammar-hazu-ga-nai.html">@HI{{hazuga}}/@HI{{hanai}}</a>
+<li> ~<a href="grammar-hazu.html#datta">@HI{{hazudatta}}</a>
 <li> <a href="grammar-.html"></a>... @HI{{kotoga}}/@HI{{moaru}}
 <li> <a href="grammar-.html"></a>~ @Vta{{}}@KJ{{tie^fruit}}/@N{{}}@HI{{no}}@KJ{{tie^fruit}}
 <li> <a href="grammar-.html"></a>~@KJ{{exit}}@HI{{su}}

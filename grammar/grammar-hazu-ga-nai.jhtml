@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{hazuganai}}" grammar="@HI{{hazuganai}}"}}
+@GRMIDX{{index="@HI{{wakeganai}}" grammar="@HI{{wakeganai}}"}}
 
 <body>
 
@@ -33,6 +34,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{hazuganai}}}} expresses the speaker's subjective judgement that an event is very unlikely.
 
@@ -46,6 +50,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{hazuganai}}}} is a phrase that expresses the speaker's opinion that "there is no reason why ...".
 
@@ -58,6 +63,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
