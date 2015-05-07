@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{mokamawanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{temokamawanai}}" grammar="@HI{{mokamawanai}}"}}
+
+<body>
+
+<h1>@Vte{{}}@HI{{mokamawanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{@EM{{mokamawanai}}}}
+<li> @Aistem{{}}@HI{{kute@EM{{mokamawanai}}}}
+<li> @Anastem{{}}@HI{{de@EM{{mokamawanai}}}}
+<li> @N{{}}@HI{{de@EM{{mokamawanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+This sentence pattern is used for giving permission or allowing something to be done.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{interval}}:ma}}ni@FG{{@KJ{{fit}}:a}}wanakattara,ashitade@EM{{mokamaimasen'}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you run out of time today, tomorrow will be acceptable.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+This sentence pattern is used in an interrogative form to ask for permission to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokoni@FG{{@KJ{{sit}}:suwa}}@EM{{ttemokamaimasen'}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      May I sit here please?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The basic meaning of @Vte{{}}@HI{{@EM{{mokamawanai}}}} is the same as <a href="grammar-te-mo-ii.html">@Vte{{}}@HI{{moii}}</a>, but the former is more formal.
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

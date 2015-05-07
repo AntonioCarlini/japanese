@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{o ~ desu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{o ~ desu}}" grammar="@HI{{o ~ desu}}"}}
+
+<body>
+
+<h1>@HI{{o ~ desu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{o}}}}@Vmasustem{{}}@HI{{@EM{{desu}}}}
+<li> @HI{{@EM{{o}}@NS{{}}@EM{{da}}}}
+<li> @HI{{@EM{{o}}@Vmasustem{{}}@EM{{desu}}no@N{{}}}}
+<li> @HI{{@EM{{vo}}@NS{{}}no@N{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+This pattern is a respectful way of describing an ongoing action or the state resulting from an action.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{what}}wo@EM{{o}}@KJ{{read}}mi@EM{{desu}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    May I ask what you are reading?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+With verbs that indicate arrival and departure, it can be used as a respectful form of the verb.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{section^long}}:buchou}}ha@KJ{{what^time}}no@EM{{o}}@FG{{@KJ{{don}}:tsu}}ki@EM{{desu}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    What time will the department manager be arriving?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+As this form does not explcitly express the aspect of the verb, aspect is determined from the context.
+
+<ol>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{kopi-}}hamou@EM{{o}}@KJ{{finish}}mi@EM{{desu}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Have you already finished the copying?
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{o@FG{{@KJ{{guest^Esq.}}:kyakusama}}hamada@EM{{o}}@KJ{{homecoming}}ri@EM{{jaarimasen'}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The guests haven't left yet.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{o@FG{{@KJ{{guest^Esq.}}:kyakusama}}hamousugu@EM{{o}}@KJ{{homecoming}}ri@EM{{desu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The guests are leaving soon.
+  </td> </tr>
+</table>
+<li>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{mou@FG{{@KJ{{all}}:mina}}san@EM{{o}}@FG{{@KJ{{gather}}:atsu}}mari@EM{{desu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Everybody is here (lit. has gathered) now.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 318).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
