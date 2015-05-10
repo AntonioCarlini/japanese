@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{youganai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{youganai}}" grammar="@HI{{youganai}}"}}
+
+<body>
+
+<h1>@HI{{youganai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{youganai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The suffix @HI{{@EM{{youganai}}}} is used to indicate that there is no way to do something or no possibility of doing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@FG{{@KJ{{take*along^entwine^before}}:renrakusaki}}gawakaranainode,zono@KT{{nyu-su}}@FG{{@KJ{{know}}:rasetakutemo}}
+      @FG{{@KJ{{know}}:rase}}@EM{{youganai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I don't know his contact address, even if I want to tell him this news, there's no way I can notify him.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{youganai}}}} carries a nuance of something being impossible to do.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 83).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

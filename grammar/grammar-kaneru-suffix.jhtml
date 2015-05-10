@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kaneru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kaneru}}" grammar="@HI{{kaneru}}"}}
+
+<body>
+
+<h1>@HI{{kaneru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{kaneru}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{kanenai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The suffix @HI{{@EM{{kaneru}}}} is used in formal spoken or written Japanese to express politely that the speaker cannot do something owing
+to a specific circumstance.
+This form can only be used as a suffix with verbs that take a human first person subject.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'na@FG{{@KJ{{tall^}}:kouka}}na@FG{{@KJ{{}}:oku}}ri@FG{{@KJ{{thing}}:mono}},@FG{{@KJ{{}}:itada}}ki@EM{{kanemasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot accept such an expensive gift.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{machi@EM{{kaneru}}}} is the only exception to the above rule, in that it takes a third person subject.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{midorisan,go@FG{{@KJ{{lord^person}}:shujin'}}gao@KJ{{wait}}chi@EM{{kane}}yo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Midori, your husband is waiting for you with impatience (lit: cannot wait).
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When the main predicate is in the progressive form, that is @HI{{@EM{{kaneteiru}}}}, a subject in the third person is allowed.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@KJ{{private}}no@KJ{{spirit^hold}}chiwo@FG{{@KJ{{quantity}}:haka}}ri@EM{{kaneteiru}}youda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He appears to find it hard to understand my feelings.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When suffix is in the negative, @HI{{@EM{{kanenai}}}}, the double negative means not "can do" but "it is very possible" or "might".
+This form is used as a suffix with verbs that take either a third person human subject or a thrid person non-human subject.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{outburst^move}}:houdou}}suru@FG{{@KJ{{rouse}}:o}}kori@EM{{kanenai}}youna@FG{{@KJ{{tense^urge}}:kinpaku}}shita
+      @FG{{@KJ{{feelings^but*of*course}}:joukyou}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was such a tense situation that even a riot could have taken place.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+No potential forms can take @HI{{@EM{{kaneru}}}}, except @HI{{wakaru}} and @HI{{dekiru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sonokotoha@KJ{{private}}niha@KJ{{part}}kari@EM{{kanemasu}}kara,@FG{{@KJ{{section^long}}:buchou}}nio@KJ{{hear}}ninatte@KJ{{below}}dasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am not in a position to figure out that matter, so please ask the department chief.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 50).
+<li> @REF{{NKZM-N2G}}. (p. 82).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

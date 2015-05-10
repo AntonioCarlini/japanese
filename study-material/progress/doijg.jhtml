@@ -114,9 +114,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> -@HI{{gatai}}                                                             </td>
+  <td class="left"> <a href="grammar-gatai-suffix.html"> -@HI{{gatai}} </a>                                                </td>
   <td class="left"> DOIJG, p. 50                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @KJ{{inverted}}@HI{{ni}}                                                  </td>
@@ -189,9 +189,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{kaneru}}                                                             </td>
+  <td class="left"> <a href="grammar-kaneru-suffix.html"> @HI{{kaneru}} </a>                                               </td>
   <td class="left"> DOIJG, p. 96                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> ~ @HI{{kara}} ~ @HI{{ni@KJ{{climax}}rumade}}                              </td>
@@ -929,9 +929,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @KJ{{gain}} (@HI{{uru}}/@HI{{eru}})                                       </td>
+  <td class="left"> <a href="grammar-eru-suffix.html"> @KJ{{gain}} (@HI{{uru}}/@HI{{eru}}) </a>                            </td>
   <td class="left"> DOIJG, p. 553                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @Vmasustem{{}}                                                            </td>

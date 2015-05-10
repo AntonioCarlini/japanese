@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{gatai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{gatai}}" grammar="@HI{{gatai}}"}}
+
+<body>
+
+<h1>@HI{{gatai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{gatai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The suffix @HI{{@EM{{gatai}}}} is an auxiliary adjective used to indicate that for someone to do something is impossible or
+virtually impossible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@FG{{@KJ{{going^do}}:koui}}ha@FG{{@KJ{{logic^unravel}}:rikai}}shi@EM{{gatai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His behaviour is hard to understand.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 50).
+<li> @REF{{NKZM-N2G}}. (p. 82).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -215,12 +215,12 @@
 <h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{gatai}}
-<li> ~@HI{{wakenihaikanai}} @MIDDOT{{}} ~@HI{{wakenimoikanai}}
-<li> ~@HI{{kaneru}}
-<li> ~@Vyou{{}}@HI{{ganai}}
-<li> ~@HI{{dokorodehanai}}
-<li> ~@FG{{@KJ{{gain}}:u}}@HI{{ru}}/@FG{{@KJ{{gain}}:e}}@HI{{nai}}
+<li> ~<a href="grammar-gatai-suffix.html">@HI{{gatai}}</a>
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a> @MIDDOT{{}} ~@HI{{wakenimoikanai}}
+<li> ~<a href="grammar-kaneru-suffix.html">@HI{{kaneru}}</a>
+<li> ~<a href="grammar-you-ga-nai-suffix.html">@HI{{youganai}}</a>
+<li> ~<a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
+<li> ~<a href="grammar-eru-suffix.html">@FG{{@KJ{{gain}}:u}}@HI{{ru}}</a> @MIDDOT{{}} ~<a href="grammar-eru-suffix.html">@FG{{@KJ{{gain}}:e}}@HI{{nai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.19">_</a>19 @KJ{{chapter}}</h3>

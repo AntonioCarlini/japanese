@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{eru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{eru}}" grammar="@HI{{eru}}"}}
+
+<body>
+
+<h1>@HI{{eru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{gain}}:e}}ru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The suffix @HI{{@EM{{@FG{{@KJ{{gain}}:e}}ru}}}} is used in written Japanese and sometimes in formal spoken Japanese
+to express possibility.
+   
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{carry^move}}:undou}}wosurukotoniyotte@FG{{@KJ{{healthy^sane}}:kenkou}}wo@FG{{@KJ{{fiber^hold}}:iji}}shi@KJ{{gain}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      By doing exercise one can maintain one's health.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Either @HI{{eru}} or @HI{{uru}} cna be used when the suffix is in the dictionary form. In other cases only one of the forms
+is acceptable. The basic conjugation pattern is as shown below.
+
+<table border="1">
+  <tr> <th> &nbsp;      </th> <th> @HI{{eru}}   </th> <th> @HI{{uru}}    </th> </tr>  
+  <tr> <td> @HI{{nai}}  </td> <td> @HI{{enai}}  </td> <td> &nbsp;        </td> </tr>
+  <tr> <td> @HI{{masu}} </td> <td> @HI{{emasu}} </td> <td> &nbsp;        </td> </tr>
+  <tr> <td> @HI{{ru}}   </td> <td> @HI{{eru}}   </td> <td> @HI{{uru}}    </td> </tr>
+  <tr> <td> @HI{{ba}}   </td> <td> &nbsp;       </td> <td> @HI{{ureba}}  </td> </tr>
+  <tr> <td> @HI{{you}}  </td> <td> @HI{{eyou}}  </td> <td> &nbsp;        </td> </tr>
+  <tr> <td> @HI{{te}}   </td> <td> @HI{{ete}}   </td> <td> &nbsp;        </td> </tr>
+  <tr> <td> @HI{{ta}}   </td> <td> @HI{{eta}}   </td> <td> &nbsp;        </td> </tr>
+</table>
+
+</p>
+
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The fundamental meaning of @HI{{eru}}/@HI{{uru}} is the existence of possibility and not ability, so neither can be used in
+a sentence that expresses pure ability.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 553).
+<li> @REF{{NKZM-N2G}}. (p. 83).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
