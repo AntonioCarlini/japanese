@@ -7,7 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{toori ni}}" grammar="@HI{{toori ni}}"}}
+@GRMIDX{{index="@HI{{toorini}}" grammar="@HI{{toorini}}"}}
+@GRMIDX{{index="@HI{{doorini}}" grammar="@HI{{doori(ni)}}"}}
 
 <body>
 
@@ -16,10 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{toori ni}}}},
-<li> @Vta{{}}@HI{{@EM{{toori ni}}}},
-<li> @N{{}}@HI{{no@EM{{toori ni}}}},
-<li> <em>demonstrative</em>@HI{{no@EM{{toori ni}}}},
+<li> @Vru{{}}@HI{{@EM{{toorini}}}},
+<li> @Vta{{}}@HI{{@EM{{toorini}}}},
+<li> @N{{}}@HI{{no@EM{{toorini}}}},
+<li> <em>demonstrative</em>@HI{{no@EM{{toorini}}}},
+<li> @N{{}}@HI{{@EM{{doori(ni)}}}},
 </ol>
 
 <h2> Definition </h2>

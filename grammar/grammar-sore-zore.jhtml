@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sorezore}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sorezore}}" grammar="@HI{{sorezore}}"}}
+
+<body>
+
+<h1>@HI{{sorezore}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{sorezore}}}}
+<li> @Anastem{{}}@HI{{@EM{{sorezore}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorezore}}}} is an adverb used to express the idea of "each" or "respectively".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tailor^judgment^bureaucrat}}:saibankan'}}ha@EM{{sorezore}}no@KJ{{seat}}ni@KJ{{don}}ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The judges took their respective seats.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorezore}}}} can be used as a pronoun, in which case in appears as @HI{{@EM{{sorezore}}}}@N{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}ha@EM{{sorezore}}no@FG{{@KJ{{oneself^revolve^car}}:jitensha}}de@FG{{@KJ{{ascend^exam}}:toukou}}suru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Students come to school on their own bicycles.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorezore}}}} can be used as a sort of noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{eaves^mid-air}}:uchuu}}no@FG{{@KJ{{star}}:hoshi}}ha@EM{{sorezore}}ga@FG{{@KJ{{pull^power}}:inryoku}}de@KJ{{pull}}ki@KJ{{fit}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The stars of the universe are each pullinmg others by gravitation.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 436).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

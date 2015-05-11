@@ -634,9 +634,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{sa}}                                                                 </td>
+  <td class="left"> <a href="grammar-particle-sa.html"> @HI{{sa}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 358                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-sae.html"> @HI{{sae}} </a>                                                   </td>
@@ -744,9 +744,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{sorezore}}                                                           </td>
+  <td class="left"> <a href="grammar-sore-zore.html"> @HI{{sorezore}} </a>                                                 </td>
   <td class="left"> DOIJG, p. 436                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{sugu}}                                                               </td>
@@ -824,9 +824,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{toiononi}}                                                           </td>
+  <td class="left"> <a href="grammar-to-iu-noni.html"> @HI{{toiunoni}} </a>                                                </td>
   <td class="left"> DOIJG, p. 484                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-to-iu-no-wa.html"> @HI{{toiunoha}} ~ @HI{{kotoda}} </a>                               </td>
@@ -876,7 +876,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-toori-ni.html"> @KJ{{road-way}}@HI{{ri}}(@HI{{ni}}) </a>                              </td>
   <td class="left"> DOIJG, p. 514                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a> @HI{{tosuru}}                                                             </td>
@@ -894,9 +894,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{toutou}}                                                             </td>
+  <td class="left"> <a href="grammar-toutou.html"> @HI{{toutou}} </a>                                                      </td>
   <td class="left"> DOIJG, p. 528                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-to-tomo-ni.html"> @HI{{to@FG{{@KJ{{together}}:tomo}}ni}} </a>                         </td>
@@ -934,9 +934,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @Vmasustem{{}}                                                            </td>
+  <td class="left"> <a href="grammar-masu-as-continuative.html"> @Vmasustem{{}} </a>                                       </td>
   <td class="left"> DOIJG, p. 556                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-masu-as-noun.html"> @Vmasustem{{}} as a Noun </a>                                     </td>
@@ -999,9 +999,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{yori}}                                                               </td>
+  <td class="left"> <a href="grammar-yori-more-than.html"> @HI{{yori}} </a>                                                </td>
   <td class="left"> DOIJG, p. 602                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-zaru-wo-enai.html"> @HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}} </a>                         </td>
@@ -1009,9 +1009,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{zo}}                                                                 </td>
+  <td class="left"> <a href="grammar-particle-zo.html"> @HI{{zo}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 609                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 </table>
 

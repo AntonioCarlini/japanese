@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{sa}}}} is a sentence ending particle mainly used by men to soften an assertion () or to indicate
+@HI{{@EM{{sa}}}} is a sentence ending particle mainly used by men to soften an assertion or to indicate
 a critical response.
 
 <table class="sentence" border=0>
@@ -59,7 +59,8 @@ a critical response.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 137).
+<li> @REF{{AAP}}. (p. 137).
+<li> @REF{{DOIJG}}. (p. 358).
 </ol>
 
 @include{{"grammar-footer.inc"}}

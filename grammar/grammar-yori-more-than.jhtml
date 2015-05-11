@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{yori}}" grammar="@HI{{yori}} (more than)"}}
+
+<body>
+
+<h1>@HI{{yori}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{yori}}@Ai{{}}}}
+<li> @HI{{@EM{{yori}}@Ana{{}}}}
+<li> @HI{{@EM{{yori}} @ADV{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+In this usage @HI{{@EM{{yori}}}} is an adverb used to form the comparative of an adjective or adverb and produces the meaning "more ~ than".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private^accomplished}}haitsumo@EM{{yori}}yoi@KT{{sa-bisu}}no@FG{{@KJ{{propose^submit}}:teikyou}}ni@FG{{@KJ{{toil}}:tsuto}}meteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are always trying to offer better services.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+The adverb @HI{{@EM{{yori}}}} is derived from the particle @HI{{yori}} which means "than". The adverb form described above is used to make general comparisons
+rather than a comparison between tw ospecific entities.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 602).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

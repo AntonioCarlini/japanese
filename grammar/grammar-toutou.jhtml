@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toutou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toutou}}" grammar="@HI{{toutou}}"}}
+
+<body>
+
+<h1>@HI{{toutou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{toutou}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toutou}}}} is an adverb used to express that an expected situation has come about after an extended period of time.
+The situation referred to is often, but not exclusively, negative.
+The main verb with which @HI{{@EM{{toutou}}}} is used often takes the form @Vte{{}}@HI{{shimau}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ten^five^year}}mo@FG{{@KJ{{domesticate}}:ka}}tteita@KJ{{cat}}ga@EM{{toutou}}@FG{{@KJ{{old*man^decline}}:rousui}}de@FG{{@KJ{{death}}:shi}}ndeshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The cat we had kept for 15 years finally died of old age.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{toutou}}}} indicates a sitaution, often negative, that has arisen spontaneously.
+<a href="grammar-yatto.html">@HI{{yatto}}</a>, on the other hand, indicates a positive situation that has come about after great effort.
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 528).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

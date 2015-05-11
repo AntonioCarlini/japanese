@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{masu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{masu}}" grammar="@HI{{masu}} (continuative)"}}
+
+<body>
+
+<h1>@Vmasustem{{}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+In this usage @EM{{@Vmasustem{{}}}} is used to connect statements, in much the same way that @Vte{{}} can link actions.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{long^male}}:chounan'}}ha@FG{{@KJ{{doctor^someone}}:isha}}ni@EM{{nari}},@FG{{@KJ{{next^male}}:jinen'}}ha@FG{{@KJ{{valve^safeguard^gentleman}}:bengoshi}}ninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My first son became a doctor and my second, a lawyer.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 556).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
