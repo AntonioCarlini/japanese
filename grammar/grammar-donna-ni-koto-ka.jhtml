@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{don'nani~kotoka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{don'nani~kotoka}}" grammar="@HI{{don'nani~kotoka}}"}}
+@GRMIDX{{index="@HI{{ikani~kotoka}}" grammar="@HI{{ikani~kotoka}}"}}
+@GRMIDX{{index="@HI{{dorehodo~kotoka}}" grammar="@HI{{dorehodo~kotoka}}"}}
+
+<body>
+
+<h1>@HI{{don'nani~kotoka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{don'nani~(koto)ka}}}}
+<li> @HI{{@EM{{don'nani~ka}}}} <em>predicate</em>
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{don'nani~(koto)ka}}}} is a sentence pattern used to indicate an exclamation about the degree to which an action or state takes place or took place.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{elder*brother}}ha@FG{{@KJ{{ill^spirit}}:byouki}}ga@FG{{@KJ{{}}:nao}}tte@EM{{don'nani}}ureshikatta@EM{{kotoka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How glad my brother was when he recovered from his illness!
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{don'nani~ka}}}} is used with an embedded question, the @HI{{koto}} is left out.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}he@KJ{{going}}kumade@KJ{{day^book}}ga@EM{{don'nani}}@FG{{@KJ{{cramped}}:sema}}i@EM{{ka}}wakaranakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I didn't realize how small Japan was until I got there.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{ikani~(koto)ka}} and @HI{{dorehodo~(koto)ka}} are used in exactly the same way as @HI{{@EM{{don'nani~(koto)ka}}}}.
+The only difference is that the former is a more formal written style.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 39).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

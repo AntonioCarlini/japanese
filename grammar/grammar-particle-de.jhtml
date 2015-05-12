@@ -84,7 +84,7 @@ Note that @HI{{@EM{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{de}}}} indicates the amount and scope.
+<a name="quantity">@HI{{@EM{{de}}}}</a> indicates the amount and scope.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -156,6 +156,7 @@ Note that if you walk somewhere, the expression @HI{{aruite}} is used and the pa
 <li> @REF{{DOBJG}}. (p. 106).
 <li> @REF{{DOBJG}}. (p. 107).
 <li> @REF{{DOBJG}}. (p. 109).
+<li> @REF{{DOIJG}}. (p. 27).
 </ol>
 
 @include{{"grammar-footer.inc"}}

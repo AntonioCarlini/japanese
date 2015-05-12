@@ -57,6 +57,7 @@ JHTML_SRCS += grammar-deshou.jhtml
 JHTML_SRCS += grammar-douse.jhtml
 JHTML_SRCS += grammar-dokoro-de-wa-nai.jhtml
 JHTML_SRCS += grammar-dokoro-ka.jhtml
+JHTML_SRCS += grammar-donna-ni-koto-ka.jhtml
 JHTML_SRCS += grammar-dou.jhtml
 JHTML_SRCS += grammar-doumo.jhtml
 JHTML_SRCS += grammar-douyatte.jhtml

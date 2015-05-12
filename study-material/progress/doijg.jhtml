@@ -69,9 +69,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-de.html"> @HI{{de}}                                                           </td>
+  <td class="left"> <a href="grammar-particle-de.html#quantity"> @HI{{de}} </a>                                             </td>
   <td class="left"> DOIJG, p. 27                                                                                            </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-dearou.html"> @HI{{dearou}} </a>                                                       </td>
@@ -94,9 +94,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{donnnani}}~(@HI{{koto}})@HI{{ka}}                                     </td>
+  <td class="left"> <a href="grammar-donna-ni-koto-ka.html"> @HI{{don'nani}}~(@HI{{koto}})@HI{{ka}} </a>                    </td>
   <td class="left"> DOIJG, p. 39                                                                                            </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-douse.html"> @HI{{douse}} </a>                                                        </td>
