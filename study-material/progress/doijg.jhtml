@@ -59,9 +59,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{dake de}}                                                             </td>
+  <td class="left"> <a href="grammar-dake-de.html"> @HI{{dake de}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 23                                                                                            </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-darake.html"> -@HI{{darake}} </a>                                                      </td>

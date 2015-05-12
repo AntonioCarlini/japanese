@@ -16,6 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
+<li> @Vplain{{}}@HI{{@EM{{dakede}}}}
 <li> @Vru{{}}@HI{{@EM{{dakedeii}}}}
 <li> @Ai{{}}@HI{{@EM{{dakedeii}}}}
 <li> @Ana{{}}@HI{{@EM{{dakedeii}}}}
@@ -23,8 +24,26 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{dakedeii}}}} follows a verb to indicate that it is only necessary to perform the specified action and nothing else.
+@HI{{@EM{{dakede}}}}</a> follows a verb to indicate that just doing something is enough.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{writing*brush^tracks}}:hisseki}}wo@KJ{{see}}ta@EM{{dakede}}@KJ{{who}}ka@KJ{{write}}itaka@KJ{{part}}katta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I knew who wrote it just by looking at the handwriting.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+<a name="ii">@HI{{@EM{{dakedeii}}}}</a> follows a verb to indicate that it is only necessary to perform the specified action and nothing else.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,12 +61,15 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @REF{{DOIJG}}. (p. 23).
 </ol>
 
 @include{{"grammar-footer.inc"}}
