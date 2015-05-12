@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dake(nokotoha)aru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dake(nokotoha)aru}}" grammar="@HI{{dake(nokotoha)aru}}"}}
+
+<body>
+
+<h1>@HI{{dake(nokotoha)aru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{dake(nokotoha)aru}}}}
+<li> @Anastem{{}}@HI{{@EM{{dake(nokotoha)aru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dake(nokotoha)aru}}}} is used to express an evaluation of how someone's achievement, skills, habits or experience contribute
+to a postive, expected and remarkable result.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If there are two sentences, @S1{{}} expresses the remarkable result and @S2{{}} the good reason for it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{sasugani}} often appears with @HI{{@EM{{dake(nokotoha)aru}}}} to emphasise the "expectedness". @HI{{sasugani}} appears in the clause that
+expresses the reason for the result.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dake(nokotoha)atte}}}} is the continuative form. The order of the reason and the result are reversed when this sentence pattern is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 51).
+<li> @REF{{NKZM-N2G}}. (p. 86).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

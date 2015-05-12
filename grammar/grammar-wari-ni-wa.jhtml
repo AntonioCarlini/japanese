@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{proportion}}ni(ha)}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{@KJ{{proportion}}ni(ha)}}" grammar="@HI{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
+<li> @Vplain{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
+<li> @Ai{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
+<li> @Ana{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{proportion}}ni(ha)}}}} expresses the idea that something is not in proportion to what one would normally expect.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:shimizu}}sanha@KJ{{year}}no@EM{{@KJ{{proportion}}niha}}@FG{{@KJ{{young}}:waka}}ku@KJ{{see}}eru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ms. Shimizu looks young for her age.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{@KJ{{proportion}}ni(ha)}}}} follows a predicate, the phrase can be re-formulated as "@HI{{ga,sono@EM{{@KJ{{proportion}}ni(ha)}}}}". So the sentence
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}i}}@EM{{@KJ{{proportion}}ni(ha)@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This team is not popular despite its strength.
+  </td> </tr>
+</table>
+
+can be recast as
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}i}}gasono@EM{{@KJ{{proportion}}ni(ha)@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This team is not popular despite its strength.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 697).
+<li> @REF{{NKZM-N2G}}. (p. 86).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
