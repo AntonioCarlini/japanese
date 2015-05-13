@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nishitara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nishitara}}" grammar="@HI{{nishitara}}"}}
+
+<body>
+
+<h1>@HI{{nishitara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nishitara}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nishitara}}}} is used to indicate theat something is being considered from the point of view of the preceding noun.
+It may often be translated as "from the perspective of ~".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{large}}kisugiru@FG{{@KJ{{parent}}:oya}}no@FG{{@KJ{{period^wait}}:kitai}}ha,@KJ{{child^submit}}@EM{{nishitara}}@FG{{@KJ{{suffering^pain}}:kutsuu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+     Parent's expectations that are too great become agony for the children.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 87).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

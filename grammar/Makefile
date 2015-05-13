@@ -225,6 +225,7 @@ JHTML_SRCS += grammar-ni-mo-kakawarazu.jhtml
 JHTML_SRCS += grammar-ni-motozuite.jhtml
 JHTML_SRCS += grammar-ni-oujite.jhtml
 JHTML_SRCS += grammar-ni-shitagatte.jhtml
+JHTML_SRCS += grammar-ni-shitara.jhtml
 JHTML_SRCS += grammar-ni-shite-mo.jhtml
 JHTML_SRCS += grammar-ni-shite-wa.jhtml
 JHTML_SRCS += grammar-ni-sotte.jhtml
