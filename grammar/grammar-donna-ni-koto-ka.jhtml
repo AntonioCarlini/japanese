@@ -29,10 +29,11 @@
 @BGRND{{}}
 <p>
 @HI{{@EM{{don'nani~(koto)ka}}}} is a sentence pattern used to indicate an exclamation about the degree to which an action or state takes place or took place.
+It isused with psychological verbs and nouns.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{elder*brother}}ha@FG{{@KJ{{ill^spirit}}:byouki}}ga@FG{{@KJ{{}}:nao}}tte@EM{{don'nani}}ureshikatta@EM{{kotoka}}.}}
+      @HI{{@KJ{{elder*brother}}ha@FG{{@KJ{{ill^spirit}}:byouki}}ga@FG{{@KJ{{reign}}:nao}}tte@EM{{don'nani}}ureshikatta@EM{{kotoka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       How glad my brother was when he recovered from his illness!
@@ -60,7 +61,7 @@ When @HI{{@EM{{don'nani~ka}}}} is used with an embedded question, the @HI{{koto}
 
 <p>
 @HI{{ikani~(koto)ka}} and @HI{{dorehodo~(koto)ka}} are used in exactly the same way as @HI{{@EM{{don'nani~(koto)ka}}}}.
-The only difference is that the former is a more formal written style.
+The only difference between any of these three forms is that the @HI{{ikani~(koto)ka}} is a more formal style.
 </p>
 
 <h2> References </h2>
