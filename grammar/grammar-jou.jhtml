@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{jou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{jou}}" grammar="@HI{{@FG{{@KJ{{above}}:jou}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{above}}:jou}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "from the viewpoint of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{reflect^brush-stroke}}ha@FG{{@KJ{{teach^bring*up}}:kyouiku}}@EM{{@FG{{@KJ{{above}}:jou}}}}yokunai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This film is not good from an educational point of view.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "for the sake of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{convenience^best*regards}}:bengi}}@EM{{@FG{{@KJ{{above}}:jou}}}}@KJ{{private}}gakono@FG{{@KJ{{section^roof}}:heya}}no@FG{{@KJ{{key}}:kagi}}@FG{{@KJ{{deposit}}:azu}}katteirundesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I keep the key to this room for the sake of convenience.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "for (the reason)".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{time^interval}}no@FG{{@KJ{{system^promise}}:seiyaku}}@EM{{@FG{{@KJ{{above}}:jou}}}}@FG{{@KJ{{dainty}}:koma}}kai@FG{{@KJ{{explanation^bright}}:setsumei}}ha
+      @FG{{@KJ{{focus^abbreviation}}:shouryaku}}saseteitadakimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will skip a detailed explanation for lack of time. (lit: time limitation)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "in terms of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plot^calculate}}:keisan'}}@EM{{@FG{{@KJ{{above}}:jou}}}}hazorede@FG{{@KJ{{correct}}:tada}}shii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In terms of calculation, this is correct.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "relating to".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{healthy^sane}}:kenkou}}@EM{{@FG{{@KJ{{above}}:jou}}}}no@FG{{@KJ{{logic^wherefore}}:riyuu}}de@FG{{@KJ{{pull^retreat}}:intai}}surukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've decided to retire for reasons relating to my health.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}} is a noun suffix that can mean "in doing".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@FG{{@KJ{{use^utilize}}:shiyou}}@EM{{@FG{{@KJ{{above}}:jou}}}}no@FG{{@KJ{{pour^idea}}:chuui}}]woyoku@KJ{{read}}nde@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Read "Warnings for Use" carefully.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 76).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

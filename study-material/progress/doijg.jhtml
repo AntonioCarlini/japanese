@@ -124,9 +124,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{hodo}}                                                               </td>
+  <td class="left"> <a href="grammar-particle-hodo.html"> @HI{{hodo}} </a>                                                 </td>
   <td class="left"> DOIJG, p. 57                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-igai.html"> @FG{{@KJ{{by*means*of^outside}}:igai}} </a>                               </td>
@@ -144,9 +144,11 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> Imperative                                                                </td>
+  <td class="left">  Imperative <a href="grammar-verb-formation-imperative.html">formation</a>
+    <a href="grammar-verb-formation-imperative-prohibitive.html"> (prohibitive) </a>
+    and <a href="grammar-verb-use-of-imperative.html">uses</a> </td>
   <td class="left"> DOIJG, p. 70                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"> - @KJ{{one^direction}} @HI{{de}}(@HI{{ha}}) ~ @KJ{{other^direction}} @HI{{de}}(@HI{{ha}}) ~       </td>
@@ -154,9 +156,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> -@FG{{@KJ{{above}}:jou}}                                                  </td>
+  <td class="left"> <a href="grammar-jou.html"> -@FG{{@KJ{{above}}:jou}} </a>                                              </td>
   <td class="left"> DOIJG, p. 76                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-kaette.html"> @HI{{kaette}} </a>                                                      </td>
