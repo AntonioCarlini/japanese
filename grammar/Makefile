@@ -102,6 +102,7 @@ JHTML_SRCS += grammar-itsu.jhtml
 JHTML_SRCS += grammar-itte-kuru.jhtml
 JHTML_SRCS += grammar-iwaba.jhtml
 JHTML_SRCS += grammar-jibun.jhtml
+JHTML_SRCS += grammar-jou.jhtml
 JHTML_SRCS += grammar-ka-ka.jhtml
 JHTML_SRCS += grammar-ka-to-iu-to.jhtml
 JHTML_SRCS += grammar-ka-to-omou-to.jhtml
