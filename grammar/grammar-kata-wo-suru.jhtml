@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{katawosuru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{katawosuru}}" grammar="@HI{{@FG{{@KJ{{direction}}:kata}}wosuru}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{direction}}:kata}}wosuru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Ai{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+<li> @Ana{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+<li> @Vplain{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+<li> @N{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+<li> @Vplain{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}} indicates the manner in which someone does something. When this phrase is used in a main clause, the focus is on the manner of doing.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{grove^rice*field}}:hayashida}}@KJ{{before^life}}ha@FG{{@KJ{{stern}}:kibi}}shii@FG{{@KJ{{teach}}:oshi}}e@EM{{@KJ{{direction}}wosuru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Professor Hayashida teaches in a strict manner.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a @HI{{suru}} verb is involved in @Vmasustem{{}}@HI{{@EM{{@KJ{{direction}}}}}}, the noun is followed by @HI{{no}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{good*luck^rice*field}}:yoshida}}@FG{{@KJ{{old*boy}}:kun'}}ha@FG{{@KJ{{riot^outburst}}:ranbou}}na@FG{{@KJ{{carry^revolve}}:unten'}}noshi@EM{{@KJ{{direction}}wosuru}}node
+      @FG{{@KJ{{ride}}:no}}setemoraunoga@FG{{@KJ{{dreadful}}:kowa}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm afraid of getting a ride from Yoshida because he drives carelessly (lit: in a wild fashion).
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The direct object of the verb in  @Vmasustem{{}}@HI{{@EM{{@KJ{{direction}}}}}} is marked by @HI{{no}} and not by @HI{{wo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{shining}}:akira}}ha@FG{{@KJ{{unusual}}:ka}}wattamonono@KJ{{see}}@EM{{@KJ{{tale}}shi@KJ{{direction}}wosuru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Akira views things in a peculiar fashion.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Expressions such as @HI{{youna@KJ{{tale}}shi@KJ{{direction}}}} can sometimes be interpreted in two ways.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^town}}:tamura}}hasono@FG{{@KJ{{large^retainer}}:daijin'}}woyouku@KJ{{know}}tteiruyouna@EM{{@KJ{{tale}}shi@KJ{{direction}}wosuru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      1. Tamura's talk sounds like he knows the minister well.
+  </td> </tr>
+  <tr class="en"> <td>
+      2. Tamura talks as if he knew that minister well.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 109).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

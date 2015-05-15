@@ -37,12 +37,28 @@ It is used mainly in writing but can also be found on TV or the radio.
 </table>
 </p>
 
+<p>
+When @HI{{@EM{{kekka}}}} is followed by a particle, it is a common noun.
+
+</p>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{test^verification}}:shiken'}}no@KJ{{tie^fruit}}ha@KJ{{come^week^know}}rasemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I'll let you know the results of the test next week.
+  </td> </tr>
+</table>
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
+<li> @REF{{DOIJG}}. (p. 121).
 </ol>
 
 @include{{"grammar-footer.inc"}}

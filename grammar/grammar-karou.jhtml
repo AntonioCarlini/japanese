@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karou}}" grammar="@HI{{karou}}"}}
+
+<body>
+
+<h1>@HI{{karou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}@HI{{@EM{{karou}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karou}}}} expresses the writer's conjecture, based on no particular information or evidence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{ten^year^behind}}no@FG{{@KJ{{oneself^part}}:jibun'}}wo@FG{{@KJ{{beforehand^concept}}:yosou}}surunoha@KJ{{difficult}}sh@EM{{karou}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is probably difficult to predict what one will be like in ten years time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karou}}}} only connects with an @HI{{i}}-adjective. A negative @HI{{na}}-adjective or noun can connect with @HI{{@EM{{karou}}}} because the @HI{{nai}} suffix behaves as an @HI{{i}}-adjective.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{two^person}}no@FG{{@KJ{{interval}}:aida}}@FG{{@KJ{{interval^design}}:aidagara}}@FG{{@KJ{{}}:shita}}shikuna@EM{{karou}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The relationship between the two is probably not close.
+  </td> </tr>
+</table>
+</p>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{karou}}}} is the contracted form of the obsolete adjective @HI{{kuarou}}, in which @HI{{arou}} is the conjectural form of @HI{{aru}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 106).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
