@@ -93,6 +93,20 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+@Vta{{}}@HI{{@EM{{kiri}}}} is used to mean that ever since someone did something in the past, nothing has changed.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}toha10@KJ{{year}}@FG{{@KJ{{by*means*of^above}}:ijou}}mo@KJ{{in*front}}@KT{{pari}}de@KJ{{meeting}}tta@EM{{kiri}}de,
+      sono@FG{{@KJ{{behind}}:go}}doushiteirunoka,@FG{{@KJ{{whole^sort*of*thing}}:zenzen'}}@KJ{{know}}ranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I haven't seen her since we met in Paris 10 years ago and I have no idea how she's been doing since then.
+  </td> </tr>
+</table>
 </p>
 
 @BGRNDEND{{}}
@@ -104,6 +118,7 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
 <ol>
 <li> @REF{{AAP}}. (p. 87).
 <li> @REF{{DOAJG}}. (p. 219).
+<li> @REF{{NKZM-N2G}}. (p. 90).
 </ol>
 
 @include{{"grammar-footer.inc"}}

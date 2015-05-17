@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tokorodatta}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tokorodatta}}" grammar="@HI{{tokorodatta}}"}}
+
+<body>
+
+<h1>@HI{{tokorodatta}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{tokorodatta}}}}
+<li> @Vnai{{}}@HI{{@EM{{tokorodatta}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tokorodatta}}}} indicates that an action was almost, but not quite, performed or that someone came close to doing something.
+Had the action been performed, the consequences would usually have been bad. 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{a,@KJ{{now^day}}ha15@KJ{{day}}.ukkari@FG{{@KJ{{promise^bundle}}:yakusoku}}wo@FG{{@KJ{{forget}}:wasu}}reru@EM{{tokorodatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ah, today is the 15th. Carelessly I almost forgot an appointment.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tokorodatta}}}} often occurs with @HI{{mousukoshide}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mousukoshidekono@FG{{@KJ{{substance^question}}:shitsumon'}}wo@FG{{@KJ{{see^escape}}:minoga}}su@EM{{tokorodatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I almost overlooked this question.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 91).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

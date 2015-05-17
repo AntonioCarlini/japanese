@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sueni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sueni}}" grammar="@HI{{@FG{{@KJ{{extremity}}:sue}}(ni)}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{extremity}}:sue}}(ni)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{extremity}}:sue}}(ni)}}}}
+<li> @Vta{{}}@HI{{@EM{{@FG{{@KJ{{extremity}}:sue}}(ni)}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sueni}}}} is a noun that indicates the the time after long, hard mental or physical work.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sanzan@FG{{@KJ{{astray}}:mayo}}tta@EM{{@KJ{{extremity}}ni}},@KJ{{friend^accomplished}}no@FG{{@KJ{{tie^marriage}}:kekkon'}}@FG{{@KJ{{celebrate}}:iwa}}iha
+      @KT{{ko-hikappu}}no@KT{{setto}}wo@FG{{@KJ{{presents}}:oku}}rukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      After much hesitation, I decided to give my friends a set of coffee cups as a wedding present.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{sueni}}}} is used with nouns of a specific duration (or a week or longer) then it means "at the end of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{go@FG{{@KJ{{pour^sentence}}:chuumon'}}no@FG{{@KJ{{goods}}:shina}}ha5@KJ{{month}}no@EM{{@KJ{{extremity}}ni}}@KJ{{enter}}rimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We'll have the item you ordered by the end of May.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The @HI{{ni}} of @KJ{{extremity}}@HI{{ni}} can be omitted without changing the meaning.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 562).
+<li> @REF{{NKZM-N2G}}. (p. 91).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

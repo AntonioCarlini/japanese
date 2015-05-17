@@ -27,9 +27,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{ageku}}(@HI{{ni}})                                                     </td>
+  <td class="left"> <a href="grammar-ageku.html">@HI{{ageku}}(@HI{{ni}})</a>                                                </td>
   <td class="left"> DOAJG, p. 7                                                                                             </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{akumadeno}}                                                            </td>
@@ -882,9 +882,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})                                      </td>
+  <td class="left"> <a href="grammar-sue-ni.html">@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})</a>                                </td>
   <td class="left"> DOAJG, p. 562                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{finish}}:sumu}}                                                   </td>

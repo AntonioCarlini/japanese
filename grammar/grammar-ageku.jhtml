@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ageku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ageku}}" grammar="@HI{{ageku}}"}}
+
+<body>
+
+<h1>@HI{{ageku(ni)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vta{{}}@HI{{@EM{{ageku(ni)}}}}
+<li> @Vta{{}}@HI{{@EM{{ageku}}no}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{ageku}}}} is an adverb or a conjunction that indicates that one spends an extended period of time before reaching a result.
+The agent of the action must be human.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sanzan@KJ{{consider}}eta@EM{{ageku(ni)}}@KJ{{large^study^Inst.}}he@FG{{@KJ{{advance^study}}:shingaku}}surukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      After thinking about it for a long time, I decided to go on to graduate school.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The pre-nominal form is @Vta{{}}@HI{{@EM{{ageku}}no}}@N{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}no@FG{{@KJ{{detach^marriage}}:rikon'}}ha@FG{{@KJ{{number^year}}:suunen'}}@FG{{@KJ{{trouble}}:naya}}nda@EM{{ageku}}no@FG{{@KJ{{decide^severance}}:ketsudan}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Her divorce was a decision she made after agonising for several years.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{{@EM{{ageku}}}} can only be used for two events in the past: it is unacceptable for events in the future.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 7).
+<li> @REF{{NKZM-N2G}}. (p. 90).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

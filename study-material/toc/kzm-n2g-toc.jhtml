@@ -238,10 +238,10 @@
 
 <ol>
 <li> ~@Vta{{}}@HI{{tokora}}
-<li> ~@HI{{kiri}}
-<li> ~@HI{{ageku}}
-<li> ~@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})
-<li> ~@HI{{tokorodatta}}
+<li> ~<a href="grammar-particle-kiri.html">@HI{{kiri}}</a>
+<li> ~<a href="grammar-ageku.html">@HI{{ageku}}</a>
+<li> ~<a href="grammar-sue-ni.html">@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})</a>
+<li> ~<a href="grammar-tokoro-datta.html">@HI{{tokorodatta}}</a>
 <li> ~@HI{{zujimaida}}
 </ol>
 
