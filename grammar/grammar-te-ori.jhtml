@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{ori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{teori}}" grammar="@Vte{{}}@HI{{ori}}"}}
+
+<body>
+
+<h1>@Vte{{}}@HI{{ori}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+@EM{{@Vte{{}}@HI{{ori}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@Vte{{}}@HI{{@EM{{ori}}}} is the written version of @Vte{{}}@HI{{ite}}. The meaning of each form is identical.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{}}:koukou}}ha@FG{{@KJ{{whole^dormitory^system}}:zenryousei}}ninatte@EM{{ori}},
+      @FG{{@KJ{{whole^study^life}}:zengakusei}}ga@KJ{{three}}tsuno@FG{{@KJ{{dormitory}}:ryou}}@FG{{@KJ{{life^lively}}:seikatsu}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This high school is a boarding school (lit: total dormitory system) and all the students live in three dormitories.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<p>
+Although it is the @HI{{masu}} form of the humble auxiliary @HI{{oru}}, when @Vte{{}}@HI{{@EM{{ori}}}} is used in writing, it does not express the writer's politeness.
+</p>
+
+<p>
+@Vte{{}}@HI{{@EM{{ori}}}} is more formal than both @Vte{{}}@HI{{ite}} and @Vte{{}}@HI{{i}}.
+</p>
+
+<p>
+@Vte{{}}@HI{{oru}}, the informal sentence-final form of @Vte{{}}@HI{{@EM{{ori}}}}, is <em>not</em> used in writing in place of @Vte{{}}@HI{{iru}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 329).
+</ol>
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

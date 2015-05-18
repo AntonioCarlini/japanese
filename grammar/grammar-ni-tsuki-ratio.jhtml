@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitsuki}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitsuki}}" grammar="@HI{{nitsuki}}"}}
+
+<body>
+
+<h1>@HI{{nitsuki}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> number + counter @HI{{@EM{{nitsuki}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nitsuki}}}} is a compound particle that expresses a ratio.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{cut^token}}:kippu}}ha@KJ{{one}}tsui@EM{{nitsuki}}@FG{{@KJ{{three^a*sheet*of}}:sanmai}}madenishite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please limit it to three tickets per person.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Although @HI{{@EM{{nitsuki}}}} is usually preceded by the number one, any number may in fact come before it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{five^thousand^circle}}@EM{{nitsuki}}@KJ{{four^ten^circle}}no@FG{{@KJ{{hand^number^fee}}:tesuuryou}}woitadakimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We place a 40 yen service charge on 5,000 yen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If the number before @HI{{@EM{{nitsuki}}}} is one and a noun does not immediately precede that number, @HI{{@EM{{nitsuki}}}} is optional.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{attend^matter}}ha@KJ{{one^time^interval}}(@EM{{nitsuki}})@KJ{{six}}@KT{{doru}}moraeru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This job pays six dollars an hour. (Lit: you can get six dollars an hour doing this job)
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 283).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
