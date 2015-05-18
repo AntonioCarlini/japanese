@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{madeshite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{madeshite}}" grammar="@HI{{madeshite}}"}}
+
+<body>
+
+<h1>@HI{{madeshite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{madeshite}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{madeshite}}}} indicates that the speaker feels that something is done to an extreme degree.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{car}}hoshiiga,@FG{{@KJ{{borrow^gold}}:shakkin'}}@EM{{madeshite}}@KJ{{buy}}itaitoha@KJ{{think}}wanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want a car, but not so much that I would go into debt for it.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 96).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

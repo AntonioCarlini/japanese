@@ -249,8 +249,12 @@
 
 <ol>
 <li> ~@HI{{gurai}} @MIDDOT{{}} ~@HI{{kurai}}
-<li> ~@HI{{nado}} @MIDDOT{{}} ~@HI{{nanka}} @MIDDOT{{}} ~@HI{{nante}}
-<li> ~@HI{{made}} @MIDDOT{{}} ~@HI{{madeshite}} @MIDDOT{{}} ~@Vte{{}}@HI{{made}}
+<li> ~@HI{{nado}} @MIDDOT{{}}
+     ~<a href="grammar-nanka.html">@HI{{nanka}}</a> @MIDDOT{{}}
+     ~<a href="grammar-nante-emotion.html">@HI{{nante}}</a>
+<li> ~<a href="grammar-particle-made.html#extreme">@HI{{made}}</a> @MIDDOT{{}}
+     ~<a href="grammar-made-shite.html">@HI{{madeshite}}</a> @MIDDOT{{}}
+     ~<a href="grammar-te-made.html">@Vte{{}}@HI{{made}}</a>
 <li> ~@HI{{toshite}}~@HI{{nai}}
 <li> ~@HI{{sae}}
 <li> ~@Vte{{}}@HI{{demo}}

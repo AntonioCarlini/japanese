@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vte{{}}made}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{temade}}" grammar="@HI{{@Vte{{}}made}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}made}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{@EM{{made}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@Vte{{}}@EM{{made}}}} indicates the surprising extent to which something is done.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{oneself^house}}:jika}}ni@FG{{@KJ{{unusual}}:ka}}ete@EM{{made}},@FG{{@KJ{{quandary}}:koma}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm frustrated to the point of returning to my hometown.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 96).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
