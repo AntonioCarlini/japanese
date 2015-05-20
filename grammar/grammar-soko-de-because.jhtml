@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sokode}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sokode}}" grammar="@HI{{sokode}} (because)"}}
+
+<body>
+
+<h1>@HI{{sokode}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{.@EM{{sokode}}}}@S2{{}}.
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sokode}}}} is a conjunction that connects a situation presented as a reason and an action taken because of that situation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}ga@FG{{@KJ{{evening^eat}}:yuushoku}}ha@FG{{@KJ{{simple^simplicity}}:kantan'}}namonodeiito@KJ{{say}}tta.@EM{{sokode}},@KT{{piza}}wo@FG{{@KJ{{pour^sentence}}:chuumon'}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My friend told me that something simple would be fine for supper. So I ordered a pizza.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{sokode}}}} is used the situation presented is generally special in some way.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}@FG{{@KJ{{forest^rice*field}}:morita}}san'nouchide@KT{{pa-texi-}}gaattemukashino@KT{{kurasume-to}}gatakusan@KJ{{come}}rutoiu.@EM{{sokode}}@KJ{{private}}mo@KJ{{going}}kukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I heard that there is a party at Morita's tomorrow and many of my old classmates are going. So, I've decided to go too.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+If the special reason for going is not stated then @HI{{@EM{{sokode}}}} becomes unacceptable and @HI{{sorede}} is used instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}@FG{{@KJ{{forest^rice*field}}:morita}}san'nouchide@KT{{pa-texi-}}gaarutoiu.@EM{{sorede}}@KJ{{private}}mo@KJ{{going}}kukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I heard that there is a party at Morita's tomorrow. So, I've decided to go too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In @S1@HI{{@EM{{sokode}}}}@S2{{}} @S2{{}} usually represents a controllable action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{fur^pelt}}:kegawa}}no@KT{{ko-to-}}ha@KT{{se-ru-}}de@FG{{@KJ{{half^forehead}}:hangaku}}datta. @EM{{sokode}},@KJ{{think}}ikitsute@KJ{{buy}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The fur coat was on sale at 50% off. So I made a big decision and bought it.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+If the action is not controllable, @HI{{sorede}} should be used instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{fur^pelt}}:kegawa}}no@KT{{ko-to-}}ha@KT{{se-ru-}}de@FG{{@KJ{{half^forehead}}:hangaku}}datta. @EM{{sorede}},@KJ{{private}}nimo@KJ{{buy}}ukotoga@KJ{{exit^come}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The fur coat was on sale at 50% off. So, I could buy it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+In @S1@HI{{.@EM{{sokode}}}}@S2{{}} @S2{{}} cannot be a command, a request, a suggestion or an invitation.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 401).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toiufuuni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiufuuni}}" grammar="@HI{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}"}}
+
+<body>
+
+<h1>@HI{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+
+
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}}} is a phrase that expresses a way or manner in which someone does something.
+It expresses what the manner of a person's action shows or suggests.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}hadoushoumonai@EM{{toiu@KJ{{wind}}ni}}@FG{{@KJ{{neck}}:kubi}}wo@FG{{@KJ{{shake}}:fu}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He shook his head as if to say that there was no way out.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}}} is used when the speaker does not wish to be exact about a message or idea.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{company^long}}:shachou}}niha@FG{{@KJ{{special}}:toku}}ni@FG{{@KJ{{question^substance}}:mondai}}hanakatta@EM{{toiu@KJ{{wind}}ni}}@KJ{{say}}tteoite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please tell the president that there were no particular problems with it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}}} is used to present specific examples of the way in which someone does (or some people do) something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jon'}}ha@KT{{ke-to}}to,@KT{{maiku}}ha@KT{{shindexi-}}to,@EM{{toiu@KJ{{wind}}ni}}min'naga@KT{{pa-to-na-}}wo@FG{{@KJ{{see}}:mi}}tsukete@KT{{pea}}ninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Everyone found a partner and paired up - John with Kate, Mike with Cindy, and so on.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{toiu@KJ{{wind}}ni}}}} can be replaced with @HI{{toiuyori}} with no change in meaning.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 478).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

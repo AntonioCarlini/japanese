@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{soukatoitte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{soukatoitte}}" grammar="@HI{{soukato@KJ{{say}}tte}}"}}
+
+<body>
+
+<h1>@HI{{soukato@KJ{{say}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @S1{{}}@HI{{ga,@EM{{soukato@KJ{{say}}tte}}}}, @S2{{}}
+<li> A:@S1{{}}.<br>
+     B:@HI{{@EM{{soukato@KJ{{say}}tte}}}}, @S2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{soukato@KJ{{say}}tte}}}} is used when the speaker is inclined to accept the conversational partner's statement or what has been mentioned in the
+previous sentence but realises that it is impossible to accept its corollary due to some circumstance.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{Sino-^character}}:kanji}}womotto@FG{{@KJ{{memorize}}:obo}}enakerebanaranainoha@KJ{{part}}katteiruga,@EM{{sokato@KJ{{say}}tte}},
+      @FG{{@KJ{{Sino-^character}}:kanji}}bakari@KJ{{memorize}}eteiruwakenimoikanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I know I have to memorize more kanji but, even so, I cannot memorize just kanji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{soukato@KJ{{say}}tte}}}} often occurs with an explicitly negative predicate, but it can occur with an implictly negative predicate.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{me}}:boku}}ra@FG{{@KJ{{busy}}:isoga}}shiikedo,soukato@KJ{{say}}tte,@KJ{{he^one^person}}ni@FG{{@KJ{{responsibility}}:maka}}seteokerukai?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are busy, but how can we leave the work to him alone?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 397).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
