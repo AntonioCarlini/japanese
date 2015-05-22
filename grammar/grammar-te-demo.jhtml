@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tedemo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tedemo}}" grammar="@HI{{@Vte{{}}demo}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}demo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vte{{}}demo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}demo}}}} expresses an extreme determination to do something on the part of the speaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ni@FG{{@KJ{{double}}:bai}}no@FG{{@KJ{{gold^}}:kingaku}}wo@FG{{@KJ{{pay}}:hara}}tte@EM{{demo}}sono@KT{{konsa-to}}no@KT{{chiketto}}ga@FG{{@KJ{{need}}:ho}}shii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if I have to pay twice the money, I want those concert tickets.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 97).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

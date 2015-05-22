@@ -1,3 +1,4 @@
+
 JHTML_SRCS += grammar-activity-time.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-adverb-naru.jhtml
@@ -410,6 +411,7 @@ JHTML_SRCS += grammar-te-causative-itadakemasenka.jhtml
 JHTML_SRCS += grammar-te-causative-itadakitai.jhtml
 JHTML_SRCS += grammar-te-cause.jhtml
 JHTML_SRCS += grammar-te-conjunctive-forms.jhtml
+JHTML_SRCS += grammar-te-demo.jhtml
 JHTML_SRCS += grammar-te-hajimete.jhtml
 JHTML_SRCS += grammar-te-hoshii.jhtml
 JHTML_SRCS += grammar-te-iku.jhtml
@@ -469,6 +471,7 @@ JHTML_SRCS += grammar-tokoro-place.jhtml
 JHTML_SRCS += grammar-tokoro-when.jhtml
 JHTML_SRCS += grammar-tokoro.jhtml
 JHTML_SRCS += grammar-toori-ni.jhtml
+JHTML_SRCS += grammar-toshite-nai.jhtml
 JHTML_SRCS += grammar-toshite-wa.jhtml
 JHTML_SRCS += grammar-toshite.jhtml
 JHTML_SRCS += grammar-totan.jhtml

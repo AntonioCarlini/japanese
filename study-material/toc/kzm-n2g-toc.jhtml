@@ -255,9 +255,9 @@
 <li> ~<a href="grammar-particle-made.html#extreme">@HI{{made}}</a> @MIDDOT{{}}
      ~<a href="grammar-made-shite.html">@HI{{madeshite}}</a> @MIDDOT{{}}
      ~<a href="grammar-te-made.html">@Vte{{}}@HI{{made}}</a>
-<li> ~@HI{{toshite}}~@HI{{nai}}
-<li> ~@HI{{sae}}
-<li> ~@Vte{{}}@HI{{demo}}
+<li> ~<a href="grammar-toshite-nai.html">@HI{{toshite}}~@HI{{nai}}</a>
+<li> ~<a href="grammar-particle-sae.html">@HI{{sae}}</a>
+<li> ~<a href="grammar-te-demo.html">@Vte{{}}@HI{{demo}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.22">_</a>22 @KJ{{chapter}}</h3>
