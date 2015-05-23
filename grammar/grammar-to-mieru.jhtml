@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomieru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomieru}}" grammar="@HI{{tomieru}}"}}
+
+<body>
+
+<h1>@HI{{tomieru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{@EM{{tomieru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tomieru}}}} means "it seems".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{morning}}kara@KT{{pachinko}}ni@KJ{{going}}kunante,zuibun@FG{{@KJ{{spare*time}}:hima}}da@EM{{tomieru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You go to the pachinko parlour in the morning, you must have a lot of free time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 100).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

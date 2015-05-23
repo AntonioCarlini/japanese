@@ -263,12 +263,14 @@
 <h3><a class="navtarget" name="chapter1.22">_</a>22 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{tomieru}}
-<li> ~@HI{{kanenai}}
-<li> ~@HI{{osoregaaru}}
-<li> ~@HI{{mai}}/~@HI{{dehaarumai}}
-<li> ~@HI{{ni@FG{{@KJ{{difference}}:chiga}}inai}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{inter-^difference}}:soui}}nai}}
-<li> ~@HI{{nikimatteiru}}
+<li> ~<a href="grammar-to-mieru.html">@HI{{tomieru}}</a>
+<li> ~<a href="grammar-kaneru-suffix.html#kanenai">@HI{{kanenai}}</a>
+<li> ~<a href="grammar-osore-ga-aru.html">@HI{{osoregaaru}}</a>
+<li> ~<a href="grammar-mai-volitional.html">@HI{{mai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-de-wa-aru-mai-ka.html">@HI{{dehaarumai}}</a>
+<li> ~<a href="grammar-ni-chigainai.html">@HI{{ni@FG{{@KJ{{difference}}:chiga}}inai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-soui-nai.html">@HI{{ni@FG{{@KJ{{inter-^difference}}:soui}}nai}}</a>
+<li> ~<a href="grammar-ni-kimatte-iru.html">@HI{{nikimatteiru}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.23">_</a>23 @KJ{{chapter}}</h3>

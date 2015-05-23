@@ -2,16 +2,16 @@
 <html>
 
 <head>
-<title>@KJ{{every}}</title>
+<title>@HI{{mai}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{mai}}" grammar="@KJ{{every}}"}}
+@GRMIDX{{index="@HI{{mai}}" grammar="@HI{{mai}}"}}
 
 <body>
 
-<h1>@KJ{{every}}</h1>
+<h1>@HI{{mai}}</h1>
 
 <h2> Formation </h2>
 
@@ -59,6 +59,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 161).
+<li> @REF{{NKZM-N2G}}. (p. 101).
 </ol>
 
 @include{{"grammar-footer.inc"}}

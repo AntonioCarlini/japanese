@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is modified by a clause it represents a future or past event or a present state.
+When @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is modified by a clause it represents a future or past event or a present state.
 </p>
 
 <p>
@@ -67,7 +67,7 @@ A past event:
       @HI{{@FG{{@KJ{{other^person}}:tanin}}no@FG{{@KJ{{special^permit^authority}}:tokkyoken'}}wo@FG{{@KJ{{encroach^harm}}:shingai}}shita@FG{{@KJ{{fear}}:oso}}regaaru}}      
   </td> </tr>
   <tr class="en"> <td>
-      There is a risk you infringes on other's patent rights.
+      There is a risk you infringed on other's patent rights.
   </td> </tr>
 </table>
 </p>
@@ -136,6 +136,7 @@ The negative form of @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}} is @HI{{@FG{{@KJ{{fear
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 509).
+<li> @REF{{NKZM-N2G}}. (p. 100).
 </ol>
 
 @include{{"grammar-footer.inc"}}

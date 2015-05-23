@@ -70,7 +70,8 @@ When the main predicate is in the progressive form, that is @HI{{@EM{{kaneteiru}
 
 @BGRND{{}}
 <p>
-When suffix is in the negative, @HI{{@EM{{kanenai}}}}, the double negative means not "can do" but "it is very possible" or "might".
+<a name="kanenai">When</a> suffix is in the negative, @HI{{@EM{{kanenai}}}}, the double negative means not "can do" but "it is very possible" or "might".
+The result in question is a negative one.
 This form is used as a suffix with verbs that take either a third person human subject or a thrid person non-human subject.
 
 <table class="sentence">
@@ -105,8 +106,9 @@ No potential forms can take @HI{{@EM{{kaneru}}}}, except @HI{{wakaru}} and @HI{{
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 50).
+<li> @REF{{DOIJG}}. (p. 96).
 <li> @REF{{NKZM-N2G}}. (p. 82).
+<li> @REF{{NKZM-N2G}}. (p. 100).
 </ol>
 
 @include{{"grammar-footer.inc"}}
