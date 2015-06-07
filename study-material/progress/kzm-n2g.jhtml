@@ -149,7 +149,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> A </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> B </td>
