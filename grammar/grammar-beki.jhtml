@@ -30,6 +30,9 @@
 in some state.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{beki}}}} expresses the idea that something should be in a certain state because it is their
 responsibility or duty, or because it is the right thing to do.
@@ -47,33 +50,6 @@ responsibility or duty, or because it is the right thing to do.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sonnnakotowo@KJ{{person}}ni@KJ{{say}}u@EM{{beki}}jaarimasenn.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    You shouldn't say that kind of thing to people.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{@KJ{{old*boy}}mo@KJ{{come}}ru@EM{{beki}}deshitayo.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    You should have come too.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{@KJ{{he}}ha@KJ{{tie^marriage}}nankasu@EM{{beki}}janakattanda.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    He shouldn't have married.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
     @HI{{kono@KJ{{status*quo^attitude}}ga@KJ{{present^reality}}dearu@EM{{beki}}da.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -83,6 +59,49 @@ responsibility or duty, or because it is the right thing to do.
 </ol>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="past">@HI{{@EM{{beki}}}}</a> can be conjugated to express that something should have been done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{old*boy}}mo@KJ{{come}}ru@EM{{beki}}deshitayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    You should have come too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="negation">@HI{{@EM{{beki}}}}</a> can be conjugated to express that something should not be done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sonnnakotowo@KJ{{person}}ni@KJ{{say}}u@EM{{beki}}jaarimasenn.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    You shouldn't say that kind of thing to people.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="past-negation">@HI{{@EM{{beki}}}}</a> can be conjugated to express that something should not have been done.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{he}}ha@KJ{{tie^marriage}}nankasu@EM{{beki}}janakattanda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    He shouldn't have married.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{beki}}}} can also express the idea that somone is expected to do something.
 
@@ -96,6 +115,7 @@ responsibility or duty, or because it is the right thing to do.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{beki}}}} can immediately precede a noun.
 
@@ -130,6 +150,7 @@ and cannot be applied to a specific situation (e.g. "<em>You</em> should study."
 <ol>
 <li> @REF{{DOIJG}}. (p. 11).
 <li> @REF{{NKZM-N3G}}. (p. 47).
+<li> @REF{{NKZM-N2G}}. (p. 105).
 </ol>
 
 @include{{"grammar-footer.inc"}}
