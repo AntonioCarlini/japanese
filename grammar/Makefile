@@ -234,6 +234,7 @@ JHTML_SRCS += grammar-ni-motozuite.jhtml
 JHTML_SRCS += grammar-ni-naru-to.jhtml
 JHTML_SRCS += grammar-ni-oite.jhtml
 JHTML_SRCS += grammar-ni-oujite.jhtml
+JHTML_SRCS += grammar-ni-saki-datte.jhtml
 JHTML_SRCS += grammar-ni-shitagatte.jhtml
 JHTML_SRCS += grammar-ni-shitara.jhtml
 JHTML_SRCS += grammar-ni-shite-mo.jhtml
