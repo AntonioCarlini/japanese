@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vte{{}}@HI{{shikataganai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{teshikataganai}}" grammar="@Vte{{}}@HI{{@FG{{@KJ{{attend^direction}}:shikata}}ganai}}"}}
+@GRMIDX{{index="@HI{{teshiyouganai}}" grammar="@Vte{{}}@HI{{shiyouganai}}"}}
+@GRMIDX{{index="@HI{{teshouganai}}" grammar="@Vte{{}}@HI{{shouganai}}"}}
+
+<body>
+
+<h1>@Vte{{}}@HI{{@FG{{@KJ{{attend^direction}}:shikata}}ganai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{@EM{{@KJ{{attend^direction}}ganai}}}}
+<li> @Aistem{{}}@HI{{kute@EM{{@KJ{{attend^direction}}ganai}}}}
+<li> @Anastem{{}}@HI{{de@EM{{@KJ{{attend^direction}}ganai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}@KJ{{attend^direction}}ganai}}}} is phrase that represents emotions the speaker cannot control or sensations the speaker cannot bear.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokoha@KJ{{what}}mosurukotoganainode@FG{{@KJ{{yield^retreat}}:taikutsu}}de@EM{{@KJ{{attend^direction}}ganai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I have nothing to do here, I'm unbearably bored.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When the subject is not the first person, @HI{{@EM{{@Vte{{}}@KJ{{attend^direction}}ganai}}}} is often accompanied by such auxiliaries as
+@HI{{youda}}, @HI{{mitaida}} and @HI{{rashii}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jo-ji}}ha@KJ{{what}}mosurukotoganainode@FG{{@KJ{{yield^retreat}}:taikutsu}}de@EM{{@KJ{{attend^direction}}ganai}}rashii.}}      
+  </td> </tr>
+  <tr class="en"> <td>
+      It seems that George is unbearably bored, having nohing to do.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+<a name="notes">@Vte{{}}@HI{{shiyouganai}}</a> and its informal form @Vte{{}}@HI{{shouganai}} are variations of @Vte{{}}@HI{{@FG{{@KJ{{attend^direction}}:shikata}}ganai}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 605).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

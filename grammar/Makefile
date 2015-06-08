@@ -429,6 +429,7 @@ JHTML_SRCS += grammar-te-mo-kamawanai.jhtml
 JHTML_SRCS += grammar-te-mo.jhtml
 JHTML_SRCS += grammar-te-oku.jhtml
 JHTML_SRCS += grammar-te-ori.jhtml
+JHTML_SRCS += grammar-te-shikata-ga-nai.jhtml
 JHTML_SRCS += grammar-te-shimau.jhtml
 JHTML_SRCS += grammar-te-shinaide-accompany.jhtml
 JHTML_SRCS += grammar-te-wa-ikemasen.jhtml
