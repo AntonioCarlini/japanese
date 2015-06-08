@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{every}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dehaarumaika}}" grammar="@HI{{dehaarumaika}}"}}
+
+<body>
+
+<h1>@KJ{{every}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{no@EM{{dehaarumaika}}}}
+<li> @Ai{{}}@HI{{no@EM{{dehaarumaika}}}}
+<li> @Ana{{}}@HI{{no@EM{{dehaarumaika}}}}
+<li> @N{{}}@HI{{no@EM{{dehaarumaika}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{dehaarumaika}}}} expresses the idea of "it might be the case that".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field}}:ta}}nboni@KJ{{dwell}}mu@FG{{@KJ{{life^thing}}:doubutsu}}ga@FG{{@KJ{{dwindle}}:he}}ttanoha,@FG{{@KJ{{agriculture^medicine}}:nouyaku}}no@KJ{{use}}isugimasuga
+      @FG{{@KJ{{}}:genin'}}@EM{{dehaarumaika}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think the cause of the decrease in the number of creatures that live in the paddy-field might be the over-use of agrochemicals.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 101).
+<li> @REF{{DOIJG}}. (p. 161).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

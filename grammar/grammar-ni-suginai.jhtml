@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nisuginai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nisuginai}}" grammar="@HI{{nisuginai}}"}}
+
+<body>
+
+<h1>@HI{{nisuginai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nisuginai}}}}
+<li> <em>number + counter</em> @HI{{@EM{{nisuginai}}}}
+<li> @Vplain{{}}@HI{{@EM{{nisuginai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nisuginai}}}} is a phrase which means that someone or something is nothing more than what is stated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@KJ{{private}}no@FG{{@KJ{{private^see}}:shiken'}}@EM{{nisuginai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is nothing more than my personal opinion.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Although @HI{{@EM{{nisuginai}}}} can be used with adjectives, usually @HI{{dakeda}} is more often used instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{house}}ha@KJ{{large}}kiidakeda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This house is big and that's all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 271).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

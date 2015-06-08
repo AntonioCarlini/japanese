@@ -58,7 +58,7 @@ If two things are actors of the same action, @HI{{@EM{{to@FG{{@KJ{{together}}:to
 @BGRND{{}}
 <p>
 If @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a noun representing an event or an action, then it means "at the same time" or "with", depending on the noun.
-In this usage it can be replaced by @HI{{ni@@FG{{@KJ{{consort}}:tomona}}tte}}.
+In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -73,7 +73,7 @@ In this usage it can be replaced by @HI{{ni@@FG{{@KJ{{consort}}:tomona}}tte}}.
 @BGRND{{}}
 <p>
 When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a verb, it means "as" or "while".
-In this usage it can be replaced by @HI{{ni@@FG{{@KJ{{consort}}:tomona}}tte}}.
+In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -120,6 +120,7 @@ When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by @HI{{dearu}} i
 <ol>
 <li> @REF{{DOIJG}}. (p. 532).
 <li> @REF{{NKZM-N2G}}. (p. 42).
+<li> @REF{{NKZM-N2G}}. (p. 122).
 </ol>
 
 @include{{"grammar-footer.inc"}}

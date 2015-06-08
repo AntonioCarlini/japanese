@@ -29,7 +29,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@FG{{@KJ{{write}}:ka}}kininatta@FG{{@KJ{{honorable^book}}:gohon'}}wo@FG{{@KJ{{traffic}}:tooshite}},@KJ{{before^life}}nokotoha@FG{{@KJ{{exist}}:zonji}}@FG{{@KJ{{above}}:a}}geteorimashita.}}
+      @HI{{o@FG{{@KJ{{write}}:ka}}kininatta@FG{{@KJ{{honorable^book}}:gohon'}}wo@FG{{@KJ{{traffic}}:too}}shite,@KJ{{before^life}}nokotoha@FG{{@KJ{{exist}}:zonji}}@FG{{@KJ{{above}}:a}}geteorimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I knew you through the books you wrote.
@@ -74,6 +74,7 @@
 <ol>
 <li> @REF{{DOIJG}}. (p. 330).
 <li> @REF{{NKZM-N2G}}. (p. 21).
+<li> @REF{{NKZM-N2G}}. (p. 122).
 </ol>
 
 @include{{"grammar-footer.inc"}}

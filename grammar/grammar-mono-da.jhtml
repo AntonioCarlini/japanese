@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{monoda}}}} is used by the speaker to present a situation as though it were a tangible object.
 </p>
@@ -47,6 +50,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="exclamation">@HI{{@EM{{monoda}}}}</a> can indicate an exclamation.
 
@@ -60,6 +64,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="nostalgia">@HI{{@EM{{monoda}}}}</a> can indicate nostalgic reminiscence.
 
@@ -73,6 +78,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="desire">@HI{{@EM{{monoda}}}}</a> can indicate desire. See also <a href="grammar-tai-mono-da.html">here</a>.
 
@@ -86,6 +92,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="should">@HI{{@EM{{monoda}}}}</a> can indicate something one should do.
 To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>.
@@ -100,6 +107,7 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="conviction">@HI{{@EM{{monoda}}}}</a> can indicate an indirect conviction.
 
@@ -108,10 +116,12 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
       @HI{{@KJ{{year}}wo@KJ{{take}}ruto@KJ{{once*upon*a*time}}nokotowo@KJ{{tale}}shitagaru@EM{{monoda}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      When one grows old, one wantst to talk about the past.
+      When one grows old, one wants to talk about the past.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

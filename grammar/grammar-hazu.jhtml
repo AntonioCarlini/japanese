@@ -30,11 +30,11 @@
 
 @BGRND{{}}
 <p>
-<a name="da">@HI{{@EM{{hazu}}}}</a> which indicates the speaker's belief that something will happen (or happened).
+<a name="da">@HI{{@EM{{hazu}}}}</a> indicates the speaker's belief that something will happen (or happened).
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{come}}ru @EM{{hazu}}desuyo. kinou @KJ{{electricity^tale}}ga arimashitakara.}}
+      @HI{{@KJ{{come}}ru@EM{{hazu}}desuyo.kinou@KJ{{electricity^tale}}gaarimashitakara.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm sure he'll come. I received a phone call from him yesterday.
@@ -57,7 +57,7 @@ An expectation that something will not be the case can be expressed by negating 
 </p>
 
 <p>
-Alternatively the sentence can be followed by @HI{{@EM{{hazu}}}} @HI{{ha/ganai}}.
+Alternatively the sentence can be followed by <a href="grammar-hazu-ga-nai.html">@HI{{@EM{{hazu}}}}@HI{{ha/ganai}}</a>.
 
 <table class="sentence">
   <tr class="jp"> <td>
