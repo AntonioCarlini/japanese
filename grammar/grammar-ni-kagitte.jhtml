@@ -21,20 +21,61 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} expresses an exclusive focus on the topic item.
 The expression is intended to show that only the noun that precedes the compund particle is different from all the others.
 The predicate is expressly negative or implicitly negative.
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} can indicate that the preceding item is different from the norm.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{umbrella}}:kasa}}wo@KJ{{hold}}tte@KJ{{come}}nai@KJ{{day}}ni@KJ{{limit}}tte@KJ{{rain}}ga@FG{{@KJ{{descend}}:fu}}rundesuyo.}}
+      @HI{{watashihaitsumoha@KJ{{station^in*front}}de@KJ{{buy}}i@KJ{{thing}}surunodaga,sono@KJ{{day}}@EM{{ni@KJ{{limit}}tte}}
+      @KJ{{car}}de@FG{{@KJ{{distant}}:too}}kuno@KT{{su-pa-}}made@KJ{{going}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I always shop in front of the station, but on that day I went by car to a distant supermarket.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} can indicate that something unfortunate and unexpected happens on one occasion.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{umbrella}}:kasa}}wo@KJ{{hold}}tte@KJ{{come}}nai@KJ{{day}}@EM{{ni@KJ{{limit}}tte}}@KJ{{rain}}ga@FG{{@KJ{{descend}}:fu}}rundesuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       Only on the day when I don't bring my umbrella, it rains, you know.
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} can indicate that one strongly believes something in particular about the preceding item
+but necessarily about any other similar item.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{uchino@KJ{{child}}@EM{{ni@KJ{{limit}}tte}}@FG{{@KJ{{friend^accomplished}}:tomodachi}}woijimerukotohanaito@KJ{{think}}imasuga@JDOTS6{{}}.
+      totemo@FG{{@KJ{{}}:yasa}}shii@KJ{{child}}nandesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our child, of all children, would not bully his friend. He's a kind child, you know.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
