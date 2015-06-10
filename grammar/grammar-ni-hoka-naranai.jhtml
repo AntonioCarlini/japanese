@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nihokanaranai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nihokanaranai}}" grammar="@HI{{nihokanaranai}}"}}
+
+<body>
+
+<h1>@HI{{nihokanaranai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nihokanaranai}}}}
+<li> ~@HI{{noha}}~@HI{{kara@EM{{nihokanaranai}}}}
+<li> ~@HI{{ha}}~@HI{{koto@EM{{nihokanaranai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nihokanaranai}}}} expresses that something is nothing but something else.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{person}}:hito}}no@FG{{@KJ{{say^leaf}}:kotoba}}ha@FG{{@KJ{{beauty^resign^lovely^phrase}}:bijireiku}}@EM{{nihokanaranai.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His words are nothing but flowery words.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nihokanaranai}}}} can be used with a @HI{{kara}} clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{large^study}}no@KJ{{study^life}}no@FG{{@KJ{{substance}}:shitsu}}gaiinoha@FG{{@KJ{{elect^slip*out}}:senbatsu}}ga@KJ{{difficult}}shiikara@EM{{nihokanaranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The reason why the student quality of this college is so good is simply because the selection process is tough.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nihokanaranai}}}} can be used with a clause nominalised with @HI{{koto}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{nucleaus^soldier^utensil}}:kakuheiki}}no@FG{{@KJ{{use^utilize}}:shiyou}}ha@FG{{@KJ{{person^sort}}:jinrui}}no@FG{{@KJ{{rend^destroy}}:hametsu}}wo@FG{{@KJ{{beckon}}:mane}}kukoto@EM{{nihokanaranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The use of nuclear weapons invites nothing but (lit: is nothing but to invite) the annihilation of humanity.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In very formal speech or writing @HI{{@EM{{nihokanaranai}}}} can take the archaic negative marker @HI{{nu}} to become @HI{{@EM{{nihokanaranu}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:kekkon'}}ha@FG{{@KJ{{person^life}}:jinsei}}no@FG{{@KJ{{}}:hakaba}}@EM{{nihokanaranu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Marriage is nothing but a graveyard of life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 245).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

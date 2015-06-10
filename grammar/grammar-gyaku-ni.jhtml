@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{inverted}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{gyakuni}}" grammar="@HI{{@FG{{@KJ{{inverted}}:gyaku}}ni}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{inverted}}:gyaku}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@FG{{@KJ{{inverted}}:gyaku}}ni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{inverted}}:gyaku}}ni}}}} is an adverb used to introduce an event that takes place contrary to one's expectation or intention
+or an action or event which is contrary to that stated in the preceding sentence or clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{medicine}}:kusuri}}wo@KJ{{drink}}ndara,@EM{{@FG{{@KJ{{inverted}}:gyaku}}ni}}@FG{{@KJ{{heat}}:netsu}}ga@FG{{@KJ{{exit}}:de}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Contrary to expectations, when I took the medicine, I got a fever.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The preceding clause often involves @HI{{tara}}, @HI{{to}} or @HI{{noni}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 53).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

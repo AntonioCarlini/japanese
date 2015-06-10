@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mademonai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mademonai}}" grammar="@HI{{mademonai}}"}}
+
+<body>
+
+<h1>@HI{{mademonai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{mademonai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mademonai}}}} is a phrase that indicates that it is not necessary to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{koreha@FG{{@KJ{{simplicity^simple}}:kantan'}}na@FG{{@KJ{{plot^calculate}}:keisan'}}dakara@FG{{@KJ{{plot^calculate^utensil}}:keisanki}}wo@FG{{@KJ{{use}}:tsuka}}u@EM{{mademonai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is a simple calculation so it is not necessary to bother to use a calculator.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{wait}}tsu@EM{{mademonaku}}@FG{{@KJ{{wife}}:tsuma}}ha@KJ{{buy}}i@KJ{{thing}}kara@KJ{{homecoming}}ttekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My wife came back from shopping without myhaving to wait for her.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{iu@EM{{mademonai}}}} is an idomatic expression meaning "needless to say".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{now^grow*late}}:imasara}}u@EM{{@FG{{@KJ{{speaketh}}:mou}}sumademoarimasen}}ga,@FG{{@KJ{{mountain^in}}:yamanaka}}@KJ{{before^life}}hakono@FG{{@KJ{{part^plains}}:bun'ya}}deha
+      @FG{{@KJ{{finger^guidance^bull's*eye}}:shidouteki}}na@FG{{@KJ{{stand*up^location}}:tachiba}}niaruo@FG{{@KJ{{direction}}:kata}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Needless to say (now), Professor Yamanaka is a leading figure in this field.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{nohaiu@EM{{mademonai}}}} is an idomatic expression meaning "it goes without saying that".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}gamin'nani@FG{{@KJ{{revered^awe}}:sonkei}}sareta@EM{{noha@KJ{{say}}umademonai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It goes without saying that he was respected by everybody.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 159).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

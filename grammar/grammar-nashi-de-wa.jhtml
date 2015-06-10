@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nashideha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nashideha}}" grammar="@HI{{nashideha}}"}}
+
+<body>
+
+<h1>@HI{{nashideha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{nashideha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nashideha}}}} is compund particle used to express a conditional "if someone something is missing".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{reality^power}}:jitsuryoku}}@EM{{nashideha}}@FG{{@KJ{{generation}}:yo}}no@FG{{@KJ{{in}}:naka}}ha@FG{{@KJ{{transit}}:wata}}renai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Without real talents one cannot get along in society.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 230).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
