@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{example}}no}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{reino}}" grammar="@HI{{@FG{{@KJ{{example}}:rei}}no}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{example}}:rei}}no}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@FG{{@KJ{{example}}:rei}}no}}}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{example}}:rei}}no}}}} is a phrase which marks information that is shared by the speaker and the listener.
+In this example the listener is expected to know about the project to which the speaker is referring.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{example}}no}}@KT{{purojetto}}hadounarimashitaka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What happened to the project (in question)?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 346).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
