@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sokowo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sokowo}}" grammar="@HI{{sokowo}}"}}
+
+<body>
+
+<h1>@HI{{sokowo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{sokowo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sokowo}}}} is a conjunction used to indicate that inspite of a previously mentioned negative situation, a positive effort is made.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@KJ{{head}}hasorehodoyokunaiga,@EM{{sokowo}}@FG{{@KJ{{toil^power}}:doryoku}}de@KJ{{what}}tokayatteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He's not that bright, but he manages to get along on his efforts.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sokowo}}}} is often used to push one's request despite an initial negative reaction.
+In this case @HI{{@EM{{sokowo}}}} can be replaced by @HI{{sokonotokorowo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{busy}}:isoga}}shiitoha@FG{{@KJ{{}}:zon'}}jimasuga,@EM{{sokowo}}@KJ{{what}}toka@FG{{@KJ{{exit^seat}}:shusseki}}shiteitadakenaideshouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I know you are busy, but I wonder if you could possibly attend?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 407).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

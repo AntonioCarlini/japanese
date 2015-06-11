@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tada}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tada}}" grammar="@HI{{tada}}"}}
+
+<body>
+
+<h1>@HI{{tada}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{tada}}}} one+<em>counter</em>
+<li> @HI{{@EM{{tada}}}}@N{{}}@HI{{dake}}
+<li> @HI{{@EM{{tada}}}} <em>verbal</em> (@HI{{toiu}})@HI{{dakeda}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tada}}}} is a device used to emphasise the idea of "only" or "just" or "simply".
+The sentence patterns in the formation are not an exhaustive list.
+Except in the case cited below, @HI{{@EM{{tada}}}} does not change the meaning of a sentence, but merely adds emphasis.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{tada}}soredakenokotode@KJ{{he}}wo@FG{{@KJ{{neck}}:kubi}}nishitandesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Did you fire him only for that reason?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{tada}}}} is followed by one+<em>counter</em> leaving out @HI{{tada}} changes the meaning of the sentence.
+The sentence patterns in the formation are not an exhaustive list.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@EM{{tada}}@KJ{{one}}tsuno@FG{{@KJ{{}}:ketten'}}ha@KJ{{time^interval}}ni@KT{{ru-zu}}datoiukotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His one (only) defect is that he is not punctual.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@KJ{{one}}tsuno@FG{{@KJ{{}}:ketten'}}ha@KJ{{time^interval}}ni@KT{{ru-zu}}datoiukotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      One of his defects is that he is not punctual.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 445).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
