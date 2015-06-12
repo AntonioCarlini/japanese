@@ -16,7 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}} @HI{{@EM{{tokoroga}}}}
+<li> @Vta{{}}@HI{{@EM{{tokoroga}}}}
+<li> @S1{{}}@HI{{.@EM{{tokoroga}},}}@S2{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -54,6 +55,20 @@ it may be good or bad).
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="however">@HI{{tokoroga}}</a> is used in the sentence initial position to present something unexpected in response to the previous utterance.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KT{{amerika}}dehanokogiriha@FG{{@KJ{{push}}:o}}shite@FG{{@KJ{{cut}}:ki}}ru.@EM{{tokoroga}},@KJ{{day^book}}deha@FG{{@KJ{{pull}}:hi}}ite@KJ{{cut}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    In America you pull a saw to cut; however, in Japan you pull one to cut.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -63,6 +78,7 @@ it may be good or bad).
 
 <ol>
 <li> @REF{{AAP}}. (p. 96).
+<li> @REF{{DOIJG}}. (p. 503).
 </ol>
 
 @include{{"grammar-footer.inc"}}

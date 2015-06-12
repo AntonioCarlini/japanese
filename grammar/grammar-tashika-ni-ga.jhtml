@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{assurance}}kani~ga}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tashikani~ga}}" grammar="@HI{{@FG{{@KJ{{assurance}}:tashi}}kani~ga}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{assurance}}:tashi}}kani~ga}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@FG{{@KJ{{assurance}}:tashi}}kani}}~@EM{{ga}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{assurance}}:tashi}}kani}}~@EM{{ga}}}} is a structure used to express the idea of "indeed ~ but".
+The speaker is admitting that something is indeed true but wishes to express something that goes against what has just been accepted.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{car}}ha@EM{{@KJ{{assurance}}kani}}@FG{{@KJ{{fascination^power^bull's*eye}}:miryoku}}da@EM{{ga}},@FG{{@KJ{{}}:nedan'}}ga@KJ{{tall}}sugiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This car is certainly attractive, but the price is too high.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 450).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

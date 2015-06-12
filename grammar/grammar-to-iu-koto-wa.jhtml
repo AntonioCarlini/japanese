@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toiukotoha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiukotoha}}" grammar="@HI{{toiukotoha}}"}}
+
+<body>
+
+<h1>@HI{{toiukotoha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{@EM{{toiukotoha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiukotoha}}}} changes a sentence into a noun clause. It is used in cases where the speaker views the contents of @Splain{{}} at a conceptual level.
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiukotoha}}}} can be used when @Splain{{}} is unlikely or impossible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}gakono@FG{{@KJ{{}}:atsumari}}ni@FG{{@KJ{{come}}:ko}}nai@EM{{toiukotoha}}@FG{{@KJ{{consider}}:kanga}}erarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is unthinkable that he won't come to this meeting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiukotoha}}}} can be used when the speaker concludes or attempts to conclude something from @Splain{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hand^paper}}:tegami}}ga@FG{{@KJ{{}}:modo}}te@KJ{{come}}ta@EM{{toiukotoha}}@KJ{{he^woman}}hamoukono@FG{{@KJ{{dwell^place}}:juusho}}nihainaitoiukotoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The fact that the letter came back means that she no longer lives at this address.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+<a href="grammar-koto-wa.html">@HI{{koto}}</a> and @HI{{@EM{{toiukotoha}}}} differ in a number of respects:
+
+<ul>
+<li> @HI{{koto}} cannot be used if something is untrue or highly unlikely.
+<li> If the speaker knows something through direct experience, only @HI{{koto}} is acceptable.
+</ul>
+</p>
+
+<p>
+When something is likely to happen, either expression is acceptable.
+</p>
+
+<p>
+When verbs such as @HI{{@FG{{@KJ{{emotion}}:kan}}jiru}} and @HI{{@FG{{@KJ{{need^request}}:youkyuu}}suru}} are used @Splain{{}} will be concrete and so @HI{{koto}} should be used.
+</p>
+
+<p>
+When verbs such as @HI{{@FG{{@KJ{{transmit}}:tsuta}}eru}} and @HI{{@FG{{@KJ{{hear}}:ki}}ku}} are used, either @HI{{koto}} or @HI{{toiukotoha}} can be used.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 480).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

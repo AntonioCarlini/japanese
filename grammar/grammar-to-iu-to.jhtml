@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}uto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiuto}}" grammar="@HI{{to@KJ{{say}}uto}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}uto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{to@KJ{{say}}uto}}}}
+<li> @Splain{{}}@HI{{@EM{{to@KJ{{say}}uto}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}uto}}}} is used when something mentioned evokes a memory.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{sanfuranshisuko}}@EM{{to@KJ{{say}}uto}},ano@KT{{ke-buruka-}}wo@KJ{{think}}i@KJ{{exit}}su.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When you mention San Francisco, I remember those cable cars.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}uto}}}} is used when the speaker wants to make a remark which is different from that which is expected.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{loose^brush-stroke}}:manga}}@EM{{to@KJ{{say}}uto}}@FG{{@KJ{{horse^deer}}:baka}}nisuru@FG{{@KJ{{person}}:hito}}moaruga,areharede@FG{{@KJ{{mask^white}}:omoshiro}}ida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Some people ridicule comics (lit. Some people despise yo uwhen you mention comics), but comics are intesting in their own way.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@KJ{{say}}uto}}}} is used to question the meaning of a word or phrase mentioned by the conversational partner.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A:@HI{{@KT{{karaoke}}ha@KJ{{fond}}kidesuka}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B:@HI{{@KT{{karaoke}}@EM{{to@KJ{{say}}imasuto}}?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Do you like <em>karaoke</em>?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: What do you mean by <em>karaoke</em>?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 492).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
