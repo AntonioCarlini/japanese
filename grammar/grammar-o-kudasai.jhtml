@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{o~@KJ{{below}}sai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{o~kudasai}}" grammar="@HI{{o~@FG{{@KJ{{below}}:kuda}}sai}}"}}
+
+<body>
+
+<h1>@HI{{o~@FG{{@KJ{{below}}:kuda}}sai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{o}}@Vmasustem{{}}@EM{{@FG{{@KJ{{below}}:kuda}}sai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{o~@FG{{@KJ{{below}}:kuda}}sai}}}} is a phrase used to express an extremely polite request.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{few^noma}}:shoushou}}@EM{{o}}@KJ{{wait}}chi@EM{{@KJ{{below}}sai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please wait a moment.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This pattern cannot be used with two mora @1D{{}} verbs such as @HI{{@KJ{{see}}ru}}, @HI{{iru}}, @HI{{@KJ{{don}}ru}} and @HI{{@KJ{{lie*down}}ru}}.
+It also cannot be used with @HI{{suru}} and @HI{{@KJ{{come}}ru}}.
+</p>
+
+<p>
+Those @HI{{suru}} verbs that take the polite prefix @HI{{o}}, such as @HI{{@KJ{{electricity^tale}}suru}}, @HI{{@KJ{{fee^logic}}suru}}, @HI{{@KJ{{sweep^exclude}}suru}}
+and @HI{{@KJ{{wash^laundry}}suru}} are not often used with this pattern and may in fact sound awkward.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 322).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
