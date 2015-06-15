@@ -236,6 +236,7 @@ JHTML_SRCS += grammar-ni-kawatte.jhtml
 JHTML_SRCS += grammar-ni-kimatte-iru.jhtml
 JHTML_SRCS += grammar-ni-koshita-koto-wa-nai.jhtml
 JHTML_SRCS += grammar-ni-kotaete.jhtml
+JHTML_SRCS += grammar-ni-kuraberu-to.jhtml
 JHTML_SRCS += grammar-ni-mo-kakawarazu.jhtml
 JHTML_SRCS += grammar-ni-motozuite.jhtml
 JHTML_SRCS += grammar-ni-naru-to.jhtml
