@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{armor^symmetrically*patterned}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kai}}" grammar="@HI{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{kai}}gaaru}}
+<li> @Vplain{{}}@HI{{@EM{{kai}}ganai}}
+<li> @N{{}}@HI{{no@EM{{kai}}gaaru}}
+<li> @N{{}}@HI{{no@EM{{kai}}ganai}}
+<li> @Vmasustem{{}}@HI{{@EM{{gai}}}}
+<li> @S1{{}}@HI{{.sono@EM{{kai}}gaatte@S2{{}}.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} is a dependent noun that means "worth".
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} indicates a subjective "worth".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{large^study}}no@KJ{{study^life}}yoku@FG{{@KJ{{exertion^study}}:benkyou}}surukara,@FG{{@KJ{{book^hit}}:hontou}}ni@KJ{{teach}}e@EM{{gaigaaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} changes phonetically from @HI{{kai}} to @HI{{gai}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{anatanitotte@KJ{{life}}ki@EM{{gai}}toha@KJ{{what}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What makes life worth living for you?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kaigaaru}}}}}} is often used in the @HI{{te}}-form and functions as a sort of subordinate conjunction.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{spicy^embrace}}:shinbou}}no@EM{{kaigaatte}},@FG{{@KJ{{carry}}:un'}}ga@FG{{@KJ{{open}}:hira}}keta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My perseverance paid off, and my fortunes have changed for the better.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 179).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
