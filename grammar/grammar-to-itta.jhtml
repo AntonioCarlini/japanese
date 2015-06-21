@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}, @N2 ... @HI{{@EM{{to@KJ{{say}}tta}}}}@N{{}}
+<li> @N1{{}}, @N2{{}} ... @HI{{@EM{{to@KJ{{say}}tta}}}}@N{{}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,7 +32,7 @@
       @HI{{@KT{{doitsu}},@KT{{furansu}},@KT{{roshia}}@EM{{toitta}}@FG{{@KJ{{country^noma}}:kuniguni}}ga@FG{{@KJ{{war^contend}}:sensou}}ga@FG{{@KJ{{anti-^vis-a-vis}}:hantai}}shita.}}
   </td> </tr>
   <tr class="en"> <td>
-      Countires such as Germany, France and Russia are opposed to the war.
+      Countries such as Germany, France and Russia are opposed to the war.
   </td> </tr>
 </table>
 </p>
@@ -77,6 +77,7 @@ When @HI{{@EM{{to@KJ{{say}}tta}}}} is preceded by a single sentence, the implica
 <ol>
 <li> @REF{{DOAJG}}. (p. 629).
 <li> @REF{{NKZM-N2G}}. (p. 47).
+<li> @REF{{NKZM-N2G}}. (p. 124).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -135,7 +135,7 @@
 <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
 <li> ~@HI{{toiuka}}~@HI{{toiuka}}
 <li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}~@HI{{nishitemo}}</a>, ~@HI{{nishiru}}~@HI{{nishiru}}, ~@HI{{niseyo}}~@HI{{niseyo}}
-<li> ~<a g=href="grammar-to-itta.html">@HI{{toitta}}</a>
+<li> ~<a href="grammar-to-itta.html">@HI{{toitta}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
@@ -162,7 +162,7 @@
 
 <ol>
 <li> ~<a href="grammar-to-iu-no-wa.html#to-wa">@HI{{toha}}</a>
-<li> ~@HI{{toieba}}
+<li> ~<a href="grammar-to-ieba.html">@HI{{toieba}}</a>
 <li> ~@HI{{toiuto}}, ~@HI{{toieba}}, ~@HI{{toittara}}
 <li> ~(@HI{{nokoto}})@HI{{tonaruto}}
 <li> ~@HI{{toittara}}
@@ -176,7 +176,7 @@
 <li> ~@HI{{nagara}}(@HI{{mo}})
 <li> ~@HI{{tsutsu}}(@HI{{mo}})
 <li> ~@HI{{toittemo}}
-<li> ~@HI{{karatoitte}}
+<li> ~<a href="grammar-kara-to-itte.html"@HI{{karatoitte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
@@ -344,20 +344,20 @@
 <h3><a class="navtarget" name="chapter1.B">_</a>B</h3>
 
 <ol>
-<li> ~@HI{{toitta}}
-<li> ~@HI{{toieba}}
+<li> ~<a href="grammar-to-itta.html">@HI{{toitta}}</a>
+<li> ~<a href="grammar-to-ieba.html">@HI{{toieba}}</a>
 <li> ~@HI{{toiuto}}
 <li> ~@HI{{toittara}}
 <li> ~@HI{{toittemo}}
-<li> ~@HI{{karatoitte}}
+<li> ~<a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
 <li> ~@HI{{tohaiinagara}}
-<li> ~@HI{{karashite}}
+<li> ~<a href="grammar-kara-shite.html">@HI{{karashite}}</a>
 <li> ~@HI{{toshitara}}
 <li> ~@HI{{tosureba}}
-<li> ~@HI{{tosuruto}}
-<li> ~@HI{{nishitemo}}
+<li> ~<a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a>
+<li> ~<a href="grammar-ni-shite-mo.html">@HI{{nishitemo}}</a>
 <li> ~@HI{{nishiro}}
-<li> ~@HI{{nishiteha}}
+<li> ~<a href="grammar-ni-shite-wa.html">@HI{{nishiteha}}</a>
 <li> ~@HI{{nishitara}}
 <li> ~@HI{{nisureba}}
 <li> ~@HI{{karasuruto}}
