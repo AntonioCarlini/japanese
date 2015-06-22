@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-The pattern @Vyou{{}}@HI{{tosuru}} is used to mean "try to do something" or "just as I was about to do something".
+The pattern @Vyou{{}}@HI{{tosuru}} is used to mean "try to do something".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -52,6 +52,20 @@ The pattern @Vyou{{}}@HI{{tosuru}} can also mean "just as I was about to do some
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The pattern @Vyou{{}}@HI{{toshinai}} means that someone, usually not the speaker, does not intend to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{wife}}:tsuma}}ha@FG{{@KJ{{crimson^tea}}:koucha}}ga@KJ{{fond}}kide,o@KJ{{tea}}ya@KT{{ko-hi-}}wo@KJ{{drink}}moutoshinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My wife likes black tea and she has no interest in drinking green tea, coffee or anything like that.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -60,6 +74,9 @@ The pattern @Vyou{{}}@HI{{tosuru}} can also mean "just as I was about to do some
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 51).
+<li> @REF{{NKZM-N2G}}. (p. 13).
+<li> @REF{{DOAJG}}. (p. 474).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}
