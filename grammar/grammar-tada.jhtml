@@ -15,11 +15,19 @@
 
 <h2> Formation </h2>
 
+<dl>
+<dt> As an adverb:</dt>
 <ol>
 <li> @HI{{@EM{{tada}}}} one+<em>counter</em>
 <li> @HI{{@EM{{tada}}}}@N{{}}@HI{{dake}}
 <li> @HI{{@EM{{tada}}}} <em>verbal</em> (@HI{{toiu}})@HI{{dakeda}}
 </ol>
+<dt> As a conjunction:</dt>
+<ol>
+<li> @S1{{}}@HI{{.@EM{{tada}}@S2{{}}.}}
+<li> @S1{{}}@HI{{kedo,@EM{{tada}}@S2{{}}.}}
+</ol>
+</dl>
 
 <h2> Definition </h2>
 
@@ -67,6 +75,43 @@ The sentence patterns in the formation are not an exhaustive list.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+In addition to its uses as an adverb above, <a name="conjunction">@HI{{@EM{{tada}}}}</a> can act as a conjunction.
+In this usage the speaker is making a supplementary remark which is usually contrary to what would have been
+expected from the preceding discourse.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{totemoii@KT{{konpyu-ta}}dato@KJ{{think}}imasu.@EM{{tada}}@FG{{@KJ{{price^grade}}:nedan'}}ga@FG{{@KJ{{question^topic}}:mondai}}desune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think this is a very good computer. But the price is a problem.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tada}}}} as a conjunction may also appear at the beginning of a sentence. In this case the statement that should occur
+before it is understood from the context.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{kon'nanishiteitadaitedoumoarigatou.}} 
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{iya,@EM{{tada}}koreha@KJ{{person}}niha@KJ{{say}}wanaidehoshinda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Thank you very much for doing all this for me.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Not at all, but I'd rather you not mention it to others.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -75,6 +120,7 @@ The sentence patterns in the formation are not an exhaustive list.
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 445).
+<li> @REF{{DOAJG}}. (p. 570).
 </ol>
 
 @include{{"grammar-footer.inc"}}

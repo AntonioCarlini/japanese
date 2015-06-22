@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{provisional}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karini}}" grammar="@HI{{@FG{{@KJ{{provisional}}:kari}}ni}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{provisional}}:kari}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshitara}}
+<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{tosureba}}
+<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{@FG{{@KJ{{location^fit}}:baai}}}}
+<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshite}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}} is an adverb that indicates a tentative assumption.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{provisional}}ni}}@FG{{@KJ{{go-between^jammed*in^someone}}:chuukaisha}}wo@KJ{{traffic}}shite@KJ{{sell}}ru@KJ{{location^fit}},@FG{{@KJ{{profit^benefit}}:rieki}}ga@KJ{{few}}kunakunarunoha 
+      @FG{{@KJ{{hit^sort*of*thing}}:touzen'}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you sell it through a go-between, your profit will naturally be smaller.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If @HI{{moshimo}} precedes @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}, the hypothetical nature of the statement is emphasised.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{moshimo@EM{{@KJ{{provisional}}ni}}1@KJ{{hundred*million^circle}}morautoshitara@KJ{{what}}ni@KJ{{use}}imasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Supposing you received 100 million yen, what would you use it for?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+If @HI{{baai}} is used with @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}, the meaning changes according to the tense of the verb.
+</p>
+
+<p>
+In the case of a non-past verb in this sentence, the costs mentioned include those incurred in entering graduate school, such as apllication fees.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{provisional}}ni}}@KJ{{day^book}}no@FG{{@KJ{{country^stand*up}}:kokuritsu}}@KJ{{large^study}}no@KJ{{large^study^Inst.}}ni@EM{{@KJ{{enter}}ru}}@KJ{{location^fit}},donoguraio@KJ{{gold}}gakakarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Supposing I enter the graduate school of a Japanese national university, how much does it cost?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, if a past verb is used, the costs iunclude tuition fees and other costs one has to pay once one has entered graduate school.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{provisional}}ni}}@KJ{{day^book}}no@FG{{@KJ{{country^stand*up}}:kokuritsu}}@KJ{{large^study}}no@KJ{{large^study^Inst.}}ni@EM{{@KJ{{enter}}tta}}@KJ{{location^fit}},donoguraio@KJ{{gold}}gakakarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Supposing I entered the graduate school of a Japanese national university, how much does it cost?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 201).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
