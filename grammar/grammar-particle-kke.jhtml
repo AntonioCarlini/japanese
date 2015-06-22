@@ -17,11 +17,20 @@
 
 <ol>
 <li> @Vta{{}}@HI{{@EM{{kke}}}}.
+<li> @Vplain{{}}(non-past)@HI{{nda@EM{{kke}}}}.
+<li> @Ai{{}}@HI{{nda@EM{{kke}}}}.
+<li> @Anastem{{}}@HI{{(nan')da@EM{{kke}}}}.
+<li> @N{{}}@HI{{(nan')da@EM{{kke}}}}.
 </ol>
 
 <h2> Definition </h2>
 
 @BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kke}}}} is a highly colloquial question marker. It is not appropriate to use it in written Japanese or formal spoken Japanese.
+</p>
 
 @BGRND{{}}
 <p>
@@ -51,6 +60,20 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+When @HI{{@EM{{kke}}}} is used with a nonpast verb or @HI{{i}}-adjective, @HI{{nda}} has to be present, as shown in the formation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}sanha@KJ{{England^word}}ga@KJ{{tale}}serunda@EM{{kke}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Can you speak English, Mr Suzuki?
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -59,6 +82,7 @@
 
 <ol>
 <li> @REF{{AAP}}. (p. 139).
+<li> @REF{{DOAJG}}. (p. 223).
 </ol>
 
 @include{{"grammar-footer.inc"}}
