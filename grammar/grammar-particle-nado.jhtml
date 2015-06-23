@@ -52,6 +52,40 @@ with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+If the main predicate is negated, @HI{{@EM{{nado}}}} can indicate a sense of humbleness.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{kon'no@FG{{@KJ{{flip^translate}}:hon'yaku}}shitekudasaimasenka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{kon'na@KJ{{difficult}}shiimono,@KJ{{private}}@EM{{nado}}niha@KJ{{exit^come}}masen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Could you kindly translate this for me?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: A person like me cannot translate such a difficult thing.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="contempt">@HI{{@EM{{nado}}}}</a> can convey a sense of contempt.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}no@KJ{{say}}ttakoto@EM{{nado}}@KJ{{spirit}}nisurukotohaarimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I pay no attention to anything he says.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -62,6 +96,7 @@ with <a href="grammar-particle-ya.html">@HI{{ya}}</a>.
 <li> @REF{{AAP}}. (p. 43).
 <li> @REF{{DOBJG}}. (p. 267).
 <li> @REF{{NKZM-N3G}}. (p. 59).
+<li> @REF{{NKZM-N2G}}. (p. 96).
 </ol>
 
 @include{{"grammar-footer.inc"}}

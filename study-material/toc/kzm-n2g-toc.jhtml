@@ -94,7 +94,7 @@
 <ol>
 <li> ~<a href="grammar-ni-kagirazu.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</a>
 <li> ~<a href="grammar-nominarazu.html">@HI{{nominarazu}}</a>
-<li> ~@HI{{bakarika}}
+<li> ~<a href="grammar-bakarika-sae.html">@HI{{bakarika}}</a>
 <li> ~@HI{{hamotoyori}}
 <li> ~<a href="grammar-ue-ni.html">@KJ{{above}}(@HI{{ni}})</a>
 </ol>
@@ -106,7 +106,7 @@
 <li> ~<a href="grammar-wo-megutte.html">@HI{{womegutte}}</a>
 <li> ~<a href="grammar-ni-kakete-wa.html">@HI{{nikaketeha}}</a>
 <li> ~<a href="grammar-ni-taishite.html">@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}</a>
-<li> ~@HI{{nikotaete}}
+<li> ~<a href="grammar-ni-kotaete.html">@HI{{nikotaete}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
@@ -141,8 +141,8 @@
 <h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
-<li> ~@HI{{nikakawarinaku}}, ~@HI{{nikakawarazu}}
+<li> ~<a href="grammar-wo-towazu.html">@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}</a>
+<li> ~@HI{{nikakawarinaku}}, ~<a href="grammar-ni-kakawarazu.html">@HI{{nikakawarazu}}</a>
 <li> ~@HI{{mokamawazu}}
 <li> ~@HI{{hatomokaku}}(@HI{{toshite}})
 <li> ~@HI{{hasateoki}}
@@ -154,7 +154,7 @@
 <li> ~<a href="grammar-wake-ga-nai.html">@HI{{wakeganai}}</a>
 <li> ~<a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>, ~<a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>
 <li> ~<a href="grammar-particle-mono-ka-not.html">@HI{{monoka}}</a>
-<li> ~<a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>, ~@HI{{toiuwakedehanai}}
+<li> ~<a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>, ~<a href="grammar-wake-dewa-nai.html">@HI{{toiuwakedehanai}}</a>
 <li> ~<a href="grammar-to-iu-mono-de-wa-nai.html">@HI{{toiumonodehanai}}</a>, ~<a href="grammar-to-iu-mono-de-wa-nai.html">@HI{{toiumonodemonai}}</a>
 </ol>
 
@@ -163,8 +163,8 @@
 <ol>
 <li> ~<a href="grammar-to-iu-no-wa.html#to-wa">@HI{{toha}}</a>
 <li> ~<a href="grammar-to-ieba.html">@HI{{toieba}}</a>
-<li> ~@HI{{toiuto}}, ~@HI{{toieba}}, ~@HI{{toittara}}
-<li> ~(@HI{{nokoto}})@HI{{tonaruto}}
+<li> ~<a href="grammar-to-iu-to.html">@HI{{toiuto}}</a>, ~@HI{{toieba}}, ~@HI{{toittara}}
+<li> ~<a href="grammar-to-naru-to.html">(@HI{{nokoto}})@HI{{tonaruto}}</a>
 <li> ~@HI{{toittara}}
 </ol>
 
@@ -172,20 +172,22 @@
 
 <ol>
 <li> ~<a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
-<li> ~@HI{{monono}}, ~@HI{{tohaiumonono}}
-<li> ~@HI{{nagara}}(@HI{{mo}})
-<li> ~@HI{{tsutsu}}(@HI{{mo}})
-<li> ~@HI{{toittemo}}
-<li> ~<a href="grammar-kara-to-itte.html"@HI{{karatoitte}}</a>
+<li> ~<a href="grammar-particle-mono-no.html">@HI{{monono}}</a>, ~@HI{{tohaiumonono}}
+<li> ~<a href="grammar-nagara-although.html">@HI{{nagara}}(@HI{{mo}})</a>
+<li> ~<a href="grammar-tsutsu.html">@HI{{tsutsu}}(@HI{{mo}})</a>
+<li> ~<a href="grammar-to-itte-mo.html">@HI{{toittemo}}</a>
+<li> ~<a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{toshitara}}, ~@HI{{tosureba}}, ~@HI{{tosuruto}}, ~@HI{{tonattara}}, ~@HI{{tonareba}}, ~@HI{{tonaruto}}
-<li> ~@HI{{mononara}}
+<li> ~@HI{{toshitara}}, ~@HI{{tosureba}},
+     ~<a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a>,
+     ~@HI{{tonattara}}, ~@HI{{tonareba}}, ~@HI{{tonaruto}}
+<li> ~<a href="grammar-particle-mono-nara.html#unlikely">@HI{{mononara}}</a>
 <li> ~@Vyou{{}}@HI{{mononara}}
-<li> ~@HI{{naikotoniha}}
+<li> ~<a href="grammar-nai-koto-ni-wa.html">@HI{{naikotoniha}}</a>
 <li> ~@HI{{wo@FG{{@KJ{{slip*out}}:nu}}kinishiteha}}
 <li> ~@HI{{toshitemo}}, ~@HI{{nishitemo}}, ~@HI{{nishiru}}, ~@HI{{niseyo}}
 </ol>
@@ -193,9 +195,9 @@
 <h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{niyotte}}
-<li> ~@HI{{monodakara}} @MIDDOT{{}} ~@HI{{monode}} @MIDDOT{{}} ~@HI{{mono}}
-<li> ~@HI{{okageda}}/~@HI{{seida}}
+<li> ~<a href="grammar-ni-yotte.html">@HI{{niyotte}}</a>
+<li> ~<a href="grammar-mono-dakara.html">@HI{{monodakara}}</a> @MIDDOT{{}} ~@HI{{monode}} @MIDDOT{{}} ~@HI{{mono}}
+<li> ~<a href="grammar-okage-de.html">@HI{{okageda}}</a>/~<a href="grammar-sei-de.html">@HI{{seida}}</a>
 <li> ~@HI{{amari}} @MIDDOT{{}} @HI{{amarino}}~@HI{{ni}}
 <li> ~@HI{{nitsuki}}
 </ol>
@@ -248,8 +250,8 @@
 <h3><a class="navtarget" name="chapter1.21">_</a>21 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{gurai}} @MIDDOT{{}} ~@HI{{kurai}}
-<li> ~@HI{{nado}} @MIDDOT{{}}
+<li> ~<a href="grammar-kurai.html">@HI{{gurai}}</a> @MIDDOT{{}} ~<a href="grammar-kurai.html">@HI{{kurai}}</a>
+<li> ~<a href="grammar-particle-nado.html#contempt">@HI{{nado}}</a> @MIDDOT{{}}
      ~<a href="grammar-nanka.html">@HI{{nanka}}</a> @MIDDOT{{}}
      ~<a href="grammar-nante-emotion.html">@HI{{nante}}</a>
 <li> ~<a href="grammar-particle-made.html#extreme">@HI{{made}}</a> @MIDDOT{{}}
@@ -279,8 +281,8 @@
 <li> ~<a href="grammar-mono-da.html#conviction">@HI{{monoda}}</a>
 <li> ~<a href="grammar-to-iu-mono-da.html">@HI{{toiumonoda}}</a>
 <li> ~<a href="grammar-ni-suginai.html">@HI{{nisuginai}}</a>
-<li> ~@HI{{nihokanaranai}}
-<li> ~@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}
+<li> ~<a href="grammar-ni-hoka-naranai.html">@HI{{nihokanaranai}}</a>
+<li> ~<a href="grammar-ni-koshita-koto-wa-nai.html">@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</a>
 <li> ~@HI{{shikanai}} @MIDDOT{{}} ~@HI{{yorihokanai}}
 <li> ~<a href="grammar-beki.html">@HI{{bekida}}</a>/~<a href="grammar-beki.html#negation">@HI{{bekidehanai}}</a>
 </ol>
@@ -289,32 +291,37 @@
 
 <ol>
 <li> ~@Vyou{{}}@HI{{dehanaika}}
-<li> ~@HI{{kotoda}}
-<li> ~@HI{{monoda}}/~@HI{{monodehanai}}
+<li> ~<a href="grammar-koto-da-should.html">@HI{{kotoda}}</a>
+<li> ~<a href="grammar-mono-da.html#should">@HI{{monoda}}</a>/~<a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> ~@HI{{kotohanai}}
-<li> ~@HI{{mai}}/~@Vyou{{}}@HI{{ka}}~@HI{{maika}}
-<li> ~@HI{{monoka}}
+<li> ~@HI{{mai}}/<a href="grammar-you-ka-mai-ka.html">~@Vyou{{}}@HI{{ka}}~@HI{{maika}}</a>
+<li> ~<a href="grammar-particle-mono-ka-not.html#intend-not">@HI{{monoka}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.25">_</a>25 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@Vte{{}}@HI{{shikataganai}} @MIDDOT{{}} ~@Vte{{}}@HI{{shouganai}} @MIDDOT{{}} ~@Vte{{}}@HI{{tamaranai}}
-<li> ~@Vte{{}}@HI{{naranai}}
+<li> ~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shikataganai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shouganai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-tamaranai.html">@Vte{{}}@HI{{tamaranai}}</a>
+<li> ~<a href="grammar-naranai.html">@Vte{{}}@HI{{naranai}}</a>
 <li> ~@HI{{naidehairarenai}} @MIDDOT{{}} ~@HI{{zunihairarenai}}
-<li> ~@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}
-<li> ~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
+<li> ~<a href="grammar-wake-ni-wa-ikanai.html#no-choice">@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}</a>
+<li> ~<a href="grammar-zaro-wo-enai.html">@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.26">_</a>26 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~@HI{{taimonoda}} @MIDDOT{{}} ~@Vte{{}}@HI{{hoshiimonoda}}
-<li> ~@HI{{monoda}}
+<li> ~<a href="grammar-tai-mono-da.html">@HI{{taimonoda}}</a> @MIDDOT{{}}
+      ~@Vte{{}}@HI{{hoshiimonoda}}
+<li> ~<a href="grammar-mono-da.html#nostalgia">@HI{{monoda}}</a> @MIDDOT{{}}
+     ~<a href="grammar-mono-da.html#exclamation">@HI{{monoda}}</a>
 <li> ~@HI{{naimono}}(@HI{{darou}})@HI{{ka}}
 <li> ~@HI{{monogaaru}}
-<li> ~@HI{{kotoda}}
-<li> ~@HI{{kotodarou}} @MIDDOT{{}} ~@HI{{kotoka}}
+<li> ~<a href="grammar-koto-da-emotion.html">@HI{{kotoda}}</a>
+<li> ~@HI{{kotodarou}} @MIDDOT{{}}
+     ~<a href="grammar-koto-ka.html">@HI{{kotoka}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.A">_</a>A</h3>
