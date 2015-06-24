@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nadoto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nadoto}}" grammar="@HI{{nadoto}}"}}
+
+<body>
+
+<h1>@HI{{nadoto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{nadoto}}}}
+<li> @Ai{{}}@HI{{@EM{{nadoto}}}}
+<li> @Anastem{{}}@HI{{da@EM{{nadoto}}}}
+<li> @N{{}}@HI{{da@EM{{nadoto}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nadoto}}}} is a compound particle that indicates and approximate quote of words or ideas.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}ganaikara,@KJ{{day^book}}e@KJ{{going}}ku@EM{{nadoto}}iukotoha@KJ{{dream}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't have money, so ideas like going to Japan are just dreams.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 197).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

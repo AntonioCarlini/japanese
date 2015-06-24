@@ -30,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{na}}}} can indicate emotion. This usage is employed mostly by men.
+<a name="emotion">@HI{{@EM{{na}}}}</a> can indicate emotion. This usage is employed mostly by men.
 The particle may be lengthened to @HI{{@EM{{naa}}}}.
 
 <table class="sentence" border=0>
@@ -117,7 +117,8 @@ This usage is employed by men.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 135).
+<li> @REF{{AAP}}. (p. 135).
+<li> @REF{{DOIJG}}. (p. 193).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="@HI{{kotoninaru}}" grammar="@HI{{kotoninaru}}"}}
+@GRMIDX{{index="@HI{{kotoninatteiru}}" grammar="@HI{{kotoninatteiru}}"}}
+@GRMIDX{{index="@HI{{toiukotoninaru}}" grammar="@HI{{toiukotoninaru}}"}}
 
 <body>
 
@@ -17,10 +19,17 @@
 
 <ol>
 <li> @Vplain{{}}(non-past)@HI{{@EM{{kotoninaru}}}}
+<li> @Ai{{}}(non-past)@HI{{@EM{{kotoninaru}}}}
+<li> @Ana{{}}@HI{{@EM{{kotoninaru}}}}
+<li> @N{{}}@HI{{toiu@EM{{kotoninaru}}}}
+<li> @Splain{{}}@HI{{toiu@EM{{kotoninaru}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's volition.
 The focus is on the action that happens.
@@ -42,6 +51,7 @@ This construction can be used even if the experiencer chooses to do something as
 the experiencer has made a decision and so is considered to be more polite. Compare with <a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>.
 </p>
 
+@BGRND{{}}
 <p>
 Using @HI{{@EM{{kotoninatteiru}}}} shows that a decision took place at some point in the past and its results are still in effect. It may go so
 far as to indicate that something has become a rule or a custom.
@@ -56,12 +66,29 @@ far as to indicate that something has become a rule or a custom.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{kotoninaru}}}} can be a phrase that indicates that an action or event leads to a certain situation or conclusion.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now}}zorewoshiteokanakattara@FG{{@KJ{{behind}}:ato}}de@FG{{@KJ{{large^unusual}}:taihen'}}na@EM{{kotoninaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If we don't do this now, we will end up with an awful situation later.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 202).
+<li> @REF{{DOIJG}}. (p. 140).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 

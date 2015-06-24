@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ku}}" grammar="@HI{{ku}}"}}
+
+<body>
+
+<h1>@HI{{ku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}@HI{{@EM{{ku}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@Aistem{{}}@HI{{@EM{{ku}}}} is used in written Japanese as a continuative form.
+When it is used to connect two predicates, the relationship may be cumulative.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{add^Nara^child}}:kanako}}no@FG{{@KJ{{life^status}}:seikaku}}@FG{{@KJ{{bright}}:aka}}ru@EM{{ku}},@FG{{@KJ{{nothingness^wicked^spirit}}:mujaki}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Kanako's personality was cheerful and innocent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @Aistem{{}}@HI{{@EM{{ku}}}} is used to connect two predicates, the relationship may be one of cause or reason.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{gone^year}}:kyonen'}}no@KJ{{winter}}ha@KJ{{snow}}ga@KJ{{many}}@EM{{ku}},@KJ{{car}}no@FG{{@KJ{{carry^revolve}}:unten'}}ga@FG{{@KJ{{large^unusual}}:taihen'}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Last winter there was much snow and it was hard to drive around.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+<p>
+@Aistem{{}}@HI{{@EM{{ku}}}} can be replaced in all the above cases by @Aistem{{}}@HI{{kute}}. 
+</p>
+
+<p>
+@Aistem{{}}@HI{{@EM{{ku}}}} is used in written Japanese whereas @Aistem{{}}@HI{{kute}} can be used in both spoken and written Japanese.
+</p>
+
+<p>
+The adverbial form on @Ai{{}} is @Aistem{{}}@HI{{@EM{{ku}}}} and here @HI{{kute}} <em>cannot</em> be used.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 148).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

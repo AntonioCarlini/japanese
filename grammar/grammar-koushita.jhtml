@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{koushita}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{koushita}}" grammar="@HI{{koushita}}"}}
+
+<body>
+
+<h1>@HI{{koushita}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{koushita}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{koushita}}}} is a demonstrative which refers to someone or something mentioned as an example in the previous discourse.
+It has the same meaning as @HI{{kon'na}} but is more formal and is mostly used in written Japanese.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{koushita}}@FG{{@KJ{{question^topic}}:mondai}}hakono@FG{{@KJ{{country}}:kuni}}deha@FG{{@KJ{{hear}}:ki}}karenaiyoudearu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We do not seem to hear about problems like this in this country.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 130).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

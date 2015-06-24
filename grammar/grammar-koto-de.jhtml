@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotode}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kotode}}" grammar="@HI{{kotode}}"}}
+
+<body>
+
+<h1>@HI{{kotode}}</h1>
+
+<h2> Formation </h2>
+
+<dl>
+<dt> Means:
+<ol>
+<li> @Vplain{{}}(non-past)@HI{{@EM{{kotode}}}}
+</ol>
+<dt> Cause:
+<ol>
+<li> @Splain{{}}@HI{{@EM{{kotode}}}}
+</ol>
+</dl>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kotode}}}} can be a compund particle which indicates a means ("by").
+In this usage it must follow a non-past verb.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ga@KJ{{ten^ten*thousand^circle}}@FG{{@KJ{{exit}}:da}}su@EM{{kotode}}@FG{{@KJ{{question^topic}}:mondai}}ha@FG{{@KJ{{unravel^decide}}:kaiketsu}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The problem was solved by my paying 100,000 yen.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kotode}}}} can be a compund particle which indicates a cause ("because").
+In this usage it may follow a verb, adjective or copula in either the past or the non-past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{England^word}}:eigo}}ga@FG{{@KJ{{below^hand}}:heta}}na@EM{{kotode}}@FG{{@KJ{{time^noma}}:tokidoki}}@FG{{@KJ{{damage}}:son'}}woshiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am sometimes put at a disadvantage because I am poor at English.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{kotode}}}} cannot be used to indicate a reason.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 137).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -121,6 +121,20 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="characteristic">@HI{{@EM{{monoda}}}}</a> may be used by the speaker to present a characteristic of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{present^exist}}:genzai}}no@KT{{konpyu-ta}}nohotondoha@KT{{fuxon'}}@MIDDOT{{}}@KT{{noiman'}}@FG{{@KJ{{mould}}:gata}}to@FG{{@KJ{{call}}:yo}}bareteiru@EM{{monodearu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Most of the present computers are those which are called the von Neuman model.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -129,6 +143,7 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 257).
+<li> @REF{{DOIJG}}. (p. 189).
 <li> @REF{{NKZM-N2G}}. (p. 104).
 <li> @REF{{NKZM-N2G}}. (p. 108).
 <li> @REF{{NKZM-N2G}}. (p. 116).
