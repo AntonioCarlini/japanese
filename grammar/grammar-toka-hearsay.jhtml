@@ -16,7 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{toka}}}}
+<li> @Vplain{{}}@HI{{@EM{{toka}}.}}
+<li> @Splain{{}}@HI{{@EM{{tokade}},}}
 </ol>
 
 <h2> Definition </h2>
@@ -34,12 +35,26 @@
 </table>
 </p>
 
+<p>
+@HI{{tokade}} can be used as a conjunction that gives an uncertain reason for something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tall^tree}}:takagi}}sanha@FG{{@KJ{{large^heights}}:oosaka}}ni@FG{{@KJ{{exit^lengthen}}:shucchou}}suru@EM{{tokade}}@KT{{pa-txi-}}ni@KJ{{come}}nakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Takagi didn't show up at the party, saying something like he was going to make a business trip to Osaka.
+  </td> </tr>
+</table>
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 37).
+<li> @REF{{DOIJG}}. (p. 498).
 </ol>
 
 @include{{"grammar-footer.inc"}}
