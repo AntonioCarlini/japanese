@@ -256,9 +256,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{koto}}                                                               </td>
+  <td class="left"> <a href="grammar-koto-as-imperative.html"> @HI{{koto}} </a>                                            </td>
   <td class="left"> DOIJG, p. 135                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-koto-de.html"> @HI{{kotode}} </a>                                                     </td>
