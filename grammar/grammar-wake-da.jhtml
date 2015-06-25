@@ -16,21 +16,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{wakeda}}}}
-<li> @Ai{{}} @HI{{@EM{{wakeda}}}}
-<li> @Ana{{}} @HI{{@EM{{wakeda}}}}
-<li> @N{{}} @HI{{to iu}} @HI{{@EM{{wakeda}}}}
-<li> @N{{}} @HI{{datta}} @HI{{@EM{{wakeda}}}}
+<li> @Vplain{{}}@HI{{@EM{{wakeda}}}}
+<li> @Ai{{}}@HI{{@EM{{wakeda}}}}
+<li> @Ana{{}}@HI{{@EM{{wakeda}}}}
+<li> @N{{}}@HI{{toiu}}@HI{{@EM{{wakeda}}}}
+<li> @N{{}}@HI{{datta}}@HI{{@EM{{wakeda}}}}
 </ol>
 
 <h2> Definition </h2>
 
-<p>
-@HI{{@EM{{wakeda}}}} represents the speaker's conclusion reached through deductive reasoning, logic or calculation
-based on something heard or read.
-</p>
+@BGRNDSTART{{}}
 
-<h2> Examples </h2>
+@BGRND{{}}
+<p>
+@HI{{@EM{{wakeda}}}} represents the speaker's conclusion reached through deductive reasoning, logic or calculation based on something heard or read.
 
 <ol>
 <li>
@@ -71,6 +70,24 @@ based on something heard or read.
   </td> </tr>
 </table>
 </ol>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="introduction">@HI{{@EM{{wakeda}}}}</a> can be used to present a fact known to the listener as an introduction to a following statement or to give emphasis to something the listener may not know.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{war^contend}}:sensou}}ha@KJ{{large}}kina@FG{{@KJ{{sacrifice^animal*sacrifice}}:gisei}}wo@FG{{@KJ{{consort}}:tomona}}u@EM{{wakede}},
+      @FG{{@KJ{{ego^noma}}:wareware}}ha@FG{{@KJ{{what}}:nan'}}toshitemokorewo@FG{{@KJ{{evade}}:sa}}kenakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As you know, war is accompanied by great sacrifice, and we have to avoid it at any cost.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -78,6 +95,7 @@ based on something heard or read.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 531).
+<li> @REF{{DOIJG}}. (p. 570).
 <li> @REF{{NKZM-N3G}}. (p. 74).
 </ol>
 

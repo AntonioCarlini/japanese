@@ -956,9 +956,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{wakeda}}                                                             </td>
+  <td class="left"> <a href="grammar-wake-da.html#introduction"> @HI{{wakeda}} </a>                                        </td>
   <td class="left"> DOIJG, p. 570                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-wake-dewa-nai.html"> @HI{{wakedehanai}} </a>                                          </td>
