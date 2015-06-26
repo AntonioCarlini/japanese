@@ -56,7 +56,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-dakara-to-itte.html">@HI{{dakarato@KJ{{say}}tte}}</a>                                  </td>
   <td class="left"> DOIJG, p. 21                                                                                            </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> &radic; </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-dake-de.html"> @HI{{dake de}} </a>                                                     </td>
