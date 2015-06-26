@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+
+<head>
+<title>@HI{{datte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{datte}} (too)" grammar="@HI{{datte}} (too)"}}
+
+<body>
+
+<h1>@HI{{datte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{datte}}}}
+<li> @QW{{}} @HI{{@EM{{datte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{datte}}}} can used as a particle meaning "too".
+It is used primarily in spoken language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{number^many}}:kazuoo}}io@FG{{@KJ{{guest}}:kyaku}}san'no@KJ{{in}}niha@KJ{{difficult}}shii@KJ{{person}}@EM{{datte}}iru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In a large group of customers, there will be difficult people too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{datte}}}} can used as a particle meaning "even".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now}}kara@EM{{datte}}@FG{{@KJ{{slow}}:osoku}}kunaikara,@KJ{{he}}ni@KJ{{electricity^tale}}shitemitara?}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's not to late to call him now (lit. It is not late, even from now), so why don't you call him?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a WH-word other than @KJ{{what}} precedes @HI{{@EM{{datte}}}} it usually means "any".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{son'naii@KJ{{attend^matter}}@EM{{datta}}ra@KJ{{who}}@EM{{datte}}yaritai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Anyone would want a good job like that.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{what}}:nan'}}@EM{{datte}}}} means "how come".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what}}@EM{{datte}}son'na@FG{{@KJ{{horse^deer}}:baka}}nakotowoshitanda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How come you did such a stupid thing?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 63).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

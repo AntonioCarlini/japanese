@@ -1,0 +1,91 @@
+<!doctype html>
+<html>
+
+<head>
+<title>@HI{{deare}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{deare}}" grammar="@HI{{deare}}"}}
+
+<body>
+
+<h1>@HI{{deare}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{deare}}}}
+<li> @Anastem{{}}@HI{{@EM{{deare}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{deare}}}} is a conjunction used in a subordinate clause to expresses the idea of concession.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{don'na@KJ{{question^topic}}@EM{{deare}},@FG{{@KJ{{invariably}}:kanara}}zu@KJ{{private}}ni@FG{{@KJ{{report^revelation}}:houkoku}}shite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whatever kind of problem it may be, please report it to me without fail.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{deare}}}} is often preceded by @HI{{tatoe}} when a @QW{{}} is not present.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{tatoe@KJ{{company^lengthen}}@EM{{deare}},sonoyouna@FG{{@KJ{{going^do}}:koui}}ha@FG{{@KJ{{permit}}:yuru}}sarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even the company president shouldn't be allowed to do things like that. (lit Even if it is the presdident, such conduct should not be allowed.)
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ikani}}, the emphatic adverb meaning "how" may occur with @HI{{@EM{{deare}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ikani@KJ{{difficult}}shii@KJ{{question^topic}}@EM{{deare}}@KJ{{he}}narakitto@FG{{@KJ{{unravel^decide}}:kaiketsu}}dekiruhazuda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how difficult the problem may be, he certainly should be able to solve it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{deare}}}} is the imperative form of <a href="grammar-dearu.html">@HI{{dearu}}</a>.
+</p>
+
+<p>
+X@HI{{@EM{{deare}}}}Y@HI{{@EM{{deare}}}} is a pattern that means "whether X or Y".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 67).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
