@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{say}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiu}}@N{{}}" grammar="@HI{{to@KJ{{say}}}}@N{{}}"}}
+
+<body>
+
+<h1>@HI{{to@KJ{{say}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Splain{{}}@HI{{to@KJ{{say}}}}@N{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+This pattern is used when giving the details of a noun signifying an utterance or thought.
+The noun involved should be one associated with a thought or an utterance such as
+@KJ{{tale}}, @HI{{uwasa}}, @HI{{@KJ{{consider}}e}}, 
+@FG{{@KJ{{idea^see}}:iken'}}, @FG{{@KJ{{idea^intention}}:ishi}},
+@KT{{nyu-su}} and so forth.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{once*upon*a*time}}:mukashi}}kokoha@FG{{@KJ{{sea}}:umi}}datta@EM{{toiu}}@FG{{@KJ{{take}}:hanashi}}wo@KJ{{know}}tteimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Did you know that they say this area used to be under the sea?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

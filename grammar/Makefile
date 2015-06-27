@@ -488,6 +488,7 @@ JHTML_SRCS += grammar-to-iu-mono-de-wa-nai.jhtml
 JHTML_SRCS += grammar-to-iu-no-wa-reason.jhtml
 JHTML_SRCS += grammar-to-iu-no-wa.jhtml
 JHTML_SRCS += grammar-to-iu-noni.jhtml
+JHTML_SRCS += grammar-to-iu-thought.jhtml
 JHTML_SRCS += grammar-to-iu-to.jhtml
 JHTML_SRCS += grammar-to-iu-yori.jhtml
 JHTML_SRCS += grammar-to-iu.jhtml
