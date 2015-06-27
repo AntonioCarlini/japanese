@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{toshite}}}} follows a noun and indicates that something functions in a particular capacity or role.
+<a name="function">@HI{{@EM{{toshite}}}}</a> follows a noun and indicates that something functions in a particular capacity or role.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -60,6 +60,7 @@
 <li> @REF{{AAP}}. (p. 122).
 <li> @REF{{NKZM-N3G}}. (p. 63).
 <li> @REF{{NKZM-N2G}}. (p. 87).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}

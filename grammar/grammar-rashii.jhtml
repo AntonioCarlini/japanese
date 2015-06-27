@@ -34,14 +34,39 @@
 
 <h2> Definition </h2>
 
-(A) means that @N2{{}} possesses the properties of an ideal form of @N1{{}}.
-<p></p>
+@BGRNDSTART{{}}
 
-In usage (B) @HI{{@EM{{rashii}}}} is an auxiliary adjective that indicates that the preceding sentence
+@BGRND{{}}
+<p>
+<a name="typical">When</a> used in pattern (A) it means that @N2{{}} possesses the properties of an ideal form of @N1{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^book}}:yamamoto}}san'no@KJ{{house}}haikanimo@KJ{{day^book}}no@KJ{{house}}@EM{{rashii}}@KJ{{house}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Ms. Yamamoto's house is so typically Japanese.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="conjecture">In</a> usage (B) @HI{{@EM{{rashii}}}} is an auxiliary adjective that indicates that the preceding sentence
 is the speaker's conjecture based on what he has heard, seen or read. First-hand information is not invovled.
-<p></p>
 
-<h2> Examples </h2>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{new^hear}}:shinbun'}}niyoruto,@KJ{{yesterday^day}}no@KJ{{morning}}@FG{{@KJ{{in^country}}:chuugoku}}de
+      @KJ{{large}}kii@FG{{@KJ{{ground^quake}}:jishin'}}atta@EM{{rashii}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -55,6 +80,7 @@ is the speaker's conjecture based on what he has heard, seen or read. First-hand
 <li> @REF{{NKZM-N3G}}. (p. 99).
 <li> @REF{{MNN-INT-TR-I}}. Chapter 11, #4 &amp; #5.
 <li> @REF{{NKZM-N3G}}. (p. 97).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -226,6 +226,7 @@ JHTML_SRCS += grammar-nani-nan.jhtml
 JHTML_SRCS += grammar-nani-shiro.jhtml
 JHTML_SRCS += grammar-nani-wo-shimasu-ka.jhtml
 JHTML_SRCS += grammar-nanika-shinpai-na-koto.jhtml
+JHTML_SRCS += grammar-nanka-dou.jhtml
 JHTML_SRCS += grammar-nanka.jhtml
 JHTML_SRCS += grammar-nante-emotion.jhtml
 JHTML_SRCS += grammar-nantoka-onegai-dekinai-deshou-ka.jhtml

@@ -61,7 +61,7 @@ that indicates a process that takes some time to finish (e.g. @HI{{wakaru}}, @HI
 </p>
 
 <p>
-@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}} can indicate the continuation of a process up to
+<a name="to-present">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can indicate the continuation of a process up to
 the current point in time. This usage applies to any non-puntual verb.
 
 <table class="sentence" border=0>
@@ -87,6 +87,7 @@ speaker or someone with whom the speaker empathises.
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 <li> @REF{{DOBJG}}. (p. 221).
+
 </ol>
 
 @include{{"grammar-footer.inc"}}
