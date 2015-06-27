@@ -375,19 +375,19 @@
 
 <ol>
 <li> ~@HI{{mokamawazu}}
-<li> ~@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
-<li> ~@HI{{nikakawarazu}}
-<li> ~@HI{{nimokakarawazu}}
+<li> ~<a href="grammar-wo-towazu.html">@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}</a>
+<li> ~<a href="grammar-ni-kakawarazu.html">@HI{{nikakawarazu}}
+<li> ~<a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
 <li> ~@HI{{zushimaida}}
 <li> ~@HI{{zunihairarenai}}
-<li> ~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
-<li> ~@HI{{bekida}}
-<li> ~@HI{{bekidehanai}}
+<li> ~<a href="grammar-zaru-wo-enai.html">@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</a>
+<li> ~<a href="grammar-beki.html">@HI{{bekida}}</a>
+<li> ~<a href="grammar-beki.html#negation">@HI{{bekidehanai}}</a>
 <li> ~@HI{{mai}}
 <li> ~@HI{{dehaarumaika}}
 <li> ~@HI{{mai}}
-<li> ~@HI{{tsutsu}}
-<li> ~@HI{{tsutsuaru}}
+<li> ~<a href="grammar-tsutsu.html#simultaneous">@HI{{tsutsu}}</a>
+<li> ~<a href="grammar-tsutsu.html#ongoing">@HI{{tsutsuaru}}</a>
 <li> ~@HI{{tsutsu}}(@HI{{mo}})
 <li> ~@HI{{niseyo}}
 </ol>
