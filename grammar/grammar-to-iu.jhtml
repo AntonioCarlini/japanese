@@ -2,31 +2,31 @@
 <html>
 
 <head>
-<title>@HI{{to @KJ{{say}}}}</title>
+<title>@HI{{to@KJ{{say}}u}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{toiu}}" grammar="@HI{{to @KJ{{say}}}}"}}
+@GRMIDX{{index="@HI{{toiu}}" grammar="@HI{{to@KJ{{say}}u}}"}}
 
 <body>
 
-<h1>@HI{{to @KJ{{say}}}}</h1>
+<h1>@HI{{to@KJ{{say}}u}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}@HI{{to@KJ{{say}}}}
+<li> @Splain{{}}@HI{{to@KJ{{say}}u}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to @KJ{{say}}}}.
+To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to@KJ{{say}}u}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{lie*down}}ru maeni [o@KJ{{rest}}minasai]to @KJ{{say}}imasu.}}
+      @HI{{@KJ{{lie*down}}ru maeni [o@KJ{{rest}}minasai]to@KJ{{say}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We say "Good night" before we go to bed.
@@ -35,12 +35,12 @@ To directly quote what someone says or has said, repeat their words exactly and 
 </p>
 
 <p>
-To quote indirectly, use the plain form before @HI{{to @KJ{{say}}}}. The tense of the quoted text is 
+To quote indirectly, use the plain form before @HI{{to@KJ{{say}}u}}. The tense of the quoted text is 
 unaffected by the tense of the main sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @KJ{{come^week east^capital}}he @KJ{{exit^long}}suruto @KJ{{say}}imashita.}}
+      @HI{{@KT{{mira-}}sanha @KJ{{come^week east^capital}}he @KJ{{exit^long}}suruto@KJ{{say}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Miller said that he would go to Tokyo on a business trip next week.
@@ -49,7 +49,7 @@ unaffected by the tense of the main sentence.
 </p>
 
 <p>
-If it appears at the end of a sentence @HI{{to@KJ{{say}}}} indicates hearsay ("I heard that ...", "It is said that ...").
+If it appears at the end of a sentence @HI{{to@KJ{{say}}u}} indicates hearsay ("I heard that ...", "It is said that ...").
 This form is most often used in written Japanese.
 
 <table class="sentence">
