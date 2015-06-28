@@ -16,17 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
+<li> @Vmasustem{{}}@HI{{@EM{{tagaru}}}}
 <li> @Aistem{{}}@HI{{@EM{{garu}}}}
 <li> @Anastem{{}}@HI{{@EM{{garu}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{garu}} is an auxiliary that indicates that someone other than the speaker is showing signs of something.
-</p>
-
-<h2> Examples </h2>
 
 <ol>
 <li>
@@ -48,6 +49,38 @@
   </td> </tr>
 </table>
 </ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{garu}} can also be used in the negative to mean "someone does not want".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{konogoro@FG{{@KJ{{young^someone}}:wakamono}}ha,@KJ{{difficult}}shii@KJ{{book}}wo@KJ{{read}}mitagaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      These days young people don't want to read difficult books.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="present">@HI{{garu}}</a> when used in the continuative form indicates someone's tendency to habitually behave in a
+way that shows an emotion or aspiration that is happening at the present time.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plump^son}}:tarou}}@FG{{@KJ{{old*boy}}:kun'}}ha@KJ{{friend^accomplished}}noomochawo@FG{{@KJ{{longing}}:ho}}shi@EM{{gatteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Taro has got his eye on his friend's toys.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -60,6 +93,7 @@ that subject is marked with @HI{{wo}} rather than @HI{{ga}}.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 102).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

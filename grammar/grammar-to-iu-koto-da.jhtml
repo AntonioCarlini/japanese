@@ -22,8 +22,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{toiukotoda}}}} and @HI{{@EM{{tonokotoda}}}} are used to report speech.
+@HI{{@EM{{toiukotoda}}}} and @HI{{@EM{{tonokotoda}}}} are used to report speech or what people in general say.
+The latter is more often used in written language.
 
 <ol>
 <li>
@@ -48,12 +52,35 @@
 </ol>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{toiukotoda}}}} may also be used to repeat something someone has just said in order to confirm it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{section^long}}:buchou}}ni30@KJ{{part}}hodo@FG{{@KJ{{slow}}:oku}}reruto@FG{{@KJ{{transmit}}:tsuta}}etekudasai.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{hai,wakarimashita. 30@KJ{{part}}hodo@FG{{@KJ{{slow}}:oku}}reru@EM{{toiukotodesu}}ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Please tell the department manager that I'll be about thirty minutes late.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Yes, I understand. You'll be about thirty minutes late, right?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 36).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}
