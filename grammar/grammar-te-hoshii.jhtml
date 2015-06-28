@@ -17,14 +17,29 @@
 
 <ol>
 <li> @Vte{{}}@HI{{hoshii}} ... 
+<li> @Vnaide{{}}@HI{{hoshii}} ... 
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@Vte{{}}@HI{{hoshii}} is used to indicate that the speaker wants someone to do something.
+<a name="do">@Vte{{}}@HI{{hoshii}}</a> is used to indicate that the speaker wants someone to do something.
 This construction <em>cannot</em> be used when the speaker wants someone of higher status to do something.
 The person that the speaker wants to do something is marked by @HI{{ni}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{anatahadareni@KJ{{come}}tehoshiidesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Who do you want to come?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="not-do">@Vnaide{{}}@HI{{hoshii}}</a> is used to indicate that the speaker wants someone to <em>not</em> do something.
+This construction <em>cannot</em> be used when the speaker wants someone of higher status to not do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -70,6 +85,7 @@ When the speaker wants someone of higher status to do something he uses @Vte{{}}
 <ol>
 <li> @REF{{DOBJG}}. (p. 146).
 <li> @REF{{NKZM-N3G}}. (p. 44).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

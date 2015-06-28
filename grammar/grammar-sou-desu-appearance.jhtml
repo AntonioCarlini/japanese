@@ -2,41 +2,45 @@
 <html>
 
 <head>
-<title>@HI{{sou desu}} (appearance)</title>
+<title>@HI{{soudesu}} (appearance)</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{sou desu}} (appearance)" grammar="@HI{{sou desu}} (appearance)"}}
+@GRMIDX{{index="@HI{{soudesu}} (appearance)" grammar="@HI{{soudesu}} (appearance)"}}
+@GRMIDX{{index="@HI{{nasasou}}" grammar="@HI{{nasasou}}" anchor="nai"}}
+@GRMIDX{{index="@HI{{soumonai}}" grammar="@HI{{soumonai}}" anchor="soumonai"}}
 
 <body>
 
-<h1>@HI{{sou desu}} (appearance, looks like)</h1>
+<h1>@HI{{soudesu}} (appearance, looks like)</h1>
 
 <h2> Formation </h2>
 
 <p>
 <dl>
-<li> @Vmasustem{{}} @HI{{@EM{{sou desu}}}}
-<li> @Aistem{{}} @HI{{@EM{{sou desu}}}}
-<li> @Anastem{{}} @HI{{@EM{{sou desu}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{soudesu}}}}
+<li> @Aistem{{}}@HI{{@EM{{soudesu}}}}
+<li> @Anastem{{}}@HI{{@EM{{soudesu}}}}
+<li> @Vmasustem{{}}@HI{{@EM{{soumonai}}}}
 </ol>
 
 <h2> Definition </h2>
 
-When the present state of something leads the speaker to presuppose an occurrence, the speaker uses this sentence
-pattern to state it. The speaker is expressing a conjecture based on visual information and so this pattern
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="occurrence">When</a> the present state of something leads the speaker to presuppose an occurrence, the speaker uses this sentence
+pattern with a verb to state it. The speaker is expressing a conjecture based on visual information and so this pattern
 is only used when the speaker directly observes something. Furthermore, the conjecture concerns the future
 state and so this sentence patten cannot refer to conjecture about a past state.
-<p></p>
-
-<h2> Examples </h2>
 
 <ol>
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{now}}ni mo @KJ{{rain}}ga @KJ{{descend}}ri@EM{{sou desu}}.}}
+    @HI{{@KJ{{now}}ni mo @KJ{{rain}}ga @KJ{{descend}}ri@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     It lools like it will rain at any moment.
@@ -45,7 +49,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono@KJ{{fee^logic}}ha @KJ{{spicy}}@EM{{sou desu}}.}}
+    @HI{{kono@KJ{{fee^logic}}ha @KJ{{spicy}}@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     This dish looks spicy.
@@ -54,7 +58,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{he^woman}}ha @KJ{{head}}ga yosa@EM{{sou desu}}.}}
+    @HI{{@KJ{{he^woman}}ha @KJ{{head}}ga yosa@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     She seems to be bright.
@@ -63,31 +67,101 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono @KJ{{desk}}ha @KJ{{length^husband}}@EM{{sou desu}}.}}
+    @HI{{kono @KJ{{desk}}ha @KJ{{length^husband}}@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     This desk looks strong and durable.
   </td> </tr>
 </table>
 </ol>
+</p>
 
+@BGRND{{}}
+<p>
+<a name="appearance">When</a> this pattern is used with an adjective, it means that something appear to be that adjective.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KT{{ke-ki}}haoishi@EM{{sou}}desune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This cake looks yummy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="pre-nominal">When</a> used as a noun modifier, the expresion becomes @HI{{@EM{{souna}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{oishi@EM{{souna}}@KT{{ke-ki}}gaarimasune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    There's a delicious looking cake, isn't there?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="adverb">When</a> used as an adverb, the expresion becomes @HI{{@EM{{souni}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{child}}domotachiga@FG{{@KJ{{music}}:tano}}shi@EM{{souni}}@FG{{@KJ{{play}}:aso}}ndeimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The children seem to be playing happily.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nai">In</a> the negative form, @HI{{nai}} becomes @HI{{@EM{{nasasou}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{ano@KJ{{reflect^brush-stroke}}haamariomoshirokunasasoudesune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    That film doesn't look very interesting does it?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="soumonai">The</a> prediction that an event will probably not occur is expressed using @Vmasustem{{}}@HI{{@EM{{soumonai}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@KJ{{rain}}hamadayami@EM{{soumonai}}desune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This rain doesn't look like stopping yet does it?
+  </td> </tr>
+</table>
+</p>
 
 <h2> Notes </h2>
 
-@HI{{ii}} becomes @HI{{yosa sou desu}} and @HI{{nai}} becomes @HI{{nasa sou desu}} in this sentence pattern.
-<p></p>
+<p>
+@HI{{ii}} becomes @HI{{yosasoudesu}} in this sentence pattern.
+</p>
 
-Neither N + @HI{{sou desu}} nor N @HI{{da sou desu}} are permitted but N + @HI{{janasa sou desu}} is permitted.
-<p></p>
-
-@HI{{sou desu}} can be used as a @HI{{na}}-adjective in the form @HI{{souna}}.
-<p></p>
+<p>
+Neither N + @HI{{soudesu}} nor N @HI{{dasoudesu}} are permitted but N + @HI{{janasasoudesu}} is permitted.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 <li> @REF{{DOBJG}}. (p. 410).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 <li> @REF{{JPOD101-LI-S1-003}}.
 </ol>
 
