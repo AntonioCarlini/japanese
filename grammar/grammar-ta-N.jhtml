@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vta{{}}@N{{}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ta@N{{}}}}" grammar="@HI{{@Vta{{}}@N{{}}}}"}}
+
+<body>
+
+<h1>@HI{{@Vta{{}}@N{{}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vta{{}}@N{{}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When a @Vte{{}}@HI{{iru}} verb form indicating a situation has arisen as a result of the <em>completion</em> of an action is used to modify a noun,
+the form @Vta{{}} can be used instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanha@FG{{@KJ{{eyeball^mirror}}:megane}}wokaketeimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka is wearing spectacles.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The sentence can be rewritten using @Vta{{}} instead.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{eyeball^mirror}}wokake@EM{{ta}}@FG{{@KJ{{rice*field^in}}:tanaka}}san'}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka, who is wearing spectacles
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+However, when the same transformation is applied in the case of a verb indicating an ongoing action, the meaning changes.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{east^capital}}:toukyou}}@FG{{@KJ{{electricity^spirit}}:denki}}de@FG{{@KJ{{work}}:hatara}}iteiru@FG{{@KJ{{friend^accomplished}}:tomodachi}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My friend, who works at Tokyo Electric
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The @Vta{{}} form of the sentence has a slightly different meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{east^capital}}:toukyou}}@FG{{@KJ{{electricity^spirit}}:denki}}de@FG{{@KJ{{work}}:hatara}}i@EM{{ta}}@FG{{@KJ{{friend^accomplished}}:tomodachi}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My friend, who worked at Tokyo Electric
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

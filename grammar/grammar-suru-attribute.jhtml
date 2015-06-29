@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{suru}}}}
+<li> <em>characteristic</em>@HI{{@EM{{shiteiru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @HI{{suru}} can be used to indicate that someone or something has a permanent attribute.
-In the main clause @HI{{suru}} appears in the continuous form, @HI{{shiteiru}}, but in a relative
-clause the @Vta{{}} form may be used instead.
+Often the attribute will be something visually perceptible.
+In the main clause @HI{{suru}} appears in the continuous form, @HI{{@EM{{shiteiru}}}}, but in a relative clause the @Vta{{}} form may be used instead.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,6 +42,7 @@ clause the @Vta{{}} form may be used instead.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 434).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>
 
 @include{{"grammar-footer.inc"}}

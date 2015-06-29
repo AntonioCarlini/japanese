@@ -144,6 +144,19 @@ discerned then @HI{{de}} is preferred.
 </table>
 </p>
 
+<p>
+The pattern can be inverted to present first the result (using @HI{{noha}}) and then the reason for it follows.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hurry}}:kyuu}}ni@KT{{doa}}ga@FG{{@KJ{{open}}:a}}itanoha,darekaga@KT{{bottan'}}wo@FG{{@KJ{{push}}:o}}shitakara.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The reason why the door suddenly opened was that someone pressed the button.
+  </td> </tr>
+</table>
+</p>
+
 @BGRND{{}}
 <p>
 @HI{{@EM{{kara}}}} can be used trailingly at the end of a sentence to indicate censure of the listener.
@@ -168,6 +181,7 @@ discerned then @HI{{de}} is preferred.
 <li> @REF{{AAP}}. (p. 61).
 <li> @REF{{DOBJG}}. (p. 176).
 <li> @REF{{DOBJG}}. (p. 179).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>
 
 @include{{"grammar-footer.inc"}}

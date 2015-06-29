@@ -155,13 +155,15 @@
 <h2><a class="navtarget" name="chapter8">_</a>Chapter 8</h2>
 
 <ol>
-<li> <a href="grammar-aida.html">@HI{{aida}}</a>/<a href="grammar-aida.html">@HI{{aidani}}</a>
-<li> <a href="grammar-particle-made.html">@HI{{made}}</a>/<a href="grammar-made-ni.html">@HI{{madeni}}</a>
-<li> <a href="grammar-.html"></a>@Vta{{}}@N{{}}
-<li> <a href="grammar-ni-yotte.html#change">@HI{{niyotte}}</a>
-<li> <a href="grammar-mama.html">@Vta{{}}@HI{{mama}}/@N{{}}@HI{{mama}}</a>
-<li> <a href="grammar-.html"></a>@HI{{karada}}
-<li> <a href="grammar-.html"></a><em>physical property</em>@HI{{woshiteiru}}
+<li> ~<a href="grammar-aida.html">@HI{{aida}}</a> @MIDDOT{{}}
+     ~<a href="grammar-aida.html">@HI{{aidani}}</a>
+<li> ~<a href="grammar-particle-made.html">@HI{{made}}</a> @MIDDOT{{}}
+     ~<a href="grammar-made-ni.html">@HI{{madeni}}</a>
+<li> ~<a href="grammar-ta-N.html">@Vta{{}}@N{{}}</a>
+<li> ~<a href="grammar-ni-yotte.html#change">@HI{{niyotte}}</a>
+<li> ~<a href="grammar-mama.html">@Vta{{}}@HI{{mama}}/@N{{}}@HI{{mama}}</a>
+<li> @JDOTS3{{}}<a href="grammar-particle-kara.html#because">@HI{{karada}}</a>
+<li> <a href="grammar-suru-attribute.html"><em>physical property</em>@HI{{woshiteiru}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>

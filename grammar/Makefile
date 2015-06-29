@@ -425,6 +425,7 @@ JHTML_SRCS += grammar-suru-cost-time.jhtml
 JHTML_SRCS += grammar-suru-do.jhtml
 JHTML_SRCS += grammar-suru-non-visual.jhtml
 JHTML_SRCS += grammar-suruto.jhtml
+JHTML_SRCS += grammar-ta-N.jhtml
 JHTML_SRCS += grammar-ta-koto-ga-aru.jhtml
 JHTML_SRCS += grammar-tabi-ni.jhtml
 JHTML_SRCS += grammar-tachi.jhtml
