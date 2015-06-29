@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @Vru{{}} form indicates the speaker's intention of doing something.
 
@@ -38,8 +41,9 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-The @HI{{nai}} form indicates the speaker's intention of not doing something.
+<a name="negative">The</a> @HI{{nai}} form indicates the speaker's intention of not doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -50,6 +54,35 @@ The @HI{{nai}} form indicates the speaker's intention of not doing something.
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="past">@HI{{@EM{{tsumoridatta}}}}</a> indicates that speaker intended to do something, but it never happened.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^tale}}suru@EM{{tsumorideshita}}ga,@KJ{{forget}}reteshimatta. sumimasen'.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I intended to phone you, but I forgot. I'm sorry.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+This form may also be used with a negative verb to indicate that one had intended <em>not</em> to do something, but ended up doing it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pa-texi-}}niha@KJ{{going}}kanai@EM{{tsumorideshita}}ga,omoshirosounanode@KJ{{going}}kukotonishita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I had intended not to go to the party, but it looked like it would be fun, so I decided to go after all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -63,6 +96,7 @@ Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{@EM{{tsumor
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @REF{{JPOD101-LI-S1-002}}.
 <li> @REF{{NKZM-N3G}}. (p. 51).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -123,10 +123,11 @@
 <h2><a class="navtarget" name="chapter6">_</a>Chapter 6</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{te}}/@HI{{tte}}
-<li> <a href="grammar-.html"></a>~ @HI{{tte}} ...
-<li> <a href="grammar-.html"></a>@HI{{tsumorihanai}}
-<li> <a href="grammar-.html"></a>~ @HI{{tsumoridatta}}
+<li> ~<a href="grammar-tte-quotation.html">@HI{{te}}</a> @MIDDOT{{}}
+     ~<a href="grammar-tte-quotation.html">@HI{{tte}}</a>
+<li> ~<a href="grammar-tte-topic.html">@HI{{tte}}</a>
+<li> ~<a href="grammar-tsumori.html#negative">@HI{{tsumorihanai}}</a>
+<li> ~<a href="grammar-tsumori.html#past">@HI{{tsumoridatta}}</a>
 <li> <a href="grammar-.html"></a>~ @Vta{{}}@HI{{tsumori}}/@Vte{{}}@HI{{irutsumori}}
 <li> <a href="grammar-.html"></a>~ @Vte{{}}@HI{{bakariiru}}/~ @HI{{bakari}} ~ @Vte{{}}@HI{{iru}}
 <li> <a href="grammar-.html"></a>@HI{{toka}}

@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{tte}}}} is an informal version of the quotation marker @HI{{to}}.
 When @HI{{@EM{{tte}}}} is followed by @KJ{{say}}@HI{{u}},
@@ -36,6 +39,7 @@ then the meaning is "the person who is the topic says ...".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="quotation">If</a> there is no following verb then the meaning is ambiguous as the clause could mean "they say ...".
 
@@ -49,11 +53,28 @@ then the meaning is "the person who is the topic says ...".
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{toiu}} can also be abbreviated to @HI{{@EM{{tte}}}} in spoken language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{yesterday^day}},@FG{{@KJ{{rice*field^mountain}}:tayama}}@EM{{tte}}@KJ{{person}}ga@KJ{{come}}mashitayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Someone called Tayama came by yesterday.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 510).
 <li> @REF{{NKZM-N3G}}. (p. 37).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}
