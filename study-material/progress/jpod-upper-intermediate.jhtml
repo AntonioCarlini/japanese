@@ -448,133 +448,133 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td>  </td> <td>  </td>
+  <td>  </td> <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 8 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 9 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 10 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 11 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 12 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 13 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 14 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 15 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
-  <td> </td>  <td>  </td> <td>  </td>
+  <td> </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
-  <td> </td>  <td>  </td> <td>  </td>
+  <td> </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="done"> 25 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}}  </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td>  <td>  </td> <td>  </td>
+  <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 </table>
 
