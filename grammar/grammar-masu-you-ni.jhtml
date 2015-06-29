@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vmasu{{}}youni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{@Vmasu{{}}youni}}" grammar="@HI{{@Vmasu{{}}youni}}"}}
+
+<body>
+
+<h1>@HI{{@Vmasu{{}}youni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vmasu{{}}youni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="positive">@HI{{@EM{{@Vmasu{{}}youni}}}}</a> expresses a hope, wish or prayer that something will happen.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tenderness}}:yasa}}shii@FG{{@KJ{{person}}:hito}}to@FG{{@KJ{{tie^marriage}}:kekkon'}}deki@EM{{masuyouni}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I hope I can get married to someone nice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="negative">To</a> express a hope, wish or prayer that something will <em>not</em> happen, @HI{{@EM{{@Vmasustem{{}}masen'youni}}}} is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^life}}modouzo@FG{{@KJ{{wind^wicked}}:kaze}}wohikare@EM{{masen'youni}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I hope you won't catch a cold either, sir.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

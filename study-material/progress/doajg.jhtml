@@ -147,9 +147,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{dochirakato@KJ{{say}}uto:dochirakatoiuto}}                             </td>
+  <td class="left"> <a href="grammar-dochira-ka-to-iu-to.html">@FG{{dochirakato@KJ{{say}}uto:dochirakatoiuto}}</a>          </td>
   <td class="left"> DOAJG, p. 78                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{douka}}                                                                </td>

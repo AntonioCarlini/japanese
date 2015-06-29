@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dochirakato@KJ{{say}}uto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dochirakatoiuto}}" grammar="@HI{{dochirakato@KJ{{say}}uto}}"}}
+@GRMIDX{{index="@HI{{dochirakatoieba}}" grammar="@HI{{dochirakato@KJ{{say}}eba}}"}}
+
+<body>
+
+<h1>@HI{{dochirakato@KJ{{say}}uto}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{dochirakato@KJ{{say}}uto}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} is a phrase used by the speaker to choose one alternative over another in a tentative way.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^book}}:yamamoto}}sanha@FG{{@KJ{{decide}}:kextsu}}shite@FG{{@KJ{{quaff^spirit}}:nonki}}na@KJ{{man}}dehanai.
+      @EM{{dochirakato@KJ{{say}}uto}}@FG{{@KJ{{gods^sutra^substance}}:shinkeishitsu}}na@KJ{{man}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamamoto is far from easygoing. He's more of a nervous type of guy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} used with @HI{{houda}} to mean possessing some of the characteristics of X ("rather on the X side").
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KT{{pa-texi-}}nadono@FG{{@KJ{{gather}}:atsu}}marideha,@EM{{dochirakato@KJ{{say}}uto}},@FG{{@KJ{{tale}}:hana}}shi@FG{{@KJ{{duty}}:yaku}}dehanaku,
+      @KJ{{hear}}ki@KJ{{duty}}no@EM{{@FG{{@KJ{{direction}}:hou}}}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At parties or other gatherings, I am more of a listener than a speaker.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} combines with @HI{{houga}} to indicate that one tentatively prefers a specific characteristic.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@EM{{dochirakato@KJ{{say}}uto}}@KJ{{say}}uto@KJ{{tale}}suyori@KJ{{write}}ku@EM{{@FG{{@KJ{{direction}}:hou}}}}ga@FG{{@KJ{{gain^idea}}:tokui}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is better at writing than he is at speaking.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ieba">@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} can be replaced by @HI{{@EM{{dochirakato@KJ{{say}}eba}}}} with no change in meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@EM{{dochirakato@KJ{{say}}eba}}@FG{{@KJ{{teach^bring*up^someone}}:kyouikusha}}toiuyori(ha)@FG{{@KJ{{polish^research^someone}}:kenkyuusha}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is more like a researcher than an educator.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+In colloquial speech @HI{{@EM{{dochirakato@KJ{{say}}uto}}}} very often becomes @HI{{@EM{{docchikato@KJ{{say}}uto}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 78).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
