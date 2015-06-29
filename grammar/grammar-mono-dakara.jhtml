@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{monodakara}}}} is used by the speaker to indicate a reason in the first clause for something that happens in the second clause. 
 
@@ -36,6 +39,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{monode}}}} is also used by the speaker as a conjunction
 to indicate a reason in the first clause for something that happens in the second clause. 
@@ -50,6 +54,8 @@ to indicate a reason in the first clause for something that happens in the secon
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -58,6 +64,7 @@ to indicate a reason in the first clause for something that happens in the secon
 <li> @REF{{JACG}}. (p. 251).
 <li> @REF{{NKZM-N2G}}. (p. 74).
 <li> @REF{{NKZM-N2G}}. (p. 128).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}

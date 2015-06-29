@@ -210,13 +210,15 @@
 <h2><a class="navtarget" name="chapter12">_</a>Chapter 12</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>...@HI{{mono}}/@HI{{mondakara}}
+<li> ...<a href="grammar-particle-mono.html">@HI{{mono}}</a> @MIDDOT{{}} ...<a href="grammar-mono-dakara.html">@HI{{mondakara}}</a>
 <li> <a href="grammar-.html"></a>@Vrareru{{}}
-<li> <a href="grammar-.html"></a>~ @Vta{{}}@HI{{ri}} ~ @Vta{{}}@HI{{ri}}
-<li> <a href="grammar-.html"></a>~ @HI{{ppanashi}}
-<li> <a href="grammar-.html"></a>... @HI{{okagede}}/... @HI{{okageda}}
-<li> <a href="grammar-.html"></a>... @HI{{seide}}/... @HI{{seida}}
-<li> <a href="grammar-.html"></a>... @HI{{mitaidesu}}
+<li> ~<a href="grammar-tari.html">@Vta{{}}@HI{{ri}} ~ @Vta{{}}@HI{{ri}}</a>
+<li> ~<a href="grammar-ppanashi.html">@HI{{ppanashi}}</a>
+<li> ...<a href="grammar-okage-de.html">@HI{{okagede}}</a> @MIDDOT{{}}
+     ...<a href="grammar-okage-de.html">@HI{{okageda}}</a>
+<li> ...<a href="grammar-sei-de.html">...@HI{{seide}}</a> @MIDDOT{{}}
+     ...<a href="grammar-sei-de.html">@HI{{seida}}</a>
+<li> ...<a href="grammar-mitai.html">@HI{{mitaidesu}}</a>
 <li> <a href="grammar-.html"></a>@HI{{dochirato@KJ{{say}}eba,}} ~ @HI{{houda}}
 <li> <a href="grammar-.html"></a>~ @HI{{masu}}/@HI{{masenyouni}}
 </ol>

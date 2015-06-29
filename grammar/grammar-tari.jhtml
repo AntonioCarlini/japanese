@@ -88,7 +88,7 @@ This pattern can be used to show repetition of contrasting actions.
       @HI{{@KJ{{now^week}},@FG{{@KJ{{stocks}}:kabu}}ha@KJ{{above}}gaxtsu@EM{{tari}}@KJ{{below}}gaxtsu@EM{{tari}}shiteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
-      this week shares are going up and down.
+      This week shares are going up and down.
   </td> </tr>
 </table>
 </p>
@@ -117,6 +117,7 @@ This sentence pattern can be used with the same verb in positive and negative fo
 <li> @REF{{MNN-TR-I}}. (Chapter 19).
 <li> @REF{{DOBJG}}. (p. 458).
 <li> @REF{{AAP}}. (p. 108).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}
