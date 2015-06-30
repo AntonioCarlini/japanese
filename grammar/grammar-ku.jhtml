@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@Aistem{{}}@HI{{@EM{{ku}}}} is used in written Japanese as a continuative form.
+<a name="continuative">@Aistem{{}}@HI{{@EM{{ku}}}}</a> is used in written Japanese as a continuative form.
 When it is used to connect two predicates, the relationship may be cumulative.
 
 <table class="sentence">
@@ -40,7 +40,7 @@ When it is used to connect two predicates, the relationship may be cumulative.
 
 @BGRND{{}}
 <p>
-When @Aistem{{}}@HI{{@EM{{ku}}}} is used to connect two predicates, the relationship may be one of cause or reason.
+<a name="cause-reason">When</a> @Aistem{{}}@HI{{@EM{{ku}}}} is used to connect two predicates, the relationship may be one of cause or reason.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -73,6 +73,7 @@ The adverbial form on @Ai{{}} is @Aistem{{}}@HI{{@EM{{ku}}}} and here @HI{{kute}
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 148).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

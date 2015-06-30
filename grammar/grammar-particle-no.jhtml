@@ -71,7 +71,9 @@ second in terms of kind or category.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{no}}}} can be used between two nouns to indicate that the two nouns are in apposition.
+<a name="apposition">@HI{{@EM{{no}}}}</a> can be used between two nouns to indicate that the two nouns are in apposition.
+This shows that the two nouns are identical.
+The first noun shows an attribute about the second noun and so gives more information about it.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -205,6 +207,7 @@ question marker in colloquial sentences.
 <li> @REF{{MNN-TR-I}}. (Chapter 2).
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @REF{{DOBJG}}. (p. 312).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

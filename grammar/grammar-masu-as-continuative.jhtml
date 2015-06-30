@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 In this usage @EM{{@Vmasustem{{}}}} is used to connect statements, in much the same way that @Vte{{}} can link actions.
 
@@ -34,15 +37,29 @@ In this usage @EM{{@Vmasustem{{}}}} is used to connect statements, in much the s
 </table>
 </p>
 
-<h2> Notes </h2>
-
+@BGRND{{}}
 <p>
+The continuative (or suspended) form of @HI{{iru}} is @HI{{@EM{{ori}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{elder*brother}}ha@KJ{{east^capital}}ni@EM{{ori}},@KJ{{elder*sister}}ha@FG{{@KJ{{large^heights}}:oosaka}}niimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My older brother is in Tokyo an my older sister is in Osaka.
+  </td> </tr>
+</table>
 </p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 556).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

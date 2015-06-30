@@ -28,14 +28,18 @@
 <h3> Asking for an explanation </h3>
 
 <p>
-When asking for an explanation, the speaker ends the sentence with @HI{{@EM{{ndesuka}}}}.
-This form is used
-when the speaker:
+<a name="explanation-request">When</a> asking for an explanation, the speaker ends the sentence with @HI{{@EM{{ndesuka}}}}.
+This form is used when the speaker:
 <ol>
 <li> guesses a reason or cause for what has been heard and confirms to see if this is correct
 <li> asks for information about what has been seen or heard
 <li> asks the listener to explain the reason or cause of what has been seen or heard
 </ol>
+</p>
+
+<p>
+In informal speech, this may be abbreviated to @HI{{@EM{{no?}}}}.
+</p>
 
 <ol>
 <li>
@@ -64,7 +68,7 @@ when the speaker:
 <h3> Offering an explanation </h3>
 
 <p>
-When the speaker wishes to offer an explanation, he ends the sentence with @HI{{@EM{{ndesu}}}}.
+<a name="offer-explanation">When</a> the speaker wishes to offer an explanation, he ends the sentence with @HI{{@EM{{ndesu}}}}.
 This form is used
 when the speaker:
 
@@ -76,9 +80,13 @@ to state a reason or cause in the reply
 
 </p>
 
+<p>
+In informal speech, this may be abbreviated to @HI{{@EM{{no}}}}.
+</p>
+
 <h3> Introducing a topic </h3>
 
-@HI{{@EM{{ndesuga}}}} is used to introduce a topic.
+<a name="intro">@HI{{@EM{{ndesuga}}}}</a> is used to introduce a topic.
 It is often followed by a request, an invitation or an
 expression seeking permission. However, the trailing clause can be omitted.
 
@@ -128,6 +136,7 @@ and may therefore cause offence. It should be used with care.
 <li> @REF{{MNN-TR-II}}. (Chapter 26).
 <li> @REF{{DOBJG}}. (p. 325).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

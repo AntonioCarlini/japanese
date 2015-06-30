@@ -90,17 +90,19 @@
 
 <ol>
 <li> ~<a href="grammar-to-iu-koto-da.html">@HI{{toiukotoda}}</a>
-<li> <a href="grammar-.html"></a>@HI{{no}}/@HI{{no}}?
+<li> ...<a href="grammar-n-desu.html#offer-explanation">@HI{{no}}</a> @MIDDOT{{}}
+     ...<a href="grammar-n-desu.html#explanation-request">@HI{{no}}?</a>
 <li> ~<a href="grammar-verb-contractions.html">@HI{{chau}}</a> @MIDDOT{{}}
      ~<a href="grammar-verb-contractions.html">@HI{{toku}}</a> @MIDDOT{{}}
      ~<a href="grammar-verb-contractions.html">@HI{{teru}}</a>
 <li> ~@Vsaserareru{{}} <a href="grammar-verb-formation-causative-passive.html">(formation)</a>, <a href="grammar-verb-use-of-causative-passive.html">(usage)</a>
 <li> ~<a href="grammar-dearu.html">@HI{{dearu}}</a>
-<li> <a href="grammar-.html"></a>@Vmasustem{{}}@HI{{,}}@Vmasustem{{}}/@HI{{kute}}@HI{{,}}@HI{{kute}}
+<li> ~<a href="grammar-masu-as-continuative.html">@Vmasustem{{}}@HI{{,}}@Vmasustem{{}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ku.html#continuative">@HI{{kute}}@HI{{,}}@HI{{kute}}</a>
 <li> ~<a href="grammar-garu.html">@HI{{garu}}</a> @MIDDOT{{}}
      <a href="grammar-garu.html#present">@HI{{gatteiru}}</a>
 <li> <a href="grammar-.html"></a>~@HI{{koto}}/~@HI{{toiukoto}}
-<li> <a href="grammar-.html"></a>~@HI{{no}}~
+<li> ~<a href="grammar-particle-no.html#apposition">@HI{{no}}</a>~
 <li> <a href="grammar-.html"></a>@HI{{mashitara}}/@HI{{mashite}}
 </ol>
 
