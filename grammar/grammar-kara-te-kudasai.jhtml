@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kara,~kudasai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kara,~tekudasai}}" grammar="@HI{{kara,~@Vte{{}}kudasai}}"}}
+
+<body>
+
+<h1>@HI{{kara,~@Vte{{}}kudasai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@V{{polite}}@EM{{kara,...@Vte{{}}kudasai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The pattern @HI{{@EM{{kara,...@Vte{{}}kudasai}}}} is used to indicate that there is a prerequisite for the information or request that follows.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{10@KJ{{part}}guraide@FG{{@KJ{{return}}:modo}}ttekimasu@EM{{kara}},kokode@KJ{{wait}}ttei@EM{{tekudasai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll be back in around 10 minutes, could you wait here, please?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

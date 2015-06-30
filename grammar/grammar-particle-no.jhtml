@@ -87,7 +87,7 @@ The first noun shows an attribute about the second noun and so gives more inform
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{no}}}} can be used in place of @HI{{ga}} to mark the subject in a
+<a name="subject">@HI{{@EM{{no}}}}</a> can be used in place of @HI{{ga}} to mark the subject in a
 <a href="grammar-relative-clause.html">relative clause</a>.
 
 <table class="sentence" border=0>
@@ -208,6 +208,7 @@ question marker in colloquial sentences.
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @REF{{DOBJG}}. (p. 312).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}
