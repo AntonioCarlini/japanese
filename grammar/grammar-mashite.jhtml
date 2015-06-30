@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mashite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mashite}}" grammar="@HI{{mashite}}"}}
+
+<body>
+
+<h1>@HI{{mashite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{mashite}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mashite}}}} is a polite form of @Vte{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{book^day}}:honjitsu}}ha@FG{{@KJ{{distant}}:too}}kukara@KJ{{come}}tekudasai@EM{{mashite}},arigatougozaimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Thank you very much for travelling so far to be here today.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
