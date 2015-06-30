@@ -48,6 +48,7 @@ JHTML_SRCS += grammar-dake-de-wa-naku-mo.jhtml
 JHTML_SRCS += grammar-dake-de.jhtml
 JHTML_SRCS += grammar-dake-ni.jhtml
 JHTML_SRCS += grammar-dake-no-koto-wa-aru.jhtml
+JHTML_SRCS += grammar-dani.jhtml
 JHTML_SRCS += grammar-darake.jhtml
 JHTML_SRCS += grammar-dasu-suffix.jhtml
 JHTML_SRCS += grammar-datte-reason.jhtml

@@ -107,9 +107,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{dani}}                                                                 </td>
+  <td class="left"> <a href="grammar-dani.html">@HI{{dani}}</a>                                                             </td>
   <td class="left"> DOAJG, p. 54                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-dano.html">@HI{{dano}}</a>                                                    </td>
