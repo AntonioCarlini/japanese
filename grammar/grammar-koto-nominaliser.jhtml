@@ -16,48 +16,27 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{koto}}}}
-<li> @Ai{{}} @HI{{@EM{{koto}}}}
-<li> @Ana{{}} @HI{{@EM{{koto}}}}
+<li> @Vplain{{}}@HI{{@EM{{koto}}}}
+<li> @Ai{{}}@HI{{@EM{{koto}}}}
+<li> @Ana{{}}@HI{{@EM{{koto}}}}
+<li> @Anastem{{}}@HI{{dearu@EM{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{koto}}}} is a nominaliser that indicates the speaker's relative lack of empathy with the
 content of the nominalised sentence.
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{koto}}}} turns a whole sentence into a noun phrase which can then be used anywhere that a noun
 phrase can normally be used.
-</p>
 
-<p>
-Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, @HI{{@EM{{koto}}}} tends to indicate
-something to which the speaker does not feel very close.
-</p>
-
-<p>
-In the pattern:
-<br/>
-A@HI{{ha}}B@HI{{desu}}
-<br/>
-<string>@HI{{koto}}</strong> can be used in position B but @HI{{no}} cannot.
-</p>
-
-<p>
-The pattern
-<br/>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}}@Vru{{}}@HI{{@EM{{koto}} desu.}}
-<br/>
-can be used to better define a hobby.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{suisu}}ga kireina@EM{{koto}}ha @KJ{{copy^true}}de @KJ{{know}}tteimasu.}}
@@ -66,7 +45,31 @@ can be used to better define a hobby.
       From photographs I know that Switzerland is beautiful.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+Unlike the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>, @HI{{@EM{{koto}}}} tends to indicate
+something to which the speaker does not feel very close.
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern:
+<br/>
+A@HI{{ha}}B@HI{{desu}}
+<br/>
+<string>@HI{{koto}}</strong> can be used in position B but @HI{{no}} cannot.
+</p>
+
+@BGRND{{}}
+<p>
+The pattern
+<br/>
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha}}@Vru{{}}@HI{{@EM{{koto}} desu.}}
+<br/>
+can be used to better define a hobby.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku @EM{{koto}} desu.}}
@@ -75,7 +78,24 @@ can be used to better define a hobby.
       My hobby is listening to music.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="toiukoto">When</a> the sentence to be nominalised is long and complicated, @HI{{@EM{{to@KJ{{say}}ukoto}}}} should be used instead of @HI{{@EM{{koto}}}}.
+phrase can normally be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{two^ten^year-end}}:hatachi}}ninarebadaredemo@FG{{@KJ{{tie^marriage}}:kekkon'}}dekiru@EM{{toiukoto}}wo@KJ{{know}}tteimasuma.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Did you know that anyone can get married once they turn twenty?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -97,6 +117,7 @@ There are various structures where @HI{{@EM{{koto}}}} is used and @HI{{no}} is n
 <li> @REF{{MNN-TR-I}}. (Chapter 18).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @REF{{DOBJG}}. (p. 193).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

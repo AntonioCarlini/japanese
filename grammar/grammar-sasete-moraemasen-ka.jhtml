@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vsasete{{}}moraemasenka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sasetemoraemasenka}}" grammar="@HI{{@Vsasete{{}}moraemasenka}}"}}
+@GRMIDX{{index="@HI{{saseteitadakemasenka}}" grammar="@HI{{@Vsasete{{}}itadakemasenka}}"}}
+@GRMIDX{{index="@HI{{sasetemoraenaideshouka}}" grammar="@HI{{@Vsasete{{}}moraenaideshouka}}"}}
+@GRMIDX{{index="@HI{{saseteitadakenaideshouka}}" grammar="@HI{{@Vsasete{{}}itadakenaideshouka}}"}}
+
+<body>
+
+<h1>@HI{{@Vsasete{{}}moraemasenka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vsasete{{}}moraemasenka}}}}
+<li> @HI{{@EM{{@Vsasete{{}}moraenaideshouka}}}}
+<li> @HI{{@EM{{@Vsasete{{}}itadakemasenka}}}}
+<li> @HI{{@EM{{@Vsasete{{}}itadakenaideshouka}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="moraemasenka">@HI{{@EM{{@Vsasete{{}}moraemasenka}}}}</a> is an expression used when politely asking someone permission to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sumimasen'.kono@KT{{panfuretto}}wo@KT{{kopi-}}@EM{{sasetemoraemasenka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Excuse me, may I copy this pamphlet?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="itadakemasenka">@HI{{@EM{{@Vsasete{{}}itadakemasenka}}}}</a> has the same meaning as @HI{{@EM{{@Vsasete{{}}moraemasenka}}}} but is more polite.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{month^weekday^day}}no@FG{{@KJ{{shop^long^meeting^deliberation}}:tenchoukaigi}}de@FG{{@KJ{{report^revelation}}:houkoku}}@EM{{saseteitadakemasenka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Could I make a report at the store manager's meeting on Monday?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="moraenai">@HI{{@EM{{@Vsasete{{}}moraenaideshoula}}}}</a> and <a name="itadakenai">@HI{{@EM{{@Vsasete{{}}itadakenaideshouka}}}}</a> also carry the same meaning,
+although the latter is more polite than the former.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{one^degrees}}:ichido}},@FG{{@KJ{{craft^location}}:koujou}}wo@FG{{@KJ{{see^study}}:kengaku}}@EM{{saseteitadakenaideshouka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wonder if we might be allowed to tour the factory some time?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -54,7 +54,7 @@
 <h2><a class="navtarget" name="chapter2">_</a>Chapter 2</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>~@HI{{tara}}/~@HI{{da}}
+<li> ~@HI{{tara,}}~@HI{{ta}} <a href="grammar-tara.html#result">(result)</a> <a href="grammar-tara.html#learned">(learned)</a>
 <li> ~<a href="grammar-to-iu-no-wa.html">~@HI{{toiunoha}}~@HI{{nokotoda}}</a> @MIDDOT{{}}
      ~<a href="grammar-to-iu-no-wa.html">@HI{{toiunoha}}~@HI{{toiukotoda}}</a>
 <li> ~<a href="grammar-to-iu-thought.html">@HI{{toiu}}@N{{}}</a>
@@ -71,8 +71,10 @@
 <h2><a class="navtarget" name="chapter3">_</a>Chapter 3</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@Vsasete{{}}@HI{{moraemasenka}}/@Vsasete{{}}@HI{{itadakemasenka}}/
-    @Vsasete{{}}@HI{{moraenaideshou}}/@Vsasete{{}}@HI{{itadakenaideshou}}
+<li> ~<a href="grammar-sasete-moraemasen-ka.html#moraemasenka">@Vsasete{{}}@HI{{moraemasenka}}</a> @MIDDOT{{}}
+     ~<a href="grammar-sasete-moraemasen-ka.html#itadakemasenka">@Vsasete{{}}@HI{{itadakemasenka}}</a> @MIDDOT{{}}
+     ~<a href="grammar-sasete-moraemasen-ka.html#moraenai">@Vsasete{{}}@HI{{moraenaideshou}}</a> @MIDDOT{{}}
+     ~<a href="grammar-sasete-moraemasen-ka.html#itadakenai">@Vsasete{{}}@HI{{itadakenaideshou}}</a>
 <li> ~<a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>
 <li> ~<a href="grammar-koto-ni-suru.html">@HI{{kotonishiteiru}}</a>
 <li> ~<a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>
@@ -101,7 +103,8 @@
      ~<a href="grammar-ku.html#continuative">@HI{{kute}}@HI{{,}}@HI{{kute}}</a>
 <li> ~<a href="grammar-garu.html">@HI{{garu}}</a> @MIDDOT{{}}
      <a href="grammar-garu.html#present">@HI{{gatteiru}}</a>
-<li> <a href="grammar-.html"></a>~@HI{{koto}}/~@HI{{toiukoto}}
+<li> ~<a href="grammar-koto-nominaliser.html">@HI{{koto}}</a> @MIDDOT{{}}
+     ~<a href="grammar-koto-nominaliser.html#toiukoto">@HI{{toiukoto}}</a>
 <li> ~<a href="grammar-particle-no.html#apposition">@HI{{no}}</a>~
 <li> ~<a href="grammar-mashitara.html">@HI{{mashitara}}</a> @MIDDOT{{}}
      ~<a href="grammar-mashite.html">@HI{{mashite}}</a>

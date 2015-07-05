@@ -380,6 +380,7 @@ JHTML_SRCS += grammar-sai.jhtml
 JHTML_SRCS += grammar-saichuu.jhtml
 JHTML_SRCS += grammar-sara-ni.jhtml
 JHTML_SRCS += grammar-sasete-kudasai.jhtml
+JHTML_SRCS += grammar-sasete-moraemasen-ka.jhtml
 JHTML_SRCS += grammar-sasuga.jhtml
 JHTML_SRCS += grammar-sei-de.jhtml
 JHTML_SRCS += grammar-sekkaku.jhtml

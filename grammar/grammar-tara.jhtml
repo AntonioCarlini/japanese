@@ -84,21 +84,35 @@ certainty then the expression means "when", otherwise it means "if".
       @HI{{@KJ{{private}}ga@KJ{{voice}}wokake@EM{{tara}}@KJ{{come}}te@KJ{{below}}sai.}}
   </td> </tr>
   <tr class="en"> <td>
-      when I call, please come right away.
+      When I call, please come right away.
   </td> </tr>
 </table>
 </p>
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{tara}}}} can indicate an action followed by something being learned.
+<a name="result">@HI{{@EM{{tara}}}}</a> with a main clause in the past can indicate that the main clause happened as a result of the subordinate clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{medicine}}:kusuri}}wo@KJ{{drink}}ndara,@FG{{@KJ{{beginning^spirit}}:genki}}ninarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I felt better after I had taken the medicine.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="learned">@HI{{@EM{{tara}}}}</a> can indicate an action followed by something being learned.
 
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{friend^accomplished}}no@KJ{{house}}he@KJ{{going}}xtsu@EM{{tara}},@KJ{{he}}ha@FG{{@KJ{{detain^guard}}:rusu}}datta.}}
   </td> </tr>
   <tr class="en"> <td>
-      when I went to my friend's house, (I found that) he was out.
+      When I went to my friend's house, (I found that) he was out.
   </td> </tr>
 </table>
 </p>
@@ -123,7 +137,7 @@ The subordinate clause <em>can</em> contain be counterfactual.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@KJ{{gold}}gaaxtsu@EM{{tara}}kon'nauchinihainai.}}a
+      @HI{{o@KJ{{gold}}gaaxtsu@EM{{tara}}kon'nauchinihainai.}}
   </td> </tr>
   <tr class="en"> <td>
       If I had money, I wouldn't be in such a house.
@@ -191,6 +205,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p. 452).
 <li> @REF{{AAP}}. (p. 100).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}
