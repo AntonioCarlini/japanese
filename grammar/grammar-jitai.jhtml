@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{oneself^body}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{jitai}}" grammar="@HI{{@FG{{@KJ{{oneself^body}}:jitai}}}}"}}
+@GRMIDX{{index="@HI{{jishin'}}" grammar="@FG{{@KJ{{oneself^somebody}}:jishin'}}" anchor="jishin"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{oneself^body}}:jitai}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @NPhr{{}}@HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}
+<li> @NPhr{{}}@HI{{sore@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}} is a dependent noun used to emphasise a noun phrase. 
+X@HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}} is often translated as "X-self".
+The combination behaves exactly as a normal noun would do.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{inta-netto}}@EM{{@KJ{{oneself^body}}}}ha@FG{{@KJ{{feelings^report}}:jouhou}}no@FG{{@KJ{{traffic^path}}:tsuuro}}deatte,@FG{{@KJ{{inside^contain}}:naiyou}}ha@KJ{{hold}}tanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The internet is a path for information and does not contain any content itself.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{sore}} appears between the noun phrase and @HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}, the meaning remains the same.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{wide^revelation}}:koukoku}}ha,@FG{{@KJ{{marketing^sell}}:hanbai}}yori@KJ{{wide^revelation}}@OPTTEXT{{@HI{{sore}}}}@EM{{@KJ{{oneself^body}}}}ga@FG{{@KJ{{eye^bull's*eye}}:mokuteki}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The goal of this advertisement is the advertisement (of the product) itself rather than sales.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="jishin">@EM{{@FG{{@KJ{{oneself^somebody}}:jishin'}}}}</a> is synonymous with @HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}} and is connected to nouns in the same way.
+However @EM{{@FG{{@KJ{{oneself^somebody}}:jishin'}}}} is more commonly attached to nouns that represent humans, whereas @HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}
+mostly occurs with non-human nouns.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{uchino@KJ{{child}}@EM{{@FG{{@KJ{{oneself^somebody}}:jishin'}}}}ha@KT{{amerika}}ni@KJ{{going}}kitagatteimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My own child's preference is to not go to America.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 174).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

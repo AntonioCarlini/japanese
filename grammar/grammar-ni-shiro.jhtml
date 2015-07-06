@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nishiro}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nishiro}}" grammar="@HI{{nishiro}}"}}
+@GRMIDX{{index="@HI{{niseyo}}" grammar="@HI{{niseyo}}"}}
+
+<body>
+
+<h1>@HI{{nishiro}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{nishiro}}}}
+<li> @Ai{{}}@HI{{@EM{{nishiro}}}}
+<li> @Anastem{{}}@HI{{@EM{{nishiro}}}}
+<li> @Anastem{{}}@HI{{dearu@EM{{nishiro}}}}
+<li> @N{{}}@HI{{@EM{{nishiro}}}}
+<li> @N{{}}@HI{{dearu@EM{{nishiro}}}}
+<li> @ADV{{}} @HI{{@EM{{nishiro}}}}
+</ol>
+
+<p>
+Note that in all the formations @HI{{@EM{{nishiro}}}} may be replaced with @HI{{@EM{{niseyo}}}} with no change in meaning or formality.
+</p>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nishiro}}}} and @HI{{@EM{{niseyo}}}} are both imperative forms of @HI{{suru}}, the former is the spoken form and the latter is used in writing.
+There is no difference in either formality or meaning between the two forms.
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{nishiro}}}} or @HI{{@EM{{niseyo}}}} appears in the final position of a subordinate clause, it carries the expresses a concession.
+The meaning is "even if" or "even though".
+The literal meaning of @HI{{suru}} in this construction is "to assume".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{extent^degrees}}:teido}}no@FG{{@KJ{{distinction}}:sa}}haaru@EM{{niseyo}},@FG{{@KJ{{sex^distinction^separate}}:seisabetsu}}nonai@KJ{{country}}hanaidarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although the degree may differ from country to country @LIT{{there may be differences in degree}}, there is no country without gender discrimination.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the construction X@HI{{@EM{{nishiro}}}}Y@HI{{@EM{{nishiro}}}} (or the corresponding form with @HI{{@EM{{niseyo}}}}), X and Y are contrastive elements and the meaning is
+"whether X or Y".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{going}}ku@EM{{niseyo}},@KJ{{going}}kanai@EM{{niseyo}},@KJ{{behind}}de@KJ{{electricity^tale}}wo@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whether you go or not, please give me a call later.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the form X@HI{{ga}}Y@HI{{dearu@EM{{nishiro}}}} (or with @HI{{@EM{{niseyo}}}}), all but Y can be dropped if X is known from the context.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{tatoe@OPTTEXT{{@HI{{sorega}}}}@FG{{@KJ{{practice^learn}}:renshu}}@OPTTEXT{{@HI{{dearu}}}}@EM{{nishiro}}@FG{{@KJ{{true^surface^eye}}:majime}}niyaranakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even though it is just practice, you have to take it seriously.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{tatoe}} can be used for emphasis with @HI{{@EM{{nishiro}}}} or @HI{{@EM{{niseyo}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{tatoe}}@KJ{{know}}razuniyattakotodearu@EM{{nishiro}},@KJ{{he}}ha@FG{{@KJ{{blame^responsibility}}:sekinin'}}wo@FG{{@KJ{{excuse}}:manuga}}renaidarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if he did it unintentionally @LIT{{it is something he did without knowing}}, he cannot escape the responsibility.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Various set phrases that combine an @QW{{}} with @HI{{@EM{{nishiro}}}} or @HI{{@EM{{niseyo}}}} can be used almost synonymously.
+They all mean "at any rate" or "whatever it may be".
+
+<ol>
+<li> <a href="grammar-nani-shiro.html">@HI{{@KJ{{what}}nishiro}}</a> and @HI{{@KJ{{what}}niseyo}}.
+<li> @HI{{izurenishiro}} and @HI{{izureniseyo}}.
+<li> @HI{{dochiranishiro}} and @HI{{dochiraniseyo}}.
+<li> @HI{{docchinishiro}} and @HI{{docchiniseyo}}.
+</ol>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{izure@EM{{niseyo}}@FG{{@KJ{{early^hurry}}:soukyuu}}ni@FG{{@KJ{{vis-a-vis^scheme}}:taisaku}}wo@KJ{{consider}}enakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In any case, we have to think of a countermeasure immediately.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+<a href="grammar-ni-shite-mo.html">@HI{{nishitemo}}</a> carries the same meaning and has the same connection rules as @HI{{@EM{{nishiro}}}}.
+The only difference is that it is less formal.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 418).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

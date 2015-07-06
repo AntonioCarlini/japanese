@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{totemo~nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{totemo~nai}}" grammar="@HI{{totemo~nai}}"}}
+
+<body>
+
+<h1>@HI{{totemo~nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{totemo@Vnai{{}}}}}}
+<li> @HI{{@EM{{totemo}}@N{{}}ha@EM{{nai}}}}
+<li> @HI{{@EM{{totemo}}@NPhr{{}}deha@EM{{nai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{totemo~nai}}}} expresses complete and emphatic denial of a statement.
+The statement is often about an ability, a possibility or a desire or willingness.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{attend^matter}}ha@EM{{totemo}}@KJ{{private}}nihadeki@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot possibly do this job.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The denied statement may be about a possibility.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{totemo}}@FG{{@KJ{{ego^noma}}:wareware}}ni@FG{{@KJ{{victory}}:ka}}chi@FG{{@KJ{{eye}}:me}}ha@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We have no chance of winning.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The denied statement may also be about one's desire or willingness.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{son'na@FG{{@KJ{{dangerous}}:abunai}}tokoroniha@EM{{totemo}}@KJ{{child^submit}}wo@KJ{{going}}kaserare@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot possibly send my children to such a dangerous place.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{totemo~nai}}}} can also expresses strong denial that someone or something looks a certain way.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^beach}}:yamagishi}}sanha@EM{{totemo}}80@KJ{{year-end}}niha@KJ{{see}}e@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mrs. Yamagishi doesn't look 80 years old at all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The pattern can sometimes couple @HI{{@EM{{totemo}}}} with words that contain a negative meaning rather than an explictly negative verb form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@KJ{{body}}deha@EM{{totemo}}@KJ{{trip^going}}ha@EM{{@FG{{@KJ{{nothingness^logic}}:muri}}}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With your condition @LIT{{body}} there's no way you can travel.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In cases where the speaker is denying his own ability, a denial with @HI{{@EM{{totemo}}}} can convey a sense of modesty.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}nanka@EM{{totemo}}@FG{{@KJ{{burdensome^eye}}:dame}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am no good at all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+When @HI{{@EM{{totemo~nai}}}} is used, the statement sounds subjective.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 658).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

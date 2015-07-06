@@ -297,9 +297,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{oneself^body}}:jitai}}                                            </td>
+  <td class="left"> <a href="grammar-jitai.html">@FG{{@KJ{{oneself^body}}:jitai}}</a>                                       </td>
   <td class="left"> DOAJG, p. 174                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{limit}}ri:kagiri}}@HI{{da}}                                       </td>
@@ -687,9 +687,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nishiro}}/@HI{{niseyo}}                                                </td>
+  <td class="left"> <a href="grammar-ni-shiro.html">@HI{{nishiro}}/@HI{{niseyo}}</a>                                        </td>
   <td class="left"> DOAJG, p. 418                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nishitatokorode}}                                                      </td>
@@ -1037,9 +1037,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{totemo}} ~ @HI{{nai}}                                                  </td>
+  <td class="left"> <a href="grammar-totemo-nai.html">@HI{{totemo}} ~ @HI{{nai}}</a>                                        </td>
   <td class="left"> DOAJG, p. 658                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{toha}}                                                                 </td>
