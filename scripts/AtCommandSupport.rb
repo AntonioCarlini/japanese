@@ -298,6 +298,7 @@ $command_to_op = {
   "PRT" => :process_empty_code,
   "RELC" => :process_empty_code,
   "RD" => :process_radical,
+  "OPTTEXT" => :process_optional_text,
 }
 
 def process_at_commands(text, data_dir)
@@ -593,6 +594,23 @@ def process_literal(stack, unused)
     end
   }
   result << DoneText.new(")")
+  return collapse_stack(result)
+end
+
+# Process all unprocessed text as "optional"
+# The current implementation just underlines it for now.
+def process_optional_text(stack, unused)
+  result = []
+  result << DoneText.new("<u>")
+  stack.each() {
+    |x|
+    if x.processed?()
+      result << x
+    else
+      result << DoneText.new(x.text())
+    end
+  }
+  result << DoneText.new("</u>")
   return collapse_stack(result)
 end
 
