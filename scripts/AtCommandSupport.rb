@@ -236,6 +236,7 @@ $command_to_op = {
   "FG" => :process_furigana,
   "EM" => :process_emphasis,
   "GRMIDX" => :process_grammar_index,
+  "LIT" => :process_literal,
   "masustem" => :process_empty_code,
   "V1" => :process_empty_code,
   "V2" => :process_empty_code,
@@ -270,8 +271,12 @@ $command_to_op = {
   "Vsasete" => :process_empty_code,
   "Vsaserareru" => :process_empty_code,
   "NS" => :process_empty_code,
+  "NPhr" => :process_empty_code,
+  "VPhr" => :process_empty_code,
   "Ai" => :process_empty_code,
   "Aistem" => :process_empty_code,
+  "Aku" => :process_empty_code,
+  "Akute" => :process_empty_code,
   "Ana" => :process_empty_code,
   "Anastem" => :process_empty_code,
   "MIDDOT" => :process_empty_code,
@@ -574,11 +579,28 @@ def process_katakana(stack, unused)
   return collapse_stack(result)
 end
 
+# Process all unprocessed text as "literal"
+# This is used to mark an alternative as a literal translation.
+def process_literal(stack, unused)
+  result = []
+  result << DoneText.new("(lit: ")
+  stack.each() {
+    |x|
+    if x.processed?()
+      result << x
+    else
+      result << DoneText.new(x.text())
+    end
+  }
+  result << DoneText.new(")")
+  return collapse_stack(result)
+end
+
 def process_marker(stack, unused)
   return [ DoneText.new("[[MARKER:#{stack.last().text()}]]") ]
 end
 
-# Transform text from a command of the for @ABC{{}}
+# Transform text from a command of the form @ABC{{}}
 def process_empty_code_helper(code)
         case code
         when /^masustem$/  then mark_as_grammar("<sub><del>#{convert_to_hiragana('masu')}</del></sub>")
@@ -615,8 +637,12 @@ def process_empty_code_helper(code)
         when "Vsasete"     then mark_as_grammar("V#{convert_to_hiragana('sasete')}")            # causative-te-form
         when "Vsaserareru" then mark_as_grammar("V#{convert_to_hiragana('saserareru')}")        # causative-passive
         when "NS"          then mark_as_grammar("N<del>#{convert_to_hiragana('suru')}</del>")   # noun-suru without suru
+        when "NPhr"        then mark_as_grammar("N-<em>phrase</em>")                            # noun-phrase
+        when "VPhr"        then mark_as_grammar("V-<em>phrase</em>")                            # verb-phrase
         when "Ai"          then mark_as_grammar("A-#{convert_to_hiragana('i')}")                # i-adjective
         when "Aistem"      then mark_as_grammar("A-<del>#{convert_to_hiragana('i')}</del>")     # i-adjective stem
+        when "Aku"         then mark_as_grammar("A-#{convert_to_hiragana('ku')}")               # i-adjective + ku
+        when "Akute"       then mark_as_grammar("A-#{convert_to_hiragana('kute')}")             # i-adjective + kute
         when "Ana"         then mark_as_grammar("A-#{convert_to_hiragana('na')}")               # na-adjective
         when "Anastem"     then mark_as_grammar("A-<del>#{convert_to_hiragana('na')}</del>")    # na-adjective stem
         when "MIDDOT"      then "#{jp_unicode(0x30fb)}"                                         # katakana mid-dot
