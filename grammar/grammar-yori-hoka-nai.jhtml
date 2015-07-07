@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{(yori)hoka(ni)(ha)nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{(yori)hoka(ni)(ha)nai}}" grammar="@HI{{(yori)hoka(ni)(ha)nai}}"}}
+
+<body>
+
+<h1>@HI{{(yori)hoka(ni)(ha)nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}(non-past)@HI{{@EM{{(yori)hoka(ni)(ha)nai}}}}
+<li> @N{{}}(non-past)@HI{{@EM{{yorihoka(ni)ha@Vnai{{}}}}}}
+<li> @N{{}}(non-past)@HI{{@EM{{nohoka(ni)ha@Vnai{{}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{(yori)hoka(ni)(ha)nai}}}} is a phrase that conveys the idea that there is no choice other than to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{arubaito}}no@KJ{{attend^matter}}ga@FG{{@KJ{{burdensome^eye}}:dame}}ninattanode,@FG{{@KJ{{both^parent}}:ryoushin'}}nio@KJ{{gold}}wo@KJ{{borrow}}riru@EM{{yorihokaninakatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I lost my part-time job, I had no choice but to borrow money from my parents.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@N1{{}}@HI{{ha@N2{{}}@EM{{nohokani}}~@EM{{nai}}}} means that so far as @N1{{}} is concerned, something applies only to @N2{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{code^mould^bull's*eye}}:tenkeiteki}}na@FG{{@KJ{{department^study^someone}}:kagakusha}}no@KT{{ime-ji}}ni@KJ{{fit}}u@KJ{{person}}ha@KT{{ainshutain'}}@EM{{nohokanihanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Nobody but Einstein fits the stereotypical image of a scientist.
+  </td> </tr>
+</table>
+</p>
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 734).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

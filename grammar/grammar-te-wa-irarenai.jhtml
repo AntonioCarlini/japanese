@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vte{{}}hairarenai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tehairarenai}}" grammar="@HI{{@Vte{{}}hairarenai}}"}}
+@GRMIDX{{index="@HI{{naidehairarenai}}" grammar="@HI{{@Vnai{{}}dehairarenai}}"}}
+@GRMIDX{{index="@HI{{zunihairarenai}}" grammar="@HI{{@Vnaistem{{}}zunihairarenai}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}hairarenai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vte{{}}hairarenai}}}}
+<li> @HI{{@EM{{@Vnai{{}}dehairarenai}}}}
+<li> @HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="te-wa-irarenai">@HI{{@EM{{@Vte{{}}hairarenai}}}}</a> is a phrase that expresses that someone cannot be doing something or be in some state because of a given situation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mosugu@FG{{@KJ{{fly^going^mechanism}}:hikouki}}ga@KJ{{exit}}runodeguzuguzushi@EM{{tehairarenai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My plane is leaving soon so I cannot afford to dawdle.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nai-de-wa-irarenai">@HI{{@EM{{@Vnai{{}}dehairarenai}}}}</a> is a phrase that expresses that someone cannot help doing something.
+The literal meaning is "cannot remain not doing".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{teach}}e@KJ{{direction}}wo@KJ{{see}}teiru@KJ{{time^substitute}}@FG{{@KJ{{confused^mistake}}:sakugo}}wo@FG{{@KJ{{emotion}}:kan'}}ji@EM{{naidehairarenai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I see that teaching method, I cannot help thinking how outdated it is.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="zu-ni-wa-irarenai">@HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}} also means "cannot help doing".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}gaamarinimo@KJ{{oneself^part^victory^hand}}dattanode,@KJ{{one^say^say}}@EM{{zunihairarenakatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because she was acting so selfishly, I could not resist saying something to her.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 609).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
