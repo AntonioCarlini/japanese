@@ -118,6 +118,9 @@ When the agent can be considered to be a source in some way, then sentence patte
 
 <h3><a name="suffering">Suffering</a> Passive</h3>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 When a person's actions are directed towards an object belonging to a second person, and this
 second person feels troubled or annoyed, sentence pattern (E) is used.
@@ -132,6 +135,38 @@ second person feels troubled or annoyed, sentence pattern (E) is used.
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+The suffering passive can be employed with an intransitive verb.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{watashiha@FG{{@KJ{{yesterday^day}}:kinou}}@KJ{{rain}}ni@FG{{@KJ{{descend}}:fu}}rarete,nureteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was rained on yesterday and got wet.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The suffering passive can be employed with a transitive verb.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{watashino@KJ{{house}}no@KJ{{in*front}}ni@KT{{gomi}}wo@FG{{@KJ{{discard}}:su}}terarete@FG{{@KJ{{quandary}}:koma}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have a problem with rubbish being dumped in front of my house.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes</h2>
 
@@ -153,6 +188,7 @@ An intransitive verb is permitted in the suffering passive.
 <li> @REF{{MNN-TR-II}}. (Chapter 37).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{DOBJG}}. (p. 364).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}
