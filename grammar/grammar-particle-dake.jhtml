@@ -43,7 +43,8 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{dake}}}} can also be used after a verb or an adjective. In this case it creates a predicate.
+<a name="limited-extent">@HI{{@EM{{dake}}}}</a> can also be used after a verb or an adjective. In this case it creates a predicate.
+It expresses the limit of the extent of an action.
 
 <ol>
 <li>
@@ -98,6 +99,7 @@ and @HI{{wo}}, which can optionally be used only after @HI{{@EM{{dake}}}}.
 <ol>
 <li> @REF{{DOBJG}}. (p. 93).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @REF{{NKZM-N2G}}. (p. 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -76,8 +76,8 @@
 <li> ~<a href="grammar-kara-shite.html">@HI{{karashite}}</a>
 <li> ~<a href="grammar-ni-watatte.html">@HI{{niwatatte}}</a>
 <li> ~<a href="grammar-wo-tooshite.html">@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}, ~@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
-<li> ~@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
-<li> ~@HI{{dake}}
+<li> ~<a href="grammar-kagiri-conjunction.html">@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}</a>
+<li> ~<a href="grammar-particle-dake.html#limited-extent">@HI{{dake}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
@@ -134,7 +134,9 @@
 <ol>
 <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
 <li> ~@HI{{toiuka}}~@HI{{toiuka}}
-<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}~@HI{{nishitemo}}</a>, ~@HI{{nishiru}}~@HI{{nishiru}}, ~@HI{{niseyo}}~@HI{{niseyo}}
+<li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}@HI{{nishitemo}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiru}}~@HI{{nishiru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a>
 <li> ~<a href="grammar-to-itta.html">@HI{{toitta}}</a>
 </ol>
 
@@ -189,7 +191,10 @@
 <li> ~@Vyou{{}}@HI{{mononara}}
 <li> ~<a href="grammar-nai-koto-ni-wa.html">@HI{{naikotoniha}}</a>
 <li> ~@HI{{wo@FG{{@KJ{{slip*out}}:nu}}kinishiteha}}
-<li> ~@HI{{toshitemo}}, ~@HI{{nishitemo}}, ~@HI{{nishiru}}, ~@HI{{niseyo}}
+<li> ~<a href="grammar-to-shite-mo.html">@HI{{toshitemo}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-shite-mo.html">@HI{{nishitemo}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-shiro.html#even-if">@HI{{nishiro}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-shiro.html#even-if">@HI{{niseyo}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
@@ -283,7 +288,7 @@
 <li> ~<a href="grammar-ni-suginai.html">@HI{{nisuginai}}</a>
 <li> ~<a href="grammar-ni-hoka-naranai.html">@HI{{nihokanaranai}}</a>
 <li> ~<a href="grammar-ni-koshita-koto-wa-nai.html">@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</a>
-<li> ~@HI{{shikanai}} @MIDDOT{{}} ~@HI{{yorihokanai}}
+<li> ~<a href="grammar-shika-nai.html">@HI{{shikanai}}</a> @MIDDOT{{}} ~<a href="grammar-yori-hoka-nai.html">@HI{{yorihokanai}}</a>
 <li> ~<a href="grammar-beki.html">@HI{{bekida}}</a>/~<a href="grammar-beki.html#negation">@HI{{bekidehanai}}</a>
 </ol>
 
@@ -305,7 +310,8 @@
      ~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shouganai}}</a> @MIDDOT{{}}
      ~<a href="grammar-tamaranai.html">@Vte{{}}@HI{{tamaranai}}</a>
 <li> ~<a href="grammar-naranai.html">@Vte{{}}@HI{{naranai}}</a>
-<li> ~@HI{{naidehairarenai}} @MIDDOT{{}} ~@HI{{zunihairarenai}}
+<li> ~<a href="grammar-te-wa-irarenai.html#nai-de-wa-irarenai">@HI{{naidehairarenai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-te-wa-irarenai.html#zu-ni-wa-irarenai">@HI{{zunihairarenai}}</a>
 <li> ~<a href="grammar-wake-ni-wa-ikanai.html#no-choice">@HI{{naiwakeni}}(@HI{{ha}})@HI{{ikanai}}</a>
 <li> ~<a href="grammar-zaro-wo-enai.html">@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</a>
 </ol>

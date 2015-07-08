@@ -29,7 +29,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 2 @KJ{{chapter}} </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 3 @KJ{{chapter}} </td>
@@ -37,7 +37,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 4 @KJ{{chapter}} </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 5 @KJ{{chapter}} </td>
@@ -129,7 +129,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 23 @KJ{{chapter}} </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 24 @KJ{{chapter}} </td>
@@ -137,7 +137,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 25 @KJ{{chapter}} </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 26 @KJ{{chapter}} </td>
