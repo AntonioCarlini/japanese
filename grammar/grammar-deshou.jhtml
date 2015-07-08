@@ -70,6 +70,20 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="think">In</a> conversation it is usual to append @HI{{to@KJ{{think}}u}} to @HI{{darou}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}@FG{{@KJ{{old*boy}}:kun'}}haii@FG{{@KJ{{teach^expert}}:kyoushi}}ninaru@EM{{darouto@KJ{{think}}imasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think that young Suzuki will probably become a good teacher.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -80,6 +94,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 <li> @REF{{MNN-TR-II}}. (Chapter 21).
 <li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @REF{{DOBJG}}. (p. 100).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}
