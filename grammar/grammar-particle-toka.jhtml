@@ -49,6 +49,21 @@ never can.
 
 @BGRND{{}}
 <p>
+<a name="sentences">As</a> well as enumerating nouns, @HI{{@EM{{toka}}}} can list whole sentences.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child}}domonotoki,@KJ{{mama}}ni[@FG{{@KJ{{exertion^strong}}:benkyou}}shiro]@EM{{toka}}[takusan@KJ{{eat}}benasai]@EM{{toka}}
+      yoku@KJ{{say}}waremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a child, I was often told by my mother to "Go and study", "Eat up" and so on.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 @HI{{@EM{{toka}}}} can follow  pairs of words of opposite meaning to indicate uncertainty.
 
 <table class="sentence">
@@ -78,6 +93,7 @@ When used with nouns @HI{{@EM{{toka}}}} has a more informal feel than @HI{{ya}}.
 <li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @REF{{AAP}}. (p. 42).
 <li> @REF{{DOBJG}}. (p. 488).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}
