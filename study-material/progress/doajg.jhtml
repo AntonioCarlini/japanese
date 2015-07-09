@@ -827,9 +827,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{reach*out}}bi:oyobi}}                                             </td>
+  <td class="left"> <a href="grammar-oyobi.html">@FG{{@KJ{{reach*out}}bi:oyobi}}</a>                                        </td>
   <td class="left"> DOAJG, p. 521                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{mediocre}}so:oyoso}}                                              </td>

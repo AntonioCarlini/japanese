@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{reach*out}}bi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{oyobi}}" grammar="@HI{{@FG{{@KJ{{reach*out}}:oyo}}bi}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{reach*out}}:oyo}}bi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} is a partcile that connects two nouns or noun phrases and means "and".
+It is a highly formal word commonly used in the titles of formal documents.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{room^inside}}:shitsunai}}@EM{{@KJ{{reach*out}}bi}}@FG{{@KJ{{corridor^below}}:rouka}}deno@FG{{@KJ{{}}:kitsuen'}}ha@FG{{@KJ{{prohibition^stop}}:kinshi}}sareteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Smoking in the rooms and halls is prohibited.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 521).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
