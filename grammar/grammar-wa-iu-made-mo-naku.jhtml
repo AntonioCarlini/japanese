@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ha@KJ{{say}}mademonake}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{haiumademonake}}" grammar="@HI{{ha@KJ{{say}}mademonake}}"}}
+
+<body>
+
+<h1>@HI{{ha@KJ{{say}}mademonake}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{ha@KJ{{say}}mademonake}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ha@KJ{{say}}mademonake}}}} is an adverbial phrase that conveys the meaning of "not to speak of something or someone" or "not to mention" or "let alone".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{study^life}}ha@KJ{{Sino-^character}}@EM{{ha@KJ{{say}}umademonaku}},@FG{{@KJ{{even^provisional^name}}:hiragana}},@FG{{@KJ{{one-sided^provisional^name}}:katagana}}sae@KJ{{know}}ranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That student doesn't even know hiragana and katakana, let alone kanji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 568).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

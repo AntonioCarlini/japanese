@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vmasu{{}}you}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{@Vmasu{{}}you}}" grammar="@HI{{@Vmasu{{}}you}}"}}
+
+<body>
+
+<h1>@HI{{@Vmasu{{}}you}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@Vmasustem{{}}you}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vmasu{{}}you}}}} forms a noun which means a way of doing something, indicating a method rather than a manner.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{see}}tsukaranainoha@FG{{@KJ{{grope}}:saga}}shi@EM{{you}}ga@KJ{{bad}}indayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is because your way of searching (for it) that is wrong that you cannot find it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+A common use of @HI{{@EM{{@Vmasu{{}}you}}}} is with @HI{{ganai}} to say that there is no way to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{make^sentence}}:sakubun'}}ha@FG{{@KJ{{straightaway}}:nao}}shi@EM{{you}}ganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no way to correct this composition.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vmasu{{}}you}}}} can be used with conditional sentences.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kon'nani@FG{{@KJ{{demolition}}:kowa}}reteshimatteha@KJ{{straightaway}}shi@EM{{you}}ganai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We cannot fix it now that it is broken to this extent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 595).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

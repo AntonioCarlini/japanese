@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomo}}" grammar="@HI{{tomo}}"}}
+
+<body>
+
+<h1>@HI{{tomo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @QW{{}}@Vyou{{}}@HI{{@EM{{to(mo)}}}}
+<li> @QW{{}}@Aku{{}}@HI{{@EM{{tomo}}}}
+<li> @QW{{}}@Aistem{{}}@HI{{karou@EM{{tomo}}}}
+<li> @QW{{}}@Anastem{{}}@HI{{dearou@EM{{tomo}}}}
+<li> @Aku{{}}@HI{{@EM{{tomo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tomo}}}} is a conjunction that usually appears with a question.
+It expresses a concession: "no matter". It is used in written Japanese.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{generation^world}}:sekai}}nodokoni@FG{{@KJ{{dwell}}:su}}mou@EM{{tomo}}@FG{{@KJ{{one^yonder}}:ikkou}}ni@FG{{@KJ{{posture}}:kama}}wanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I do not care at all where in the world I live.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{slow}}:oso}}ku@EM{{tomo}}}} is a set phrase that means "at the latest".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{purojekuto}}ha@KJ{{slow}}ku@EM{{tomo}}@FG{{@KJ{{come^year}}:rainen'}}no@FG{{@KJ{{four^month}}:shigatsu}}niha@FG{{@KJ{{perfect^complete}}:kanryou}}surudarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At the latest, this project will be complete in April of next year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{few}}:suku}}naku@EM{{tomo}}}} is a set phrase that means "at least".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KJ{{few}}naku@EM{{tomo}}@FG{{@KJ{{one^year}}:ichinen'}}ni@FG{{@KJ{{three^-times}}:sankai}}ha@FG{{@KJ{{sea^outside}}:kaigai}}@FG{{@KJ{{exit^lengthen}}:shucchou}}woshiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I make business trips abroad at least three times a year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 507).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

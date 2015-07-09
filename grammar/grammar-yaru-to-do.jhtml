@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{yaru}}" grammar="@HI{{yaru}} (do)"}}
+
+<body>
+
+<h1>@HI{{yaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{yaru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{yaru}}}} is a verb which can have a number of different meanings, depending on the structure in which it is used and on the direct object noun with which it appears.
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}<em>someone</em> @HI{{wo}}@N{{place}}@HI{{ni@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to send.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{breath^child}}:musuko}}wo@FG{{@KJ{{mail^convenience^bureau}}:yuubinkyoku}}ni@EM{{yatte}},@FG{{@KJ{{cut^hand}}:kitte}}wo@KJ{{buy}}tte@KJ{{come}}saseta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I sent my son to the post office and had him buy stamps.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}<em>someone</em> @HI{{ni}}@N{{}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to give.
+Further details can be found <a href="grammar-giving-receiving.html#yaru">here</a>.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{cat}}nikonoesawo@EM{{yatte}}ne.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Give this food to the cat, OK?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{sports/game}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to play.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{chixesu}}wo@EM{{yarou}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Shall we play chess?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{occupation}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to work as.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{now}}:ima}}@KT{{amerika}}de@KJ{{day^book^word}}no@FG{{@KJ{{teach^expert}}:kyoushi}}wo@EM{{yatteimasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm now a Japanese instructor in the U.S.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{role}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to play a role.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{three^boat}}:mifune}}@FG{{@KJ{{cleverness^son}}:toshirou}}no@EM{{yaru}}@FG{{@KJ{{duty}}:yaku}}ha
+      @FG{{@KJ{{correct^righteousness^emotion}}:seigikan'}}no@FG{{@KJ{{strong}}:tsuyo}}i@FG{{@KJ{{man}}:otoko}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The role played by Toshiro Mifune is a male with a strong sense of justice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{food}}@HI{{ni@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to eat.
+This usage is very restricted and there are only a few additional expressions where this pattern is applicable.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{chotto@FG{{@KJ{{slow}}:oku}}rerukara,@FG{{@KJ{{before}}:saki}}ni@KJ{{eat^thing}}wo@EM{{yatteite}}@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm coming a bit late so please start eating without me.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{alcohol}}@HI{{ni@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to drink.
+This usage is very restricted and there are only a few additional expressions where this pattern may be used.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}@KJ{{sake}}wo@EM{{yarimasen'}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I do not drink (alcohol).
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{cigarette}}@HI{{ni@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to smoke.
+This usage is very restricted and there are only a few additional expressions where this pattern may be used.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{before^month}}:sengetsu}}madetabakowo@EM{{yatteimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was smoking up until last month.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{work/task}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to do.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{inn^topic}}:shukudai}}wo@EM{{yarimashita}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Did you do your homework?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @N{{event}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to hold.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{come^month}}:raigetsu}}@KT{{kurasu}}@FG{{@KJ{{meeting}}:kai}}wo@EM{{yarimasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We will hold a class reunion next month.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @N{{hobby/subject}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to learn.
+Here @HI{{@EM{{yaru}}}} cannot be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{gone^year}}:kyonen'}}kara@FG{{@KJ{{life}}:i}}ke@FG{{@KJ{{flower}}:bana}}wo@EM{{yatteimasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have been learning flower arrangement since last year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @N{{illness}}@HI{{ni@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to suffer from.
+@HI{{@EM{{yaru}}}} may be replaced by @HI{{suru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{me}}ha@KJ{{little}}sai@KJ{{time}}iroirona@FG{{@KJ{{ill^spirit}}:byouki}}wo@EM{{yarimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a kid I suffered from various diseases.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In the pattern "<em>someone</em> @HI{{ga}}@N{{store/company}}@HI{{wo@EM{{yaru}}}}", @HI{{@EM{{yaru}}}} means to run in the sense of to manage.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}ga@KT{{jazzu}}@FG{{@KJ{{consume^tea}}:kissa}}wo@EM{{yatteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My friend is running a jazz cafe.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+In those cases either @HI{{@EM{{yaru}}}} or @HI{{suru}} may be used, the meaning is the same but @HI{{@EM{{yaru}}}} is more informal and colloquial.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 584).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
