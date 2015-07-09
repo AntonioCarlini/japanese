@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{youtosuru}}" grammar="@Vyou{{}}@HI{{tosuru}}"}}
+@GRMIDX{{index="@HI{{youtoshinai}}" grammar="@Vyou{{}}@HI{{toshinai}}" anchor="toshinai"}}
 
 <body>
 
@@ -25,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-The pattern @Vyou{{}}@HI{{tosuru}} is used to mean "try to do something".
+<a name="try-to">The</a> pattern @Vyou{{}}@HI{{tosuru}} is used to mean "try to do something".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +41,7 @@ The pattern @Vyou{{}}@HI{{tosuru}} is used to mean "try to do something".
 
 @BGRND{{}}
 <p>
-The pattern @Vyou{{}}@HI{{tosuru}} can also mean "just as I was about to do something".
+<a name="about-to">The</a> pattern @Vyou{{}}@HI{{tosuru}} can also mean "just as I was about to do something".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -54,7 +55,7 @@ The pattern @Vyou{{}}@HI{{tosuru}} can also mean "just as I was about to do some
 
 @BGRND{{}}
 <p>
-The pattern @Vyou{{}}@HI{{toshinai}} means that someone, usually not the speaker, does not intend to do something.
+<a name="toshinai">The</a> pattern @Vyou{{}}@HI{{toshinai}} means that someone, usually not the speaker, does not intend to do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -77,6 +78,7 @@ The pattern @Vyou{{}}@HI{{toshinai}} means that someone, usually not the speaker
 <li> @REF{{NKZM-N2G}}. (p. 13).
 <li> @REF{{DOAJG}}. (p. 474).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
