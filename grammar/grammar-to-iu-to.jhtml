@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}uto}}}} is used when something mentioned evokes a memory.
+<a name="memory">@HI{{@EM{{to@KJ{{say}}uto}}}}</a> is used when something mentioned evokes a memory.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -81,6 +81,7 @@
 <ol>
 <li> @REF{{DOIJG}}. (p. 492).
 <li> @REF{{NKZM-N2G}}. (p. 61).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

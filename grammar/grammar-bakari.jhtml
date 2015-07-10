@@ -37,7 +37,7 @@
 
 @BGRND{{}}
 <p>
-@Vta{{}} @HI{{@EM{{bakari}}}} indicates that something has just happened or has just been done. It is the
+<a name="just-happened">@Vta{{}}</a>@HI{{@EM{{bakari}}}} indicates that something has just happened or has just been done. It is the
 speaker's feeling that determines whether the action is recent or not.
 
 <table class="sentence" border=0>
@@ -52,7 +52,7 @@ speaker's feeling that determines whether the action is recent or not.
 
 @BGRND{{}}
 <p>
-@Vte{{}} @HI{{@EM{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
+<a name="happening">@Vte{{}}</a>@HI{{@EM{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -66,7 +66,7 @@ speaker's feeling that determines whether the action is recent or not.
 
 @BGRND{{}}
 <p>
-@Vru{{}} @HI{{@EM{{bakari}}}} indicates that something is about to be done.
+<a name="about-to-happen">@Vru{{}}</a>@HI{{@EM{{bakari}}}} indicates that something is about to be done.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -153,7 +153,7 @@ supplied to show the difference.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@FG{{@KJ{{transit^environs}}:watanabe}}sanha@KT{{sutereo}}wo@KJ{{buy}}itai@EM{{barakini}},
+    @HI{{@FG{{@KJ{{transit^environs}}:watanabe}}sanha@KT{{sutereo}}wo@KJ{{buy}}itai@EM{{bakarini}},
     @FG{{@KJ{{one^life^suspend^fate}}:isshoukenmei}}ni@KT{{arubaito}}woshiteiru.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -178,6 +178,7 @@ When @HI{{@EM{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 <li> @REF{{MNN-TR-II}}. (Chapter 46).
 <li> @REF{{AAP}}. (p. 78).
 <li> @REF{{NKZM-N2G}}. (p. 12).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
