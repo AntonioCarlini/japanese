@@ -178,43 +178,49 @@
 
 <ol>
 <li> <a href="grammar-toshite.html">@N{{}}@HI{{toshite}}</a>
-<li> ... @HI{{shiteha}}
-<li> ... @HI{{shitemo}}
-<li> ... @HI{{shitara}}/@HI{{sureba}}
+<li> <a href="grammar-ni-shite-wa.html">@HI{{shiteha}}</a>
+<li> <a href="grammar-ni-shite-mo.html">@HI{{shitemo}}</a>
+<li> @HI{{toshitara}}
 </ol>
 
 <h2><a class="navtarget" name="w3d3">_</a> @KJ{{No.}}3@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{tsumori datta}}
-<li> <a href="grammar-hazu.html"> @HI{{hazu}} </a>
-<li> @HI{{beki}}
-<li> @HI{{mono da}}
+<li> <a href="grammar-tsumori.html#past">@HI{{tsumoridatta}}</a>
+<li> <a href="grammar-hazu.html#da"> @HI{{hazu}} </a> @MIDDOT{{}}
+     <a href="grammar-hazu-ga-nai.html"> @HI{{hazuganai}} </a>
+<li> <a href="grammar-beki.html">@HI{{beki}}</a>
+<li> <a href="grammar-mono-da.html#nostalgia">@HI{{monoda}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d4">_</a> @KJ{{No.}}3@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{tsuideni}}
-<li> @HI{{tabi}}
-<li> @HI{{totann}}
+<li> <a href="grammar-tsuide-ni.html">@HI{{tsuideni}}</a>
+<li> <a href="grammar-tabi-ni.html">@HI{{tabini}}</a>
+<li> <a href="grammar-totan.html">@HI{{totann}}</a>
 <li> @HI{{goichuu}}
 </ol>
 
 <h2><a class="navtarget" name="w3d5">_</a> @KJ{{No.}}3@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{toori}}
-<li> @HI{{mama}}
-<li> @Vmasustem{{}}@HI{{banashi}}
-<li> @HI{{kiri}}
+<li> <a href="grammar-toori-ni.html">@HI{{toori}}</a>
+<li> <a href="grammar-mama.html">@HI{{mama}}</a>
+<li> <a href="grammar-ppanashi.html">@Vmasustem{{}}@HI{{ppanashi}}</a>
+<li> <a href="grammar-particle-kiri.html">@HI{{kiri}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d6">_</a> @KJ{{No.}}3@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{garu}}
-<li> @HI{{hoshii}}/@HI{{moraitai}}
+<li> <a href="grammar-garu.html#garu">@HI{{garu}}</a> @MIDDOT{{}}
+     <a href="grammar-garu.html#present">@HI{{gatte}}</a> @MIDDOT{{}}
+     <a href="grammar-garu.html#nai">@HI{{garanaide}}</a>
+<li> <a href="grammar-te-hoshii.html#do">@Vte{{}}@HI{{hoshii}}</a> @MIDDOT{{}}
+     <a href="grammar-te-hoshii.html#not-do">@Vnai{{}}@HI{{dehoshii}}</a> @MIDDOT{{}}
+     @Vte{{}}@HI{{moraitai}} @MIDDOT{{}}
+     @Vnai{{}}@HI{{demoraitai}}
 <li> @HI{{furiwosuru}}
 </ol>
 
