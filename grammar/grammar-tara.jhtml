@@ -153,7 +153,7 @@ If this is not the case then this sentence pattern cannot be used.
 
 @BGRND{{}}
 <p>
-@HI{{moshi}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+<a name="moshi">@HI{{moshi}}</a> can be placed before the subordinate clause to indicate that a condition is about to be presented.
 @HI{{moshi}} implies that an emphasis is on the speaker's supposition.
 
 <table class="sentence">
@@ -206,6 +206,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li> @REF{{DOBJG}}. (p. 452).
 <li> @REF{{AAP}}. (p. 100).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
