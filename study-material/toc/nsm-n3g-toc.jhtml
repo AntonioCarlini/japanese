@@ -227,53 +227,59 @@
 <h2><a class="navtarget" name="w4d1">_</a> @KJ{{No.}}4@KJ{{week}}1@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{totte}}
-<li> @HI{{wari}}
-<li> @HI{{nanka/nante/nado}}
+<li> <a href="grammar-ni-totte.html">@HI{{nitotte}}</a>
+<li> <a href="grammar-wari-ni-wa.html">@HI{{warini}}</a>
+<li> <a href="grammar-kuse-ni.html">@HI{{kuseni}}</a>
+<li> <a href="grammar-nanka.html">@HI{{nanka}}</a> @MIDDOT{{}}
+     <a href="grammar-nante-emotion.html">@HI{{nante}}</a> @MIDDOT{{}}
+     <a href="grammar-particle-nado.html">@HI{{nado}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d2">_</a> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{okage}}
-<li> @HI{{seide}}
-<li> @HI{{kawarini}}
-<li> @HI{{kawatte/kawari}}
+<li> <a href="grammar-okage-de.html">@HI{{okage}}</a>
+<li> <a href="grammar-sei-de.html">@HI{{seide}}</a>
+<li> <a href="grammar-kawari-ni.html">@HI{{kawarini}}</a>
+<li> <a href="grammar-ni-kawatte.html">@HI{{nikawatte}}</a> @MIDDOT{{}}
+     @HI{{nikawari}}
 </ol>
 
 <h2><a class="navtarget" name="w4d3">_</a> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{kurai/gurai/hodo}}
+<li> @HI{{kurai}} @MIDDOT{{}}
+     @HI{{gurai}} @MIDDOT{{}}
+     @HI{{hodo}}
 <li> adj @HI{{hodo}}
 <li> <a href="grammar-ba-hodo.html"> @Vba{{}}@HI{{hodo}} </a>
-<li> @N{{}}@HI{{kurai}} @N{{}}@HI{{ha inai}}
+<li> <a href="grammar-kurai.html#kurai-wa-nai">@N{{}}@HI{{kurai}}@N{{}}@HI{{hainai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d4">_</a> @KJ{{No.}}4@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{koto ha nai}}
-<li> @HI{{to iu koto da}}
-<li> @Vru{{}}@HI{{koto da}}
-<li> @HI{{koto ka}}
+<li> <a href="grammar-koto-wa-nai.html">@Vru{{}}@HI{{koto ha nai}}</a>
+<li> <a href="grammar-to-iu-koto-da.html">@HI{{toiukotoda}}</a>
+<li> <a href="grammar-koto-da-should.html">@Vru{{}}@HI{{kotoda}}</a>
+<li> <a href="grammar-donna-ni-koto-ka.html">@HI{{don'nani~kotoka}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d5">_</a> @KJ{{No.}}4@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{takke}}
-<li> @Vru{{}}@HI{{shika nai}}
-<li> @HI{{ndatte}}
-<li> @HI{{ndamonn}}
+<li> <a href="grammar-particle-kke.html">@HI{{kke}}</a>
+<li> <a href="grammar-shika-nai.html">@Vru{{}}@HI{{shikanai}}</a>
+<li> <a href="grammar-datte-reason.html#hearsay">@HI{{ndatte}}</a>
+<li> <a href="grammar-particle-mono.html">@HI{{ndamonn}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d6">_</a> @KJ{{No.}}4@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{tsumari}}
+<li> <a href="grammar-tsumari.html">@HI{{tsumari}}</a>
 <li> @HI{{kono dame}}
-<li> @HI{{kono kekka}}
+<li> <a href="grammar-kekka.html">@HI{{konokekka}}</a>
 <li> @HI{{nazenara}}
 </ol>
 

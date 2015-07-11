@@ -46,18 +46,20 @@ When @HI{{@EM{{@KJ{{proportion}}ni(ha)}}}} follows a predicate, the phrase can b
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}i}}@EM{{@KJ{{proportion}}ni(ha)@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
+      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}i@EM{{@KJ{{proportion}}ni(ha)}}@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
   </td> </tr>
   <tr class="en"> <td>
       This team is not popular despite its strength.
   </td> </tr>
 </table>
+</p>
 
 can be recast as
 
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}i}}gasono@EM{{@KJ{{proportion}}ni(ha)@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
+      @HI{{zono@KT{{chi-mu}}wa@FG{{@KJ{{strong}}:tsuyo}}igasono@EM{{@KJ{{proportion}}ni(ha)}}@FG{{@KJ{{person^spirit}}:ninki}}ganai.}}
   </td> </tr>
   <tr class="en"> <td>
       This team is not popular despite its strength.
@@ -74,6 +76,7 @@ can be recast as
 <ol>
 <li> @REF{{DOAJG}}. (p. 697).
 <li> @REF{{NKZM-N2G}}. (p. 86).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

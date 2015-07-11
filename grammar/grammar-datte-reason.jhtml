@@ -67,7 +67,7 @@ A sentence that begins with @HI{{@EM{{datte}}}} often ends in @HI{{nda}}, @HI{{n
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{datte}}}} can also be used as a conjunction indicating concession.
+<a name="hearsay">@HI{{@EM{{datte}}}}</a> can also be used as a conjunction indicating concession.
 In this usage it appears at the end of a subordinate clause or at the end of the sentence.
 
 <table class="sentence">
@@ -103,6 +103,7 @@ In this usage it appears at the end of a subordinate clause or at the end of the
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 60).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
