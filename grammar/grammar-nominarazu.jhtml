@@ -34,7 +34,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nominarazu}}}} is used in formal wriitng or speeches to mean "not only".
+@HI{{@EM{{nominarazu}}}} is used in formal writing or speeches to mean "not only".
 It is a combination of the particle <a href="grammar-particle-nomi.html">@HI{{nomi}}</a> and the negative
 continuative form of @HI{{nari}}. The literal meaning is "be not only ~ and".
 
@@ -73,6 +73,7 @@ continuative form of @HI{{nari}}. The literal meaning is "be not only ~ and".
 <ol>
 <li> @REF{{DOAJG}}. (p. 461).
 <li> @REF{{NKZM-N2G}}. (p. 30).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

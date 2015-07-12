@@ -34,7 +34,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} indicates a subjective "worth".
+<a name="worth">@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}}<a> indicates a subjective "worth".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -48,7 +48,7 @@
 
 @BGRND{{}}
 <p>
-When used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} changes phonetically from @HI{{kai}} to @HI{{gai}}.
+<a name="gai">When</a> used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} changes phonetically from @HI{{kai}} to @HI{{gai}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -62,7 +62,7 @@ When used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetri
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kaigaaru}}}}}} is often used in the @HI{{te}}-form and functions as a sort of subordinate conjunction.
+<a name="te-form">@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kaigaaru}}}}}}</a> is often used in the @HI{{te}}-form and functions as a sort of subordinate conjunction.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -82,6 +82,7 @@ When used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetri
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 179).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
