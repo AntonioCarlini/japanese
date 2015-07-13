@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@KJ{{however}}shi}}}} is a conjunction used to indicate that there isa condition, proviso or restriction in the preceding statement.
+@HI{{@EM{{@KJ{{however}}shi}}}} is a conjunction used to indicate that there is a condition, proviso or restriction in the preceding statement.
 The speaker considers the preceding statement to be incomplete and seeks to complete it by noting the restriction or making an additional remark.
 
 <table class="sentence">
@@ -90,6 +90,7 @@ The preceding sentence usually stands alone, but it can be followed by @HI{{ga}}
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 573).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

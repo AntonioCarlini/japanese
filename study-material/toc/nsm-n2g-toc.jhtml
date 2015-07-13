@@ -357,28 +357,32 @@
 <h2><a class="navtarget" name="w6d1">_</a> @KJ{{No.}}6@KJ{{week}}1@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @FG{{@KJ{{by*means*of^come}}:irai}}
-<li> <a href=""></a> @FG{{@KJ{{by*means*of^above}}:ijou}}
-<li> <a href=""></a> @HI{{karaniha}}
+<li> <a href="grammar-irai.html">@FG{{@KJ{{by*means*of^come}}:irai}}</a>
+<li> <a href="grammar-ijou.html">@FG{{@KJ{{by*means*of^above}}:ijou}}</a>
+<li> <a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a>
 <li> <a href=""></a> @FG{{@KJ{{fold}}:ori}}(@HI{{ni}})
 </ol>
 
 <h2><a class="navtarget" name="w6d2">_</a> @KJ{{No.}}6@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{@FG{{@KJ{{say}}:i}}uto}}/@HI{{@FG{{@KJ{{say}}:i}}eha}}
+<li> <a href=""></a>@HI{{@FG{{@KJ{{say}}:i}}uto}} @MIDDOT{{}}
+     @HI{{@FG{{@KJ{{say}}:i}}eha}}
 <li> <a href=""></a> @HI{{karasuruto}}
-<li> <a href=""></a> @HI{{karashite}}
-<li> <a href=""></a> @HI{{kara@FG{{@KJ{{see}}:mi}}ruto}}/@HI{{kara@FG{{@KJ{{see}}:mi}}eba}}
+<li> <a href="grammar-kara-shite.html">@HI{{karashite}}</a>
+<li> <a href=""></a> @HI{{kara@FG{{@KJ{{see}}:mi}}ruto}} @MIDDOT{{}}
+     @HI{{kara@FG{{@KJ{{see}}:mi}}eba}}
 </ol>
 
 <h2><a class="navtarget" name="w6d3">_</a> @KJ{{No.}}6@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{karatoitte}}
-<li> <a href=""></a> @Vte{{}}@HI{{karadenaito}}/@Vte{{}}@HI{{karadenakereba}}
-<li> <a href=""></a> @HI{{kara}} ~ @HI{{nikakete}}
-<li> <a href=""></a> @HI{{kaketeha}}/@HI{{kaketemo}}
+<li> <a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
+<li> <a href="grammar-te-kara-denaito.html"> @Vte{{}}@HI{{karadenaito}}</a> @MIDDOT{{}}
+     @Vte{{}}@HI{{karadenakereba}}
+<li> <a href="grammar-kara-ni-kakete.html">@HI{{kara}} ~ @HI{{nikakete}}</a>
+<li> <a href="grammar-ni-kakete-wa.html">@HI{{kaketeha}}</a> @MIDDOT{{}}
+     @HI{{kaketemo}}
 </ol>
 
 <h2><a class="navtarget" name="w6d4">_</a> @KJ{{No.}}6@KJ{{week}}4@KJ{{day^eye}} </h2>
@@ -387,16 +391,17 @@
 <li> <a href=""></a> @HI{{toka}}
 <li> <a href=""></a> @Vru{{}}@HI{{mai}}
 <li> <a href=""></a> @Vru{{}}@HI{{mai}}
-<li> <a href=""></a> @HI{{ka}} ~ @HI{{maika}}
+<li> <a href="grammar-you-ka-mai-ka.html">@Vyou{{}}@HI{{ka}}@Vru{{}}@HI{{maika}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w6d5">_</a> @KJ{{No.}}6@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{@FG{{@KJ{{decide}}:ki}}matteiru}}/@HI{{@FG{{@KJ{{difference}}:chiga}}inai}}/
-  @HI{{@FG{{@KJ{{inter-^difference}}:soui}}nai}}/
-<li> <a href=""></a> @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}
-<li> <a href=""></a> @HI{{yorihokanai}}
+<li> <a href="grammar-ni-kimatte-iru.html">@HI{{@FG{{@KJ{{decide}}:ki}}matteiru}}</a> @MIDDOT{{}}
+     @HI{{@FG{{@KJ{{difference}}:chiga}}inai}} @MIDDOT{{}}
+     @HI{{@FG{{@KJ{{inter-^difference}}:soui}}nai}}
+<li> <a href="grammar-to-wa-kagiranai.html">@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}</a>
+<li> <a href="grammar-yori-hoka-nai.html">@HI{{yorihokanai}}</a>
 <li> <a href=""></a> @HI{{nihokanaranai}}
 </ol>
 
@@ -405,7 +410,7 @@
 <ol>
 <li> <a href=""></a> @N{{}}@HI{{wohajime}}
 <li> <a href=""></a> @N{{}}@HI{{wonugutte}}
-<li> <a href=""></a> @N{{}}@HI{{nioite}}
+<li> <a href="grammar-ni-oite.html">@N{{}}@HI{{nioite}}</a>
 <li> <a href=""></a> @N{{}}@HI{{nite}}
 </ol>
 
@@ -413,9 +418,9 @@
 
 <ol>
 <li> <a href=""></a> @HI{{mokamawazu}}
-<li> <a href=""></a> @HI{{nimokakawarazu}}
-<li> <a href=""></a> @HI{{nikakawarazu}}
-<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}
+<li> <a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
+<li> <a href="grammar-ni-kakawarazu.html">@HI{{nikakawarazu}}</a>
+<li> <a href="grammar-wo-towazu.html">@N{{}}@HI{{wo@FG{{@KJ{{question}}:to}}wazu}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w7d2">_</a> @KJ{{No.}}7@KJ{{week}}2@KJ{{day^eye}} </h2>
@@ -431,7 +436,7 @@
 
 <ol>
 <li> <a href=""></a> @HI{{monoda}}
-<li> <a href=""></a> @HI{{monodehanai}}
+<li> <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> <a href=""></a> @HI{{toiumonoda}}
 <li> <a href=""></a> @HI{{monoka}}
 </ol>
@@ -448,9 +453,10 @@
 <h2><a class="navtarget" name="w7d5">_</a> @KJ{{No.}}7@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> <a href="grammar-osore-ga-aru.html">@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}</a>
 <li> <a href=""></a> @HI{{monogaaru}}
-<li> <a href=""></a> @HI{{monodemonai}}/@HI{{monodehanai}}
+<li> <a href=""></a> @HI{{monodemonai}} @MIDDOT{{}}
+     <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> <a href=""></a> @HI{{dounika}} ~ @HI{{naimonoka}}
 </ol>
 
@@ -460,7 +466,7 @@
 <li> <a href=""></a> @N{{}}@HI{{womotoni}}
 <li> <a href=""></a> @N{{}}@HI{{nitsuki}}
 <li> <a href=""></a> @HI{{wokikkakeni}}
-<li> <a href=""></a> @FG{{@KJ{{occasion}}:sai}}@HI{{ni}}
+<li> <a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}@HI{{ni}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w8d1">_</a> @KJ{{No.}}8@KJ{{week}}1@KJ{{day^eye}} </h2>
@@ -468,8 +474,8 @@
 <ol>
 <li> <a href=""></a> @HI{{sorenanoni}}
 <li> <a href=""></a> @HI{{soretomo}}
-<li> <a href=""></a> @HI{{sorenara}}(@HI{{ba}})
-<li> <a href=""></a> @HI{{sorede}}
+<li> <a href="grammar-sore-nara.html">@HI{{sorenara}}(@HI{{ba}})</a>
+<li> <a href="grammar-sore-demo.html">@HI{{soredemo}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w8d2">_</a> @KJ{{No.}}8@KJ{{week}}2@KJ{{day^eye}} </h2>
@@ -485,36 +491,36 @@
 
 <ol>
 <li> <a href=""></a> @HI{{sunawachi}}
-<li> <a href=""></a> @HI{{aruiha}}
-<li> <a href=""></a> @HI{{daga}}
+<li> <a href="grammar-aruiwa.html">@HI{{aruiha}}</a>
+<li> <a href="grammar-daga.html">@HI{{daga}}</a>
 <li> <a href=""></a> @HI{{datte}}
 </ol>
 
 <h2><a class="navtarget" name="w8d4">_</a> @KJ{{No.}}8@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{toiukotoha}}
+<li> <a href="grammar-to-iu-koto-wa.html">@HI{{toiukotoha}}</a>
 <li> <a href=""></a> @HI{{toiunoha}}
-<li> <a href=""></a> @HI{{shitagatte}}
-<li> <a href=""></a> @HI{{tadashi}}
+<li> <a href="grammar-shitagatte.html">@HI{{shitagatte}}</a>
+<li> <a href="grammar-tadashi.html">@HI{{tadashi}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w8d5">_</a> @KJ{{No.}}8@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{mottomo}}
+<li> <a href="grammar-motto-mo.html">@HI{{mottomo}}</a>
 <li> <a href=""></a> @HI{{naa}}
 <li> <a href=""></a> @HI{{sate}}
-<li> <a href=""></a> @HI{{suruto}}
+<li> <a href="grammar-suruto.html">@HI{{suruto}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w8d6">_</a> @KJ{{No.}}8@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
 <li> <a href=""></a> @HI{{@FG{{@KJ{{need}}:you}}suruni}}
-<li> <a href=""></a> @HI{{shikamo}}
+<li> <a href="grammar-shikamo.html">@HI{{shikamo}}</a>
 <li> <a href=""></a> @HI{{omakeni}}
-<li> <a href=""></a> @HI{{chinamini}}
+<li> <a href="grammar-chinami-ni.html">@HI{{chinamini}}</a>
 </ol>
 
 </div>
