@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mi}}" grammar="@HI{{mi}} (suffix)"}}
+
+<body>
+
+<h1>@HI{{mi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Aistem{{}}@HI{{@EM{{mi}}}}
+<li> @Anastem{{}}@HI{{@EM{{mi}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+Attaching the suffix @HI{{mi}} to the stem of an @HI{{i}}-adjective (or, much less commonly, to the stem of a @HI{{na}}-adjective)
+makes a noun out of the adjective.
+@HI{{@EM{{mi}}}} is used to form an emotive and concrete characterisation of some state.
+The suffix @HI{{@EM{{mi}}}} can only be attached to a limited number of @HI{{i}}-adjectives.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}haomoshiro@EM{{mi}}ganaine.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He just lacks that something that attracts people.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<p>
+A different noun-forming suffix, <a href="grammar-adj-sa.html">@HI{{sa}}</a>, is much more productive but generally describes, in an analytical manner,
+the degree of state represented by the adjective.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 381).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
