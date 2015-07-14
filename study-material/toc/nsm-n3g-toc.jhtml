@@ -219,7 +219,7 @@
      <a href="grammar-garu.html#nai">@HI{{garanaide}}</a>
 <li> <a href="grammar-te-hoshii.html#do">@Vte{{}}@HI{{hoshii}}</a> @MIDDOT{{}}
      <a href="grammar-te-hoshii.html#not-do">@Vnai{{}}@HI{{dehoshii}}</a> @MIDDOT{{}}
-     @Vte{{}}@HI{{moraitai}} @MIDDOT{{}}
+     <a href="grammar-te-hoshii.html#moraitai">@Vte{{}}@HI{{moraitai}}</a> @MIDDOT{{}}
      @Vnai{{}}@HI{{demoraitai}}
 <li> @HI{{furiwosuru}}
 </ol>
