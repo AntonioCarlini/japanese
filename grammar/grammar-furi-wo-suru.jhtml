@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{furiwosuru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{furiwosuru}}" grammar="@HI{{furiwosuru}} (suffix)"}}
+
+<body>
+
+<h1>@HI{{furiwosuru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{no@EM{{furiwosuru}}}}
+<li> @Ai{{}}@HI{{no@EM{{furiwosuru}}}}
+<li> @Ana{{}}@HI{{no@EM{{furiwosuru}}}}
+<li> @N{{}}@HI{{no@EM{{furiwosuru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{furiwosuru}} follows a verb, noun or adjective to express a behaviour that may not be accurate or true.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}hasonokotonitsuiote@KJ{{know}}tteiru@EM{{furiwoshiteiru}}ga,@KJ{{book^hit}}ha@KJ{{know}}ranaito@KJ{{think}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He pretends to know about it but I don't think he really does.
+  </td> </tr>
+</table>
+</ol>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
