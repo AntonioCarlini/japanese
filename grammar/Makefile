@@ -454,6 +454,7 @@ JHTML_SRCS += grammar-tashika-ni-ga.jhtml
 JHTML_SRCS += grammar-tatoe-temo.jhtml
 JHTML_SRCS += grammar-tatte.jhtml
 JHTML_SRCS += grammar-te-aru.jhtml
+JHTML_SRCS += grammar-te-bakari-wa-irarenai.jhtml
 JHTML_SRCS += grammar-te-causative-itadakemasenka.jhtml
 JHTML_SRCS += grammar-te-causative-itadakitai.jhtml
 JHTML_SRCS += grammar-te-cause.jhtml

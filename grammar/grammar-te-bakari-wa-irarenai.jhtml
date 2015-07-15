@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sugu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tebakarihairarenai}}" grammar="@HI{{@Vte{{}}bakarihairarenai}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}bakarihairarenai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vte{{}}@HI{{@EM{{bakarihairarenai}}}}
+<li> @NS{{}}@HI{{shite@EM{{bakarihairarenai}}}}
+<li> @NS{{}}@HI{{@EM{{bakarihashiteirarenai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}bakarihairarenai}}}} is a phrase that expresses the idea that someone cannot just keep doing something or waste time being consumed by some emotion.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{assurance}}:tashi}}kanikoreha@FG{{@KJ{{deep^engrave}}:shinkoku}}ha@FG{{@KJ{{matter^attitude}}:jitai}}daga,@FG{{@KJ{{deliberation^argument}}:giron'}}@EM{{bakarishiteirarenai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Indeed this is a serious situation, but we cannot keep just discussing it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}bakarihairarenai}}}} is the negative potential form of @Vte@HI{{bakariiru}}. It is used when someone realises that continuing to do something or continuing to dwell on something
+is counter-productive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{overdo^gone}}:kako}}no@FG{{@KJ{{profession^exploits}}:gyouseki}}ni@FG{{@KJ{{relax^dwell}}:anjuu}}shi@EM{{tebakarihairarenai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We just cannot be content with our past performance.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When this pattern is used with @NS{{}} or the verb is preceded by a noun with a particle or by a direct object , @HI{{bakari}} may appear in various positions.
+is counter-productive.
+</p>
+
+<p>
+@HI{{bakari}} may follow the @HI{{suru}} verb stem.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{person}}no@FG{{@KJ{{turn*into^achievement}}:seikou}}ni@FG{{@KJ{{emotion^heart}}:kanshin'}}@EM{{bakari}}shite@EM{{hairarenai}}.
+      @FG{{@KJ{{ego^noma}}:wareware}}momotto@FG{{@KJ{{stubborn^lengthen}}:ganba}}ranakereba.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We can't just sit around being impressed by someone else's success. We have to work harder too.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{bakari}} may follow the object.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hinder^harm}}:shougai}}no@FG{{@KJ{{meadow^cause}}:genin'}}@EM{{bakari}}@KJ{{consider}}ete@EM{{moirarenai}}.
+      @FG{{@KJ{{early^hurry}}:soukyuu}}ni@FG{{@KJ{{lose}}:ushina}}wareta@KT{{de-ta}}wo@FG{{@KJ{{-times^restore}}:kaifuku}}suru@FG{{@KJ{{invariably^need}}:hitsuyou}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We can't just keep thinking about what caused the trouble. We have to recover the lost data immediately.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{bakari}} may follow the particle.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}ni@EM{{bakari}}@KJ{{time^interval}}wokakete@EM{{hairarenai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I can't spend all my time studying Japanese.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The form with @HI{{mo}} in place of @HI{{ha}}, i.e. @HI{{@EM{{@Vte{{}}bakarimoirarenai}}}}, is often used.
+The only difference is that the form with @HI{{ha}} carries the nuance that the subject is doing just one thing or experiencing just one feeling,
+whereas the form with @HI{{mo}} carries no such nuance.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{retreat^post}}:taishoku}}shite@FG{{@KJ{{remote^noma^oneself^suitable}}:yuuyuujiteki}}no@FG{{@KJ{{life^lively}}:seikatsu}}gadekiruyouninattaga,
+      @KJ{{house}}nibakarikomoxtsu@EM{{temoirarenai}}node@KT{{borantexia}}no@KJ{{attend^matter}}wo@FG{{@KJ{{commence}}:haji}}meta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Now that I'm retired I can live as I like, but I just can't stay at home, so I've begun to do volunteer work.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 600).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
