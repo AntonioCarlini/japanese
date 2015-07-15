@@ -8,6 +8,10 @@
 </head>
 
 @GRMIDX{{index="@HI{{tehoshii}}" grammar="@Vte{{}}@HI{{hoshii}}"}}
+@GRMIDX{{index="@HI{{naidehoshii}}" grammar="@Vnai{{}}@HI{{dehoshii}}"}}
+@GRMIDX{{index="@HI{{temoraitagatteiru}}" grammar="@Vte{{}}@HI{{moraitagatteiru}}"}}
+@GRMIDX{{index="@HI{{temoraitai}}" grammar="@Vte{{}}@HI{{moraitai}}"}}
+@GRMIDX{{index="@HI{{teitadakitai}}" grammar="@Vte{{}}@HI{{itadakitai}}"}}
 
 <body>
 
@@ -52,7 +56,7 @@ This construction <em>cannot</em> be used when the speaker wants someone of high
 </p>
 
 <p>
-When the person whom the speaker wants to perform an action is the third person, then @Vte{{}}@HI{{moraitagatteiru}}
+<a name="3rd-person">When the person whom the speaker wants to perform an action is the third person, then @Vte{{}}@HI{{moraitagatteiru}}
 is used.
 
 <table class="sentence">
@@ -66,7 +70,20 @@ is used.
 </p>
 
 <p>
-When the speaker wants someone of higher status to do something he uses @Vte{{}}@HI{{itadakitai}}.
+<a name="moraitai">@Vte{{}}@HI{{moraitai}}</a> expresses the same idea as @Vte{{}}@HI{{hoshii}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}haanatani@FG{{@KJ{{England^word}}:eigo}}wo@KJ{{teach}}etemoraitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want you to teach me English.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="itadakitai">When</a> the speaker wants someone of higher status to do something he uses @Vte{{}}@HI{{itadakitai}}.
 
 <table class="sentence">
   <tr class="jp"> <td>

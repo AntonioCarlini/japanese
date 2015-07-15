@@ -1,5 +1,6 @@
 
 JHTML_SRCS += grammar-activity-time.jhtml
+JHTML_SRCS += grammar-adj-mi.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-adverb-naru.jhtml
 JHTML_SRCS += grammar-adverbs-of-degree.jhtml
@@ -74,6 +75,7 @@ JHTML_SRCS += grammar-douse.jhtml
 JHTML_SRCS += grammar-douyatte.jhtml
 JHTML_SRCS += grammar-eru-suffix.jhtml
 JHTML_SRCS += grammar-expressing-time.jhtml
+JHTML_SRCS += grammar-furi-wo-suru.jhtml
 JHTML_SRCS += grammar-fuu-ni.jhtml
 JHTML_SRCS += grammar-ga-conjunction.jhtml
 JHTML_SRCS += grammar-gachi.jhtml
