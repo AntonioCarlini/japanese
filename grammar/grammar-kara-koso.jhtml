@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karakoso}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karakoso}}" grammar="@HI{{karakoso}}"}}
+
+<body>
+
+<h1>@HI{{karakoso}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{karakoso}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karakoso}}}} is conjunction that emphasises reason.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@FG{{@KJ{{love}}:ai}}]gaaru@EM{{karakoso}}@KJ{{life}}kiru@FG{{@KJ{{rejoice}}:yoroko}}bigaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Only because there is love is there joy for living.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{karakoso}}}} may be used in a negative clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{England^word}}ga@FG{{@KJ{{above^hand}}:jouzu}}ni@KJ{{tale}}senai@EM{{karakoso}}@KJ{{person}}yori@FG{{@KJ{{too*much^plot}}:yokei}}ni@FG{{@KJ{{practice^learn}}:renshuu}}shinakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is precisely because you can't speak English well that you need to practice more than other people.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 27).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
