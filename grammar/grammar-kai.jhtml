@@ -48,6 +48,35 @@
 
 @BGRND{{}}
 <p>
+<a name="not-worth">The pattern @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}ganai}}}}</a> indicates that something was not worth the effort.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sekkaku@FG{{@KJ{{wealth^gentleman^mountain}}:fujisan'}}ni@FG{{@KJ{{ascend}}:nopbo}}ttanoni@FG{{@KJ{{place*on*the*head^above}}:choujou}}karaha@KJ{{below}}ga
+      @FG{{@KJ{{whole^sort*of*thing}}:zenzen'}}@KJ{{see}}ezu,@KJ{{ascend}}tta@EM{{kaiganakatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I climbed Mt. Fuji with great effort, but I couldn't see anything from the summit, so it wasn't worth it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="despite">The pattern @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}(mo)naku}}}}<a> indicates that despite something being done, the outcome was not positive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{younger*brother}}ha@FG{{@KJ{{watch*over^ill}}:kanbyou}}no@EM{{kai(mo))naku}}5@FG{{@KJ{{year-end}}:sai}}no@KJ{{short}}i@FG{{@KJ{{life^horizon}}:shougai}}wo@FG{{@KJ{{close}}:to}}jita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+     In spite of all the medical care, my little brother's life ended when he was only five.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 <a name="gai">When</a> used as a suffix for a @HI{{masu}}-stem, @HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} changes phonetically from @HI{{kai}} to @HI{{gai}}.
 
 <table class="sentence">

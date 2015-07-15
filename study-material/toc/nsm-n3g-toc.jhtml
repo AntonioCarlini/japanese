@@ -280,7 +280,7 @@
 <li> <a href="grammar-tsumari.html">@HI{{tsumari}}</a>
 <li> @HI{{kono dame}}
 <li> <a href="grammar-kekka.html">@HI{{konokekka}}</a>
-<li> @HI{{nazenara}}
+<li> <a href="grammar-naze-nara-ba-kara-da.html">@HI{{nazenara}}~@HI{{karada}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w5d1">_</a> @KJ{{No.}}5@KJ{{week}}1@KJ{{day^eye}} </h2>
@@ -329,7 +329,7 @@
 <h2><a class="navtarget" name="w5d6">_</a> @KJ{{No.}}5@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{dakedo}}
+<li> <a href="grammar-da-kedo.html">@HI{{dakedo}}</a>
 <li> @HI{{desukara}}
 <li> <a href="grammar-tokoro-ga.html">@HI{{tokoroga}}</a>
 <li> <a href="grammar-tokoro-de.html">@HI{{tokorode}}</a>

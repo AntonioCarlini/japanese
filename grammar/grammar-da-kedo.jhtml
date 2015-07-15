@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dakedo"}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dakedo}}" grammar="@HI{{dakedo}}"}}
+
+<body>
+
+<h1>@HI{{dakedo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{dakedo}}, @S{{}}}}
+<li> @N{{}}@HI{{@EM{{dakedo}}}}
+<li> @Vplain{{}}@HI{{@EM{{dakedo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dakedo}}}} is a  conjunction that can appear at the start of a sentence to mean "but" or "however".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{car}}gatotemo@FG{{@KJ{{longing}}:ho}}shii.@EM{{dakedo}}@KJ{{tall}}sugiruyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I want that car very much. However, it's too expensive for me.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dakedo}}}} may appear at the end of a clause, following adjectives or nouns.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^day}}ha@KJ{{rain}}@EM{{dakedo}}yappari@KJ{{exit}}kakemasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Will you go out (as arranged), even though it is rainy today.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{dakedo}}}} may appear after verbs and adjectives in the @HI{{nai}} and @HI{{ta}} forms. In this case it appears with the explanatory @HI{{no}} or @HI{{n}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{tall}}kattan@EM{{dakedo}}soushitemo@KJ{{longing}}shikattandesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was expensive but I really wanted it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{EJG}}. (p. 157).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
