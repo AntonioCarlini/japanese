@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{youni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{youni}}" grammar="@HI{{youni}} (intro)"}}
+
+<body>
+
+<h1>@HI{{youni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@EM{{youni}}}}, @S{{}}
+<li> @Vplain{{}}@HI{{@EM{{youni}}}}, @S{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+This sentence pattern is used at the beginning of a sentence as an introduction to something already known or understood.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{all^Esq.}}:minasama}}go@FG{{@KJ{{exist}}:zon'}}jino@EM{{youni}},
+      @FG{{@KJ{{test^verification}}:shiken'}}no@FG{{@KJ{{inside^contain}}:naiyou}}ga@FG{{@KJ{{unusual}}:ka}}warimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As you are all aware, the content of the exam will change.
+  </td> </tr>
+</table>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NKZM-N3G}}. (p. 71)
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
