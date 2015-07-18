@@ -24,18 +24,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 Contrary to the expectations set by the clause preceding @HI{{@EM{{noni}}}}, the clause following @HI{{@EM{{noni}}}} is actually the case.
-</p>
 
-<p>
-The speaker is in some way personally involved with the preceding clause.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{every^day Sino-^character}}wo @KJ{{exertion^study}}shite iru @EM{{noni}} yoku @KJ{{memorize}}eraremasenn.}}
@@ -44,9 +38,29 @@ The speaker is in some way personally involved with the preceding clause.
     Even though I study kanji every day I cannot memorise them well.
   </td> </tr>
 </table>
-</ol>
+</p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{noni}}}} can be used at the end of a sentence to indicate a sense of dissatisfaction.
+This is essentially the same usage but with the second clause omitted as it is understood from the context.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{exertion^study}}woshinasaitoitta@EM{{noni}}@JDOTS3{{}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I told you to study! [you didn't and are now in trouble]
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 <h2> Notes </h2>
+
+<p>
+The speaker is in some way personally involved with the preceding clause.
+</p>
 
 <p>
 @HI{{@EM{{noni}}}} carries some emotive overtones.
@@ -65,14 +79,17 @@ that precedes @HI{{ga}} may be in the polite style if the main clause is also in
 </ul>
 </p>
 
+<p>
 @HI{{@EM{{noni}}}} cannot be used when the main clause suggests a possibility, it
 can only be used when something actually happened.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 331).
 <li> @REF{{MNN-TR-II}}. (Chapter 45).
+<li> @REF{{AAP}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}

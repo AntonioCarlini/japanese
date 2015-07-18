@@ -21,35 +21,34 @@
 
 <h2> Definition </h2>
 
+<p>
 The main clause following @HI{{@EM{{noni}}}} expresses something necessary for the preceding clause to come about.
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono @KT{{repo-to}}wo @KJ{{write}}ku @EM{{noni}} @KJ{{one}}ka@KJ{{month}}kakarimashita.}}
+    @HI{{kono@KT{{repo-to}}wo @KJ{{write}}ku@EM{{noni}}@KJ{{one}}ka@KJ{{month}}kakarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     It took me a month to write this paper.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
+<p>
 With @HI{{@EM{{noni}}}} only nonpast volitional verbs in the plain form may be used.
-<p></p>
+</p>
 
+<p>
 When the verb is one of motion and no location is specified @HI{{@EM{{noni}}}} cannot be used. In this case use V@HI{{masu ni}} instead.
-<p></p>
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 335).
+<li> @REF{{AAP}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}
