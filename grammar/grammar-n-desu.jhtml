@@ -118,6 +118,36 @@ The following pattern may be used to state a result that has arisen because of a
 </table>
 </p>
 
+<p>
+<a name="njanaidesuka">In</a> informal speech, @HI{{@EM{{njanaidesuka}}}} can be used to express the speaker's thoughts.
+
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{beginning^spirit}}:genki}}ganaidesune.@KJ{{what}}ga@FG{{@KJ{{quandry}}:koma}}tteirukotogaaru@EM{{njanaidesuka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You look a bit glum. Is something bothering you, I wonder?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="njanai">@HI{{@EM{{njanaidesuka}}}}</a> may be further shortened to @HI{{@EM{{njanai}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tawapon'}}san,@FG{{@KJ{{few}}:suko}}shi@FG{{@KJ{{plump}}:futo}}ttanjanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Thawapon, you've put on a little weight haven't you?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="nodewanaideshouka">@HI{{@EM{{njanaidesuka}}}}</a> is replaced by @HI{{@EM{{nodehanaideshouka}}}}.
+</p>
 
 <h2> Notes </h2>
 
@@ -137,6 +167,7 @@ and may therefore cause offence. It should be used with care.
 <li> @REF{{DOBJG}}. (p. 325).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -116,6 +116,9 @@ tr.hg:hover
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @HI{{@EM{{ko-}}}} demonstratives generally relate to something near to the speaker, either physically or emotionally.
 </p>
@@ -167,6 +170,7 @@ set of <em>three</em> or more things.
 </p>
 
 
+@BGRND{{}}
 <p>
 <a name="kono">@HI{{@EM{{kono}}}}</a>, @HI{{@EM{{sono}}}} and @HI{{@EM{{ano}}}} are
 pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with a following noun to ask "which" noun.
@@ -213,6 +217,7 @@ pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="donna">@HI{{@EM{{donnna}}}}</a> is used with a following noun to mean "what kind of". 
 It can also be used to ask the listener to name one of a group which the following noun describes describes.
@@ -245,16 +250,19 @@ It can also be used to ask the listener to name one of a group which the followi
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
-<a name="koko">@HI{{@EM{{koko}}}}</a>, @HI{{@EM{{soko}}}} and <stron>@HI{{asoko}}</strong> refer to a place.
+<a name="koko">@HI{{@EM{{koko}}}}</a>, @HI{{@EM{{soko}}}} and @HI{{@EM{{asoko}}}} refer to a place.
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kochira">@HI{{@EM{{kochira}}}}</a>, <stron>@HI{{sochira}}</strong> and @HI{{@EM{{achira}}}} are demonstratives
 that refer to a direction. They can also be used to refer to a place, in which case they are considered more
 polite than @HI{{@EM{{koko}}}}, @HI{{@EM{{soko}}}} and @HI{{@EM{{asoko}}}}.
 </p>
 
+@BGRND{{}}
 <p>
 <a name="doko">@HI{{@EM{{doko}}}}</a> means "where" and @HI{{@EM{{dochira}}}} means "which direction".
 @HI{{@EM{{dochira}}}} can also mean "where", in which case it is more polite than
@@ -262,6 +270,65 @@ polite than @HI{{@EM{{koko}}}}, @HI{{@EM{{soko}}}} and @HI{{@EM{{asoko}}}}.
 @HI{{@EM{{doko}}}} or @HI{{@EM{{dochira}}}} are also used to ask the name of a country, school,
 company or any place or organisation to which a person belongs. @HI{{nann}} cannot be
 used for this purpose.
+</p>
+
+@BGRND{{}}
+<p>
+<a name="a-conv">@HI{{a}}- demonstratives can also refer to something that has cropped up in conversation or appears in a text.
+They refer to something directly known to both the speaker and the listener.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{sakki,@FG{{@KJ{{mountain^book}}:yamamoto}}san'ni@FG{{@KJ{{meeting}}:a}}ttayo.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{e,@EM{{ano}}@FG{{@KJ{{person}}:hito}},@KJ{{now^day^book}}niirundesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: I met Mr. Yamamoto just now.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Oh? Is he in Japan now?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="so-conv">@HI{{so}}- demonstratives can also refer to something that has cropped up in conversation or appears in a text.
+They refer to something known only to the speaker or only to the listener.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{sakki,@FG{{@KJ{{map^write^Bldg.}}:toshokan'}}de@KT{{maria}}santoiu@KJ{{person}}ni@KJ{{meeting}}ttandakedone.
+      @EM{{sono}}@KJ{{person}},kono@KJ{{study^exam}}de@KJ{{day^book^go}}wo@KJ{{exertion^strong}}shitandatte.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{soudesuka.@EM{{sono}}@KJ{{person}}ha@KJ{{what^year-end}}guraidesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: I met someone called Maria in the library just now. She said she had studied Japanese at this school.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Really? How old is she?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="so-written">@HI{{so}}- demonstratives in writing can refer to the previous sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{igirisu}}no@FG{{@KJ{{person^spirit}}:ninki}}@FG{{@KJ{{little^explanation}}:shousetsu}}ga
+      @KJ{{day^book^word}}ni@FG{{@KJ{{flip^translate}}:hon'yaku}}saremashita.
+      @EM{{sore}}ga@FG{{@KJ{{now^year}}:kotoshi}}@KJ{{day^book}}de@KT{{besutosera-}}ninarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A popular English novel was translated into Japanese. Now it's become a bestseller in Japan this year.
+  </td> </tr>
+</table>
 </p>
 
 <h2> Notes </h2>
@@ -281,6 +348,7 @@ as though it really existed then and there.
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-TR-I}}. (Chapter 16).
 <li> @REF{{MNN-TR-I}}. (Chapter 31).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}

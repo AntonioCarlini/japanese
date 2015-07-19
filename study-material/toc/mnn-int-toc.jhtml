@@ -113,14 +113,14 @@
 <h2><a class="navtarget" name="chapter5">_</a>Chapter 5</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{a}}/@HI{{so}}
-<li> <a href="grammar-.html"></a>@HI{{so}}
-<li> <a href="grammar-.html"></a>@HI{{njanai}}?
-<li> <a href="grammar-.html"></a>@Vta{{}}@HI{{tokoro}}
+<li> <a href="grammar-kosoado.html#a-conv">@HI{{a}}</a> @MIDDOT{{}}  <a href="grammar-kosoado.html#so-conv">@HI{{so}}</a>
+<li> <a href="grammar-kosoado.html#so-written">@HI{{so}}</a>
+<li> <a href="grammar-n-desu.html#thinking">@HI{{njanai}}?</a>
+<li> <a href="grammar-tokoro.html#position">@Vta{{}}@HI{{tokoro}}</a>
 <li> <a href="grammar-volitional-to-suru.html">@Vyou{{}}@HI{{tosuru}}/@Vyou{{}}@HI{{shinai}}</a>
 <li> <a href="grammar-deshou-ka.html#darouka">@HI{{nodarouka}}</a>
-<li> <a href="grammar-.html"></a>@N{{}}@HI{{tono}}/@N{{}}@HI{{deno}}/@N{{}}@HI{{karano}}/
-    @N{{}}@HI{{madeno}}/@N{{}}@HI{{heno}}
+<li> <a href="grammar-noun-modification-by-word-plus-particle.html">@N{{}}@HI{{tono}} @MIDDOT{{}} @N{{}}@HI{{deno}} @MIDDOT{{}}
+     @N{{}}@HI{{karano}} @MIDDOT{{}} @N{{}}@HI{{madeno}} @MIDDOT{{}} @N{{}}@HI{{heno}}</a>
 <li> ~<a href="grammar-deshou.html">@HI{{darou}}</a> @MIDDOT{{}}
      ~<a href="grammar-deshou.html#think">@HI{{darouto@KJ{{think}}u}}</a>
 <li> <a href="grammar-kara-te-kudasai.html">@HI{{kara,}} ~ @Vte{{}}@HI{{kudasai}}</a>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@N{{}}@PRT{{}}no}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="noun + particle + @HI{{no}}" grammar="@HI{{@N{{}}@PRT{{}}no}}"}}
+
+<body>
+
+<h1>@HI{{@N{{}}@PRT{{}}no}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{@N{{}}@PRT{{}}no}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When a word with a particle other than @HI{{ni}}, @HI{{ga}} or @HI{{wo}} attached is used to modify a noun, @HI{{no}} is appended to the particle.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{friend^accomplihsed}}:tomodachi}}@EM{{tono}}@FG{{@KJ{{north^sea^road}}:hokkaidou}}@FG{{@KJ{{trip^going}}:ryokou}}ha,
+      totemo@FG{{@KJ{{music}}:tano}}shikattadesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The trip to Hokkaido with my friends was very enjoyable.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a word with the particle @HI{{ni}} attached is used to modify a noun, the @HI{{ni}} becomes @HI{{he}} and @HI{{no}} is appended.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{before^life}}@EM{{heno}}o@FG{{@KJ{{soil^products}}:miyage}}ha@KJ{{what}}gaiideshouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wonder what would make a good souvenir for our teacher?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+When a word with the particle @HI{{ga}} or @HI{{wo}} attached is used to modify a noun, @HI{{no}} is not appended.
+</p>
+
+> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -302,6 +302,7 @@ JHTML_SRCS += grammar-node.jhtml
 JHTML_SRCS += grammar-nominarazu.jhtml
 JHTML_SRCS += grammar-noni-although.jhtml
 JHTML_SRCS += grammar-noni-purpose.jhtml
+JHTML_SRCS += grammar-noun-modification-by-word-plus-particle.jhtml
 JHTML_SRCS += grammar-noun-sentences.jhtml
 JHTML_SRCS += grammar-nu-archaic-negative.jhtml
 JHTML_SRCS += grammar-o-desu.jhtml
