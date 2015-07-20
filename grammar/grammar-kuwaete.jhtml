@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{add}}ete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kuwaete}}" grammar="@HI{{@FG{{@KJ{{add}}:kuwa}}ete}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{add}}:kuwa}}ete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N1{{}},@N2{{}}@JDOTS3{{}}@HI{{@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}}}@N{{}}
+<li> @S1{{}}@HI{{.(soreni)@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}@S2{{}}.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}}} is a conjunction that means "in addition to what has just been mentioned".
+It is the @HI{{te}}-form of the verb @HI{{@FG{{@KJ{{add}}:kuwa}}ete}}, "to add".
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}}} may be used to combine nouns.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{winter}}no@KT{{amerika}}@FG{{@KJ{{east^section}}:toubu}}ha@KJ{{snow}},@KJ{{rain}}@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}@FG{{@KJ{{strong^wind}}:kyoufuu}}no@FG{{@KJ{{incur^harm}}:higai}}ga@KJ{{large}}kikatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This winter the East Coast of the US suffered terribly fro snow, rain and, in addition, strong winds.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{add}}:kuwa}}ete}}}} may be used to combine sentences. @HI{{soreni}}may optionally come before @HI{{@KJ{{add}}ete}}, to refer back to the content of the previous sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{environs}}:hen'}}ha@FG{{@KJ{{thing^value}}:bukka}}ga@KJ{{relax}}i.
+      (soreni)@HI{{@KJ{{add}}ete}}@FG{{@KJ{{oneself^sort*of*thing^ring^boundary}}:shizenkankyou}}mosubarashii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Things are inexpensive in this neighbourhood. What's more , the natural environment is amazing.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 240).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
