@@ -30,7 +30,7 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{@EM{{bakari}}}} is a particle which is indicates which carries the idea of only or of "just done", ""just doing" or "about to do".
+@HI{{@EM{{bakari}}}} is a particle which is indicates which carries the idea of only or of "just done", "just doing" or "about to do".
 </p>
 
 @BGRNDSTART{{}}
@@ -53,6 +53,7 @@ speaker's feeling that determines whether the action is recent or not.
 @BGRND{{}}
 <p>
 <a name="happening">@Vte{{}}</a>@HI{{@EM{{bakari}}}} indicates that something is being done, with a nuance that nothing else is being done.
+The action is happening habitually or repeatedly and the speaker is critical or dissatisfied.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -60,6 +61,21 @@ speaker's feeling that determines whether the action is recent or not.
   </td> </tr>
   <tr class="en"> <td>
     Harue is crying and won't talk about anything.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="happening-noun">When</a> used with a transitive verb, the same feeling can be conveyed with the
+sentence pattern @N{{}}@HI{{@EM{{bakari}}@Vte{{}}iru}}.
+
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{younger*brother}}haitsumo@KT{{konpyu-ta-ge-mu}}@EM{{bakari}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Almost all my younger brother does is play computer games.
   </td> </tr>
 </table>
 </p>
@@ -179,6 +195,7 @@ When @HI{{@EM{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 <li> @REF{{AAP}}. (p. 78).
 <li> @REF{{NKZM-N2G}}. (p. 12).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}
