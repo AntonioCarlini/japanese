@@ -138,8 +138,9 @@
 <li> <a href="grammar-.html"></a>~ @Vta{{}}@HI{{tsumori}}/@Vte{{}}@HI{{irutsumori}}
 <li> <a href="grammar-.html"></a>~ @Vte{{}}@HI{{bakariiru}}/~ @HI{{bakari}} ~ @Vte{{}}@HI{{iru}}
 <li> <a href="grammar-particle-toka.html#sentences">@HI{{toka}}</a>
-<li> <a href="grammar-.html"></a>~ @Vte{{}}@HI{{kuru}}
-<li> <a href="grammar-.html"></a>~ @Vte{{}}@HI{{kuru}}/~ @Vte{{}}@HI{{iku}}
+<li> ~<a href="grammar-te-kuru.html#advent">@Vte{{}}@HI{{kuru}}</a>
+<li> ~<a href="grammar-te-kuru.html#direction">@Vte{{}}@HI{{kuru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-te-iku.html#direction">@Vte{{}}@HI{{iku}}</a>
 <li> <a href="grammar-kosoado.html#ko-context">@HI{{ko}}~</a>
 </ol>
 

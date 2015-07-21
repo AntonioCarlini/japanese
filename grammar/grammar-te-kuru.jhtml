@@ -95,6 +95,34 @@ the current point in time. This usage applies to any non-puntual verb.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="advent">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can indicate that a new event has happened and as a result something has now become perceptible.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{dark}}:kura}}kunatte,@FG{{@KJ{{star}}:hoshi}}ga@KJ{{see}}e@EM{{tekita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    It grew dark and the stars came out.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="direction">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a>, when used with a verb of motion, can indicate motion towards the speaker.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{elder*brother}}ga@FG{{@KJ{{trip^going}}:ryokou}}kara@FG{{@KJ{{homecoming}}:kae}}@EM{{ttekita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    My older brother came back from his trip.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -109,7 +137,7 @@ the experiencer of the action must be the speaker or someone with whom the speak
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 <li> @REF{{DOBJG}}. (p. 221).
-
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

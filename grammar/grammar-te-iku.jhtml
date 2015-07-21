@@ -65,6 +65,20 @@ The point in time at which the change starts may be in the past.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="direction">@EM{{@Vte{{}}@KJ{{going}}@HI{{ku}}}}</a>, when used with a verb of motion, can indicate motion away from the speaker.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{impart^profession}}:jugyou}}noato,@KJ{{study^life}}tachihauchihe@FG{{@KJ{{homecoming}}:kae}}@EM{{tteitta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    After the lesson, the students went home.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -74,6 +88,7 @@ The point in time at which the change starts may be in the past.
 <ol>
 <li> @REF{{DOBJG}}. (p. 151).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}
