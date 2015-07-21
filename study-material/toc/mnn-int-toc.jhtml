@@ -135,7 +135,8 @@
 <li> ~<a href="grammar-tte-topic.html">@HI{{tte}}</a>
 <li> ~<a href="grammar-tsumori.html#negative">@HI{{tsumorihanai}}</a>
 <li> ~<a href="grammar-tsumori.html#past">@HI{{tsumoridatta}}</a>
-<li> <a href="grammar-.html"></a>~ @Vta{{}}@HI{{tsumori}}/@Vte{{}}@HI{{irutsumori}}
+<li> ~<a href="grammar-tsumori.html#thinks-but-unknown-past">@Vta{{}}@HI{{tsumori}}</a> @MIDDOT{{}}
+     ~<a href="grammar-tsumori.html#thinks-but-unknown-cont">@Vte{{}}@HI{{irutsumori}}</a>
 <li> <a href="grammar-.html"></a>~ @Vte{{}}@HI{{bakariiru}}/~ @HI{{bakari}} ~ @Vte{{}}@HI{{iru}}
 <li> ~<a href="grammar-particle-toka.html#sentences">@HI{{toka}}</a>
 <li> ~<a href="grammar-te-kuru.html#advent">@Vte{{}}@HI{{kuru}}</a>

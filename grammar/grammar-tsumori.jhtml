@@ -21,6 +21,8 @@
 <li> @Ai{{}}@HI{{@EM{{tsumori}}desu}}
 <li> @Ana{{}}@HI{{@EM{{tsumori}}desu}}
 <li> @N{{}}@HI{{no@EM{{tsumori}}desu}}
+<li> @Vta{{}}@HI{{@EM{{tsumori}}}}
+<li> @Vte{{}}@HI{{iru@EM{{tsumori}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -78,6 +80,35 @@ This form may also be used with a negative verb to indicate that one had intende
   </td> </tr>
   <tr class="en"> <td>
       I had intended not to go to the party, but it looked like it would be fun, so I decided to go after all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="thinks-but-unknown-past">@Vta{{}}@HI{{@EM{{tsumori}}}}</a> inicates that the agent thinks that something is the case but in reality it may not be
+the case at all or it may be unknown whether it is the case or not.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{outside^country^word}}:gaikokugo}}wo@FG{{@KJ{{practice^learn}}:renshuu}}surutokiha,@FG{{@KJ{{little}}:chii}}sana@KJ{{child}}domoninatta@EM{{tsumori}}de,
+      @KJ{{large}}kina@FG{{@KJ{{voice}}:koe}}wo@FG{{@KJ{{exit}}:da}}shitemirutoii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When practicing a foreign language, it is best to try speaking in  aloud voice, as if one were a small child.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="thinks-but-unknown-cont">@Vte{{}}@HI{{iru@EM{{tsumori}}}}</a> has the same meaning as @Vta{{}}@HI{{@EM{{tsumori}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{one^place^suspend^fate}}:isshokenmei}}yatteiru@EM{{tsumori}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think I'm trying really hard.
   </td> </tr>
 </table>
 </p>
