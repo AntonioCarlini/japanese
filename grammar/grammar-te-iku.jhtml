@@ -21,13 +21,16 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@Vte{{}}@KJ{{going}}@HI{{ku}} indicates that some change starts from the point in time that the speaker describes the action and
+<a name="to-future">@Vte{{}}@KJ{{going}}@HI{{ku}}</a> indicates that some change starts from the point in time that the speaker describes the action and
 continues into the future.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{korekaraha@KJ{{cold}}kunatte@KJ{{going}}kimasuyo.}}
+      @HI{{korekaraha@KJ{{cold}}kuna@EM{{tte@KJ{{going}}kimasu}}yo.}}
   </td> </tr>
   <tr class="en"> <td>
       It's going to become colder from now on.
@@ -40,13 +43,29 @@ The point in time at which the change starts may be in the past.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{part}}karanaikotowo@KT{{no-to}}ni@KJ{{write}}ite@KJ{{going}}tta.}}
+      @HI{{@KJ{{part}}karanaikotowo@KT{{no-to}}ni@KJ{{write}}@EM{{ite@KJ{{going}}tta}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I went on taking notes on things I didn't understand.
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="simple-and">@EM{{@Vte{{}}@KJ{{going}}@HI{{ku}}}}</a> can simply indicate "@Vte{{}} and then @KJ{{going}}@HI{{ku}}".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{every^day^meeting^company}}ni@KT{{basu}}@FG{{@KJ{{ride}}:no}}tte@KJ{{going}}ku.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I go to work by bus every day. @LIT{{I ride the bus every day and go to my company.}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

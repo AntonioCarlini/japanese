@@ -15,44 +15,50 @@
 
 <h2> Formation </h2>
 
-@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}
+<ol>
+<li> @EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}
+</ol>
 
 <h2> Definition </h2>
 
-<p>
-@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}} means to go somewhere, perform an action and return.
-If necessary, the place where the remote action happens can be indicated by @HI{{de}}.
-If the purpose is to go somewhere and move something, then @HI{{kara}} is used instead.
+@BGRNDSTART{{}}
 
-<ol>
-<li>
+@BGRND{{}}
+<p>
+<a name="do-and-return">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can mean to go somewhere, perform an action and return.
+If necessary, the place where the remote action happens can be indicated by @HI{{de}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{chotto tabakowo @KJ{{buy}}@EM{{tte @KJ{{come}}masu}}.}}
+    @HI{{chottotabakowo@KJ{{buy}}@EM{{tte@KJ{{come}}masu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I'm just popping out to buy some cigarettes.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+If the purpose is to go somewhere and move something, then @HI{{kara}} is used instead to indicate the place where the movement happens.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{pedestal^place}}kara @KT{{koppu}}wo @KJ{{take}}@EM{{tte @KJ{{come}}masu}}.}}
+    @HI{{@KJ{{pedestal^place}}kara@KT{{koppu}}wo @KJ{{take}}@EM{{tte @KJ{{come}}masu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I'm going to fetch a glass from the kitchen.
   </td> </tr>
 </table>
-</ol>
 </p>
 
+@BGRND{{}}
 <p>
-@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}} can indicate the beginning of a process when used with a verb
+<a name="process-start">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can indicate the beginning of a process when used with a verb
 that indicates a process that takes some time to finish (e.g. @HI{{wakaru}}, @HI{{naru}}, @HI{{futoru}} etc.).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{private}}ha@KT{{konpyu-ta-}}ga@KJ{{few}}shi@KJ{{part}}katte@KJ{{come}}mashita.}}
+    @HI{{@KJ{{private}}ha@KT{{konpyu-ta-}}ga@KJ{{few}}shi@KJ{{part}}ka@EM{{tte@KJ{{come}}mashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
     Now I have begun to understand computers.
@@ -60,13 +66,14 @@ that indicates a process that takes some time to finish (e.g. @HI{{wakaru}}, @HI
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="to-present">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can indicate the continuation of a process up to
 the current point in time. This usage applies to any non-puntual verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{private}}hairoiro@KJ{{day^book}}no@KJ{{curriculum^history^write}}wo@KJ{{read}}nde@KJ{{come}}mashita.}}
+    @HI{{@KJ{{private}}hairoiro@KJ{{day^book}}no@KJ{{curriculum^history^write}}wo@KJ{{read}}@EM{{nde@KJ{{come}}mashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
     Up to now I've been reading various Japanese histories.
@@ -74,12 +81,27 @@ the current point in time. This usage applies to any non-puntual verb.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="simple-and">@EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}}</a> can simply indicate "@Vte{{}} and then @KJ{{come}}@HI{{ru}}".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{private}}ha@KJ{{meeting^company}}ni@KT{{basu}}ni@FG{{@KJ{{ride}}:no}}tte@KJ{{come}}masu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I come to work by bus. @LIT{{I ride the bus and come to my company.}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-When @EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}} indicates the beginning of a process,
-the experiencer of the action must be the
-speaker or someone with whom the speaker empathises.
+When @EM{{@Vte{{}}@KJ{{come}}@HI{{ru}}}} indicates the beginning of a process or the continuation of a process,
+the experiencer of the action must be the speaker or someone with whom the speaker empathises.
 </p>
 
 <h2> References </h2>
