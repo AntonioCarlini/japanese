@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{no@KJ{{above}}deha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nouedeha}}" grammar="@HI{{no@FG{{@KJ{{above}}:ue}}deha}}"}}
+
+<body>
+
+<h1>@HI{{no@FG{{@KJ{{above}}:ue}}deha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{no@FG{{@KJ{{above}}:ue}}deha}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{no@FG{{@KJ{{above}}:ue}}deha}}}} has the meaning "as far as ~ is concerned".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{plot^brush-stroke}}:keikaku}}ha@FG{{@KJ{{write^sort}}:shorui}}@EM{{no@KJ{{above}}deha}}@FG{{@KJ{{question^topic}}:mondai}}nasasouda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There seems to be no problem with this plan as far as the documents are concerned.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{no@FG{{@KJ{{above}}:ue}}deha}}}} and <a href="grammar-ue-de.html">@HI{{@KJ{{above}}de}}</a> are unrelated grammatical points.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 312).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
