@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{semete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{semete}}" grammar="@HI{{semete}}"}}
+
+<body>
+
+<h1>@HI{{semete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{semete}}}} number + @CTR{{}}
+<li> @HI{{@EM{{semete}}}}@N{{}}@HI{{guraidemo}}
+<li> @HI{{@EM{{semete}}}}@N{{}}@HI{{dakedemo}}
+<li> @HI{{@EM{{semete}}}}@N{{}} @PRT{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{semete}}}} is an adverb that indicates the speaker's minimally satisfactory level.
+It expresses the idea of "at least". The speaker is aware that it is not possible to realise an ideal state and so indicates an acceptable level instead.
+The sentence should end in a direct or indirect expression of desire.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{semete}}@FG{{@KJ{{one^year}}:ichinen'}}ni@FG{{@KJ{{ten^day}}:tooka}}gurai,@FG{{@KJ{{rest^spare*time}}:kyuuka}}ga@FG{{@KJ{{take}}:to}}rerutoiindesuga.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wish I could take at least 10-day's leave each year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@FG{{@KJ{{few}}:suku}}nakutomo}} is another adverb that means "at least".
+The crucial difference between @HI{{@KJ{{few}}nakutomo}} and @HI{{@EM{{semete}}}} is that the former focusses on objective lower limits and carries no strong sense of desire.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 383).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{same^time}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{todoujini}}" grammar="@HI{{to@FG{{@KJ{{same^time}}:douji}}ni}}"}}
+
+<body>
+
+<h1>@HI{{to@FG{{@KJ{{same^time}}:douji}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}
+<li> @Vplain{{non-past}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}
+<li> @Anastem{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@Anastem{{}}@HI{{dearu.}}
+<li> @N{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@N{{}}@HI{{dearu.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}} is a phrase that can express the idea that something is done or takes place
+at the same time as some other action or event.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{section^room}}:heya}}ni@FG{{@KJ{{enter}}:hai}}ru@EM{{to@KJ{{same^Time}}ni}}@KJ{{electricity^tale}}ga@FG{{@KJ{{chirp}}:na}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The telephone rang (at the same time) as I entered the room.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}} is a phrase that can be used to state that someone or something is in two states at the same time.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}kono@KJ{{meeting^company}}no@FG{{@KJ{{company^long}}:shachou}}dearu@EM{{to@KJ{{same^Time}}ni}}@FG{{@KJ{{large^stocks^lord}}:ookabunushi}}demoaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is the president of this company and, at the same time, a big stockholder.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<p>
+@HI{{@EM{{to@@KJ{{same^time}}ni}}}} is not usually used with @HI{{i}}-adjectives.
+</p>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 471).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

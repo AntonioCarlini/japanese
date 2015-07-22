@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{no@KJ{{connection^person*in*charge}}de}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nokankeide}}" grammar="@HI{{no@FG{{@KJ{{connection^person*in*charge}}:kankei}}de}}"}}
+
+<body>
+
+<h1>@HI{{no@FG{{@KJ{{connection^person*in*charge}}:kankei}}de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{no@EM{{no@FG{{@KJ{{connection^person*in*charge}}:kankei}}de}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{no@FG{{@KJ{{connection^person*in*charge}}:kankei}}de}}}} is a phrase that indicates that something does or does not happen because of something else.
+It is used to refer to a causal relationship in very indirect way.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{ho-ru}}ha@KJ{{now^attend^matter}}no@KJ{{connection^person*in*charge}}de@KJ{{east^capital}}ni@KJ{{going}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Hall has gone to Tokyo on a business-related matter.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 302).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
