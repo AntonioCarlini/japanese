@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nebanaranai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nebanaranai}}" grammar="@HI{{nebanaranai}}"}}
+
+<body>
+
+<h1>@HI{{nebanaranai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vnaistem{{}}@HI{{@EM{{nebanaranai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nebanaranai}}}} is used in written Japanese or formal public speech to express obligation, duty or necessity.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}wo@KJ{{know}}rutameniha@FG{{@KJ{{one^degrees}}:ichido}}ha@KJ{{day^book}}heika@EM{{nebanaranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In order to know Japan one has to go to Japan at least once.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The form of @HI{{@EM{{nebanaranai}}}} used with @HI{{suru}} is @HI{{se@EM{{nebanaranai}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}hakorekara@FG{{@KJ{{generation^world}}:sekai}}wo@KT{{ri-do}}senebanarimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      From now on Japan has to lead the world.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+Although the levels of formality are different, @HI{{@EM{{nebanaranai}}}} has the same meaning as <a href="grammar-nakereba-naranai.html">@HI{{nakerebanaranai}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 232).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

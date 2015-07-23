@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{narini}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{narini}}" grammar="@HI{{narini}}"}}
+
+<body>
+
+<h1>@HI{{narini}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{ha}}@N{{}}@HI{{@EM{{narini}}}}
+<li> @N{{}}@HI{{hasore}}@HI{{@EM{{narini}}}}
+<li> @N{{}}@HI{{ha}}@N{{}}@HI{{@EM{{nari}}no}}@N2{{}}
+<li> @N{{}}@HI{{hasore}}@HI{{@EM{{nari}}no}}@N2{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{narini}}}} is a compound particle that expreses that something is in a style that is proper for that thing.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{private}}@EM{{narini}},@FG{{@KJ{{person^life^outlook}}:jinseikan'}}wo@KJ{{hold}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have my own outlook on life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{narini}}}} has a pre-nominal form, @HI{{@EM{{narino}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{jazzu}}@FG{{@KJ{{sound^music}}:ongaku}}ha@KT{{jazzu}}@KJ{{sound^music}}@EM{{narino}}@FG{{@KJ{{fascination^power}}:miryoku}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Jazz music has its own charm.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The second occurrence of the repeated noun can be replaced by @HI{{sore}} if it refers to an inanimate object.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{little}}sai@KJ{{large^study}}hasore@EM{{narini}}yosagaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Small colleges have their own merits.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 227).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
