@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mo~@Vba{{}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mo~@Vba{{}}}}" grammar="@HI{{mo~@Vba{{}}}}"}}
+
+<body>
+
+<h1>@HI{{mo~@Vba{{}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> number + @CTR{{}} @HI{{@EM{{mo@Vba{{}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mo~@Vba{{}}}}}} is a sentence pattern that expresses that a certain amount of something is sufficient to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{bi-ru}}ha@FG{{@KJ{{two}}:ni}}da-su@EM{{mo}}@KJ{{buy}}tteoke@EM{{ba}}@FG{{@KJ{{large^length^husband}}:daijoubu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As for beer, if we buy two dozen it should be OK.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Although it is less commonly used, @HI{{@EM{{mo~@Vta{{}}ra}}}} expresses the same idea.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{beauty^art^Bldg.}}:bijutsukan'}}ha@FG{{@KJ{{three^time^interval}}:sanjikan'}}@EM{{mo}}atta@EM{{ra}}@FG{{@KJ{{whole^section}}:zenbu}}@KJ{{see}}rareru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you have as many as three hours, you can see everything in this art museum.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 184).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

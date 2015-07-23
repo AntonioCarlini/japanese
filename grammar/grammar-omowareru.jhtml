@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{think}}wareru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{omowareru}}" grammar="@HI{{@FG{{@KJ{{think}}:omo}}wareru}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{think}}:omo}}wareru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
+<li> @Ana{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
+<li> @N{{}}@HI{{noyouni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
+<li> @Splain{{}}@HI{{to@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+In this usage @HI{{@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}} marks what the speaker feels spontaneously.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{ill^spirit}}:byouki}}no@FG{{@KJ{{reign^heal}}:chiryou}}ha@FG{{@KJ{{promise}}:yaku}}@KJ{{one}}ka@KJ{{month}}kakaruto@EM{{@KJ{{think}}wareru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It appears that the treatment of this disease will take approximately one month.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}} is also the passive form of @HI{{@KJ{{think}}u}}.
+The usage described here can be distinguished from the passive because the former does not have a true agent, whereas the agent can be marked by @HI{{ni}} in passive sentences.
+</p>
+
+<p>
+In the example below "everyone" (@HI{{min'na}}) considered Edison to be a fool and @HI{{min'na}} is marked by @HI{{ni}}, so in this sentence @HI{{@KJ{{think}}wareru}} is an example of the passive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{child^submit}}no@FG{{@KJ{{about*that*time}}:koro}},@KT{{ejison'}}hamin'nanibakadato@KJ{{think}}wareteita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When he was a child, Edison was considered a fool by everyone.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+In this example, adding an agent marked by @HI{{ni}} would produce an ungrammatical sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{come^year}}no@FG{{@KJ{{scenery^spirit}}:keiki}}ha@KJ{{now^year}}yorimoumoiiyouni@EM{{@KJ{{think}}wareru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It seems that the business conditions of the coming year will be better than those of this year.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When @HI{{@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}} indicates the speaker's thoughts or feelings, the agent is usually omitted.
+In order to say "it seems to me ...", use @HI{{@KJ{{private}}niha}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}niha,soreha@FG{{@KJ{{nothingness^burdensome}}:muda}}dato@EM{{@KJ{{think}}wareru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To me, it seems like a waste.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}} normally indicates the feelings of the speaker. However, it can indicate the feelings of a thrid party if the tense is in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{add^substitute^child}}:kayoko}}niha@FG{{@KJ{{tie^marriage}}:kekkon'}}hamada@FG{{@KJ{{dream}}:yume}}noyouni@EM{{@KJ{{think}}wareta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      For Kayoko, marriage still seemed like a dream.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 325).
+<li> @REF{{JPOD101-UI-S5-019}}
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
