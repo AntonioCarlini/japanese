@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ikanimo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ikanimo}}" grammar="@HI{{ikanimo}}"}}
+
+<body>
+
+<h1>@HI{{ikanimo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{ikanimo}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ikanimo}}}} is an adverb that indicates the speaker's emotive conviction. It is often translated as "truly" or "indeed".
+It often occurs with expressions such as <a href="grammar-sou-desu-appearance.html">@HI{{souda}}</a>,
+<a href="grammar-rashii.html">@HI{{rashii}}</a> and <a href="grammar-you-desu.html">@HI{{youda}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@FG{{@KJ{{discharge^concept}}:hassou}}ha@EM{{ikanimo}}@KJ{{day^book}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His way of thinking is very Japanese.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{ikanimo}}}} can be replaced by the slightly less formal @HI{{@FG{{@KJ{{book^hit}}:hontou}}ni}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 66).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
