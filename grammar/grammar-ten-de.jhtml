@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{spot}}(de)}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tende}}" grammar="@HI{{@FG{{@KJ{{spot}}:ten'}}de}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{spot}}:ten'}}(de)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> <em>demonstrative</em> @HI{{@EM{{@FG{{@KJ{{spot}}:ten'}}de}}}}
+<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{spot}}:ten'}}de}}}}
+<li> @Aistem{{}}@HI{{sa@EM{{@FG{{@KJ{{spot}}:ten'}}de}}}}
+<li> @Anastem{{}}@HI{{sa@EM{{@FG{{@KJ{{spot}}:ten'}}de}}}}
+<li> @Splain{{}}@HI{{toiu@EM{{@FG{{@KJ{{spot}}:ten'}}de}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{spot}}:ten'}}(de)}}}} is a noun that expresses the idea of a point of view or a point of argument.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{study^power}}:gakuryoku}}no@EM{{@KJ{{spot}}de}}hakono@KJ{{study^life}}ga@FG{{@KJ{{one^turn}}:ichiban'}}darou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With regard to scholarship, this student is probably the best.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{spot}}:ten'}}}}}} may be followed by particles other than @HI{{de}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}nosouiu@EM{{@KJ{{spot}}ga}}@FG{{@KJ{{person}}:hito}}ni@FG{{@KJ{{dislike}}:kira}}warerunoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is that aspect which people dislike about her.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 458).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
