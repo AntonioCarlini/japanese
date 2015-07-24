@@ -25,63 +25,18 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 Japanese does not have relative pronouns, such as who, that and which. Instead a relative clause precedes a noun to modify it. 
-Note that anything which modifies a noun <em>always</em> precedes.
+Note that anything which modifies a noun <em>always</em> precedes it.
 </p>
 
+@BGRND{{}}
 <p>
 The predicate of the sentence which forms the relative clause is in the plain form.
-<p>
 
-<p>
-The relative clause plus modified noun can be used anywhere in a sentence that a plain noun would be.
-</p>
-
-<p>
-Particles attached to the noun that acquires a relative clause are deleted.
-</p>
-
-<p>
-The topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
-@HI{{ga}} or @HI{{no}}. However, if the subject of the sentence is followed by a noun and @HI{{no}} then
-the meaning of the sentence would not be as intended.
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}@EM{{ga}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The girl to whom Tom gave a football ticket.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{tomu}}@EM{{no}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The girl to whom someone gave Tom's football ticket.
-  </td> </tr>
-</table>
-</ol>
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanga @KJ{{dwell}}nde ita uchihe @KJ{{going}}tta kotoga arimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I have been to the house where Mr. Miller lived.
-  </td> </tr>
-</table>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KT{{karina}}sanga kaita @KJ{{picture}}ga @KJ{{fond}}ki desu.}}
@@ -90,7 +45,83 @@ the meaning of the sentence would not be as intended.
       I like the picture that Ms. Karina drew.
   </td> </tr>
 </table>
-</ol>
+<p>
+
+@BGRND{{}}
+<p>
+The relative clause plus modified noun can be used anywhere in a sentence that a plain noun would be.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{mira-}}sanga @KJ{{dwell}}nde ita uchihe @KJ{{going}}tta kotoga arimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have been to the house where Mr. Miller lived.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Particles attached to the noun that acquires a relative clause are deleted.
+</p>
+
+@BGRND{{}}
+<p>
+The topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
+@HI{{ga}} or @HI{{no}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}@EM{{ga}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom Tom gave a football ticket.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, if the subject of the sentence is followed by a noun and @HI{{no}} then the meaning of the sentence would not be as intended.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{tomu}}@EM{{no}} @KT{{futtobo-ru}}no @KJ{{cut^token}}wo ageta @KJ{{woman}}no@KJ{{child}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The girl to whom someone gave Tom's football ticket.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+A relative clause can carry a conditional meaning even without an expolicit conditional.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}ni@FG{{@KJ{{strong}}:tsuyo}}kunaru@KJ{{book}}gaarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is there a book that will make you strong in Japanese?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Alternatively, an explicit conditional can be retained in the relative clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{read}}meba@KJ{{day^book^word}}ni@FG{{@KJ{{strong}}:tsuyo}}kunaru@KJ{{book}}gaarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is there a book which, if read, will make your Japanese strong?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -99,6 +130,7 @@ the meaning of the sentence would not be as intended.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 22).
 <li> @REF{{DOBJG}}. (p. 376).
+<li> @REF{{DOIJG}}. (p. 350).
 </ol>
 
 @include{{"grammar-footer.inc"}}

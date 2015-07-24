@@ -2,88 +2,104 @@
 <html>
 
 <head>
-<title>@HI{{kawari ni}}</title>
+<title>@HI{{@KJ{{substitute}}warini}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{kawari ni}}" grammar="@HI{{kawari ni}}"}}
+@GRMIDX{{index="@HI{{kawarini}}" grammar="@HI{{@FG{{@KJ{{substitute}}:ka}}warini}}"}}
 
 <body>
 
-<h1>@HI{{kawari ni}}</h1>
+<h1>@HI{{@FG{{@KJ{{substitute}}:ka}}warini}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{no @EM{{kawari ni}}}}
-<li> @Vplain{{}} @HI{{@EM{{kawari ni}}}}
-<li> @Ai{{}} @HI{{@EM{{kawari ni}}}}
-<li> @Ana{{}} @HI{{@EM{{kawari ni}}}}
+<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}
+<li> @Vplain{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}
+<li> @Ai{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}
+<li> @Ana{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-In these sentence patterns, @HI{{@EM{{kawari ni}}}} indicates that something (including an action) replaces something else.
-</p>
+In these sentence patterns, @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} indicates that something (including an action) replaces something else.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{before^life}}no @EM{{kawari ni}} @KJ{{private}}ga @KJ{{teach}}emashita.}}
+    @HI{{@KJ{{before^life}}no@EM{{@KJ{{substitute}}warini}}@KJ{{private}}ga@KJ{{teach}}emashita.}}
   </td> </tr>
   <tr class="en"> <td>
     I taught in place of my teacher.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+In order to use @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} there needs to be some sense of balance or compensation.
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{soil^weekday^day}}ni @KJ{{attend^matter}}wo suru @EM{{kawari ni}} @KJ{{month^weekday^day}}ha @KJ{{rest}}mimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    To make up for working on Saturdays I take Mondays off.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{@KJ{{me}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na@EM{{kawari ni}} @KJ{{house^fare}}ga@KJ{{relax}}i.}}
+    @HI{{@KJ{{me}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na@EM{{@KJ{{substitute}}warini}} @KJ{{house^fare}}ga@KJ{{relax}}i.}}
   </td> </tr>
   <tr class="en"> <td>
     My apartment is inconvenient but the rent is cheap.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+A non-past verb before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates that the action has not yet taken place.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta @EM{{kawari ni}} yoku @KJ{{happenstance^hinder}}shita.}}
+    @HI{{@KJ{{soil^weekday^day}}ni@KJ{{attend^matter}}wosuru@EM{{@KJ{{substitute}}warini}}@KJ{{month^weekday^day}}ha@KJ{{rest}}mimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    To make up for working on Saturdays I take Mondays off.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+A verb in the past before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates that the action has already taken place.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta @EM{{@KJ{{substitute}}warini}} yoku @KJ{{happenstance^hinder}}shita.}}
   </td> </tr>
   <tr class="en"> <td>
     That car was cheap but it often broke down.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-In @N1{{}} @HI{{@EM{{kawari ni}}}} @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
-@S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
+In @N1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
+@S1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
 </p>
 
 <p>
-In @S1{{}} @HI{{@EM{{kawari ni}}}} @S2{{}}, @HI{{@EM{{kawari ni}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
+In @S1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @S2{{}}, @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
 </p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 184).
+<li> @REF{{DOIJG}}. (p. 116).
 <li> @REF{{NKZM-N3G}}. (p. 25).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>

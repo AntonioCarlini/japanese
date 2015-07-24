@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kono}}" grammar="@HI{{kono}}"}}
+
+<body>
+
+<h1>@HI{{kono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{kono}}}}@N{{}}
+<li> @HI{{@EM{{kono}}}} number + @CTR{{}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+<p>
+@HI{{@EM{{kono}}}} can be used as a demonstrative adjective to indicate a time around the moment of the speech.
+The time or period indicated by the expression depends on the noun or counter used.
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate one time in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{kono}}@FG{{@KJ{{interval}}:aida}}@FG{{@KJ{{good*luck^mount}}:yoshioka}}san'ni@KJ{{meeting}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I met Mr. Yoshioka the other day.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate from a time in the past until the moment of the speech.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^below}}:yamashita}@FG{@KJ{{old*boy}}:kun'}}@EM{{kono}}@FG{{@KJ{{one^week^interval}}:isshuukan'}}@FG{{@KJ{{accompany^profession}}:jugyou}}wo@FG{{@KJ{{rest}}:yasu}}ndeimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamashita has been absent from class for the past (one) week.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate a moment around the time of the speech.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{kono}}@FG{{@KJ{{environs}}:hen'}}de@FG{{@KJ{{gentle^co-}}:dakyou}}shitaradoudesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Why don't we compromise now @LIT{{around this time}}?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate a period of time that includes the moment of the speech.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{kono}}@KJ{{summer}}ha@KJ{{day^book}}no@FG{{@KJ{{woman^current}}:joryuu}}@FG{{@KJ{{make^house}}:sakka}}no@FG{{@KJ{{polish^research}}:kenkyuu}}woshiteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This summer I'm doing research on Japanese female writers.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate from the moment of the speech onwards.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{kono}}@FG{{@KJ{{one^week^interval}}:isshuukan'}}ha@KJ{{busy}}shikute@KJ{{what}}modekinaidarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm busy this week and I probably won't be able to do anything else.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+@HI{{@EM{{kono}}}} can be indicate a point of time in the future.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{kono}}@FG{{@KJ{{next}}:tsugi}}haitsuo@FG{{@KJ{{eye}}:me}}nikakaremasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When could I meet you next?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 127).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

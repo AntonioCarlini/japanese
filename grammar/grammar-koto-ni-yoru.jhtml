@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kotoniyoru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kotoniyoru}}" grammar="@HI{{kotoniyoru}}"}}
+
+<body>
+
+<h1>@HI{{kotoniyoru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vplain{{}}@HI{{@EM{{kotoniyoru}}}}
+<li> @Ai{{}}@HI{{@EM{{kotoniyoru}}}}
+<li> @Ana{{}}@HI{{@EM{{kotoniyoru}}}}
+<li> @N{{}}@HI{{dearu@EM{{kotoniyoru}}}}
+<li> @Splain{{}}@HI{{dearu@EM{{kotoniyoru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kotoniyoru}}}} is a phrase used to present an event as the cause of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ga@FG{{@KJ{{defeat}}:ma}}ketanoha@FG{{@KJ{{victory}}:ka}}chiwo@FG{{@KJ{{char}}:ase}}risugita@EM{{kotoniyoru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His loss is due to the fact that he tried to win too quickly @LIT{{impatiently}}.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 143).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
