@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{douka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{douka}}" grammar="@HI{{douka}}"}}
+
+<body>
+
+<h1>@HI{{douka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @HI{{@EM{{douka}}}}~@Vte{{}}@HI{{@KJ{{below}}sai.}}
+<li> @HI{{@EM{{douka}}}}~@Vnai{{}}@HI{{de@KJ{{below}}sai.}}
+<li> @HI{{@EM{{douka}}}}~@HI{{o@Vmasustem{{}}@KJ{{below}}sai.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{douka}}}} is an adverb indicating a polite but very strong request.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{douka}}@KJ{{private}}no@KJ{{say}}i@FG{{@KJ{{part}}:bun'}}wo@KJ{{hear}}ite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please listen to what I have to say,
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{douka}}}} is used by a host in a number of set phrases.
+</p>
+
+<p>
+A host may use @HI{{@EM{{douka}}}} to humbly refer to his or her hospitality.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{douka}}koreni@FG{{@KJ{{penal}}:ko}}rizunimatairashite@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We'd love to have you over again. @LIT{{I hope you'll see fit to overlook our meagre hospitality and come again.}}
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{@EM{{douka}}}} may be used in the closing paragraph of a letter.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{yonder^cold}}:koukan'}}no@FG{{@KJ{{fold}}:ori}}kara,@EM{{douka}}o@KJ{{body}}noo@KJ{{spirit}}wotsuke@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's getting cold, so please take good care of yourself.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{@EM{{douka}}}} may be used to formally and politley express one's desire for future assistance or cooperation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{douka}}@KJ{{now^behind}}tomoyoroshikuo@FG{{@KJ{{petition}}:nega}}iitashimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      @LIT{{Please let me ask for your kind help and consideration from now on, too.}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 82).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
