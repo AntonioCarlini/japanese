@@ -398,6 +398,7 @@ JHTML_SRCS += grammar-rashii.jhtml
 JHTML_SRCS += grammar-rei-no.jhtml
 JHTML_SRCS += grammar-relative-clause.jhtml
 JHTML_SRCS += grammar-respect-markers.jhtml
+JHTML_SRCS += grammar-roku-ni-nai.jhtml
 JHTML_SRCS += grammar-ru-koto-ga-aru.jhtml
 JHTML_SRCS += grammar-sai.jhtml
 JHTML_SRCS += grammar-saichuu.jhtml
