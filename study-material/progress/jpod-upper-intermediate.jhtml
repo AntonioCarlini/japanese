@@ -27,6 +27,7 @@ Intro Combo: #19: present and verified.</br>
   <th> Audio </th> <th> Dialog </th> <th> Grammar </th> <th> Review </th> <th> Video </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
   <th> Studied </th> <th> Shadowed </th>
+  <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
@@ -34,6 +35,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
@@ -41,6 +43,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
@@ -48,6 +51,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
@@ -55,6 +59,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
@@ -62,6 +67,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
@@ -69,6 +75,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
@@ -76,6 +83,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
@@ -83,6 +91,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}}</td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
@@ -90,6 +99,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
@@ -97,6 +107,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
@@ -104,6 +115,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
@@ -111,6 +123,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
@@ -118,6 +131,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
@@ -125,6 +139,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
@@ -132,6 +147,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
@@ -139,6 +155,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
@@ -146,6 +163,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}}  </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
@@ -153,6 +171,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
@@ -160,6 +179,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
@@ -167,6 +187,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
@@ -174,6 +195,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
@@ -181,6 +203,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
@@ -188,6 +211,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
@@ -195,6 +219,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 25 </td>
@@ -202,6 +227,7 @@ Intro Combo: #19: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
@@ -217,6 +243,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <th> Audio </th> <th> Dialog </th> <th> Grammar </th> <th> Review </th> <th> Video </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
   <th> Studied </th> <th> Shadowed </th>
+  <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
@@ -224,6 +251,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
@@ -231,6 +259,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
@@ -238,6 +267,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
@@ -245,6 +275,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
@@ -252,6 +283,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
@@ -259,6 +291,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
@@ -266,6 +299,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
@@ -273,6 +307,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
@@ -280,6 +315,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
@@ -287,6 +323,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
@@ -294,6 +331,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
@@ -301,6 +339,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
@@ -308,6 +347,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
@@ -315,6 +355,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
@@ -322,6 +363,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
@@ -329,6 +371,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
@@ -336,6 +379,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
@@ -343,6 +387,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
@@ -350,6 +395,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
@@ -357,6 +403,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
@@ -364,6 +411,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
@@ -371,6 +419,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
@@ -378,6 +427,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
@@ -385,6 +435,7 @@ Combo: #3, #7, #12, #20, #24: present and verified.</br>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
@@ -400,6 +451,7 @@ Bonus: #1, #25: present and verified.</br>
   <th> Audio </th> <th> Dialog </th> <th> Grammar </th> <th> Review </th> <th> Video </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
   <th> Studied </th> <th> Shadowed </th>
+  <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
@@ -407,6 +459,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
@@ -414,6 +467,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
@@ -421,6 +475,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
@@ -428,6 +483,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
@@ -435,6 +491,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
@@ -442,6 +499,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
@@ -449,6 +507,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
@@ -456,6 +515,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
@@ -463,6 +523,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
@@ -470,6 +531,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
@@ -477,6 +539,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
@@ -484,6 +547,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
@@ -491,6 +555,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
@@ -498,6 +563,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
@@ -505,6 +571,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
@@ -512,6 +579,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
   <td class="ok"> @TICK{{}}</td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
@@ -519,6 +587,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
@@ -526,6 +595,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
   <td class="ok"> @TICK{{}}</td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
@@ -533,6 +603,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
@@ -540,6 +611,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
@@ -547,6 +619,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
@@ -554,6 +627,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
@@ -561,6 +635,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
@@ -568,6 +643,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 25 </td>
@@ -575,6 +651,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
@@ -591,156 +668,182 @@ Bonus: #1: present and verified.</br>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
   <th> Studied </th> <th> Shadowed </th>
+  <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
   <td class="ok"> </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok">  @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'52" </td> <td class=""> 1'50" </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 17'08" </td> <td class=""> 1'35" </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 17'06" </td> <td class=""> 1"43' </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 17'25" </td> <td class=""> 1'24" </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'49" </td> <td class=""> 1'55" </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 19'54" </td> <td class=""> 1'53" </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 19'53" </td> <td class=""> 1'40" </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'22" </td> <td class=""> 1'37" </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 17'01" </td> <td class=""> 1'40" </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'18" </td> <td class=""> 1'44" </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 19'04" </td> <td class=""> 1'38" </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'09" </td> <td class=""> 1'29" </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 16'25" </td> <td class=""> 1'36" </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 16'59" </td> <td class=""> 1'34" </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'03" </td> <td class=""> 2'03" </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
   <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}}</td>
   <td> </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 15'56" </td> <td class=""> 1'39" </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 19'30" </td> <td class=""> 1'57" </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}}</td>
   <td> </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 16'26" </td> <td class=""> 1'37" </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 21'24" </td> <td class=""> 1'42" </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 16'02" </td> <td class=""> 1'34" </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 19'42" </td> <td class=""> 1'57" </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 18'17" </td> <td class=""> 1'51" </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
   <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 17'07" </td> <td class=""> 1'38" </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
-  <td>  </td> <td> </td> <td> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 13'20" </td> <td class=""> 1'32" </td>
 </tr>
 <tr>
   <td class="done"> 25 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}</td>
-  <td>  </td> <td> </td> <td> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> 16'33" </td> <td class=""> 1'40" </td>
 </tr>
 </table>
 
@@ -755,156 +858,182 @@ Bonus: #1: present and verified.</br>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
   <th> Studied </th> <th> Shadowed </th>
+  <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class="">  </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}} </td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 13 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 14 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 15 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 16 </td>
   <td class="ok">  @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td>
-  <td> </td> <td> </td> <td class=""> </td>
+  <td> </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 17 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 18 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td>
-  <td> </td> <td> </td> <td class=""> </td>
+  <td> </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 19 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 20 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 21 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 22 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 23 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 24 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class="done"> 25 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td>  </td> <td> </td> <td class=""> </td>
+  <td>  </td> <td> </td> <td class="ok"> @TICK{{}}</td>
+  <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
 
