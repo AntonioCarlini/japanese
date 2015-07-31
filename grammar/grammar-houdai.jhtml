@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{set*free^topic}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{houdai}}" grammar="@HI{{@FG{{@KJ{{set*free^topic}}:houdai}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{set*free^topic}}:houdai}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{set*free^topic}}:houdai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{set*free^topic}}:houdai}}}}}} is a a suffix added to the @HI{{masu}}-stem of a verb to indicate "all you can" or "as much as one likes".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}hayaritai@KJ{{set*free^topic}}niyaruni@FG{{@KJ{{difference}}:chiga}}inai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She must have everything her own way.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JPOD101-IN-S1-012}}.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
