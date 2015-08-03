@@ -215,8 +215,8 @@
 <li> <a href="grammar-rashii.html#typical">@N{{}}@HI{{rashii}}</a>
 <li> <a href="grammar-rashii.html#conjecture">@HI{{rashii}}</a>
 <li> <a href="grammar-toshite.html#function">@HI{{toshite}}</a>
-<li> @HI{{zu}}[@HI{{ni}}] <a href="grammar-verb-formation-zu.html">(formation)</a> and <a href="grammar-verb-use-of-zu.html#without">(usage)</a>
-<li> <a href="grammar-.html"></a>~@HI{{zu}}
+<li> ~@HI{{zu}}[@HI{{ni}}] <a href="grammar-verb-formation-zu.html">(formation)</a> and <a href="grammar-verb-use-of-zu.html#without">(usage)</a>
+<li> ~<a href="grammar-verb-use-of-zu.html#reason-cause">@HI{{zu}}</a>
 <li> <a href="grammar-.html"></a>@Vte{{}}@HI{{iru}}
 <li> <a href="grammar-nanka-dou.html">@HI{{nankadou}}</a>
 </ol>
