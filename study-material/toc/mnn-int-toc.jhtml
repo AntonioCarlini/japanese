@@ -156,8 +156,8 @@
 <li> <a href="grammar-particle-kana.html">@HI{{kana}}</a>
 <li> ~<a href="grammar-nanka.html">@N{{}}@HI{{nanka}}</a>
 <li> ~<a href="grammar-nante-emotion.html">@HI{{nante}}</a>
-<li> <a href="grammar-.html"></a>@Vsaseru{{}} (emotion)
-<li> <a href="grammar-.html"></a>@Vsaserareru{{}} (emotional causative-passive)
+<li> <a href="grammar-verb-use-of-causative.html#emotion">@Vsaseru{{}} (emotion)</a>
+<li> <a href="grammar-verb-use-of-causative-passive.html#emotion">@Vsaserareru{{}} (emotional causative-passive)</a>
 <li> <a href="grammar-nara.html">@HI{{nara}}</a>
 <li> <a href="grammar-te-kure.html">@Vte{{}}@HI{{kure}}</a>
 </ol>
