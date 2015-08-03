@@ -137,8 +137,8 @@
 <li> ~<a href="grammar-tsumori.html#past">@HI{{tsumoridatta}}</a>
 <li> ~<a href="grammar-tsumori.html#thinks-but-unknown-past">@Vta{{}}@HI{{tsumori}}</a> @MIDDOT{{}}
      ~<a href="grammar-tsumori.html#thinks-but-unknown-cont">@Vte{{}}@HI{{irutsumori}}</a>
-<li> ~<a href="grammar-bakari.html#happening">@Vte{{}}@HI{{bakariiru}}</a> @MIDDOT{{}}
-     ~<a href="grammar-bakari.html#happening-noun">@HI{{bakari}} ~ @Vte{{}}@HI{{iru}}</a>
+<li> ~<a href="grammar-bakari.html#habitual">@Vte{{}}@HI{{bakariiru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-bakari.html#habitual-trans">@HI{{bakari}} ~ @Vte{{}}@HI{{iru}}</a>
 <li> ~<a href="grammar-particle-toka.html#sentences">@HI{{toka}}</a>
 <li> ~<a href="grammar-te-kuru.html#advent">@Vte{{}}@HI{{kuru}}</a>
 <li> ~<a href="grammar-te-kuru.html#direction">@Vte{{}}@HI{{kuru}}</a> @MIDDOT{{}}
@@ -151,13 +151,14 @@
 <ol>
 <li> ~<a href="grammar-nakute-wa-naranai.html">@HI{{nakutehanaranai}} / @HI{{ikenai}}</a> /
   <a href="grammar-nakute-mo-kamawanai.html">@HI{{nakutemokamawanai}}</a>
-<li> <a href="grammar-.html"></a>~ @HI{{nakucha}}/ @HI{{nakya}}[@HI{{ikenai}}]
+<li> ~<a href="grammar-verb-contractions.html">@HI{{nakucha}}[@HI{{ikenai}}]</a> @MIDDOT{{}}
+      ~<a href="grammar-verb-contractions.html">@HI{{nakya}}[@HI{{ikenai}}]</a>
 <li> <a href="grammar-particle-dake.html">@HI{{dakeda}}</a>/<a href="grammar-dake-de.html#ii">@HI{{dakedeii}}</a>
 <li> <a href="grammar-particle-kana.html">@HI{{kana}}</a>
 <li> ~<a href="grammar-nanka.html">@N{{}}@HI{{nanka}}</a>
 <li> ~<a href="grammar-nante-emotion.html">@HI{{nante}}</a>
-<li> <a href="grammar-.html"></a>@Vsaseru{{}} (emotion)
-<li> <a href="grammar-.html"></a>@Vsaserareru{{}} (emotional causative-passive)
+<li> <a href="grammar-verb-use-of-causative.html#emotion">@Vsaseru{{}} (emotion)</a>
+<li> <a href="grammar-verb-use-of-causative-passive.html#emotion">@Vsaserareru{{}} (emotional causative-passive)</a>
 <li> <a href="grammar-nara.html">@HI{{nara}}</a>
 <li> <a href="grammar-te-kure.html">@Vte{{}}@HI{{kure}}</a>
 </ol>
@@ -210,13 +211,13 @@
 <ol>
 <li> <a href="grammar-te-kuru.html#to-present">@Vte{{}}@HI{{kuru}}</a> @MIDDOT{{}} <a href="grammar-te-iku.html">@Vte{{}}@HI{{iku}}</a>
 <li> <a href="grammar-tara-douka.html">@Vtara{{}}@HI{{dou}}</a>
-<li> <a href="grammar-.html"></a>@HI{{yori}} ... @HI{{houga}}
+<li> <a href="grammar-hou-ga-yori.html">@HI{{yori}} ... @HI{{houga}}</a>
 <li> <a href="grammar-rashii.html#typical">@N{{}}@HI{{rashii}}</a>
 <li> <a href="grammar-rashii.html#conjecture">@HI{{rashii}}</a>
 <li> <a href="grammar-toshite.html#function">@HI{{toshite}}</a>
-<li> <a href="grammar-.html"></a>@HI{{zu}}[@HI{{ni}}]
-<li> <a href="grammar-.html"></a>~@HI{{zu}}
-<li> <a href="grammar-.html"></a>@Vte{{}}@HI{{iru}}
+<li> ~@HI{{zu}}[@HI{{ni}}] <a href="grammar-verb-formation-zu.html">(formation)</a> and <a href="grammar-verb-use-of-zu.html#without">(usage)</a>
+<li> ~<a href="grammar-verb-use-of-zu.html#reason-cause">@HI{{zu}}</a>
+<li> ~<a href="grammar-te-iru.html#historical">@Vte{{}}@HI{{iru}}</a>
 <li> <a href="grammar-nanka-dou.html">@HI{{nankadou}}</a>
 </ol>
 

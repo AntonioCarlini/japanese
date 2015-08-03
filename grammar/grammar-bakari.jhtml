@@ -96,6 +96,33 @@ sentence pattern @N{{}}@HI{{@EM{{bakari}}@Vte{{}}iru}}.
 
 @BGRND{{}}
 <p>
+<a name="habitual">@Vte{{}}</a>@HI{{@EM{{bakari}}iru}} indicates that something is being done habitually or repeatedly and the speaker is critical or disatisfied.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@FG{{@KJ{{cat}}:neko}}ha@FG{{@KJ{{one^day^in}}:ichinichijuu}},@FG{{@KJ{{lie*down}}:ne}}te@EM{{bakari}}iru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This cat just sleeps all day long.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+With a transitive verb the formation <a name="habitual-trans">@HI{{@EM{{bakari}}}}@Vte{{}}</a>@HI{{iru}} may be used.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{younger*brother}}:otouto}}haitsumokonpyu-ta-ge-mu@EM{{bakari}}shiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Almost all my younger brother does is play computer games.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 In classical Japanese @HI{{@EM{{bakari}}}} expressed the speaker's conjecture and this is still seen
 in <em>quantifier</em> @HI{{@EM{{bakari}}}}, which means "about".
 

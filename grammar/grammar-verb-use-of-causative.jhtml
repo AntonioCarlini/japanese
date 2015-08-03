@@ -23,42 +23,24 @@
 <h2> Definition </h2>
 
 <p>
-Causative verbs appear in two types of sentences: those which indicate the subject with @HI{{wo}} and
-those which indicate it with @HI{{ni}}. With intransitive verbs @HI{{wo}} is used and with transitive
-ones @HI{{ni}} is used.
-</p>
-
-<p>
 Causatives indicate compulsion or permission. These sentence patterns are used when a senior person
 requires or permits a junior person to do something. However, when the speaker tells someone from
 outside his group that the speaker will make someone from within his group do somehting, the
 causative is used regardless of status.
 </p>
 
-<h2> Examples </h2>
+<p>
+Causative verbs appear in two types of sentences: those which indicate the subject with @HI{{wo}} and
+those which indicate it with @HI{{ni}}. With intransitive verbs @HI{{wo}} is used and with transitive
+ones @HI{{ni}} is used.
+</p>
 
-<ol>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ha @KJ{{mountain^rice*field}}sann wo @KJ{{large^heights}}he 
-      @EM{{@KJ{{exit^lengthen}}sasemasu}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The department manager makes Mr. Yamada go to Osaka on business.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{daughter}}wo @KJ{{oneself^wherefore}}ni
-      @EM{{@KJ{{play}}basemashita}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I let my daughter play freely.
-  </td> </tr>
-</table>
-<li>
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+When the causative is used with a transitive verb, the causee is always marked with @HI{{ni}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{morning}}ha @KJ{{busy}}shii desukara, @KJ{{daughter}}ni @KJ{{morning}}gohan'no
@@ -68,7 +50,58 @@ causative is used regardless of status.
       I am busy in the morning, so I make my daughter help prepare breakfast.
   </td> </tr>
 </table>
-<li>
+
+</p>
+
+@BGRND{{}}
+<p>
+When the causative is used with an intransitive verb, the causee may be marked by @HI{{ni}}.
+In this case the causee usually takes the action intentionally.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha @KJ{{daughter}}wo @KJ{{oneself^wherefore}}ni
+      @EM{{@KJ{{play}}basemashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I let my daughter play freely.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When the causative is used with an intransitive verb, the causee may be marked by @HI{{wo}}.
+In this case it does not matter whether the causee takes the action volutarily or not.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{section^long}}ha @KJ{{mountain^rice*field}}sannwo@KJ{{large^heights}}he@EM{{@KJ{{exit^lengthen}}sasemasu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The department manager makes Mr. Yamada go to Osaka on business.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="emotion">When</a> the causative is used to describe evoking an emotion in someone else, an intransitive verb is
+used and the causee is marked by the particle @HI{{wo}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{tesuto}}de100@FG{{@KJ{{spot}}:ten'}}wo@FG{{@KJ{{take}}:to}}tte,@KJ{{mama}}@EM{{wo}}bikkuri@EM{{saseta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I surprised my mother by scoring 100 points in the test.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In a causative sentence, the causer must be equal or higher in status that the causee.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{station}}ni @KJ{{don}}itara, o@KJ{{electricity^tale}}wo kudasai.
@@ -79,7 +112,9 @@ causative is used regardless of status.
       When you arrive at the station, please call me. I will send a member of staff to pick you up.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -89,6 +124,7 @@ causative is used regardless of status.
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 48).
 <li> @REF{{DOBJG}}. (p. 387)
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

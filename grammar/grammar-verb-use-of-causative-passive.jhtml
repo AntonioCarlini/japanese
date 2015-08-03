@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 Causative-Passive indicates compulsion or permission. 
 In the sentence pattern shown in the formation, it indicates that @N1{{}} was forced to do @V{{}} by @N2{{}} rather than doing it voluntarily.
@@ -35,6 +38,7 @@ In the sentence pattern shown in the formation, it indicates that @N1{{}} was fo
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 It is possible to omit @N2{{}}@HI{{ni}}, but the basic meaning is unchanged.
 
@@ -48,6 +52,22 @@ It is possible to omit @N2{{}}@HI{{ni}}, but the basic meaning is unchanged.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="emotion">The</a> Causative-Passive can be used to express an <a href="grammar-verb-use-of-causative.html#emotion">emotional causative</a> in the passive form.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{what^degrees}}:nando}}@KJ{{buy}}ttemo@FG{{@KJ{{treasure}}:takura}}kujiga@FG{{@KJ{{hit}}:a}}tarazu,gakkari@EM{{saserareta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was disappointed that I never won anything in the lottery, no matter how many times I bought tickets.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 
@@ -55,6 +75,7 @@ It is possible to omit @N2{{}}@HI{{ni}}, but the basic meaning is unchanged.
 
 <ol>
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}
