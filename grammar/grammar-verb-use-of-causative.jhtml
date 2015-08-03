@@ -85,6 +85,21 @@ In this case it does not matter whether the causee takes the action volutarily o
 
 @BGRND{{}}
 <p>
+<a name="emotion">When</a> the causative is used to describe evoking an emotion in someone else, an intransitive verb is
+used and the causee is marked by the particle @HI{{wo}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{tesuto}}de100@FG{{@KJ{{spot}}:ten'}}wo@FG{{@KJ{{take}}:to}}tte,@KJ{{mama}}@EM{{wo}}bikkuri@EM{{saseta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I surprised my mother by scoring 100 points in the test.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 In a causative sentence, the causer must be equal or higher in status that the causee.
 
 <table class="sentence" border=0>
@@ -109,6 +124,7 @@ In a causative sentence, the causer must be equal or higher in status that the c
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 48).
 <li> @REF{{DOBJG}}. (p. 387)
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}
