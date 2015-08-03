@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{iru}}}} is used to describe a customary action.
 
@@ -34,6 +37,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{iru}}}} is used to describe a state which is the result of the action expressed
 by the verb. If the verb describes an action that can be repeated or continued,
@@ -73,6 +77,7 @@ are intransitive ones.
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is in progress.
 
@@ -86,6 +91,7 @@ are intransitive ones.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is habitual.
 
@@ -98,6 +104,39 @@ are intransitive ones.
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="historical">@EM{{@Vte{{}}@HI{{iru}}}}</a> can be used to describe a historical fact or experience.
+In this usage it is often accompanied by an adverb expressing frequency or duration.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{Buddhist*temple}}:tera}}ha@KJ{{now}}made2@FG{{@KJ{{-times}}:kai}}@FG{{@KJ{{fire^matter}}:kaji}}de@FG{{@KJ{{bake}}:ya}}ke@EM{{teiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This temple has burned down twice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="past-relevant">@EM{{@Vte{{}}@HI{{iru}}}}</a> can be used when the fact that a certain action has taken place in
+the past is relevant to the present situation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanha@FG{{@KJ{{tall^exam}}:koukou}}notoki@KT{{amerika}}ni@FG{{@KJ{{detain^study}}:ryuugaku}}shi@EM{{teiru}}.
+      dakara,@FG{{@KJ{{England^word}}:eigo}}no@FG{{@KJ{{discharge^sound}}:hatsuon'}}gakireida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka studied in the U.S. when he was at high school. That's why his English pronunciation is so good.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -124,6 +163,7 @@ third person and the sentence expresses a present state.
 <li> @REF{{MNN-TR-I}}. (Chapter 14).
 <li> @REF{{MNN-TR-I}}. (Chapter 15).
 <li> @REF{{DOBJG}}. (p. 155).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}
