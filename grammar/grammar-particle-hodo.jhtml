@@ -52,7 +52,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{hodo}}}} is used to indicate a comparison. Note that when @HI{{@EM{{hodo}}}}
+<a name="comparison">@HI{{@EM{{hodo}}}}</a> is used to indicate a comparison. Note that when @HI{{@EM{{hodo}}}}
 follows a noun, the predicate must be in the negative.
 
 <table class="sentence" border=0>
@@ -79,6 +79,19 @@ follows a noun, the predicate must be in the negative.
 </table>
 </p>
 
+<p>
+<a name="example">The</a> same idea can be expressed with a slightly different sentence pattern.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{supo-tsu}}noatoni@KJ{{drink}}mo@KT{{bi-ru}}@EM{{hoho}}oishiimono@EM{{hanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is nothing as good as a beer drunk after sport.
+  </td> </tr>
+</table>
+</p>
+
 @BGRND{{}}
 <p>
 @HI{{@EM{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
@@ -94,6 +107,7 @@ follows a noun, the predicate must be in the negative.
 <li> @REF{{AAP}}. (p. 77).
 <li> @REF{{DOBJG}}. (p. 135).
 <li> @REF{{DOIJG}}. (p. 57).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}
