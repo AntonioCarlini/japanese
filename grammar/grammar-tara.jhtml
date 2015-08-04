@@ -133,7 +133,7 @@ The main clause <em>can</em> contain a request, suggestion, command or volition.
 
 @BGRND{{}}
 <p>
-The subordinate clause <em>can</em> contain be counterfactual.
+<a name="counterfactual">The</a> subordinate clause <em>can</em> be counterfactual.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -141,6 +141,19 @@ The subordinate clause <em>can</em> contain be counterfactual.
   </td> </tr>
   <tr class="en"> <td>
       If I had money, I wouldn't be in such a house.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+When this pattern is used for a counterfactual case, the sentence often ends in a conjectural expression.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{moshi@KJ{{yesterday^day^rain}}ga@FG{{@KJ{{descend}}:fu}}ttei@EM{{tara}},@KJ{{buy}}i@KJ{{thing}}ha@FG{{@KJ{{exit}}:de}}kakenakattadarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I probably wouldn't have gone shopping yesterday if it had rained.
   </td> </tr>
 </table>
 </p>
@@ -207,6 +220,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li> @REF{{AAP}}. (p. 100).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

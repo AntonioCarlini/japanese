@@ -77,6 +77,21 @@ may be used. In this case it may be considered to mean "if you are talking about
 Sentence pattern (C) can be used to ask about the best course of action.
 </p>
 
+@BGRND{{}}
+<p>
+<a name="counterfactual">When</a> this conditional is used for a counterfactual case, the sentence often ends in a conjectural expression
+and is in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{gold}}gaare@EM{{ba}},kono@KT{{pasokon'}}ga@KJ{{buy}}etanoni.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I could have bought that PC if only I had had the money.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -85,6 +100,7 @@ Sentence pattern (C) can be used to ask about the best course of action.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

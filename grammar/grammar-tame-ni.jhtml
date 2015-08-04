@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern indicates a purpose if the main clause is a volitional expression.
 
@@ -38,6 +41,7 @@ This sentence pattern indicates a purpose if the main clause is a volitional exp
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 If the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted to mean a reason or cause.
 
@@ -51,6 +55,7 @@ If the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted t
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The pattern @N{{}} @HI{{no @EM{{tameni}}}} can also indicate
 "for the benefit of @N{{}}".
@@ -64,6 +69,22 @@ The pattern @N{{}} @HI{{no @EM{{tameni}}}} can also indicate
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="predicate">It</a> is possible to state the result first and the cause or reason as a predicate.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:kuukou}}ga@FG{{@KJ{{make}}:tsuka}}enakunattanoha,@FG{{@KJ{{large^snow}}:ooyuki}}ga@FG{{@KJ{{descend}}:fu}}tta@EM{{tame}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The reason that the airport became unusable was that a lot of snow fell.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -79,6 +100,7 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 <li> @REF{{DOBJG}}. (p. 447).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

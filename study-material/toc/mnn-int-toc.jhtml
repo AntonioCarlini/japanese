@@ -184,8 +184,10 @@
 <li> <a href="grammar-te-mo-kamawanai.html">@Vte{{}}@HI{{mokamawanai}}</a>
 <li> <a href="grammar-.html"></a>... @HI{{hodo}} ~ @HI{{nai}}/... @HI{{hododehanai}}
 <li> <a href="grammar-.html"></a>~ @HI{{hodo}} ~ @HI{{hanai}}/@HI{{inai}}
-<li> <a href="grammar-.html"></a>... @HI{{tame}}[@HI{{ni}}], .../ ... @HI{{tameda}}
-<li> <a href="grammar-.html"></a>~ @Vtara{{}}/~@Vba{{}} ... @HI{{ta}}
+<li> ~<a href="grammar-tame-ni.html">@HI{{tame}}[@HI{{ni}}]</a> @MIDDOT{{}}
+     ~<a href="grammar-tame-ni.html#predicate">@HI{{tameda}}</a>
+<li> ~<a href="grammar-tara.html#counterfactual">@Vtara{{}} ... @HI{{ta}}</a> @MIDDOT{{}}
+     ~<a href="grammar-verb-use-of-conditional.html#counterfactual">@Vba{{}} ... @HI{{ta}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
