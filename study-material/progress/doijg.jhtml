@@ -401,9 +401,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> ~@HI{{nari}}~@HI{{nari}}                                                  </td>
+  <td class="left"> ~<a href="grammar-particle-nari.html#choices">@HI{{nari}}~@HI{{nari}}</a>                              </td>
   <td class="left"> DOIJG, p. 223                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-nari-ni.html"> @HI{{narini}} </a>                                                     </td>
