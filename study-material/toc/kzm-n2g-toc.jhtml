@@ -520,6 +520,32 @@ h2#heading {
 <h3><a class="navtarget" name="chapter3.1">_</a> 1 @KJ{{chapter}}</h3>
 
 <ol>
+<li> ~<a href=""></a>@HI{{nazenara}}
+ <li> ~<a href=""></a>@HI{{toiunoha}}
+<li> ~<a href=""></a>@HI{{nazekatoiuto}}
+ <li> ~<a href=""></a>@HI{{katoiuto}}
+<li> ~<a href=""></a>@HI{{mataku}}
+<li> ~<a href=""></a>@HI{{taishite}}
+ <li> ~<a href=""></a>@HI{{mettani}}
+<li> ~<a href=""></a>@HI{{sukoshimo}}
+ <li> ~<a href=""></a>@HI{{kesshite}}
+<li> ~<a href=""></a>@HI{{nanimo}}
+ <li> ~<a href=""></a>@HI{{kanarazushimo}}
+ <li> ~<a href=""></a>@HI{{doumo}}
+<li> ~<a href=""></a>@HI{{douyara}}
+ <li> ~<a href=""></a>@HI{{moshikashitara}}
+<li> ~<a href=""></a>@HI{{osoraku}}
+ <li> ~<a href=""></a>@HI{{masaka}}
+ <li> ~<a href=""></a>@HI{{kitto}}
+ <li> ~<a href=""></a>@HI{{marude}}
+<li> ~<a href=""></a>@HI{{imanimo}}
+<li> ~<a href=""></a>@HI{{ichidanto}}
+<li> ~<a href=""></a>@HI{{masumasu}}
+<li> ~<a href=""></a>@HI{{shidaini}}
+<li> ~<a href=""></a>@HI{{jojoni}}
+<li> ~<a href=""></a>@HI{{ittai}}
+<li> ~<a href=""></a>@HI{{hatashite}}
+<li> ~<a href=""></a>@HI{{sudeni}}
 </ol>
 
 <h3><a class="navtarget" name="chapter3.2">_</a> 2 @KJ{{chapter}}</h3>
@@ -540,6 +566,8 @@ h2#heading {
 <h3><a class="navtarget" name="chapter3.5">_</a> 5 @KJ{{chapter}}</h3>
 
 <ol>
+<li> <a href=""></a>@HI{{@Vte{{}}kuru}}
+<li> <a href=""></a>@HI{{@Vte{{}}iku}}
 </ol>
 
 <h3><a class="navtarget" name="chapter3.6">_</a> 6 @KJ{{chapter}}</h3>
@@ -550,21 +578,58 @@ h2#heading {
 <h3><a class="navtarget" name="chapter3.7">_</a> 7 @KJ{{chapter}}</h3>
 
 <ol>
+<li> <a href=""></a>@HI{{@Vte{{}}ageru}}
+<li> <a href=""></a>@HI{{@Vte{{}}morau}}
+<li> <a href=""></a>@HI{{@Vte{{}}kureru}}
 </ol>
 
 <h3><a class="navtarget" name="chapter3.8">_</a> 8 @KJ{{chapter}}</h3>
 
 <ol>
+<li> <a href=""></a>@HI{{ko}}-
+<li> <a href=""></a>@HI{{so}}-
+<li> <a href=""></a>@HI{{a}}-
 </ol>
 
 <h3><a class="navtarget" name="chapter3.9">_</a> 9 @KJ{{chapter}}</h3>
 
 <ol>
+<li> <a href=""></a>@HI{{ha}}
+<li> <a href=""></a>@HI{{ga}}
 </ol>
 
 <h3><a class="navtarget" name="chapter3.10">_</a> 10 @KJ{{chapter}}</h3>
 
 <ol>
+ <li> ~<a href=""></a>@HI{{shikamo}}
+ <li> ~<a href=""></a>@HI{{sonoue}}
+ <li> ~<a href=""></a>@HI{{sarani}}
+<li> ~<a href=""></a>@HI{{sorebakarika}}
+<li> ~<a href=""></a>@HI{{sorebakaridenaku}}
+<li> ~<a href=""></a>@HI{{sorenitaishite}}
+ <li> ~<a href=""></a>@HI{{ippou}}
+<li> ~<a href=""></a>@HI{{dochirakadearukotowo@KJ{{say}}u}}
+ <li> ~<a href=""></a>@HI{{aruiha}}
+ <li> ~<a href=""></a>@HI{{soretomo}}
+<li> ~<a href=""></a>@HI{{sonotame}}
+ <li> ~<a href=""></a>@HI{{shitagatte}}
+<li> ~<a href=""></a>@HI{{sokode}}
+<li> ~<a href=""></a>@HI{{suruto}}
+<li> ~<a href=""></a>@HI{{konoyouni}}
+<li> ~<a href=""></a>@HI{{koushite}}
+<li> ~<a href=""></a>@HI{{daga}}
+<li> ~<a href=""></a>@HI{{tokoroga}}
+<li> ~<a href=""></a>@HI{{sorenanoni}}
+<li> ~<a href=""></a>@HI{{soredemo}}
+<li> ~<a href=""></a>@HI{{tsumari}}
+<li> ~<a href=""></a>@HI{{yousuruni}}
+<li> ~<a href=""></a>@HI{{iwaba}}
+<li> ~<a href=""></a>@HI{{tadashi}}
+<li> ~<a href=""></a>@HI{{tada}}
+<li> ~<a href=""></a>@HI{{mottomo}}
+<li> ~<a href=""></a>@HI{{nao}}
+<li> ~<a href=""></a>@HI{{sate}}
+<li> ~<a href=""></a>@HI{{tokorode}}
 </ol>
 
 <h3><a class="navtarget" name="chapter3.11">_</a> 11 @KJ{{chapter}}</h3>
