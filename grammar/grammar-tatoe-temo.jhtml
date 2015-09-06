@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This construction is used to indicate that even if a certain fact or state exists, something will happen or be done regardless.
 
@@ -37,6 +40,23 @@ This construction is used to indicate that even if a certain fact or state exist
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+As shown in the formation, when used with a @HI{{na}}-adjective, it becomes @HI{{tatoe}}~@HI{{demo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{tatoe}}@FG{{@KJ{{poverty^destitution}}:binbou}}@EM{{demo}},@FG{{@KJ{{house^tribe}}:kazoku}}de@FG{{@KJ{{one^life}}:issho}}niirarereba
+      @FG{{@KJ{{happiness}}:shiawa}}seda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if we're poor, I'll be happy if my family is healthy and we can all be together.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -44,6 +64,7 @@ This construction is used to indicate that even if a certain fact or state exist
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 33).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}
