@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{ya}}" grammar="@KJ{{roof}}"}}
+@GRMIDX{{index="@HI{{ya}}" grammar="@HI{{@KJ{{roof}}}} (store)"}}
 
 <body>
 
@@ -24,12 +24,7 @@
 <p>
 @KJ{{roof}} is a suffix that can be attached to the names of stores, inns and Japanese-style restaurants or to persons engaged
 in certain occupations.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{sake^roof}}san'ni@KJ{{electricity^tale}}shite@KT{{bi-ru}}wo@KJ{{three}}@KT{{da-su}}@KJ{{hold}}tte@KJ{{come}}temoratta.}}
@@ -38,7 +33,7 @@ in certain occupations.
       I called the man at the liquor store and had him bring me three dozen beers.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

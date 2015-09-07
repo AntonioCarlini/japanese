@@ -614,6 +614,7 @@ JHTML_SRCS += grammar-wo-hajime-toshite.jhtml
 JHTML_SRCS += grammar-wo-megutte.jhtml
 JHTML_SRCS += grammar-wo-tooshite.jhtml
 JHTML_SRCS += grammar-wo-towazu.jhtml
+JHTML_SRCS += grammar-ya-store.jhtml
 JHTML_SRCS += grammar-yahari.jhtml
 JHTML_SRCS += grammar-yara-yara.jhtml
 JHTML_SRCS += grammar-yaru-to-do.jhtml
