@@ -8,7 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{rutokoro}}" grammar="@Vru{{}}@HI{{tokoro}}"}}
-@GRMIDX{{index="@HI{{tatokoro}}" grammar="@Vta@HI{{tokoro}}"}}
+@GRMIDX{{index="@HI{{tatokoro}}" grammar="@Vta{{}}@HI{{tokoro}}"}}
 @GRMIDX{{index="@HI{{teirutokoro}}" grammar="@Vte{{}}@HI{{irutokoro}}"}}
 @GRMIDX{{index="@HI{{tatokorode}}" grammar="@Vta{{}}@HI{{tokorode}}"}}
 
