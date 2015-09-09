@@ -186,7 +186,9 @@ def processing()
         |element, value|
         debug_out("  Found [#{element}] with value [#{value}]")
         case element
-        when "index"      then index = process_at_commands(value, data_dir)
+        when "index"
+          index = process_at_commands(value, data_dir)
+          raise("broken GRMIDX index [#{value}]") if index =~ /<span/
         when "grammar"    then grammar = process_at_commands(value, data_dir)
         when "anchor"     then anchor = process_at_commands(value, data_dir)
         else raise("Unkown element [#{element}] in [#{contents}]")
