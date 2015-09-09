@@ -47,6 +47,8 @@ def convert_to_kanji(text)
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
+      $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
+      exit(1)
     else
       result += jp_unicode(code)
     end

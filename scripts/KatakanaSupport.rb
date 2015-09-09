@@ -132,8 +132,8 @@ def convert_to_katakana(text)
     end
 
     if current.length() >= 5
-      puts("KATAKANA: BROKEN at #{pos} trying to handle [#{current}]")
-      exit
+      $stderr.puts("KATAKANA: BROKEN at #{pos} trying to handle [#{current}]")
+      exit(1)
     end
   }
   return result

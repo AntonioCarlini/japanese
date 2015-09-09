@@ -136,7 +136,7 @@ def convert_to_hiragana(text)
 
     if current.length() >= 5
       $stderr.puts("HIRAGANA: BROKEN at #{pos} trying to handle [#{current}] in [#{text}]")
-      exit
+      exit(1)
     end
   }
   return result

@@ -81,7 +81,7 @@ def processing()
     while close_reqd > 0 do
       # Now repeatedly go to the next "}}" and count the number of {{ present.
       current = s.scan_until(/\{\{|\}\}/ixm)    # Find next item
-      exit if current.nil?()                    # Missing at least one set of closing brackets
+      exit(1) if current.nil?()                 # Missing at least one set of closing brackets
       if s.matched() == "{{"
         close_reqd += 1                         # Found opening brackets
       else
