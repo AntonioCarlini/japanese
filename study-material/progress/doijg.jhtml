@@ -866,9 +866,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{tonaru}}                                                             </td>
+  <td class="left"> <a href="grammar-to-naru.html"> @HI{{tonaru}} </a>                                                     </td>
   <td class="left"> DOIJG, p. 511                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-to-naru-to.html"> @HI{{tonaruto}} </a>                                                </td>
@@ -881,12 +881,12 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{tosuru}}                                                             </td>
+  <td class="left"> <a href="grammar-to-suru-assume.html"> @HI{{tosuru}}</a><sup>1</sup>                                   </td>
   <td class="left"> DOIJG, p. 518                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{tosuru}}                                                             </td>
+  <td class="left"> <a href="grammar-.html"></a> @HI{{tosuru}}<sup>2</sup>                                                 </td>
   <td class="left"> DOIJG, p. 523                                                                                          </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
