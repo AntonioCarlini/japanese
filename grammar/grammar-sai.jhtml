@@ -20,6 +20,7 @@
 <li> @Vplain{{}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
 <li> @N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
 <li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}
+<li> @Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}
 <li> @HI{{kono}}/@HI{{sono}}/@HI{{ano}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}
 </ol>
 
@@ -31,6 +32,8 @@
 <p>
 @EM{{@FG{{@KJ{{occasion}}:sai}}}} is used to denote a special occasion when someone does something.
 It cannot be used if the occasion is not in some way special or significant.
+It occurs mainly with verbs or nouns that express an action or an event.
+It is usally found in official settings and is not used for ordinary everyday events.
 
 <table class="sentence">
   <tr class="jp"> <td>
