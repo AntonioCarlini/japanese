@@ -96,6 +96,21 @@ sentence pattern @N{{}}@HI{{@EM{{bakari}}@Vte{{}}iru}}.
 
 @BGRND{{}}
 <p>
+<a name="one-direction">@Vru{{}}</a>@HI{{@EM{{bakari}}}} can indicate that something changes and continues to change in a specific direction.
+Often the change is not seen as positive.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{konogoro@KJ{{attend^matter}}ga@KJ{{many}}kute@FG{{@KJ{{remainder^profession}}:zangyou}}ga@FG{{@KJ{{increase}}:fu}}eru@EM{{bakari}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Recently there is so much work that overtime just keeps increasing.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 <a name="habitual">@Vte{{}}</a>@HI{{@EM{{bakari}}iru}} indicates that something is being done habitually or repeatedly and the speaker is critical or disatisfied.
 
 <table class="sentence" border=0>
@@ -200,7 +215,7 @@ supplied to show the difference.
     @FG{{@KJ{{one^life^suspend^fate}}:isshoukenmei}}ni@KT{{arubaito}}woshiteiru.}}
   </td> </tr>
   <tr class="en"> <td>
-    Watanbe is working like a dog at his part-time job because he wants to buy a stereo so badly.
+    Watanabe is working like a dog at his part-time job because he wants to buy a stereo so badly.
   </td> </tr>
 </table>
 </p>
