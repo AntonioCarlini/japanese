@@ -156,13 +156,13 @@ td {
      <th colspan="6"> 6.1-5 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>  <td class=""> </td>
+  <td> 2015-09-25 </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="missing"> b </td>  <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="missing"> c </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>  <td class="missing"> b </td>
 </tr>
 </table>
 

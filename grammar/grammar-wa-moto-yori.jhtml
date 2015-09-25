@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hamotoyori}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{hamotoyori}}" grammar="@HI{{hamotoyori}}"}}
+
+<body>
+
+<h1>@HI{{hamotoyori}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}@HI{{hamotoyori}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{hamotoyori}} expresses the idea of "let alone" or "never mind".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{watashiga@KJ{{life}}reta@KJ{{town}}ha,@KJ{{electricity^car}}@EM{{hamotoyori}},@KT{{basu}}mo@FG{{@KJ{{traffic}}:too}}ttenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There were no buses in the village where I was born, let alone trains.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N2G}}. (p. 31).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
