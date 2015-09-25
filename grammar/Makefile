@@ -496,6 +496,7 @@ JHTML_SRCS += grammar-te-itadakemasenka.jhtml
 JHTML_SRCS += grammar-te-itadakenai-deshou-ka.jhtml
 JHTML_SRCS += grammar-te-kara-denaito.jhtml
 JHTML_SRCS += grammar-te-kara.jhtml
+JHTML_SRCS += grammar-te-kono-kata.jhtml
 JHTML_SRCS += grammar-te-kudasai.jhtml
 JHTML_SRCS += grammar-te-kudasaimasenka.jhtml
 JHTML_SRCS += grammar-te-kure.jhtml

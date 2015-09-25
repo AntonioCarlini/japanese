@@ -82,8 +82,8 @@ h2#heading {
 <li> ~<a href="grammar-te-hajimete.html">@Vte{{}}@HI{{hajimete}}</a>
 <li> ~<a href="grammar-ue-de.html">@KJ{{above}}(@HI{{de}})</a>
 <li> ~<a href="grammar-shidai.html">@FG{{@KJ{{next^No.}}:shidai}}</a>
-<li> ~<a href="grammar-irai.html#te-irai">@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}</a>, ~@Vte{{}}@HI{{konokata}}
-<li> ~<a href="grammar-te-kara-denaito.html">@Vte{{}}@HI{{karadenaito}}</a>, ~@Vte{{}}@HI{{karadenakereba}}
+<li> ~<a href="grammar-irai.html#te-irai">@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}</a>, ~<a href="grammar-te-kono-kata.html">@Vte{{}}@HI{{konokata}}</a>
+<li> ~<a href="grammar-te-kara-denaito.html">@Vte{{}}@HI{{karadenaito}}</a>, ~<a href="grammar-te-kara-denaito.html">@Vte{{}}@HI{{karadenakereba}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>

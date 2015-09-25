@@ -24,14 +24,9 @@
 <h2> Definition </h2>
 
 <p>
-This construction is used to mean that until the action specified by @Vte{{}} is done, the action in the
-main clause cannot happen.
-</p>
+This construction is used to mean that until the action specified by @Vte{{}} is done, the action in the main clause cannot happen.
+The main clause must convey a negative meaning.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{carry^revolve^excuse^permit}}wo@KJ{{take}}ttekaradenakereba@KJ{{car}}wo@KJ{{carry^revolve}}shitehaikenai.}}
@@ -40,9 +35,13 @@ main clause cannot happen.
       Until I get a driver's licence I cannot drive a car.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
+
+<p>
+@Vte{{}}@HI{{karadenakereba}} has the same meaning and usage as @Vte{{}}@HI{{karadenaito}}.
+</p>
 
 <h2> References </h2>
 
