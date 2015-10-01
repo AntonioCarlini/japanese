@@ -599,9 +599,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a> @HI{{~noha ~da}}                                                           </td>
+  <td class="left"> <a href="grammar-no-wa-da-important.html"> ~@HI{{noha}}~@HI{{da}} </a>                                  </td>
   <td class="left"> DOBJG, p. 337                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-respect-markers.html"> @HI{{o}}</a>                                                    </td>
