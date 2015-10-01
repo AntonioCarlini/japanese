@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>~@HI{{noha}}~@HI{{da}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="~@HI{{noha}}~@HI{{da}} (important)" grammar="@HI{{noha}}@HI{{da}}"}}
+
+<body>
+
+<h1>~@HI{{noha}}~@HI{{da}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @Vru{{}}@HI{{@EM{{noha}}}}~@HI{{da}}
+<li> @Ai{{}}@HI{{@EM{{noha}}}}~@HI{{da}}
+<li> @Anastem{{}}@HI{{da@EM{{noha}}}}~@HI{{da}}
+<li> @N{{}}@HI{{da@EM{{noha}}}}~@HI{{da}}
+<li> @HI{{@EM{{noha}}}}~@HI{{da}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The sentence pattern A@HI{{@EM{{noha}}}}B@HI{{@EM{{da}}}} is used to offer some new and important information B about the topic A.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{kurasu}}de@FG{{@KJ{{one^turn}}:ichiban'}}@KJ{{head}}gaii@EM{{noha}}@FG{{@KJ{{good*luck^rice*field}}:yoshida}}san@EM{{da}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The brightest one in this class is Mr. Yoshida.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The particle used with the noun or noun phrase between @HI{{@EM{{noha}}}} and @HI{{@EM{{da}}}} usually drops if it does not have a concrete meaning or the sentence is somehow predictable without it.
+In this example the @HI{{ga}} after @HI{{@KJ{{forest^rice*field}}san'}} has dropped.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{eight^time}}uchini@KJ{{come}}ta@EM{{noha}}@FG{{@KJ{{forest^rice*field}}:morita}}san@EM{{da}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was Mr. Morita who came to my house at eight o'clock.
+  </td> </tr>
+</table>
+</p>
+
+On the other hand, the particle is retained if it has a concrete meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{forest^rice*field}}:morita}}gauchini@KJ{{come}}@EM{{noha}}@KJ{{car}}de@EM{{da}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was by his car that Mr. Morita came to my house.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The copula is usually in the present tense even if the @HI{{@EM{{no}}}} clause is in the past.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kinou@KJ{{buy}}tta@EM{{noha}}@KT{{sutereo}}@EM{{desu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It was a stereo that I bought yesterday.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Normally the @HI{{@EM{{no}}}} clause takes and @HI{{@EM{{ha}}}}, marking the entire clause as old, presupposed, unimportant information.
+However, the @HI{{@EM{{no}}}} clause can take @HI{{@EM{{ga}}}}, marking the clause as new, important information. In this alternative
+construction, the information between @HI{{@EM{{noga}}}} and @HI{{@EM{{da}}}} contains unimportant information.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ga@KJ{{make}}tteiru@EM{{noga}}@KT{{robotto}}@EM{{desu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The one I'm making is a robot.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The element between @HI{{@EM{{noha}}}} and @HI{{@EM{{da}}}} cannot be a manner adverb such as @HI{{yukkurito}} or @HI{{kireini}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOBJG}}. (p. 337).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

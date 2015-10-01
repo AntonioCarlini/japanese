@@ -312,6 +312,7 @@ JHTML_SRCS += grammar-no-koto.jhtml
 JHTML_SRCS += grammar-no-moto-de.jhtml
 JHTML_SRCS += grammar-no-nominaliser.jhtml
 JHTML_SRCS += grammar-no-ue-de-wa.jhtml
+JHTML_SRCS += grammar-no-wa-da-important.jhtml
 JHTML_SRCS += grammar-no-wa-N-desu.jhtml
 JHTML_SRCS += grammar-node.jhtml
 JHTML_SRCS += grammar-nominarazu.jhtml
