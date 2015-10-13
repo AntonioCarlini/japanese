@@ -345,14 +345,14 @@ td {
      <th colspan="5"> 14.1-6 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td> 2015-10-06 </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> b </td> <td class="missing"> a </td>
+  <td class="missing"> c </td> <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td> <td class="missing"> a </td>
 </tr>
 </table>
 
@@ -369,14 +369,14 @@ td {
      <th colspan="6"> 15.1-6 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>  <td class=""> </td>
+  <td> 2015-10-07 </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> b </td> <td class="missing"> c </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td>
+  <td class="missing"> b </td> <td class="missing"> a </td>
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>  <td class="ok"> </td>
 </tr>
 </table>
 
@@ -406,13 +406,13 @@ td {
      <th colspan="5"> 16.1-5 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td> 2015-10-08 </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> a </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
 </tr>
 </table>
 
@@ -428,13 +428,13 @@ td {
      <th colspan="5"> 17.1-5 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td> 2015-10-09 </td>
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> a </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> c </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> c </td> <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> c </td>
 </tr>
 </table>
 
@@ -452,13 +452,13 @@ td {
  </tr>
 <tr>
   <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> b </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td>
 </tr>
 </table>
 
@@ -475,15 +475,15 @@ td {
      <th colspan="8"> 19.1-6 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td> 2015-10-11 </td>
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td>
+  <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="missing"> a </td> <td class="missing"> b </td>
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
 
 </tr>
 </table>
