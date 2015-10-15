@@ -66,7 +66,7 @@ If the special reason for going is not stated then @HI{{@EM{{sokode}}}} becomes 
 
 @BGRND{{}}
 <p>
-In @S1@HI{{@EM{{sokode}}}}@S2{{}} @S2{{}} usually represents a controllable action.
+In @S1{{}}@HI{{@EM{{sokode}}}}@S2{{}}, @S2{{}} usually represents a controllable action.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -96,7 +96,7 @@ If the action is not controllable, @HI{{sorede}} should be used instead.
 <h2> Notes </h2>
 
 <p>
-In @S1@HI{{.@EM{{sokode}}}}@S2{{}} @S2{{}} cannot be a command, a request, a suggestion or an invitation.
+In @S1{{}}@HI{{.@EM{{sokode}}}}@S2{{}}, @S2{{}} cannot be a command, a request, a suggestion or an invitation.
 </p>
 
 <h2> References </h2>
