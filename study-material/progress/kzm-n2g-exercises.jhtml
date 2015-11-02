@@ -659,14 +659,14 @@ td {
      <th colspan="5"> 26.1-6 </th>
  </tr>
 <tr>
-  <td>           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td> 2015-10-23 </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td>
+  <td class="missing"> b </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> b </td>
+  <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> a </td>
 </tr>
 </table>
 
