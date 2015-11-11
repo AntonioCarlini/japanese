@@ -2328,6 +2328,7 @@ class KD
     "ignorance" => Kanji.new(2384, 33945, ["MOU","BOU"], ["koumu.ru","oo.u","kura.i"], [""], ["ignorance","darkness","get","receive","be subjected to","sustain","Mongolia"], 9, 0),
     "miscanthus*reed" => Kanji.new(2385, 33541, ["BOU","MYOU"], ["kaya","chigaya"], ["chi","ji"], ["miscanthus reed"], 9, 1),
     "cutting*(grass)" => Kanji.new(2387, 33477, ["GAI","KAI"], ["ka.ru"], ["kari","karu","kan"], ["cutting (grass)"], 0, 0),
+    "lid" => Kanji.new(2388, 33995, ["GAI","KAI","KOU"], ["futa","keda.shi","oo.u","kasa","kakou"], [""], ["lid","cover","flap"], 8, 0),
     "stone*leek" => Kanji.new(2389, 33905, ["SOU"], ["negi"], [""], ["stone leek","Welsh onion"], 0, 0),
     "ignore" => Kanji.new(2390, 34065, ["BETSU"], ["naigashiro","nami.suru","kurai","sagesu.mu"], [""], ["ignore","despise","neglect","ridicule"], 8, 0),
     "hollyhock" => Kanji.new(2391, 33909, ["KI"], ["aoi"], ["mamoru","ke"], ["hollyhock"], 9, 1),
