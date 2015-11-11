@@ -1,3 +1,4 @@
+JHTML_SRCS += jpod-ui-toc.jhtml
 JHTML_SRCS += kzm-n2g-toc.jhtml
 JHTML_SRCS += kzm-n3g-toc.jhtml
 JHTML_SRCS += mnn-int-toc.jhtml
