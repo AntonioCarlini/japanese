@@ -7,33 +7,36 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{bun}}" grammar="@KJ{{part}}"}}
+@GRMIDX{{index="@HI{{bun'}}" grammar="@HI{{@FG{{@KJ{{part}}:bun'}}}}"}}
 
 <body>
 
-<h1>@KJ{{part}}</h1>
+<h1>@HI{{@FG{{@KJ{{part}}:bun'}}}}</h1>
 
 <h2> Formation </h2>
 
 <p>
 <ol>
-<li> <em>number + counter</em> + @KJ{{part}} (@HI{{no}}@N{{}})
-<li> @N{{}} @KJ{{part}}
+<li> @FORMATION{{@CTR{{}} @HI{{@FG{{@KJ{{part}}:bun'}}}}(@HI{{no}}@N{{}})}}
+<li> @FORMATION{{@N{{}}@HI{{@FG{{@KJ{{part}}:bun'}}}}}}
 </ol>
 </p>
 
 <h2> Definition </h2>
 
 <p>
-@KJ{{part}} is an auxiliary that indicates the amount of something.
+@EM{{@HI{{@FG{{@KJ{{part}}:bun'}}}}}} is an auxiliary that indicates the amount of something.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-When <em>number+counter</em> comes before @KJ{{part}} directly, it means the amount or portion represented by that noun.
+When a counter word comes before @EM{{@HI{{@FG{{@KJ{{part}}:bun'}}}}}} directly, it means the amount or portion represented by that noun.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{gasurinn}}wo@KJ{{ten}}@KT{{doru}}@KJ{{part^enter}}reteokimashita.}}
+    @HI{{@KT{{gasurinn}}wo@KJ{{ten}}@KT{{doru}}@KJ{{part}}@EM{{@FG{{@KJ{{enter}}:i}}}}reteokimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     I put in ten dollars worth of fuel.
@@ -41,12 +44,13 @@ When <em>number+counter</em> comes before @KJ{{part}} directly, it means the amo
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-When @N{{}} comes before @KJ{{part}} directly, it means the amount or portion represented by that noun.
+When @N{{}} comes before @EM{{@HI{{@FG{{@KJ{{part}}:bun'}}}}}} directly, it means the amount or portion represented by that noun.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{present^gold}}no@KJ{{negative^leg^part}}ha@KJ{{little^cut^hand}}de@KJ{{private}}imasu.}}
+    @HI{{@FG{{@KJ{{present^gold}}:genkin'}}no@FG{{@KJ{{negative^leg}}:fusoku}}@EM{{@KJ{{part}}}}ha@FG{{@KJ{{little^cut^hand}}:kogitte}}de@FG{{@KJ{{private}}:hara}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
     I'll pay the remaining amount by cheque.
@@ -54,12 +58,14 @@ When @N{{}} comes before @KJ{{part}} directly, it means the amount or portion re
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 16).
+<li> @REF{{DOIJG}}. (p. 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}

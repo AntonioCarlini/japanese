@@ -44,7 +44,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-bun.html"> @KJ{{part}} </a>                                                            </td>
+  <td class="left"> <a href="grammar-bun.html"> @HI{{@FG{{@KJ{{part}}:bun'}}}} </a>                                         </td>
   <td class="left"> DOIJG, p. 16                                                                                            </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
