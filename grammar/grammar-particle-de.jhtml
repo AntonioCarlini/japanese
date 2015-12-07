@@ -149,14 +149,14 @@ Note that if you walk somewhere, the expression @HI{{aruite}} is used and the pa
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 49).
-<li> @REF{{MNN-TR-I}}. (Chapter 5).
-<li> @REF{{MNN-TR-I}}. (Chapter 21).
-<li> @REF{{DOBJG}}. (p. 105).
-<li> @REF{{DOBJG}}. (p. 106).
-<li> @REF{{DOBJG}}. (p. 107).
-<li> @REF{{DOBJG}}. (p. 109).
-<li> @REF{{DOIJG}}. (p. 27).
+<li> @UCREF{{AAP}}. (p. 49).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 5).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @UCREF{{DOBJG}}. (p. 105).
+<li> @UCREF{{DOBJG}}. (p. 106).
+<li> @UCREF{{DOBJG}}. (p. 107).
+<li> @UCREF{{DOBJG}}. (p. 109).
+<li> @UCREF{{DOIJG}}. (p. 27).
 </ol>
 
 @include{{"grammar-footer.inc"}}

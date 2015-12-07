@@ -65,8 +65,8 @@ so the second sentence normally expresses something beyond the control of the sp
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 437).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 437).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

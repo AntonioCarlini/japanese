@@ -99,8 +99,8 @@ and is in the past.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 35).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 35).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

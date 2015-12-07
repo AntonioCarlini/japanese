@@ -76,8 +76,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{EJG}}. (p. 148).
-<li> @REF{{NKZM-N3G}}. (p. 93).
+<li> @UCREF{{EJG}}. (p. 148).
+<li> @UCREF{{NKZM-N3G}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}

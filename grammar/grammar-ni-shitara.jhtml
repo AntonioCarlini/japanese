@@ -45,8 +45,8 @@ It may often be translated as "from the perspective of ~".
 <h2> References </h2>
 
 <ol>
-<li> @REF{{NKZM-N2G}}. (p. 87).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NKZM-N2G}}. (p. 87).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

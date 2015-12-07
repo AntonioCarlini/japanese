@@ -97,8 +97,8 @@ The equivalent sentences in female informal speech would be formed by dropping @
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 170).
-<li> @REF{{AAP}}. (p. 140).
+<li> @UCREF{{DOBJG}}. (p. 170).
+<li> @UCREF{{AAP}}. (p. 140).
 </ol>
 
 @include{{"grammar-footer.inc"}}

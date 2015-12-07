@@ -306,7 +306,7 @@ def process_at_commands(text, data_dir)
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
   begin
-    text.gsub!(/@REF\{\{([^\}]+)\}\}/m) {
+    text.gsub!(/@(?:REF|UCREF)\{\{([^\}]+)\}\}/m) {
       |what|
       ref = $1
       debug_out("inserting for REF:[#{ref}]")

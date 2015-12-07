@@ -39,7 +39,7 @@ This sentence pattern is used to quote the name of something that the listener m
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

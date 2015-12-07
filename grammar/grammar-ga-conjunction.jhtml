@@ -61,8 +61,8 @@ In some utterances @S1{{}} and @S2{{}} do not need to express contrasting notion
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 14).
-<li> @REF{{DOBJG}}. (p 120)
+<li> @UCREF{{MNN-TR-I}}. (Chapter 14).
+<li> @UCREF{{DOBJG}}. (p 120)
 </ol>
 
 @include{{"grammar-footer.inc"}}

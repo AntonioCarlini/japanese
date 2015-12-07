@@ -64,8 +64,8 @@ the resultant state as it is.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 30).
-<li> @REF{{DOBJG}}. (p. 357).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @UCREF{{DOBJG}}. (p. 357).
 </ol>
 @include{{"grammar-footer.inc"}}
 

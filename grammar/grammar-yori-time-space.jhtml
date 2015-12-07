@@ -51,7 +51,7 @@ In this usage @HI{{@EM{{yori}}}} is a particle which indicates a set point in ti
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 567).
+<li> @UCREF{{DOBJG}}. (p. 567).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -45,8 +45,8 @@ This sentence pattern is used at the beginning of a sentence as an introduction 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
-<li> @REF{{NKZM-N3G}}. (p. 71)
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NKZM-N3G}}. (p. 71)
 </ol>
 
 @include{{"grammar-footer.inc"}}

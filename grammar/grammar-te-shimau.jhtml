@@ -62,8 +62,8 @@ to indicate completion or regret can only be determined by context.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 28).
-<li> @REF{{DOBJG}}. (p. 403).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 28).
+<li> @UCREF{{DOBJG}}. (p. 403).
 </ol>
 @include{{"grammar-footer.inc"}}
 

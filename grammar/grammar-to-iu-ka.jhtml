@@ -79,8 +79,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 638).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOAJG}}. (p. 638).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

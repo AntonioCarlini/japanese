@@ -47,7 +47,7 @@ To ask about the time or a time interval, @HI{{nann}} is used with the above cou
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 4).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

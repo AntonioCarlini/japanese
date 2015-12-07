@@ -42,8 +42,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 398).
-<li> @REF{{NKZM-N2G}}. (p. 105).
+<li> @UCREF{{DOAJG}}. (p. 398).
+<li> @UCREF{{NKZM-N2G}}. (p. 105).
 </ol>
 
 @include{{"grammar-footer.inc"}}

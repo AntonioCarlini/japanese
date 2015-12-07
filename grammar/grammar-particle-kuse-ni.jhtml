@@ -61,7 +61,7 @@ to <a href="grammar-noni-although.html">@HI{{noni}}</a>, but with a heightened f
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 94).
+<li> @UCREF{{AAP}}. (p 94).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -95,8 +95,8 @@ of something that he assumes is not known to the listener.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 131).
-<li> @REF{{DOBJG}}. (p. 543).
+<li> @UCREF{{AAP}}. (p. 131).
+<li> @UCREF{{DOBJG}}. (p. 543).
 </ol>
 
 @include{{"grammar-footer.inc"}}

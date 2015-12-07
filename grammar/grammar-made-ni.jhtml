@@ -60,9 +60,9 @@ is the time limit by which an action is to be completed.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 17).
-<li> @REF{{DOBJG}}. (p. 228).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @UCREF{{DOBJG}}. (p. 228).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -41,7 +41,7 @@ without specifying what might be done at the remote destination.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 43).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 43).
 </ol>
 @include{{"grammar-footer.inc"}}
 

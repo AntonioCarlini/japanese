@@ -114,10 +114,10 @@ This sentence pattern can be used with the same verb in positive and negative fo
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 19).
-<li> @REF{{DOBJG}}. (p. 458).
-<li> @REF{{AAP}}. (p. 108).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 19).
+<li> @UCREF{{DOBJG}}. (p. 458).
+<li> @UCREF{{AAP}}. (p. 108).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}

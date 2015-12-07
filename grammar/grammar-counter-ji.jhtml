@@ -49,8 +49,8 @@ To ask "what time is it?", use @HI{{nannjidesuka}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 4).
-<li> @REF{{MNN-TR-I}}. (Appendix II).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @UCREF{{MNN-TR-I}}. (Appendix II).
 </ol>
 
 @include{{"grammar-footer.inc"}}

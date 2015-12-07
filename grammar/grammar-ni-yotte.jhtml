@@ -135,14 +135,14 @@ is concrete and tangible.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 292).
-<li> @REF{{NKZM-N3G}}. (p. 18).
-<li> @REF{{NKZM-N3G}}. (p. 62).
-<li> @REF{{NKZM-N2G}}. (p. 74).
-<li> @REF{{NKZM-N2G}}. (p. 122).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 292).
+<li> @UCREF{{NKZM-N3G}}. (p. 18).
+<li> @UCREF{{NKZM-N3G}}. (p. 62).
+<li> @UCREF{{NKZM-N2G}}. (p. 74).
+<li> @UCREF{{NKZM-N2G}}. (p. 122).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

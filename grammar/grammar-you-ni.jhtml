@@ -64,9 +64,9 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 36).
-<li> @REF{{DOBJG}}. (p. 553).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @UCREF{{DOBJG}}. (p. 553).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

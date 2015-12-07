@@ -39,9 +39,9 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{JACG}}. (p. 249).
-<li> @REF{{NKZM-N2G}}. (p. 116).
-<li> @REF{{NKZM-N2G}}. (p. 128).
+<li> @UCREF{{JACG}}. (p. 249).
+<li> @UCREF{{NKZM-N2G}}. (p. 116).
+<li> @UCREF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}

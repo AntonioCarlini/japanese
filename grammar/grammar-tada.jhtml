@@ -119,8 +119,8 @@ before it is understood from the context.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 445).
-<li> @REF{{DOAJG}}. (p. 570).
+<li> @UCREF{{DOIJG}}. (p. 445).
+<li> @UCREF{{DOAJG}}. (p. 570).
 </ol>
 
 @include{{"grammar-footer.inc"}}

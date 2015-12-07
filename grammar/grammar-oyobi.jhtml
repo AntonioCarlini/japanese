@@ -45,7 +45,7 @@ It is a highly formal word commonly used in the titles of formal documents.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 521).
+<li> @UCREF{{DOAJG}}. (p. 521).
 </ol>
 
 @include{{"grammar-footer.inc"}}

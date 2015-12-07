@@ -42,7 +42,7 @@ the listener for advice or instruction about what to do.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 26).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 26).
 </ol>
 
 @include{{"grammar-footer.inc"}}

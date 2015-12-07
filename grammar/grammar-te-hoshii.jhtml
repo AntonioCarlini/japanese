@@ -100,10 +100,10 @@ is used.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 146).
-<li> @REF{{NKZM-N3G}}. (p. 44).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 146).
+<li> @UCREF{{NKZM-N3G}}. (p. 44).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

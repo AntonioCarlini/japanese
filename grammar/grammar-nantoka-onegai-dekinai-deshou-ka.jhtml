@@ -43,7 +43,7 @@ In this example, you have a bad tooth but the dentist's surgery is about to clos
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

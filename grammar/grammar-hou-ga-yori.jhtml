@@ -59,9 +59,9 @@ The @HI{{houga}} part is not always necessary.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 140).
-<li> @REF{{DOBJG}}. (p. 564).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
+<li> @UCREF{{DOBJG}}. (p. 140).
+<li> @UCREF{{DOBJG}}. (p. 564).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}

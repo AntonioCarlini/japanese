@@ -88,8 +88,8 @@ These latter two verbs also take @HI{{ga}} to mark the object seen or head.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 27).
-<li> @REF{{DOBJG}}. (p. 370).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 27).
+<li> @UCREF{{DOBJG}}. (p. 370).
 </ol>
 
 @include{{"grammar-footer.inc"}}

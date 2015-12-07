@@ -70,8 +70,8 @@ sentence pattern above.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 18).
-<li> @REF{{DOBJG}}. (p. 200).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @UCREF{{DOBJG}}. (p. 200).
 </ol>
 
 @include{{"grammar-footer.inc"}}

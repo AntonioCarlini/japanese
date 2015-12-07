@@ -80,7 +80,7 @@ would be to use @KJ{{difference}}@HI{{imasu}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 2).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}

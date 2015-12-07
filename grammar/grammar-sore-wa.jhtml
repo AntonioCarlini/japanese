@@ -51,7 +51,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 30).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
 </ol>
 
 @include{{"grammar-footer.inc"}}

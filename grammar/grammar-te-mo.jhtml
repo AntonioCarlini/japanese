@@ -109,11 +109,11 @@ With a WH word @HI{{temo}} means "no matter WH".
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 25).
-<li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @REF{{DOBJG}}. (p. 468).
-<li> @REF{{AAP}}. (p. 29).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 25).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 23).
+<li> @UCREF{{DOBJG}}. (p. 468).
+<li> @UCREF{{AAP}}. (p. 29).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

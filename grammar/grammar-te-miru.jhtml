@@ -43,8 +43,8 @@ It can also mean that the attempt is a trial.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 246).
-<li> @REF{{MNN-TR-II}}. (Chapter 40).
+<li> @UCREF{{DOBJG}}. (p. 246).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 40).
 </ol>
 
 @include{{"grammar-footer.inc"}}

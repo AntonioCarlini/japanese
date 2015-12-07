@@ -81,8 +81,8 @@ this one involves the least amount of certainty.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 32).
-<li> @REF{{DOBJG}}. (p 100).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @UCREF{{DOBJG}}. (p 100).
 </ol>
 
 @include{{"grammar-footer.inc"}}

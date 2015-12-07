@@ -92,9 +92,9 @@ abstract or imperceptible.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 38).
-<li> @REF{{DOBJG}} (p. 318).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 38).
+<li> @UCREF{{DOBJG}} (p. 318).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

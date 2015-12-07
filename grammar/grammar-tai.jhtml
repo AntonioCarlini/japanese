@@ -78,8 +78,8 @@ Note, however, that @HI{{@EM{{tai}}}} can be used with a third person:
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 441).
-<li> @REF{{MNN-TR-I}}. (Chapter 13).
+<li> @UCREF{{DOBJG}}. (p. 441).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}

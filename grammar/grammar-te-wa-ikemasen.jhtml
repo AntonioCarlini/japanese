@@ -53,8 +53,8 @@ A slightly stronger expression is @Vte{{}}@HI{{hanaranai}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 15).
-<li> @REF{{DOBJG}}. (p. 528).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 15).
+<li> @UCREF{{DOBJG}}. (p. 528).
 </ol>
 
 @include{{"grammar-footer.inc"}}

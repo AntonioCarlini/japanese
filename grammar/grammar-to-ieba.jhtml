@@ -46,10 +46,10 @@ of a subsequent discourse.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 484).
-<li> @REF{{NKZM-N2G}}. (p. 60).
-<li> @REF{{NKZM-N2G}}. (p. 124).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 484).
+<li> @UCREF{{NKZM-N2G}}. (p. 60).
+<li> @UCREF{{NKZM-N2G}}. (p. 124).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

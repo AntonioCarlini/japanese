@@ -125,8 +125,8 @@ whereas the form with @HI{{mo}} carries no such nuance.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 600).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOAJG}}. (p. 600).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -59,8 +59,8 @@ a critical response.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 137).
-<li> @REF{{DOIJG}}. (p. 358).
+<li> @UCREF{{AAP}}. (p. 137).
+<li> @UCREF{{DOIJG}}. (p. 358).
 </ol>
 
 @include{{"grammar-footer.inc"}}

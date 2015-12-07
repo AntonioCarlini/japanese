@@ -73,10 +73,10 @@ The main clause is a negative form.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 103).
-<li> @REF{{NKZM-N2G}}. (p. 65).
-<li> @REF{{NKZM-N2G}}. (p. 124).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 103).
+<li> @UCREF{{NKZM-N2G}}. (p. 65).
+<li> @UCREF{{NKZM-N2G}}. (p. 124).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

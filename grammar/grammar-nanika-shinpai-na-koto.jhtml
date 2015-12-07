@@ -43,7 +43,7 @@
 <h2> Notes </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 32).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
 </ol>
 
 @include{{"grammar-footer.inc"}}

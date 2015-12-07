@@ -43,7 +43,7 @@ this to be the minimum amount necessary.
 <h2> Notes </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 42).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -73,8 +73,8 @@ With a WH word @HI{{te mo ii}} means "it is alright no matter WH".
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 15).
-<li> @REF{{DOBJG}}. (p. 471).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 15).
+<li> @UCREF{{DOBJG}}. (p. 471).
 </ol>
 
 @include{{"grammar-footer.inc"}}

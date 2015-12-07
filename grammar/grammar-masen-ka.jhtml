@@ -42,7 +42,7 @@ When the speaker wishes to invite someone to do something, this expression is us
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 6).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

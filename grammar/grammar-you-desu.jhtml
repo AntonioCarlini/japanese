@@ -102,8 +102,8 @@ The colloquial form of @HI{{@EM{{you desu}}}} is @HI{{mitai}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 47).
-<li> @REF{{DOBJG}}. (p. 547).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 47).
+<li> @UCREF{{DOBJG}}. (p. 547).
 </ol>
 
 @include{{"grammar-footer.inc"}}

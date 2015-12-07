@@ -76,12 +76,12 @@ used with past sentences, except indirectly by presenting the negation as a stat
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 133).
-<li> @REF{{DOIJG}}. (p. 147).
-<li> @REF{{DOIJG}}. (p. 578).
-<li> @REF{{NKZM-N3G}}. (p. 38).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 133).
+<li> @UCREF{{DOIJG}}. (p. 147).
+<li> @UCREF{{DOIJG}}. (p. 578).
+<li> @UCREF{{NKZM-N3G}}. (p. 38).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 10).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

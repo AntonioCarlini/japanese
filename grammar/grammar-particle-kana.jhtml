@@ -99,10 +99,10 @@ The equivalent female particle is <a href="grammar-particle-kashira.html">@HI{{k
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 133).
-<li> @REF{{DOIJG}}. (p. 90).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{AAP}}. (p. 133).
+<li> @UCREF{{DOIJG}}. (p. 90).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

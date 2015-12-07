@@ -88,8 +88,8 @@ This form generally expresses more direct causation.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-JP-II}}. (Chapter 48).
-<li> @REF{{DOBJG}}. (p. 387).
+<li> @UCREF{{MNN-JP-II}}. (Chapter 48).
+<li> @UCREF{{DOBJG}}. (p. 387).
 </ol>
 
 @include{{"grammar-footer.inc"}}

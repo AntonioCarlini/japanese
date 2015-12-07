@@ -58,8 +58,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 27).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOAJG}}. (p. 27).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

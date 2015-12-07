@@ -90,10 +90,10 @@ When used with nouns @HI{{@EM{{toka}}}} has a more informal feel than @HI{{ya}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 36).
-<li> @REF{{AAP}}. (p. 42).
-<li> @REF{{DOBJG}}. (p. 488).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @UCREF{{AAP}}. (p. 42).
+<li> @UCREF{{DOBJG}}. (p. 488).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -94,8 +94,8 @@ and <a href="grammar-particle-yo.html">@HI{{yo}}</a>. In such cases @HI{{@EM{{wa
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 132).
-<li> @REF{{DOBJG}}. (p. 520).
+<li> @UCREF{{AAP}}. (p. 132).
+<li> @UCREF{{DOBJG}}. (p. 520).
 </ol>
 
 @include{{"grammar-footer.inc"}}

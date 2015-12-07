@@ -48,8 +48,8 @@ that the probability that the conjecture is correct is lower than with <a href="
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 32).
-<li> @REF{{DOBJG}}. (p. 173).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @UCREF{{DOBJG}}. (p. 173).
 </ol>
 
 @include{{"grammar-footer.inc"}}

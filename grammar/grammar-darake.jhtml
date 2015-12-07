@@ -50,9 +50,9 @@ can include intangible objects and is not restricted to liquids or powders.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 25).
-<li> @REF{{NKZM-N3G}}. (p. 97).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 25).
+<li> @UCREF{{NKZM-N3G}}. (p. 97).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

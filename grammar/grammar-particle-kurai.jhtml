@@ -81,8 +81,8 @@ There is no difference in meaning between @HI{{@EM{{kurai}}}} and @HI{{@EM{{gura
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 75).
-<li> @REF{{DOBJG}}. (p. 212).
+<li> @UCREF{{AAP}}. (p. 75).
+<li> @UCREF{{DOBJG}}. (p. 212).
 </ol>
 
 @include{{"grammar-footer.inc"}}

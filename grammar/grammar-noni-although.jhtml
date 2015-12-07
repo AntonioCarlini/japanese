@@ -87,9 +87,9 @@ can only be used when something actually happened.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 331).
-<li> @REF{{MNN-TR-II}}. (Chapter 45).
-<li> @REF{{AAP}}. (p. 93).
+<li> @UCREF{{DOBJG}}. (p. 331).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 45).
+<li> @UCREF{{AAP}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}

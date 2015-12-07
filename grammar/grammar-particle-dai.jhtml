@@ -61,8 +61,8 @@ as the @HI{{nn}} is an abbreviation of the nominaliser <a href="grammar-no-nomin
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 90).
-<li> @REF{{AAP}}. (p. 140).
+<li> @UCREF{{DOBJG}}. (p. 90).
+<li> @UCREF{{AAP}}. (p. 140).
 </ol>
 
 @include{{"grammar-footer.inc"}}

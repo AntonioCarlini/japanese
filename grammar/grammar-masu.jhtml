@@ -161,9 +161,9 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 4).
-<li> @REF{{MNN-TR-I}}. (Chapter 6).
-<li> @REF{{DOBJG}}. (p. 240).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @UCREF{{DOBJG}}. (p. 240).
 </ol>
 
 @include{{"grammar-footer.inc"}}

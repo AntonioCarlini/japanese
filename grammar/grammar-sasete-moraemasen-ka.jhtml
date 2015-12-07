@@ -79,7 +79,7 @@ although the latter is more polite than the former.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

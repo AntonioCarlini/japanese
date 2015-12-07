@@ -56,10 +56,10 @@ occurs at the end of a sentence.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 85).
-<li> @REF{{NKZM-N2G}}. (p. 56).
-<li> @REF{{NKZM-N2G}}. (p. 83).
-<li> @REF{{NKZM-N2G}}. (p. 132).
+<li> @UCREF{{DOAJG}}. (p. 85).
+<li> @UCREF{{NKZM-N2G}}. (p. 56).
+<li> @UCREF{{NKZM-N2G}}. (p. 83).
+<li> @UCREF{{NKZM-N2G}}. (p. 132).
 </ol>
 
 @include{{"grammar-footer.inc"}}

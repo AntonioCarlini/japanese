@@ -98,9 +98,9 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 42).
-<li> @REF{{DOBJG}}. (p. 447).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
+<li> @UCREF{{DOBJG}}. (p. 447).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

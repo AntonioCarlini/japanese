@@ -274,9 +274,9 @@ the particle is not used. @HI{{@EM{{ni}}}} may optionally be used with days of t
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 32).
-<li> @REF{{MNN-TR-I}}. (Chapter 4).
-<li> @REF{{DOBJG}}. (p. 289).
+<li> @UCREF{{AAP}}. (p. 32).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @UCREF{{DOBJG}}. (p. 289).
 </ol>
 
 @include{{"grammar-footer.inc"}}

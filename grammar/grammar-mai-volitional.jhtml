@@ -58,8 +58,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 161).
-<li> @REF{{NKZM-N2G}}. (p. 101).
+<li> @UCREF{{DOIJG}}. (p. 161).
+<li> @UCREF{{NKZM-N2G}}. (p. 101).
 </ol>
 
 @include{{"grammar-footer.inc"}}

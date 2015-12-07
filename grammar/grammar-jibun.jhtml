@@ -61,8 +61,8 @@ to a human subject with whom the speaker empathises.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 159).
-<li> @REF{{DOBJG}}. (p. 161).
+<li> @UCREF{{DOBJG}}. (p. 159).
+<li> @UCREF{{DOBJG}}. (p. 161).
 </ol>
 
 @include{{"grammar-footer.inc"}}

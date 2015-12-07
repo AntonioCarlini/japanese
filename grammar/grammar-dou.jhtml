@@ -85,9 +85,9 @@ normally end in @HI{{kara}} ("because").
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 114).
-<li> @REF{{MNN-TR-I}}. (Chapter 8).
-<li> @REF{{MNN-TR-I}}. (Chapter 9).
+<li> @UCREF{{DOBJG}}. (p. 114).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 8).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

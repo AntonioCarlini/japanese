@@ -46,9 +46,9 @@ is used instead.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 512).
-<li> @REF{{NKZM-N2G}}. (p. 68).
-<li> @REF{{NKZM-N2G}}. (p. 124).
+<li> @UCREF{{DOIJG}}. (p. 512).
+<li> @UCREF{{NKZM-N2G}}. (p. 68).
+<li> @UCREF{{NKZM-N2G}}. (p. 124).
 </ol>
 
 @include{{"grammar-footer.inc"}}

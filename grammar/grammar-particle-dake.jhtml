@@ -99,9 +99,9 @@ and @HI{{wo}}, which can optionally be used only after @HI{{@EM{{dake}}}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 93).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
-<li> @REF{{NKZM-N2G}}. (p. 21).
+<li> @UCREF{{DOBJG}}. (p. 93).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @UCREF{{NKZM-N2G}}. (p. 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}

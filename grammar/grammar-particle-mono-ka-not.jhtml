@@ -96,11 +96,11 @@ In male speech @HI{{@EM{{monoka}}}} becomes @HI{{@EM{{monka}}}} in colloquial ma
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 144).
-<li> @REF{{DOAJG}}. (p. 266).
-<li> @REF{{NKZM-N2G}}. (p. 56).
-<li> @REF{{NKZM-N2G}}. (p. 109).
-<li> @REF{{NKZM-N2G}}. (p. 128).
+<li> @UCREF{{AAP}}. (p. 144).
+<li> @UCREF{{DOAJG}}. (p. 266).
+<li> @UCREF{{NKZM-N2G}}. (p. 56).
+<li> @UCREF{{NKZM-N2G}}. (p. 109).
+<li> @UCREF{{NKZM-N2G}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}

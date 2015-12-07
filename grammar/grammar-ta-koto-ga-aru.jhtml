@@ -74,8 +74,8 @@ This sentence pattern is used to indicate that someone has experience of somethi
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 19).
-<li> @REF{{DOBJG}}. (page 196).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 19).
+<li> @UCREF{{DOBJG}}. (page 196).
 </ol>
 
 @include{{"grammar-footer.inc"}}

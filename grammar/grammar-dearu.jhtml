@@ -68,8 +68,8 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 30).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @UCREF{{DOIJG}}. (p. 30).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -79,8 +79,8 @@ Where the @HI{{de}} of @HI{{@EM{{nai de}}}} has a meaning of "and", <a href="gra
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 17).
-<li> @REF{{DOBJG}}. (p. 271).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @UCREF{{DOBJG}}. (p. 271).
 </ol>
 
 @include{{"grammar-footer.inc"}}

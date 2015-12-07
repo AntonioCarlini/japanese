@@ -162,13 +162,13 @@ must be used.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 6).
-<li> @REF{{MNN-TR-I}}. (Chapter 7).
-<li> @REF{{MNN-TR-I}}. (Chapter 24).
-<li> @REF{{MNN-TR-II}}. (Chapter 41).
-<li> @REF{{DOBJG}}. (p. 63).
-<li> @REF{{DOBJG}}. (p. 261).
-<li> @REF{{DOBJG}}. (p. 213).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 7).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 24).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @UCREF{{DOBJG}}. (p. 63).
+<li> @UCREF{{DOBJG}}. (p. 261).
+<li> @UCREF{{DOBJG}}. (p. 213).
 </ol>
 
 @include{{"grammar-footer.inc"}}

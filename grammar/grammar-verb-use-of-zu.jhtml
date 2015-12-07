@@ -98,9 +98,9 @@ and @HI{{nu}} can be used at the end of a sentence or before a noun, auxiliary o
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
-<li> @REF{{DOBJG}}. (p. 271).
-<li> @REF{{DOIJG}}. (p. 315).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
+<li> @UCREF{{DOBJG}}. (p. 271).
+<li> @UCREF{{DOIJG}}. (p. 315).
 </ol>
 
 @include{{"grammar-footer.inc"}}

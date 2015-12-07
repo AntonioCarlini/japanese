@@ -125,10 +125,10 @@ only with a very special occasion, such as a wedding.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{NKZM-N2G}}. (p. 8).
-<li> @REF{{NKZM-N2G}}. (p. 122).
-<li> @REF{{DOIJG}}. (p. 369).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NKZM-N2G}}. (p. 8).
+<li> @UCREF{{NKZM-N2G}}. (p. 122).
+<li> @UCREF{{DOIJG}}. (p. 369).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -41,11 +41,11 @@ emphasis on the derogatory meaning.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 267).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
-<li> @REF{{NKZM-N3G}}. (p. 59).
-<li> @REF{{NKZM-N2G}}. (p. 96).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 267).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @UCREF{{NKZM-N3G}}. (p. 59).
+<li> @UCREF{{NKZM-N2G}}. (p. 96).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

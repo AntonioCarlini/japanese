@@ -92,9 +92,9 @@ that subject is marked with @HI{{wo}} rather than @HI{{ga}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 102).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 102).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

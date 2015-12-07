@@ -74,8 +74,8 @@ is unsure when the event might take place, <a href="grammar-uchi-ni.html">@HI{{u
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 18).
-<li> @REF{{DOBJG}}. (p. 231).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @UCREF{{DOBJG}}. (p. 231).
 </ol>
 
 @include{{"grammar-footer.inc"}}

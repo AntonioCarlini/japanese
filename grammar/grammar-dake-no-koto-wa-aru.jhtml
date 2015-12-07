@@ -89,8 +89,8 @@ expresses the reason for the result.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 51).
-<li> @REF{{NKZM-N2G}}. (p. 86).
+<li> @UCREF{{DOAJG}}. (p. 51).
+<li> @UCREF{{NKZM-N2G}}. (p. 86).
 </ol>
 
 @include{{"grammar-footer.inc"}}

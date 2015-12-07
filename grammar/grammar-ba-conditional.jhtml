@@ -42,7 +42,7 @@ Use of the @HI{{nara}} forms is described <a href="grammar-nara.html">here</a>.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 81).
+<li> @UCREF{{DOBJG}}. (p. 81).
 </ol>
 
 @include{{"grammar-footer.inc"}}

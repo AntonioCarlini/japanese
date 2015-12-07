@@ -110,9 +110,9 @@ Similarly @HI{{@EM{{ikura}}demoiru}} is often shotened to @HI{{@EM{{ikura}}moiru
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 138).
-<li> @REF{{EJG}}. (p. 202).
-<li> @REF{{NKZM-N3G}}. (p. 93).
+<li> @UCREF{{DOAJG}}. (p. 138).
+<li> @UCREF{{EJG}}. (p. 202).
+<li> @UCREF{{NKZM-N3G}}. (p. 93).
 </ol>
 
 @include{{"grammar-footer.inc"}}

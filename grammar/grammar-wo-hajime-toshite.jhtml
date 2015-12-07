@@ -50,8 +50,8 @@ The following clause makes a statement about the larger group that includes the 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 320).
-<li> @REF{{NKZM-N2G}}. (p. 20).
+<li> @UCREF{{DOIJG}}. (p. 320).
+<li> @UCREF{{NKZM-N2G}}. (p. 20).
 </ol>
 
 @include{{"grammar-footer.inc"}}

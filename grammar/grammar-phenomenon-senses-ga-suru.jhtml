@@ -44,7 +44,7 @@ This sentence pattern describes a phenonmenon that is perceived by the senses
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 47).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 47).
 </ol>
 
 @include{{"grammar-footer.inc"}}

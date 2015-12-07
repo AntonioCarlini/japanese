@@ -52,8 +52,8 @@ on the part of the speaker.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 16).
-<li> @REF{{DOBJG}}. (p. 177).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 16).
+<li> @UCREF{{DOBJG}}. (p. 177).
 </ol>
 
 @include{{"grammar-footer.inc"}}

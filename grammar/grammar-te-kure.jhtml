@@ -56,7 +56,7 @@
 <h2> Notes </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

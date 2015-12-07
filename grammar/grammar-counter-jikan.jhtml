@@ -47,8 +47,8 @@ To ask "how many hours?", use @HI{{nannjikann}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @REF{{MNN-TR-I}}. (Appendix IV).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 11).
+<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
 @include{{"grammar-footer.inc"}}

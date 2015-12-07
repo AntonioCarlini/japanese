@@ -74,9 +74,9 @@ When @HI{{no@KJ{{below}}de}} refers to a physical space it is limited to "atmosp
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 310).
-<li> @REF{{NKZM-N2G}}. (p. 39).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 310).
+<li> @UCREF{{NKZM-N2G}}. (p. 39).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

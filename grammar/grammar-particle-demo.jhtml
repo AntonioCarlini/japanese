@@ -115,9 +115,9 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 49).
-<li> @REF{{MNN-TR-I}}. (Chapter 21).
-<li> @REF{{NKZM-N3G}}. (p. 58).
+<li> @UCREF{{AAP}}. (p. 49).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @UCREF{{NKZM-N3G}}. (p. 58).
 </ol>
 
 @include{{"grammar-footer.inc"}}

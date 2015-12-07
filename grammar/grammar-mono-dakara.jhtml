@@ -61,11 +61,11 @@ to indicate a reason in the first clause for something that happens in the secon
 <h2> References </h2>
 
 <ol>
-<li> @REF{{JACG}}. (p. 251).
-<li> @REF{{NKZM-N2G}}. (p. 74).
-<li> @REF{{NKZM-N2G}}. (p. 128).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{JACG}}. (p. 251).
+<li> @UCREF{{NKZM-N2G}}. (p. 74).
+<li> @UCREF{{NKZM-N2G}}. (p. 128).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

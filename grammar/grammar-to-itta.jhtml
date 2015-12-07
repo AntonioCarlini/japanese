@@ -75,9 +75,9 @@ When @HI{{@EM{{to@KJ{{say}}tta}}}} is preceded by a single sentence, the implica
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 629).
-<li> @REF{{NKZM-N2G}}. (p. 47).
-<li> @REF{{NKZM-N2G}}. (p. 124).
+<li> @UCREF{{DOAJG}}. (p. 629).
+<li> @UCREF{{NKZM-N2G}}. (p. 47).
+<li> @UCREF{{NKZM-N2G}}. (p. 124).
 </ol>
 
 @include{{"grammar-footer.inc"}}

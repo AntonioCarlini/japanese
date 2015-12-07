@@ -92,8 +92,8 @@ For all other particles, @HI{{@EM{{shika}}}} follows them rather than replacing 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 27).
-<li> @REF{{AAP}}. (p. 85).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 27).
+<li> @UCREF{{AAP}}. (p. 85).
 </ol>
 
 @include{{"grammar-footer.inc"}}

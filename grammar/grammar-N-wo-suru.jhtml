@@ -41,8 +41,8 @@ Some examples are:
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 6).
-<li> @REF{{JACG}}. (p. 571).  
+<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @UCREF{{JACG}}. (p. 571).  
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -66,7 +66,7 @@ or @HI{{youji}} etc.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 22).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 22).
 </ol>
 
 @include{{"grammar-footer.inc"}}

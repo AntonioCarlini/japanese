@@ -85,9 +85,9 @@ Strictly speaking, @HI{{ni}} indicates the destination.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 28).
-<li> @REF{{AAP}}. (p. 60).
-<li> @REF{{DOBJG}}. (p. 116).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 28).
+<li> @UCREF{{AAP}}. (p. 60).
+<li> @UCREF{{DOBJG}}. (p. 116).
 </ol>
 
 @include{{"grammar-footer.inc"}}

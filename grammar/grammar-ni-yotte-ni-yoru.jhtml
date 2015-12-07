@@ -56,8 +56,8 @@ clause.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 292).
-<li> @REF{{NKZM-N3G}}. (p. 30).
+<li> @UCREF{{DOIJG}}. (p. 292).
+<li> @UCREF{{NKZM-N3G}}. (p. 30).
 </ol>
 
 @include{{"grammar-footer.inc"}}

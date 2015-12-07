@@ -67,8 +67,8 @@ The only difference between any of these three forms is that the @HI{{ikani~(kot
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 39).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 39).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

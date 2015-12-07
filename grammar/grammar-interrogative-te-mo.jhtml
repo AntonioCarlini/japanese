@@ -54,7 +54,7 @@ This pattern expresses that something happens under all circumstances, whatever 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

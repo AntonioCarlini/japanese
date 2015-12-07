@@ -67,10 +67,10 @@ The former seems to be preferred in writing and the latter in speech.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 268).
-<li> @REF{{NKZM-N2G}}. (p. 42).
-<li> @REF{{NKZM-N2G}}. (p. 122).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 268).
+<li> @UCREF{{NKZM-N2G}}. (p. 42).
+<li> @UCREF{{NKZM-N2G}}. (p. 122).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

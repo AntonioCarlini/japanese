@@ -93,8 +93,8 @@ In colloquial speech @HI{{@EM{{dochirakato@KJ{{say}}uto}}}} very often becomes @
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 78).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
+<li> @UCREF{{DOAJG}}. (p. 78).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}

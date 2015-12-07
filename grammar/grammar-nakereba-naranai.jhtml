@@ -70,8 +70,8 @@ The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{na
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 17).
-<li> @REF{{DOBJG}}. (p. 274).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @UCREF{{DOBJG}}. (p. 274).
 </ol>
 
 @include{{"grammar-footer.inc"}}

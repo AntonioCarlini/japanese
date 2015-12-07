@@ -90,9 +90,9 @@ Sentences in VN@HI{{no@KJ{{one^direction}}(de)}} can be rephrased to use @N{{}}@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{NKZM-N3G}}. (p. 24).
-<li> @REF{{DOAJG}}. (p. 149).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NKZM-N3G}}. (p. 24).
+<li> @UCREF{{DOAJG}}. (p. 149).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

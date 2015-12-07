@@ -202,13 +202,13 @@ question marker in colloquial sentences.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p 68).
-<li> @REF{{MNN-TR-I}}. (Chapter 1).
-<li> @REF{{MNN-TR-I}}. (Chapter 2).
-<li> @REF{{MNN-TR-I}}. (Chapter 3).
-<li> @REF{{DOBJG}}. (p. 312).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @UCREF{{AAP}}. (p 68).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 2).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 3).
+<li> @UCREF{{DOBJG}}. (p. 312).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}

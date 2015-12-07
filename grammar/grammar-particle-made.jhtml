@@ -104,13 +104,13 @@ When X refers to a duration of time, then "X@HI{{@EM{{made}}}}" means "up to and
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 65).
-<li> @REF{{MNN-TR-I}}. (Chapter 4).
-<li> @REF{{DOBJG}}. (p. 225).
-<li> @REF{{NKZM-N3G}}. (p. 59).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
-<li> @REF{{NKZM-N2G}}. (p. 96).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{AAP}}. (p. 65).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @UCREF{{DOBJG}}. (p. 225).
+<li> @UCREF{{NKZM-N3G}}. (p. 59).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
+<li> @UCREF{{NKZM-N2G}}. (p. 96).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

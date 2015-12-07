@@ -135,7 +135,7 @@ At the end of a sentence, @HI{{@EM{{tomo}}}} adds decisiveness to a positive sta
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 111).
+<li> @UCREF{{AAP}}. (p. 111).
 </ol>
 
 @include{{"grammar-footer.inc"}}

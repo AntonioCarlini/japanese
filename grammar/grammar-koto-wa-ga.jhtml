@@ -41,8 +41,8 @@ an opposing opinion.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 452).
-<li> @REF{{NKZM-N3G}}. (p. 39).
+<li> @UCREF{{DOIJG}}. (p. 452).
+<li> @UCREF{{NKZM-N3G}}. (p. 39).
 </ol>
 
 @include{{"grammar-footer.inc"}}

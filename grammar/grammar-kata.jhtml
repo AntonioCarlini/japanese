@@ -71,7 +71,7 @@ When @EM{{@KJ{{direction}}}} means "method", it can be replaced by @EM{{@KJ{{dir
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 183).
+<li> @UCREF{{DOBJG}}. (p. 183).
 </ol>
 
 @include{{"grammar-footer.inc"}}

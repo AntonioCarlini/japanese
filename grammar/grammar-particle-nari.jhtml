@@ -100,8 +100,8 @@ The expression @HI{{@KJ{{large}}@EM{{nari}}@KJ{{little}}@EM{{nari}}}} indicates 
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 117).
-<li> @REF{{DOIJG}}. (p. 223).
+<li> @UCREF{{AAP}}. (p. 117).
+<li> @UCREF{{DOIJG}}. (p. 223).
 </ol>
 
 @include{{"grammar-footer.inc"}}

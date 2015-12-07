@@ -58,7 +58,7 @@ accompany another action.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 34).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 34).
 </ol>
 
 @include{{"grammar-footer.inc"}}

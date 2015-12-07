@@ -108,8 +108,8 @@ In order to say "it seems to me ...", use @HI{{@KJ{{private}}niha}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 325).
-<li> @REF{{JPOD101-UI-S5-019}}
+<li> @UCREF{{DOIJG}}. (p. 325).
+<li> @UCREF{{JPOD101-UI-S5-019}}
 </ol>
 
 @include{{"grammar-footer.inc"}}

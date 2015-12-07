@@ -45,8 +45,8 @@ need not be done.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 17).
-<li> @REF{{DOBJG}}. (p 27).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @UCREF{{DOBJG}}. (p 27).
 </ol>
 
 @include{{"grammar-footer.inc"}}

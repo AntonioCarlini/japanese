@@ -52,8 +52,8 @@ The pattern @KJ{{what}} + <em>counter</em> + @HI{{mo}} means that the quantity m
 <h2> Notes </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 42).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

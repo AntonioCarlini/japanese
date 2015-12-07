@@ -63,8 +63,8 @@ Only nouns that incorporate the idea of an adjective or adverb can be modified b
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 18).
-<li> @REF{{DOIJG}}. (p. 206).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @UCREF{{DOIJG}}. (p. 206).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -224,8 +224,8 @@ The reply should be of the form:
 <h1>References</h1>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 8).
-<li> @REF{{MNN-TR-I}}. (Chapter 12).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 8).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
 </body>

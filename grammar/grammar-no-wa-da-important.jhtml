@@ -109,7 +109,7 @@ The element between @HI{{@EM{{noha}}}} and @HI{{@EM{{da}}}} cannot be a manner a
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 337).
+<li> @UCREF{{DOBJG}}. (p. 337).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -153,13 +153,13 @@ replacing them.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 27).
-<li> @REF{{AAP}}. (p. 26).
-<li> @REF{{DOBJG}}. (p. 247).
-<li> @REF{{DOBJG}}. (p. 250).
-<li> @REF{{DOBJG}}. (p. 255).
-<li> @REF{{DOIJG}}. (p. 179).
-<li> @REF{{DOIJG}}. (p. 185).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 27).
+<li> @UCREF{{AAP}}. (p. 26).
+<li> @UCREF{{DOBJG}}. (p. 247).
+<li> @UCREF{{DOBJG}}. (p. 250).
+<li> @UCREF{{DOBJG}}. (p. 255).
+<li> @UCREF{{DOIJG}}. (p. 179).
+<li> @UCREF{{DOIJG}}. (p. 185).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -55,7 +55,7 @@ This sentence pattern is used to pass on information about schedules.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 31).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 31).
 </ol>
 
 @include{{"grammar-footer.inc"}}

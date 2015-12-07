@@ -72,10 +72,10 @@ for reasons that are natural and obvious.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 263).
-<li> @REF{{NKZM-N2G}}. (p. 108).
-<li> @REF{{NKZM-N2G}}. (p. 128).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOAJG}}. (p. 263).
+<li> @UCREF{{NKZM-N2G}}. (p. 108).
+<li> @UCREF{{NKZM-N2G}}. (p. 128).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

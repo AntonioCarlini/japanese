@@ -50,7 +50,7 @@ clause indicates how to cope with the situation or its consequences.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 45).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 45).
 </ol>
 
 @include{{"grammar-footer.inc"}}

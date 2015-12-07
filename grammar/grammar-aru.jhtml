@@ -63,8 +63,8 @@ rather than @HI{{ni}} must be used.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 73).
-<li> @REF{{MNN-TR-I}}. (Chapter 9).
+<li> @UCREF{{DOBJG}}. (p. 73).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -65,10 +65,10 @@ than @Vte{{}} @HI{{kudasai}} and @Vnai{{}}@HI{{de kudasai}}.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 36).
-<li> @REF{{NKZM-N3G}}. (p. 50).
-<li> @REF{{DOBJG}}. (p. 562).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @UCREF{{NKZM-N3G}}. (p. 50).
+<li> @UCREF{{DOBJG}}. (p. 562).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

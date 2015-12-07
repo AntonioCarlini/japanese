@@ -48,7 +48,7 @@ The related pattern @HI{{to iimashita}} is used to quote a third person's words.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 33).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 33).
 </ol>
 
 @include{{"grammar-footer.inc"}}

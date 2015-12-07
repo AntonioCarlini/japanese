@@ -48,7 +48,7 @@ In this example, the speaker did not attend the party and is taking the viewpoin
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 219).
+<li> @UCREF{{DOBJG}}. (p. 219).
 </ol>
 
 @include{{"grammar-footer.inc"}}

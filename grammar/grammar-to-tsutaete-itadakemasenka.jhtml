@@ -45,7 +45,7 @@ This pattern is used to politely request that someone convey a message.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 33).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 33).
 </ol>
 
 @include{{"grammar-footer.inc"}}

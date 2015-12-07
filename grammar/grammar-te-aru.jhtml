@@ -87,8 +87,8 @@ indicates that I opened the window for a future purpose.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 30).
-<li> @REF{{DOBJG}}. (p. 76).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @UCREF{{DOBJG}}. (p. 76).
 </ol>
 
 @include{{"grammar-footer.inc"}}

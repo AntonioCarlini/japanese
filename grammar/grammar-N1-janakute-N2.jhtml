@@ -39,7 +39,7 @@ The sentence pattern @N1{{}}@HI{{janakute}}@N2{{}} is used to deny @N1{{}} and t
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

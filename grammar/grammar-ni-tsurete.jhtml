@@ -63,10 +63,10 @@ As @HI{{@EM{{nitsurete}}}} expresses change, both clauses have to involve change
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 285).
-<li> @REF{{NKZM-N2G}}. (p. 42).
-<li> @REF{{NKZM-N2G}}. (p. 122).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 285).
+<li> @UCREF{{NKZM-N2G}}. (p. 42).
+<li> @UCREF{{NKZM-N2G}}. (p. 122).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

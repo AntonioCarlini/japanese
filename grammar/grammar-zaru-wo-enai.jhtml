@@ -50,10 +50,10 @@ The verb used must be volitional.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 606).
-<li> @REF{{NKZM-N2G}}. (p. 113).
-<li> @REF{{NKZM-N2G}}. (p. 126).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 606).
+<li> @UCREF{{NKZM-N2G}}. (p. 113).
+<li> @UCREF{{NKZM-N2G}}. (p. 126).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

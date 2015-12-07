@@ -117,8 +117,8 @@ This usage is employed by men.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{AAP}}. (p. 135).
-<li> @REF{{DOIJG}}. (p. 193).
+<li> @UCREF{{AAP}}. (p. 135).
+<li> @UCREF{{DOIJG}}. (p. 193).
 </ol>
 
 @include{{"grammar-footer.inc"}}

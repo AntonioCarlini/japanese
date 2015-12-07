@@ -86,10 +86,10 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p 521).
-<li> @REF{{DOBJG}}. (p 100).
-<li> @REF{{DOBJG}}. (p 576).
-<li> @REF{{DOIJG}}. (p 30).
+<li> @UCREF{{DOBJG}}. (p 521).
+<li> @UCREF{{DOBJG}}. (p 100).
+<li> @UCREF{{DOBJG}}. (p 576).
+<li> @UCREF{{DOIJG}}. (p 30).
 </ol>
 
 @include{{"grammar-footer.inc"}}

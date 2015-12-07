@@ -87,11 +87,11 @@ far as to indicate that something has become a rule or a custom.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOBJG}}. (p. 202).
-<li> @REF{{DOIJG}}. (p. 140).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
-<li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOBJG}}. (p. 202).
+<li> @UCREF{{DOIJG}}. (p. 140).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -119,10 +119,10 @@ This construction relates a non-controllable state to a topic.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 1).
-<li> @REF{{MNN-TR-I}}. (Chapter 3).
-<li> @REF{{DOBJG}}. (p. 521).
-<li> @REF{{DOBJG}}. (p. 525).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 1).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 3).
+<li> @UCREF{{DOBJG}}. (p. 521).
+<li> @UCREF{{DOBJG}}. (p. 525).
 </ol>
 
 @include{{"grammar-footer.inc"}}

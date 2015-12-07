@@ -39,10 +39,10 @@
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOAJG}}. (p. 252).
-<li> @REF{{EJG}}. (p. 245).
-<li> @REF{{NKZM-N3G}}. (p. 92).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOAJG}}. (p. 252).
+<li> @UCREF{{EJG}}. (p. 245).
+<li> @UCREF{{NKZM-N3G}}. (p. 92).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

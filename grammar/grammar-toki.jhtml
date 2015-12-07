@@ -120,9 +120,9 @@ A @HI{{@EM{{toki}}}} clause never indicates a condiftion.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @REF{{DOBJG}}. (p. 490).
-<li> @REF{{JPOD101-LI-S6-007}}.
+<li> @UCREF{{MNN-TR-I}}. (Chapter 23).
+<li> @UCREF{{DOBJG}}. (p. 490).
+<li> @UCREF{{JPOD101-LI-S6-007}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

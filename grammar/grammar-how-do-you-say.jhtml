@@ -42,7 +42,7 @@ This question is used to ask how to say a phrase in another language.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 7).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

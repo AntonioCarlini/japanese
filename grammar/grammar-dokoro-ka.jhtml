@@ -113,9 +113,9 @@ If the predicates of the preceding and following clauses differ (i.e. one is pos
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 34).
-<li> @REF{{NKZM-N2G}}. (p. 56).
-<li> @REF{{NKZM-N2G}}. (p. 132).
+<li> @UCREF{{DOIJG}}. (p. 34).
+<li> @UCREF{{NKZM-N2G}}. (p. 56).
+<li> @UCREF{{NKZM-N2G}}. (p. 132).
 </ol>
 
 @include{{"grammar-footer.inc"}}

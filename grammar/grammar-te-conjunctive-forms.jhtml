@@ -94,8 +94,8 @@ should be used instead.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-I}}. (Chapter 16).
-<li> @REF{{DOBJG}}. (p. 464).
+<li> @UCREF{{MNN-TR-I}}. (Chapter 16).
+<li> @UCREF{{DOBJG}}. (p. 464).
 </ol>
 
 @include{{"grammar-footer.inc"}}

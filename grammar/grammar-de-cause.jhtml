@@ -52,8 +52,8 @@ The predicate cannot include volition.
 <h2> References </h2>
 
 <ol>
-<li> @REF{{MNN-TR-II}}. (Chapter 39).
-<li> @REF{{DOBJG}}. (p 107).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 39).
+<li> @UCREF{{DOBJG}}. (p 107).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -123,11 +123,11 @@ or this form:
 <h2> References </h2>
 
 <ol>
-<li> @REF{{DOIJG}}. (p. 487).
-<li> @REF{{NKZM-N2G}}. (p. 60).
-<li> @REF{{NKZM-N2G}}. (p. 134).
-<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
-<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @UCREF{{DOIJG}}. (p. 487).
+<li> @UCREF{{NKZM-N2G}}. (p. 60).
+<li> @UCREF{{NKZM-N2G}}. (p. 134).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 2).
+<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
