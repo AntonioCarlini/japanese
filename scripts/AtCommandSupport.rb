@@ -299,6 +299,7 @@ $command_to_op = {
   "RELC" => :process_empty_code,
   "RD" => :process_radical,
   "OPTTEXT" => :process_optional_text,
+  "FORMATION" => :process_formation,
 }
 
 def process_at_commands(text, data_dir)
@@ -613,6 +614,22 @@ def process_optional_text(stack, unused)
   result << DoneText.new("</u>")
   return collapse_stack(result)
 end
+
+# Process a formation.
+# The current implementation reproduces the original text unchanged.
+def process_formation(stack, unused)
+  result = []
+  stack.each() {
+    |x|
+    if x.processed?()
+      result << x
+    else
+      result << DoneText.new(x.text())
+    end
+  }
+  return collapse_stack(result)
+end
+
 
 def process_marker(stack, unused)
   return [ DoneText.new("[[MARKER:#{stack.last().text()}]]") ]
