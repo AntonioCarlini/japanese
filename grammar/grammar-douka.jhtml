@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{douka}}}}~@Vte{{}}@HI{{@KJ{{below}}sai.}}
-<li> @HI{{@EM{{douka}}}}~@Vnai{{}}@HI{{de@KJ{{below}}sai.}}
-<li> @HI{{@EM{{douka}}}}~@HI{{o@Vmasustem{{}}@KJ{{below}}sai.}}
+<li> @FORMATION{{@HI{{@EM{{douka}}}}~@Vte{{}}@HI{{@KJ{{below}}sai.}}}}
+<li> @FORMATION{{@HI{{@EM{{douka}}}}~@Vnai{{}}@HI{{de@KJ{{below}}sai.}}}}
+<li> @FORMATION{{@HI{{@EM{{douka}}}}~@HI{{o@Vmasustem{{}}@KJ{{below}}sai.}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -87,10 +87,15 @@ A host may use @HI{{@EM{{douka}}}} to humbly refer to his or her hospitality.
 
 <h2> Notes </h2>
 
+<p>
+@HI{{douzo}} is in some ways similar to @HI{{@EM{{douka}}}} in that it can express a request but doesn't indicate a strong request or plea.
+Rather @HI{{douzo}} indicates politeness. In cases where a plea is being made, only @HI{{@EM{{douka}}}} is appropriate and @HI{{douzo}} cannot be used.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 82).
+<li> @REF{{DOAJG}}. (p. 82).
 </ol>
 
 @include{{"grammar-footer.inc"}}
