@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{akumademo}}}}
+<li> @FORMATION{{@HI{{@EM{{akumademo}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{akumademo}}}} is an adverb that orignally meant "as much as one gets tired of" but is now used to mean "to the utmost extent".
+@HI{{@EM{{akumademo}}}} is an adverb that originally meant "as much as one gets tired of" but is now used to mean "to the utmost extent".
 </p>
 
 @BGRND{{}}
@@ -96,7 +96,7 @@ The final @HI{{mo}} in @HI{{@EM{{akumademo}}}} is sometimes omitted, but there i
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 11).
+<li> @REF{{DOAJG}}. (p. 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}
