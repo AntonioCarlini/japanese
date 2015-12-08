@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quantifier</em>  @HI{{@EM{{zutsu}}}}
+<li> @FORMATION{{@QNTF{{}} @HI{{@EM{{zutsu}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,35 +25,59 @@
 @HI{{@EM{{zutsu}}}} is a particle that indicates that a quantity is equally distributed.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{zutsu}}}} always follows a quantifier.
-</p>
 
-<p>
-If @HI{{@EM{{zutsu}}}} is removed from the sentence the meaning hardly changes. 
-@HI{{@EM{{zutsu}}}} serves only focus on the equal distribution.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{dono @KT{{kurasu}}ni mo @KJ{{woman^child^study^life}}ga @KJ{{six^person}} @EM{{zutsu}} ita.}}
+      @HI{{dono@KT{{kurasu}}nimo@KJ{{woman^child^study^life}}ga@KJ{{six^person}}@EM{{zutsu}}ita.}}
   </td> </tr>
   <tr class="en"> <td>
       There were six girl students in each class.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{zutsu}}}} serves only focus on the equal distribution.
+In the sentence below, it emphasises that the same number of kanji is learned every day.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{Sino-^character}}:kanji}}wo@KJ{{every^day^five}}tsu@EM{{zutsu}}@FG{{@KJ{{memorize}}:obo}}eru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I memorise five kanji every day.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+If @HI{{@EM{{zutsu}}}} is removed from the sentence the meaning hardly changes. All that has been removed is the emphasis on the
+equal distribution of kanji learned each day.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{Sino-^character}}:kanji}}wo@KJ{{every^day^five}}tsu@FG{{@KJ{{memorize}}:obo}}eru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I memorise five kanji every day.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 572).
+<li> @REF{{DOBJG}}. (p. 572).
 </ol>
 
 @include{{"grammar-footer.inc"}}
