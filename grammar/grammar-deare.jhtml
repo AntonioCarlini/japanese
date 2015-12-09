@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{deare}}}}
-<li> @Anastem{{}}@HI{{@EM{{deare}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{deare}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{deare}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -40,7 +40,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{deare}}}} is often preceded by @HI{{tatoe}} when a @QW{{}} is not present.
+@HI{{@EM{{deare}}}} is often preceded by @HI{{tatoe}} when an interrogative word is not present.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -54,7 +54,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ikani}}, the emphatic adverb meaning "how" may occur with @HI{{@EM{{deare}}}}.
+@HI{{ikani}}, the emphatic adverb meaning "how", may occur with @HI{{@EM{{deare}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -75,13 +75,13 @@
 </p>
 
 <p>
-X@HI{{@EM{{deare}}}}Y@HI{{@EM{{deare}}}} is a pattern that means "whether X or Y".
+<a href="grammar-deare-deare.html">X@HI{{@EM{{deare}}}}Y@HI{{@EM{{deare}}}}</a> is a pattern that means "whether X or Y".
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 67).
+<li> @REF{{DOAJG}}. (p. 67).
 </ol>
 
 @include{{"grammar-footer.inc"}}

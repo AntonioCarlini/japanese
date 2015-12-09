@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}.(@S2{{}}@JDOTS3{{}})@HI{{@EM{{dakarato@KJ{{say}}tte}}}}
+<li> @FORMATION{{@S1{{}}.(@S2{{}}@JDOTS3{{}})@HI{{@EM{{dakarato@KJ{{say}}tte}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -64,7 +64,7 @@ in this particular case.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 21).
+<li> @REF{{DOIJG}}. (p. 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}

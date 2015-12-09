@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{douse}}}}
+<li> @FORMATION{{@HI{{@EM{{douse}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -30,11 +30,11 @@ It may be translated as "in any case" or "anyway".
 
 @BGRND{{}}
 <p>
-It often indicates anger or helplessness that nothing can be done.
+@HI{{@EM{{douse}}}} often indicates anger or helplessness that nothing can be done.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@EM{{douse}}kon'natakusanno@KJ{{inn^topic}},@KJ{{exit^come}}wakeganaikara,@KJ{{play}}bukotonishitayo.}}
+      @HI{{@EM{{douse}}kon'natakusanno@KJ{{inn^topic}},@KJ{{exit^come}}ruwakeganaikara,@KJ{{play}}bukotonishitayo.}}
   </td> </tr>
   <tr class="en"> <td>
       I cannot do this much homework anyway, so I've decided to play.
@@ -44,7 +44,7 @@ It often indicates anger or helplessness that nothing can be done.
 
 @BGRND{{}}
 <p>
-@EM{{douse}} can also indicate the finality of one's decision.
+@HI{{@EM{{douse}}}} can also indicate the finality of one's decision.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -63,7 +63,7 @@ It often indicates anger or helplessness that nothing can be done.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 41).
+<li> @REF{{DOIJG}}. (p. 41).
 </ol>
 
 @include{{"grammar-footer.inc"}}

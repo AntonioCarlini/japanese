@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}/@HI{{kon'na/son'na/an'na/don'na@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}
-<li> @S{{}}@HI{{toiu@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}
+<li> @FORMATION{{@N{{}}/@HI{{kon'na/son'na/an'na/don'na@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}}}
+<li> @FORMATION{{@S{{}}@HI{{toiu@EM{{@FG{{@KJ{{wind}}:fuu}}ni}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -73,7 +73,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 44).
+<li> @REF{{DOIJG}}. (p. 44).
 </ol>
 
 @include{{"grammar-footer.inc"}}

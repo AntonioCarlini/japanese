@@ -16,22 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{dearou}}}}
-<li> @Ai{{}} @HI{{@EM{{dearou}}}}
-<li> @Anastem{{}} @HI{{@EM{{dearou}}}}
-<li> @N{{}} @HI{{@EM{{dearou}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{dearou}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{dearou}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{dearou}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dearou}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @HI{{@EM{{dearou}}}} expresses the writer's conjecture, not based on any particular information or evidence.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{sono@FG{{@KJ{{mingle^ford}}:koushou}}ha@FG{{@KJ{{poles}}mete:kiwamete}}@FG{{@KJ{{quandary^difficult}}:kon'nann}}@EM{{dearou}}.}}
@@ -40,7 +35,7 @@
       The negotiation will probably be exceedingly difficult.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -55,7 +50,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 29).
+<li> @REF{{DOIJG}}. (p. 29).
 </ol>
 
 @include{{"grammar-footer.inc"}}

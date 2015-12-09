@@ -16,11 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{@EM{{demo}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{demo}}}}}}
+<li> @FORMATION{{@N{{}}@PRT{{}}@HI{{@EM{{demo}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{demo}}}} means "even".
 
@@ -37,15 +41,6 @@
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kokokara@EM{{demo}}@KJ{{wealth^gentleman^mountain}}ga@KJ{{see}}iemasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Even from here you can see Mount Fuji.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
       @HI{{ano@KJ{{person}}ha@KJ{{fish}}@EM{{demo}}@KJ{{meat}}@EM{{demo}}@KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -55,10 +50,35 @@
 </ol>
 </p>
 
+@BGRND{{}}
+<p>
+As shown in the formation, a particle can come between the noun and @HI{{@EM{{demo}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokokara@EM{{demo}}@KJ{{wealth^gentleman^mountain}}ga@KJ{{see}}iemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even from here you can see Mount Fuji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
 @HI{{@EM{{demo}}}} is not the same as the combination of particles @HI{{de}} + @HI{{mo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}demo@KT{{infure}}ga@KJ{{large}}na@KJ{{question^topic}}ninatteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In Japan too, inflation is a big problem.
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -78,7 +98,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 111).
+<li> @REF{{DOBJG}}. (p. 111).
 </ol>
 
 @include{{"grammar-footer.inc"}}
