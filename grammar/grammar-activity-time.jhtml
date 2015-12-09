@@ -16,23 +16,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @KJ{{time^interval}}
-<li> @Vru{{}} @KJ{{promise^bundle}}
-<li> @Vru{{}} @KJ{{utilize^matter}}
+<li> @FORMATION{{@Vru{{}}@KJ{{time^interval}}}}
+<li> @FORMATION{{@Vru{{}}@KJ{{promise^bundle}}}}
+<li> @FORMATION{{@Vru{{}}@KJ{{utilize^matter}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 When expressing the time at which some activity should be performed, place the dictionary form of the verb before @HI{{jikann}}.
-To express the content of an appointment or other arrangement, place the dictionary form of the verb before @HI{{yakusoku}}
-or @HI{{youji}} etc.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{morning}}gohanwo @KJ{{eat}}beru@KJ{{time^interval}}ga arimasenn.}}
@@ -41,7 +37,13 @@ or @HI{{youji}} etc.
       I have no time to eat breakfast.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+To express the content of an appointment or other arrangement, place the dictionary form of the verb before @HI{{yakusoku}}
+or @HI{{youji}} etc.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{friend^accomplished}}to @KJ{{reflect^brush-stroke}}wo @KJ{{see}}ru @KJ{{promise^bundle}} ga arimasu.}}
@@ -50,7 +52,9 @@ or @HI{{youji}} etc.
       I have an arrangement to see a film with a friend of mine.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kyouha @KJ{{market^duty^place}}he @KJ{{going}}ku @KJ{{utilize^matter}}ga arimasu.}}
@@ -60,13 +64,16 @@ or @HI{{youji}} etc.
   </td> </tr>
 </table>
 </ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 22).
+<li> @REF{{MNN-TR-I}}. (Chapter 22).
 </ol>
 
 @include{{"grammar-footer.inc"}}
