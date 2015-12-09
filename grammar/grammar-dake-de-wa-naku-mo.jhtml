@@ -16,16 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}
-<li> @Ai{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}
-<li> @Ana{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}
-<li> @N{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}
+<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}}}
+<li> @FORMATION{{@Ai{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}}}
+<li> @FORMATION{{@Ana{{}} @HI{{@EM{{dakede(ha)naku~mo}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dakede(ha)naku~mo}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@HI{{@EM{{dakede(ha)naku~mo}}}} means "not only ~ but also ~"
+@HI{{@EM{{~dakede(ha)naku~mo}}}} means "not only ~ but also ~"
 </p>
 
 <h2> Examples </h2>
@@ -75,7 +75,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 97).
+<li> @REF{{DOBJG}}. (p. 97).
 </ol>
 
 @include{{"grammar-footer.inc"}}
