@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{datte}}}}
-<li> @QW{{}} @HI{{@EM{{datte}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{datte}}}}}}
+<li> @FORMATION{{@QW{{}} @HI{{@EM{{datte}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -41,7 +41,7 @@ It is used primarily in spoken language.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{datte}}}} can used as a particle meaning "even".
+@HI{{@EM{{datte}}}} can also be used as a particle meaning "even".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -55,7 +55,7 @@ It is used primarily in spoken language.
 
 @BGRND{{}}
 <p>
-When a WH-word other than @KJ{{what}} precedes @HI{{@EM{{datte}}}} it usually means "any".
+When an interrogative other than @KJ{{what}} precedes @HI{{@EM{{datte}}}} it usually means "any".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -69,7 +69,7 @@ When a WH-word other than @KJ{{what}} precedes @HI{{@EM{{datte}}}} it usually me
 
 @BGRND{{}}
 <p>
-@HI{{@FG{{@KJ{{what}}:nan'}}@EM{{datte}}}} means "how come".
+@HI{{@FG{{@KJ{{what}}:nan'}}@EM{{datte}}}} means "how come". This is a different use.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ When a WH-word other than @KJ{{what}} precedes @HI{{@EM{{datte}}}} it usually me
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 63).
+<li> @REF{{DOAJG}}. (p. 63).
 </ol>
 
 @include{{"grammar-footer.inc"}}
