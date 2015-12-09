@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@HI{{@EM{{deare}},}}@N2{{}}@HI{{@EM{{deare}}}}
-<li> @Anastem{{}}@HI{{@EM{{deare}},}}@Anastem{{}}@HI{{@EM{{deare}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{deare}},}}@N2{{}}@HI{{@EM{{deare}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{deare}},}}@Anastem{{}}@HI{{@EM{{deare}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -45,7 +45,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 70).
+<li> @REF{{DOAJG}}. (p. 70).
 </ol>
 
 @include{{"grammar-footer.inc"}}

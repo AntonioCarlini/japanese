@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{non-past}}@HI{{@EM{{dani}}}}
-<li> @NS{{}}@HI{{@EM{{dani}}shinai}}
+<li> @FORMATION{{@Vplain{{non-past}}@HI{{@EM{{dani}}}}}}
+<li> @FORMATION{{@NS{{}}@HI{{@EM{{dani}}shinai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -64,7 +64,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 54).
+<li> @REF{{DOAJG}}. (p. 54).
 </ol>
 
 @include{{"grammar-footer.inc"}}
