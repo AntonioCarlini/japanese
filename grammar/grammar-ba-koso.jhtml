@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{@Vba{{}}koso}}}}
-<li> @HI{{@EM{{@Aistem{{}}kerebakoso}}}}
-<li> @Anastem{{}}@HI{{deare@EM{{bakoso}}}}
-<li> @N{{}}@HI{{deare@EM{{bakoso}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vba{{}}koso}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Aistem{{}}kerebakoso}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{deare@EM{{bakoso}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{deare@EM{{bakoso}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -42,7 +42,9 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@Vba{{}}koso}}}} is often accompanied by @HI{{noda}}.
+@HI{{@EM{{@Vba{{}}koso}}}} is often accompanied by a main clause ending in @HI{{noda}}.
+The function of @HI{{noda}} is to involve the listener in the statement and this complements the
+function of @HI{{@EM{{@Vba{{}}koso}}}}, which is to add emphasis.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -76,7 +78,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 27).
+<li> @REF{{DOAJG}}. (p. 27).
 </ol>
 
 @include{{"grammar-footer.inc"}}
