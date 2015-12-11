@@ -13,20 +13,20 @@
 
 <h1>Basic Sentence Patterns</h1>
 
-<h2> <a name="AwaBdesu"> @N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}}</a> </h2>
+<h2> @N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}} </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-In this pattern <a href="grammar-particle-wa.html">@HI{{ha}}</a> marks the topic of the sentence, the remainder of
+<a name="AwaBdesu">In</a> this pattern <a href="grammar-particle-wa.html">@HI{{ha}}</a> marks the topic of the sentence, the remainder of
 the sentence offers information about the topic. To make a predicate, a noun needs to be followed by a form of the 
-<a href="grammar-copula.html">copula</a>; in
-this case @HI{{desu}} is used as this is a polite sentence. For a negative sentence @HI{{desu}} would be
-replaced by @HI{{jaarimasenn}}.
-
+<a href="grammar-copula.html">copula</a>; in this case @HI{{desu}} is used as this is a polite sentence. 
 <ol>
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KT{{maiku mira-}}desu.}}
+      @HI{{@KJ{{private}}ha@KT{{maiku mira-}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I am Mike Miller.
@@ -35,13 +35,21 @@ replaced by @HI{{jaarimasenn}}.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KT{{enjinia}}desu.}}
+      @HI{{@KJ{{private}}ha@KT{{enjinia}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I am an engineer.
   </td> </tr>
 </table>
 <li>
+</ol>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="AwaBjanai">For</a> a negative sentence @HI{{desu}} would be replaced by @HI{{jaarimasen'}}.
+In formal speech or writing @HI{{dehaarimasen'}} would be used rather than @HI{{jaarimasen'}}.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{santos}}sanha@KJ{{study^life}}jaarimasenn.}}
@@ -50,9 +58,9 @@ replaced by @HI{{jaarimasenn}}.
       Mr. Santos is not a teacher.
   </td> </tr>
 </table>
-</ol>
 </p>
 
+@BGRND{{}}
 <p>
 If @N2{{}} describes a place then this sentence pattern explains where a place, a thing or a person is.
 
@@ -66,19 +74,22 @@ If @N2{{}} describes a place then this sentence pattern explains where a place, 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Although the basic usage of this pattern is that "A is B", it can convey more than that. The copula
 may be used in place of a noun. In the second sentence below for example, it stands in place of the verb @KJ{{drink}}@HI{{mu}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{every^morning}}@KT{{ko-hi-}}wo@KJ{{drink}}mu. @KJ{{house^inside}}ha@KJ{{crimson^tea}}da.}}
+      @HI{{@KJ{{private}}ha@KJ{{every^morning}}@KT{{ko-hi-}}wo@KJ{{drink}}mu.@KJ{{house^inside}}ha@KJ{{crimson^tea}}da.}}
   </td> </tr>
   <tr class="en"> <td>
       I drink coffee every morning. My wife drinks tea.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> <a name="waga">~ @HI{{ha}} ~ @HI{{ga}}</a> </h2>
 
@@ -119,9 +130,9 @@ This construction relates a non-controllable state to a topic.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 3).
-<li> @UCREF{{DOBJG}}. (p. 521).
+<li> @REF{{DOBJG}}. (p. 521).
 <li> @UCREF{{DOBJG}}. (p. 525).
 </ol>
 

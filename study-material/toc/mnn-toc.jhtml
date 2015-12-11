@@ -44,10 +44,10 @@
 <h2><a class="navtarget" name="chapter1">_</a>Chapter 1</h2>
 
 <ol>
-<li> <a href="grammar-basic-sentence-patterns.html">@N1{{}}@HI{{ha}} @N2{{}}@HI{{desu}}</a>
-<li> <a href="grammar-basic-sentence-patterns.html">@N1{{}}@HI{{ha}} @N2{{}}@HI{{ja arimasenn}}</a>
+<li> <a href="grammar-basic-sentence-patterns.html#AwaBdesu">@N1{{}}@HI{{ha}}@N2{{}}@HI{{desu}}</a>
+<li> <a href="grammar-basic-sentence-patterns.html#AwaBjanai">@N1{{}}@HI{{ha}}@N2{{}}@HI{{ja arimasenn}}</a>
 <li> <a href="grammar-particle-ka.html">S@HI{{ka}}</a>
-<li> <a href="grammar-particle-mo.html">@N{{}}@HI{{mo}}</a>
+<li> <a href="grammar-particle-mo.html#too">@N{{}}@HI{{mo}}</a>
 <li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a>
 <li> <a href="grammar-respect-markers.html#san">@HI{{sann}}</a>
 </ol>
