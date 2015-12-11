@@ -16,29 +16,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{sou desu ka}}}}
+<li> @HI{{@EM{{soudesuka}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-This expression is used when a new piece of information has been presented and the speaker wishes to indicate
-that it has been understood.
-</p>
+This expression is used when a new piece of information has been presented and the speaker wishes to indicate that it has been understood.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{kono @KJ{{umbrella}}ha anatanodesuka.}}
+      A: @HI{{kono@KJ{{umbrella}}haanatanodesuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{iee, @KJ{{difference}}imasu. @KT{{shumitto}}sannodesu.}}
+      B: @HI{{iee, @KJ{{difference}}imasu.@KT{{shumitto}}sannodesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      A: @HI{{@EM{{sou desu ka}}}}.
+      A: @HI{{@EM{{soudesuka}}}}.
   </td> </tr>
   <tr class="en"> <td>
       A: Is this your umbrella?
@@ -50,14 +44,14 @@ that it has been understood.
       A: I see.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 2).
+<li> @REF{{MNN-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}

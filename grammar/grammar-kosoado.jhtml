@@ -138,12 +138,15 @@ or the listener.
 The @HI{{@EM{{do-}}}} demonstratives refer to something about which a question is being asked.
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kore">@HI{{@EM{{kore}}}}</a>, @HI{{@EM{{sore}}}} and @HI{{@EM{{are}}}} are 
 demonstratives and function as pronouns.
+</p>
 
-<ol>
-<li>
+<p>
+@HI{{@EM{{kore}}}} refers to something or someone near the speaker.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{kore}}wo kudasai.}}
@@ -152,7 +155,11 @@ demonstratives and function as pronouns.
       Please give me this one.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+@HI{{@EM{{sore}}}} refers to something or someone near the listener.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{sore}}ha}}@KJ{{resign}}@KJ{{write}}@HI{{desuka.}}
@@ -165,8 +172,11 @@ demonstratives and function as pronouns.
 </p>
 
 <p>
-<a name="dore">@HI{{@EM{{dore}}}}</a> is an interrogative used to ask the listener to choose one item from a
-set of <em>three</em> or more things.
+@HI{{@EM{{are}}}} refers to something or someone far from both the speaker and the listener.
+</p>
+
+<p>
+<a name="dore">@HI{{@EM{{dore}}}}</a> is an interrogative used to ask the listener to choose one item from a set of <em>three</em> or more things.
 </p>
 
 
@@ -174,9 +184,11 @@ set of <em>three</em> or more things.
 <p>
 <a name="kono">@HI{{@EM{{kono}}}}</a>, @HI{{@EM{{sono}}}} and @HI{{@EM{{ano}}}} are
 pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with a following noun to ask "which" noun.
+</p>
 
-<ol>
-<li>
+<p>
+@HI{{@EM{{kono}}}} refers to a thing or a person near the speaker.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{kono}}}}@KJ{{book}}@HI{{ha}}@KJ{{private}}@HI{{nodesu.}}
@@ -185,10 +197,18 @@ pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with
       This book is mine.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+@HI{{@EM{{sono}}}} refers to a thing or a person near the listener.
+</p>
+
+<p>
+@HI{{@EM{{ano}}}} refers to a thing or a person far from both the speaker and the listener.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@EM{{ano}}}}@KJ{{direction}}@HI{{ha donata desuka.}}
+      @HI{{@EM{{ano}}@FG{{@KJ{{direction}}:kata}}hadonatadesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Who is that (person)?
@@ -203,7 +223,9 @@ pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with
       Which one is Mr. Santos?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
@@ -358,7 +380,7 @@ as though it really existed then and there.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p 600).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 8).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 9).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 16).

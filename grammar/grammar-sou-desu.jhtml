@@ -16,28 +16,24 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{sou desu}}}}
-<li> @HI{{@EM{{sou jaarimasenn}}}}
+<li> @HI{{@EM{{soudesu}}}}
+<li> @HI{{@EM{{soujaarimasenn}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{sou desu}}}} can be used to reply to a noun sentence in the affirmative.
-To anser in the negative, use @HI{{@EM{{sou jaarimasenn}}}}. An equivalent negative response
-would be to use @KJ{{difference}}@HI{{imasu}}.
-</p>
+@HI{{@EM{{soudesu}}}} can be used to reply to a noun sentence in the affirmative.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{soreha@KJ{{book}}desuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      @HI{{hai, sou desu.}}
+      @HI{{hai,@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is this a book?      
@@ -46,13 +42,18 @@ would be to use @KJ{{difference}}@HI{{imasu}}.
       Yes it is.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+To answer the same question in the negative, use @HI{{@EM{{sou jaarimasenn}}}}.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{soreha@KJ{{hon}}desuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      @HI{{iie, sou jaarimasenn.}}
+      @HI{{iie,@EM{{soujaarimasenn}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Is this a book?
@@ -60,11 +61,17 @@ would be to use @KJ{{difference}}@HI{{imasu}}.
   <tr class="en"> <td>
       No it isn't.
   </td> </tr>
+</table>
+</p>
+
+An equivalent negative response would be to use @KJ{{difference}}@HI{{imasu}}.
+
+<table class="sentence">
   <tr class="jp"> <td>
       @HI{{soreha@KJ{{hon}}desuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      @HI{{iie, @KJ{{chiga}}imasu.}}
+      @HI{{iie,@KJ{{chiga}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Is this a book?
@@ -73,14 +80,16 @@ would be to use @KJ{{difference}}@HI{{imasu}}.
       No, you are mistaken.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 2).
+<li> @REF{{MNN-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}
