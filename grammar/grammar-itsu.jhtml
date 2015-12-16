@@ -25,12 +25,7 @@
 Interrogatives using @HI{{nann}}, such as @HI{{nanji}} and @HI{{nannyoubi}}, can be used to ask about time.
 In addition to these, the adverbial noun @HI{{@EM{{itsu}}}}, meaning "when", can be used. The particle
 @HI{{ni}} is not used in this case.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{itsu@KJ{{day^book}}he@KJ{{come}}kimashita.}}
@@ -39,14 +34,14 @@ In addition to these, the adverbial noun @HI{{@EM{{itsu}}}}, meaning "when", can
       When did you come to japan?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 5).
+<li> @REF{{MNN-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}
