@@ -13,19 +13,27 @@
 
 <h1>Expressing Time</h1>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 To express a time the counter suffixes <a href="grammar-counter-ji.html">@KJ{{time}}<a> (o'clock)
 and <a href="grammar-counter-bun.html">@KJ{{part}}<a> (minutes) are used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{noon^in*front}}4@KJ{{time}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's 4AM.
+  </td> </tr>
+</table>
 </p>
 
+@BGRND{{}}
 <p>
-To ask about the time or a time interval, @HI{{nann}} is used with the above counter suffixes.
-</p>
+To ask about the time or a time interval, @HI{{nan'}} is used with the above counter suffixes.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{now^what^time}}desuka.}}
@@ -40,14 +48,16 @@ To ask about the time or a time interval, @HI{{nann}} is used with the above cou
       It's 7:10.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

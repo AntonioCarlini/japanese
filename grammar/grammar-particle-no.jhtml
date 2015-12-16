@@ -71,6 +71,20 @@ second in terms of kind or category.
 
 @BGRND{{}}
 <p>
+<a name="made">When</a> @N1{{}} is a country or company and @N2{{}} is a product, @HI{{@EM{{no}}}} can be used between the two nouns to indicate where or who made the product in question.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      IMC@HI{{@EM{{no}}@KT{{pasokon'}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's an IMC computer.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 <a name="apposition">@HI{{@EM{{no}}}}</a> can be used between two nouns to indicate that the two nouns are in apposition.
 This shows that the two nouns are identical.
 The first noun shows an attribute about the second noun and so gives more information about it.
@@ -205,7 +219,7 @@ question marker in colloquial sentences.
 <li> @UCREF{{AAP}}. (p 68).
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 2).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @UCREF{{DOBJG}}. (p. 312).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).

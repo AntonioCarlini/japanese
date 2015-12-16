@@ -25,52 +25,17 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 Formation of the basic @HI{{masu}}-stem is described <a href="grammar-verb-formation-masu.html">here</a>.
 </p>
 
+@BGRND{{}}
 <p>
 A verb in the @HI{{masu}}-form works as a predicate and also makes a sentence polite.
-</p>
 
-<p>
-There is no future conjugation in Japanese. Instead the context makes places a sentence in the future.
-</p>
-
-<p>
-To form the past conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashita}}.
-This form corresponds to the plain past <a href="grammar-verb-formation-ta.html">@Vta{{}}</a>.
-<p>
-
-<p>
-To form the past negative conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{masenndeshita}}.
-This form corresponds to the plain past negative @HI{{nakatta}}, 
-where the plain past form, <a href="grammar-verb-formation-nai.html">@HI{{nai}}</a>, has been conjugated into the
-past as an <a href="adjectives.html">@HI{{i}}-adjective</a>.
-<p>
-
-<p>
-<a name="mashou">To</a> form the volitional of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashou}}.
-This form corresponds to the plain volitional <a href="grammar-verb-formation-volitional.html">@Vyou{{}}</a>.
-In a volitional sentence, if the subject is explicitly stated it is marked with @HI{{ga}} and the implication is
-that the stated subject, rather than anyone else, will perform the action.
-</p>
-
-<p>
-The volitional is used to invite the listener to do something with the speaker.
-It is also used to respond poitively to such an invitation. Note that an invitation using
-<a href="grammar-masen-ka.html">@Vmasustem{{}}@HI{{masenka}}</a> shows more consideration for the listener than using
-@Vmasustem{{}}@HI{{mashou}} as the former explictly allows for a negative reply.
-<p>
-
-<p>
-The question forms of sentences are answered by repeating the same verb. @HI{{soudesu}} <em>cannot</em> be used.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{every^day^exertion^strong}}shimasu.}}
@@ -79,7 +44,11 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
       I study every day.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
+The @HI{{masu}}-form is also used to describe habitual actions.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{every^morning}}6@KJ{{time}}ni@KJ{{rouse}}kimasu.}}
@@ -88,34 +57,13 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
       I wake up at 6AM every morning.
   </td> </tr>
 </table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{ashita6@KJ{{time}}ni@KJ{{rouse}}kimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I'll get up at 6AM tomorrow.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{kesa6@KJ{{time}}ni@KJ{{rouse}}kimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I got up at 6AM this morning.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{chotto@KJ{{rest}}mimashou.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Let's have a break.
-  </td> </tr>
-</table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+To form a question add @HI{{ka}} to the end of the sentence. The word order is otherwise unchanged.
+To answer such a question, the verbs are repeated. @HI{{soudesu}} and @HI{{soujanai}} cannot be used.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{every^morning}}@KJ{{what^time}}ni@KJ{{rouse}}kimasuka.}}
@@ -130,7 +78,52 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
       I get up at 6AM.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+There is no future conjugation in Japanese. Instead the context makes places a sentence in the future.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashita6@KJ{{time}}ni@KJ{{rouse}}kimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll get up at 6AM tomorrow.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+To form the past conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashita}}.
+This form corresponds to the plain past <a href="grammar-verb-formation-ta.html">@Vta{{}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kesa6@KJ{{time}}ni@KJ{{rouse}}kimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I got up at 6AM this morning.
+  </td> </tr>
+</table>
+<p>
+
+@BGRND{{}}
+<p>
+To form the past negative conjugation of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{masenndeshita}}.
+This form corresponds to the plain past negative @HI{{nakatta}}, 
+where the plain past form, <a href="grammar-verb-formation-nai.html">@HI{{nai}}</a>, has been conjugated into the
+past as an <a href="adjectives.html">@HI{{i}}-adjective</a>.
+<p>
+
+@BGRND{{}}
+<p>
+<a name="mashou">To</a> form the volitional of the @HI{{masu}}-form, drop @HI{{masu}} and replace it with @HI{{mashou}}.
+This form corresponds to the plain volitional <a href="grammar-verb-formation-volitional.html">@Vyou{{}}</a>.
+In a volitional sentence, if the subject is explicitly stated it is marked with @HI{{ga}} and the implication is
+that the stated subject, rather than anyone else, will perform the action.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{chotto@KJ{{rest}}mimashou.}}
@@ -139,7 +132,15 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
       Let's have a break.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The volitional is used to invite the listener to do something with the speaker.
+It is also used to respond poitively to such an invitation. Note that an invitation using
+<a href="grammar-masen-ka.html">@Vmasustem{{}}@HI{{masenka}}</a> shows more consideration for the listener than using
+@Vmasustem{{}}@HI{{mashou}} as the former explictly allows for a negative reply.
+
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{isshouni@KJ{{daytime}}gohanwo@KJ{{eat}}bemasenka}}
@@ -154,15 +155,22 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
       B: yes, let's go and eat.
   </td> </tr>
 </table>
-</ol>
+<p>
+
+@BGRND{{}}
+<p>
+The question forms of sentences are answered by repeating the same verb. @HI{{soudesu}} <em>cannot</em> be used.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
 <li> @UCREF{{DOBJG}}. (p. 240).
 </ol>
 

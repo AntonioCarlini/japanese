@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can indicate emotion or feelings of admiration.
+<a name="feeling">@HI{{@EM{{ne}}}}</a> can indicate emotion or feelings of admiration.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -119,7 +119,7 @@
 
 <ol>
 <li> @UCREF{{AAP}}. (p. 128).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
 </ol>
 
 @include{{"grammar-footer.inc"}}

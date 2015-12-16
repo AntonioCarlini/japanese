@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="san">@HI{{@EM{{sann}}}}</a> is added as a suffix to the name of the listener or to a third person, or to nouns
 describing these, to show the speaker's respect for the person. It is <em>never</em> used by the speaker when
@@ -41,17 +44,20 @@ instead refer to the listener by using their family name followed by @HI{{sann}}
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kun">@HI{{@EM{{kunn}}}}</a> is added as a suffix to the first or last name of a male of equal rank or to the first or last name
 of a person of lower rank. This suffix is often used in schools and at work.
 </p>
 
+@BGRND{{}}
 <p>
 <a name="sama">@HI{{@EM{{sama}}}}</a> is a suffix which indicates a high degree of politeness by the speaker towards another
 individual. The original meaning was "appearance" and the high degree of politeness comes about because this allows the speaker to
 refer to a superior indirectly.
 <p>
 
+@BGRND{{}}
 <p>
 <a name="o">@HI{{@EM{{o}}}}</a> can be added to some words in order to show respect for another person.
 
@@ -70,9 +76,12 @@ refer to a superior indirectly.
 or with foreign words. There are a very few exceptions to this rule.
 </p>
 
+@BGRND{{}}
 <p>
 <a name="go">@HI{{@EM{{go}}}}</a> can be added to some words in order to show respect for another person.
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -85,7 +94,7 @@ Common examples are @HI{{ocha}} and @HI{{okane}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 6).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 13).
 <li> @UCREF{{DOBJG}}. (p. 211).

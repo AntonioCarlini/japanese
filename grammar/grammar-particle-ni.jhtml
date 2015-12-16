@@ -71,7 +71,7 @@
 </p>
 
 <p>
-Note that a number ox expressions <em>cannot</em> take @HI{{@EM{{ni}}}}, for example
+Note that a number of expressions <em>cannot</em> take @HI{{@EM{{ni}}}}, for example
 @HI{{asa}}, @KJ{{bright^day}}, @KJ{{yesterday^day}}, @KJ{{now^day}}, @HI{{ototoi}},
 @KJ{{come^year}} and @FG{{@KJ{{utmost^near}}:saikinn}}.
 </p>
@@ -275,7 +275,7 @@ the particle is not used. @HI{{@EM{{ni}}}} may optionally be used with days of t
 
 <ol>
 <li> @UCREF{{AAP}}. (p. 32).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @UCREF{{DOBJG}}. (p. 289).
 </ol>
 

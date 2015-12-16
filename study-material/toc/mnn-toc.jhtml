@@ -69,7 +69,7 @@
 <li> <a href="grammar-kosoado.html#koko"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
 <li> <a href="grammar-basic-sentence-patterns.html">~ @HI{{wa}} @N{{place}}</a>
 <li> <a href="grammar-kosoado.html#doko"> @HI{{doko/dochira}}</a></h3>
-<li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a> (made in/by)
+<li> <a href="grammar-particle-no.html#made">@N1{{}}@HI{{no}}@N2{{}}</a> (made in/by)
 <li> <a href="grammar-kosoado.html"> @HI{{kosoado}} demonstratives</a></h3> </a>
 <li> <a href="grammar-respect-markers.html#o">@HI{{o}} (respect)</a>
 </ol>
@@ -80,10 +80,10 @@
 <li> <a href="grammar-expressing-time.html">Expressing time</a>
 <li> <a href="grammar-masu.html">@Vmasu{{}}-form</a>
 <li> <a href="grammar-masu.html">@Vmasu{{}}-form conjugations</a>
-<li> <a href="grammar-particle-ni.html">@N{{time}}@HI{{ni}} ... @V{{}}</a>
-<li> @N1{{}}<a href="grammar-particle-kara.html">@HI{{kara}}</a>@N2{{}}<a href="grammar-particle-made.html">@HI{{made}}</a>
-<li> <a href="grammar-particle-to.html">@N1{{}}@HI{{to}}@N2{{}}</a>
-<li> <a href="grammar-particle-ne.html">@S{{}}@HI{{ne}}</a> (sentence ending particle)
+<li> <a href="grammar-particle-ni.html#time">@N{{time}}@HI{{ni}} ... @V{{}}</a>
+<li> @N1{{}}<a href="grammar-particle-kara.html#start">@HI{{kara}}</a>@N2{{}}<a href="grammar-particle-made.html#time-limit">@HI{{made}}</a>
+<li> <a href="grammar-particle-to.html#and">@N1{{}}@HI{{to}}@N2{{}}</a>
+<li> <a href="grammar-particle-ne.html#feeling">@S{{}}@HI{{ne}}</a> (sentence ending particle)
 </ol>
 
 <h2><a class="navtarget" name="chapter5">_</a>Chapter 5</h2>
