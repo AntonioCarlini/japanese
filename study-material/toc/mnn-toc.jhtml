@@ -101,14 +101,14 @@
 <h2><a class="navtarget" name="chapter6">_</a>Chapter 6</h2>
 
 <ol>
-<li> <a href="grammar-particle-wo.html">@N{{}}@HI{{wo}}@V{{transitive}}</a>
+<li> <a href="grammar-particle-wo.html#direct">@N{{}}@HI{{wo}}@V{{transitive}}</a>
 <li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{wo shimasu}}</a>
 <li> <a href="grammar-nani-wo-shimasu-ka.html"> @HI{{@KJ{{what}}woshimasuka}} </a>
 <li> <a href="grammar-nani-nan.html">@HI{{nani}} and @HI{{nann}}</a>
-<li> <a href="grammar-particle-de.html">@N{{place}}@HI{{de}}@V{{}}</a>
+<li> <a href="grammar-particle-de.html#location">@N{{place}}@HI{{de}}@V{{}}</a>
 <li> <a href="grammar-masen-ka.html"> @Vmasustem{{}}@HI{{masenka}} </a>
-<li> <a href="grammar-masu.html">@V{{}}@HI{{mashou}} </a>
-<li> <a href="grammar-respect-markers.html">@HI{{o}} (respect)</a>
+<li> <a href="grammar-masu.html#mashou">@V{{}}@HI{{mashou}} </a>
+<li> <a href="grammar-respect-markers.html#o">@HI{{o}} (respect)</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter7">_</a>Chapter 7</h2>

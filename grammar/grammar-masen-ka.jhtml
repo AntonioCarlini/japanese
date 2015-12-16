@@ -29,7 +29,7 @@ When the speaker wishes to invite someone to do something, this expression is us
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{isshoni@KJ{{capital^section}}he@KJ{{going}}kimasenka.}}
+      @HI{{isshoni@KJ{{capital^section}}he@KJ{{going}}ki@EM{{masenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Won't you come to Kyoto with us?
@@ -42,7 +42,7 @@ When the speaker wishes to invite someone to do something, this expression is us
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

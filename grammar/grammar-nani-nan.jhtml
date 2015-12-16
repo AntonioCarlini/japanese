@@ -25,10 +25,12 @@
 The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nann}}.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{nann}} is used in the following cases:
-<ol>
-<li> before a word whose first mora is in the @HI{{ta}}, @HI{{da}} or @HI{{na}} row:
+@HI{{@EM{{nan'}}}} is used before a word whose first mora is in the @HI{{da}} row.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{korehanandesuka.}}
@@ -37,18 +39,24 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
       What is that?
   </td> </tr>
 </table>
-<br/>
-<br/>
+</p>
+
+<p>
+@HI{{@EM{{nan'}}}} is used before a word whose first mora is in the @HI{{na}} row.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{nannno@KJ{{hon}}desuka.}}
+      @HI{{@EM{{nan'}}no@KJ{{hon}}desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       What is that book about?
   </td> </tr>
 </table>
-<br/>
-<br/>
+</p>
+
+<p>
+@HI{{@EM{{nan'}}}} is used before a word whose first mora is in the @HI{{ta}} row.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{lie*down}}rumaeni,nanto@KJ{{say}}imasuka.}}
@@ -59,10 +67,13 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
 </table>
 <br/>
 <br/>
-<li> before a counter suffix or similar:
+@BGRND{{}}
+<p>
+@HI{{@EM{{nan'}}}} is used before a counter suffix or similar.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{teresa}}chanha nann@KJ{{year-end}}desuka.}}
+      @HI{{@KT{{teresa}}chanha @EM{{nan'}}@KJ{{year-end}}desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       How old is Teresa?
@@ -70,12 +81,13 @@ The interrogative @KJ{{what}} is pronounced as either @HI{{nani}} or as @HI{{nan
 </table>
 </ol>
 
+@BGRND{{}}
 <p>
-In all other cases the pronunciation is @HI{{nani}}:
+In all other cases the pronunciation is @HI{{@EM{{nani}}}}:
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{naniwo@KJ{{buy}}imasuka.}}
+      @HI{{@EM{{nani}}wo@KJ{{buy}}imasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       What will you buy?
@@ -83,12 +95,14 @@ In all other cases the pronunciation is @HI{{nani}}:
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}
