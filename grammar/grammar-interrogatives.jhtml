@@ -17,38 +17,47 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @HI{{@EM{{ikutsu}}}} is used to ask "how many" about things that are counted with
 <a href="grammar-counter-tsu.html">@HI{{tsu}}</a>.
-</p>
 
-<p>
-The @HI{{@EM{{nan}}}} is used with a counter to ask for "how many" for things counted with
-that counter.
-</p>
-
-<p>
-The @HI{{@EM{{donogurai-}}}} is used to ask about the length of time something takes.
-</p>
-
-<p>
-The @HI{{@EM{{gurai-}}}} is added after quantifiers to mean "about" or "approximately".
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono @KJ{{meeting^company}}ni @KJ{{outside^country^person}}ga
-      @EM{{@KJ{{what^person}}}} imasuka.}}
+      A: @HI{{mikanwo,@EM{{ikutsu}}@KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@FG{{8:yaxtsu}}tsu@KJ{{buy}}imashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: How many oranges did you buy?
+  </td> </tr>
+  <tr class="en"> <td>
+      I bought eight.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The @HI{{@EM{{nan'}}}} is used with a counter to ask for "how many" for things counted with that counter.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{meeting^company}}ni@KJ{{outside^country^person}}ga@EM{{@KJ{{what^person}}}}imasuka.}}
   </td> </tr>
   <tr class="en"> <td>
       How many foreigners are there in this company?
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The @HI{{@EM{{donogurai-}}}} is used to ask about the length of time something takes.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@EM{{donogurai}} @KJ{{day^book^word}}wo @KJ{{exertion^strong}}shimashitaka.}}
@@ -57,7 +66,12 @@ The @HI{{@EM{{gurai-}}}} is added after quantifiers to mean "about" or "approxim
       How long did you study Japanese?
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The @HI{{@EM{{gurai-}}}} is added after quantifiers to mean "about" or "approximately".
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{study^exam}}ni @KJ{{before^life}}ga 30@KJ{{person}}@EM{{gurai}} imasu.}}
@@ -66,14 +80,16 @@ The @HI{{@EM{{gurai-}}}} is added after quantifiers to mean "about" or "approxim
       There are about 30 teachers in our school.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}

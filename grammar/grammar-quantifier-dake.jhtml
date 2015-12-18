@@ -11,39 +11,34 @@
 
 <body>
 
-<h1><em>quantifier</em> @HI{{dake}}</h1>
+<h1>@QNTF{{}} @HI{{dake}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{<em>quantifier</em> @HI{{dake}}}}
-<li> @EM{{@N{{}} @HI{{dake}}}}
+<li> @FORMATION{{@EM{{@QNTF{{}} @HI{{dake}}}}}}
+<li> @FORMATION{{@EM{{@N{{}}@HI{{dake}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
-When it follows a quantifier or a noun, the particle @HI{{dake}} indicates that 
-there is no more or nothing else.
-<p></p>
+<p>
+When it follows a quantifier or a noun, the particle @HI{{dake}} indicates that  there is no more or nothing else.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rest}}miha @KJ{{day^weekday^day}}@EM{{dake}} desu.}}
+      @HI{{@KJ{{rest}}miha@KJ{{day^weekday^day}}@EM{{dake}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I only have Sundays off
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}
