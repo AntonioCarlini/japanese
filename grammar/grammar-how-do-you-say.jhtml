@@ -23,10 +23,7 @@
 
 <p>
 This question is used to ask how to say a phrase in another language.
-</p>
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{[arigatou]ha@KJ{{england^word}}de@KJ{{what}}desuka.}}
@@ -35,14 +32,14 @@ This question is used to ask how to say a phrase in another language.
       How do you say "@HI{{arigatou}}" in English?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}

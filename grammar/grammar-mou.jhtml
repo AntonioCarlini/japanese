@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{mou}}}} means "already" and when combined with a verb in the past tense
 the meaning is that the action specified by the verb has been completed.
@@ -31,6 +34,7 @@ the meaning is that the action specified by the verb has been completed.
 In an affirmative interrogative sentence @HI{{@EM{{mou}}}} means "yet" or "already".
 </p>
 
+@BGRND{{}}
 <p>
 In a negative sentence @HI{{@EM{{mou}}}} means "not yet" or "not any longer".
 
@@ -44,10 +48,9 @@ In a negative sentence @HI{{@EM{{mou}}}} means "not yet" or "not any longer".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-The answer to the question @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @HI{{hai,mou}}@Vmasustem{{}}@HI{{mashita}} or
-@HI{{iie,madadesu}}.
-
+A postive answer to the question @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} indicates that the requested action has been performed.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -62,6 +65,19 @@ The answer to the question @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @H
   <tr class="en"> <td>
       Yes I have.
   </td> </tr>
+</table>
+<p>
+
+<p>
+A negative answer to the same question would be to say "not yet".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{mou@KJ{{baggage^thing}}wo@KJ{{send*off}}rimashitaka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Have you sent the parcel yet?
+  </td> </tr>
   <tr class="jp"> <td>
       @HI{{iie,madadesu.}}
   </td> </tr>
@@ -69,18 +85,21 @@ The answer to the question @HI{{@EM{{mou}}}}@Vmasustem{{}}@HI{{mashitaka}} is @H
       No, not yet.
   </td> </tr>
 </table>
-</ol>
+</p>
 
+<p>
 An answer of the form @HI{{iie,}}@Vmasustem{{}}@HI{{masendeshita}} would imply that the task was not performed
 rather than it has <em>not yet</em> been performed.
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
 <li> @UCREF{{DOBJG}}. (p. 254).
 </ol>
 

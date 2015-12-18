@@ -114,10 +114,10 @@
 <h2><a class="navtarget" name="chapter7">_</a>Chapter 7</h2>
 
 <ol>
-<li> <a href="grammar-particle-de.html">@N{{tool}}@HI{{de}}@V{{}}</a>
+<li> <a href="grammar-particle-de.html#means">@N{{tool}}@HI{{de}}@V{{}}</a>
 <li> <a href="grammar-how-do-you-say.html"> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de @KJ{{what}}desuka}}</a>
-<li> <a href="grammar-particle-ni.html">@N{{person}}@HI{{ni agemasu}}</a>
-<li> <a href="grammar-giving-receiving.html">@N{{person}}@HI{{ni moraimasu}}</a>
+<li> <a href="grammar-particle-ni.html#recipient">@N{{person}}@HI{{niagemasu}}</a>
+<li> <a href="grammar-giving-receiving.html#morau">@N{{person}}@HI{{nimoraimasu}}</a>
 <li> <a href="grammar-mou.html"> @HI{{mou}}@Vmasustem{{}}@HI{{mashita}} </a>
 </ol>
 
