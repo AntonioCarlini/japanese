@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{ka}}}}
+<li> @FORMATION{{@HI{{@EM{{ka}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -176,6 +176,7 @@ Within a sentence, @HI{{@EM{{ka}}}} following other particles, indicates uncerta
 <li> @UCREF{{AAP}}. (p. 45).
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 2).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}

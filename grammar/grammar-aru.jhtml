@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{location}} @HI{{ni}} @HI{{ha}} @N2{{}} @HI{{ga}} @HI{{@EM{{aru}}}}
-<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} @HI{{@EM{{aru}}}}
-<li> @HI{{@EM{{aru}}}} <em>predicate</em>
+<li> @FORMATION{{@N1{{location}}@HI{{ni}}@HI{{ha}}@N2{{}}@HI{{ga}}@HI{{@EM{{aru}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ha}}@N2{{location}}@HI{{ni}}@HI{{@EM{{aru}}}}}}
+<li> @FORMATION{{@HI{{@EM{{aru}}}} <em>predicate</em>}}
 </ol>
 
 <h2> Definition </h2>
@@ -64,7 +64,8 @@ rather than @HI{{ni}} must be used.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 73).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}

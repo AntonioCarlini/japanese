@@ -137,10 +137,10 @@
 
 <ol>
 <li> <a href="grammar-aru.html">@HI{{ga aru}}</a>, <a href="grammar-wakaru.html">@HI{{ga wakaru}}</a>
-<li> <a href="grammar-kosoado.html"> @HI{{donna}} N</a>
+<li> <a href="grammar-kosoado.html#donna"> @HI{{donna}} N</a>
 <li> <a href="grammar-adverbs-of-degree.html">@HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/
     @KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}</a>
-<li> <a href="grammar-particle-kara.html">@S1{{}}@HI{{kara,}}@S2{{}}</a>
+<li> <a href="grammar-particle-kara.html#because">@S1{{}}@HI{{kara,}}@S2{{}}</a>
 <li> <a href="grammar-dou.html">@HI{{doushite}}</a>
 </ol>
 
@@ -150,7 +150,7 @@
 <li> @N{{}}@HI{{ga}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> @N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
-<li> <a href="grammar-particle-no.html">@N1{{}}@N2{{position}}</a>
+<li> <a href="grammar-particle-no.html#location">@N1{{}}@N2{{position}}</a>
 <li> <a href="grammar-particle-ya.html">@N1{{}}@HI{{ya}}@N2{{}}</a>
 <li> <a href="grammar-particle-ka.html"><em>words</em>@HI{{desuka}}</a>
 <li> <a href="grammar-arimasen-ka.html">@HI{{arimasenka}}</a>

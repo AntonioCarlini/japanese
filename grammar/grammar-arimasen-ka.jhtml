@@ -16,19 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{arimasenka}}}}.
+<li> @FORMATION{{@HI{{@EM{{arimasenka}}.}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 By using the negative form in a question, the speaker is being indirect and polite by showing that he is prepared for a negative answer.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{chiriso-su}}ha@EM{{arimasenka}}.}}
@@ -37,14 +32,14 @@ By using the negative form in a question, the speaker is being indirect and poli
       Is there any chilli sauce?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 10).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}

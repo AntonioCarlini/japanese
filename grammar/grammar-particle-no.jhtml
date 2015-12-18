@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@HI{{@EM{{no}}}} @N2{{}}
-<li> @Splain{{}}@HI{{@EM{{no}}}} ...
-<li> @S{{}}@HI{{@EM{{no}}}}.
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{no}}}}@N2{{}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{no}}}} ...}}
+<li> @FORMATION{{@S{{}}@HI{{@EM{{no}}.}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -42,7 +42,7 @@ If the context is understood, the second noun can be omitted.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{no}}}} can be used between two nouns to indicate position or location.
+<a name="location">@HI{{@EM{{no}}}}</a> can be used between two nouns to indicate position or location.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -220,6 +220,7 @@ question marker in colloquial sentences.
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 2).
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 <li> @UCREF{{DOBJG}}. (p. 312).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).

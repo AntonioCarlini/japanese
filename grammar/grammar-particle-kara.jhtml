@@ -182,7 +182,7 @@ The pattern can be inverted to present first the result (using @HI{{noha}}) and 
 <li> @UCREF{{DOBJG}}. (p. 176).
 <li> @UCREF{{DOBJG}}. (p. 179).
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

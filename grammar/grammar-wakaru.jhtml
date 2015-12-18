@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The basic meaning of @KJ{{part}}@HI{{karu}} is "to be comprehensible" or "to understand". 
 
@@ -45,6 +48,7 @@ The basic meaning of @KJ{{part}}@HI{{karu}} is "to be comprehensible" or "to und
 </br></br>
 </p>
 
+@BGRND{{}}
 <p>
 @KJ{{part}}@HI{{karu}} involves a process of "figuring out" or processing information. Here it differs from
 @KJ{{know}}@HI{{ru}}, which means "to obtain information from an external source".
@@ -70,6 +74,7 @@ The basic meaning of @KJ{{part}}@HI{{karu}} is "to be comprehensible" or "to und
 </br></br>
 </p>
 
+@BGRND{{}}
 <p>
 Although @KJ{{part}}@HI{{karu}} almost always marks its object with @HI{{ga}}, it uses @HI{{wo}} in
 <a href="grammar-verb-use-of-causative.html">causative</a> sentences and in sentences when the
@@ -86,6 +91,8 @@ experiencer makes a conscious effort to understand something.
 </br></br>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -96,7 +103,7 @@ experiencer makes a conscious effort to understand something.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 529).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

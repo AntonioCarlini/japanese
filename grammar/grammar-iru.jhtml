@@ -16,18 +16,22 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{ga}} @HI{{@EM{{iru}}}}
-<li> @N1{{location}} @HI{{ni}} @N2{{}} @HI{{ga}} @HI{{@EM{{iru}}}}
-<li> @N1{{}} @HI{{ha}} @N2{{location}} @HI{{ni}} @HI{{@EM{{iru}}}}
+<li> @FORMATION{{@N{{}}@HI{{ga}}@HI{{@EM{{iru}}}}}}
+<li> @FORMATION{{@N1{{location}}@HI{{ni}}@N2{{}}@HI{{ga}}@HI{{@EM{{iru}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ha}}@N2{{location}}@HI{{ni}}@HI{{@EM{{iru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{iru}}}} is used when discussing living animate things; <a href="grammar-aru.html">@HI{{aru}}</a>
 is used for plants and inanimate objects.
 </p>
 
+@BGRND{{}}
 <p>
 In the first sentence pattern the existence or presence of someone or something is stated.
 The thing that exists is marked with @HI{{ga}}.
@@ -43,6 +47,7 @@ The thing that exists is marked with @HI{{ga}}.
 <hrule>
 </p>
 
+@BGRND{{}}
 <p>
 In the second sentence pattern, a location is presented and @HI{{@EM{{iru}}}}
 focuses on what exists. @HI{{ni}} may be dropped.
@@ -58,6 +63,7 @@ focuses on what exists. @HI{{ni}} may be dropped.
 <hrule>
 </p>
 
+@BGRND{{}}
 <p>
 In the third sentence pattern, a thing is presented as the topic and @HI{{@EM{{iru}}}}
 focuses on where that thing is.
@@ -73,17 +79,19 @@ focuses on where that thing is.
 <hrule>
 </p>
 
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
 <p>
 Note that @HI{{@EM{{iru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
 </p>
-
-<h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 153).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 10).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}

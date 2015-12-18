@@ -18,7 +18,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{dou}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dou}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -83,6 +83,25 @@ normally end in @HI{{kara}} ("because").
 </table>
 </p>
 
+<p>
+@HI{{doushitedesuka}} is used to ask the reason for what the other person has just said.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{kyouha@FG{{@KJ{{early}}:haya}}ku@FG{{@KJ{{homecoming}}:kae}}rimasu.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@EM{{doushitedesuka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'll go home early today.
+  </td> </tr>
+  <tr class="en"> <td>
+      Why?
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -96,7 +115,7 @@ normally end in @HI{{kara}} ("because").
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 114).
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

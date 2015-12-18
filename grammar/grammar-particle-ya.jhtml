@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{@EM{{ya}}}} ... 
-<li> @Vru{{}} @HI{{@EM{{ya}}}} @HI{{ina}} @HI{{@EM{{ya}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ya}}}} ... }}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{ya}}}}@HI{{ina}}@HI{{@EM{{ya}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -71,6 +71,7 @@ means "as soon as" or "no sooner had".
 <ol>
 <li> @UCREF{{AAP}}. (p. 41).
 <li> @UCREF{{DOBJG}}. (p. 536).
+<li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}
