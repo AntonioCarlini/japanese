@@ -19,8 +19,11 @@
 Japanese adverbs can precede adjectives or verbs to modify them.
 </p>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{totemo}}}} is an adverb that precedes the adjective it is modifying. It is used in affirmative sentences
+<a name="totemo">@HI{{@EM{{totemo}}}}</a> is an adverb that precedes the adjective it is modifying. It is used in affirmative sentences
 to mean "very".
 
 <table class="sentence">
@@ -33,8 +36,9 @@ to mean "very".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@HI{{@EM{{amari}}}} is an adverb that precedes the adjective it is modifying. It is used in negative sentences
+<a name="amari">@HI{{@EM{{amari}}}}</a> is an adverb that precedes the adjective it is modifying. It is used in negative sentences
 to mean "not very".
 
 <table class="sentence">
@@ -46,6 +50,7 @@ to mean "not very".
   </td> </tr>
 </table>
 
+@BGRND{{}}
 <p>
 @HI{{yoku}}, @HI{{daitai}}, @HI{{takusann}}, @KJ{{few}}@HI{{shi}}, @HI{{amari}} and @KJ{{whole^sort*of*thing}}
 are adverbs of degree and amount that precede verbs to modify them. The tables below show the degree of modification and whether they are used
@@ -177,13 +182,14 @@ Note that @HI{{sukoshi}} and @HI{{zenzenn}} can also modify adjectives.
 </ol>
 </p>
 
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 9).
 </ol>
 

@@ -17,7 +17,7 @@ in English, to modify a noun, but they can also be used as a predicate.
 
 <p>
 When used as a predicate, @HI{{i}}-adjectives can occur at the end of a sentence in the plain form. If the sentence is to be in
-the polite form then the @HI{{i}}-adjective will be followed by desu. As shown in the table, the @HI{{i}}-adjective inflects to
+the polite form then the @HI{{i}}-adjective will be followed by @HI{{desu}}. As shown in the table, the @HI{{i}}-adjective inflects to
 show whether the sentence is in the past and whether the sentence is in the negative. In all these cases the difference between
 the plain form and the polite form is the presence of a final @HI{{desu}}. Note that this @HI{{desu}} does not inflect as
 a <a href="grammar-copula.html">copula</a>, but remains unchanged and merely marks the sentence as being in the polite form.
@@ -47,7 +47,7 @@ When used prenominally, @HI{{i}}-adjectives precede the modified noun with no in
 <p>
 When used as a predicate, @HI{{na}}-adjectives are found, without the @HI{{na}}, followed by the 
 <a href="grammar-copula.html">copula<a/>. It is the copula
-that inflects to show a sentence that is in the past or in the negative. The form of the shows whether
+that inflects to show a sentence that is in the past or in the negative. The form of copula the shows whether
 the sentence is in the plain form of the polite form.
 
 <table class="sentence">
@@ -75,7 +75,7 @@ When used prenominally, a @HI{{na}} is placed between the @HI{{na}}-adjectives a
 
 <p>
 Adjective sentences form questions in the same way as noun or verb sentences: by taking a sentence-ending
-<a href="grammar-particle-ka.html">@HI{{ka}}</a>. The answre should repeat the adjective.
+<a href="grammar-particle-ka.html">@HI{{ka}}</a>. The answer should repeat the adjective.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -224,7 +224,7 @@ The reply should be of the form:
 <h1>References</h1>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 

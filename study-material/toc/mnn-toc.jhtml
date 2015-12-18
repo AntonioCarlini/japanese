@@ -126,11 +126,11 @@
 <ol>
 <li> <a href="adjectives.html">Adjectives as predicates</a>
 <li> <a href="adjectives.html">Adjectives as modifiers</a>
-<li> <a href="grammar-adverbs-of-degree.html"> @HI{{totemo}}/@HI{{amari}} </a>
+<li> <a href="grammar-adverbs-of-degree.html#totemo">@HI{{totemo}}</a> / <a href="grammar-adverbs-of-degree.html#amari">@HI{{amari}}</a>
 <li> <a href="grammar-dou.html">@N{{}}@HI{{hadoudesuka}}</a>
 <li> <a href="grammar-kosoado.html"> @N1{{}}@HI{{ha donnna}}@N2{{}}@HI{{desuka}}</a>
-<li> <a href="grammar-ga-conjunction.html"> @S1{{}}@HI{{ga,}}@S2{{}}</a>
-<li> <a href="grammar-kosoado.html"> @HI{{dore}}</a>
+<li> <a href="grammar-ga-conjunction.html#but"> @S1{{}}@HI{{ga,}}@S2{{}}</a>
+<li> <a href="grammar-kosoado.html#dore"> @HI{{dore}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>
@@ -194,7 +194,7 @@
 <li> <a href="grammar-te-kudasai.html"> @Vte{{}} @HI{{kudasai}} </a>
 <li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
 <li> <a href="grammar-mashouka.html"> @Vmasustem{{}}@HI{{mashouka}} </a> </h3>
-<li> <a href="grammar-ga-conjunction.html"> @HI{{ga}} conjunction </a>
+<li> <a href="grammar-ga-conjunction.html#light"> @HI{{ga}} conjunction </a>
 <li> @N{{}}@HI{{ga}} V
 </ol>
 

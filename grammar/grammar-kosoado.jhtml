@@ -214,7 +214,9 @@ pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with
       Who is that (person)?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @KT{{santosu}}@HI{{sanha @EM{{dono}}}}@KJ{{person}}@HI{{desuka.}}
@@ -257,10 +259,10 @@ It can also be used to ask the listener to name one of a group which the followi
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{@EM{{donna}}@KT{{supotsu}} ga suki desu ka.}}
+      A: @HI{{@EM{{donna}}@KT{{supotsu}}gasukidesuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @KT{{sakka-}} @HI{{ga suki desu.}}
+      B: @KT{{sakka-}}@HI{{gasukidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       A: What sports do you like?
@@ -381,7 +383,7 @@ as though it really existed then and there.
 <ol>
 <li> @UCREF{{DOBJG}}. (p 600).
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 8).
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 9).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 16).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 31).

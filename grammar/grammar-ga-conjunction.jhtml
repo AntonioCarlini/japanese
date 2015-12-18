@@ -16,19 +16,31 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}} @HI{{@EM{{ga}}}} @S2{{}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{ga}}}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{ga}} can operate as a conjunction that lightly links two sentences of contrasting meaning.
+<a name="but">@HI{{ga}}</a> can operate as a conjunction meaning "but" that links two sentences.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@KJ{{eat}}be@KJ{{thing}}haoishiidesu@EM{{ga}},@KJ{{tall}}idesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese food is good, but expensive.
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+@BGRND{{}}
+<p>
+<a name="light">@HI{{ga}}</a> can operate as a conjunction that lightly links two sentences of contrasting meaning.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{before^salutation}}@EM{{ga}}, o@KJ{{evening^in*front}}ha?}}
@@ -37,7 +49,7 @@
       Excuse me, but may I have your name?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -61,6 +73,7 @@ In some utterances @S1{{}} and @S2{{}} do not need to express contrasting notion
 <h2> References </h2>
 
 <ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 14).
 <li> @UCREF{{DOBJG}}. (p 120)
 </ol>
