@@ -16,11 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vmasustem{{}}@HI{{ni}}}} @V{{movement}}
+<li> @FORMATION{{@EM{{@Vmasustem{{}}@HI{{ni}}}}@V{{movement}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This form is used to express the purpose for some movement.
 
@@ -32,9 +35,9 @@ This form is used to express the purpose for some movement.
       I'm going to Kobe to eat Indian food.
   </td> </tr>
 </table>
-<br/><br/>
-
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -55,7 +58,7 @@ A noun denoting an action or event or festival can appear before @HI{{ni}} in th
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 13).
+<li> @REF{{MNN-TR-I}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}

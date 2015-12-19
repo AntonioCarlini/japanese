@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@HI{{to}}@N2{{}}@HI{{dochiraga}} <em>adjective</em> @HI{{desuka.}}
+<li> @FORMATION{{@N1{{}}@HI{{to}}@N2{{}}@HI{{dochiraga}} <em>adjective</em> @HI{{desuka.}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -34,8 +34,9 @@ involved.
       Which is cooler, Hokkaido or Osaka?
   </td> </tr>
 </table>
-<br/><br/>
+</p>
 
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{mira-}}santo@KT{{santosu}}santodochiraga@KT{{tenisu}}ga@KJ{{above^hand}}desuka.}}
@@ -44,7 +45,6 @@ involved.
       Who is the better tennis player, Mr. Miller or Mr. Santos?
   </td> </tr>
 </table>
-<br/><br/>
 </p>
 
 <h2> Notes </h2>
@@ -52,7 +52,7 @@ involved.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 12).
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}

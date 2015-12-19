@@ -181,7 +181,7 @@
 <li> <a href="grammar-hoshii.html"> @HI{{hoshii}}</a>
 <li> <a href="grammar-tai.html"> @HI{{tai}} </a>
 <li> <a href="grammar-masu-ni.html">@Vmasustem{{}}@HI{{ni}} @V{{motion}}</a>
-<li> <a href="grammar-particle-ni.html">Goal: @N{{}}@HI{{ni}}@V{{}}</a>
+<li> <a href="grammar-particle-ni.html#movement">Goal: @N{{}}@HI{{ni}}@V{{}}</a>
 <li> <a href="grammar-interrogatives-with-particles.html">@HI{{dokoka}}, @KJ{{what}}@HI{{ka}}</a>
 <li> <a href="grammar-respect-markers.html#go">@HI{{go}}@KJ{{pour^sentence}}</a>
 </ol>

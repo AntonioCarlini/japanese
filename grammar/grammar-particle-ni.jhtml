@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates the location of an action, "in" or "at".
+<a name="action-location">@HI{{@EM{{ni}}}}</a> indicates the location of an action, "in" or "at".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -92,7 +92,7 @@ otherwise it cannot. @HI{{@EM{{ni}}}} is optional with the four seasons.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates movement from a larger place to a smaller place; the place may be abstract,
+<a name="movement">@HI{{@EM{{ni}}}}</a> indicates movement from a larger place to a smaller place; the place may be abstract,
 such as a group or society.
 
 <table class="sentence" border=0>
@@ -149,7 +149,7 @@ such as a group or society.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates the result of a change or impending change.
+<a name="result">@HI{{@EM{{ni}}}}</a> indicates the result of a change or impending change.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -163,7 +163,7 @@ such as a group or society.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates a condition that already exists.
+<a name="existing-cond">@HI{{@EM{{ni}}}}</a> indicates a condition that already exists.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -219,7 +219,7 @@ such as a group or society.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} joins nouns (usually three or more).
+<a name="join">@HI{{@EM{{ni}}}}</a> joins nouns (usually three or more).
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -234,7 +234,7 @@ such as a group or society.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates a pair of people of things that are often mentioned together.
+<a name="connected-pair">@HI{{@EM{{ni}}}}</a> indicates a pair of people of things that are often mentioned together.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -248,7 +248,7 @@ such as a group or society.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni}}}} indicates the basis on which an action takes place.
+<a name="basis">@HI{{@EM{{ni}}}}</a> indicates the basis on which an action takes place.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -277,6 +277,7 @@ the particle is not used. @HI{{@EM{{ni}}}} may optionally be used with days of t
 <li> @UCREF{{AAP}}. (p. 32).
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-TR-I}}. (Chapter 13).
 <li> @UCREF{{DOBJG}}. (p. 289).
 </ol>
 

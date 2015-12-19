@@ -105,22 +105,22 @@ Adjective sentences form questions in the same way as noun or verb sentences: by
  <tr>
    <td> Present </td>
    <td> @HI{{taka}}@EM{{@HI{{i}}}}</td>
-   <td> @HI{{taka}}@EM{{@HI{{i desu}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{idesu}}}}</td>
  </tr>
  <tr>
    <td> Present Negative </td>
    <td> @HI{{taka}}@EM{{@HI{{kunai}}}}</td>
-   <td> @HI{{taka}}@EM{{@HI{{kunai desu}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kunaidesu}}}}</td>
  </tr>
  <tr>
    <td> Past</td>
    <td> @HI{{taka}}@EM{{@HI{{katta}}}}</td>
-   <td> @HI{{taka}}@EM{{@HI{{katta desu}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kattadesu}}}}</td>
  </tr>
  <tr>
    <td> Past Negative</td>
    <td> @HI{{taka}}@EM{{@HI{{kunakatta}}}}</td>
-   <td> @HI{{taka}}@EM{{@HI{{kunakatta desu}}}}</td>
+   <td> @HI{{taka}}@EM{{@HI{{kunakattadesu}}}}</td>
  </tr>
  <tr>
    <td> @HI{{te}}-form</td>
@@ -144,23 +144,23 @@ Adjective sentences form questions in the same way as noun or verb sentences: by
  </tr>
  <tr>
    <td> Present </td>
-   <td> @HI{{benri}}@EM{{@HI{{ da}}}}</td>
-   <td> @HI{{benri}}@EM{{@HI{{ desu}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{da}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{desu}}}}</td>
  </tr>
  <tr>
    <td> Present Negative </td>
-   <td> @HI{{benri}}@EM{{@HI{{ dewa nai}}}}</td>
-   <td> @HI{{benri}}@EM{{@HI{{ dewa arimasenn}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{dehanai}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{dehaarimasenn}}}}</td>
  </tr>
  <tr>
    <td> Past</td>
-   <td> @HI{{benri}}@EM{{@HI{{ datta}}}}</td>
-   <td> @HI{{benri}}@EM{{@HI{{ deshita}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{datta}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{deshita}}}}</td>
  </tr>
  <tr>
    <td> Past Negative</td>
-   <td> @HI{{benri}}@EM{{@HI{{dewa nakatta}}}}</td>
-   <td> @HI{{benri}}@EM{{@HI{{dewa arimasenn deshita}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{dehanakatta}}}}</td>
+   <td> @HI{{benri}}@EM{{@HI{{dehaarimasenndeshita}}}}</td>
  </tr>
  <tr>
    <td> @HI{{te}}-form</td>
@@ -207,7 +207,7 @@ The reply should be of the form:
 
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{@KJ{{house^tribe}}no@KJ{{in}}de darega ichibann @KJ{{stature}}ga@KJ{{tall}}idesuka.}}
+      A: @HI{{@KJ{{house^tribe}}no@KJ{{in}}dedaregaichibann@KJ{{stature}}ga@KJ{{tall}}idesuka.}}
   </td> </tr>
   <tr class="jp"> <td>
       B: @HI{{@KJ{{younger*brother}}gaichibann@KJ{{stature}}ga@KJ{{tall}}idesu.}}
@@ -225,7 +225,7 @@ The reply should be of the form:
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 12).
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
 </body>

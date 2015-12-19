@@ -16,11 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{hoshii}}}}
+<li> @FORMATION{{@HI{{@EM{{hoshii}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{hoshii}}}} is an @HI{{i}}-adjective that expresses a desire for something. The experiencer is marked by @HI{{ha}}
 and the object that is desired is marked by @HI{{ga}}.
@@ -35,6 +38,7 @@ and the object that is desired is marked by @HI{{ga}}.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 As @HI{{@EM{{hoshii}}}} is a strong adjective of emotion, the experiencer is usually the speaker. The experiencer can be
 the listener if an interrogative form is used.
@@ -49,6 +53,7 @@ the listener if an interrogative form is used.
 </table>
 <br/><br/>
 
+@BGRND{{}}
 In most cases where a third person is the experiencer, @HI{{@EM{{hoshii}}}} 
 will be used with <a href="grammar-garu.html">@HI{{garu}}</a> in the form @HI{{hoshigatteiru}}. There are exceptions where
 @HI{{@EM{{hoshii}}}} can be used with a third person:
@@ -99,13 +104,15 @@ will be used with <a href="grammar-garu.html">@HI{{garu}}</a> in the form @HI{{h
 </ol>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 144).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 13).
+<li> @REF{{MNN-TR-I}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}

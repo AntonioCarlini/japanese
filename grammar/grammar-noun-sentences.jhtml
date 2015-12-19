@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{desu}}.
-<li> @N{{}}@HI{{da}}.
+<li> @FORMATION{{@N{{}}@HI{{desu}}.}}
+<li> @FORMATION{{@N{{}}@HI{{da}}.}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,12 +25,7 @@
 <p>
 A noun sentence is one which ends in a noun followed by a form of the <a href="grammar-copula.html">copula</a>.
 The copula inflects to express the politeness level and whether the sentence is in the past or in the negative.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kinouha@KJ{{rain}}deshita.}}
@@ -39,24 +34,14 @@ The copula inflects to express the politeness level and whether the sentence is 
       Yesterday it rained.
   </td> </tr>
 </table>
-<br/><br/>
-
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{kinouno@KJ{{test^verification}}ha @KJ{{simplicity^simple}}jaarimasendeshita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Yesterday's exam was not easy.
-  </td> </tr>
-</table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 12).
+<li> @REF{{MNN-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}

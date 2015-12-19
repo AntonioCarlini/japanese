@@ -16,11 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{@EM{{tai}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{tai}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{tai}}}} is an auxiliary used with the @HI{{masu}}-stem of a verb to express a desire to do something. It conjugates
 as an @HI{{i}}-adjective.
@@ -35,6 +38,7 @@ as an @HI{{i}}-adjective.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 This form is usually used for the first person or, in an interrogative sentence, for the second person.
 
@@ -46,8 +50,10 @@ This form is usually used for the first person or, in an interrogative sentence,
       What do you want to buy in Kobe?
   </td> </tr>
 </table>
-<br/><br/>
+</p>
 
+@BGRND{{}}
+<p>
 When required for the third person, the form used is with <a href="grammar-garu.html">@HI{{garu}}</a> to make @HI{{tagatteiru}}.
 
 <table class="sentence">
@@ -58,8 +64,11 @@ When required for the third person, the form used is with <a href="grammar-garu.
       Mr. Miki wants to buy a car.
   </td> </tr>
 </table>
-<br/><br/>
+</p>
 
+@BGRND{{}}
+
+<p>
 Note, however, that @HI{{@EM{{tai}}}} can be used with a third person:
 <ol>
 <li> with a past tense
@@ -68,6 +77,8 @@ Note, however, that @HI{{@EM{{tai}}}} can be used with a third person:
 <li> in expressions ofconjecture.
 </ol>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -79,7 +90,7 @@ Note, however, that @HI{{@EM{{tai}}}} can be used with a third person:
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 441).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 13).
+<li> @REF{{MNN-TR-I}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}
