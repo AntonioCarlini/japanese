@@ -15,19 +15,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{douyatte}}}}
+<li> @FORMATION{{@HI{{@EM{{douyatte}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @HI{{@EM{{douyatte}}}} is used to ask the way or the method of doing something.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{large^study}}made @HI{{@EM{{douyatte}}}} @KJ{{going}}kimasuka.}}
@@ -36,14 +31,14 @@
       How do you get to your university?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 16).
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}

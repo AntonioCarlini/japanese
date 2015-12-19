@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}},
-<li> @Aistem{{}}@HI{{kute}},
-<li> @Anastem{{}}@HI{{de}},
-<li> @N{{}}@HI{{de}},
+<li> @FORMATION{{@Vte{{}},}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute}},}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}},}}
+<li> @FORMATION{{@N{{}}@HI{{de}},}}
 </ol>
 
 <h2> Definition </h2>
@@ -94,7 +94,7 @@ should be used instead.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 16).
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
 <li> @UCREF{{DOBJG}}. (p. 464).
 </ol>
 

@@ -16,34 +16,28 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}} @HI{{@EM{{haikenai}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{@EM{{haikenai}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 This pattern is used to express prohibition.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kokode tabakowo @KJ{{suck}}tteha ikemasenn. @KJ{{prohibition^smoke}}desu kara.}}
+      @HI{{kokodetabakowo@KJ{{suck}}ttehaikemasen'.@KJ{{prohibition^smoke}}desukara.}}
   </td> </tr>
   <tr class="en"> <td>
       You may not smoke here because it is a no-smoking area.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-To <em>strongly</em> refuse permission, use @HI{{iee, ikemasenn}}. This form cannot be used to
-a superior.
+To <em>strongly</em> refuse permission, use @HI{{iee, ikemasenn}}. This form cannot be used to a superior.
 </p>
 
 <p>
@@ -53,7 +47,7 @@ A slightly stronger expression is @Vte{{}}@HI{{hanaranai}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 15).
+<li> @REF{{MNN-TR-I}}. (Chapter 15).
 <li> @UCREF{{DOBJG}}. (p. 528).
 </ol>
 

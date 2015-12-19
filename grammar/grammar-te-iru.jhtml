@@ -25,11 +25,11 @@
 
 @BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{iru}}}} is used to describe a customary action.
+<a name="customary">@EM{{@Vte{{}}@HI{{iru}}}}</a> is used to describe a customary action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{every^morning}} @KT{{jogingu}}wo shi@EM{{te imasu}}.}}
+      @HI{{@KJ{{every^morning}}@KT{{jogingu}}woshi@EM{{teimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I jog every morning.
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{iru}}}} is used to describe a state which is the result of the action expressed
+<a name="resulting-state">@EM{{@Vte{{}}@HI{{iru}}}}</a> is used to describe a state which is the result of the action expressed
 by the verb. If the verb describes an action that can be repeated or continued,
 @EM{{@Vte{{}}@HI{{iru}}}} expresses the continuation of that action. Otherwise if the
 verb expresses a momentary action, @EM{{@Vte{{}}@HI{{iru}}}} expresses the idea
@@ -50,7 +50,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{window}}ga @KJ{{proportion}}re@EM{{te imasu}}.}}
+      @HI{{@KJ{{window}}ga@KJ{{proportion}}re@EM{{teimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The window is broken.
@@ -59,7 +59,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^spirit}}ga tsui@EM{{te imasu}}.}}
+      @HI{{@KJ{{electricity^spirit}}gatsui@EM{{teimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The light is on.
@@ -68,7 +68,7 @@ are intransitive ones.
 <li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{tie^marriage}}shite imasu.}}
+      @HI{{@KJ{{private}}ha @KJ{{tie^marriage}}shiteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm married.
@@ -79,11 +79,11 @@ are intransitive ones.
 
 @BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is in progress.
+<a name="in-progress">@EM{{@Vte{{}}@HI{{iru}}}}</a> is used to describe an action that is in progress.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @KJ{{now electricity^tale}}wo kakete imasu.}}
+      @HI{{@KT{{mira-}}sanha@KJ{{now electricity^tale}}wokaketeimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Miller is making a phone call now.
@@ -93,11 +93,11 @@ are intransitive ones.
 
 @BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{iru}}}} is used to describe an action that is habitual.
+<a name="habitual">@EM{{@Vte{{}}@HI{{iru}}}}</a> is used to describe an action that is habitual.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{su-pa-}}de @KT{{firumu}}wo @KJ{{sell}}tte imasu.}}
+      @HI{{@KT{{su-pa-}}de@KT{{firumu}}wo@KJ{{sell}}tte imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Supermarkets sell films.
@@ -143,7 +143,7 @@ the past is relevant to the present situation.
 <p>
 When the verb is one of motion, such as @HI{{kuru}} or @HI{{kaeru}}, 
 the meaning is to have performed the motion and its results persist. 
-For example, @HI{{itte iru}} means to have gone somewhere and still be there.
+For example, @HI{{itteiru}} means to have gone somewhere and still be there.
 </p>
 
 <p>
@@ -158,10 +158,10 @@ third person and the sentence expresses a present state.
 <h2> References </h2>
 
 <ol>
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{MNN-TR-I}}. (Chapter 15).
 <li> @UCREF{{MNN-TR-II}}. (Chapter 28).
 <li> @UCREF{{MNN-TR-II}}. (Chapter 28).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 14).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 15).
 <li> @UCREF{{DOBJG}}. (p. 155).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>

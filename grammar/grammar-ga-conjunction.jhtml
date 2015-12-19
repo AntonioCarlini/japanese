@@ -43,7 +43,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^salutation}}@EM{{ga}}, o@KJ{{evening^in*front}}ha?}}
+      @HI{{@KJ{{before^salutation}}@EM{{ga}},o@KJ{{evening^in*front}}ha?}}
   </td> </tr>
   <tr class="en"> <td>
       Excuse me, but may I have your name?
@@ -74,7 +74,7 @@ In some utterances @S1{{}} and @S2{{}} do not need to express contrasting notion
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
 <li> @UCREF{{DOBJG}}. (p 120)
 </ol>
 

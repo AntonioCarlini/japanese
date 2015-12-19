@@ -16,12 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vte{{}}@HI{{kudasai}}}}
-<li> @EM{{@Vnai{{}}@HI{{dekudasai}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{kudasai}}}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{dekudasai}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}} @HI{{kudasai}}}} is an expression used to ask, instruct or encourage
 the listener to do something. It cannot be used to a superior.
@@ -36,6 +39,7 @@ the listener to do something. It cannot be used to a superior.
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 When used to ask the listener to do something, it is often preceded by @HI{{sumimasenga}}.
 
@@ -49,6 +53,7 @@ When used to ask the listener to do something, it is often preceded by @HI{{sumi
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 The negative form makes a request even more polie.
 
@@ -62,15 +67,12 @@ The negative form makes a request even more polie.
 </table>      
 </p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 14).
+<li> @REF{{MNN-TR-I}}. (Chapter 14).
 <li> @UCREF{{DOBJG}}. (p. 209).
 </ol>
 

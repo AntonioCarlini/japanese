@@ -192,7 +192,7 @@
 <li><a href="grammar-verb-conjugations.html"> Verb Conjugations </a>
 <li> <a href="grammar-verb-formation-te.html"> How to make the @HI{{te}}-form </a> </h3>
 <li> <a href="grammar-te-kudasai.html"> @Vte{{}} @HI{{kudasai}} </a>
-<li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
+<li> <a href="grammar-te-iru.html#in-progress"> @Vte{{}}@HI{{iru}} </a>
 <li> <a href="grammar-mashouka.html"> @Vmasustem{{}}@HI{{mashouka}} </a> </h3>
 <li> <a href="grammar-ga-conjunction.html#light"> @HI{{ga}} conjunction </a>
 <li> @N{{}}@HI{{ga}} V
@@ -201,9 +201,9 @@
 <h2><a class="navtarget" name="chapter15">_</a>Chapter 15</h2>
 
 <ol>
-<li> <a href="grammar-te-mo-ii.html"> @HI{{te mo ii}} </a>
-<li> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{ha ikemasenn}}</a>
-<li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
+<li> <a href="grammar-te-mo-ii.html"> @HI{{temoii}} </a>
+<li> <a href="grammar-te-wa-ikemasen.html"> @Vte{{}}@HI{{haikemasenn}}</a>
+<li> <a href="grammar-te-iru.html#resulting-state"> @Vte{{}}@HI{{iru}} </a>
 <li> @HI{{shirimasenn}}
 </ol>
 
@@ -214,7 +214,7 @@
 <li> <a href="grammar-te-kara.html"> @Vte{{}}@HI{{kara}} </a>
 <li> @N1{{}}@HI{{ha}}@N2{{}}@HI{{ga}} adjective
 <li> <a href="grammar-douyatte.html"> @HI{{douyatte}} </a>
-<li> <a href="grammar-kosoado.html"> @HI{{dono}} @N{{}} </a>
+<li> <a href="grammar-kosoado.html#kono"> @HI{{dono}}@N{{}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter17">_</a>Chapter 17</h2>

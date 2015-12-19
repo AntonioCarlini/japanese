@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li>@EM{{@Vte{{}}@HI{{kara}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{kara}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,18 +29,16 @@ be rendered as "after X, " or "since X, " where X is the subordinate clause.
 
 <p>
 The tense of the whole sentence is determined by the tense of the final verb.
-</p>
-
-<h2> Examples </h2>
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{exertion^strong}}ga @KJ{{end}}wa@EM{{tte kara}}, @KT{{tenisu}}wo shimashou.}}
+    @HI{{@KJ{{exertion^strong}}ga@KJ{{end}}wa@EM{{ttekara}},@KT{{tenisu}}woshimashou.}}
   </td> </tr>
   <tr class="en"> <td>
     Let's play tennis after we've finished studying.
   </td> </tr>
 </table>
+</p>
 
 <h2> Notes </h2>
 
@@ -52,7 +50,7 @@ on the part of the speaker.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 16).
+<li> @REF{{MNN-TR-I}}. (Chapter 16).
 <li> @UCREF{{DOBJG}}. (p. 177).
 </ol>
 
