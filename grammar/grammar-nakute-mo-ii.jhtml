@@ -16,20 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnai{{}} @HI{{@EM{{nakute mo ii}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{nakutemoii}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@HI{{@EM{{nakute mo ii}}}} indicates that the action described by the verb
+@HI{{@EM{{nakutemoii}}}} indicates that the action described by the verb
 need not be done.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{ashita @KJ{{come}}nakute mo ii desu.}}
@@ -38,14 +33,14 @@ need not be done.
     You don't have to come tomorrow.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
 <li> @UCREF{{DOBJG}}. (p 27).
 </ol>
 

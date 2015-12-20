@@ -16,18 +16,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vnai{{}} @HI{{de}}}}
-<li> @EM{{@Vnai{{}} @HI{{de}}}} @HI{{kudasai}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{de}}}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{de}}}}@HI{{kudasai}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-If the verb expresses something that is expected, then @EM{{@Vnai{{}} @HI{{de}}}} it means "without ~ing".
+If the verb expresses something that is expected, then @EM{{@Vnai{{}}@HI{{de}}}} it means "without ~ing".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{nanshi-}}ha kinou @KJ{{morning}}go@KJ{{meal}}wo @KJ{{eat}}@EM{{naide}} @KJ{{study^exam}}he @KJ{{going}}tta!}}
+    @HI{{@KT{{nanshi-}}hakinou@KJ{{morning}}go@KJ{{meal}}wo@KJ{{eat}}@EM{{naide}}@KJ{{study^exam}}he@KJ{{going}}tta!}}
   </td> </tr>
   <tr class="en"> <td>
     Nancy went to school without eating breakfast!
@@ -35,13 +38,14 @@ If the verb expresses something that is expected, then @EM{{@Vnai{{}} @HI{{de}}}
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Otherwise it means "not do ~".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{in^rice*field}}sanha @KJ{{large^heights}}ni @KJ{{going}}ka@EM{{naide}}
-    @KJ{{capital^metropolis}}ni @KJ{{going}}tta.}}
+    @HI{{@KJ{{in^rice*field}}sanha@KJ{{large^heights}}ni@KJ{{going}}ka@EM{{naide}}
+    @KJ{{capital^metropolis}}ni@KJ{{going}}tta.}}
   </td> </tr>
   <tr class="en"> <td>
     Mr. Nakada didn't go to Osaka; he went to Kyoto.
@@ -49,8 +53,9 @@ Otherwise it means "not do ~".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@EM{{@Vnai{{}} @HI{{de}}}} can be used with various auxiliaries such as @HI{{kudasai}}.
+@EM{{@Vnai{{}}@HI{{de}}}} can be used with various auxiliaries such as @HI{{kudasai}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -62,24 +67,26 @@ Otherwise it means "not do ~".
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{nai de}}}} often acts as a conjunction but it can be used with @HI{{kudasai}}.
+@HI{{@EM{{naide}}}} often acts as a conjunction but it can be used with @HI{{kudasai}}.
 </p>
 
 <p>
-@HI{{@EM{{nai de}}}} can only be used with verbs and never with adjectives.
+@HI{{@EM{{naide}}}} can only be used with verbs and never with adjectives.
 </p>
 
 <p>
-Where the @HI{{de}} of @HI{{@EM{{nai de}}}} has a meaning of "and", <a href="grammar-verb-use-of-zu.html">@HI{{zuni}}</a> can be used instead.
+Where the @HI{{de}} of @HI{{@EM{{naide}}}} has a meaning of "and", <a href="grammar-verb-use-of-zu.html">@HI{{zuni}}</a> can be used instead.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
 <li> @UCREF{{DOBJG}}. (p. 271).
 </ol>
 

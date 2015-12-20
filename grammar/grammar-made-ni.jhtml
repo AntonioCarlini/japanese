@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{made ni}}}} V
-<li> @N{{time}} @HI{{@EM{{made ni}}}} V
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{made ni}}}} V}}
+<li> @FORMATION{{@N{{time}}@HI{{@EM{{made ni}}}} V}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,12 +25,7 @@
 <p>
 This sentence pattern expresses that the point in time indicated by @HI{{@EM{{made ni}}}}
 is the time limit by which an action is to be completed.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{meeting^deliberation}}ha 5@KJ{{time}}@EM{{made ni}} @KJ{{end}}warimasu.}}
@@ -39,7 +34,9 @@ is the time limit by which an action is to be completed.
       The meeting will be over by 5.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{jetto}}@KJ{{mechanism}}ga @KT{{pari}}ni @KJ{{don}}ku@EM{{made ni}}
@@ -49,7 +46,7 @@ is the time limit by which an action is to be completed.
       By the time the jet arrived in Paris I had finished reading 3 books.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -60,7 +57,7 @@ is the time limit by which an action is to be completed.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
 <li> @UCREF{{DOBJG}}. (p. 228).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>

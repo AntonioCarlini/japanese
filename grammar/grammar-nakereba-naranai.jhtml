@@ -16,27 +16,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vnaistem{{}} @HI{{@EM{{nakereba naranai}}}}
-<li> @Aistem{{}} @HI{{ku @EM{{nakereba naranai}}}}
-<li> @Anastem{{}} @HI{{de @EM{{nakereba naranai}}}}
-<li> @N{{}} @HI{{de @EM{{nakereba naranai}}}}
+<li> @FORMATION{{@Vnaistem{{}}@HI{{@EM{{nakereba naranai}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku @EM{{nakereba naranai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de @EM{{nakereba naranai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{de@EM{{nakereba naranai}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{nakereba naranai}}}} expresses the idea of obligation: "if something is not, then it will not do".
+@HI{{@EM{{nakerebanaranai}}}} expresses the idea of obligation: "if something is not, then it will not do".
 Something has to be done regardless of the will of the actor: "must" is often a good translation.
-</p>
 
-<p>
-The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{nakute mo ii}}</a>.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{medicine}}wo @KJ{{drink}}manakereba narimasenn.}}
@@ -45,7 +39,9 @@ The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{na
     I must take medicine.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{basukettoboru}}no@KJ{{elect^hand}}ha @KJ{{large}}kiku nakereba narimasenn.}}
@@ -54,7 +50,9 @@ The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{na
     Basketball players have to be big.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{map^write^Bldg.}}ha @KJ{{quiet}}kade nakereba narimasenn.}}
@@ -63,14 +61,21 @@ The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{na
     Libraries have to be quiet.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+The negative form of this pattern is <a href="grammar-nakute-mo-ii.html">@HI{{nakutemoii}}</a>.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 17).
+<li> @REF{{MNN-TR-I}}. (Chapter 17).
 <li> @UCREF{{DOBJG}}. (p. 274).
 </ol>
 
