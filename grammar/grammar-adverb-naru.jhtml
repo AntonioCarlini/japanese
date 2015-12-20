@@ -16,21 +16,16 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Aistem{{}}@HI{{ku naru}}
-<li> @Anastem{{}}@HI{{ni naru}}
-<li> @N{{}}@HI{{ni naru}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku naru}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{ni naru}}}}
+<li> @FORMATION{{@N{{}}@HI{{ni naru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @HI{{naru}} means "to become" so this sentence pattern indicates a change in state or condition.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{cold}}muku narimasu.}}
@@ -39,7 +34,9 @@
       To become cold.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{beginning^spirit}}ni narimasu.}}
@@ -48,7 +45,9 @@
       To become well (healthy).
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{25@KJ{{year-end}}ni narimasu.}}
@@ -57,14 +56,14 @@
       To turn 25 years old.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 19).
+<li> @REF{{MNN-TR-I}}. (Chapter 19).
 </ol>
 
 @include{{"grammar-footer.inc"}}

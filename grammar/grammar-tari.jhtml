@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vta{{}}@HI{{ri}}}}, ... @HI{{suru}}.
-<li> @EM{{@Aistem{{}}@HI{{kattari}}}}, ... @HI{{suru}}.
-<li> @EM{{@Anastem{{}}@HI{{dattari}}}}, ... @HI{{suru}}.
-<li> @EM{{@N{{}}@HI{{dattari}}}}, ... @HI{{suru}}.
+<li> @FORMATION{{@EM{{@Vta{{}}@HI{{ri}}}}, ... @HI{{suru}}.}}
+<li> @FORMATION{{@EM{{@Aistem{{}}@HI{{kattari}}}}, ... @HI{{suru}}.}}
+<li> @FORMATION{{@EM{{@Anastem{{}}@HI{{dattari}}}}, ... @HI{{suru}}.}}
+<li> @FORMATION{{@EM{{@N{{}}@HI{{dattari}}}}, ... @HI{{suru}}.}}
 </ol>
 
 <h2> Definition </h2>
@@ -114,7 +114,7 @@ This sentence pattern can be used with the same verb in positive and negative fo
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 19).
+<li> @REF{{MNN-TR-I}}. (Chapter 19).
 <li> @UCREF{{DOBJG}}. (p. 458).
 <li> @UCREF{{AAP}}. (p. 108).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).

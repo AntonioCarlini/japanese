@@ -16,65 +16,66 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@HI{{@EM{{kotogaaru}}}}
-<li> @Aistem{{}}@HI{{katta}} @HI{{@EM{{kotogaaru}}}}
-<li> @Anastem{{}}@HI{{datta}} @HI{{@EM{{kotogaaru}}}}
-<li> @N{{}}@HI{{datta}} @HI{{@EM{{kotogaaru}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{katta}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{datta}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{datta}}@HI{{@EM{{kotogaaru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 This sentence pattern is used to indicate that someone has experience of something.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{horse}}ni @KJ{{ride}}tta @EM{{koto ga arimasu}}.}}
+      @HI{{@KJ{{horse}}ni@KJ{{ride}}tta@EM{{kotogaarimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I have ridden a horse.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{su-zan}}ha @KJ{{one^time}} @KT{{jazu}}ga totemo @KJ{{fond}}ki datta @EM{{koto ga arimasu}}.}}
+      @HI{{@KT{{su-zan}}ha@KJ{{one^time}}@KT{{jazu}}gatotemo@KJ{{fond}}kidatta@EM{{kotogaarimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when Susan liked jazz a lot.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{retasu}}ga totemo @KJ{{tall}}katta @EM{{koto ga arimasu}}.}}
+      @HI{{@KT{{retasu}}gatotemo@KJ{{tall}}katta@EM{{kotogaarimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when lettuce was expensive.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KT{{puro}}@KJ{{plains^ball^elect^hand}} datta @EM{{koto ga arimasu}}.}}
+      @HI{{@KJ{{private}}ha@KT{{puro}}@KJ{{plains^ball^elect^hand}}datta@EM{{kotogaarimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       There was a time when I was a professional baseball player.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 19).
+<li> @REF{{MNN-TR-I}}. (Chapter 19).
 <li> @UCREF{{DOBJG}}. (page 196).
 </ol>
 
