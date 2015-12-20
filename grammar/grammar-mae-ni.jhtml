@@ -2,79 +2,77 @@
 <html>
 
 <head>
-<title>@HI{{mae ni}}</title>
+<title>@HI{{maeni}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{mae ni}}" grammar="@HI{{mae ni}}"}}
+@GRMIDX{{index="@HI{{maeni}}" grammar="@HI{{maeni}}"}}
 
 <body>
 
-<h1>@HI{{mae ni}}</h1>
+<h1>@HI{{maeni}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{mae ni}}}}, @V2{{}}
-<li> @N{{}} @HI{{no}} @HI{{@EM{{mae ni}}}}, @V2{{}}
-<li> <em>quantifier(period)</em> @HI{{@EM{{mae ni}}}}, @V2{{}}
+<li> @FORMATION{{@Vru{{@HI{{@EM{{maeni}}}}, @V2{{}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{maeni}}}}, @V2{{}}}}
+<li> @FORMATION{{<em>quantifier(period)</em> @HI{{@EM{{maeni}}}}, @V2{{}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 This sentence pattern indicates that @V2{{}} happens before whatever is stated in the subordinate clause.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}he @KJ{{come}}ru @EM{{mae ni}}, @KJ{{day^book^word}}wo
-      @KJ{{exertion^strong}}shimashita.}}
+      @HI{{@KJ{{day^book}}he@KJ{{come}}ru@EM{{maeni}},@KJ{{day^book^word}}wo@KJ{{exertion^strong}}shimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I studied Japanese before I came to Japan.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{eat^matter}}no @EM{{mae ni}}, @KJ{{hand}}wo@KJ{{wash}}imasu.}}
+      @HI{{@KJ{{eat^matter}}no@EM{{maeni}},@KJ{{hand}}wo@KJ{{wash}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I wash my hands before eating.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{rice*field^in}}sanha 1@KJ{{time^interval}}@EM{{mae ni}}, @KJ{{exit}}kakemashita.}}
+      @HI{{@KJ{{rice*field^in}}sanha 1@KJ{{time^interval}}@EM{{maeni}},@KJ{{exit}}kakemashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Tanaka left an hour ago.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-The verb before @HI{{@EM{{mae ni}}}} is always non-past even if the sentence itself is in the past.
+The verb before @HI{{@EM{{maeni}}}} is always non-past even if the sentence itself is in the past.
 </p>
 
 <p>
-@HI{{@EM{{mae ni}}}} is used when the speaker something is going to take place. If the speaker
+@HI{{@EM{{maeni}}}} is used when the speaker is certain something is going to take place. If the speaker
 is unsure when the event might take place, <a href="grammar-uchi-ni.html">@HI{{uchini}}</a> should be used instead.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
 <li> @UCREF{{DOBJG}}. (p. 231).
 </ol>
 

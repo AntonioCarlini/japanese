@@ -16,15 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{nakanaka}}}}@Ai{{}}
-<li> @HI{{@EM{{nakanaka}}}}@Ana{{}}
-<li> @HI{{@EM{{nakanaka}}}}@V{{}}
-<li> @HI{{@EM{{nakanaka}}}}@ADV{{}}
-<li> @HI{{@EM{{nakanaka}}(no)}}@N{{}}
+<li> @FORMATION{{@HI{{@EM{{nakanaka}}}}@Ai{{}}}}
+<li> @FORMATION{{@HI{{@EM{{nakanaka}}}}@Ana{{}}}}
+<li> @FORMATION{{@HI{{@EM{{nakanaka}}}}@V{{}}}}
+<li> @FORMATION{{@HI{{@EM{{nakanaka}}}}@ADV{{}}}}
+<li> @FORMATION{{@HI{{@EM{{nakanaka}}(no)}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 When accompanied by a positive expression, @HI{{@EM{{nakanaka}}}} indicates that the speaker is impressed.
 
@@ -37,6 +40,8 @@ When accompanied by a positive expression, @HI{{@EM{{nakanaka}}}} indicates that
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
 <p>
 When accompanied by a negative expression, @HI{{@EM{{nakanaka}}}} means "not easily" or "not as expected."
 
@@ -49,6 +54,8 @@ When accompanied by a negative expression, @HI{{@EM{{nakanaka}}}} means "not eas
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -63,7 +70,7 @@ Only nouns that incorporate the idea of an adjective or adverb can be modified b
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
 <li> @UCREF{{DOIJG}}. (p. 206).
 </ol>
 

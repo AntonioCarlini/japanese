@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{koto}}}}
-<li> @Ai{{}}@HI{{@EM{{koto}}}}
-<li> @Ana{{}}@HI{{@EM{{koto}}}}
-<li> @Anastem{{}}@HI{{dearu@EM{{koto}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{koto}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{koto}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{koto}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{koto}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -39,7 +39,7 @@ phrase can normally be used.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{suisu}}ga kireina@EM{{koto}}ha @KJ{{copy^true}}de @KJ{{know}}tteimasu.}}
+      @HI{{@KT{{suisu}}gakireina@EM{{koto}}ha@KJ{{copy^true}}de@KJ{{know}}tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       From photographs I know that Switzerland is beautiful.
@@ -72,7 +72,7 @@ can be used to better define a hobby.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo @KJ{{hear}}ku @EM{{koto}} desu.}}
+      @HI{{@KJ{{private}}no@KJ{{gist^flavor}}ha @KJ{{sound^music}}wo@KJ{{hear}}ku@EM{{koto}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       My hobby is listening to music.
@@ -83,7 +83,6 @@ can be used to better define a hobby.
 @BGRND{{}}
 <p>
 <a name="toiukoto">When</a> the sentence to be nominalised is long and complicated, @HI{{@EM{{to@KJ{{say}}ukoto}}}} should be used instead of @HI{{@EM{{koto}}}}.
-phrase can normally be used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -114,7 +113,7 @@ There are various structures where @HI{{@EM{{koto}}}} is used and @HI{{no}} is n
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @UCREF{{DOBJG}}. (p. 193).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).

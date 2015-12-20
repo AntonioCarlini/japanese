@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{zehi}}}}
+<li> @FORMATION{{@HI{{@EM{{zehi}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -24,12 +24,7 @@
 <p>
 @HI{{@EM{{zehi}}}} is usually used with expressions of hope or request. It emphasises
 the meaning of these expressions.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@HI{{@EM{{zehi}}}}@KJ{{north^sea^road-way}}he @KJ{{going}}kitaidesu.}}
@@ -38,14 +33,14 @@ the meaning of these expressions.
       I want to go to Hokkaido very much.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 18).
+<li> @REF{{MNN-TR-I}}. (Chapter 18).
 </ol>
 
 @include{{"grammar-footer.inc"}}
