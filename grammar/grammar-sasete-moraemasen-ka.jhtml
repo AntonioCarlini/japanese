@@ -19,10 +19,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{@Vsasete{{}}moraemasenka}}}}
-<li> @HI{{@EM{{@Vsasete{{}}moraenaideshouka}}}}
-<li> @HI{{@EM{{@Vsasete{{}}itadakemasenka}}}}
-<li> @HI{{@EM{{@Vsasete{{}}itadakenaideshouka}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vsasete{{}}moraemasenka}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vsasete{{}}moraenaideshouka}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vsasete{{}}itadakemasenka}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vsasete{{}}itadakenaideshouka}}}}}}
 </ol>
 
 <h2> Definition </h2>

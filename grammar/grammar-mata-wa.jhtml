@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}(@HI{{ka}})@HI{{@EM{{mataha}}}}@N2{{}}
-<li> @S1{{}}@HI{{ka}}@HI{{@EM{{mataha}}}}@S2{{}}
+<li> @FORMATION{{@N1{{}}(@HI{{ka}})@HI{{@EM{{mataha}}}}@N2{{}}}}
+<li> @FORMATION{{@S1{{}}@HI{{ka}}@HI{{@EM{{mataha}}}}@S2{{}}}}
 </ol>
 
 

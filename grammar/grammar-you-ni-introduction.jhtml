@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no@EM{{youni}}}}, @S{{}}
-<li> @Vplain{{}}@HI{{@EM{{youni}}}}, @S{{}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{youni}}}}, @S{{}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{youni}}}}, @S{{}}}}
 </ol>
 
 <h2> Definition </h2>

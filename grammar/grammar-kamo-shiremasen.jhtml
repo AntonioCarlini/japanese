@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{kamo shiremasenn}}}}
-<li> @Ai{{}} @HI{{@EM{{kamo shiremasenn}}}}
-<li> @Anastem{{}} @HI{{@EM{{kamo shiremasenn}}}}
-<li> @N{{}} @HI{{@EM{{kamo shiremasenn}}}}
+<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{kamo shiremasenn}}}}}}
+<li> @FORMATION{{@Ai{{}} @HI{{@EM{{kamo shiremasenn}}}}}}
+<li> @FORMATION{{@Anastem{{}} @HI{{@EM{{kamo shiremasenn}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{@EM{{kamo shiremasenn}}}}}}
 </ol>
 
 <h2> Definition </h2>

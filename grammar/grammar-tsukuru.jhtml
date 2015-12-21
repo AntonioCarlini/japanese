@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{@EM{{detsukuru}}}}
-<li> @N{{}} @HI{{@EM{{karatsukuru}}}}
+<li> @FORMATION{{@N{{}} @HI{{@EM{{detsukuru}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{@EM{{karatsukuru}}}}}}
 </ol>
 
 <h2> Definition </h2>

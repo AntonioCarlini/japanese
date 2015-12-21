@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{ikura}}
-<li> @HI{{ikura}}@Vte{{}}@HI{{mo}}
-<li> @HI{{ikura}}@Aistem{{}}@HI{{kutemo}}
-<li> @HI{{ikura}}@Anastem{{}}@HI{{demo}}
-<li> @HI{{ikurademo}}
-<li> @HI{{ikuramo}}@Vnai{{}}
+<li> @FORMATION{{@HI{{ikura}}}}
+<li> @FORMATION{{@HI{{ikura}}@Vte{{}}@HI{{mo}}}}
+<li> @FORMATION{{@HI{{ikura}}@Aistem{{}}@HI{{kutemo}}}}
+<li> @FORMATION{{@HI{{ikura}}@Anastem{{}}@HI{{demo}}}}
+<li> @FORMATION{{@HI{{ikurademo}}}}
+<li> @FORMATION{{@HI{{ikuramo}}@Vnai{{}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{da}}
-<li> @Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{no}}@N{{}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{da}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@KJ{{one^direction}}@HI{{no}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>

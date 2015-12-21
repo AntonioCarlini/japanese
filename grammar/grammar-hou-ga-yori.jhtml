@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{houga}}}} @Vru{{}}@HI{{@EM{{yori}}}}
-<li> @Ai{{}}@HI{{@EM{{houga}}}} @Ai{{}}@HI{{@EM{{yori}}}}
-<li> @Ana{{}}@HI{{@EM{{houga}}}} @Ana{{}}@HI{{@EM{{yori}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{houga}}}} @N{{}}@HI{{@EM{{yori}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{houga}}}} @Vru{{}}@HI{{@EM{{yori}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{houga}}}} @Ai{{}}@HI{{@EM{{yori}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{houga}}}} @Ana{{}}@HI{{@EM{{yori}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{houga}}}} @N{{}}@HI{{@EM{{yori}}}}}}
 </ol>
 
 <h2> Definition </h2>

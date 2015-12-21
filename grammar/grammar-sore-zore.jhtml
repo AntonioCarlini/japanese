@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{sorezore}}}}
-<li> @Anastem{{}}@HI{{@EM{{sorezore}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{sorezore}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{sorezore}}}}}}
 </ol>
 
 <h2> Definition </h2>

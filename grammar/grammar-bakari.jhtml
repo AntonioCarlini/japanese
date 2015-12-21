@@ -17,14 +17,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @HI{{@EM{{bakari}}}}
-<li> @Vte{{}} @HI{{@EM{{bakari}}}}
-<li> @Vta{{}} @HI{{@EM{{bakari}}}}
-<li> @Ai{{}} @HI{{@EM{{bakari}}}}
-<li> @Ana{{}} @HI{{@EM{{bakari}}}}
-<li> @N{{}} @HI{{@EM{{bakari}}}}
-<li> @N{{}} <em>particle</em> @HI{{@EM{{bakari}}}}
-<li> <em>quantifier</em> @HI{{@EM{{bakari}}}}
+<li> @FORMATION{{@Vru{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Vta{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Ai{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Ana{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@N{{}} <em>particle</em> @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{<em>quantifier</em> @HI{{@EM{{bakari}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,10 +17,10 @@
 
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{ndesu}}}}
-<li> @Ai{{}} @HI{{@EM{{ndesu}}}}
-<li> @Ana{{}} @HI{{@EM{{ndesu}}}}
-<li> @N{{}}@HI{{na}} @HI{{@EM{{ndesu}}}}
+<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@Ai{{}} @HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@Ana{{}} @HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na}} @HI{{@EM{{ndesu}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}@HI{{@EM{{sono@KJ{{above}}}}}}
-<li> @Aistem{{}}@HI{{kute@EM{{sono@KJ{{above}}}}}}
-<li> @Aistem{{}}@HI{{ku@EM{{sono@KJ{{above}}}}}}
-<li> @N{{}}@HI{{de@EM{{sono@KJ{{above}}}}}}
-<li> @Vmasustem{{}}@HI{{sono@KJ{{above}}}}
-<li> @Splain{{}}@HI{{shi,sono@KJ{{above}}}}
-<li> @Splain{{}}@HI{{.sono@KJ{{above}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{sono@KJ{{above}}}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute@EM{{sono@KJ{{above}}}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku@EM{{sono@KJ{{above}}}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{de@EM{{sono@KJ{{above}}}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{sono@KJ{{above}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{shi,sono@KJ{{above}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{.sono@KJ{{above}}}}}}
 </ol>
 
 <h2> Definition </h2>

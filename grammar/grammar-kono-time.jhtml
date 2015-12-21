@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{kono}}}}@N{{}}
-<li> @HI{{@EM{{kono}}}} number + @CTR{{}}
+<li> @FORMATION{{@HI{{@EM{{kono}}}}@N{{}}}}
+<li> @FORMATION{{@HI{{@EM{{kono}}}} number + @CTR{{}}}}
 </ol>
 
 <h2> Definition </h2>

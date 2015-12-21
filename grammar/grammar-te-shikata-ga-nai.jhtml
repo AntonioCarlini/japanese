@@ -18,9 +18,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}@HI{{@EM{{@KJ{{attend^direction}}ganai}}}}
-<li> @Aistem{{}}@HI{{kute@EM{{@KJ{{attend^direction}}ganai}}}}
-<li> @Anastem{{}}@HI{{de@EM{{@KJ{{attend^direction}}ganai}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{@KJ{{attend^direction}}ganai}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute@EM{{@KJ{{attend^direction}}ganai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de@EM{{@KJ{{attend^direction}}ganai}}}}}}
 </ol>
 
 <h2> Definition </h2>

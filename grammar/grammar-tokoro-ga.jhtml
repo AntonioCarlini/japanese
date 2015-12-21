@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@HI{{@EM{{tokoroga}}}}
-<li> @S1{{}}@HI{{.@EM{{tokoroga}},}}@S2{{}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{tokoroga}}}}}}
+<li> @FORMATION{{@S1{{}}@HI{{.@EM{{tokoroga}},}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

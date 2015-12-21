@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}
-<li> @N1{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}ke(no)}}@N2{{}}
-<li> @N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keni}}
+<li> @FORMATION{{@N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}ke(no)}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}keni}}}}
 </ol>
 
 <h2> Definition </h2>

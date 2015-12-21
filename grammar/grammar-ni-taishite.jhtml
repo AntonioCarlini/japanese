@@ -17,13 +17,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @Vplain{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @Ai{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @Ana{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @Anastem{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @N{{}}@HI{{nano}}@HI{{ni@KJ{{vis-a-vis}}shite}}
-<li> @N{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}
+<li> @FORMATION{{@N{{}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{no}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@N{{}}@HI{{nano}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearuno}}@HI{{ni@KJ{{vis-a-vis}}shite}}}}
 </ol>
 
 <h2> Definition </h2>

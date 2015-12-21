@@ -17,10 +17,10 @@
 
 <p>
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
-<li> @Ai{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
-<li> @Ana{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
-<li> @N{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
 </ol>
 </p>
 

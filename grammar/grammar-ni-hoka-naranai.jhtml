@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{nihokanaranai}}}}
-<li> ~@HI{{noha}}~@HI{{kara@EM{{nihokanaranai}}}}
-<li> ~@HI{{ha}}~@HI{{koto@EM{{nihokanaranai}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nihokanaranai}}}}}}
+<li> @FORMATION{{~@HI{{noha}}~@HI{{kara@EM{{nihokanaranai}}}}}}
+<li> @FORMATION{{~@HI{{ha}}~@HI{{koto@EM{{nihokanaranai}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshitara}}
-<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{tosureba}}
-<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{@FG{{@KJ{{location^fit}}:baai}}}}
-<li> @HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshite}}
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshitara}}}}
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{tosureba}}}}
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{@FG{{@KJ{{location^fit}}:baai}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{provisional}}:kari}}ni}}}}@Splain{{}}@HI{{toshite}}}}
 </ol>
 
 <h2> Definition </h2>

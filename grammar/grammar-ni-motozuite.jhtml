@@ -17,11 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuite}}
-<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuita}}@N2{{}}
-<li> @N{{}}@HI{{ni@KJ{{fundamentals}}zuiku}}@N2{{}}
-<li> @N{{}}@HI{{wo@KJ{{fundamentals}}ni(shite)}}
-<li> @N{{}}@HI{{wo@KJ{{fundamentals}}nishita}}@N2{{}}
+<li> @FORMATION{{@N{{}}@HI{{ni@KJ{{fundamentals}}zuite}}}}
+<li> @FORMATION{{@N{{}}@HI{{ni@KJ{{fundamentals}}zuita}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{ni@KJ{{fundamentals}}zuiku}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{wo@KJ{{fundamentals}}ni(shite)}}}}
+<li> @FORMATION{{@N{{}}@HI{{wo@KJ{{fundamentals}}nishita}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>

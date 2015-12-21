@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>interrogative</em>+<em>particle</em> ~ @Ai{{}}@HI{{@EM{{kotoka}}}}.
-<li> <em>counter</em> ~ @Vplain{{}}@HI{{@EM{{kotoka}}}}.
-<li> <em>interrogative</em> ~ @Ana{{}}@HI{{@EM{{kotoka}}}}.
-<li> <em>interrogative</em>+<em>particle</em> ~ @N{{}}@HI{{dearu@EM{{kotoka}}}}.
-<li> @HI{{dorehodo}} ~ @HI{{@EM{{kotoka}}}}.
-<li> @HI{{doredake}} ~ @HI{{@EM{{kotoka}}}}.
+<li> @FORMATION{{<em>interrogative</em>+<em>particle</em> ~ @Ai{{}}@HI{{@EM{{kotoka}}}}.}}
+<li> @FORMATION{{<em>counter</em> ~ @Vplain{{}}@HI{{@EM{{kotoka}}}}.}}
+<li> @FORMATION{{<em>interrogative</em> ~ @Ana{{}}@HI{{@EM{{kotoka}}}}.}}
+<li> @FORMATION{{<em>interrogative</em>+<em>particle</em> ~ @N{{}}@HI{{dearu@EM{{kotoka}}}}.}}
+<li> @FORMATION{{@HI{{dorehodo}} ~ @HI{{@EM{{kotoka}}}}.}}
+<li> @FORMATION{{@HI{{doredake}} ~ @HI{{@EM{{kotoka}}}}.}}
 </ol>
 
 <h2> Definition </h2>

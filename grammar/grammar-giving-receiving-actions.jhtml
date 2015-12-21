@@ -23,12 +23,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}} @HI{{ageru}}
-<li> @Vte{{}} @HI{{morau}}
-<li> @Vte{{}} @HI{{kureru}}
-<li> @Vte{{}} @HI{{yaru}}
-<li> @Vte{{}} @HI{{itadaku}}
-<li> @Vte{{}} @HI{{kudasaru}}
+<li> @FORMATION{{@Vte{{}} @HI{{ageru}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{morau}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{kureru}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{yaru}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{itadaku}}}}
+<li> @FORMATION{{@Vte{{}} @HI{{kudasaru}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{kana}}}}. 
-<li> @Ai{{}}@HI{{@EM{{kana}}}}. 
-<li> @Anastem{{}}@HI{{@EM{{kana}}}}. 
-<li> @N{{}}@HI{{@EM{{kana}}}}. 
-<li> <em>interrogative</em>@HI{{@EM{{kana}}}}. 
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{kana}}}}. }}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{kana}}}}. }}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{kana}}}}. }}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{kana}}}}. }}
+<li> @FORMATION{{<em>interrogative</em>@HI{{@EM{{kana}}}}. }}
 </ol>
 
 <h2> Definition </h2>

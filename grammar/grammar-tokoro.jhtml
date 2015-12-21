@@ -19,10 +19,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{tokoro}}desu}}
-<li> @Vte{{}}@HI{{iru}}@HI{{@EM{{tokoro}}desu}}
-<li> @Vta{{}}@HI{{@EM{{tokoro}}desu}}
-<li> @Vta{{}}@HI{{@EM{{tokorode}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tokoro}}desu}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{iru}}@HI{{@EM{{tokoro}}desu}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{tokoro}}desu}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{tokorode}}}}}}
 </ol>
 
 <h2> Definition </h2>

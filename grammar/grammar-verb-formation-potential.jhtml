@@ -118,7 +118,7 @@ a potential verb.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-JP-II}}. (Chapter 27).
+<li> @FORMATION{{@UCREF{{MNN-JP-II}}. (Chapter 27).}}
 </ol>
 
 @include{{"grammar-footer.inc"}}

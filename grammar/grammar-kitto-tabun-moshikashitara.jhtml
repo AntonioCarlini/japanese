@@ -18,12 +18,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{kitto}}}} V ...
-<li> @HI{{@EM{{kitto}}}} V ... @HI{{deshou}}
-<li> @HI{{@EM{{tabunn}}}} V ...
-<li> @HI{{@EM{{tabunn}}}} V ... @HI{{deshou}}
-<li> @HI{{@EM{{moshikashitara}}}} V ...
-<li> @HI{{@EM{{moshikashitara}}}} V ... @HI{{kamoshiremasenn}}
+<li> @FORMATION{{@HI{{@EM{{kitto}}}} V ...}}
+<li> @FORMATION{{@HI{{@EM{{kitto}}}} V ... @HI{{deshou}}}}
+<li> @FORMATION{{@HI{{@EM{{tabunn}}}} V ...}}
+<li> @FORMATION{{@HI{{@EM{{tabunn}}}} V ... @HI{{deshou}}}}
+<li> @FORMATION{{@HI{{@EM{{moshikashitara}}}} V ...}}
+<li> @FORMATION{{@HI{{@EM{{moshikashitara}}}} V ... @HI{{kamoshiremasenn}}}}
 
 </ol>
 

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quantifier</em> @HI{{mo}}
-<li> @KJ{{what}} <em>quantifier</em> @HI{{mo}}
+<li> @FORMATION{{<em>quantifier</em> @HI{{mo}}}}
+<li> @FORMATION{{@KJ{{what}} <em>quantifier</em> @HI{{mo}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @KJ{{what}}number+@CTR{{}}@HI{{mo}}
-<li> @KJ{{what}}number+@CTR{{}}@HI{{mono}}@N{{}}
+<li> @FORMATION{{@KJ{{what}}number+@CTR{{}}@HI{{mo}}}}
+<li> @FORMATION{{@KJ{{what}}number+@CTR{{}}@HI{{mono}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{nisuginai}}}}
-<li> <em>number + counter</em> @HI{{@EM{{nisuginai}}}}
-<li> @Vplain{{}}@HI{{@EM{{nisuginai}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nisuginai}}}}}}
+<li> @FORMATION{{<em>number + counter</em> @HI{{@EM{{nisuginai}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{nisuginai}}}}}}
 </ol>
 
 <h2> Definition </h2>

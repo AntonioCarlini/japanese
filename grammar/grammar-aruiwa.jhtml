@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@HI{{(ka),@EM{{aruiha}}@N2{{}}}}
-<li> @V1{{}}@HI{{ka,@EM{{aruiha}}@V2{{}}ka}}
-<li> @Ai{{}}@HI{{ka,@EM{{aruiha}}@Ai{{}}ka}}
-<li> @Anastem{{}}@HI{{ka,@EM{{aruiha}}@Anastem{{}}ka}}
-<li> @HI{{@EM{{aruiha}}@Vplain{{}}(no)kamoshirenai}}
-<li> @HI{{@EM{{aruiha}}@Ai{{}}(no)kamoshirenai}}
-<li> @HI{{@EM{{aruiha}}@Anastem{{}}(no)kamoshirenai}}
-<li> @HI{{@EM{{aruiha}}@N{{}}(no)kamoshirenai}}
+<li> @FORMATION{{@N1{{}}@HI{{(ka),@EM{{aruiha}}@N2{{}}}}}}
+<li> @FORMATION{{@V1{{}}@HI{{ka,@EM{{aruiha}}@V2{{}}ka}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{ka,@EM{{aruiha}}@Ai{{}}ka}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{ka,@EM{{aruiha}}@Anastem{{}}ka}}}}
+<li> @FORMATION{{@HI{{@EM{{aruiha}}@Vplain{{}}(no)kamoshirenai}}}}
+<li> @FORMATION{{@HI{{@EM{{aruiha}}@Ai{{}}(no)kamoshirenai}}}}
+<li> @FORMATION{{@HI{{@EM{{aruiha}}@Anastem{{}}(no)kamoshirenai}}}}
+<li> @FORMATION{{@HI{{@EM{{aruiha}}@N{{}}(no)kamoshirenai}}}}
 </ol>
 
 <h2> Definition </h2>

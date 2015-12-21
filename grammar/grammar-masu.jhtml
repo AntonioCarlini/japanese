@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{masu}}
-<li> @Vmasustem{{}}@HI{{masenn}}
-<li> @Vmasustem{{}}@HI{{mashita}}
-<li> @Vmasustem{{}}@HI{{masendeshita}}
-<li> @Vmasustem{{}}@HI{{mashou}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{masu}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{masenn}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{mashita}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{masendeshita}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{mashou}}}}
 </ol>
 
 <h2> Definition </h2>

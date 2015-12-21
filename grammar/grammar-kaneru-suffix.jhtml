@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{@EM{{kaneru}}}}
-<li> @Vmasustem{{}}@HI{{@EM{{kanenai}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{kaneru}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{kanenai}}}}}}
 </ol>
 
 <h2> Definition </h2>

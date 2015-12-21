@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{dokorodehanai}}}}
-<li> @Ai{{}}@HI{{@EM{{dokorodehanai}}}}
-<li> @Anastem{{}}@HI{{@EM{{dokorodehanai}}}}
-<li> @N{{}}(@HI{{wosuru}})@HI{{@EM{{dokorodehanai}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{dokorodehanai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{dokorodehanai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{dokorodehanai}}}}}}
+<li> @FORMATION{{@N{{}}(@HI{{wosuru}})@HI{{@EM{{dokorodehanai}}}}}}
 </ol>
 
 <h2> Definition </h2>

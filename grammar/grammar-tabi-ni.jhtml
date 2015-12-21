@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{tabini}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{tabini}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tabini}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{tabini}}}}}}
 </ol>
 
 <h2> Definition </h2>

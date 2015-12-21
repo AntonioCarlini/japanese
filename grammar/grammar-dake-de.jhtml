@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{dakede}}}}
-<li> @Vru{{}}@HI{{@EM{{dakedeii}}}}
-<li> @Ai{{}}@HI{{@EM{{dakedeii}}}}
-<li> @Ana{{}}@HI{{@EM{{dakedeii}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{dakede}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{dakedeii}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{dakedeii}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{dakedeii}}}}}}
 </ol>
 
 <h2> Definition </h2>

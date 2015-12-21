@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @QW{{}}@Vyou{{}}@HI{{@EM{{to(mo)}}}}
-<li> @QW{{}}@Aku{{}}@HI{{@EM{{tomo}}}}
-<li> @QW{{}}@Aistem{{}}@HI{{karou@EM{{tomo}}}}
-<li> @QW{{}}@Anastem{{}}@HI{{dearou@EM{{tomo}}}}
-<li> @Aku{{}}@HI{{@EM{{tomo}}}}
+<li> @FORMATION{{@QW{{}}@Vyou{{}}@HI{{@EM{{to(mo)}}}}}}
+<li> @FORMATION{{@QW{{}}@Aku{{}}@HI{{@EM{{tomo}}}}}}
+<li> @FORMATION{{@QW{{}}@Aistem{{}}@HI{{karou@EM{{tomo}}}}}}
+<li> @FORMATION{{@QW{{}}@Anastem{{}}@HI{{dearou@EM{{tomo}}}}}}
+<li> @FORMATION{{@Aku{{}}@HI{{@EM{{tomo}}}}}}
 </ol>
 
 <h2> Definition </h2>

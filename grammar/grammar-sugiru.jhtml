@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}} @HI{{@EM{{sugiru}}}}
-<li> @Aistem{{}} @HI{{@EM{{sugiru}}}}
-<li> @Anastem{{}} @HI{{@EM{{sugiru}}}}
+<li> @FORMATION{{@Vmasustem{{}} @HI{{@EM{{sugiru}}}}}}
+<li> @FORMATION{{@Aistem{{}} @HI{{@EM{{sugiru}}}}}}
+<li> @FORMATION{{@Anastem{{}} @HI{{@EM{{sugiru}}}}}}
 </ol>
 
 <h2> Definition </h2>

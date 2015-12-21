@@ -19,10 +19,10 @@
 
 <p>
 <dl>
-<li> @Vmasustem{{}}@HI{{@EM{{soudesu}}}}
-<li> @Aistem{{}}@HI{{@EM{{soudesu}}}}
-<li> @Anastem{{}}@HI{{@EM{{soudesu}}}}
-<li> @Vmasustem{{}}@HI{{@EM{{soumonai}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{soumonai}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}@HI{{@EM{{tamaranai}}}}
-<li> @Aistem{{}}@HI{{kute}}@HI{{@EM{{tamaranai}}}}
-<li> @Anastem{{}}@HI{{de}}@HI{{@EM{{tamaranai}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{tamaranai}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute}}@HI{{@EM{{tamaranai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}}@HI{{@EM{{tamaranai}}}}}}
 </ol>
 
 <h2> Definition </h2>

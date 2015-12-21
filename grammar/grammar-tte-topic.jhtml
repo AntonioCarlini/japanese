@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{tte}}}}
-<li> @Vru{{}}@HI{{@EM{{tte}}}}
-<li> @Ai{{}}@HI{{@EM{{tte}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{tte}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tte}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{tte}}}}}}
 </ol>
 
 <h2> Definition </h2>

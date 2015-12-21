@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}
-<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}
-<li> @Anastem{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}
-<li> @N{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{to@KJ{{say}}umonoda}}}}}}
 </ol>
 
 <h2> Definition </h2>

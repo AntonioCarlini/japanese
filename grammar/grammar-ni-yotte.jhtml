@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{niyotte}}}}
-<li> <em>embedded-question</em>@HI{{kadouka}}@HI{{@EM{{niyotte}}}}
-<li> <em>embedded-wh-question</em>@HI{{ka}}@HI{{@EM{{niyotte}}}}
-<li> @N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niyotte}}}}}}
+<li> @FORMATION{{<em>embedded-question</em>@HI{{kadouka}}@HI{{@EM{{niyotte}}}}}}
+<li> @FORMATION{{<em>embedded-wh-question</em>@HI{{ka}}@HI{{@EM{{niyotte}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{niyoru}}}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>

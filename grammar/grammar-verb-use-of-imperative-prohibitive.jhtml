@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{person}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(intransitive)
-<li> @N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(transitive)
+<li> @FORMATION{{@N{{person}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(intransitive)}}
+<li> @FORMATION{{@N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(transitive)}}
 </ol>
 
 <h2> Definition </h2>

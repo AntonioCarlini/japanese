@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>name or noun</em>@HI{{@EM{{sann}}}}
-<li> <em>name</em>@HI{{@EM{{kunn}}}}
-<li> <em>name or noun</em>@HI{{@EM{{sama}}}}
-<li> @HI{{@EM{{o}}}}@N{{}}
-<li> @HI{{@EM{{go}}}}@N{{}}
+<li> @FORMATION{{<em>name or noun</em>@HI{{@EM{{sann}}}}}}
+<li> @FORMATION{{<em>name</em>@HI{{@EM{{kunn}}}}}}
+<li> @FORMATION{{<em>name or noun</em>@HI{{@EM{{sama}}}}}}
+<li> @FORMATION{{@HI{{@EM{{o}}}}@N{{}}}}
+<li> @FORMATION{{@HI{{@EM{{go}}}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>

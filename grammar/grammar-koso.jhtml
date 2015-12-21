@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}(particle)@HI{{@EM{{koso}}}}
-<li> @Vte{{}}@HI{{@EM{{koso}}}}
-<li> @Splain{{}}@HI{{kara@EM{{koso}}}}
+<li> @FORMATION{{@N{{}}(particle)@HI{{@EM{{koso}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{koso}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{kara@EM{{koso}}}}}}
 </ol>
 
 <h2> Definition </h2>

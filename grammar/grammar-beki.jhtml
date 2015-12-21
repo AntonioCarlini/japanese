@@ -17,10 +17,10 @@
 
 <p>
 <ol>
-<li> @Vplain{{}}(non-past) @HI{{@EM{{beki}}}} @HI{{desu}}
-<li> @Anastem{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}
-<li> @N{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}
-<li> @Vplain{{}}(non-past) @HI{{@EM{{beku}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past) @HI{{@EM{{beki}}}} @HI{{desu}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}} @HI{{@EM{{beki}}}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past) @HI{{@EM{{beku}}}}}}
 </ol>
 </p>
 

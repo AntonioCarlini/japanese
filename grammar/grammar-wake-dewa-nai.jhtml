@@ -17,14 +17,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Vplain{{}}@HI{{@EM{{toiuwakeganai}}}}
-<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Ai{{}}@HI{{@EM{{toiuwakeganai}}}}
-<li> @Ana{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Ana{{}}(@HI{{da}})@HI{{toiu}}@HI{{@EM{{wakeganai}}}}
-<li> @N{{}}@HI{{datta}}@HI{{@EM{{wakeganai}}}}
-<li> @N{{}}(@HI{{da}})@HI{{@EM{{toiuwakeganai}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{toiuwakeganai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{toiuwakeganai}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Ana{{}}(@HI{{da}})@HI{{toiu}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{datta}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@N{{}}(@HI{{da}})@HI{{@EM{{toiuwakeganai}}}}}}
 </ol>
 
 <h2> Definition </h2>

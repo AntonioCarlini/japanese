@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@FG{{@KJ{{next^No.}}:shidai}}
-<li> @HI{{irasshari}}@FG{{@KJ{{next^No.}}:shidai}}
-<li> @HI{{osshari}}@FG{{@KJ{{next^No.}}:shidai}}
-<li> @HI{{nasari}}@FG{{@KJ{{next^No.}}:shidai}}
-<li> @NS{{}}@FG{{@KJ{{next^No.}}:shidai}}
-<li> (X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}
-<li> (X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}
+<li> @FORMATION{{@Vmasustem{{}}@FG{{@KJ{{next^No.}}:shidai}}}}
+<li> @FORMATION{{@HI{{irasshari}}@FG{{@KJ{{next^No.}}:shidai}}}}
+<li> @FORMATION{{@HI{{osshari}}@FG{{@KJ{{next^No.}}:shidai}}}}
+<li> @FORMATION{{@HI{{nasari}}@FG{{@KJ{{next^No.}}:shidai}}}}
+<li> @FORMATION{{@NS{{}}@FG{{@KJ{{next^No.}}:shidai}}}}
+<li> @FORMATION{{(X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}}}
+<li> @FORMATION{{(X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}}}
 </ol>
 
 <h2> Definition </h2>

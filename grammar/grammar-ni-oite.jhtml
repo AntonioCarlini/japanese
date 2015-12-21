@@ -17,8 +17,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{nioite}}}}
-<li> @N{{}}@HI{{@EM{{niokeru}}}}@N2{{}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nioite}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niokeru}}}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>

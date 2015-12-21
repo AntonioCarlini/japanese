@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{ni@FG{{@KJ{{anti-}}:han'}}shite}}
-<li> @S{{}}@HI{{noni@FG{{@KJ{{anti-}}:han'}}shite}}
-<li> <em>demonstrative pronoun</em>@HI{{ni@FG{{@KJ{{anti-}}:han'}}shite}}
-<li> @N1{{}}@HI{{ni@FG{{@KJ{{anti-}}:han'}}suru}}@N2{{}}
+<li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{anti-}}:han'}}shite}}}}
+<li> @FORMATION{{@S{{}}@HI{{noni@FG{{@KJ{{anti-}}:han'}}shite}}}}
+<li> @FORMATION{{<em>demonstrative pronoun</em>@HI{{ni@FG{{@KJ{{anti-}}:han'}}shite}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ni@FG{{@KJ{{anti-}}:han'}}suru}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>

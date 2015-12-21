@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}} @HI{{@EM{{sore kara}}}} ...
-<li> @Vmasustem{{}}  @HI{{@EM{{sore kara}}}} ...
-<li> @Aistem{{}} (@HI{{kute}}) @HI{{@EM{{sore kara}}}} ...
-<li> @Anastem{{}} @HI{{de}} @HI{{@EM{{sore kara}}}} ...
-<li> @N1{{}} (@HI{{to}}) @N2{{}} (@HI{{to}}) @HI{{@EM{{sore kara}}}} @N3{{}} ...
+<li> @FORMATION{{@Vte{{}} @HI{{@EM{{sore kara}}}} ...}}
+<li> @FORMATION{{@Vmasustem{{}}  @HI{{@EM{{sore kara}}}} ...}}
+<li> @FORMATION{{@Aistem{{}} (@HI{{kute}}) @HI{{@EM{{sore kara}}}} ...}}
+<li> @FORMATION{{@Anastem{{}} @HI{{de}} @HI{{@EM{{sore kara}}}} ...}}
+<li> @FORMATION{{@N1{{}} (@HI{{to}}) @N2{{}} (@HI{{to}}) @HI{{@EM{{sore kara}}}} @N3{{}} ...}}
 </ol>
 
 <h2> Definition </h2>

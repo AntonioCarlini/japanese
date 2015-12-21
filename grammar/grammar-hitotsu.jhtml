@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{hitotsu}}@Vte{{}}miyou.}}
-<li> @HI{{@EM{{hitotsu}}@N{{}}demo@Vte{{}}doudesuka.}}
-<li> @HI{{@EM{{hitotsu}}@N{{}}demo@Vta{{}}radoudesuka.}}
-<li> @HI{{@EM{{hitotsu}}@Vmasustem{{}}masenka.}}
-<li> @HI{{@EM{{hitotsu}}@Vte{{}}@KJ{{below}}sai.}}
+<li> @FORMATION{{@HI{{@EM{{hitotsu}}@Vte{{}}miyou.}}}}
+<li> @FORMATION{{@HI{{@EM{{hitotsu}}@N{{}}demo@Vte{{}}doudesuka.}}}}
+<li> @FORMATION{{@HI{{@EM{{hitotsu}}@N{{}}demo@Vta{{}}radoudesuka.}}}}
+<li> @FORMATION{{@HI{{@EM{{hitotsu}}@Vmasustem{{}}masenka.}}}}
+<li> @FORMATION{{@HI{{@EM{{hitotsu}}@Vte{{}}@KJ{{below}}sai.}}}}
 </ol>
 
 <h2> Definition </h2>

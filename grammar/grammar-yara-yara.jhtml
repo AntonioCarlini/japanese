@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{yara}}}}@Vru{{}}@HI{{@EM{{yara}}}}
-<li> @Vru{{}}@HI{{@EM{{yara}}}}@Vnai{{}}@HI{{@EM{{yara}}}}
-<li> @Ai{{}}@HI{{@EM{{yara}}}}@Ai{{}}@HI{{@EM{{yara}}}}
-<li> @Anastem{{}}@HI{{@EM{{yara}}}}@Anastem{{}}@HI{{@EM{{yara}}}}
-<li> @Vru{{}}@HI{{no@EM{{yara}}}}@Vru{{}}@HI{{no@EM{{yara}}}}
-<li> @Ai{{}}@HI{{no@EM{{yara}}}}@Ai{{}}@HI{{no@EM{{yara}}}}
-<li> @Ana{{}}@HI{{no@EM{{yara}}}}@Ana{{}}@HI{{no@EM{{yara}}}}
-<li> @N{{}}@HI{{nano@EM{{yara}}}}@N{{}}@HI{{nano@EM{{yara}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{yara}}}}@Vru{{}}@HI{{@EM{{yara}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{yara}}}}@Vnai{{}}@HI{{@EM{{yara}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{yara}}}}@Ai{{}}@HI{{@EM{{yara}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{yara}}}}@Anastem{{}}@HI{{@EM{{yara}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{no@EM{{yara}}}}@Vru{{}}@HI{{no@EM{{yara}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{no@EM{{yara}}}}@Ai{{}}@HI{{no@EM{{yara}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{no@EM{{yara}}}}@Ana{{}}@HI{{no@EM{{yara}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{nano@EM{{yara}}}}@N{{}}@HI{{nano@EM{{yara}}}}}}
 </ol>
 
 <h2> Definition </h2>

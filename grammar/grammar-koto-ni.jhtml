@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{kotoni}}}}
-<li> @Ai{{}}@HI{{@EM{{kotoni}}}}
-<li> @Ana{{}}@HI{{@EM{{kotoni}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{kotoni}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{kotoni}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{kotoni}}}}}}
 </ol>
 
 <h2> Definition </h2>

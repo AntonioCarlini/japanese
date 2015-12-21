@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{sae}}}}
-<li> @N{{}}<em>particle</em>@HI{{@EM{{sae}}}}
-<li> @Vte{{}}@HI{{@EM{{sae}}}}
-<li> @Vmasu{{}}@HI{{@EM{{sae}}}}@HI{{suru}}
-<li> @Aistem{{}}@HI{{@EM{{sae}}}}@HI{{aru}}
-<li> @Anastem{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}
-<li> @N{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{sae}}}}}}
+<li> @FORMATION{{@N{{}}<em>particle</em>@HI{{@EM{{sae}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{sae}}}}}}
+<li> @FORMATION{{@Vmasu{{}}@HI{{@EM{{sae}}}}@HI{{suru}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
+<li> @FORMATION{{@N{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
 </ol>
 
 <h2> Definition </h2>

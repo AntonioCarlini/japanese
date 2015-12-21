@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
-<li> @Vnai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
-<li> @Vte{{}}@HI{{iru@EM{{uchini}}}}, @V2{{}}
-<li> @Ai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
-<li> @Ana{{}}@HI{{@EM{{uchini}}}}, @V2{{}}
-<li> @N{{}}@HI{{no@EM{{uchini}}}}, @V2{{}}
-<li> <em>quantifier(period)</em> @HI{{@EM{{uchini}}}}, @V2{{}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{iru@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{uchini}}}}, @V2{{}}}}
+<li> @FORMATION{{<em>quantifier(period)</em> @HI{{@EM{{uchini}}}}, @V2{{}}}}
 </ol>
 
 <h2> Definition </h2>

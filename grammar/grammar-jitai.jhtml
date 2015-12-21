@@ -17,8 +17,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @NPhr{{}}@HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}
-<li> @NPhr{{}}@HI{{sore@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}
+<li> @FORMATION{{@NPhr{{}}@HI{{@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}}}
+<li> @FORMATION{{@NPhr{{}}@HI{{sore@EM{{@FG{{@KJ{{oneself^body}}:jitai}}}}}}}}
 </ol>
 
 <h2> Definition </h2>

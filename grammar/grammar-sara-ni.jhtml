@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ai{{}}
-<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ana{{}}
-<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@ADV{{}}
-<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}number+@CTR{{}}
-<li> @HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@V{{}}
+<li> @FORMATION{{@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ai{{}}}}
+<li> @FORMATION{{@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@Ana{{}}}}
+<li> @FORMATION{{@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@ADV{{}}}}
+<li> @FORMATION{{@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}number+@CTR{{}}}}
+<li> @FORMATION{{@HI{{@FG{{@KJ{{grow*late}}:sara}}ni}}@V{{}}}}
 </ol>
 
 <h2> Definition </h2>

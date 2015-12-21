@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{karaniha}}}}.
-<li> <em>quote</em>@HI{{to@EM{{karaniha}}}}.
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{karaniha}}}}.}}
+<li> @FORMATION{{<em>quote</em>@HI{{to@EM{{karaniha}}}}.}}
 </ol>
 
 <h2> Definition </h2>

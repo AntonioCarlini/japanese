@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
-<li> @Ana{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
-<li> @N{{}}@HI{{noyouni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
-<li> @Splain{{}}@HI{{to@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{youni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{noyouni@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{to@EM{{@FG{{@KJ{{think}}:omo}}wareru}}}}}}
 </ol>
 
 <h2> Definition </h2>

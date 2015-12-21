@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@HI{{@EM{{atode}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{atode}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{atode}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{atode}}}}}}
 </ol>
 </dl>
 

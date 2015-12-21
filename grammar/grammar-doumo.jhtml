@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{doumo}}}} @V{{}} (negative)
-<li> @HI{{@EM{{doumo}}}} @Ai{{}} (negative)
-<li> @HI{{@EM{{doumo}}}} @Ana{{}} (negative)
-<li> @HI{{@EM{{doumo}}}} @Vplain{{}} @HI{{rashii}}/@HI{{youda}}
-<li> @HI{{@EM{{doumo}}}} @Ai{{}} @HI{{rashii}}/@HI{{youda}}
-<li> @HI{{@EM{{doumo}}}} @Anastem{{}} @HI{{rashii}}/@HI{{youda}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @V{{}} (negative)}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @Ai{{}} (negative)}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @Ana{{}} (negative)}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @Vplain{{}} @HI{{rashii}}/@HI{{youda}}}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @Ai{{}} @HI{{rashii}}/@HI{{youda}}}}
+<li> @FORMATION{{@HI{{@EM{{doumo}}}} @Anastem{{}} @HI{{rashii}}/@HI{{youda}}}}
 </ol>
 
 <h2> Definition </h2>

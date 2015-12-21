@@ -17,11 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{hazu}}}}
-<li> @Vnai{{}}@HI{{@EM{{hazu}}}}
-<li> @Ai{{}}@HI{{@EM{{hazu}}}}
-<li> @Ana{{}}@HI{{@EM{{hazu}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{hazu}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{hazu}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{hazu}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{hazu}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{hazu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{hazu}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}
-<li> @Ai{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}
-<li> @Anastem{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}
-<li> @N{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{to@KJ{{say}}umonodehanai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(da)@EM{{to@KJ{{say}}umonodehanai}}}}}}
 </ol>
 
 <h2> Definition </h2>

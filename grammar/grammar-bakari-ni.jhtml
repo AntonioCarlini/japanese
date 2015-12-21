@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@HI{{@EM{{bakarini}}}}.
-<li> @Ai{{}}@HI{{@EM{{bakarini}}}}.
-<li> @Ana{{}}@HI{{@EM{{bakarini}}}}.
-<li> @N{{}}@HI{{dearu@EM{{bakarini}}}}.
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{bakarini}}}}.}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{bakarini}}}}.}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{bakarini}}}}.}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{bakarini}}}}.}}
 </ol>
 
 <h2> Definition </h2>

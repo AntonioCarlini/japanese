@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}(@HI{{no}}@N{{}})
-<li> @Vplain{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}
-<li> @Ai{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}
-<li> @Ana{{}}@HI{{dearu}}@FG{{@KJ{{by*means*of^outside}}:igai}}
-<li> @N{{}}@HI{{dearu}}@FG{{@KJ{{by*means*of^outside}}:igai}}
+<li> @FORMATION{{@N{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}(@HI{{no}}@N{{}})}}
+<li> @FORMATION{{@Vplain{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}}}
+<li> @FORMATION{{@Ai{{}}@FG{{@KJ{{by*means*of^outside}}:igai}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{dearu}}@FG{{@KJ{{by*means*of^outside}}:igai}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@FG{{@KJ{{by*means*of^outside}}:igai}}}}
 </ol>
 
 <h2> Definition </h2>

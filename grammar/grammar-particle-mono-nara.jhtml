@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @V{{}}(pot.non-past)@HI{{@EM{{mononara}}}}.
-<li> @Vyou{{}}@HI{{@EM{{mononara}}}}.
+<li> @FORMATION{{@V{{}}(pot.non-past)@HI{{@EM{{mononara}}}}.}}
+<li> @FORMATION{{@Vyou{{}}@HI{{@EM{{mononara}}}}.}}
 </ol>
 
 <h2> Definition </h2>

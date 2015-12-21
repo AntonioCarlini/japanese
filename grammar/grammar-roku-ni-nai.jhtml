@@ -17,8 +17,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{rokuni@Vnai{{}}}}}}
-<li> @HI{{@EM{{rokuna@N{{}}@Vnai{{}}}}}}
+<li> @FORMATION{{@HI{{@EM{{rokuni@Vnai{{}}}}}}}}
+<li> @FORMATION{{@HI{{@EM{{rokuna@N{{}}@Vnai{{}}}}}}}}
 </ol>
 
 <h2> Definition </h2>

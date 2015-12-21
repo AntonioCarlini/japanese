@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vba{{}}@Vru{{}}@HI{{hodo}}}}
-<li> @EM{{@Aistem{{}}@HI{{kereba}} @Ai{{}}@HI{{hodo}}}}
-<li> @EM{{@Anastem{{}}@HI{{nara}}@Ana{{}}@HI{{hodo}}}}
-<li> @EM{{@Anastem{{}}@HI{{deareba}}@Ana{{}}@HI{{hodo}}}}
-<li> @HI{{@N{{}}sureba@N{{}}suruhodo}}
-<li> @HI{{@N{{}}surebasuruhodo}}
+<li> @FORMATION{{@EM{{@Vba{{}}@Vru{{}}@HI{{hodo}}}}}}
+<li> @FORMATION{{@EM{{@Aistem{{}}@HI{{kereba}} @Ai{{}}@HI{{hodo}}}}}}
+<li> @FORMATION{{@EM{{@Anastem{{}}@HI{{nara}}@Ana{{}}@HI{{hodo}}}}}}
+<li> @FORMATION{{@EM{{@Anastem{{}}@HI{{deareba}}@Ana{{}}@HI{{hodo}}}}}}
+<li> @FORMATION{{@HI{{@N{{}}sureba@N{{}}suruhodo}}}}
+<li> @FORMATION{{@HI{{@N{{}}surebasuruhodo}}}}
 </ol>
 </dl>
 

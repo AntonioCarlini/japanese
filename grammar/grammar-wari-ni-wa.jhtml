@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
-<li> @Vplain{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
-<li> @Ai{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
-<li> @Ana{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{@FG{{@KJ{{proportion}}:wari}}ni(ha)}}}}}}
 </ol>
 
 <h2> Definition </h2>

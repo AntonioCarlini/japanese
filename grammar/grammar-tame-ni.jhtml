@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(<em>volitional</em>) @HI{{@EM{{tameni}}}}, <em>volitional expression</em>
-<li> @N{{}} @HI{{no}} @HI{{@EM{{tameni}}}}
-<li> @Ai{{}} @HI{{@EM{{tameni}}}}
-<li> @Ana{{}} @HI{{@EM{{tameni}}}}
+<li> @FORMATION{{@Vru{{}}(<em>volitional</em>) @HI{{@EM{{tameni}}}}, <em>volitional expression</em>}}
+<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{tameni}}}}}}
+<li> @FORMATION{{@Ai{{}} @HI{{@EM{{tameni}}}}}}
+<li> @FORMATION{{@Ana{{}} @HI{{@EM{{tameni}}}}}}
 </ol>
 
 <h2> Definition </h2>

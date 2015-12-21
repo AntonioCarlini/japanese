@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}@HI{{@EM{{bakarihairarenai}}}}
-<li> @NS{{}}@HI{{shite@EM{{bakarihairarenai}}}}
-<li> @NS{{}}@HI{{@EM{{bakarihashiteirarenai}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{bakarihairarenai}}}}}}
+<li> @FORMATION{{@NS{{}}@HI{{shite@EM{{bakarihairarenai}}}}}}
+<li> @FORMATION{{@NS{{}}@HI{{@EM{{bakarihashiteirarenai}}}}}}
 </ol>
 
 <h2> Definition </h2>

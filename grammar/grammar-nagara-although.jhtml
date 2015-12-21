@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{@EM{{nagara}}(mo)}}
-<li> @Vte{{}}@HI{{@EM{{nagara}}(mo)}}
-<li> @Ai{{}}@HI{{@EM{{nagara}}(mo)}}
-<li> @Anastem{{}}@HI{{@EM{{nagara}}(mo)}}
-<li> @N{{}}@HI{{@EM{{nagara}}(mo)}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{nagara}}(mo)}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{nagara}}(mo)}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{nagara}}(mo)}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{nagara}}(mo)}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nagara}}(mo)}}}}
 </ol>
 
 <h2> Definition </h2>

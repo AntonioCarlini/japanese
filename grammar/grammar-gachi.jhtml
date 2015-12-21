@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{@EM{{gachi}}}}
-<li> @N{{}}@HI{{@EM{{gachi}}}}@HI{{da}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{gachi}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{gachi}}}}@HI{{da}}}}
 </ol>
 
 <h2> Definition </h2>

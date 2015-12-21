@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{nominarazu}}}}
-<li> @Vru{{}}@HI{{@EM{{nominarazu}}}}
-<li> @Ai{{}}@HI{{@EM{{nominarazu}}}}
-<li> @Anastem{{}}@HI{{dearu@EM{{nominarazu}}}}
-<li> @N{{}}@HI{{dearu@EM{{nominarazu}}}}
-<li> @S1{{}}@HI{{.u@EM{{nominarazu}},}}@S2{{}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nominarazu}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nominarazu}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{nominarazu}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{nominarazu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{nominarazu}}}}}}
+<li> @FORMATION{{@S1{{}}@HI{{.u@EM{{nominarazu}},}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

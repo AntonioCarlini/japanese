@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Ai{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
-<li> @Ana{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
-<li> @Vplain{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
-<li> @N{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
-<li> @Vplain{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}
+<li> @FORMATION{{@Ai{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}}}
+<li> @FORMATION{{@Ana{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}}}
+<li> @FORMATION{{@Vplain{{}}(@N{{}}@HI{{no}})@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{noyouna(@N{{}}no}}@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{direction}}:kata}}wosuru}}}}}}
 </ol>
 
 <h2> Definition </h2>

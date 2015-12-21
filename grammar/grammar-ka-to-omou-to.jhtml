@@ -18,10 +18,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}(past)@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(non-emotive)
-<li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(emotive)
-<li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}ttara}}}}@S2{{}}
-<li> @S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}eba}}}}@S2{{}}
+<li> @FORMATION{{@S1{{}}(past)@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(non-emotive)}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}@S2{{}}(emotive)}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}ttara}}}}@S2{{}}}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}eba}}}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

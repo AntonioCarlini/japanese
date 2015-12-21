@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(non-past)@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}
-<li> @Vplain{{}}(non-past)@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}
-<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}
-<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}}}
 </ol>
 
 <h2> Definition </h2>

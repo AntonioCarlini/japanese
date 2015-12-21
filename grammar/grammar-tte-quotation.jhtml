@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>quote</em> @HI{{@EM{{tte}}}}
+<li> @FORMATION{{<em>quote</em> @HI{{@EM{{tte}}}}}}
 </ol>
 
 <h2> Definition </h2>

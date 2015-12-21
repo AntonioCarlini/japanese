@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FG{{@KJ{{one^cut}}:issai}}@Vnai{{}}
-<li> @FG{{@KJ{{one^cut}}:issai}}@HI{{no}}@N{{}}~@Vnai{{}}
+<li> @FORMATION{{@FG{{@KJ{{one^cut}}:issai}}@Vnai{{}}}}
+<li> @FORMATION{{@FG{{@KJ{{one^cut}}:issai}}@HI{{no}}@N{{}}~@Vnai{{}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}, ...
-<li> @Vnaistem{{}}@HI{{nakute}}, ...
-<li> @Aistem{{}}@HI{{kute}}, ...
-<li> @Anastem{{}}@HI{{de}}, ...
+<li> @FORMATION{{@Vte{{}}, ...}}
+<li> @FORMATION{{@Vnaistem{{}}@HI{{nakute}}, ...}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute}}, ...}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}}, ...}}
 </ol>
 
 <h2> Definition </h2>

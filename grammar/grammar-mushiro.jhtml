@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @V1{{}}(non past)@HI{{yoriha/mo@EM{{mushiro}}}}@V2{{}}(non past)
-<li> @N1{{}}@HI{{yoriha/mo@EM{{mushiro}}}}@N2{{}}
-<li> @Vru{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}
-<li> @Ai{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}
-<li> @Anastem{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}
-<li> @N{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}
+<li> @FORMATION{{@V1{{}}(non past)@HI{{yoriha/mo@EM{{mushiro}}}}@V2{{}}(non past)}}
+<li> @FORMATION{{@N1{{}}@HI{{yoriha/mo@EM{{mushiro}}}}@N2{{}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{toiuyoriha/mo@EM{{mushiro}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{datoiuyoriha/mo@EM{{mushiro}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -18,9 +18,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{@Vte{{}}hairarenai}}}}
-<li> @HI{{@EM{{@Vnai{{}}dehairarenai}}}}
-<li> @HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vte{{}}hairarenai}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vnai{{}}dehairarenai}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}}}}
 </ol>
 
 <h2> Definition </h2>

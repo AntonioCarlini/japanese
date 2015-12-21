@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@HI{{.@EM{{to@KJ{{say}}unoha}},}}@S2{{}}
-<li> @S1{{}}@HI{{.}} word/phrase @HI{{@EM{{to@KJ{{say}}unoha}},}}@S2{{}}
+<li> @FORMATION{{@S1{{}}@HI{{.@EM{{to@KJ{{say}}unoha}},}}@S2{{}}}}
+<li> @FORMATION{{@S1{{}}@HI{{.}} word/phrase @HI{{@EM{{to@KJ{{say}}unoha}},}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}
-<li> @N{{}}@HI{{dearu}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}
-<li> @N{{}}@HI{{denai}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}
+<li> @FORMATION{{@Vplain{{}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{denai}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
 </ol>
 
 <h2> Definition </h2>

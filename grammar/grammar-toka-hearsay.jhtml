@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{toka}}.}}
-<li> @Splain{{}}@HI{{@EM{{tokade}},}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{toka}}.}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{tokade}},}}}}
 </ol>
 
 <h2> Definition </h2>

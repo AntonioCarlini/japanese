@@ -18,11 +18,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(non-past)@HI{{@EM{{kotoninaru}}}}
-<li> @Ai{{}}(non-past)@HI{{@EM{{kotoninaru}}}}
-<li> @Ana{{}}@HI{{@EM{{kotoninaru}}}}
-<li> @N{{}}@HI{{toiu@EM{{kotoninaru}}}}
-<li> @Splain{{}}@HI{{toiu@EM{{kotoninaru}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{kotoninaru}}}}}}
+<li> @FORMATION{{@Ai{{}}(non-past)@HI{{@EM{{kotoninaru}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{kotoninaru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{toiu@EM{{kotoninaru}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{toiu@EM{{kotoninaru}}}}}}
 </ol>
 
 <h2> Definition </h2>

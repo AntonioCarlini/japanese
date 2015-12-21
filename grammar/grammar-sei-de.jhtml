@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{no}}@HI{{@EM{{seide}}}}
-<li> @Splain{{}}@HI{{@EM{{seide}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{seide}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{seide}}}}}}
 </ol>
 
 <h2> Definition </h2>

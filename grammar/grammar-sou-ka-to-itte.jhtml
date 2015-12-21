@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@HI{{ga,@EM{{soukato@KJ{{say}}tte}}}}, @S2{{}}
-<li> A:@S1{{}}.<br>
+<li> @FORMATION{{@S1{{}}@HI{{ga,@EM{{soukato@KJ{{say}}tte}}}}, @S2{{}}}}
+<li> @FORMATION{{A:@S1{{}}.<br>}}
      B:@HI{{@EM{{soukato@KJ{{say}}tte}}}}, @S2{{}}
 </ol>
 

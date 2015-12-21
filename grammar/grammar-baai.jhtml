@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
-<li> @Vta{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
-<li> @Vnai{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
-<li> @Ai{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
-<li> @Ana{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
-<li> @N{{}} @HI{{no}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}
+<li> @FORMATION{{@Vru{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
+<li> @FORMATION{{@Vta{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
+<li> @FORMATION{{@Vnai{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
+<li> @FORMATION{{@Ai{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
+<li> @FORMATION{{@Ana{{}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{no}} @EM{{@KJ{{location^fit}}@HI{{ha}}}}}}
 </ol>
 
 <h2> Definition </h2>

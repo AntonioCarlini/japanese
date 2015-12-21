@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N1{{}}@HI{{to}}@N2{{}}@HI{{to}}@JDOTS3{{}}@HI{{@EM{{soreto}}}} ...
-<li> @S1{{}}@HI{{@EM{{soreto}},}}@S2{{}}
+<li> @FORMATION{{@N1{{}}@HI{{to}}@N2{{}}@HI{{to}}@JDOTS3{{}}@HI{{@EM{{soreto}}}} ...}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{soreto}},}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}(non-past)@HI{{@EM{{kotogaaru}}}}
-<li> @Vnai{{}}@HI{{@EM{{kotogaaru}}}}
-<li> @Ai{{}}@HI{{@EM{{kotogaaru}}}}
-<li> @Ana{{}}@HI{{@EM{{kotogaaru}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{kotogaaru}}}}
-<li> @N{{}}@HI{{dearu}}@HI{{@EM{{kotogaaru}}}}
+<li> @FORMATION{{@Vru{{}}(non-past)@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{kotogaaru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@HI{{@EM{{kotogaaru}}}}}}
 </ol>
 
 <h2> Definition </h2>

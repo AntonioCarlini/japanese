@@ -18,10 +18,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{womegutte}}}}
-<li> @N1{{}}@HI{{@EM{{womeguru}}}}@N2{{}}
-<li> @N1{{}}@HI{{ka}}@N2{{}}@HI{{@EM{{womegutte}}}}
-<li> <em>embedded question</em>@HI{{@EM{{womegutte}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{womegutte}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{womeguru}}}}@N2{{}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ka}}@N2{{}}@HI{{@EM{{womegutte}}}}}}
+<li> @FORMATION{{<em>embedded question</em>@HI{{@EM{{womegutte}}}}}}
 </ol>
 
 <h2> Definition </h2>

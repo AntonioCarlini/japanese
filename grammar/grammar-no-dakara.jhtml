@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{nodakara}}}}
-<li> @Ana{{}}@HI{{@EM{{nodakara}}}}
-<li> @N{{}}@HI{{na}}@HI{{@EM{{nodakara}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{nodakara}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{nodakara}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na}}@HI{{@EM{{nodakara}}}}}}
 </ol>
 
 <h2> Definition </h2>

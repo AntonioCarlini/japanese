@@ -16,12 +16,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{kai}}gaaru}}
-<li> @Vplain{{}}@HI{{@EM{{kai}}ganai}}
-<li> @N{{}}@HI{{no@EM{{kai}}gaaru}}
-<li> @N{{}}@HI{{no@EM{{kai}}ganai}}
-<li> @Vmasustem{{}}@HI{{@EM{{gai}}}}
-<li> @S1{{}}@HI{{.sono@EM{{kai}}gaatte@S2{{}}.}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{kai}}gaaru}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{kai}}ganai}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{kai}}gaaru}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{kai}}ganai}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{gai}}}}}}
+<li> @FORMATION{{@S1{{}}@HI{{.sono@EM{{kai}}gaatte@S2{{}}.}}}}
 </ol>
 
 <h2> Definition </h2>

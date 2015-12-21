@@ -16,14 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Vplain{{}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Ai{{}}@HI{{toha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Anastem{{}}@HI{{datoha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@N{{}}@HI{{datoha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Vnai{{}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Aistem{{}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Anastem{{}}@HI{{dehanai}}
-<li> @EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@N{{}}@HI{{dehanai}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Vplain{{}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Ai{{}}@HI{{toha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Anastem{{}}@HI{{datoha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@N{{}}@HI{{datoha}} {@KJ{{limit}}@HI{{ra}}/@KJ{{say}}@HI{{e}}/@KJ{{think}}@HI{{wa}}}@HI{{nai}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Vnai{{}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Aistem{{}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@Anastem{{}}@HI{{dehanai}}}}
+<li> @FORMATION{{@EM{{@FG{{@KJ{{invariably}}@HI{{zushimo}}:kanarazushimo}}}}@N{{}}@HI{{dehanai}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,9 +17,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>number/counter</em> @HI{{@EM{{kurai}}}}
-<li> <em>demonstrative</em> @HI{{@EM{{kurai}}}}
-<li> <em>interrogative pronoun</em> @HI{{@EM{{kurai}}}}
+<li> @FORMATION{{<em>number/counter</em> @HI{{@EM{{kurai}}}}}}
+<li> @FORMATION{{<em>demonstrative</em> @HI{{@EM{{kurai}}}}}}
+<li> @FORMATION{{<em>interrogative pronoun</em> @HI{{@EM{{kurai}}}}}}
 </ol>
 
 <h2> Definition </h2>

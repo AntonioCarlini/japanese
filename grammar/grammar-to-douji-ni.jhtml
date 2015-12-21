@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}
-<li> @Vplain{{non-past}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}
-<li> @Anastem{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@Anastem{{}}@HI{{dearu.}}
-<li> @N{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@N{{}}@HI{{dearu.}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}}}
+<li> @FORMATION{{@Vplain{{non-past}}@HI{{@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@Anastem{{}}@HI{{dearu.}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{to@FG{{@KJ{{same^time}}:douji}}ni}}}}@N{{}}@HI{{dearu.}}}}
 </ol>
 
 <h2> Definition </h2>

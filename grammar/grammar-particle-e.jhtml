@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{location}} @HI{{@EM{{he}}}}
-<li> @N{{recipient}} @HI{{@EM{{he}}}}
+<li> @FORMATION{{@N{{location}} @HI{{@EM{{he}}}}}}
+<li> @FORMATION{{@N{{recipient}} @HI{{@EM{{he}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,11 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
-<li> @N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})
-<li> @N{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}
-<li> @Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}
-<li> @HI{{kono}}/@HI{{sono}}/@HI{{ano}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}
+<li> @FORMATION{{@Vplain{{}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}(@HI{{ni}})}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}}}}}}}
+<li> @FORMATION{{@HI{{kono}}/@HI{{sono}}/@HI{{ano}}@EM{{@FG{{@KJ{{occasion}}:sai}}}}}}
 </ol>
 
 <h2> Definition </h2>

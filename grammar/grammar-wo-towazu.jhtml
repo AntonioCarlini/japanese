@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}
-<li> @N1{{}}@HI{{,/to/ya/@N2{{}}@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}
-<li> X@HI{{ka}}Y@HI{{ka@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}
-<li> X(aff)X(neg)@HI{{@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{,/to/ya/@N2{{}}@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}}}
+<li> @FORMATION{{X@HI{{ka}}Y@HI{{ka@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}}}
+<li> @FORMATION{{X(aff)X(neg)@HI{{@EM{{wo@FG{{@KJ{{question}}:to}}wazu}}}}}}
 </ol>
 
 <h2> Definition </h2>

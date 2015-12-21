@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> <em>interrogative</em> + @Vte{{}}@HI{{mo}}
-<li> <em>interrogative</em> + @Aistem{{}}@HI{{kutemo}}
-<li> <em>interrogative</em> + @Anastem{{}}@HI{{demo}}
-<li> <em>interrogative</em> + @N{{}}@HI{{demo}}
+<li> @FORMATION{{<em>interrogative</em> + @Vte{{}}@HI{{mo}}}}
+<li> @FORMATION{{<em>interrogative</em> + @Aistem{{}}@HI{{kutemo}}}}
+<li> @FORMATION{{<em>interrogative</em> + @Anastem{{}}@HI{{demo}}}}
+<li> @FORMATION{{<em>interrogative</em> + @N{{}}@HI{{demo}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,19 +17,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{hazuganai}}}}
-<li> @Ai{{}}@HI{{@EM{{hazuganai}}}}
-<li> @Anastem{{}}@HI{{na}}@HI{{@EM{{hazuganai}}}}
-<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{hazuganai}}}}
-<li> @N{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{hazuganai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{hazuganai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{na}}@HI{{@EM{{hazuganai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{hazuganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@HI{{@EM{{hazuganai}}}}}}
 
-<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Anastem{{}}@HI{{na}}@HI{{@EM{{wakeganai}}}}
-<li> @Anastem{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
-<li> @N{{}}@HI{{no}}@HI{{@EM{{wakeganai}}}}
-<li> @N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{na}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}}}
 </ol>
 
 <h2> Definition </h2>

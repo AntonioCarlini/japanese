@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{nitsuite}}}}
-<li> @Splain{{}}@HI{{koto@EM{{nitsuite}}}}
-<li> @N1{{}}@HI{{@EM{{nitsuite}}no}}@N2{{}}
-<li> @Splain{{}}@HI{{koto@EM{{nitsuite}}no}}@N2{{}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nitsuite}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{koto@EM{{nitsuite}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{nitsuite}}no}}@N2{{}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{koto@EM{{nitsuite}}no}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>

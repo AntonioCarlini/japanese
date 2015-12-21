@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@HI{{ga,@EM{{naruhodo}}}}@S2{{}}@HI{{.}}
-<li> @HI{{@EM{{naruhodo}},}}@S1{{}}@HI{{ga,}}@S2{{}}@HI{{.}}
-<li> @HI{{@EM{{naruhodo}}ne.}}
+<li> @FORMATION{{@S1{{}}@HI{{ga,@EM{{naruhodo}}}}@S2{{}}@HI{{.}}}}
+<li> @FORMATION{{@HI{{@EM{{naruhodo}},}}@S1{{}}@HI{{ga,}}@S2{{}}@HI{{.}}}}
+<li> @FORMATION{{@HI{{@EM{{naruhodo}}ne.}}}}
 </ol>
 
 <h2> Definition </h2>

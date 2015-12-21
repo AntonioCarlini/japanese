@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vte{{}}@HI{{@EM{{shikamo}}}}
-<li> @Aistem{{}}@HI{{kute@EM{{shikamo}}}}
-<li> @Aistem{{}}@HI{{ku@EM{{shikamo}}}}
-<li> @Anastem{{}}@HI{{de@EM{{shikamo}}}}
-<li> @N{{}}@HI{{de@EM{{shikamo}}}}
-<li> @Vmasustem{{}}@HI{{@EM{{shikamo}}}}
-<li> @S1{{}}@HI{{.@EM{{shikamo}}}}@S2{{}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{shikamo}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute@EM{{shikamo}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku@EM{{shikamo}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de@EM{{shikamo}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{de@EM{{shikamo}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{shikamo}}}}}}
+<li> @FORMATION{{@S1{{}}@HI{{.@EM{{shikamo}}}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

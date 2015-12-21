@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@HI{{@EM{{niwatatte}}}}
-<li> @N1{{}}@HI{{kara}}@N2{{}}@HI{{@EM{{niwatatte}}}}
-<li> (@N1{{}}@HI{{kara}})@N2{{}}@HI{{@EM{{niwataru}}}}@N3{{}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niwatatte}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{kara}}@N2{{}}@HI{{@EM{{niwatatte}}}}}}
+<li> @FORMATION{{(@N1{{}}@HI{{kara}})@N2{{}}@HI{{@EM{{niwataru}}}}@N3{{}}}}
 </ol>
 
 <h2> Definition </h2>

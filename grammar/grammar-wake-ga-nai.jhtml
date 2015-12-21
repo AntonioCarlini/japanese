@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Ai{{}}@HI{{@EM{{wakeganai}}}}
-<li> @Ana{{}}@HI{{@EM{{wakeganai}}}}
-<li> @N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{wakeganai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@HI{{@EM{{wakeganai}}}}}}
 </ol>
 
 <h2> Definition </h2>

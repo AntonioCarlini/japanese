@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{yatto}}}}@Vplain{{}}
-<li> @Vplain{{}}(non-past))@HI{{@EM{{yatto}}}}
-<li> @HI{{@EM{{yatto}}nokotode}}@V{{}}
+<li> @FORMATION{{@HI{{@EM{{yatto}}}}@Vplain{{}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past))@HI{{@EM{{yatto}}}}}}
+<li> @FORMATION{{@HI{{@EM{{yatto}}nokotode}}@V{{}}}}
 </ol>
 
 <h2> Definition </h2>

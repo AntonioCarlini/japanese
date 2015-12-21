@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{nitsurete}}}}
-<li> @N{{}}@HI{{@EM{{nitsurete}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nitsurete}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nitsurete}}}}}}
 </ol>
 
 <h2> Definition </h2>

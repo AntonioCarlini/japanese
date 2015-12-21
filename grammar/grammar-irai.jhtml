@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}
-<li> @Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}
-<li> <em>demonstrative-adj</em>@FG{{@KJ{{by*means*of^come}}:irai}}
+<li> @FORMATION{{@N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}}
+<li> @FORMATION{{@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}}
+<li> @FORMATION{{<em>demonstrative-adj</em>@FG{{@KJ{{by*means*of^come}}:irai}}}}
 </ol>
 
 <h2> Definition </h2>

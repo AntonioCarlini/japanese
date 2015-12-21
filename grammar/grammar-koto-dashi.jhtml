@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{kotodashi}}}}.
-<li> @Ai{{}}@HI{{@EM{{kotodashi}}}}.
-<li> @Ana{{}}@HI{{dearu@EM{{kotodashi}}}}.
-<li> @N{{}}@HI{{no@EM{{kotodashi}}}}.
-<li> @N{{}}@HI{{dearu@EM{{kotodashi}}}}.
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{kotodashi}}}}.}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{kotodashi}}}}.}}
+<li> @FORMATION{{@Ana{{}}@HI{{dearu@EM{{kotodashi}}}}.}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{kotodashi}}}}.}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{kotodashi}}}}.}}
 </ol>
 
 <h2> Definition </h2>

@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{soudesu}}}}
-<li> @HI{{@EM{{soujaarimasenn}}}}
+<li> @FORMATION{{@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@HI{{@EM{{soujaarimasenn}}}}}}
 </ol>
 
 <h2> Definition </h2>

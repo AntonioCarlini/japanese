@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@HI{{@EM{{tokorokara}}}}
-<li> @Ai{{}}@HI{{@EM{{tokorokara}}}}
-<li> @Ana{{}}@HI{{@EM{{tokorokara}}}}
-<li> @Anastem{{}}@HI{{dearu@EM{{tokorokara}}}}
-<li> @N{{}}@HI{{dearu@EM{{tokorokara}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{tokorokara}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{tokorokara}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{tokorokara}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{tokorokara}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{tokorokara}}}}}}
 </ol>
 
 <h2> Definition </h2>

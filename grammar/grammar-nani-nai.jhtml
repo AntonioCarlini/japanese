@@ -17,9 +17,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @KJ{{what}}@N1{{}}@HI{{nai}}@N2{{}}
-<li> @KJ{{what}}@N{{}}@HI{{naku}}@V{{}}
-<li> @KJ{{what^one}}@HI{{tsunai}}
+<li> @FORMATION{{@KJ{{what}}@N1{{}}@HI{{nai}}@N2{{}}}}
+<li> @FORMATION{{@KJ{{what}}@N{{}}@HI{{naku}}@V{{}}}}
+<li> @FORMATION{{@KJ{{what^one}}@HI{{tsunai}}}}
 </ol>
 
 <h2> Definition </h2>

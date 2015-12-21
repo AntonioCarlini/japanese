@@ -17,11 +17,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{toorini}}}},
-<li> @Vta{{}}@HI{{@EM{{toorini}}}},
-<li> @N{{}}@HI{{no@EM{{toorini}}}},
-<li> <em>demonstrative</em>@HI{{no@EM{{toorini}}}},
-<li> @N{{}}@HI{{@EM{{doori(ni)}}}},
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{toorini}}}},}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{toorini}}}},}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{toorini}}}},}}
+<li> @FORMATION{{<em>demonstrative</em>@HI{{no@EM{{toorini}}}},}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{doori(ni)}}}},}}
 </ol>
 
 <h2> Definition </h2>

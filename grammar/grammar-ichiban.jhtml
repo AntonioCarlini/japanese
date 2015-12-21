@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @KJ{{one^turn}} @Ai{{}}
-<li> @KJ{{one^turn}} @Aistem{{}}@HI{{ku}}
-<li> @KJ{{one^turn}} @Anastem{{}}@HI{{da}}
-<li> @KJ{{one^turn}} @Anastem{{}}@HI{{ni}}
+<li> @FORMATION{{@KJ{{one^turn}} @Ai{{}}}}
+<li> @FORMATION{{@KJ{{one^turn}} @Aistem{{}}@HI{{ku}}}}
+<li> @FORMATION{{@KJ{{one^turn}} @Anastem{{}}@HI{{da}}}}
+<li> @FORMATION{{@KJ{{one^turn}} @Anastem{{}}@HI{{ni}}}}
 </ol>
 
 <h2> Definition </h2>

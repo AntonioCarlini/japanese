@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vta{{}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}(@HI{{ni}})
-<li> @Vta{{}}@HI{{ra}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}@HI{{ni}}
+<li> @FORMATION{{@Vta{{}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}(@HI{{ni}})}}
+<li> @FORMATION{{@Vta{{}}@HI{{ra}}@EM{{@FG{{@KJ{{route^edge}}:totann}}}}@HI{{ni}}}}
 </ol>
 
 

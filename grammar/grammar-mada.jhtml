@@ -67,8 +67,8 @@ Iin other negative  sentences it can usually be translated as "still".
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
-<li> @UCREF{{DOBJG}}. (p. 224).
+<li> @FORMATION{{@UCREF{{MNN-TR-II}}. (Chapter 30).}}
+<li> @FORMATION{{@UCREF{{DOBJG}}. (p. 224).}}
 </ol>
 
 @include{{"grammar-footer.inc"}}

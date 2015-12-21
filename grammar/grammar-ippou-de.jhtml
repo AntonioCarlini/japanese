@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}@KJ{{one^direction}}@HI{{de}}
-<li> @Ai{{}}@KJ{{one^direction}}@HI{{de}}
-<li> @Ana{{}}@KJ{{one^direction}}@HI{{de}}
-<li> @Anastem{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
-<li> @N{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}
-<li> VN@HI{{no}}@KJ{{one^direction}}@HI{{de}}
-<li> @S1{{}}.@KJ{{one^direction}},@S2{{}}.
+<li> @FORMATION{{@Vplain{{}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{@Ai{{}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{@Ana{{}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{VN@HI{{no}}@KJ{{one^direction}}@HI{{de}}}}
+<li> @FORMATION{{@S1{{}}.@KJ{{one^direction}},@S2{{}}.}}
 </ol>
 
 <h2> Definition </h2>

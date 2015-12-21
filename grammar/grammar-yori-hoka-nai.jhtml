@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}}(non-past)@HI{{@EM{{(yori)hoka(ni)(ha)nai}}}}
-<li> @N{{}}(non-past)@HI{{@EM{{yorihoka(ni)ha@Vnai{{}}}}}}
-<li> @N{{}}(non-past)@HI{{@EM{{nohoka(ni)ha@Vnai{{}}}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{(yori)hoka(ni)(ha)nai}}}}}}
+<li> @FORMATION{{@N{{}}(non-past)@HI{{@EM{{yorihoka(ni)ha@Vnai{{}}}}}}}}
+<li> @FORMATION{{@N{{}}(non-past)@HI{{@EM{{nohoka(ni)ha@Vnai{{}}}}}}}}
 </ol>
 
 <h2> Definition </h2>

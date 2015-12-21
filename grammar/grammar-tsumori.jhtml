@@ -16,13 +16,13 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vru{{}}@HI{{@EM{{tsumori}}desu}}
-<li> @Vnai{{}}@HI{{@EM{{tsumori}}desu}}
-<li> @Ai{{}}@HI{{@EM{{tsumori}}desu}}
-<li> @Ana{{}}@HI{{@EM{{tsumori}}desu}}
-<li> @N{{}}@HI{{no@EM{{tsumori}}desu}}
-<li> @Vta{{}}@HI{{@EM{{tsumori}}}}
-<li> @Vte{{}}@HI{{iru@EM{{tsumori}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tsumori}}desu}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{tsumori}}desu}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{tsumori}}desu}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{tsumori}}desu}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{tsumori}}desu}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{tsumori}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{iru@EM{{tsumori}}}}}}
 </ol>
 
 <h2> Definition </h2>

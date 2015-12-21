@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{@EM{{mata}}}}@V{{}} (repetition)
-<li> @N{{}}@HI{{@EM{{mata}}}} (addition)
-<li> @Vmasustem{{}}@HI{{@EM{{mata}},@S{{}}}} (addition)
-<li> @Aistem{{}}@HI{{ku@EM{{mata}},@S{{}}}} (addition)
+<li> @FORMATION{{@HI{{@EM{{mata}}}}@V{{}} (repetition)}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{mata}}}} (addition)}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{mata}},@S{{}}}} (addition)}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku@EM{{mata}},@S{{}}}} (addition)}}
 </ol>
 
 <h2> Definition </h2>

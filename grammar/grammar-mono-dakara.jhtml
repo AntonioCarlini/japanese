@@ -17,8 +17,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @S1{{}}@HI{{@EM{{monodakara}}}}@S2{{}}
-<li> @S1{{}}@HI{{@EM{{monode}}}}@S2{{}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{monodakara}}}}@S2{{}}}}
+<li> @FORMATION{{@S1{{}}@HI{{@EM{{monode}}}}@S2{{}}}}
 </ol>
 
 <h2> Definition </h2>

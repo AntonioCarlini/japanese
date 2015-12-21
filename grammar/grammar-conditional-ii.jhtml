@@ -18,9 +18,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @HI{{toii}}
-<li> @Vba{{}}@HI{{ii}}
-<li> @Vta{{}}@HI{{raii}}
+<li> @FORMATION{{@HI{{toii}}}}
+<li> @FORMATION{{@Vba{{}}@HI{{ii}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{raii}}}}
 </ol>
 
 <h2> Definition </h2>
