@@ -17,10 +17,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Vplain{{}} @HI{{@EM{{deshou}}}}
-<li> @Ai{{}} @HI{{@EM{{deshou}}}}
-<li> @Anastem{{}} @HI{{@EM{{deshou}}}}
-<li> @N{{}} @HI{{@EM{{deshou}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{deshou}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{deshou}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{deshou}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{deshou}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{deshou}}}} expresses the speaker's conjecture, possibly from some information he has.
+<a name="conjecture">@HI{{@EM{{deshou}}}}</a> expresses the speaker's conjecture, possibly from some information he has.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-When used with a rising intonation, it is being used by the speaker to confirm the listener's agreement.
+<a name="confirm">When</a> used with a rising intonation, it is being used by the speaker to confirm the listener's agreement.
 This is similar to the sentence ending particle <a href="grammar-particle-ne.html">@HI{{ne}}</a>, but somewhat softer and less direct.
 
 <table class="sentence" border=0>
@@ -58,7 +58,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{darou}}}} or @HI{{@EM{{deshou}}}} with the question marker @HI{{ka}} makes the question softer.
+<a name="ka">@HI{{@EM{{darou}}}}</a> or @HI{{@EM{{deshou}}}} with the question marker @HI{{ka}} makes the question softer.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -91,7 +91,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @UCREF{{MNN-TR-II}}. (Chapter 32).
 <li> @UCREF{{DOBJG}}. (p. 100).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).

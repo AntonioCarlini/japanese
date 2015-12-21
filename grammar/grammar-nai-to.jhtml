@@ -16,15 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @EM{{@Vnai{{}}@HI{{to}}}}
-<li> @EM{{@Vnai{{}}@HI{{toikenai}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{to}}}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{toikenai}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@Vnai{{}} @HI{{to}} is a shortened form of @Vnai{{}} @HI{{to ikemasenn}}, which itself is similar in
-meaning to <a href="grammar-nakereba-naranai.html">@Vnaistem{{}}@HI{{nakereba naranai}}</a>. The basic idea
+@Vnai{{}}@HI{{to}} is a shortened form of @Vnai{{}}@HI{{toikemasenn}}, which itself is similar in
+meaning to <a href="grammar-nakereba-naranai.html">@Vnaistem{{}}@HI{{nakerebanaranai}}</a>. The basic idea
 is one of "must" or "have to".
 
 <table class="sentence" border=0>
@@ -42,7 +42,7 @@ is one of "must" or "have to".
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 

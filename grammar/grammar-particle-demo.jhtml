@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{demo}} ... 
+<li> @FORMATION{{@N{{}}@HI{{demo}} ... }}
 </ol>
 
 <h2> Definition </h2>
@@ -116,7 +116,7 @@
 
 <ol>
 <li> @UCREF{{AAP}}. (p. 49).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @UCREF{{NKZM-N3G}}. (p. 58).
 </ol>
 

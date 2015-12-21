@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{}} @HI{{de}} ... 
+<li> @FORMATION{{@N{{}}@HI{{de}} ... }}
 </ol>
 
 <h2> Definition </h2>
@@ -54,7 +54,7 @@ indicate location of existence except in the case where it is used with @HI{{aru
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{de}}}} indicates the materials used.
+<a name="materials">@HI{{@EM{{de}}}}</a> indicates the materials used.
 Note that @HI{{@EM{{de}}}} must be used if the raw material is obvious from the final product, otherwise
 @HI{{@EM{{de}}}} may be replaced by <a href="grammar-particle-kara.html">@HI{{kara}}</a>.
 
@@ -70,7 +70,7 @@ Note that @HI{{@EM{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{de}}}} indicates the greatest, least etc. in a comparison.
+<a name="comparison">@HI{{@EM{{de}}}}</a> indicates the greatest, least etc. in a comparison.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -98,7 +98,7 @@ Note that @HI{{@EM{{de}}}} must be used if the raw material is obvious from the 
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{de}}}} indicates the mode or condition of the agent of an action.
+<a name="condition">@HI{{@EM{{de}}}}</a> indicates the mode or condition of the agent of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -153,7 +153,7 @@ Note that if you walk somewhere, the expression @HI{{aruite}} is used and the pa
 <li> @REF{{MNN-TR-I}}. (Chapter 5).
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @UCREF{{DOBJG}}. (p. 105).
 <li> @UCREF{{DOBJG}}. (p. 106).
 <li> @UCREF{{DOBJG}}. (p. 107).

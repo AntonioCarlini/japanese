@@ -259,12 +259,12 @@
 
 <ol>
 <li> <a href="grammar-to-omou.html"> @HI{{to@KJ{{think}}u}} </a>
-<li> <a href="grammar-to-iu.html"> @HI{{to@KJ{{say}}}} </a>
-<li> <a href="grammar-deshou.html"> @HI{{deshou}} </a>
-<li> <a href="grammar-place-de-aru.html"> @N{{place}}@HI{{de}} @N2{{}}@HI{{ga aru}} </a>
-<li> <a href="grammar-particle-de.html"> @N{{occasion}}@HI{{de}} </a>
-<li> <a href="grammar-particle-demo.html"> @N{{}}@HI{{demo}}@V{{}} (... or something)</a>
-<li> <a href="grammar-nai-to.html"> @HI{{nai to}} </a>
+<li> <a href="grammar-to-iu.html"> @HI{{to@KJ{{say}}u}} </a>
+<li> <a href="grammar-deshou.html#confirm"> @HI{{deshou}} </a>
+<li> <a href="grammar-place-de-aru.html"> @N{{place}}@HI{{de}}@N2{{}}@HI{{gaaru}} </a>
+<li> <a href="grammar-particle-de.html#location"> @N{{occasion}}@HI{{de}} </a>
+<li> <a href="grammar-particle-demo.html#possibility"> @N{{}}@HI{{demo}}@V{{}} (... or something)</a>
+<li> <a href="grammar-nai-to.html"> @HI{{naito}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter22">_</a>Chapter 22</h2>

@@ -16,52 +16,55 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}@HI{{to @KJ{{think}}u}}
-<li> @HI{{sou @KJ{{think}}u}}
-<li> @HI{{sou ha @KJ{{think}}wanai}}
+<li> @FORMATION{{@Splain{{}}@HI{{to @KJ{{think}}u}}}}
+<li> @FORMATION{{@HI{{sou @KJ{{think}}u}}}}
+<li> @FORMATION{{@HI{{sou ha @KJ{{think}}wanai}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern is used to express conjecture or one's opinion. The particle @HI{{to}}
 delimits the expression containing the conjecture or opinion.
-</p>
 
-<p>
-Agreement with someone else's position is expressed with @HI{{sou @KJ{{think}}imasu}} and disagreement with
-@HI{{sou @KJ{{think}}imasen}}.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{teresa}}chanha mou @KJ{{lie*down}}tato @KJ{{think}}imasu.}}
+      @HI{{@KT{{teresa}}chanhamou@KJ{{lie*down}}tato @KJ{{think}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I think Teresa has already gone to bed.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}ha @KJ{{thing^value}}ga @KJ{{tall}}i to @KJ{{think}}imasu.}}
+      @HI{{@KJ{{day^book}}ha@KJ{{thing^value}}ga@KJ{{tall}}ito@KJ{{think}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I think prices in Japan are high.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+Agreement with someone else's position is expressed with @HI{{sou@KJ{{think}}imasu}} and disagreement with
+@HI{{sou@KJ{{think}}imasen'}}.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -16,19 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @N{{place}}@HI{{de}} @N2{{}}@HI{{ga}} @HI{{aru}}
+<li> @FORMATION{{@N{{place}}@HI{{de}}@N2{{}}@HI{{ga}}@HI{{aru}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 This sentence pattern is used when @N2{{}} represents an event and the speaker wishes to say where it takes place.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{east^capital}}@EM{{de}} @KJ{{day^book}}to@KT{{burajiru}}no @KT{{sakka-}}no @KJ{{test^fit}}ga arimasu.}}
@@ -37,14 +32,14 @@ This sentence pattern is used when @N2{{}} represents an event and the speaker w
       A football game between Japan and Brazil will take place in Tokyo.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}

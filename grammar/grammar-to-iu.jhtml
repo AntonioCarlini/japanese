@@ -16,17 +16,20 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}}@HI{{to@KJ{{say}}u}}
+<li> @FORMATION{{@Splain{{}}@HI{{to@KJ{{say}}u}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to@KJ{{say}}u}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{lie*down}}ru maeni [o@KJ{{rest}}minasai]to@KJ{{say}}imasu.}}
+      @HI{{@KJ{{lie*down}}rumaeni[o@KJ{{rest}}minasai]to@KJ{{say}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We say "Good night" before we go to bed.
@@ -34,13 +37,14 @@ To directly quote what someone says or has said, repeat their words exactly and 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 To quote indirectly, use the plain form before @HI{{to@KJ{{say}}u}}. The tense of the quoted text is 
 unaffected by the tense of the main sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @KJ{{come^week east^capital}}he @KJ{{exit^long}}suruto@KJ{{say}}imashita.}}
+      @HI{{@KT{{mira-}}sanha@KJ{{come^week east^capital}}he @KJ{{exit^long}}suruto@KJ{{say}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Miller said that he would go to Tokyo on a business trip next week.
@@ -48,6 +52,7 @@ unaffected by the tense of the main sentence.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 If it appears at the end of a sentence @HI{{to@KJ{{say}}u}} indicates hearsay ("I heard that ...", "It is said that ...").
 This form is most often used in written Japanese.
@@ -62,12 +67,14 @@ This form is most often used in written Japanese.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 21).
+<li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @UCREF{{DOBJG}}. (p. 486).
 <li> @UCREF{{NKZM-N3G}}. (p. 37).
 </ol>
