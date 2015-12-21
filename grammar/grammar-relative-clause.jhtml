@@ -16,11 +16,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @Splain{{}} @N{{}}
-<li> @Vplain{{}} @N{{}}
-<li> @Ai{{}} @N{{}}
-<li> @Ana{{}} @N{{}}
-<li> @N1{{}} @HI{{no}} @N{{}}
+<li> @FORMATION{{@Splain{{}}@N{{}}}}
+<li> @FORMATION{{@Vplain{{}}@N{{}}}}
+<li> @FORMATION{{@Ai{{}}@N{{}}}}
+<li> @FORMATION{{@Ana{{}}@N{{}}}}
+<li> @FORMATION{{@N1{{}}@HI{{no}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -128,7 +128,7 @@ Alternatively, an explicit conditional can be retained in the relative clause.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 22).
+<li> @REF{{MNN-TR-I}}. (Chapter 22).
 <li> @UCREF{{DOBJG}}. (p. 376).
 <li> @UCREF{{DOIJG}}. (p. 350).
 </ol>
