@@ -280,7 +280,7 @@
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
 <li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
 <li> <a href="grammar-particle-ga.html">@N{{}}@HI{{ga}} <em>adjective</em> </a>
-<li> <a href="grammar-particle-wo.html"> @HI{{wo}} @V{{movement}} </a>
+<li> <a href="grammar-particle-wo.html#location"> @HI{{wo}} @V{{movement}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>

@@ -24,20 +24,14 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @HI{{@EM{{to}}}} conditional expresses that as a result of the action in the subordinate clause,
 the action in the main clause happens as an inevitable consequence. As such, the main clause cannot be one of
 volition, hope invitation or request.
-</p>
 
-<p>
-The subordinate clause must be non-past even if it refers to a past event or action.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kono @KT{{botann}}wo @KJ{{push}}@EM{{to}}, o@KJ{{angling}}riga @KJ{{exit}}masu.}}
@@ -46,7 +40,9 @@ The subordinate clause must be non-past even if it refers to a past event or act
       Press this button and the change will come out.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{taiya}}ha @KJ{{old}}i@EM{{to}} @KJ{{dangerous}}nai desu yo.}}
@@ -55,7 +51,9 @@ The subordinate clause must be non-past even if it refers to a past event or act
       Tyres are dangerous if they are old.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{study^life}}da@EM{{to}} @KJ{{proportion^pull}} ga arimasu.}}
@@ -64,14 +62,21 @@ The subordinate clause must be non-past even if it refers to a past event or act
       There is a discount if you are a student.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+The subordinate clause must be non-past even if it refers to a past event or action.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 23).
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @UCREF{{DOBJG}}. (p 480).
 <li> @UCREF{{JPOD101-LI-S1-001}}.
 </ol>

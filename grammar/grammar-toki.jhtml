@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li>  @Vplain{{}}@HI{{@EM{{toki}}}}
-<li>  @Ai{{}}@HI{{@EM{{toki}}}}
-<li>  @Ana{{}}@HI{{@EM{{toki}}}}
-<li>  @N{{}}@HI{{no}}@HI{{@EM{{toki}}}}
+<li>  @FORMATION{{@Vplain{{}}@HI{{@EM{{toki}}}}}}
+<li>  @FORMATION{{@Ai{{}}@HI{{@EM{{toki}}}}}}
+<li>  @FORMATION{{@Ana{{}}@HI{{@EM{{toki}}}}}}
+<li>  @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{toki}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -120,7 +120,7 @@ A @HI{{@EM{{toki}}}} clause never indicates a condiftion.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 23).
+<li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @UCREF{{DOBJG}}. (p. 490).
 <li> @UCREF{{JPOD101-LI-S6-007}}.
 </ol>
