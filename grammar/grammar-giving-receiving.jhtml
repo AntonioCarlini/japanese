@@ -45,6 +45,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="ageru">@HI{{@EM{{ageru}}}}</a> is used when something is given to someone not
 part of the speaker's in-group. The giver is the subject and the receiver is marked with @HI{{ni}}.
@@ -59,6 +62,7 @@ part of the speaker's in-group. The giver is the subject and the receiver is mar
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="sashiageru">@HI{{@EM{{sashiageru}}}}</a> is the humble form of @HI{{ageru}} and is used to show respect to the receiver. The degree of politeness is higher
 than with @HI{{kudasaru}} and @HI{{itadaku}}.
@@ -73,6 +77,7 @@ than with @HI{{kudasaru}} and @HI{{itadaku}}.
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="yaru">@HI{{@EM{{yaru}}}}</a> is used when the giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
 
@@ -86,6 +91,7 @@ than with @HI{{kudasaru}} and @HI{{itadaku}}.
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="morau">@HI{{@EM{{morau}}}}</a> is used when the speaker, or someone with whom the speaker empathises, receives something from someone the speaker considers to
 be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni}} (or sometimes with @HI{{kara}}).
@@ -100,6 +106,7 @@ be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="itadaku">@HI{{@EM{{itadaku}}}}</a> is the humble polite version of @HI{{morau}} used to show respect to the giver.
 
@@ -113,6 +120,7 @@ be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kureru">@HI{{@EM{{kureru}}}}</a> is used when the speaker, or someone with whom the speaker empathises, is given something by someone else.
 The giver is the subject and the receiver is marked by @HI{{ni}}.
@@ -127,6 +135,7 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
 </table>      
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kudasaru">@HI{{@EM{{kudasaru}}}}</a> is the honorific polite version of @HI{{morau}} used to show respect to the giver.
 
@@ -139,6 +148,8 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
   </td> </tr>
 </table>      
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -162,13 +173,13 @@ must be used.
 <h2> References </h2>
 
 <ol>
-<li> @FORMATION{{@UCREF{{MNN-TR-I}}. (Chapter 6).}}
-<li> @FORMATION{{@REF{{MNN-TR-I}}. (Chapter 7).}}
-<li> @FORMATION{{@UCREF{{MNN-TR-I}}. (Chapter 24).}}
-<li> @FORMATION{{@UCREF{{MNN-TR-II}}. (Chapter 41).}}
-<li> @FORMATION{{@UCREF{{DOBJG}}. (p. 63).}}
-<li> @FORMATION{{@UCREF{{DOBJG}}. (p. 261).}}
-<li> @FORMATION{{@UCREF{{DOBJG}}. (p. 213).}}
+<li> @UCREF{{MNN-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-TR-I}}. (Chapter 24).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @UCREF{{DOBJG}}. (p. 63).
+<li> @UCREF{{DOBJG}}. (p. 261).
+<li> @UCREF{{DOBJG}}. (p. 213).
 </ol>
 
 @include{{"grammar-footer.inc"}}

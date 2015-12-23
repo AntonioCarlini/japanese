@@ -68,7 +68,7 @@ Particles attached to the noun that acquires a relative clause are deleted.
 
 @BGRND{{}}
 <p>
-The topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
+<a name="subject">The</a> topic marker @HI{{ha}} does not appear in relative clauses: instead the subject will be marked by either
 @HI{{ga}} or @HI{{no}}.
 
 <table class="sentence">
@@ -96,7 +96,7 @@ However, if the subject of the sentence is followed by a noun and @HI{{no}} then
 
 @BGRND{{}}
 <p>
-A relative clause can carry a conditional meaning even without an expolicit conditional.
+A relative clause can carry a conditional meaning even without an explicit conditional.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -129,6 +129,7 @@ Alternatively, an explicit conditional can be retained in the relative clause.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 22).
+<li> @REF{{MNN-TR-I}}. (Chapter 25).
 <li> @UCREF{{DOBJG}}. (p. 376).
 <li> @UCREF{{DOIJG}}. (p. 350).
 </ol>

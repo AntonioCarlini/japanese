@@ -279,7 +279,7 @@
 <ol>
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
 <li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
-<li> <a href="grammar-particle-ga.html">@N{{}}@HI{{ga}} <em>adjective</em> </a>
+<li> <a href="grammar-particle-ga.html#new-subj">@N{{}}@HI{{ga}} <em>adjective</em> </a>
 <li> <a href="grammar-particle-wo.html#location"> @HI{{wo}} @V{{movement}} </a>
 </ol>
 
@@ -288,18 +288,18 @@
 <ol>
 <li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
 <li> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions </a>
-<li> <a href="grammar-particle-ga.html">@N{{person}}@HI{{ga}} @V{{}}</a> (new information about existing topic)
-<li> <a href="grammar-particle-ga.html"><em>interrogative</em> @HI{{ga}} @V{{}}</a>
+<li> <a href="grammar-particle-ga.html#new-subject">@N{{person}}@HI{{ga}} @V{{}}</a> (new information about existing topic)
+<li> <a href="grammar-particle-ga.html#interrogative"><em>interrogative</em> @HI{{ga}} @V{{}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter25">_</a>Chapter 25</h2>
 
 <ol>
-<li> <a href="grammar-tara.html"> @HI{{tara}} </a>
-<li> <a href="grammar-te-mo.html"> @HI{{te mo}} </a>
-<li> <a href="grammar-tara.html"> @HI{{moshi}} ... condition </a>
+<li> <a href="grammar-tara.html"> @HI{{@Vta{{}}ra}} </a>
+<li> <a href="grammar-te-mo.html"> @HI{{@Vte{{}}mo}} </a>
+<li> <a href="grammar-tara.html#moshi"> @HI{{moshi}} ... condition </a>
 <li> <a href="grammar-te-mo.html"> @HI{{ikura}} ... condition </a>
-<li> <a href="grammar-relative-clause.html">@HI{{ga}} and relative clauses</a>
+<li> <a href="grammar-relative-clause.html#subject">@HI{{ga}} and relative clauses</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter26">_</a>Chapter 26</h2>

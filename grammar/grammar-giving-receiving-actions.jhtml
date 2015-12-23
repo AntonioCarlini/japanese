@@ -33,6 +33,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="ageru">@Vte{{}}@HI{{ageru}}</a> is used when something is done by the speaker for someone with a sense of goodwill.
 The recipient of the beneficial action should not be the speaker or someone the speaker is close to.
@@ -50,6 +53,7 @@ someone to whom the speaker is close. Otherwise the speaker should use @Vmasuste
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="morau"@Vte{{}}@HI{{morau}}</a> is used to indicate that the speaker has had something done for him (has received an action).
 The expression conveys a sense of gratitude on the part of the receiver.
@@ -65,8 +69,9 @@ The expression conveys a sense of gratitude on the part of the receiver.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@Vte{{}}@HI{{kureru}} indicates that an action is performed for the speaker. Like @Vte{{}}@HI{{morau}},
+<a name="kureru">@Vte{{}}@HI{{kureru}}</a> indicates that an action is performed for the speaker. Like @Vte{{}}@HI{{morau}},
 this expression conveys a sense of gratitude on the part of the receiver. The difference is that the
 subject of the sentence if the performer of the action, implying that the actor has performed the
 action voluntarily.
@@ -81,6 +86,7 @@ action voluntarily.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="yaru">@Vte{{}}@HI{{yaru}}<a/> has the same basic meaning as @Vte{{}}@HI{{ageru}}. It is used when the 
 giver is in a higher position than the receiver or when the receiver is a person close to the speaker.
@@ -110,6 +116,7 @@ action will cause hardship or trouble for the other person.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The humble polite version of @Vte{{}}@HI{{ageru}} is <a name="sashiageru">@Vte{{}}@HI{{sashiageru}}</a>.
 
@@ -123,6 +130,7 @@ The humble polite version of @Vte{{}}@HI{{ageru}} is <a name="sashiageru">@Vte{{
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="itadaku">@Vte{{}}@HI{{itadaku}}</a> is the humble form of @Vte{{}}@HI{{morau}} and is used when an action if performed
 for the receiver by a person of higher social
@@ -138,6 +146,7 @@ status.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="kudasaru">@Vte{{}}@HI{{kudasaru}}</a> is the honorific form of @Vte{{}}@HI{{kureru}} and is used when a person of higher
 social status performs an action for the receiver.
@@ -152,6 +161,8 @@ social status performs an action for the receiver.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -165,7 +176,7 @@ In the case of @Vte{{}}@HI{{ageru}}, if the person receiving the benefit is the 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 24).
+<li> @REF{{MNN-TR-I}}. (Chapter 24).
 <li> @UCREF{{MNN-TR-II}}. (Chapter 41).
 <li> @UCREF{{DOBJG}}. (p. 65).
 <li> @UCREF{{DOBJG}}. (p. 216).

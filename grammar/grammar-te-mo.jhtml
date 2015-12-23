@@ -2,24 +2,24 @@
 <html>
 
 <head>
-<title>@HI{{te mo}}</title>
+<title>@HI{{temo}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{te mo}}" grammar="@HI{{te mo}}"}}
+@GRMIDX{{index="@HI{{temo}}" grammar="@HI{{@Vte{{}}mo}}"}}
 
 <body>
 
-<h1>@HI{{te mo}}</h1>
+<h1>@HI{{@Vte{{}}mo}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vte{{}} @HI{{@EM{{mo}}}}, ...}}
-<li> @FORMATION{{@Aistem{{}}@HI{{kute}} @HI{{@EM{{mo}}}}, ...}}
-<li> @FORMATION{{@Anastem{{}}@HI{{de}} @HI{{@EM{{mo}}}}, ...}}
-<li> @FORMATION{{@N{{}}@HI{{de}} @HI{{@EM{{mo}}}}, ...}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{mo}}}}, ...}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kute}}@HI{{@EM{{mo}}}}, ...}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}}@HI{{@EM{{mo}}}}, ...}}
+<li> @FORMATION{{@N{{}}@HI{{de}}@HI{{@EM{{mo}}}}, ...}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,8 +32,6 @@ This expression is used to mean "even if" or "even though" the conditon in the s
 the action expressed in the main clause will take place. The subordinate clause is not what would be
 expected from the main clause.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{rain}}ga@KJ{{descend}}ttemo,@KJ{{wash^laundry}}shimasu.}}
@@ -42,7 +40,9 @@ expected from the main clause.
       Even if it rains I'll do the laundry.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{day^weekday^day}}demo,@KJ{{work}}kimasu.}}
@@ -51,13 +51,11 @@ expected from the main clause.
       Even if it is Sunday I will work.
   </td> </tr>
 </table>
-</ol>
-
 </p>
 
 @BGRND{{}}
 <p>
-With a WH word @HI{{temo}} means "no matter WH".
+With a WH word @HI{{@Vte{{}}mo}} means "no matter WH".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -71,7 +69,7 @@ With a WH word @HI{{temo}} means "no matter WH".
 
 @BGRND{{}}
 <p>
-@HI{{ikura}} can be placed before the subordinate clause to indicate that a condition is about to be presented.
+<a name="ikura">@HI{{ikura}}</a> can be placed before the subordinate clause to indicate that a condition is about to be presented.
 @HI{{ikura}} stresses the degree of conditionality.
 
 <table class="sentence">
@@ -86,7 +84,7 @@ With a WH word @HI{{temo}} means "no matter WH".
 
 @BGRND{{}}
 <p>
-@HI{{temo}} can be used to emphasise an approximate limit: "at most".
+@HI{{@Vte{{}}mo}} can be used to emphasise an approximate limit: "at most".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -103,13 +101,13 @@ With a WH word @HI{{temo}} means "no matter WH".
 <h2> Notes </h2>
 
 <p>
-@HI{{te mo ii desuka}} is an idiomatic expression used to request permission to do something.
+@HI{{@Vte{{}}moiidesuka}} is an idiomatic expression used to request permission to do something.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 25).
+<li> @REF{{MNN-TR-I}}. (Chapter 25).
 <li> @UCREF{{MNN-TR-I}}. (Chapter 23).
 <li> @UCREF{{DOBJG}}. (p. 468).
 <li> @UCREF{{AAP}}. (p. 29).

@@ -33,7 +33,7 @@ For uses of @HI{{ga}} as a conjunction, see <a href="grammar-ga-conjunction.html
 @BGRNDSTART{{}}
 @BGRND{{}}
 <p>
-When a subject is first introduced it is marked by @HI{{@EM{{ga}}}}, unless it is the topic, in which
+<a name="first">When</a> a subject is first introduced it is marked by @HI{{@EM{{ga}}}}, unless it is the topic, in which
 case it is marked by @HI{{ha}}. Consider the following typical opening for a folktale.
 
 <table class="sentence" border=0>
@@ -58,7 +58,7 @@ sentence he is marked by @HI{{ha}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}
+<a name="existence">@HI{{@EM{{ga}}}}</a> is used with verbs such as @HI{{aru}}, @HI{{iru}}, @HI{{gozaimasu}} and @HI{{irassharu}}
 to indicate existence.
 If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
@@ -74,7 +74,7 @@ If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of the predicate.
+<a name="subject">@HI{{@EM{{ga}}}}</a> indicates the subject of the predicate.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of an intransitive verb.
+<a name="intransitive">@HI{{@EM{{ga}}}}</a> indicates the subject of an intransitive verb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -102,7 +102,7 @@ If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of the sentence when new, previously unknown, information is presented.
+<a name="new-subject">@HI{{@EM{{ga}}}}</a> indicates the subject of the sentence when new, previously unknown, information is presented.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -116,11 +116,9 @@ If a contrast is being presented then @HI{{ha}} can replaced @HI{{@EM{{ga}}}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} is used with interrogative words in questions, both in general questions and when asking for
+<a name="interrogative">@HI{{@EM{{ga}}}}</a> is used with interrogative words in questions, both in general questions and when asking for
 a choice.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{dare@EM{{ga}}@KJ{{one^turn^early}}kukimashitaka.}}
@@ -130,7 +128,8 @@ a choice.
   </td> </tr>
 </table>
 </p>
-<li>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{suhitotenpuratodochira@EM{{ga}}@KJ{{fond}}kidesuka.}}
@@ -139,11 +138,11 @@ a choice.
       Which do you like better, sushi or tempura?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
+<a name="subj-rel">@HI{{@EM{{ga}}}}</a> indicates the subject of a <a href="grammar-relative-clause.html">relative clause</a>. Note
 that @HI{{no}} can often perform this function too.
 
 <table class="sentence" border=0>
@@ -158,7 +157,7 @@ that @HI{{no}} can often perform this function too.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of a clause ending in @HI{{ka}}.
+<a name="question">@HI{{@EM{{ga}}}}</a> indicates the subject of a clause ending in @HI{{ka}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -172,7 +171,7 @@ that @HI{{no}} can often perform this function too.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the subject of a subordinate or conditional clause when it differs from the
+<a name="subordinate">@HI{{@EM{{ga}}}}</a> indicates the subject of a subordinate or conditional clause when it differs from the
 subject of the main clause.
 
 <table class="sentence" border=0>
@@ -188,7 +187,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
+<a name="ability">@HI{{@EM{{ga}}}}</a> indicates the object of verbs of ability, such as @HI{{dekiru}} and @HI{{wakaru}}, and of the
 <a href="grammar-verb-use-of-potential.html">potential</a> form of verbs.
 
 <table class="sentence" border=0>
@@ -203,7 +202,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
+<a name="sensation">@HI{{@EM{{ga}}}}</a> indicates the object of verbs of sensation, such as @HI{{mieru}} and @HI{{kikoeru}} as well as
 @HI{{suru}} in some cases.
 
 <table class="sentence" border=0>
@@ -218,7 +217,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of verbs of necessity.
+<a name="necessity">@HI{{@EM{{ga}}}}</a> indicates the object of verbs of necessity.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -232,7 +231,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of adjectives of desire.
+<a name="desire">@HI{{@EM{{ga}}}}</a> indicates the object of adjectives of desire.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -246,7 +245,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of verbs and adjectives of emotion.
+<a name="emotion">@HI{{@EM{{ga}}}}</a> indicates the object of verbs and adjectives of emotion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -260,7 +259,7 @@ subject of the main clause.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ga}}}} indicates the object of verbs of ability.
+<a name="ability">@HI{{@EM{{ga}}}}</a> indicates the object of verbs of ability.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
