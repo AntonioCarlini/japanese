@@ -15,7 +15,9 @@
 
 <h2> Formation </h2>
 
-@EM{{@Vte{{}}@HI{{itadakemasenka}}}}
+<ol>
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{itadakemasenka}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
@@ -37,8 +39,8 @@ It is a politer request expression than <a href="grammar-te-kudasai.html">@Vte{{
 <h2> References </h2>
 
 <ol>
-<li> @FORMATION{{@UCREF{{MNN-TR-II}}. (Chapter 26).}}
-<li> @FORMATION{{@UCREF{{MNN-INT-TR-I}}. (Chapter 1).}}
+<li> @REF{{MNN-TR-II}}. (Chapter 26).
+<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}
