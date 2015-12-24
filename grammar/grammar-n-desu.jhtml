@@ -15,34 +15,25 @@
 
 <h2> Formation </h2>
 
-
 <ol>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{ndesu}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{ndesu}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{ndesu}}}}}}
-<li> @FORMATION{{@N{{}}@HI{{na}} @HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{ndesu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na}}@HI{{@EM{{ndesu}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
 <h3> Asking for an explanation </h3>
 
+@BGRND{{}}
 <p>
 <a name="explanation-request">When</a> asking for an explanation, the speaker ends the sentence with @HI{{@EM{{ndesuka}}}}.
-This form is used when the speaker:
-<ol>
-<li> guesses a reason or cause for what has been heard and confirms to see if this is correct
-<li> asks for information about what has been seen or heard
-<li> asks the listener to explain the reason or cause of what has been seen or heard
-</ol>
-</p>
 
-<p>
-In informal speech, this may be abbreviated to @HI{{@EM{{no?}}}}.
-</p>
+This form is used when the speaker guesses a reason or cause for what has been heard and confirms to see if this is correct.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @KJ{{transit}}@KJ{{environs}}@HI{{sanha}} @KJ{{time}}@KJ{{noma}} @KJ{{large}}@KJ{{heights}}@KJ{{valve}}
@@ -52,46 +43,124 @@ In informal speech, this may be abbreviated to @HI{{@EM{{no?}}}}.
       Ms. Watanabe, you sometimes speak Osaka dialect. Have you lived in Osaka?
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ndesuka}}}} is also used when the speaker asks for information about what has been seen or heard.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{omoshiroi}}@KT{{dezain}}@HI{{no}}@KJ{{shoes}}@HI{{desune.}}
-      @HI{{dokode}}@KJ{{buy}}@HI{{tta@EM{{ndesuka}}.}}
+      @HI{{omoshiroi}}@KT{{dezain}}@HI{{no}}@KJ{{shoes}}@HI{{desune.}}@HI{{dokode}}@KJ{{buy}}@HI{{tta@EM{{ndesuka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The design of your shoes is interesting. Where did you buy them?
   </td> </tr>
 </table>
-</ol>
 </p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ndesuka}}}} asks the listener to explain the reason or cause of what has been seen or heard.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{doushite@FG{{@KJ{{slow}}:oku}}reta@EM{{ndesuka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Why were you late?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In informal speech, this may be abbreviated to @HI{{@EM{{no?}}}}.
+</p>
+
+@BGRNDEND{{}}
 
 <h3> Offering an explanation </h3>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="offer-explanation">When</a> the speaker wishes to offer an explanation, he ends the sentence with @HI{{@EM{{ndesu}}}}.
-This form is used
-when the speaker:
 
-<ol>
-<li> has been asked for an explanation (which the listener does by using one of the forms above) and wishes
-to state a reason or cause in the reply
-<li> wishes to add a reason or cause to what he has stated
-</ol>
+This form is used when the speaker has been asked for an explanation (which the listener does by using one of the forms above) and wishes
+to state a reason or cause in the reply.
 
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{doushite@FG{{@KJ{{slow}}:oku}}retandesuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{@KT{{basu}}ga@FG{{@KJ{{come}}:ko}}nakatta@EM{{ndesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Why were you late?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Because the bus didn't come.
+  </td> </tr>
+</table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{ndesu}}}} is also used when the speaker wishes to add a reason or cause to what he has stated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@KJ{{every^morning^new^hear}}wo@KJ{{read}}mimasuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{iie.@KJ{{time^interval}}ganai@EM{{ndesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Do you read a newspaper every morning?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: No. I don't have the time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 In informal speech, this may be abbreviated to @HI{{@EM{{no}}}}.
 </p>
 
+@BGRNDEND{{}}
+
 <h3> Introducing a topic </h3>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
 <a name="intro">@HI{{@EM{{ndesuga}}}}</a> is used to introduce a topic.
 It is often followed by a request, an invitation or an
 expression seeking permission. However, the trailing clause can be omitted.
 
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^word}}de@FG{{@KJ{{hand^paper}}:tegami}}wo@KJ{{write}}ita@EM{{ndesuga}},chotto@KJ{{see}}teitadakemasenka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've written a letter in Japanese. Could you please check it for me?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h3>Stating the Result of a Reason or Logical Guess</h3>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The following pattern may be used to state a result that has arisen because of a particular reason or a guess based on logical grounds.
 
@@ -105,6 +174,7 @@ The following pattern may be used to state a result that has arisen because of a
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{nodehanai}} may be used to negate everything except the final part of the sentence.
 
@@ -118,6 +188,7 @@ The following pattern may be used to state a result that has arisen because of a
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="njanaidesuka">In</a> informal speech, @HI{{@EM{{njanaidesuka}}}} can be used to express the speaker's thoughts.
 
@@ -132,6 +203,7 @@ The following pattern may be used to state a result that has arisen because of a
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="njanai">@HI{{@EM{{njanaidesuka}}}}</a> may be further shortened to @HI{{@EM{{njanai}}}}.
 
@@ -149,6 +221,8 @@ The following pattern may be used to state a result that has arisen because of a
 <a name="nodewanaideshouka">@HI{{@EM{{njanaidesuka}}}}</a> is replaced by @HI{{@EM{{nodehanaideshouka}}}}.
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -163,7 +237,7 @@ and may therefore cause offence. It should be used with care.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 26).
+<li> @REF{{MNN-TR-II}}. (Chapter 26).
 <li> @UCREF{{DOBJG}}. (p. 325).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
