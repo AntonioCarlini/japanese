@@ -22,9 +22,10 @@
 <h2> Definition </h2>
 
 @BGRNDSTART{{}}
+
 @BGRND{{}}
 <p>
-@HI{{@EM{{ha}}}} is used to indicate information about something that has already been introduced
+<a name="known">@HI{{@EM{{ha}}}}</a> is used to indicate information about something that has already been introduced
 or about which the speaker is expected to know.
 
 <table class="sentence" border=0>
@@ -39,7 +40,7 @@ or about which the speaker is expected to know.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ha}}}} is used to mark a topic, which is then explained or described in the rest of the
+<a name="topic">@HI{{@EM{{ha}}}}</a> is used to mark a topic, which is then explained or described in the rest of the
 sentence.
 
 <table class="sentence" border=0>
@@ -55,7 +56,7 @@ sentence.
 
 @BGRND{{}}
 <p>
-The sentence pattern @N1{{}}@HI{{@EM{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
+<a name="explanation">The</a> sentence pattern @N1{{}}@HI{{@EM{{ha}}}}@N2{{}}@HI{{ga}} selects @N1{{}} as a topic about which a 
 quality or property, @N2{{}}, is explained.
 
 <table class="sentence" border=0>
@@ -70,7 +71,7 @@ quality or property, @N2{{}}, is explained.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ha}}}} is used to indicate a contrast.
+<a name="contrast">@HI{{@EM{{ha}}}}</a> is used to indicate a contrast.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -82,6 +83,7 @@ quality or property, @N2{{}}, is explained.
   </td> </tr>
 </table>
 </p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -96,7 +98,7 @@ replacing them.
 
 <ol>
 <li> @UCREF{{MNN-TR-I}}. (Chapter 1).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 27).
+<li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @UCREF{{AAP}}. (p. 10).
 <li> @UCREF{{DOBJG}}. (p. 516).
 </ol>

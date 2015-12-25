@@ -21,18 +21,19 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
 @HI{{@EM{{dekiru}}}} can be the <a href="grammar-verb-formation-potential.html"> potential </a>
 form of the irregular verb @HI{{suru}}, in which case it means "able to do" or "can do".
-<p></p>
+</p>
 
+@BGRND{{}}
+<p>
 @HI{{@EM{{dekiru}}}} also means "to come into being", "to be completed", "to be made" or
 "to be finished".
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KJ{{time}}@KJ{{plot}}@HI{{no}}@KJ{{discipline}}@KJ{{logic}}@HI{{ha itsu @EM{{dekimasu}}ka.}}
@@ -41,14 +42,16 @@ form of the irregular verb @HI{{suru}}, in which case it means "able to do" or "
       When can you fix this watch?
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 27).
+<li> @REF{{MNN-TR-I}}. (Chapter 27).
 </ol>
 
 @include{{"grammar-footer.inc"}}

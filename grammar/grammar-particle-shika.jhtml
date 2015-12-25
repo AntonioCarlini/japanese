@@ -35,8 +35,6 @@ marked word is negated. It carries a negative nuance.
 After a noun, @HI{{@EM{{shika}}}} indicates that there is nothing more than the quantity specified with the
 suggestion that the quantity is small.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @KT{{ro-maji}}@KJ{{character}}@HI{{@EM{{shika}}}}@KJ{{write}}@HI{{masenn.}}
@@ -45,7 +43,9 @@ suggestion that the quantity is small.
       I cannot write anything except Roman letters.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ano@KJ{{store}}niha,kono@KJ{{miscellaneous^document}}@HI{{@EM{{shika}}}}arimasendeshita.}}
@@ -54,12 +54,11 @@ suggestion that the quantity is small.
       This was the only magazine at that store.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
 <p>
-After a verb, @HI{{@EM{{shika}}}}  indicates a limit to the action specified by the verb.
+After a verb, @HI{{@EM{{shika}}}} indicates a limit to the action specified by the verb.
 
 <ol>
 <li>
@@ -92,7 +91,7 @@ For all other particles, @HI{{@EM{{shika}}}} follows them rather than replacing 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 27).
+<li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @UCREF{{AAP}}. (p. 85).
 </ol>
 
