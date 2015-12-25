@@ -21,23 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
 @EM{{@Vte{{}}@HI{{shimau}}}} is used to emphasize that whatever is expressed by
 the verb has finished or is completed.
-<p></p>
 
-@EM{{@Vte{{}}@HI{{shimatta}}}} is also used to indicate that something that should not
-have been done was done or that something that should not have happened happened. It therefore
-implies regret.
-<p></p>
-
-Whether a particular sentence using @EM{{@Vte{{}}@HI{{shimatta}}}} is intended
-to indicate completion or regret can only be determined by context.
-<p></p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{sino-^character}}no@KJ{{inn^topic}}ha mou ya@EM{{tte shimaimashita}}.}}
@@ -46,7 +36,14 @@ to indicate completion or regret can only be determined by context.
       I have already done my kanji homework.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@Vte{{}}@HI{{shimatta}}}} is also used to indicate that something that should not
+have been done was done or that something that should not have happened happened. It therefore
+implies regret.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{pasupo-to}}wo nukaushi@EM{{te shimaimashita}}.}}
@@ -55,14 +52,22 @@ to indicate completion or regret can only be determined by context.
       I lost my passport.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+Whether a particular sentence using @EM{{@Vte{{}}@HI{{shimatta}}}} is intended
+to indicate completion or regret can only be determined by context.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 28).
+<li> @REF{{MNN-TR-II}}. (Chapter 29).
 <li> @UCREF{{DOBJG}}. (p. 403).
 </ol>
 @include{{"grammar-footer.inc"}}

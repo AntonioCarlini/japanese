@@ -37,6 +37,19 @@
 </table>
 </p>
 
+<p>
+A customary action in the past is described using @EM{{@Vte{{}}@HI{{imashita}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{child}}:ko}}domonotoki,@FG{{@KJ{{every^nightfall}}:maiban'}}8@KJ{{time}}ni@FG{{@KJ{{lie*down}}:ne}}@EM{{teimashita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a child, I used to go to bed at eight every evening.
+  </td> </tr>
+</table>
+</p>
+
 @BGRND{{}}
 <p>
 <a name="resulting-state">@EM{{@Vte{{}}@HI{{iru}}}}</a> is used to describe a state which is the result of the action expressed
@@ -46,8 +59,6 @@ verb expresses a momentary action, @EM{{@Vte{{}}@HI{{iru}}}} expresses the idea
 that the action happened and the resulting state continues. Verbs used in this construction
 are intransitive ones.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{window}}ga@KJ{{proportion}}re@EM{{teimasu}}.}}
@@ -56,7 +67,9 @@ are intransitive ones.
       The window is broken.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{electricity^spirit}}gatsui@EM{{teimasu}}.}}
@@ -65,7 +78,9 @@ are intransitive ones.
       The light is on.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha @KJ{{tie^marriage}}shiteimasu.}}
@@ -74,7 +89,6 @@ are intransitive ones.
       I'm married.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -160,8 +174,8 @@ third person and the sentence expresses a present state.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 14).
 <li> @REF{{MNN-TR-I}}. (Chapter 15).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 28).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 28).
+<li> @REF{{MNN-TR-II}}. (Chapter 28).
+<li> @UCREF{{MNN-TR-II}}. (Chapter 29).
 <li> @UCREF{{DOBJG}}. (p. 155).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>

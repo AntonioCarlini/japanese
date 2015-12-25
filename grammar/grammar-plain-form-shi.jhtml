@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{shi}}}},}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{shi}}}},}}
-<li> @FORMATION{{@Anastem{{}} @HI{{da}} @HI{{@EM{{shi}}}},}}
-<li> @FORMATION{{@N{{}} @HI{{da}} @HI{{@EM{{shi}}}},}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{shi}}}},}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{shi}}}},}}
+<li> @FORMATION{{@Anastem{{}}@HI{{da}} @HI{{@EM{{shi}}}},}}
+<li> @FORMATION{{@N{{}}@HI{{da}}@HI{{@EM{{shi}}}},}}
 </ol>
 
 <h2> Definition </h2>
@@ -76,7 +76,7 @@ explictly it is implied that other causes or reasons exist.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 28).
+<li> @REF{{MNN-TR-II}}. (Chapter 28).
 <li> @UCREF{{DOBJG}}. (p. 395).
 <li> @UCREF{{AAP}}. (p. 110).
 </ol>
