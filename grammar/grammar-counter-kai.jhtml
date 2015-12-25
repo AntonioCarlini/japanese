@@ -47,8 +47,8 @@ To ask "how many times?", use @HI{{nannkai}}.
 <h2> References </h2>
 
 <ol>
-<li> @FORMATION{{@REF{{MNN-TR-I}}. (Chapter 11).}}
-<li> @FORMATION{{@UCREF{{MNN-TR-I}}. (Appendix IV).}}
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
 @include{{"grammar-footer.inc"}}

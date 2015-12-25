@@ -15,7 +15,9 @@
 
 <h2> Formation </h2>
 
-@EM{{@HI{{mada}} V}}
+<ol>
+<li> @FORMATION{{@EM{{@HI{{mada}}@V{{}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
@@ -67,8 +69,8 @@ Iin other negative  sentences it can usually be translated as "still".
 <h2> References </h2>
 
 <ol>
-<li> @FORMATION{{@UCREF{{MNN-TR-II}}. (Chapter 30).}}
-<li> @FORMATION{{@UCREF{{DOBJG}}. (p. 224).}}
+<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @UCREF{{DOBJG}}. (p. 224).
 </ol>
 
 @include{{"grammar-footer.inc"}}
