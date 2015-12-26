@@ -33,7 +33,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ashitaha @KJ{{rain}}ga @KJ{{descend}}ru@EM{{deshou}}.}}
+      @HI{{ashitaha@KJ{{rain}}ga@KJ{{descend}}ru@EM{{deshou}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It is probably going to rain tomorrow.
@@ -48,7 +48,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{old*boy}}:@HI{{kimi}}}}mo@KJ{{going}}u@EM{{darou}}?}}
+      @HI{{@FG{{@KJ{{old*boy}}:kimi}}mo@KJ{{going}}u@EM{{darou}}?}}
   </td> </tr>
   <tr class="en"> <td>
       You will go too (am I right)?
@@ -92,7 +92,7 @@ This is similar to the sentence ending particle <a href="grammar-particle-ne.htm
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @UCREF{{DOBJG}}. (p. 100).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>

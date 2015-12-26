@@ -2,33 +2,36 @@
 <html>
 
 <head>
-<title>@HI{{hou ga ii}}</title>
+<title>@HI{{hougaii}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{hou ga ii}}" grammar="@HI{{hou ga ii}}"}}
+@GRMIDX{{index="@HI{{hougaii}}" grammar="@HI{{hougaii}}"}}
 
 <body>
 
-<h1>@HI{{hou ga ii}}</h1>
+<h1>@HI{{hougaii}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vta{{}} @HI{{@EM{{hou ga ii}}}}}}
-<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{hou ga ii}}}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{hougaii}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{hougaii}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{hou ga ii}}}} is used to make a suggestion or to give advice. This construction may come across
+@HI{{@EM{{hougaii}}}} is used to make a suggestion or to give advice. This construction may come across
 as though the speaker is imposing his opinion on the listener, and so it should be used with care.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{every^day carry^move}}shita @EM{{hou ga ii}}desu.}}
+      @HI{{@KJ{{every^day carry^move}}shita@EM{{hougaii}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       It is good to exercise every day.
@@ -36,15 +39,16 @@ as though the speaker is imposing his opinion on the listener, and so it should 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-When @HI{{@EM{{hou ga ii}}}} is preceded by a verb in the plain negative it means "had better not do".
+When @HI{{@EM{{hougaii}}}} is preceded by a verb in the plain negative it means "had better not do".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      A: @HI{{@KJ{{heat}}ga arundesu.}}
+      A: @HI{{@KJ{{heat}}gaarundesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{jaa, ofuroni @KJ{{enter}}ranai @EM{{hou ga ii}}desu.}}
+      B: @HI{{jaa,ofuroni@KJ{{enter}}ranai@EM{{hougaii}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I have a fever.
@@ -55,22 +59,24 @@ When @HI{{@EM{{hou ga ii}}}} is preceded by a verb in the plain negative it mean
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{hou ga ii}}}} implies a choice between two alternatives, even if one is only implied. If a simple
-suggestion is being made then @HI{{tara ii}} should be used instead.
+@HI{{@EM{{hougaii}}}} implies a choice between two alternatives, even if one is only implied. If a simple
+suggestion is being made then @HI{{taraii}} should be used instead.
 </p>
 
 <p>
-It is possible to use @Vru{{}} @HI{{@EM{{hou ga ii}}}}, in which case the suggestion is slightly less strong.
+It is possible to use @Vru{{}}@HI{{@EM{{hougaii}}}}, in which case the suggestion is slightly less strong.
 However, it is not possible to use the negative past form instead of @Vnai{{}}.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @UCREF{{DOBJG}}. (p. 138).
 </ol>
 

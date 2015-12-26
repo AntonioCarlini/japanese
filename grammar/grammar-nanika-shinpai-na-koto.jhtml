@@ -2,12 +2,12 @@
 <html>
 
 <head>
-<title>@HI{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}}</title>
+<title>@HI{{@KJ{{what}}ka@KJ{{heart^distribute}}nakoto}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{nanikashinpainakoto}}" grammar="@HI{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}}"}}
+@GRMIDX{{index="@HI{{nanikashinpainakoto}}" grammar="@HI{{@KJ{{what}}ka@KJ{{heart^distribute}}nakoto}}"}}
 
 <body>
 
@@ -16,34 +16,48 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@KJ{{what}}ka@KJ{{heart^distribute}}nakoto}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{@KJ{{what}}ka @KJ{{heart^distribute}}na koto}}}} should be used rather than @HI{{shinpai na nanika}}.
+@HI{{@EM{{@KJ{{what}}ka@KJ{{heart^distribute}}nakoto}}}} should be used rather than @HI{{shinpainananika}}.
 
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{suki-}}ni @KJ{{going}}kitaindesuga, dokoka ii@KJ{{place}} arimasenka.}}
+      @HI{{@EM{{@KJ{{what}}ka@KJ{{heart^distribute}}nakoto}}gaarundesuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is anything bothering you?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Similar constructions exist for @HI{{nanika}}~@HI{{mono}}, @HI{{dokoka}}~@HI{{tokoro}}, @HI{{darega}}~@HI{{hito}},
+@HI{{itsuka}}~@HI{{toki}} and so on.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{suki-}}ni@KJ{{going}}kitaindesuga,dokokaii@KJ{{place}}arimasenka.}}
   </td> </tr>
   <tr class="en"> <td>
       I want to go skiing. Could you recommend a good ski resort?
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
 </ol>
 
 @include{{"grammar-footer.inc"}}

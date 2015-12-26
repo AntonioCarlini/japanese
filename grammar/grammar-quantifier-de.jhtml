@@ -2,21 +2,21 @@
 <html>
 
 <head>
-<title><em>quantifier</em> @HI{{de}}</title>
+<title>@QNTF{{}} @HI{{de}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="<em>quantifier</em> @HI{{de}}" grammar="<em>quantifier</em> @HI{{de}}"}}
+@GRMIDX{{index="<em>quantifier</em> @HI{{de}}" grammar="@QNTF{{}} @HI{{de}}"}}
 
 <body>
 
-<h1><em>quantifier</em> @HI{{de}}</h1>
+<h1>@QNTF{{}} @HI{{de}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@EM{{<em>quantifier</em> @HI{{de}}}}}}
+<li> @FORMATION{{@EM{{@QNTF{{}} @HI{{de}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -24,26 +24,21 @@
 <p>
 When it follows a quantifier, the particle @HI{{de}} indicates the limit of the item necessary for an event of action
 to be realised.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{station}}made 30@KJ{{part}}@EM{{de}} @KJ{{going}}kemashitaka.}}
+      @HI{{@KJ{{station}}made30@KJ{{part}}@EM{{de}}@KJ{{going}}kemashitaka.}}
   </td> </tr>
   <tr class="en"> <td>
       Can I reach the station in 30 minutes.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
 </ol>
 
 @include{{"grammar-footer.inc"}}

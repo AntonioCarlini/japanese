@@ -29,24 +29,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kitto}}}} indicates a high degree of certainty. It can be used with @HI{{deshou}}.
-</p>
 
-<p>
-@HI{{@EM{{tabunn}}}} implies less certainty than when @HI{{@EM{{kitto}}}} is used. It is most often
-used with @HI{{deshou}}.
-</p>
-
-<p>
-@HI{{@EM{{moshikashitara}}}} is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
-this one involves the least amount of certainty.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KT{{mira-}}sanha @EM{{kitto}} @KJ{{come}}masu.}}
@@ -55,33 +43,46 @@ this one involves the least amount of certainty.
       Mr. Miller will surely come.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tabunn}}}} implies less certainty than when @HI{{@EM{{kitto}}}} is used. It is most often
+used with @HI{{deshou}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{mountain^rice*field}}sanha kono@KT{{nyu-su}}wo @EM{{tabunn}} @KJ{{know}}ranai
-      to @KJ{{think}}imasu.}}
+      @HI{{@KJ{{mountain^rice*field}}sanhakono@KT{{nyu-su}}wo@EM{{tabunn}}@KJ{{know}}ranaito@KJ{{think}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I guess Mr. Yamada does not know this news.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{moshikashitara}}}} is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
+this one involves the least amount of certainty.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@EM{{moshikashitara}} 3@KJ{{month}}ni @KJ{{graduate^profession}}dekinai kamo shiremasenn.}}
+      @HI{{@EM{{moshikashitara}}3@KJ{{month}}ni@KJ{{graduate^profession}}dekinaikamoshiremasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       There is a chance I might be unable to graduate in March.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 32).
+<li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @UCREF{{DOBJG}}. (p 100).
 </ol>
 
