@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@HI{{you to @KJ{{think}}u}}</title>
+<title>@HI{{youto@KJ{{think}}u}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -11,71 +11,79 @@
 
 <body>
 
-<h1>@HI{{you to @KJ{{think}}u}}</h1>
+<h1>@HI{{@Vyou{{}}to@KJ{{think}}u}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vyou{{}}@HI{{to @KJ{{think}}u}}}}
-<li> @FORMATION{{@Vyou{{}}@HI{{to @KJ{{think}}tteiru}}}}
-<li> @FORMATION{{@Vru{{}}@HI{{mai to @KJ{{think}}u}}}}
+<li> @FORMATION{{@Vyou{{}}@HI{{to@KJ{{think}}u}}}}
+<li> @FORMATION{{@Vyou{{}}@HI{{to@KJ{{think}}tteiru}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{maito@KJ{{think}}u}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 A sentence ending in the plain volitional followed by @HI{{to @KJ{{think}}u}} indicates something that the speaker wishes to do.
-@HI{{to @KJ{{think}}tteiru}} expresses a similar meaning except it implies that the decision was made some time ago.
-</p>
 
-<p>
-The negative form is @Vru{{}}@HI{{mai to @KJ{{think}}u}}.
-</p>
-
-<p>
-The verb before @HI{{to@KJ{{think}}u}} must be something controllable by human volition.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{summer^rest}}mini @KJ{{day^book}}@KT{{arupusu}}ni@KJ{{ascend}}rou to@KJ{{think}}imasu.}}
+      @HI{{@KJ{{summer^rest}}mini@KJ{{day^book}}@KT{{arupusu}}ni@KJ{{ascend}}routo@KJ{{think}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I think I will climb the Japanese Alps during the summer holiday.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{to @KJ{{think}}tteiru}} expresses a similar meaning except it implies that the decision was made some time ago.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{week^end}}ha @KJ{{sea}}ni @KJ{{going}}kou to @KJ{{think}}tte imasu.}}
+      @HI{{@KJ{{week^end}}ha@KJ{{sea}}ni@KJ{{going}}kouto@KJ{{think}}tteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm thinking of going to the beach at the weekend.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The negative form is @Vru{{}}@HI{{mai to @KJ{{think}}u}}.
+</p>
+
+@BGRND{{}}
+<p>
+The verb before @HI{{to@KJ{{think}}u}} must be something controllable by human volition.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{now}}kara @KJ{{silver^going}}he @KJ{{going}}kou to @KJ{{think}}imasu.}}
+      @HI{{@KJ{{now}}kara@KJ{{silver^going}}he@KJ{{going}}kouto@KJ{{think}}imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm going to the bank.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{me}}ha ano@KJ{{person}}to ha mou @KJ{{tale}}sumai to@KJ{{think}}u.}}
+      @HI{{@KJ{{me}}ha ano@KJ{{person}}tohamou@KJ{{tale}}sumaiato@KJ{{think}}u.}}
   </td> </tr>
   <tr class="en"> <td>
       I think I won't talk to that person any more.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -88,7 +96,7 @@ Under these circumstances use @HI{{@KJ{{think}}tte iru}} to indicate that the su
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 31).
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @UCREF{{DOBJG}}. (p. 569).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>

@@ -15,34 +15,33 @@
 
 <h2> Formation </h2>
 
-@HI{{@EM{{mada @Vte{{}}inai}}}}
+<ol>
+<li> @FORMATION{{@HI{{@EM{{mada@Vte{{}}inai}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
+<p>
 This sentence pattern indicates that something has not happened or has not yet been done.
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{silver^going}}ha @EM{{mada @KJ{{open}}ite imasenn}}.}}
+      @HI{{@KJ{{silver^going}}ha@EM{{mada@KJ{{open}}iteimasenn}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The bank is not yet open.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 31).
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
 </ol>
+
 @include{{"grammar-footer.inc"}}
 
 </body>

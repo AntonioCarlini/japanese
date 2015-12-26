@@ -15,56 +15,66 @@
 
 <h2> Formation </h2>
 
-@EM{{@Vte{{}}@HI{{oku}}}}
+<ol>
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{oku}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
-@EM{{@Vte{{}}@HI{{oku}}}} is used to describe the completion of a necessary action by
-a given time, the completion of a necessary action in preparation for the next step or keeping
-the resultant state as it is.
-<p></p>
+@BGRNDSTART{{}}
 
-<h2> Examples </h2>
+@BGRND{{}}
+<p>
+@EM{{@Vte{{}}@HI{{oku}}}} is used to describe the completion of a necessary action by a given time.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @KJ{{trip}}@KJ{{going}}@HI{{no maeni}} @KJ{{cut}}@KJ{{token}}@HI{{wo}} @KJ{{buy}}
-      @HI{{@EM{{tte okimasu.}}}}
+      @KJ{{trip}}@KJ{{going}}@HI{{no maeni}}@KJ{{cut}}@KJ{{token}}@HI{{wo}}@KJ{{buy}}@HI{{@EM{{tteokimasu.}}}}
   </td> </tr>
   <tr class="en"> <td>
     I'll buy a ticket before the trip.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@Vte{{}}@HI{{oku}}}} is used to describe the completion of a necessary action in preparation for the next step.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{hasamiwo}}@KJ{{use}}@HI{{ttara,}}@KJ{{beginning}}@HI{{no}}@KJ{{place}}@HI{{ni}}@KJ{{re-}}
-      @HI{{shi@EM{{te oite}} kudasai.}}
+      @HI{{shi@EM{{teoite}}kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       When you have finished using the scissors, please put them back where they were.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@Vte{{}}@HI{{oku}}}} is used to describe keeping the resultant state as it is.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{ashita}}@KJ{{meeting}}@KJ{{deliberation}}
-      @HI{{ga arimasukara, isuha kono mamani shi@EM{{te oite}} kudasai.}}
+      @HI{{ga arimasukara,isuhakonomamanishi@EM{{teoite}}kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please leave the chairs as they are because a meeting will be held here tomorrow.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @REF{{MNN-TR-II}}. (Chapter 30).
 <li> @UCREF{{DOBJG}}. (p. 357).
 </ol>
 @include{{"grammar-footer.inc"}}

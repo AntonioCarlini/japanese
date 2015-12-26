@@ -21,10 +21,14 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern indicates that something continues to be in the state that it was some time ago.
 </p>
 
+@BGRND{{}}
 <p>
 It affirmative sentences it can usually be translated as "still".
 
@@ -38,6 +42,7 @@ It affirmative sentences it can usually be translated as "still".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 It negative  sentences it can usually be translated as "yet" if the action has not been taken.
 
@@ -51,12 +56,13 @@ It negative  sentences it can usually be translated as "yet" if the action has n
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-Iin other negative  sentences it can usually be translated as "still".
+Iin other negative  sentences it can often be translated as "still".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @KJ{{plump}}@KJ{{rice*field}}@HI{{sanha @EM{{mada}} sono kotowo}}@KJ{{know}}@HI{{rimasenn.}}
+      @KJ{{plump}}@KJ{{rice*field}}@HI{{sanha@EM{{mada}}sonokotowo}}@KJ{{know}}@HI{{rimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Ota still doesn't know about it.
@@ -64,12 +70,14 @@ Iin other negative  sentences it can usually be translated as "still".
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @REF{{MNN-TR-II}}. (Chapter 30).
 <li> @UCREF{{DOBJG}}. (p. 224).
 </ol>
 

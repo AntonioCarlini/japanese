@@ -168,7 +168,6 @@ demonstratives and function as pronouns.
       Is that a dictionary?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <p>
@@ -227,27 +226,11 @@ pre-noun adjectivals and serve to modify a noun. @HI{{@EM{{dono}}}} is used with
 </table>
 </p>
 
-<p>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{ashitaga ichiban@KJ{{longing}}shii @KJ{{thing}}ha [dokodemo @KT{{doa}}]desu.
-      @EM{{kono}}@KT{{doa}}wo @KJ{{open}}keruto,dokodemo @KJ{{going}}kitai 
-      @KJ{{place}}he @KJ{{going}}kemasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      What I want most is a "magic door". When you open this door, you can go anywhere you want.
-  </td> </tr>
-</table>
-</ol>
-</p>
-
 @BGRND{{}}
 <p>
 <a name="donna">@HI{{@EM{{donnna}}}}</a> is used with a following noun to mean "what kind of". 
 It can also be used to ask the listener to name one of a group which the following noun describes describes.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @KJ{{nara}}@KJ{{good}}@HI{{ha @EM{{donnna}}}}@KJ{{village}}@HI{{desuka.}}
@@ -256,7 +239,9 @@ It can also be used to ask the listener to name one of a group which the followi
       What kind of town is Nara?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{@EM{{donna}}@KT{{supotsu}}gasukidesuka.}}
@@ -271,7 +256,6 @@ It can also be used to ask the listener to name one of a group which the followi
       B: I like football.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -370,13 +354,28 @@ They refer to something known only to the speaker or only to the listener.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
+<p>
 <a name="ko-vs-so"></a>
 In writing a word from the @HI{{ko}}-series may be used rather than one from the @HI{{so}}-series to
 refer to something previously mentioned. In this case the author is describing something
 as though it really existed then and there.
-<p></p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ashitagaichiban@KJ{{longing}}shii@KJ{{thing}}ha[dokodemo @KT{{doa}}]desu.
+      @EM{{kono}}@KT{{doa}}wo@KJ{{open}}keruto,dokodemo@KJ{{going}}kitai 
+      @KJ{{place}}he@KJ{{going}}kemasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What I want most is a "magic door". When you open this door, you can go anywhere you want.
+  </td> </tr>
+</table>
+</p>
 
 <h2> References </h2>
 
@@ -386,7 +385,7 @@ as though it really existed then and there.
 <li> @REF{{MNN-TR-I}}. (Chapter 8).
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-TR-I}}. (Chapter 16).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 31).
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>

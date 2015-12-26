@@ -35,7 +35,7 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{country}}he @KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo @KJ{{continue}}keru @EM{{tsumori}}desu.}}
+      @HI{{@KJ{{country}}he@KJ{{homecoming}}ttemo,@KJ{{tender^road-way}}wo@KJ{{continue}}keru@EM{{tsumori}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Even when I go back to my country, I'll continue my judo.
@@ -49,7 +49,7 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ashita karaha tabakowo @KJ{{suck}}wanai @EM{{tsumori}}desu.}}
+      @HI{{ashitakarahatabakowo@KJ{{suck}}wanai@EM{{tsumori}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I'm determined not to smoke from tomorrow.
@@ -86,7 +86,7 @@ This form may also be used with a negative verb to indicate that one had intende
 
 @BGRND{{}}
 <p>
-<a name="thinks-but-unknown-past">@Vta{{}}@HI{{@EM{{tsumori}}}}</a> inicates that the agent thinks that something is the case but in reality it may not be
+<a name="thinks-but-unknown-past">@Vta{{}}@HI{{@EM{{tsumori}}}}</a> indicates that the agent thinks that something is the case but in reality it may not be
 the case at all or it may be unknown whether it is the case or not.
 
 <table class="sentence">
@@ -118,13 +118,13 @@ the case at all or it may be unknown whether it is the case or not.
 <h2> Notes </h2>
 
 <p>
-Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{@EM{{tsumori}}desu.}} sounds more determined.
+Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{@EM{{tsumori}}desu}} sounds more determined.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 31).
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @UCREF{{JPOD101-LI-S1-002}}.
 <li> @UCREF{{NKZM-N3G}}. (p. 51).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).

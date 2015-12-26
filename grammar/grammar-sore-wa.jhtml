@@ -23,19 +23,14 @@
 
 <p>
 @HI{{@EM{{soreha}}}} is used to refer to something that has just been stated.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       A: @KJ{{come}}@KJ{{month}}@HI{{kara}}@KJ{{large}}@KJ{{heights}}@HI{{no}}
       @KJ{{book}}@KJ{{company}}@HI{{ni}}@KJ{{revolve}}@KJ{{diligence}}@HI{{nandesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{@EM{{soreha}} omedetou gozaimasu.}}
+      B: @HI{{@EM{{soreha}}omedetougozaimasu.}}
   </td> </tr>
   <tr class="en"> <td> 
       A: I will be transferred to the Osaka head office next month.
@@ -44,14 +39,14 @@
       B: Congratulations!
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 30).
+<li> @REF{{MNN-TR-II}}. (Chapter 30).
 </ol>
 
 @include{{"grammar-footer.inc"}}

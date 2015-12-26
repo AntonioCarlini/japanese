@@ -16,19 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}}@HI{{ @EM{{@KJ{{beforehand^determine}}}}desu}}}}
-<li> @FORMATION{{@N{{}}@HI{{no @EM{{@KJ{{beforehand^determine}}}}desu}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{@KJ{{beforehand^determine}}}}desu}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{@KJ{{beforehand^determine}}}}desu}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
 This sentence pattern is used to pass on information about schedules.
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{7@KJ{{month}}no @KJ{{end}}warini @KT{{doitsu}}he @KJ{{exit^lengthen}}suru
@@ -38,7 +37,9 @@ This sentence pattern is used to pass on information about schedules.
       I'm scheduled to go on a business trip to Germany at the end of July.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{trip^going}}ha 1@KJ{{week^interval}}guraino
@@ -48,14 +49,16 @@ This sentence pattern is used to pass on information about schedules.
       The trip is scheduled to last a week.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 31).
+<li> @REF{{MNN-TR-II}}. (Chapter 31).
 </ol>
 
 @include{{"grammar-footer.inc"}}
