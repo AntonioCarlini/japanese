@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@HI{{toori ni}}</title>
+<title>@HI{{toorini}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -12,7 +12,7 @@
 
 <body>
 
-<h1>@HI{{toori ni}}</h1>
+<h1>@HI{{toorini}}</h1>
 
 <h2> Formation </h2>
 
@@ -38,7 +38,7 @@ The dictionary form is used before @HI{{@EM{{toorini}}}} when the action is goin
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}gayaru@EM{{toori ni}},yattekudasai.}}
+      @HI{{@KJ{{private}}gayaru@EM{{toorini}},yattekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please do as I do.
@@ -52,7 +52,7 @@ The @Vta{{}}-form is used before @HI{{@EM{{toorini}}}} when the action has alrea
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{see}}ta@EM{{toori ni}},@KJ{{tale}}shitekudasai.}}
+      @HI{{@KJ{{see}}ta@EM{{toorini}},@KJ{{tale}}shitekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please tell us what you saw as it was.
@@ -123,7 +123,7 @@ If @HI{{@EM{{toori}}}} is followed by the object marker @HI{{wo}}, then it is eq
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 34).
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
 <li> @UCREF{{DOIJG}}. (p. 514).
 <li> @UCREF{{NKZM-N3G}}. (p. 18).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).

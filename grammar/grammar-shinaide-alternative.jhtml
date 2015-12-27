@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@EM{{@Vnai{{}} @HI{{de}}}} @V2{{}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{de}}}}@V2{{}}}}
 </ol>
 </dl>
 
@@ -25,28 +25,23 @@
 <p>
 @EM{{@Vnai{{}} @HI{{de}}}} can be used to indicate which action is chosen among two
 possible alternatives.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^weekday^day}}ha dokomo @EM{{@KJ{{going}}kenaide}}, uchide yukkuri @KJ{{rest}}mimasu.}}
+      @HI{{@KJ{{day^weekday^day}}hadokomo@EM{{@KJ{{going}}kenaide}},uchideyukkuri@KJ{{rest}}mimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Next Sunday I won't go anywhere. I will rest at home instead.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 34).
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
 </ol>
 
 @include{{"grammar-footer.inc"}}

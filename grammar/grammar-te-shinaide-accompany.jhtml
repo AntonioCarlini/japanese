@@ -17,48 +17,52 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@EM{{@Vte{{}}}} @V2{{}}}}
-<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{de}}}} @V2{{}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}}}@V2{{}}}}
+<li> @FORMATION{{@EM{{@Vnai{{}}@HI{{de}}}}@V2{{}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}}} can be used to indicate something that accompanies another action.
-Similarly, @EM{{@Vnai{{}} @HI{{de}}}} can be used to indicate that something does not
-accompany another action.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{shouyuuwo @EM{{tsukete}} @KJ{{eat}}bemasu.}}
+      @HI{{shouyuuwo@EM{{tsukete}}@KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We eat it with soy sauce.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+Similarly, @EM{{@Vnai{{}}@HI{{de}}}} can be used to indicate that something does not
+accompany another action.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{shouyuuwo @EM{{tsukenaide}} @KJ{{eat}}bemasu.}}
+      @HI{{shouyuuwo@EM{{tsukenaide}}@KJ{{eat}}bemasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We eat it without soy sauce.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 34).
+<li> @REF{{MNN-TR-II}}. (Chapter 34).
 </ol>
 
 @include{{"grammar-footer.inc"}}
