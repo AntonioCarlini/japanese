@@ -2,50 +2,44 @@
 <html>
 
 <head>
-<title>@HI{{to @KJ{{transmit}}ete itadakemasenka}}</title>
+<title>@HI{{to@KJ{{transmit}}eteitadakemasenka}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{totsutaeteitadakemasenka}}" grammar="@HI{{to @KJ{{transmit}}ete itadakemasenka}}"}}
+@GRMIDX{{index="@HI{{totsutaeteitadakemasenka}}" grammar="@HI{{to@KJ{{transmit}}eteitadakemasenka}}"}}
 
 <body>
 
-<h1>@HI{{to @KJ{{transmit}}ete itadakemasenka}}</h1>
+<h1>@HI{{to@KJ{{transmit}}eteitadakemasenka}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Splain{{}} @HI{{@EM{{to @KJ{{transmit}}ete itadakemasenka}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{to@KJ{{transmit}}eteitadakemasenka}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 This pattern is used to politely request that someone convey a message.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{wann}}sannni [atode @KJ{{electricity^tale}}wo kudasai]
-      @EM{{to @KJ{{transmit}}ete itadakemasenka}}.}}
+      @HI{{@KT{{wann}}sannni[atode@KJ{{electricity^tale}}wokudasai]@EM{{to@KJ{{transmit}}eteitadakemasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Could you please tell Mr. Wang to give me a call later?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 33).
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
 </ol>
 
 @include{{"grammar-footer.inc"}}

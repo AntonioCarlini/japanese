@@ -16,39 +16,49 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{X@HI{{ha to iu @KJ{{idea^flavor}}desu}}}}
+<li> @FORMATION{{X@HI{{hatoiu@KJ{{idea^flavor}}desu}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This pattern is used to state the meaning of the word or phrase represented by "X".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{stand*up^enter^prohibition^stop}}ha @KJ{{enter}}runa to iu @KJ{{idea^flavor}}desu.}}
+      @HI{{@KJ{{stand*up^enter^prohibition^stop}}ha @KJ{{enter}}runatoiu@KJ{{idea^flavor}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       "Tachiri-Kinshi" means don't enter.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+When coupled with @HI{{douiu}} the expression asks for the meaning of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{ma-ku}}ha@EM{{douiu@KJ{{idea^flavor}}}}desuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      What does this sign mean?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
-
-<p>
-Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}} @HI{{to iu @KJ{{idea^flavor}}desu}} sounds more determined.
-</p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 33).
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
 </ol>
 
 @include{{"grammar-footer.inc"}}

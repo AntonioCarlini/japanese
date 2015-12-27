@@ -16,18 +16,21 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{person}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(intransitive)}}
-<li> @FORMATION{{@N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(transitive)}}
+<li> @FORMATION{{@Vru{{}}@HI{{na}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The imperative is used to command a person to do something and the prohibitive form is used to order
 a person not to do something. Both forms have strong coercive overtones and as such their use is
 limited.
 </p>
 
+@BGRND{{}}
 <p>
 These forms can be used by a father to his children or by a senior man may to his juniors. 
 
@@ -41,6 +44,7 @@ These forms can be used by a father to his children or by a senior man may to hi
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Males who are friends may use the imperative or prohibitive between themselves, in which case the sentence
 ending particle @HI{{yo}} is often used to soften the utterance.
@@ -55,6 +59,7 @@ ending particle @HI{{yo}} is often used to soften the utterance.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Both forms may be used in situations when there is not enough time to be polite (for example, an emergency).
 
@@ -68,6 +73,7 @@ Both forms may be used in situations when there is not enough time to be polite 
 </table>
 <p>
 
+@BGRND{{}}
 <p>
 When a command is required during training of many people, both the imperative and the prohibitive may be used.
 
@@ -81,6 +87,7 @@ When a command is required during training of many people, both the imperative a
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Both forms may be heard in cheering at sports events. In this case, women may also use these forms.
 
@@ -94,6 +101,7 @@ Both forms may be heard in cheering at sports events. In this case, women may al
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 These forms are used when a strong impact or brevity is required, such as in traffic signs.
 
@@ -107,6 +115,7 @@ These forms are used when a strong impact or brevity is required, such as in tra
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 These forms can be used when giving instructions indirectly.
 
@@ -120,10 +129,12 @@ These forms can be used when giving instructions indirectly.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-Women do not usually use the imperative, instead they usually use @Vmasu{{}}@HI{{nasai}} when a male would
+Women do not usually use the imperative, instead they usually use <a href="grammar-nasai.html">@Vmasustem{{}}@HI{{nasai}}</a> when a male would
 employ the imperative.
 </p>
 
@@ -131,7 +142,7 @@ employ the imperative.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 33).
+<li> @REF{{MNN-TR-II}}. (Chapter 33).
 <li> @UCREF{{NKZM-N3G}}. (p. 46).
 <li> @UCREF{{DOBJG}}. (p. 266).
 <li> @UCREF{{DOIJG}}. (p. 70).
