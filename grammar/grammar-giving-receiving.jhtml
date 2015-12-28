@@ -24,17 +24,17 @@
 
 <dl>
 <dt>(A) A person the speaker considers to be @KT{{soto}} is given something:
-<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{sashiageru}}}} <em>&starf;</em>
-<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{ageru}}}}
-<li><em>giver</em> @HI{{ha}} <em>receiver</em>               @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{yaru}}}}
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{sashiageru}}}} <em>&starf;</em>
+<li><em>giver</em> @HI{{ha}} <em>receiver (@KT{{soto}})</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{ageru}}}}
+<li><em>giver</em> @HI{{ha}} <em>receiver</em>               @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{yaru}}}}
 <p></p>
 <dt>(B) The speaker or a person the speaker considers to be @KT{{uchi}} receives something:
-<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{itadaku}}}} <em>&#x203B;</em>
-<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{morau}}}}
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{itadaku}}}} <em>&#x203B;</em>
+<li><em>receiver (@KT{{uchi}}) </em> @HI{{ha}} <em>giver</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{morau}}}}
 <p></p>
 <dt>(C) A person the speaker considers to be @KT{{uchi}} is given something:
-<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{kudasaru}}}} <em>&#x203B;</em>
-<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}} @N1{{}} @HI{{wo}} @HI{{@EM{{kureru}}}}
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{kudasaru}}}} <em>&#x203B;</em>
+<li><em>giver (@KT{{uchi}})</em> @HI{{ha}} <em>receiver</em> @HI{{ni}}@N1{{}}@HI{{wo}}@HI{{@EM{{kureru}}}}
 
 <p>
 &starf; @HI{{sashiageru}} is the humble form of @HI{{ageru}} and is used when showing respect to the receiver.
@@ -98,7 +98,7 @@ be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{tree^town}}sannha @KJ{{mountain^rice*field}}ni @KJ{{flower}}wo moraimashita.}}
+      @HI{{@KJ{{tree^town}}sannha@KJ{{mountain^rice*field}}ni@KJ{{flower}}womoraimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Ms. Kimura received flowers from Mr. Yamada.
@@ -112,7 +112,7 @@ be @KT{{soto}}. The receiver is the subject and the giver is marked with @HI{{ni
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{section^long}}ni o@KJ{{soil^products}}wo itadakimashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{section^long}}nio@KJ{{soil^products}}woitadakimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I received a souvenir from the general manager.
@@ -127,7 +127,7 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{assistant^wisteria}}sannha @KJ{{younger*sister}}ni o@KJ{{confectionary^child}} kuremashita.}}
+      @HI{{@KJ{{assistant^wisteria}}sannha@KJ{{younger*sister}}nio@KJ{{confectionary^child}}kuremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       Ms. Sato gave sweets to my younger sister.
@@ -141,7 +141,7 @@ The giver is the subject and the receiver is marked by @HI{{ni}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ga @KJ{{private}}ni o@KJ{{soil^products}}wo kudasaimashita.}}
+      @HI{{@KJ{{section^long}}ga@KJ{{private}}nio@KJ{{soil^products}}wokudasaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The general manager gave me a souvenir.
@@ -176,7 +176,7 @@ must be used.
 <li> @UCREF{{MNN-TR-I}}. (Chapter 6).
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
 <li> @REF{{MNN-TR-I}}. (Chapter 24).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
 <li> @UCREF{{DOBJG}}. (p. 63).
 <li> @UCREF{{DOBJG}}. (p. 261).
 <li> @UCREF{{DOBJG}}. (p. 213).

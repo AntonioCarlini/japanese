@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@Vte{{}} @HI{{kudasaimasenka}}</title>
+<title>@Vte{{}}@HI{{kudasaimasenka}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -11,39 +11,34 @@
 
 <body>
 
-<h1>@Vte{{}} @HI{{kudasaimasenka}}</h1>
+<h1>@Vte{{}}@HI{{kudasaimasenka}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@EM{{@Vte{{}} @HI{{kudasaimasenka}}}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{kudasaimasenka}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
-@EM{{@Vte{{}} @HI{{kudasaimasenka}}}} is a polite expression of request, although it is less
-polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}} @HI{{itadakemasenka}}</a>.
-</p>
+@EM{{@Vte{{}}@HI{{kudasaimasenka}}}} is a polite expression of request, although it is less
+polite than <a href="grammar-te-itadakemasenka.html">@Vte{{}}@HI{{itadakemasenka}}</a>.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{kopi-}}@KJ{{mechanism}}no @KJ{{use}}i@KJ{{direction}}wo @KJ{{teach}}e@EM{{te kudasaimasenka}}.}}
+      @HI{{@KT{{kopi-}}@KJ{{mechanism}}no@KJ{{use}}i@KJ{{direction}}wo@KJ{{teach}}e@EM{{tekudasaimasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Will you kindly teach me how to use the photocopier?
   </td> </tr>
 </table>      
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
 </ol>
 
 @include{{"grammar-footer.inc"}}

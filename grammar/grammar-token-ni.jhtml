@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @EM{{@HI{{ni}} V}}}}
+<li> @FORMATION{{@N{{}}@EM{{@HI{{ni}}V}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,8 +31,7 @@ In the above sentence pattern, @HI{{@EM{{ni}}}} means "in memory of" or "as a to
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{north^sea^road-way}}no o@KJ{{soil^products}}@EM{{ni}}
-      @KJ{{person^shape}}wo @KJ{{buy}}imashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{north^sea^road-way}}noo@KJ{{soil^products}}@EM{{ni}}@KJ{{person^shape}}wo@KJ{{buy}}imashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I bought a doll as a souvenir of the trip to Hokkaido.
@@ -43,7 +42,7 @@ In the above sentence pattern, @HI{{@EM{{ni}}}} means "in memory of" or "as a to
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
 </ol>
 
 @include{{"grammar-footer.inc"}}

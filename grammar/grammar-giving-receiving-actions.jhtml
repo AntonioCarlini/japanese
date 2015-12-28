@@ -23,12 +23,12 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vte{{}} @HI{{ageru}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{morau}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{kureru}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{yaru}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{itadaku}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{kudasaru}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{ageru}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{morau}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{kureru}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{yaru}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{itadaku}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{kudasaru}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -61,7 +61,7 @@ The expression conveys a sense of gratitude on the part of the receiver.
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{mountain^rice*field}}san'ni@KJ{{map^write^Bldg.}}no
-      @KJ{{electricity^tale^turn^nickname}}wo @KJ{{teach}}e@EM{{temoraimashita}}.}}
+      @KJ{{electricity^tale^turn^nickname}}wo@KJ{{teach}}e@EM{{temoraimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Yamada told me the telephone number of the library.
@@ -177,7 +177,7 @@ In the case of @Vte{{}}@HI{{ageru}}, if the person receiving the benefit is the 
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 24).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 41).
+<li> @REF{{MNN-TR-II}}. (Chapter 41).
 <li> @UCREF{{DOBJG}}. (p. 65).
 <li> @UCREF{{DOBJG}}. (p. 216).
 <li> @UCREF{{DOBJG}}. (p. 263).
