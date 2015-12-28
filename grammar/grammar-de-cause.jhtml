@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{de}}}} ...}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{de}}}} ...}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,16 +27,7 @@ The particle @HI{{@EM{{de}}}} can indicate a weak causal releationship.
 
 <p>
 The nouns used are those which indicate natural phenomena, happenings and events.
-</p>
 
-<p>
-The predicate cannot include volition.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{ground^quake}}@EM{{de}} @KT{{biru}}ga @KJ{{overthrow}}remashita.}}
@@ -45,14 +36,18 @@ The predicate cannot include volition.
       Because of the earthquake, a building collapsed.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+The predicate cannot include volition.
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 39).
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
 <li> @UCREF{{DOBJG}}. (p 107).
 </ol>
 

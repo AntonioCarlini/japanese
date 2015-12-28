@@ -16,20 +16,15 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @EM{{@KJ{{route^in}}@HI{{de}}}}}}
-<li> @FORMATION{{@N{{}} @EM{{@KJ{{route^in}}@HI{{de}}}}}}
+<li> @FORMATION{{@Vru{{}}@EM{{@KJ{{route^in}}@HI{{de}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@EM{{@KJ{{route^in}}@HI{{de}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @EM{{@KJ{{route^in}}@HI{{de}}}} means "en route" or "during".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{reality}}ha @KJ{{come}}ru @EM{{@KJ{{route^in}}@HI{{de}}}} @KJ{{matter^happenstance}}ga
@@ -39,7 +34,9 @@
       Actually on my way here there was an accident and the bus was delayed.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{marasonn}}no @EM{{@KJ{{route^in}}@HI{{de}}}} @KJ{{spirit^part}}ga
@@ -49,14 +46,14 @@
       I got sick during the marathon.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 39).
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
 </ol>
 
 @include{{"grammar-footer.inc"}}

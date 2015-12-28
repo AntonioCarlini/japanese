@@ -24,67 +24,73 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The subordinate clause presents a cause and the main clause states the consequence produced by that cause. Note that
 this pattern, unlike @HI{{kara}} has many restrictions on its usage.
 </p>
 
+@BGRND{{}}
 <p>
 The contents of the main clause must not contain volition.
 </p>
 
+@BGRND{{}}
 <p>
-The main clause often contains:
-<ul>
-<li> verbs and adjectives that express feelings
-<li> potential verbs to express states
-<li> situations in the past
-</ul>
-</p>
+The main clause often contains verbs and adjectives that express feelings.
 
-<p>
-The subordinate clause must occur chronologically before the main clause. So it is not allowed, for example,
-for the subordinate clause to represent a future event and the main clause to represent an event in the present.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{house^tribe}}ni @EM{{@KJ{{meeting}}enakute}}, @KJ{{loneliness}}shiidesu.}}
+      @HI{{@KJ{{house^tribe}}ni@EM{{@KJ{{meeting}}enakute}},@KJ{{loneliness}}shiidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I miss my family.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The main clause often contains potential verbs to and verbs to express state.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{tale}}ga @EM{{@KJ{{duplicate^miscellaneous}}de}}, yoku wakarimasendeshita.}}
+      @HI{{@KJ{{tale}}ga@EM{{@KJ{{duplicate^miscellaneous}}de}},yokuwakarimasendeshita.}}
   </td> </tr>
   <tr class="en"> <td>
       The story was complicated so I could not understand it well.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The main clause often contains a situation in the past.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{matter^happenstance}}ga @EM{{atte}}, @KT{{basu}}ga @KJ{{slow}}rete shimaimashita.}}
+      @HI{{@KJ{{matter^happenstance}}ga@EM{{atte}},@KT{{basu}}ga@KJ{{slow}}reteshimaimashita.}}
   </td> </tr>
   <tr class="en"> <td>
       The bus was delayed by an accident.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+The subordinate clause must occur chronologically before the main clause. So it is not allowed, for example,
+for the subordinate clause to represent a future event and the main clause to represent an event in the present.
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 39).
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
 </ol>
 
 @include{{"grammar-footer.inc"}}

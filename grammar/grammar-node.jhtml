@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{node}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{node}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{node}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{na @EM{{node}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{node}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{node}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{node}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na@EM{{node}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,7 +32,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{o@KJ{{sake}}wo takusan @KJ{{drink}}nda @EM{{node}} @KJ{{sleep}}ku narimashita.}}
+    @HI{{o@KJ{{sake}}wotakusan@KJ{{drink}}nda@EM{{node}}@KJ{{sleep}}kunarimashita.}}
   </td> </tr>
   <tr class="en"> <td>
     Because I drank a lot of <em>sake</em>, I became sleepy.
@@ -86,7 +86,7 @@ In @S1{{}}@HI{{@EM{{node}}}}@S2{{}}, @HI{{@EM{{node}}}} can be replaced by @HI{{
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 328).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 39).
+<li> @REF{{MNN-TR-II}}. (Chapter 39).
 <li> @UCREF{{AAP}}. (p. 88).
 </ol>
 
