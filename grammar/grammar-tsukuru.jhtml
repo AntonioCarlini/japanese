@@ -16,21 +16,18 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{detsukuru}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{@EM{{karatsukuru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{detsukuru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{karatsukuru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>When expressing the fact that an object is made from a raw material, the latter is marked with
-@HI{{@EM{{kara}}}}. If it is clearly visible that the object is made from that raw material, then
-@HI{{@EM{{de}}}} is preferred instead.
-</p>
+@HI{{@EM{{kara}}}}.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{bi-ru}}ha@KJ{{barley}}@EM{{kara}}@KJ{{create}}raremasu.}}
@@ -38,6 +35,15 @@
   <tr class="en"> <td>
       Beer is made from barley.
   </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>When expressing the fact that an object is made from a raw material, and
+it is clearly visible that the object is made from that raw material, then
+@HI{{@EM{{de}}}} is preferred instead.
+
+<table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{once*upon*a*time day^book}}no@KJ{{house}}ha@KJ{{tree}}@EM{{de}}@KJ{{create}}raremashita.}}
   </td> </tr>
@@ -45,14 +51,16 @@
       Japanese houses were made of wood in the past.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 37).
+<li> @REF{{MNN-TR-II}}. (Chapter 37).
 </ol>
 
 @include{{"grammar-footer.inc"}}

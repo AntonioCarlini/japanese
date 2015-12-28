@@ -19,24 +19,24 @@
 <dl>
 <dt>(A) Passive sentence:</dt>
 <ol>
-<li> @FORMATION{{@N1{{person}} @HI{{ha}} @N2{{person}} @HI{{ni}} @Vrareru{{}}}}
+<li> @FORMATION{{@N1{{person}}@HI{{ha}}@N2{{person}}@HI{{ni}}@Vrareru{{}}}}
 </ol>
 <dt>(B) No subject required:</dt>
 <ol>
-<li> @N{{thing}} @HI{{ha/ga}} @Vrareru{{}}
+<li> @N{{thing}}@HI{{ha/ga}}@Vrareru{{}}
 </ol>
 </dl>
 <dt>(C) Creation or discovery:
 <ol>
-<li> @N1{{}} @HI{{ha}} @N2{{person}} @HI{{ni yotte}} @Vrareru{{}}
+<li> @N1{{}}@HI{{ha}}@N2{{person}}@HI{{niyotte}}@Vrareru{{}}
 </ol>
 <dt>(D) Source:
 <ol>
-<li> @N1{{}} @HI{{ha}} @N2{{person}} @HI{{kara}} @Vrareru{{}}
+<li> @N1{{}}@HI{{ha}}@N2{{person}}@HI{{kara}}@Vrareru{{}}
 </ol>
 <dt>(E) Suffering passive:
 <ol>
-<li> @N1{{person}} @HI{{ha}} @N2{{person}} @HI{{ni}} @N3{{}} @HI{{wo}} @Vrareru{{}}
+<li> @N1{{person}}@HI{{ha}}@N2{{person}}@HI{{ni}}@N3{{}}@HI{{wo}}@Vrareru{{}}
 </ol>
 </dl>
 </p>
@@ -63,7 +63,7 @@ marked by @HI{{ni}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{before^life}}ni @KJ{{praise}}meraremashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{before^life}}ni@KJ{{praise}}meraremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I was praised by my teacher.
@@ -78,7 +78,7 @@ sentence pattern (B) is often used.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{day^book}}no@KJ{{car}}ha @KJ{{generation^world^in}}he @KJ{{transport^exit}}sarete imasu.}}
+      @HI{{@KJ{{day^book}}no@KJ{{car}}ha@KJ{{generation^world^in}}he@KJ{{transport^exit}}sareteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Japanese cars are exported all over the world.
@@ -92,7 +92,7 @@ When something is created or discovered, sentence pattern (C) can be used.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{[@KJ{{source^family*name^thing^word}}]ha @KJ{{purple^style}}bu ni yotte @KJ{{write}}karemashita.}}
+      @HI{{[@KJ{{source^family*name^thing^word}}]ha@KJ{{purple^style}}buniyotte@KJ{{write}}karemashita.}}
   </td> </tr>
   <tr class="en"> <td>
       "The Tale of Genji" was written by Murasaki Shikibu.
@@ -128,7 +128,7 @@ second person feels troubled or annoyed, sentence pattern (E) is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{younger*brother}}ni @KT{{pasokonn}}wo @KJ{{demolition}}saremashita.}}
+      @HI{{@KJ{{private}}ha@KJ{{younger*brother}}ni@KT{{pasokonn}}wo@KJ{{demolition}}saremashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I had my PC broken by my brother.
@@ -185,7 +185,7 @@ An intransitive verb is permitted in the suffering passive.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 37).
+<li> @REF{{MNN-TR-II}}. (Chapter 37).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @UCREF{{DOBJG}}. (p. 364).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
