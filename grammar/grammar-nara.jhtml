@@ -34,10 +34,10 @@ When a speaker wishes to take up a topic introduced by another person and give s
 
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{@KJ{{warm^spring}}ni @KJ{{going}}kitaindesuga, dokoka ii @KJ{{place}}arimasenka.}}
+      A: @HI{{@KJ{{warm^spring}}ni@KJ{{going}}kitaindesuga,dokokaii@KJ{{place}}arimasenka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{@KJ{{warm^spring}}@EM{{nara}}, @KJ{{white^horse}}ga ii desu yo.}}
+      B: @HI{{@KJ{{warm^spring}}@EM{{nara}},@KJ{{white^horse}}gaiidesuyo.}}
   </td> </tr>
   <tr class="en"> <td>
       A: I'd like to visit a hot spring resort. Don't you know a good place?
@@ -96,7 +96,7 @@ can become @HI{{nn}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{MNN-TR-II}}. (Chapter 35).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
 <li> @UCREF{{DOBJG}}. (p. 281).
 <li> @UCREF{{NKZM-N3G}}. (p. 32).

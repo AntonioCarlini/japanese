@@ -16,36 +16,30 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{<em> interrogative</em> @EM{{@Vba{{}} @HI{{ii desu ka}}}}}}
+<li> @FORMATION{{@QW{{}} @EM{{@Vba{{}}@HI{{iidesuka}}}}}}
 </ol>
-</dl>
 
 <h2> Definition </h2>
 
 <p>
 This sentence pattern is used to ask for directions or suggestions as to the best course of action.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{book}}wo @KJ{{borrow}}ritaindesuga, dou @EM{{sureba ii desu ka}}.}}
+      @HI{{@KJ{{book}}wo@KJ{{borrow}}ritaindesuga,dou@EM{{surebaiidesuka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I would like to borrow some books. What should i do?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 35).
+<li> @REF{{MNN-TR-II}}. (Chapter 35).
 </ol>
 
 @include{{"grammar-footer.inc"}}
