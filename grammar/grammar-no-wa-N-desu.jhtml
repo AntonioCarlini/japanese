@@ -2,21 +2,21 @@
 <html>
 
 <head>
-<title>@HI{{no ha}} N @HI{{desu}}</title>
+<title>@HI{{noha}}@N{{}}@HI{{desu}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{no ha}} N @HI{{desu}}" grammar="@HI{{no ha}} N @HI{{desu}}"}}
+@GRMIDX{{index="@HI{{noha}}N@HI{{desu}}" grammar="@HI{{noha}}@N{{}}@HI{{desu}}"}}
 
 <body>
 
-<h1>@HI{{no ha}} N @HI{{desu}}</h1>
+<h1>@HI{{noha}}@N{{}}@HI{{desu}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{<em>subordinate clause</em> @HI{{@EM{{no ha}}}} N @HI{{desu}}}}
+<li> @FORMATION{{<em>subordinate clause</em> @HI{{@EM{{noha}}}}@N{{}}@HI{{desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -29,29 +29,23 @@ In the above clause <em>subordinate clause</em> follows the same pattern as
 <p>
 This pattern is used when a noun is replaced by a nominalised phrase and then taken up
 as the topic.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{daughter}}ga @KJ{{life}}mareta@EM{{noha}}
-      @KJ{{north^sea^road-way}}no @KJ{{little}}sana @KJ{{village}}desu.}}
+      @HI{{@KJ{{daughter}}ga@KJ{{life}}mareta@EM{{noha}}@KJ{{north^sea^road-way}}no@KJ{{little}}sana@KJ{{village}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       My daughter's birthplace is a small town in Hokkaido.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 38).
+<li> @REF{{MNN-TR-II}}. (Chapter 38).
 </ol>
 
 @include{{"grammar-footer.inc"}}

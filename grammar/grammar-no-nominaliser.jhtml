@@ -16,9 +16,9 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{no}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{no}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{no}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{no}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{no}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{no}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -60,7 +60,7 @@ abstract or imperceptible.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{tenisu}}wo suru@EM{{no}}ha omoshiroidesu.}}
+      @HI{{@KT{{tenisu}}wosuru@EM{{no}}haomoshiroidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Playing tennis is fun.
@@ -69,7 +69,7 @@ abstract or imperceptible.
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{cow^milk}}wo @KJ{{buy}}u@EM{{no}}wo @KJ{{forget}}remashita.}}
+      @HI{{@KJ{{cow^milk}}wo@KJ{{buy}}u@EM{{no}}wo@KJ{{forget}}remashita.}}
   </td> </tr>
   <tr class="en"> <td>
       I forgot to buy milk.
@@ -82,17 +82,17 @@ abstract or imperceptible.
 <p>
 @HI{{@EM{{no}}}} is used in various cases:
 <ul>
-<li> @Vru{{}} @HI{{@EM{{no}}ha}} <em>adjective</em> @HI{{desu}}.
-<li> @Vru{{}} @HI{{@EM{{no}}ga}} <em>adjective</em> @HI{{desu}}.
-<li> @Vru{{}} @HI{{@EM{{no}}wo}} @KJ{{forget}}@HI{{remashita}}.
-<li> @Vplain{{}} @HI{{@EM{{no}}wo}} @KJ{{know}}@HI{{tte imasuka}}.
+<li> @Vru{{}}@HI{{@EM{{no}}ha}} <em>adjective</em> @HI{{desu}}.
+<li> @Vru{{}}@HI{{@EM{{no}}ga}} <em>adjective</em> @HI{{desu}}.
+<li> @Vru{{}}@HI{{@EM{{no}}wo}}@KJ{{forget}}@HI{{remashita}}.
+<li> @Vplain{{}}@HI{{@EM{{no}}wo}}@KJ{{know}}@HI{{tteimasuka}}.
 </ul>
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 38).
+<li> @REF{{MNN-TR-II}}. (Chapter 38).
 <li> @UCREF{{DOBJG}} (p. 318).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
