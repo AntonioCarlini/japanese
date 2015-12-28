@@ -58,16 +58,16 @@
 <li> <a href="grammar-kosoado.html#kore"> @HI{{ko}} vs @HI{{so}}: @HI{{kore/sore/are}} </a>
 <li> <a href="grammar-kosoado.html#kono"> @HI{{ko}} vs @HI{{so}}: @HI{{kono/sono/ano}} </a>
 <li> <a href="grammar-sou-desu.html">@HI{{sou desu}}/@HI{{sou ja arimasenn}}</a>
-<li> <a href="grammar-particle-ka.html#alternative">@S1{{}}@HI{{ka,}} @S2{{}}@HI{{ka}}</a>
+<li> <a href="grammar-particle-ka.html#alternative">@S1{{}}@HI{{ka,}}@S2{{}}@HI{{ka}}</a>
 <li> <a href="grammar-particle-no.html">@N1{{}}@HI{{no}}@N2{{}}</a>
-<li> <a href="grammar-sou-desu-ka.html"> @HI{{sou desu ka}} </a>
+<li> <a href="grammar-sou-desu-ka.html"> @HI{{soudesuka}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter3">_</a>Chapter 3</h2>
 
 <ol>
 <li> <a href="grammar-kosoado.html#koko"> @HI{{koko/soko/asoko/kochira/sochira/achira}}</a></h3> </a>
-<li> <a href="grammar-basic-sentence-patterns.html">~ @HI{{wa}} @N{{place}}</a>
+<li> <a href="grammar-basic-sentence-patterns.html">~ @HI{{wa}}@N{{place}}</a>
 <li> <a href="grammar-kosoado.html#doko"> @HI{{doko/dochira}}</a></h3>
 <li> <a href="grammar-particle-no.html#made">@N1{{}}@HI{{no}}@N2{{}}</a> (made in/by)
 <li> <a href="grammar-kosoado.html"> @HI{{kosoado}} demonstratives</a></h3> </a>
@@ -102,7 +102,7 @@
 
 <ol>
 <li> <a href="grammar-particle-wo.html#direct">@N{{}}@HI{{wo}}@V{{transitive}}</a>
-<li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{wo shimasu}}</a>
+<li> <a href="grammar-N-wo-suru.html">@N{{}}@HI{{woshimasu}}</a>
 <li> <a href="grammar-nani-wo-shimasu-ka.html"> @HI{{@KJ{{what}}woshimasuka}} </a>
 <li> <a href="grammar-nani-nan.html">@HI{{nani}} and @HI{{nann}}</a>
 <li> <a href="grammar-particle-de.html#location">@N{{place}}@HI{{de}}@V{{}}</a>
@@ -115,7 +115,7 @@
 
 <ol>
 <li> <a href="grammar-particle-de.html#means">@N{{tool}}@HI{{de}}@V{{}}</a>
-<li> <a href="grammar-how-do-you-say.html"> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de @KJ{{what}}desuka}}</a>
+<li> <a href="grammar-how-do-you-say.html"> <em>word/sentence</em> @HI{{ha}}~@KJ{{word}}@HI{{de@KJ{{what}}desuka}}</a>
 <li> <a href="grammar-particle-ni.html#recipient">@N{{person}}@HI{{niagemasu}}</a>
 <li> <a href="grammar-giving-receiving.html#morau">@N{{person}}@HI{{nimoraimasu}}</a>
 <li> <a href="grammar-mou.html"> @HI{{mou}}@Vmasustem{{}}@HI{{mashita}} </a>
@@ -136,7 +136,7 @@
 <h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>
 
 <ol>
-<li> <a href="grammar-aru.html">@HI{{ga aru}}</a>, <a href="grammar-wakaru.html">@HI{{ga wakaru}}</a>
+<li> <a href="grammar-aru.html">@HI{{gaaru}}</a>, <a href="grammar-wakaru.html">@HI{{gawakaru}}</a>
 <li> <a href="grammar-kosoado.html#donna"> @HI{{donna}} N</a>
 <li> <a href="grammar-adverbs-of-degree.html">@HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/
     @KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}</a>
@@ -180,9 +180,9 @@
 <ol>
 <li> <a href="grammar-hoshii.html"> @HI{{hoshii}}</a>
 <li> <a href="grammar-tai.html"> @HI{{tai}} </a>
-<li> <a href="grammar-masu-ni.html">@Vmasustem{{}}@HI{{ni}} @V{{motion}}</a>
+<li> <a href="grammar-masu-ni.html">@Vmasustem{{}}@HI{{ni}}@V{{motion}}</a>
 <li> <a href="grammar-particle-ni.html#movement">Goal: @N{{}}@HI{{ni}}@V{{}}</a>
-<li> <a href="grammar-interrogatives-with-particles.html">@HI{{dokoka}}, @KJ{{what}}@HI{{ka}}</a>
+<li> <a href="grammar-interrogatives-with-particles.html">@HI{{dokoka}},@KJ{{what}}@HI{{ka}}</a>
 <li> <a href="grammar-respect-markers.html#go">@HI{{go}}@KJ{{pour^sentence}}</a>
 </ol>
 
@@ -222,17 +222,17 @@
 <ol>
 <li> <a href="grammar-verb-formation-nai.html"> How to make the @HI{{nai}}-form </a> </h3>
 <li> <a href="grammar-nai-de.html"> @HI{{nai de kudasai}} </a>
-<li> <a href="grammar-nakereba-naranai.html"> @HI{{nakereba narimasenn}} </a>
-<li> <a href="grammar-nakute-mo-ii.html"> @HI{{nakute mo ii}} </a>
+<li> <a href="grammar-nakereba-naranai.html"> @HI{{nakerebanarimasenn}} </a>
+<li> <a href="grammar-nakute-mo-ii.html"> @HI{{nakutemoii}} </a>
 <li> @N{{object}}@HI{{ha}}
-<li> <a href="grammar-made-ni.html"> @HI{{made ni}} </a>
+<li> <a href="grammar-made-ni.html"> @HI{{madeni}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter18">_</a>Chapter 18</h2>
 
 <ol>
 <li> <a href="grammar-verb-formation-dictionary.html"> How to make the dictionary form from the @HI{{masu}} form</a>
-<li> <a href="grammar-koto-ga-dekiru.html"> @HI{{koto ga dekiru}}</a>
+<li> <a href="grammar-koto-ga-dekiru.html"> @HI{{kotogadekiru}}</a>
 <li> <a href="grammar-koto-nominaliser.html"> @HI{{koto}}</a>
 <li> <a href="grammar-mae-ni.html"> @HI{{mae ni}} </a>
 <li> <a href="grammar-nakanaka.html"> @HI{{nakanaka}} </a>
@@ -243,7 +243,7 @@
 
 <ol>
 <li> <a href="grammar-verb-formation-ta.html"> How to make the @HI{{ta}}-form </a> </h3>
-<li> <a href="grammar-ta-koto-ga-aru.html"> @Vta{{}} @HI{{koto ga aru}} </a>
+<li> <a href="grammar-ta-koto-ga-aru.html"> @Vta{{}}@HI{{kotogaaru}} </a>
 <li> <a href="grammar-tari.html"> @Vta{{}}@HI{{ri}} </a>
 <li> <a href="grammar-adverb-naru.html"> <em>adverb</em> + @HI{{naru}} </a>
 <li> @HI{{sou desu ne}}
@@ -280,7 +280,7 @@
 <li> <a href="grammar-toki.html"> @HI{{toki}} </a>
 <li> <a href="grammar-to-conditional.html"> @HI{{to}} conditional</a>
 <li> <a href="grammar-particle-ga.html#new-subj">@N{{}}@HI{{ga}} <em>adjective</em> </a>
-<li> <a href="grammar-particle-wo.html#location"> @HI{{wo}} @V{{movement}} </a>
+<li> <a href="grammar-particle-wo.html#location"> @HI{{wo}}@V{{movement}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>
@@ -288,8 +288,8 @@
 <ol>
 <li> <a href="grammar-giving-receiving.html"> Giving &amp; Receiving </a>
 <li> <a href="grammar-giving-receiving-actions.html"> Giving &amp; Receiving Actions </a>
-<li> <a href="grammar-particle-ga.html#new-subject">@N{{person}}@HI{{ga}} @V{{}}</a> (new information about existing topic)
-<li> <a href="grammar-particle-ga.html#interrogative"><em>interrogative</em> @HI{{ga}} @V{{}}</a>
+<li> <a href="grammar-particle-ga.html#new-subject">@N{{person}}@HI{{ga}}@V{{}}</a> (new information about existing topic)
+<li> <a href="grammar-particle-ga.html#interrogative">@QW{{}} @HI{{ga}}@V{{}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter25">_</a>Chapter 25</h2>
@@ -307,7 +307,7 @@
 <ol>
 <li> <a href="grammar-n-desu.html"> @HI{{ndesu}} </a>
 <li> <a href="grammar-te-itadakemasenka.html"> @Vte{{}}@HI{{itadakemasenka}} </a>
-<li> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{ra iidesuka}} </a>
+<li> <a href="grammar-tara-ii-desu-ka.html"> @Vta{{}}@HI{{raiidesuka}} </a>
 <li> @N{{}}@HI{{ha}} ...
 </ol>
 
@@ -329,8 +329,8 @@
 <li> <a href="grammar-nagara.html"> @HI{{nagara}} </a>
 <li> <a href="grammar-te-iru.html"> @Vte{{}}@HI{{iru}} </a>
 <li> <a href="grammar-plain-form-shi.html"> @HI{{shi}} ... @HI{{shi}} </a>
-<li> <a href="grammar-sore-ni.html"> @HI{{sore ni}} </a>
-<li> <a href="grammar-sore-de.html"> @HI{{sore de}} </a>
+<li> <a href="grammar-sore-ni.html"> @HI{{soreni}} </a>
+<li> <a href="grammar-sore-de.html"> @HI{{sorede}} </a>
 <li> <a href="grammar-particle-e.html"> @HI{{he}} (particle) </a>
 </ol>
 
@@ -349,7 +349,7 @@
 <li> <a href="grammar-te-aru.html"> @Vte{{}}@HI{{aru}} </a>
 <li> <a href="grammar-te-oku.html"> @Vte{{}}@HI{{oku}} </a>
 <li> <a href="grammar-mada.html"> @HI{{mada}} </a>
-<li> <a href="grammar-sore-wa.html"> @HI{{sore ha}} </a>
+<li> <a href="grammar-sore-wa.html"> @HI{{soreha}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter31">_</a>Chapter 31</h2>
@@ -357,10 +357,10 @@
 <ol>
 <li> <a href="grammar-verb-formation-volitional.html"> How to make volitional verbs </a>
 <li> <a href="grammar-verb-use-of-volitional.html"> Uses of the volitional </a>
-<li> <a href="grammar-you-to-omou.html"> @Vyou{{}}@HI{{to @KJ{{think}}u}} </a>
+<li> <a href="grammar-you-to-omou.html"> @Vyou{{}}@HI{{to@KJ{{think}}u}} </a>
 <li> <a href="grammar-tsumori.html"> @HI{{tsumori}} </a>
 <li> <a href="grammar-yotei.html"> @HI{{yotei}} </a>
-<li> <a href="grammar-mada-te-inai.html"> @HI{{mada}} @Vte{{}}@HI{{inai}} </a>
+<li> <a href="grammar-mada-te-inai.html"> @HI{{mada}}@Vte{{}}@HI{{inai}} </a>
 <li> <a href="grammar-kosoado.html#ko-vs-so"> @HI{{ko}} vs @HI{{so}} demonstratives in writing </a>
 </ol>
 
@@ -382,7 +382,7 @@
 <li> <a href="grammar-verb-formation-prohibitive.html"> How to make the prohibitive form </a>
 <li> <a href="grammar-verb-use-of-imperative-prohibitive.html"> Uses of the imperative &amp; prohibitive forms </a>
 <li> <a href="grammar-to-iu-imi.html"> @HI{{toiu@KJ{{idea^flavor}}}} </a>
-<li> <a href="grammar-to-itte-imashita.html"> @HI{{to@KJ{{say}}tte imashita}} </a>
+<li> <a href="grammar-to-itte-imashita.html"> @HI{{to@KJ{{say}}tteimashita}} </a>
 <li> <a href="grammar-to-tsutaete-itadakemasenka.html"> @HI{{to@KJ{{transmit}}eteitadakemasenka}} </a>
 </ol>
 
@@ -408,9 +408,9 @@
 <h2><a class="navtarget" name="chapter36">_</a>Chapter 36</h2>
 
 <ol>
-<li> <a href="grammar-you-ni.html"> @HI{{you ni}} </a>
-<li> <a href="grammar-you-ni-naru.html"> @HI{{you ni naru}} </a>
-<li> <a href="grammar-you-ni-suru.html"> @HI{{you ni suru}} </a>
+<li> <a href="grammar-you-ni.html"> @HI{{youni}} </a>
+<li> <a href="grammar-you-ni-naru.html"> @HI{{youninaru}} </a>
+<li> <a href="grammar-you-ni-suru.html"> @HI{{younisuru}} </a>
 <li> <a href="grammar-particle-toka.html"> @HI{{toka}} </a>
 </ol>
 
@@ -419,14 +419,14 @@
 <ol>
 <li> <a href="grammar-verb-formation-passive.html"> How to make passive verbs </a>
 <li> <a href="grammar-verb-use-of-passive.html"> Uses of the passive </a>
-<li> <a href="grammar-tsukuru.html"> @N{{}} @HI{{de/kara}} @HI{{tsukuru}} </a>
+<li> <a href="grammar-tsukuru.html"> @N{{}}@HI{{de/kara}}@HI{{tsukuru}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter38">_</a>Chapter 38</h2>
 
 <ol>
 <li> <a href="grammar-no-nominaliser.html"> @HI{{no}} (nominaliser) </a>
-<li> <a href="grammar-no-wa-N-desu.html"> @HI{{no ha}} N @HI{{desu}} </a>
+<li> <a href="grammar-no-wa-N-desu.html"> @HI{{no ha}}@N{{}}@HI{{desu}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter39">_</a>Chapter 39</h2>
@@ -435,7 +435,7 @@
 <li> <a href="grammar-te-cause.html"> @HI{{te}}-form cause </a>
 <li> <a href="grammar-de-cause.html"> @HI{{de}} (cause) </a>
 <li> <a href="grammar-node.html"> @HI{{node}} </a>
-<li> <a href="grammar-tochuu-de.html"> @HI{{tochuu de}} </a>
+<li> <a href="grammar-tochuu-de.html"> @HI{{tochuude}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter40">_</a>Chapter 40</h2>
@@ -458,7 +458,7 @@
 
 <h2><a class="navtarget" name="chapter42">_</a>Chapter 42</h2>
 <ol>
-<li> <a href="grammar-tame-ni.html"> @HI{{tame ni}} </a>
+<li> <a href="grammar-tame-ni.html"> @HI{{tameni}} </a>
 <li> <a href="grammar-purpose-ni.html"> <em>purpose</em> @HI{{ni}} </a>
 <li> <a href="grammar-quantifier-wa.html"> <em>quantifier</ha> @HI{{ha}} </a>
 <li> <a href="grammar-quantifier-mo.html"> <em>quantifier</em> @HI{{mo}} </a>
@@ -467,7 +467,7 @@
 <h2><a class="navtarget" name="chapter43">_</a>Chapter 43</h2>
 
 <ol>
-<li> <a href="grammar-sou-desu-appearance.html"> @HI{{sou desu}} (appearance) </a>
+<li> <a href="grammar-sou-desu-appearance.html"> @HI{{soudesu}} (appearance) </a>
 <li> <a href="grammar-te-kuru.html"> @Vte{{}}@KJ{{come}}@HI{{ru}} </a>
 <li> <a href="grammar-itte-kuru.html"> @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}} </a>
 </ol>
@@ -478,7 +478,7 @@
 <li> <a href="grammar-sugiru.html"> @HI{{sugiru}} </a>
 <li> <a href="grammar-yasui.html"> @HI{{yasui}} </a>
 <li> <a href="grammar-nikui.html"> @HI{{nikui}} </a>
-<li> <a href="grammar-ni-suru.html"> @HI{{ni suru}} </a>
+<li> <a href="grammar-ni-suru.html"> @HI{{nisuru}} </a>
 <li> <a href="grammar-adverbs.html"> Adverbs </a>
 </ol>
 
@@ -500,8 +500,8 @@
 <h2><a class="navtarget" name="chapter47">_</a>Chapter 47</h2>
 
 <ol>
-<li> <a href="grammar-sou-desu-hearsay.html"> @HI{{sou desu}} (hearsay) </a>
-<li> <a href="grammar-you-desu.html"> @HI{{you desu}} </a>
+<li> <a href="grammar-sou-desu-hearsay.html"> @HI{{soudesu}} (hearsay) </a>
+<li> <a href="grammar-you-desu.html"> @HI{{youdesu}} </a>
 <li> <a href="grammar-phenomenon-senses-ga-suru.html"> Phenomena perceived by the senses </a>
 </ol>
 
