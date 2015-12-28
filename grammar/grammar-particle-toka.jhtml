@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{toka}}}}}}
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{toka}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{toka}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{toka}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -33,10 +33,10 @@ never can.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      A: @HI{{donnna @KT{{supo-tsu}}wo shite imasuka.}}
+      A: @HI{{donnna@KT{{supo-tsu}}woshiteimasuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{sou desune. @KT{{tenisu}}@HI{{@EM{{toka}}}} @KJ{{water^swim}}@HI{{@EM{{toka}}}}...}}
+      B: @HI{{soudesune.@KT{{tenisu}}@HI{{@EM{{toka}}}}@KJ{{water^swim}}@HI{{@EM{{toka}}}}...}}
   </td> </tr>
   <tr class="en"> <td>
       A: What kind of sports do you do?
@@ -53,7 +53,7 @@ never can.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{child}}domonotoki,@KJ{{mama}}ni[@FG{{@KJ{{exertion^strong}}:benkyou}}shiro]@EM{{toka}}[takusan@KJ{{eat}}benasai]@EM{{toka}}
+      @HI{{@KJ{{child}}domonotoki,@KJ{{mama}}ni[@FG{{@KJ{{exertion^strong}}:benkyou}}shiro]@EM{{toka}}[takusan'@KJ{{eat}}benasai]@EM{{toka}}
       yoku@KJ{{say}}waremashita.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -90,7 +90,7 @@ When used with nouns @HI{{@EM{{toka}}}} has a more informal feel than @HI{{ya}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @UCREF{{AAP}}. (p. 42).
 <li> @UCREF{{DOBJG}}. (p. 488).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).

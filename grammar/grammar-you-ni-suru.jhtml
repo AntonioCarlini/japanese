@@ -2,70 +2,73 @@
 <html>
 
 <head>
-<title>@HI{{you ni suru}}</title>
+<title>@HI{{younisuru}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{you ni suru}}" grammar="@HI{{you ni suru}}"}}
+@GRMIDX{{index="@HI{{younisuru}}" grammar="@HI{{younisuru}}"}}
 
 <body>
 
-<h1>@HI{{you ni suru}}</h1>
+<h1>@HI{{younisuru}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{you ni suru}}}}}}
-<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{you ni suru}}}}}}
+<li> @FORMATION{{@Vru{{}} @HI{{@EM{{younisuru}}}}}}
+<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{younisuru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-These sentence patterns indicate that someone habitually or continuously makes efforts to do or not do something.
-</p>
+These sentence patterns indicate that someone habitually efforts to do or not do something.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{tooth}}ni @KJ{{bad}}idesukara, @KJ{{sweet}}i@KJ{{thing}}wo @KJ{{eat}}benai
-      @EM{{you ni shite imasu}}.}}
+      @HI{{@KJ{{tooth}}ni@KJ{{bad}}idesukara,@KJ{{sweet}}i@KJ{{thing}}wo @KJ{{eat}}benai@EM{{younishiteimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I try not to eat sweets because they are bad for my teeth.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+These sentence patterns indicate that someone continuously makes efforts to do or not do something.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ashitaha @KJ{{discontinue^vis-a-vis}}ni @KJ{{time^interval}}ni @KJ{{slow}}renai
-      @EM{{you ni shite}}kudasai.}}
+      @HI{{ashitaha@KJ{{discontinue^vis-a-vis}}ni@KJ{{time^interval}}ni@KJ{{slow}}renai@EM{{younishite}}kudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please be sure not to be late tomorrow.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-@HI{{you ni shite imasu}} expresses a continuous or habitual effort to do something.
+@HI{{younishiteimasu}} expresses a continuous or habitual effort to do something.
 </p>
 
 <p>
-@HI{{you ni shite kudasai}} and @HI{{you ni shinaide kudasai}} are less direct and therefore more polite
-than @Vte{{}} @HI{{kudasai}} and @Vnai{{}}@HI{{de kudasai}}.
+@HI{{younishitekudasai}} and @HI{{younishinaidekudasai}} are less direct and therefore more polite
+than @Vte{{}}@HI{{kudasai}} and @Vnai{{}}@HI{{dekudasai}}.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @UCREF{{NKZM-N3G}}. (p. 50).
 <li> @UCREF{{DOBJG}}. (p. 562).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).

@@ -2,22 +2,22 @@
 <html>
 
 <head>
-<title>@HI{{you ni naru}}</title>
+<title>@HI{{youninaru}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{you ni naru}}" grammar="@HI{{you ni naru}}"}}
+@GRMIDX{{index="@HI{{youninaru}}" grammar="@HI{{youninaru}}"}}
 
 <body>
 
-<h1>@HI{{you ni naru}}</h1>
+<h1>@HI{{youninaru}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{you ni naru}}}}}}
-<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{you ni naru}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{youninaru}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{youninaru}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,6 +25,15 @@
 <p>
 These sentence patterns indicate a change from one state into another. The verbs used express possibility or ability
 (for example, potential verbs).
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{yatto@KJ{{oneself^revolve^car}}ni@KJ{{ride}}reru@EM{{youni}}narimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've finally become able to ride a bicycle.
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -33,29 +42,15 @@ The form which uses @Vru{{}} means that something which could not be done now ca
 </p>
 
 <p>
-The form @HI{{@EM{{you ni natteiru}}}} emphasises that the current state has come about after a long process.
+The form @HI{{@EM{{youninatteiru}}}} emphasises that the current state has come about after a long process.
 </p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{yatto @KJ{{oneself^revolve^car}}ni @KJ{{ride}}reru@EM{{you ni}} narimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I've finally become able to ride a bicycle.
-  </td> </tr>
-</table>
-</ol>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @UCREF{{DOBJG}}. (p. 559).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>

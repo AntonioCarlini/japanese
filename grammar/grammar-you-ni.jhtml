@@ -2,69 +2,70 @@
 <html>
 
 <head>
-<title>@HI{{you ni}}</title>
+<title>@HI{{youni}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{you ni}}" grammar="@HI{{you ni}}"}}
+@GRMIDX{{index="@HI{{youni}}" grammar="@HI{{youni}}"}}
 
 <body>
 
-<h1>@HI{{you ni}}</h1>
+<h1>@HI{{youni}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}}(<em>non-volitional</em>) @HI{{@EM{{you ni}}}}, <em>volitional expression</em>}}
-<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{you ni}}}}, <em>volitional expression</em>}}
+<li> @FORMATION{{@Vru{{}}(<em>non-volitional</em>) @HI{{@EM{{youni}}}}, <em>volitional expression</em>}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{youni}}}}, <em>volitional expression</em>}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 These sentence patterns indicate a purpose.
-</p>
 
-<p>
-The verb before @HI{{@EM{{you ni}}}} should be a non-volitional one or a verb in the negative form.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{quick}}ku @KJ{{swim}}geru@EM{{you ni}}, @KJ{{every^day^practice^learn}}shite imasu.}}
+      @HI{{@KJ{{quick}}ku@KJ{{swim}}geru@EM{{youni}},@KJ{{every^day^practice^learn}}shiteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I practice every day so that I can swim quickly.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+The verb before @HI{{@EM{{youni}}}} should be a non-volitional one or a verb in the negative form.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{forget}}renai@EM{{you ni}},@KT{{memo}}shite kudasai.}}
+      @HI{{@KJ{{forget}}renai@EM{{youni}},@KT{{memo}}shitekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please take a memo so you will not forget.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
-The similar expression <a href="grammar-tame-ni.html">@HI{{tame ni}}</a> is used in clauses with verbs
+The similar expression <a href="grammar-tame-ni.html">@HI{{tameni}}</a> is used in clauses with verbs
 that contain volition,
-whereas @HI{{@EM{{you ni}}}} is used with verbs that do not. Note that if the verb involved
+whereas @HI{{@EM{{youni}}}} is used with verbs that do not. Note that if the verb involved
 is @HI{{naru}}, then whether or not volition is invovled depends on the sentence.
 </br>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 36).
+<li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @UCREF{{DOBJG}}. (p. 553).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
