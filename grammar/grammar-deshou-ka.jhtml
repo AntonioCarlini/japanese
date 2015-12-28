@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{deshouka}}" grammar="@HI{{deshouka}}"}}
+@GRMIDX{{index="@HI{{darouka}}" grammar="@HI{{darouka}}"}}
 
 <body>
 
@@ -16,7 +17,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@S{{}} @HI{{@EM{{deshouka}}}}}}
+<li> @FORMATION{{@S{{}}@HI{{@EM{{deshouka}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +32,7 @@ In this case it is euphemistic and hence more polite.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{basu}}ha @KJ{{study^exam}}de dou deshouka.}}
+      @HI{{@KT{{basu}}ha@KJ{{study^exam}}de dou deshouka.}}
   </td> </tr>
   <tr class="en"> <td>
       How is the bus to school?
@@ -74,7 +75,7 @@ In this case it is euphemistic and hence more polite.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 40).
+<li> @REF{{MNN-TR-II}}. (Chapter 40).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 

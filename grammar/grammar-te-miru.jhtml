@@ -15,19 +15,16 @@
 
 <h2> Formation </h2>
 
-@EM{{@Vte{{}}@HI{{miru}}}}
+<oL>
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{miru}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
 <p>
 @EM{{@Vte{{}}@HI{{miru}}}} means to make an attempt at doing something to see what happens or to see what it is like.
 It can also mean that the attempt is a trial.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{zubonn}}wo haite @EM{{mite}}mo ii desu ka.}}
@@ -36,7 +33,7 @@ It can also mean that the attempt is a trial.
       May I try on this pair of trousers?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -44,7 +41,7 @@ It can also mean that the attempt is a trial.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 246).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 40).
+<li> @REF{{MNN-TR-II}}. (Chapter 40).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -37,39 +37,39 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 In sentence pattern (A) a question with an interrogative is embedded in another sentence. Note that, optionally, 
 @HI{{@EM{{kadouka}}}} can be used in this sentence pattern.
-</p>
 
-<p>
-In sentence pattern (B) a question <em>without</em> an interrogative is embedded in another sentence. Note that 
-@HI{{@EM{{kadouka}}}} <em>must</em> be used in this sentence pattern.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      JL107@HI{{@KJ{{convenience}}ha @KJ{{what^time}}ni @KJ{{arrival^don}}suru@EM{{ka}},
-      @KJ{{tune}}bete kudasai.}}
+      JL107@HI{{@KJ{{convenience}}ha@KJ{{what^time}}ni@KJ{{arrival^don}}suru@EM{{ka}},@KJ{{tune}}betekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please check what time JL107 will arrive.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+In sentence pattern (B) a question <em>without</em> an interrogative is embedded in another sentence. Note that 
+@HI{{@EM{{kadouka}}}} <em>must</em> be used in this sentence pattern.
+
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{sono@KJ{{tale}}ha hountou @EM{{ka douka}}, wakarimasenn.}}
+      @HI{{sono@KJ{{tale}}hahountou@EM{{ka douka}},wakarimasenn.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't know whether the story is true or not.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -77,7 +77,7 @@ In sentence pattern (B) a question <em>without</em> an interrogative is embedded
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 168).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 40).
+<li> @REF{{MNN-TR-II}}. (Chapter 40).
 </ol>
 
 @include{{"grammar-footer.inc"}}
