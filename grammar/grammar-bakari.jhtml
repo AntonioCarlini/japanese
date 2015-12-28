@@ -23,8 +23,8 @@
 <li> @FORMATION{{@Ai{{}} @HI{{@EM{{bakari}}}}}}
 <li> @FORMATION{{@Ana{{}} @HI{{@EM{{bakari}}}}}}
 <li> @FORMATION{{@N{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@N{{}} <em>particle</em> @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{<em>quantifier</em> @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@N{{}} @PRT{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@QNTF{{}} @HI{{@EM{{bakari}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -139,7 +139,7 @@ With a transitive verb the formation <a name="habitual-trans">@HI{{@EM{{bakari}}
 @BGRND{{}}
 <p>
 In classical Japanese @HI{{@EM{{bakari}}}} expressed the speaker's conjecture and this is still seen
-in <em>quantifier</em> @HI{{@EM{{bakari}}}}, which means "about".
+in @QNTF{{}} @HI{{@EM{{bakari}}}}, which means "about".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>

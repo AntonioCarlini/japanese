@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{<em>one + counter</em> @HI{{@EM{{toshite~nai}}}}}}
+<li> @FORMATION{{1+@CTR{{}} @HI{{@EM{{toshite~nai}}}}}}
 </ol>
 
 <h2> Definition </h2>

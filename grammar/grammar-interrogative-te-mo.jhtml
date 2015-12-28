@@ -2,24 +2,24 @@
 <html>
 
 <head>
-<title><em>interrogative</em> + @Vte{{}}@HI{{mo}}</title>
+<title>@QW{{}} + @Vte{{}}@HI{{mo}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="interrogative@HI{{temo}}" grammar="<em>interrogative</em> + @Vte{{}}@HI{{mo}}"}}
+@GRMIDX{{index="interrogative@HI{{temo}}" grammar="@QW{{}} + @Vte{{}}@HI{{mo}}"}}
 
 <body>
 
-<h1><em>interrogative</em> + @Vte{{}}@HI{{mo}}</h1>
+<h1>@QW{{}} + @Vte{{}}@HI{{mo}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{<em>interrogative</em> + @Vte{{}}@HI{{mo}}}}
-<li> @FORMATION{{<em>interrogative</em> + @Aistem{{}}@HI{{kutemo}}}}
-<li> @FORMATION{{<em>interrogative</em> + @Anastem{{}}@HI{{demo}}}}
-<li> @FORMATION{{<em>interrogative</em> + @N{{}}@HI{{demo}}}}
+<li> @FORMATION{{@QW{{}} + @Vte{{}}@HI{{mo}}}}
+<li> @FORMATION{{@QW{{}} + @Aistem{{}}@HI{{kutemo}}}}
+<li> @FORMATION{{@QW{{}} + @Anastem{{}}@HI{{demo}}}}
+<li> @FORMATION{{@QW{{}} + @N{{}}@HI{{demo}}}}
 </ol>
 
 <h2> Definition </h2>

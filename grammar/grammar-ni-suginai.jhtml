@@ -17,7 +17,7 @@
 
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{nisuginai}}}}}}
-<li> @FORMATION{{<em>number + counter</em> @HI{{@EM{{nisuginai}}}}}}
+<li> @FORMATION{{number + @CTR{{}} @HI{{@EM{{nisuginai}}}}}}
 <li> @FORMATION{{@Vplain{{}}@HI{{@EM{{nisuginai}}}}}}
 </ol>
 

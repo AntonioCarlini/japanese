@@ -19,7 +19,7 @@
 <li> @FORMATION{{@Vta{{}}@HI{{@EM{{kiri}}}}}}
 <li> @FORMATION{{@N{{}}@HI{{@EM{{kiri}}}}}}
 <li> @FORMATION{{@HI{{kore/sore/are}}@HI{{@EM{{kiri}}}}}}
-<li> @FORMATION{{<em>counter</em>@HI{{@EM{{kiri}}}}}}
+<li> @FORMATION{{@CTR{{}} @HI{{@EM{{kiri}}}}}}
 </ol>
 
 <h2> Definition </h2>

@@ -17,7 +17,7 @@
 
 <ol>
 <li> @FORMATION{{@N{{(time)}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
-<li> @FORMATION{{<em>number + counter</em>@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
+<li> @FORMATION{{number + @CTR{{}} @EM{{@FG{{@KJ{{limit}}ri:kagiri}}}}}}
 </ol>
 
 <h2> Definition </h2>

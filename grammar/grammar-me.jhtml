@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{<em>number + counter </em>@EM{{@FG{{@KJ{{eye}}:me}}}}}}
+<li> @FORMATION{{number + @CTR{{}} @EM{{@FG{{@KJ{{eye}}:me}}}}}}
 </ol>
 
 <h2> Definition </h2>
