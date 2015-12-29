@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{noni}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{noni}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{noni}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{na @EM{{noni}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{noni}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{noni}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{noni}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na@EM{{noni}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,7 +32,7 @@ Contrary to the expectations set by the clause preceding @HI{{@EM{{noni}}}}, the
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{every^day Sino-^character}}wo @KJ{{exertion^study}}shite iru @EM{{noni}} yoku @KJ{{memorize}}eraremasenn.}}
+    @HI{{@KJ{{every^day Sino-^character}}wo@KJ{{exertion^study}}shiteiru@EM{{noni}}yoku@KJ{{memorize}}eraremasenn.}}
   </td> </tr>
   <tr class="en"> <td>
     Even though I study kanji every day I cannot memorise them well.
@@ -88,7 +88,7 @@ can only be used when something actually happened.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 331).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 45).
+<li> @REF{{MNN-TR-II}}. (Chapter 45).
 <li> @UCREF{{AAP}}. (p. 93).
 </ol>
 

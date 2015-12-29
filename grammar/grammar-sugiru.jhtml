@@ -16,20 +16,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vmasustem{{}} @HI{{@EM{{sugiru}}}}}}
-<li> @FORMATION{{@Aistem{{}} @HI{{@EM{{sugiru}}}}}}
-<li> @FORMATION{{@Anastem{{}} @HI{{@EM{{sugiru}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{sugiru}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{sugiru}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{sugiru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{sugiru}}}} is an auxiliary that adds the meaning of "too much" or "to excess".
 It is usually used to indicate an undesirable state.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{yuube o@KJ{{sake}}wo @KJ{{drink}}mi@EM{{sugimashita}}.}}
+      @HI{{yuubeo@KJ{{sake}}wo@KJ{{drink}}mi@EM{{sugimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I drank too much last night.
@@ -37,18 +40,21 @@ It is usually used to indicate an undesirable state.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-The "for" in "too ~ for something" is formed by @HI{{ni ha}}.
+The "for" in "too ~ for something" is formed by @HI{{niha}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KT{{apa-to}}ha @KJ{{private^accomplished}} ni ha @KJ{{tall}}@EM{{sugimasu}}.}}
+      @HI{{kono@KT{{apa-to}}ha@KJ{{private^accomplished}}niha@KJ{{tall}}@EM{{sugimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       This apartment is too expensive for us.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -68,7 +74,7 @@ The negative @HI{{nai}} combines with @HI{{@EM{{sugiru}}}} to form @HI{{@EM{{nan
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 423).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 44).
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
 <li> @UCREF{{NKZM-N3G}}. (p. 97).
 </ol>
 

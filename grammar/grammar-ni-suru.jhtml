@@ -2,39 +2,33 @@
 <html>
 
 <head>
-<title>@HI{{ni suru}}</title>
+<title>@HI{{nisuru}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{ni suru}}" grammar="@HI{{ni suru}}"}}
+@GRMIDX{{index="@HI{{nisuru}}" grammar="@HI{{nisuru}}"}}
 
 <body>
 
-<h1>@HI{{ni suru}}</h1>
+<h1>@HI{{nisuru}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Aistem{{}} @HI{{ku}}@HI{{@EM{{suru}}}}}}
-<li> @FORMATION{{@Anastem{{}} @HI{{ni}}@HI{{@EM{{suru}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{@EM{{ni suru}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku}}@HI{{@EM{{suru}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{ni}}@HI{{@EM{{suru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nisuru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{@EM{{ni suru}}}} means that someone turns something into a certain state.
-</p>
+@HI{{@EM{{nisuru}}}} means that someone turns something into a certain state.
 
-<p>
-@EM{{@N{{}}@HI{{ni suru}}}} can also mean that someone has decided on something.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{metropolis^roof}}wo kirei@EM{{ni shimasu}}.}}
@@ -43,7 +37,9 @@
     I will clean my room.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{salt}}no @KJ{{quantity}}wo @KJ{{half^part}}@EM{{ni shimasu}}.}}
@@ -52,7 +48,9 @@
     I will reduce the amount of salt by half.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{sound}}wo @KJ{{large}}kiku shimasu.}}
@@ -61,7 +59,12 @@
     I will turn up the volume.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@EM{{@N{{}}@HI{{nisuru}}}} can also mean that someone has decided on something.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     A: @HI{{anataha @KJ{{what}}@EM{{ni shimasuka}}.}}
@@ -76,7 +79,9 @@
     B: I'll have steak.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{mount^rice*field}}sanha @KT{{amerika}}no @KJ{{car}}@EM{{ni shimashita}}.}}
@@ -85,12 +90,14 @@
     Mr. Okada has decided on an American car.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{ni suru}}}} usually follows a noun although it can follow a noun plus particle.
+@HI{{@EM{{nisuru}}}} usually follows a noun although it can follow a noun plus particle.
 </p>
 
 <p>
@@ -99,7 +106,7 @@ as to whether the decision has yet been enacted.
 </p>
 
 <p>
-@HI{{ni kimeru}} has the same meaning and can be used interchangeably with @HI{{@EM{{ni suru}}}}, although @HI{{ni kimeru}}
+@HI{{ni kimeru}} has the same meaning and can be used interchangeably with @HI{{@EM{{nisuru}}}}, although @HI{{ni kimeru}}
 is usually used only when the decision is considered to be important.
 </p>
 
@@ -107,7 +114,7 @@ is usually used only when the decision is considered to be important.
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 310).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 44).
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
 </ol>
 
 @include{{"grammar-footer.inc"}}

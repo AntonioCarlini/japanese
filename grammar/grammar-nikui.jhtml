@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vmasustem{{}} @HI{{@EM{{nikui}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{nikui}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -24,30 +24,28 @@
 <p>
 @HI{{@EM{{nikui}}}} is an auxiliary that adds a nuance of "difficult to do".
 The combined form functions as an @HI{{i}}-adjective and inflects in the same way.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KJ{{book}}ha @KJ{{large^unusual read}}mi@EM{{nikui}}desu.}}
+      @HI{{kono@KJ{{book}}ha@KJ{{large^unusual read}}mi@EM{{nikui}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       This book is very hard to read.
   </td> </tr>
 </table>
-<li>
+</p>
+
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{east^capital}}ha @KJ{{dwell}}mi@EM{{nikui}}desu.}}
+      @HI{{@KJ{{east^capital}}ha@KJ{{dwell}}mi@EM{{nikui}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Living in Tokyo is difficult.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -55,7 +53,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 307).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 44).
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
 <li> @UCREF{{NKZM-N3G}}. (p. 97).
 </ol>
 

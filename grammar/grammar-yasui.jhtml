@@ -16,23 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vmasustem{{}} @HI{{@EM{{yasui}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{yasui}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{yasui}}}} is an auxiliary that adds a nuance of "easy to do".
-</p>
 
-<p>
-The combined form functions as an @HI{{i}}-adjective and inflects in the same way.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono @KJ{{sino-^character}}ha @KJ{{memorize}}e@EM{{yasui}}desu.}}
@@ -41,7 +35,9 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
       This kanji is easy to remember.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono @KT{{pen}}ha kaki@EM{{yasui}}desu.}}
@@ -50,7 +46,14 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
       This pen is easy to write with.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+The combined form functions as an @HI{{i}}-adjective and inflects in the same way.
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -58,7 +61,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 541).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 44).
+<li> @REF{{MNN-TR-II}}. (Chapter 44).
 <li> @UCREF{{NKZM-N3G}}. (p. 96).
 </ol>
 
