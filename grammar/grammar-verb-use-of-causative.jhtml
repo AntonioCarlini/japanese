@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{person}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(intransitive)}}
-<li> @FORMATION{{@N{{person}} @HI{{ni}} @N{{}} @HI{{wo}} @EM{{@Vsaseru{{}}}}(transitive)}}
+<li> @FORMATION{{@N{{person}}@HI{{wo}}@EM{{@Vsaseru{{}}}}(intransitive)}}
+<li> @FORMATION{{@N{{person}}@HI{{ni}}@N{{}}@HI{{wo}}@EM{{@Vsaseru{{}}}}(transitive)}}
 </ol>
 
 <h2> Definition </h2>
@@ -43,8 +43,8 @@ When the causative is used with a transitive verb, the causee is always marked w
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{morning}}ha @KJ{{busy}}shii desukara, @KJ{{daughter}}ni @KJ{{morning}}gohan'no
-      @KJ{{semi-^equip}}wo @EM{{@KJ{{hand^transmit}}wasemasu}}.}}
+      @HI{{@KJ{{morning}}ha@KJ{{busy}}shiidesukara,@KJ{{daughter}}ni@KJ{{morning}}gohan'no
+      @KJ{{semi-^equip}}wo@EM{{@KJ{{hand^transmit}}wasemasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I am busy in the morning, so I make my daughter help prepare breakfast.
@@ -60,8 +60,7 @@ In this case the causee usually takes the action intentionally.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha @KJ{{daughter}}wo @KJ{{oneself^wherefore}}ni
-      @EM{{@KJ{{play}}basemashita}}.}}
+      @HI{{@KJ{{private}}ha@KJ{{daughter}}wo@KJ{{oneself^wherefore}}ni@EM{{@KJ{{play}}basemashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I let my daughter play freely.
@@ -75,7 +74,7 @@ In this case it does not matter whether the causee takes the action volutarily o
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ha @KJ{{mountain^rice*field}}sannwo@KJ{{large^heights}}he@EM{{@KJ{{exit^lengthen}}sasemasu}}.}}
+      @HI{{@KJ{{section^long}}ha@KJ{{mountain^rice*field}}sannwo@KJ{{large^heights}}he@EM{{@KJ{{exit^lengthen}}sasemasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The department manager makes Mr. Yamada go to Osaka on business.
@@ -104,9 +103,8 @@ In a causative sentence, the causer must be equal or higher in status that the c
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{station}}ni @KJ{{don}}itara, o@KJ{{electricity^tale}}wo kudasai.
-      @KJ{{person*in*charge}}no@KJ{{someone}}wo @KJ{{welcome}}eni
-      @EM{{@KJ{{going}}kasemasu}}kara.}}
+      @HI{{@KJ{{station}}ni@KJ{{don}}itara,o@KJ{{electricity^tale}}wokudasai.
+      @KJ{{person*in*charge}}no@KJ{{someone}}wo@KJ{{welcome}}eni@EM{{@KJ{{going}}kasemasu}}kara.}}
   </td> </tr>
   <tr class="en"> <td>
       When you arrive at the station, please call me. I will send a member of staff to pick you up.
@@ -123,7 +121,7 @@ In a causative sentence, the causer must be equal or higher in status that the c
 
 <ol>
 <li> @UCREF{{MNN-TR-II}}. (Chapter 48).
-<li> @UCREF{{DOBJG}}. (p. 387)
+<li> @REF{{DOBJG}}. (p. 387)
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 

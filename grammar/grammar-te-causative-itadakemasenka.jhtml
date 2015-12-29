@@ -23,29 +23,23 @@
 
 <p>
 @EM{{@Vte{{}}(causative)@HI{{itadakemasenka}}}} is used to ask permission to do something.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KJ{{friend^accomplished}}no @KJ{{tie^marriage^style}}ga arunode,
-      @KJ{{early^retreat}}@EM{{sasete itadakemasenka}}.}}
+      @HI{{@KJ{{friend^accomplished}}no@KJ{{tie^marriage^style}}gaarunode,@KJ{{early^retreat}}@EM{{saseteitadakemasenka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       As I'm going to my friend's wedding, would you please let me leave earlier?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 48).
+<li> @REF{{MNN-TR-II}}. (Chapter 48).
 </ol>
 
 @include{{"grammar-footer.inc"}}
