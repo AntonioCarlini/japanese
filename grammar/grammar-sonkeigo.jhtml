@@ -31,30 +31,66 @@ Verbs are affected in various ways.
 
 <p>
 <a href="grammar-verb-formation-passive.html">Passive</a> verbs are considered to be respectful. 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{in^village}}sanha7@KJ{{time}}ni@KJ{{come}}raremasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Nakamura is coming at seven.
+  </td> </tr>
+</table>
 </p>
 
-<h3> @HI{{o}}@Vmasustem{{}} @HI{{ni naru}} </h3>
+<h3> @HI{{o}}@Vmasustem{{}}@HI{{ninaru}} </h3>
 
 <p>
-The @HI{{o}}@Vmasustem{{}} @HI{{ni naru}} construction can be used for most verbs to produce a
+The @HI{{o}}@Vmasustem{{}}@HI{{ninaru}} construction can be used for most verbs to produce a
 respectful form of most verbs. This form is considered
 to be more respectful than using the passive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{company^long}}hamouo@KJ{{homecoming}}rininarimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The company president has already left for home.
+  </td> </tr>
+</table>
 </p>
 
 <h3> Special Respectful Verb Forms </h3>
 
 <p>
-The @HI{{o}}@Vmasustem{{}} @HI{{ni naru}} construction cannot be used with some verbs.
+The @HI{{o}}@Vmasustem{{}}@HI{{ninaru}} construction cannot be used with some verbs.
 These verbs have special respectful forms, as shown
 in the table above. These are considered to have the same level of respectfulness as  the
-@HI{{o}}@Vmasustem{{}} @HI{{ni naru}}
+@HI{{o}}@Vmasustem{{}}@HI{{ninaru}}
 construction.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{douzo@KJ{{seduce}}shi@KJ{{above}}gattekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please help yourselves.
+  </td> </tr>
+</table>
 </p>
 
-<h3> @HI{{o}} @Vmasustem{{}} @HI{{kudasai}} </h3>
+<h3> @HI{{o}}@Vmasustem{{}}@HI{{kudasai}} </h3>
 
 <p>
 This is the respectful way of instructing or inviting someone to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{achirakarao}}@KJ{{enter}}@HI{{rikudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please enter from over there.
+  </td> </tr>
+</table>
 </p>
 
 <h3> Nouns, Adjectives and Adverbs </h3>
@@ -69,53 +105,12 @@ Nouns, adjectives and adverbs also have a respectful form. This is formed by pre
 To be very polite, change @Vte{{}} to @Vmasustem{{}}@HI{{mashite}}.
 </p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{in^village}}sanha 7@KJ{{time}}ni @KJ{{come}}raremasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Mr. Nakamura is coming at seven.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{company^long}}ha mou o@KJ{{homecoming}}rini narimashita.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The company president has already left for home.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{douzo @KJ{{seduce}}shi@KJ{{above}}gatte kudasai.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Please help yourselves.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{achirakara o}}@KJ{{enter}}@HI{{ri kudasai.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Please enter from over there.
-  </td> </tr>
-</table>
-</ol>
-
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 49).
+<li> @REF{{MNN-TR-II}}. (Chapter 49).
 <li> @UCREF{{NKZM-N3G}}. (p. 52).
 </ol>
 
