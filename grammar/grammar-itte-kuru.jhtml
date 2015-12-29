@@ -15,34 +15,34 @@
 
 <h2> Formation </h2>
 
-@EM{{@Nplace{{}} @HI{{he}} @KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}}}}
+<ol>
+<li> @FORMATION{{@EM{{@Nplace{{}}@HI{{he}}@KJ{{going}}@HI{{tte}}@KJ{{come}}@HI{{ru}}}}}}
+</ol>
 
 <h2> Definition </h2>
 
+<p>
 This sentence pattern is used when the speaker means to say "to go somewhere  and come back"
 without specifying what might be done at the remote destination.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{mail^convenience^bureau}}he @EM{{@KJ{{going}}tte @KJ{{come}}masu}}.}}
+    @HI{{@KJ{{mail^convenience^bureau}}he@EM{{@KJ{{going}}tte@KJ{{come}}masu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I'm going to the post office (and coming back).
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 43).
+<li> @REF{{MNN-TR-II}}. (Chapter 43).
 </ol>
+
 @include{{"grammar-footer.inc"}}
 
 </body>
