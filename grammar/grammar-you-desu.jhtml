@@ -2,25 +2,25 @@
 <html>
 
 <head>
-<title>@HI{{you desu}}</title>
+<title>@HI{{youdesu}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{you desu}}" grammar="@HI{{you desu}}"}}
+@GRMIDX{{index="@HI{{youdesu}}" grammar="@HI{{youdesu}}"}}
 
 <body>
 
-<h1>@HI{{you desu}} </h1>
+<h1>@HI{{youdesu}} </h1>
 
 <h2> Formation </h2>
 
 <dl>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{you desu}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{you desu}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{you desu}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{you desu}}}}}}
-<li> @FORMATION{{<em>demonstrative</em> @HI{{@EM{{you desu}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{youdesu}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{youdesu}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{youdesu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{youdesu}}}}}}
+<li> @FORMATION{{<em>demonstrative</em> @HI{{@EM{{youdesu}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,12 +35,11 @@ information, usually visual information.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{you desu}}}} can express either the likelihood of something or the likeness of something to something else.
+@HI{{@EM{{youdesu}}}} can express either the likelihood of something or the likeness of something to something else.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{matter^happenstance}}no@EM{{you desu}} ne. @KT{{patoka-}}to
-    @KJ{{salvation^hurry^car}}ga @KJ{{come}}te imasuyo.}}
+    @HI{{@KJ{{matter^happenstance}}no@EM{{youdesu}}ne.@KT{{patoka-}}to@KJ{{salvation^hurry^car}}ga@KJ{{come}}teimasuyo.}}
   </td> </tr>
   <tr class="en"> <td>
     It looks like there has been an accident. A patrol car and ambulance are there.
@@ -50,7 +49,22 @@ information, usually visual information.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{you desu}}}} can be used before a noun in the form @HI{{@EM{{youna}}}}.
+When @HI{{@EM{{youdesu}}}} accompanies @HI{{doumo}}, it suggests that the speaker is not certain if what is being said is a fact.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{sekimo @KJ{{exit}}rushi, @KJ{{head}}mo @KJ{{pain}}i. doumo kaze wo hita@EM{{youdesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I have a cough and a headache. It looks like I've caught a cold.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{youdesu}}}} can be used before a noun in the form @HI{{@EM{{youna}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -64,7 +78,7 @@ information, usually visual information.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{you desu}}}} can be used before a verb in the form @HI{{@EM{{youni}}}}.
+@HI{{@EM{{youdesu}}}} can be used before a verb in the form @HI{{@EM{{youni}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -78,31 +92,16 @@ information, usually visual information.
 
 @BGRNDEND{{}}
 
-<h2> Examples </h2>
-
-<ol>
-<li>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{sekimo @KJ{{exit}}rushi, @KJ{{head}}mo @KJ{{pain}}i. doumo kaze wo hita@EM{{you desu}}.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    I have a cough and a headache. It looks like I've caught a cold.
-  </td> </tr>
-</table>
-</ol>
-
 <h2> Notes </h2>
 
 <p>
-The colloquial form of @HI{{@EM{{you desu}}}} is @HI{{mitai}}.
+The colloquial form of @HI{{@EM{{youdesu}}}} is <a href="grammar-mitai.html">@HI{{mitai}}</a>.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 47).
+<li> @REF{{MNN-TR-II}}. (Chapter 47).
 <li> @UCREF{{DOBJG}}. (p. 547).
 </ol>
 

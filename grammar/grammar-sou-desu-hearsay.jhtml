@@ -2,24 +2,24 @@
 <html>
 
 <head>
-<title>@HI{{sou desu}} (hearsay)</title>
+<title>@HI{{soudesu}} (hearsay)</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{sou desu}} (hearsay)" grammar="@HI{{sou desu}} (hearsay)"}}
+@GRMIDX{{index="@HI{{soudesu}} (hearsay)" grammar="@HI{{soudesu}} (hearsay)"}}
 
 <body>
 
-<h1>@HI{{sou desu}} (hearsay)</h1>
+<h1>@HI{{soudesu}} (hearsay)</h1>
 
 <h2> Formation </h2>
 
 <dl>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{sou desu}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{sou desu}}}}}}
-<li> @FORMATION{{@Anastem{{}} @HI{{da}} @HI{{@EM{{sou desu}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{da}} @HI{{@EM{{sou desu}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{da}}@HI{{@EM{{soudesu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{da}}@HI{{@EM{{soudesu}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,47 +27,44 @@
 <p>
 This sentence pattern is used to relay information that the speaker has obtained from another source. In using this
 sentence pattern the speaker is not adding his own point of view.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{heavens^spirit^beforehand^report}}ni yoruto, ashitaha @KJ{{cold}}ku naru@EM{{sou desu}}.}}
+    @HI{{@KJ{{heavens^spirit^beforehand^report}}niyoruto,ashitaha@KJ{{cold}}kunaru@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     According to the weather report, it will be cold tomorrow.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KT{{bari}}@KJ{{island}}ha totemo kireida@EM{{sou desu}}.}}
+    @HI{{@KT{{bari}}@KJ{{island}}hatotemokireida@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
     I hear that Bali is very beautiful.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <p>
-To specify the source of the information, use N @HI{{ni yoruto}}
+To specify the source of the information, use @N{{}}@HI{{niyoruto}}.
 </p>
 
 <p>
-In the @HI{{@EM{{sou desu}}}} construction the source of the information may be 3rd hand. When 
-@HI{{to @KJ{{say}}tte imashita}} is used the source of the information is always whoever is said to
+In the @HI{{@EM{{soudesu}}}} construction the source of the information may be 3rd hand. When 
+@HI{{to@KJ{{say}}tteimashita}} is used the source of the information is always whoever is said to
 have spoken.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 47).
+<li> @REF{{MNN-TR-II}}. (Chapter 47).
 <li> @UCREF{{DOBJG}}. (p. 407).
 </ol>
 
