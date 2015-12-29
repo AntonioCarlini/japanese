@@ -26,67 +26,64 @@
 
 <p>
 @HI{{gozaimasu}} is the polite equivalent of @HI{{arimasu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^tale}}ha@KJ{{story^grade}}no@KJ{{sideways}}gozaimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The pay phone is beside the stairs.
+  </td> </tr>
+</table>
 </p>
 
 <h3> @HI{{degozaimasu}} </h3>
 
 <p>
 @HI{{degozaimasu}} is the polite equivalent of @HI{{desu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{hai,}}IMC@HI{{degozaimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hello, this is IMC.
+  </td> </tr>
+</table>
 </p>
 
 <h3> @HI{{yoroshiideshouka}} </h3>
 
 <p>
 @HI{{yoroshiideshouka}} is the polite equivalent of @HI{{iidesuka}}.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{electricity^tale}}ha @KJ{{story^grade}}no @KJ{{sideways}} gozaimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      The pay phone is beside the stairs.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{hai,}} IMC@HI{{de gozaimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Hello, this is IMC.
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{ko-hi-}}wo o@KJ{{petition}}ishimasu.}}
+      @HI{{@KT{{ko-hi-}}woo@KJ{{petition}}ishimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Coffee please.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono @KT{{panfuretto}}wo itadaitemo yoroshiideshouka.}}
+      @HI{{kono@KT{{panfuretto}}woitadaitemoyoroshiideshouka.}}
   </td> </tr>
   <tr class="en"> <td>
       May I have one of these pamphlets?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 50).
+<li> @REF{{MNN-TR-II}}. (Chapter 50).
 <li> @UCREF{{NKZM-N3G}}. (p. 53).
 </ol>
 

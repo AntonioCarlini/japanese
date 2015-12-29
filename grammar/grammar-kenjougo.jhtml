@@ -28,11 +28,20 @@ oneself to show respect to the other party.
 Verbs are affected in various ways.
 </p>
 
-<h3> @HI{{o}}@Vmasustem{{}} @HI{{shimasu}} </h3>
+<h3> @HI{{o}}@Vmasustem{{}}@HI{{shimasu}} </h3>
 
 <p>
-The @HI{{o}}@Vmasustem{{}} @HI{{shimasu}} construction can be used for most regular @1D{{}}
+The @HI{{o}}@Vmasustem{{}}@HI{{shimasu}} construction can be used for most regular @1D{{}}
 and @5D{{}} verbs to produce a humble form of the verb.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{heavy}}soudesune.o@KJ{{hold}}chishimashouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It looks heavy. Shall I carry it for you? 
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -44,6 +53,15 @@ It cannot be used with verbs whose stem is just one mora.
 <p>
 The @HI{{go}}@Vmasustem{{}}  construction can be used for verbs that involve @HI{{suru}} or
 @HI{{kuru}}. Only those verbs which imply some connection with the listener can be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kyouno@KJ{{beforehand^determine}}wogo@KJ{{explanation^bright}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will explain today's schedule.
+  </td> </tr>
+</table>
 </p>
 
 <p>
@@ -58,30 +76,6 @@ The above constructions cannot be used with some verbs.
 These verbs have special humble forms, as shown
 in the table above.
 
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KJ{{heavy}}soudesune. o@KJ{{hold}}chishimashouka.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      It looks heavy. Shall I carry it for you? 
-  </td> </tr>
-</table>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{kyouno@KJ{{beforehand^determine}}wo go@KJ{{explanation^bright}}shimasu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      I will explain today's schedule.
-  </td> </tr>
-</table>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{ashitaha darega @KJ{{hand^transmit}}ini @KJ{{come}}te kuremasuka.}}
@@ -95,14 +89,14 @@ in the table above.
       B: I will.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 50).
+<li> @REF{{MNN-TR-II}}. (Chapter 50).
 <li> @UCREF{{NKZM-N3G}}. (p. 53).
 </ol>
 
