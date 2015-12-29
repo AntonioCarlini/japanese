@@ -16,34 +16,30 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{no @EM{{ni}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{@EM{{ni}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{no@EM{{ni}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+<p>
 When the sentence patterns above are followed by expressions such as @HI{{tsukau}}, @HI{{ii}},
-@HI{{benrida}}, @HI{{yakuni tatsu}} and so on, they indicate a purpose.
-<p></p>
+@HI{{benrida}}, @HI{{yakunitatsu}} and so on, they indicate a purpose.
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono hasamiha}} @KJ{{flower}}@HI{{wo}} @KJ{{cut}}@HI{{runo@EM{{ni}}}} @KJ{{use}}@HI{{imasu.}}
+      @HI{{konohasamiha}}@KJ{{flower}}@HI{{wo}}@KJ{{cut}}@HI{{runo@EM{{ni}}}}@KJ{{use}}@HI{{imasu.}}
   </td> </tr>
   <tr class="en"> <td>
       This pair of scissors is used to cut flowers.
   </td> </tr>
 </table>      
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
+<li> @REF{{MNN-TR-II}}. (Chapter 42).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -21,14 +21,10 @@
 
 <h2> Definition </h2>
 
+<p>
 When it follows a quantifier, the particle @HI{{ha}} indicates that the speaker believes
 this to be the minimum amount necessary.
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @KJ{{day}}@KJ{{book}}@HI{{deha}} @KJ{{tie}}@KJ{{marriage}}@KJ{{}}@HI{{wo surunoni}}
@@ -38,12 +34,12 @@ this to be the minimum amount necessary.
       In Japan you need at least 2 million yen to hold a wedding.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
+<li> @REF{{MNN-TR-II}}. (Chapter 42).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -17,9 +17,9 @@
 
 <ol>
 <li> @FORMATION{{@Vru{{}}(<em>volitional</em>) @HI{{@EM{{tameni}}}}, <em>volitional expression</em>}}
-<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{tameni}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{tameni}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{tameni}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{tameni}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{tameni}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{tameni}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -32,8 +32,8 @@ This sentence pattern indicates a purpose if the main clause is a volitional exp
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}} @HI{{@EM{{tameni}}}},
-      @KJ{{savings}}@KJ{{gold}}@HI{{shite imasu.}}
+      @KJ{{oneself}}@KJ{{part}}@HI{{no}}@KJ{{store}}@HI{{wo}}@KJ{{hold}}@HI{{tsu}}@HI{{@EM{{tameni}}}},
+      @KJ{{savings}}@KJ{{gold}}@HI{{shiteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I am saving money in order to have my own shop.
@@ -57,12 +57,11 @@ If the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted t
 
 @BGRND{{}}
 <p>
-The pattern @N{{}} @HI{{no @EM{{tameni}}}} can also indicate
-"for the benefit of @N{{}}".
+The pattern @N{{}}@HI{{no@EM{{tameni}}}} can also indicate "for the benefit of @N{{}}".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @KJ{{house}}@KJ{{tribe}}@HI{{no}}@HI{{@EM{{tameni}}}}, @HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
+      @KJ{{house}}@KJ{{tribe}}@HI{{no}}@HI{{@EM{{tameni}}}},@HI{{uchi wo}}@KJ{{build}}@HI{{temasu.}}
   </td> </tr>
   <tr class="en"> <td>
       I will build a house for my family.
@@ -98,7 +97,7 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 42).
+<li> @REF{{MNN-TR-II}}. (Chapter 42).
 <li> @UCREF{{DOBJG}}. (p. 447).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
