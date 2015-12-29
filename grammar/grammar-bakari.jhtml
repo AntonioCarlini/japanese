@@ -17,14 +17,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@Vte{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@Vta{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Vta{{}}@HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{bakari}}}}}}
 <li> @FORMATION{{@N{{}} @PRT{{}} @HI{{@EM{{bakari}}}}}}
-<li> @FORMATION{{@QNTF{{}} @HI{{@EM{{bakari}}}}}}
+<li> @FORMATION{{@QNTF{{}}@HI{{@EM{{bakari}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -42,7 +42,7 @@ speaker's feeling that determines whether the action is recent or not.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sakki @KJ{{daytime}}gohanwo @KJ{{eat}}beta @EM{{bakari}} desu.}}
+    @HI{{sakki@KJ{{daytime}}gohanwo@KJ{{eat}}beta@EM{{bakari}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
     I had lunch just a little while ago.
@@ -233,7 +233,7 @@ When @HI{{@EM{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 84).
-<li> @UCREF{{MNN-TR-II}}. (Chapter 46).
+<li> @REF{{MNN-TR-II}}. (Chapter 46).
 <li> @UCREF{{AAP}}. (p. 78).
 <li> @UCREF{{NKZM-N2G}}. (p. 12).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
