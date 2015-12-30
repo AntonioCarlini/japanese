@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{teitadakemasenka}}" grammar="@Vte{{}}@HI{{itadakemasenka}}"}}
+@GRMIDX{{index="@HI{{temoraemasenka}}" grammar="@Vte{{}}@HI{{moraemasenka}}"}}
 
 <body>
 
@@ -17,12 +18,16 @@
 
 <ol>
 <li> @FORMATION{{@EM{{@Vte{{}}@HI{{itadakemasenka}}}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{moraemasenka}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{itadakemasenka}}}} is used to ask "Would you please do me the favour of ...".
+<a name="itadaku">@EM{{@Vte{{}}@HI{{itadakemasenka}}}}</a> is used to ask "Would you please do me the favour of ...".
 It is a politer request expression than <a href="grammar-te-kudasai.html">@Vte{{}}@HI{{kudasai}}</a>.
 
 <table class="sentence" border=0>
@@ -36,11 +41,27 @@ It is a politer request expression than <a href="grammar-te-kudasai.html">@Vte{{
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="morau">@EM{{@Vte{{}}@HI{{moraemasenka}}}}</a> is also used to ask "Would you please do me the favour of ...".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{chotto@KT{{pen'}}wo@FG{{@KJ{{lend}}:ka}}shi@EM{{temoraemasenka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Could you lend me your pen for a moment please?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 26).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}

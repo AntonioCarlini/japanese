@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{teitadakenaideshouka}}" grammar="@Vte{{}}@HI{{itadakenaideshouka}}"}}
+@GRMIDX{{index="@HI{{temoraenaideshouka}}" grammar="@Vte{{}}@HI{{moraenaideshouka}}"}}
 
 <body>
 
@@ -17,17 +18,35 @@
 
 <ol>
 <li> @FORMATION{{@EM{{@Vte{{}}@HI{{itadakenaideshouka}}}}}}
+<li> @FORMATION{{@EM{{@Vte{{}}@HI{{moraenaideshouka}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@EM{{@Vte{{}}@HI{{itadakenaideshouka}}}} is used to ask "Would you please do me the favour of ...".
+<a name="itadaku">@EM{{@Vte{{}}@HI{{itadakenaideshouka}}}}</a> is used to ask "Would you please do me the favour of ...".
 It is a politer request expression than <a href="grammar-te-itadakemasenka.html">@Vte{{}}@HI{{itadakemasenka}}</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{sumimasen,@KJ{{child}}domoga@KJ{{lie*down}}teirunode,mou@KJ{{few}}@KJ{{quiet}}kanishiteitadakenaideshouka.}}
+      @HI{{@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{translate}}:wake}}gozaimasenga,@KJ{{child}}domowo@FG{{@KJ{{deposit}}:azu}}kaxtsu@EM{{teitadakenaideshouka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm very sorry to trouble you but could you possibly look after my child for me?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="morau">@EM{{@Vte{{}}@HI{{moraenaideshouka}}}}</a> is also used to ask "Would you please do me the favour of ...".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{sumimasen,@KJ{{child}}domoga@KJ{{lie*down}}teirunode,mou@KJ{{few}}@KJ{{quiet}}kanishi@EM{{temoraenaideshouka}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Excuse me, my child's asleep so would you mind being a little quieter please?.
@@ -35,10 +54,12 @@ It is a politer request expression than <a href="grammar-te-itadakemasenka.html"
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}
