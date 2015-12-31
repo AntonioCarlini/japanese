@@ -23,12 +23,7 @@
 
 <p>
 @HI{{@EM{{gotoni}}}} is used to indicate that something happens regularly at a certain spacing in time or space.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{three^time^interval}}@EM{{gotoni}}@KJ{{medicine}}wo@KJ{{drink}}mimashita.}}
@@ -37,7 +32,9 @@
       I took medicine every three hours.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{correct^month}}ha@KJ{{house}}@EM{{gotoni}}@KJ{{gates^pine*tree}}wo@KJ{{stand*up}}temasu.}}
@@ -46,14 +43,14 @@
       They put up pine tree decorations at every house on New Year's Day.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 128).
+<li> @REF{{DOBJG}}. (p. 128).
 </ol>
 
 @include{{"grammar-footer.inc"}}
