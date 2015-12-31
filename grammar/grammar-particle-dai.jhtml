@@ -15,20 +15,14 @@
 
 <h2> Formation </h2>
 
-<dl>
-<dt>(A)
 <ol>
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{dai}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{@EM{{dai}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{dai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dai}}}}}}
+<li> @Vplain{{}}@HI{{nn}}@HI{{@EM{{dai}}}}
+<li> @Ai{{}}@HI{{nn}}@HI{{@EM{{dai}}}}
+<li> @Ana{{}}@HI{{nn}}@HI{{@EM{{dai}}}}
+<li> @N{{}}@HI{{nann}}@HI{{@EM{{dai}}}}
 </ol>
-<dt>(B)
-<ol>
-<li> @Vplain{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
-<li> @Ai{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
-<li> @Ana{{}} @HI{{nn}} @HI{{@EM{{dai}}}}
-<li> @N{{}} @HI{{nann}} @HI{{@EM{{dai}}}}
-</ol>
-</dl>
 
 <h2> Definition </h2>
 
@@ -55,14 +49,14 @@ When @HI{{@EM{{dai}}}} is used with a question, it must be an interrogative one:
 <p>
 @HI{{@EM{{dai}}}} is actually the <a href="grammar-copula.html">copula</a> followed by @HI{{i}}, so it can only
 follow @HI{{na}}-adjectives and nouns. It can follow @HI{{i}}-adjectives and verbs if the form @HI{{@EM{{ndai}}}}
-as the @HI{{nn}} is an abbreviation of the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>.
+is used as the @HI{{nn}} is an abbreviation of the nominaliser <a href="grammar-no-nominaliser.html">@HI{{no}}</a>.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 90).
-<li> @UCREF{{AAP}}. (p. 140).
+<li> @REF{{DOBJG}}. (p. 90).
+<li> @REF{{AAP}}. (p. 140).
 </ol>
 
 @include{{"grammar-footer.inc"}}
