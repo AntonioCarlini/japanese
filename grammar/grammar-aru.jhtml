@@ -16,28 +16,60 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N1{{location}}@HI{{ni}}@HI{{ha}}@N2{{}}@HI{{ga}}@HI{{@EM{{aru}}}}}}
+<li> @FORMATION{{@N1{{location}}@HI{{ni}}@N2{{}}@HI{{ga}}@HI{{@EM{{aru}}}}}}
 <li> @FORMATION{{@N1{{}}@HI{{ha}}@N2{{location}}@HI{{ni}}@HI{{@EM{{aru}}}}}}
 <li> @FORMATION{{@HI{{@EM{{aru}}}} <em>predicate</em>}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-In the first sentence pattern, a location is presented as the topic and @HI{{@EM{{aru}}}}
-focuses on what exists. @HI{{ni}} may be dropped.
+In the sentence pattern @N1{{location}}@HI{{ni}}@N2{{}}@HI{{ga}}@HI{{@EM{{aru}}}}, a location is
+presented as the topic and @HI{{@EM{{aru}}}} focuses on what exists. @HI{{ni}} may be dropped.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{watashino@FG{{@KJ{{section^roof}}:heya}}ni@FG{{@KJ{{desk}}:tsukue}}gaarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a desk in my room.
+  </td> </tr>
+</table>
 </p>
 
+@BGRND{{}}
 <p>
-In the second sentence pattern, a thing is presented as the topic and @HI{{@EM{{aru}}}}
+In the sentence pattern @N1{{}}@HI{{ha}}@N2{{location}}@HI{{ni}}@HI{{@EM{{aru}}}}, a thing is presented as the topic and @HI{{@EM{{aru}}}}
 focuses on where that thing is.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{east^capital}}:toukyou}}@KT{{dexizuni-rando}}ha@FG{{@KJ{{thousand^leaf^prefecture}}:chibaken'}}niarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Tokyo Disneyland is in Chiba Prefecture.
+  </td> </tr>
+</table>
 </p>
 
+@BGRND{{}}
 <p>
 Note that @HI{{@EM{{aru}}}} uses @HI{{ga}} to mark its object and not @HI{{wo}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{watashiha@KJ{{car}}gaarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I have a car.
+  </td> </tr>
+</table>
 </p>
 
-<h2> Examples </h2>
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -63,7 +95,7 @@ rather than @HI{{ni}} must be used.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 73).
+<li> @REF{{DOBJG}}. (p. 73).
 <li> @REF{{MNN-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
