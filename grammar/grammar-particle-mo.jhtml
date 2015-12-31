@@ -15,22 +15,11 @@
 
 <h2> Formation </h2>
 
-<p>
-<dl>
-<dt> (A) "also, too"
 <ol>
-<li> @FORMATION{{@N1{{}} @HI{{ha}} ... @N2{{}} @HI{{@EM{{mo}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ha}} ... @N2{{}}@HI{{@EM{{mo}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{mo}}}}@N2{{}}@HI{{@EM{{mo}}}}}}
+<li> @FORMATION{{number/counter @HI{{@EM{{mo}}}}}}
 </ol>
-<dt> (B) "both, as well"
-<ol>
-<li> @N1{{}} @HI{{@EM{{mo}}}} @N2{{}} @HI{{@EM{{mo}}}}
-</ol>
-<dt> (C) "as much as, as many as"
-<ol>
-<li> number/counter @HI{{@EM{{mo}}}}
-</ol>
-</dl>
-</p>
 
 <h2> Definition </h2>
 
@@ -38,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-<a name="too">In</a> sentence pattern (A) a topic is introduced in the first utterance and in a subsequent sentence
+<a name="too">A</a> a topic may introduced in the first utterance and in a subsequent sentence
 @HI{{@EM{{mo}}}} is used to increase the scope of the topic.
 
 <table class="sentence" border=0>
@@ -54,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-<a name="both">In</a> sentence pattern (B) @N1{{}} and @N2{{}} are introduced as topics in parallel.
+<a name="both">Topics</a> @N1{{}} and @N2{{}} may be introduced in parallel.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -68,7 +57,7 @@
 
 @BGRND{{}}
 <p>
-<a name="as-much-as">In</a> sentence pattern (C) @HI{{@EM{{mo}}}} follows a number or a counter to express the
+<a name="as-much-as">@HI{{@EM{{mo}}}}</a> may follow a number or a counter to express the
 idea that the speaker believes that the amount or number mentioned is large.
 </p>
 
@@ -118,7 +107,7 @@ idea that the speaker believes that the amount or number mentioned is large.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ano@KJ{{section^roof}}niha,dare@EM{{mo}}imasenyo.}}
+      @HI{{ano@KJ{{section^roof}}niha,dare@EM{{mo}}imasen'yo.}}
   </td> </tr>
   <tr class="en"> <td>
       There is noone in that room.
@@ -155,7 +144,7 @@ replacing them.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
-<li> @UCREF{{AAP}}. (p. 26).
+<li> @REF{{AAP}}. (p. 26).
 <li> @UCREF{{DOBJG}}. (p. 247).
 <li> @UCREF{{DOBJG}}. (p. 250).
 <li> @UCREF{{DOBJG}}. (p. 255).
