@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{ha}}}} ... }}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ha}}}} ... }}
 </ol>
 
 <h2> Definition </h2>
@@ -30,7 +30,7 @@ or about which the speaker is expected to know.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune. are @EM{{ha}}@KJ{{sino-^character}}no@KJ{{book}}desu.}}
+      @HI{{asokoni@KJ{{red}}i@KJ{{book}}gaarimasune.are@EM{{ha}}@KJ{{sino-^character}}no@KJ{{book}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       Over there is a red book. It's a kanji book.
@@ -45,8 +45,7 @@ sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de@EM{{ha}}}}
-      @KJ{{in}}@KJ{{country}}@KJ{{word}}@HI{{ga}} @KJ{{learn}}@HI{{emasu.}}
+      @KJ{{private}}@HI{{no}}@KJ{{study}}@KJ{{exam}}@HI{{de@EM{{ha}}}}@KJ{{in}}@KJ{{country}}@KJ{{word}}@HI{{ga}}@KJ{{learn}}@HI{{emasu.}}
   </td> </tr>
   <tr class="en"> <td>
       In my school we can learn Chinese.
@@ -99,7 +98,7 @@ replacing them.
 <ol>
 <li> @UCREF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
-<li> @UCREF{{AAP}}. (p. 10).
+<li> @REF{{AAP}}. (p. 10).
 <li> @UCREF{{DOBJG}}. (p. 516).
 </ol>
 
