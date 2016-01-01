@@ -61,7 +61,7 @@
 <li> @UCREF{{NKZM-N3G}}. (p. 63).
 <li> @UCREF{{NKZM-N2G}}. (p. 87).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

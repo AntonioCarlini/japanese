@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{tabini}}}} is a conjunction used to state that every time the preceding clause occurs, the following clause also occurs.
 
@@ -35,8 +38,9 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@HI{{@EM{{tabi</strong>goto<strong>ni}}}} has the same meaning but adds additional emphasis to "every time".
+@HI{{@EM{{tabi}}goto@EM{{ni}}}} has the same meaning but adds additional emphasis to "every time".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -59,7 +63,7 @@ The @HI{{ni}} particle part of the construction cannot be dropped.
 <ol>
 <li> @UCREF{{DOIJG}}. (p. 442).
 <li> @UCREF{{NKZM-N3G}}. (p. 18).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
