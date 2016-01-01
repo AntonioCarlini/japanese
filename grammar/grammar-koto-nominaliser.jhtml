@@ -20,6 +20,8 @@
 <li> @FORMATION{{@Ai{{}}@HI{{@EM{{koto}}}}}}
 <li> @FORMATION{{@Ana{{}}@HI{{@EM{{koto}}}}}}
 <li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{koto}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{koto}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{koto}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -117,7 +119,7 @@ There are various structures where @HI{{@EM{{koto}}}} is used and @HI{{no}} is n
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @UCREF{{DOBJG}}. (p. 193).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
