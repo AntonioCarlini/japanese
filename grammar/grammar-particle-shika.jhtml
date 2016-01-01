@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{shika}}}} ... V(negative)}}
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{shika}}}} ... V(negative)}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{shika}}}} ... V(negative)}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{shika}}}} ... V(negative)}}
 </ol>
 
 <h2> Definition </h2>
@@ -92,7 +92,7 @@ For all other particles, @HI{{@EM{{shika}}}} follows them rather than replacing 
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
-<li> @UCREF{{AAP}}. (p. 85).
+<li> @REF{{AAP}}. (p. 85).
 </ol>
 
 @include{{"grammar-footer.inc"}}
