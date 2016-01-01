@@ -24,7 +24,7 @@
 <p>
 @HI{{@EM{{ze}}}} is a sentence ending particle that adds force to a sentence. It makes a declaration
 to someone or underscores a point. Where its usage is similar, it is slightly less emphatic than
-<a href="grammar-particle-zo.html">zo</a>.
+<a href="grammar-particle-zo.html">@HI{{zo}}</a>.
 It is mostly used by men.
 </p>
 
@@ -47,7 +47,7 @@ It is mostly used by men.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p 143).
+<li> @REF{{AAP}}. (p 143).
 </ol>
 
 @include{{"grammar-footer.inc"}}

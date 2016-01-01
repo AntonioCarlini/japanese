@@ -58,7 +58,7 @@ In the pattern <a href="grammar-dokoro-ka.html">@HI{{@EM{{dokoroka}}}}</a>, the 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 121).
+<li> @REF{{AAP}}. (p. 121).
 </ol>
 
 @include{{"grammar-footer.inc"}}

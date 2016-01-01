@@ -26,6 +26,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="disagree"> @HI{{@EM{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to express a
 strong negative view or disagreement.
@@ -46,12 +49,11 @@ strong negative view or disagreement.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="intend-not">@HI{{@EM{{monoka}}}}</a> is a sentence ending particle that marks a rhetorical question used to
 express a resolve not to do something.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{an'na@KJ{{place}},mou@KJ{{going}}u@EM{{monka}}.}}
@@ -60,7 +62,9 @@ express a resolve not to do something.
       I wouldn't be caught dead going there again.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{an'nayatsutoha@KJ{{two^degrees}}@KJ{{fit}}u@EM{{monoka}}.}}
@@ -69,10 +73,9 @@ express a resolve not to do something.
       I intend never to see that sort of guy again.
   </td> </tr>
 </table>
-</ol>
 </p>
 
-<p>
+@BGRND{{}}<p>
 In male speech @HI{{@EM{{monoka}}}} becomes @HI{{@EM{{monka}}}} in colloquial male speech.
 
 <table class="sentence" border=0>
@@ -91,12 +94,14 @@ In male speech @HI{{@EM{{monoka}}}} becomes @HI{{@EM{{monka}}}} in colloquial ma
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 144).
+<li> @REF{{AAP}}. (p. 144).
 <li> @UCREF{{DOAJG}}. (p. 266).
 <li> @UCREF{{NKZM-N2G}}. (p. 56).
 <li> @UCREF{{NKZM-N2G}}. (p. 109).

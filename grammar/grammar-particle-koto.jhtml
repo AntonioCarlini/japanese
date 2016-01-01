@@ -22,7 +22,7 @@
 <h2> Definition </h2>
 
 <p>
-The sentence-ending particle @EM{{koto}} is used mainly by women.
+The sentence-ending particle @HI{{@EM{{koto}}}} is used mainly by women.
 </p>
 
 @BGRNDSTART{{}}
@@ -62,7 +62,7 @@ The sentence-ending particle @EM{{koto}} is used mainly by women.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p 138).
+<li> @REF{{AAP}}. (p. 138).
 </ol>
 
 @include{{"grammar-footer.inc"}}
