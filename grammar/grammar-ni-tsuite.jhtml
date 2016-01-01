@@ -26,12 +26,7 @@
 
 <p>
 @HI{{@EM{{nitsuite}}}} means "about" or "concerning".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{sumisu}}sanha@KJ{{day^book}}he @KJ{{detain^study}}surukoto@EM{{nitsuite}}
@@ -41,7 +36,9 @@
       Mr. Smith asked me various questions about his going to Japan for study.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{honorable^house^tribe}}@EM{{nitsuite}}@KJ{{tale}}shite kudasai.}}
@@ -50,7 +47,7 @@
       Please talk about your family.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -59,7 +56,7 @@
 <ol>
 <li> @UCREF{{DOIJG}}. (p. 280).
 <li> @UCREF{{NKZM-N3G}}. (p. 62).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
