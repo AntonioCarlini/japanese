@@ -23,14 +23,10 @@
 
 <h2> Definition </h2>
 
+<p>
 @HI{{@EM{{ni shite ha}}}} is used to mean that there is a generally agreed upon standard and that the sentence containing
 this phrase is a deviation from that standard in some way. It can be translated as "considering that ...".
-<p></p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{tall^mountain}}sanha @KJ{{day^book^person}} @EM{{ni shite ha}} @KJ{{large}}kiidesu.}}
@@ -39,7 +35,9 @@ this phrase is a deviation from that standard in some way. It can be translated 
     Mr. Takayama is big for a Japanese person.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{bobu}}ha @KJ{{day^book^word}}wo yoku @KJ{{exertion^strong}}shite iru @EM{{ni shita ha}} @KJ{{below^hand}}desu.}}
@@ -48,7 +46,9 @@ this phrase is a deviation from that standard in some way. It can be translated 
     Considering that Bob is studying Japanese hard, he is poor at it.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{he}}ha @KT{{resura-}} datta @EM{{ni shite ha}} @KJ{{body}}ga@KJ{{little}}sai.}}
@@ -57,7 +57,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
     Considering that he was a wrestler, he is small.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -72,7 +72,7 @@ this phrase is a deviation from that standard in some way. It can be translated 
 <li> @UCREF{{DOAJG}}. (p. 697).
 <li> @UCREF{{NKZM-N2G}}. (p. 86).
 <li> @UCREF{{NKZM-N2G}}. (p. 124).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
