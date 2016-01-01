@@ -75,7 +75,7 @@ In the form @S1{{}}<a name="whether-or-not"@HI{{@EM{{nishitemo}}}}</a>@S2{{}}@HI
 
 @BGRND{{}}
 <p>
-When used in the form <a name="sore>"@HI{{sore@EM{{nishitemo}}}}</a>, the @HI{{sore}} refers to the previous statement.
+When used in the form <a name="sore">@HI{{sore@EM{{nishitemo}}}}</a>, the @HI{{sore}} refers to the previous statement.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ When used in the form <a name="sore>"@HI{{sore@EM{{nishitemo}}}}</a>, the @HI{{s
 </p>
 
 <p>
-<a name="in-any-case>"@HI{{sore@EM{{nishitemo}}}}</a> can be a set phrase.
+<a name="in-any-case">@HI{{sore@EM{{nishitemo}}}}</a> can be a set phrase.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -111,7 +111,7 @@ When used in the form <a name="sore>"@HI{{sore@EM{{nishitemo}}}}</a>, the @HI{{s
 <li> @UCREF{{NKZM-N2G}}. (p. 47).
 <li> @UCREF{{NKZM-N2G}}. (p. 69).
 <li> @UCREF{{NKZM-N2G}}. (p. 124).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
