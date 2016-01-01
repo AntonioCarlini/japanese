@@ -16,14 +16,17 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}}@HI{{deshou@EM{{ni}}}}. }}
-<li> @FORMATION{{@Ai{{}}@HI{{deshou@EM{{ni}}}}. }}
-<li> @FORMATION{{@Anastem{{}}@HI{{deshou@EM{{ni}}}}. }}
-<li> @FORMATION{{@N{{}}@HI{{deshou@EM{{ni}}}}. }}
+<li> @FORMATION{{@Vplain{{}}@HI{{deshou@EM{{ni}}}}.}}
+<li> @FORMATION{{@Ai{{}}@HI{{deshou@EM{{ni}}}}.}}
+<li> @FORMATION{{@Anastem{{}}@HI{{deshou@EM{{ni}}}}.}}
+<li> @FORMATION{{@N{{}}@HI{{deshou@EM{{ni}}}}.}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{deshou@EM{{ni}}}} indicates that something regrettably has happened, although things could have turned out differently.
 
@@ -37,6 +40,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{darou}} can be used instead of @HI{{deshou}}.
 
@@ -50,6 +54,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 If @HI{{deshou@EM{{ni}}}} follows a conditional clause and a non-past verb or adjective, then this is
 a supposition that is counter to the current situation. If the subject of the conditional clause is the
@@ -66,6 +71,7 @@ that subject.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 If @HI{{deshou@EM{{ni}}}} follows a conditional clause and a past verb or adjective, then this is 
 a supposition that is counter to the past situation. If the subject of the conditional clause is the
@@ -82,6 +88,7 @@ that subject.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 If there is no conditional clause at all, then the entire sentence expresses sympathy.
 
@@ -94,6 +101,8 @@ If there is no conditional clause at all, then the entire sentence expresses sym
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -109,7 +118,7 @@ although it is less often used and the latter does not indicate uncertainty.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 145).
+<li> @REF{{AAP}}. (p. 145).
 <li> @UCREF{{DOIJG}}. (p. 234).
 </ol>
 
