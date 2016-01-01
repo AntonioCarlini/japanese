@@ -39,14 +39,14 @@
 
 @BGRND{{}}
 <p>
-@HI{{nan@EM{{to@KJ{{say}}uka}}}} is used when the speaker cannot come up with a good word or phrase.
+@HI{{nan'@EM{{to@KJ{{say}}uka}}}} is used when the speaker cannot come up with a good word or phrase.
 
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{koreha@KJ{{what}}@EM{{to@KJ{{say}}uka}},maa,@FG{{@KJ{{one^species}}:isshu}}no@FG{{@KJ{{gentle^co-}}:dakyou}}deshoune.}}
   </td> </tr>
   <tr class="en"> <td>
-      WHat should I call it?, Hmm, it's a kind of compromise, I guess.
+      What should I call it?, Hmm, it's a kind of compromise, I guess.
   </td> </tr>
 </table>
 </p>
@@ -70,7 +70,6 @@
   </td> </tr>
 </table>
 </p>
-</p>
 
 @BGRNDEND{{}}
 
@@ -80,7 +79,7 @@
 
 <ol>
 <li> @UCREF{{DOAJG}}. (p. 638).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
