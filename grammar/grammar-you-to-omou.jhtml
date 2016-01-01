@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-A sentence ending in the plain volitional followed by @HI{{to @KJ{{think}}u}} indicates something that the speaker wishes to do.
+A sentence ending in the plain volitional followed by @HI{{to@KJ{{think}}u}} indicates something that the speaker wishes to do.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@ A sentence ending in the plain volitional followed by @HI{{to @KJ{{think}}u}} in
 
 @BGRND{{}}
 <p>
-@HI{{to @KJ{{think}}tteiru}} expresses a similar meaning except it implies that the decision was made some time ago.
+@HI{{to@KJ{{think}}tteiru}} expresses a similar meaning except it implies that the decision was made some time ago.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -55,7 +55,7 @@ A sentence ending in the plain volitional followed by @HI{{to @KJ{{think}}u}} in
 
 @BGRND{{}}
 <p>
-The negative form is @Vru{{}}@HI{{mai to @KJ{{think}}u}}.
+The negative form is @Vru{{}}@HI{{maito@KJ{{think}}u}}.
 </p>
 
 @BGRND{{}}
@@ -88,9 +88,9 @@ The verb before @HI{{to@KJ{{think}}u}} must be something controllable by human v
 <h2> Notes </h2>
 
 <p>
-When the subject is not the speaker, this sentence pattern cannot be used. This is because @HI{{to @KJ{{think}}u}}
+When the subject is not the speaker, this sentence pattern cannot be used. This is because @HI{{to@KJ{{think}}u}}
 refers only to the speaker's thoughts.
-Under these circumstances use @HI{{@KJ{{think}}tte iru}} to indicate that the subject "has indicated that he feels".
+Under these circumstances use @HI{{@KJ{{think}}tteiru}} to indicate that the subject "has indicated that he feels".
 </p>
 
 <h2> References </h2>
@@ -98,7 +98,7 @@ Under these circumstances use @HI{{@KJ{{think}}tte iru}} to indicate that the su
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @UCREF{{DOBJG}}. (p. 569).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -43,7 +43,7 @@ is one of "must" or "have to".
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

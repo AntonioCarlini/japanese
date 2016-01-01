@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{younisuru}}}}}}
-<li> @FORMATION{{@Vnai{{}} @HI{{@EM{{younisuru}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{younisuru}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{younisuru}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -69,7 +69,7 @@ than @Vte{{}}@HI{{kudasai}} and @Vnai{{}}@HI{{dekudasai}}.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 36).
-<li> @UCREF{{NKZM-N3G}}. (p. 50).
+<li> @REF{{NKZM-N3G}}. (p. 50).
 <li> @UCREF{{DOBJG}}. (p. 562).
 <li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>

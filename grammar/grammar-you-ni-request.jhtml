@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}}@HI{{@EM{{youni}}}}}}
-<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{youni}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{youni.}}}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{@EM{{youni.}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -44,7 +44,7 @@ This sentence pattern is used to express a request.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 <li> @UCREF{{NKZM-N3G}}. (p. 71)
 </ol>
 
