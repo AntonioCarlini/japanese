@@ -29,6 +29,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{wakedehanai}}}} is used to deny what is implied in the previous statement. It is often
 used in cases where the circumstances may suggest one thing but the facts are different.
@@ -43,6 +46,7 @@ used in cases where the circumstances may suggest one thing but the facts are di
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{toiuwakedehanai}}}} carries the same meaning as @HI{{@EM{{wakedehanai}}}}.
 
@@ -56,10 +60,12 @@ used in cases where the circumstances may suggest one thing but the facts are di
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{wakedehanai}}}} is the negative form of <a href="grammar-wake-da.html">@HI{{wakeda}}</strong></a>.
+@HI{{@EM{{wakedehanai}}}} is the negative form of <a href="grammar-wake-da.html">@HI{{wakeda}}</a>.
 </p>
 
 <h2> References </h2>
@@ -69,7 +75,7 @@ used in cases where the circumstances may suggest one thing but the facts are di
 <li> @UCREF{{NKZM-N3G}}. (p. 38).
 <li> @UCREF{{NKZM-N2G}}. (p. 57).
 <li> @UCREF{{NKZM-N2G}}. (p. 132).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
