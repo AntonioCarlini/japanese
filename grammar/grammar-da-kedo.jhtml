@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{dakedo}}, @S{{}}}}}}
+<li> @FORMATION{{@HI{{@EM{{dakedo}},@S{{}}}}}}
 <li> @FORMATION{{@N{{}}@HI{{@EM{{dakedo}}}}}}
 <li> @FORMATION{{@Vplain{{}}@HI{{@EM{{dakedo}}}}}}
 </ol>
@@ -55,7 +55,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{dakedo}}}} may appear after verbs and adjectives in the @HI{{nai}} and @HI{{ta}} forms. In this case it appears with the explanatory @HI{{no}} or @HI{{n}}.
+@HI{{@EM{{dakedo}}}} may appear after verbs and adjectives in the @HI{{nai}} and @HI{{ta}} forms. In this case it appears with the explanatory @HI{{no}} or @HI{{n'}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -75,7 +75,7 @@
 
 <ol>
 <li> @UCREF{{EJG}}. (p. 157).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{bakarika}} ... (@HI{{sae}})" grammar="@HI{{bakarika}} ... (@HI{{sae}})"}}
+@GRMIDX{{index="@HI{{bakarika}} ... (@HI{{mo}})" grammar="@HI{{bakarika}} ... (@HI{{mo}})"}}
 
 <body>
 
@@ -15,31 +16,23 @@
 
 <h2> Formation </h2>
 
-<p>
 <ol>
 <li> @FORMATION{{@Vplain{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
 <li> @FORMATION{{@Ai{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
 <li> @FORMATION{{@Ana{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
 <li> @FORMATION{{@N{{}}@HI{{@EM{{bakarika}}}} ... (@HI{{@EM{{sae}}}})}}
 </ol>
-</p>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{bakarika}}}} ... @HI{{@EM{{sae}}}} is a compound particle which carries the meaning of "not only ... but also".
 The item that precedes @HI{{@EM{{bakarika}}}} is something that is normally to be expected and whatever follows
 is something that normally would be unexpected. The main clause cannot express encouragement.
-</p>
 
-<p>
-In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{day^book}}deha @KJ{{child^submit}}@EM{{bakarika}}@KJ{{large^person}}@EM{{sae}}@KJ{{loose^brush-stroke}}wo@KJ{{read}}ndeiru.}}
@@ -48,7 +41,9 @@ In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
     In Japan not only children but even adults are reading comic books.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{ano@KJ{{person}}ha@KJ{{picture}}wo@KJ{{see}}te@KJ{{music}}shimu@EM{{bakarika}},@KJ{{oneself^part}}demo@KJ{{picture}}wo@KJ{{sketch}}ku.}}
@@ -57,16 +52,9 @@ In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
     He not only enjoys looking at pictures, he also draws them.
   </td> </tr>
 </table>
-<li>
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{@KJ{{father}}ha@KJ{{eat}}berunoga@KJ{{fond}}kina@EM{{bakarika}}@KJ{{fee^logic}}wosurunomo@KJ{{large^fond}}kidesu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    My father not only loves to eat, he also loves to cook.
-  </td> </tr>
-</table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{amerika}}deha@KJ{{large^study^life}}@EM{{bakarika}},@KJ{{in^study^life}},
@@ -76,7 +64,23 @@ In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
     In America not only college students but even junior and senior high school students are studying Japanese.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{father}}ha@KJ{{eat}}berunoga@KJ{{fond}}kina@EM{{bakarika}}@KJ{{fee^logic}}wosuruno@EM{{mo}}@KJ{{large^fond}}kidesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    My father not only loves to eat, he also loves to cook.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -85,7 +89,7 @@ In speech @HI{{@EM{{sae}}}} can be replaced by @HI{{mo}}.
 <ol>
 <li> @UCREF{{DOIJG}}. (p. 8).
 <li> @UCREF{{NKZM-N2G}}. (p. 30).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
