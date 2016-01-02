@@ -2,38 +2,34 @@
 <html>
 
 <head>
-<title>@HI{{sore deha}}</title>
+<title>@HI{{soredeha}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{sore deha}}" grammar="@HI{{sore deha}}"}}
+@GRMIDX{{index="@HI{{soredeha}}" grammar="@HI{{soredeha}}"}}
 
 <body>
 
-<h1>@HI{{sore deha}}</h1>
+<h1>@HI{{soredeha}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{sore deha}}}} ...}}
+<li> @FORMATION{{@HI{{@EM{{soredeha}}}} ...}}
 </ol>
 
 <h2> Definition </h2>
 
-@HI{{@EM{{sore deha}}}} is a conjunction which means "if that is the case ...".
-<p></p>
+<p>
+@HI{{@EM{{soredeha}}}} is a conjunction which means "if that is the case ...".
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      A: @HI{{kono @KT{{orenji}}ha @KJ{{sweet}}kunai desu.}}
+      A: @HI{{kono@KT{{orenji}}ha@KJ{{sweet}}kunaidesu.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{@EM{{sore deha}} kore ha dou desuka.}}
+      B: @HI{{@EM{{soredeha}}korehadoudesuka.}}
   </td> </tr>
   <tr class="en"> <td>
       A: This orange is not sweet.
@@ -42,18 +38,21 @@
       B: How about this one then?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
-@HI{{@EM{{sore deha}}}} becomes @HI{{sore ja}} in informal speech.
-<p></p>
+<p>
+@HI{{@EM{{soredeha}}}} becomes @HI{{soreja}} in informal speech.
+</p>
 
-@HI{{@EM{{sore deha}}}} sometimes shortens to @HI{{deha}} which then become @HI{{ja}} in informal speech.
-<p></p>
+<p>
+@HI{{@EM{{soredeha}}}} sometimes shortens to @HI{{deha}} which then become @HI{{ja}} in informal speech.
+</p>
 
-@HI{{@EM{{sore deha}}}} is found at the beginning of a sentence and the @HI{{sore}} refers to something already mentioned.
-<p></p>
+<p>
+@HI{{@EM{{soredeha}}}} is found at the beginning of a sentence and the @HI{{sore}} refers to something already mentioned.
+</p>
 
 <h2> References </h2>
 
