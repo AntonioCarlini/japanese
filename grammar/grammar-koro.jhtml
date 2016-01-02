@@ -16,10 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}} @HI{{@EM{{koro}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{koro}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{koro}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{koro}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{koro}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{koro}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{koro}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{koro}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -27,21 +27,16 @@
 <p>
 @HI{{@EM{{koro}}}} specifies a time period and behaves as a noun. It indicates an approximate
 time and is often translated as "when".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{watashi}}@HI{{no}}@KJ{{child}}domono@EM{{koro}}wo @KJ{{teach}}ete okitai desu.}}
+      @HI{{@KJ{{watashi}}@HI{{no}}@KJ{{child}}domono@EM{{koro}}wo@KJ{{teach}}eteokitaidesu.}}
   </td> </tr>
   <tr class="en"> <td>
       I want to talk about when I was a child.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

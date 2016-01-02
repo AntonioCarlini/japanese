@@ -24,12 +24,7 @@
 <p>
 @HI{{@EM{{suruto}}}} is a conjunction that joins two sentences. The second of the two either describes an event that
 occurs immediately after the first sentence or expresses a logical guess related to it.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{jogingu}}wo@KJ{{commence}}memashita. @EM{{suruto}}go@KJ{{meal}}gaoishikunarimashita.}}
@@ -38,7 +33,9 @@ occurs immediately after the first sentence or expresses a logical guess related
       I began jogging. Then I began to have a good appetite.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       A: @HI{{@KJ{{now^day}}ha@KJ{{month^weekday^day}}desuyo.}}
@@ -53,7 +50,7 @@ occurs immediately after the first sentence or expresses a logical guess related
       B: Then that department store is closed isn't it?
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

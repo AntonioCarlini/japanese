@@ -25,12 +25,7 @@
 @KJ{{many}}@HI{{i}} is an @HI{{i}}-adjective used to describe that there is a lot of something. Unlike most
 @HI{{i}}-adjectives, however, @KJ{{many}}@HI{{i}} cannot be placed in front of a noun. Instead it is
 used in the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @HI{{ga}}</a> construction.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{capital^metropolis}}nihao@KJ{{buddhist*temple}}ga@KJ{{many}}idesu.}}
@@ -39,7 +34,9 @@ used in the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @H
       There are many temples in Kyoto.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{one^month}}niha@KJ{{snow}}ga@KJ{{many}}i.}}
@@ -48,7 +45,7 @@ used in the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @H
       There is a lot of snow in january.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

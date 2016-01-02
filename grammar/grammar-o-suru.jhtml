@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{o}}}}@Vmasustem{{}} @HI{{@EM{{suru}}}}}}
+<li> @FORMATION{{@HI{{@EM{{o}}}}@Vmasustem{{}}@HI{{@EM{{suru}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -24,12 +24,7 @@
 <p>
 With this phrase the speaker describes his own actions or state in a way that shows politeness towards someone else.
 This construction is a humble form.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{private}}ha @KJ{{before^life}} no @KT{{su-tsuke-su}}wo @EM{{o}}@KJ{{hold}}chi @EM{{shimashita}}.}}
@@ -38,7 +33,7 @@ This construction is a humble form.
     I carried the teacher's suitcase.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

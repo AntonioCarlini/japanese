@@ -23,12 +23,7 @@
 
 <p>
 @EM{{@FG{{@KJ{{eye}}:me}}}} is a suffix representing an ordinal number.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@FG{{@KJ{{one^-times}}:ikkai}}@EM{{@FG{{@KJ{{eye}}:me}}}}ha@FG{{@KJ{{lose^failure}}:shippai}}shita.}}
@@ -37,7 +32,7 @@
       I failed the first time.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

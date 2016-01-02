@@ -27,12 +27,7 @@
 <p>
 @HI{{@EM{{kamoshiremasenn}}}} expresses the speaker's conjecture, possibly from some information he has. Note, however, 
 that the probability that the conjecture is correct is lower than with <a href="grammar-deshou.html">@HI{{deshou}}</a>.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{promise^bundle}}no@KJ{{time^interval}}ni @KJ{{interval}}ni@KJ{{fit}}wanai@EM{{kamoshiremasenn}}.}}
@@ -41,7 +36,7 @@ that the probability that the conjecture is correct is lower than with <a href="
       We might not be in time for the appointment.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

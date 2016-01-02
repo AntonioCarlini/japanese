@@ -16,19 +16,14 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vmasustem{{}} @HI{{@EM{{owaru}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{owaru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
 <p>
 @HI{{@EM{{owaru}}}} functions as a auxiliary verb attached to the @HI{{masu}} stem of a verb and gives the meaning of "finish doing ~".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{[@KJ{{source^family*name^thing^word}}]wo yatto @KJ{{read}}mi@KJ{{end}}warimashita.}}
@@ -37,7 +32,7 @@
     I finally finished reading <em>The Tale of the Genji</em>.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

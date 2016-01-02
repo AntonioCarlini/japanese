@@ -24,12 +24,7 @@
 <p>
 @KJ{{exit}}@HI{{su}} is an auxiliary that indicates that something latent has been realised or something
 has started to happen.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{car}}ga@KJ{{move}}ki@KJ{{exit}}shimashita.}}
@@ -38,7 +33,9 @@ has started to happen.
       The car started to move.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{rain}}ga@KJ{{descend}}ri@KJ{{exit}}shita.}}
@@ -47,7 +44,7 @@ has started to happen.
       Suddenly it began to rain.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 

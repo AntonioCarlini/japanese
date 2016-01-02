@@ -26,12 +26,7 @@
 
 <p>
 @HI{{@EM{{~dakede(ha)naku~mo}}}} means "not only ~ but also ~"
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ano@KJ{{person}}hayoku@KJ{{exertion^strong}}suru@EM{{dakedehanaku}}yoku@KJ{{play}}bimasu.}}
@@ -40,7 +35,9 @@
       He not only studies hard, but he plays a lot.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ano@KJ{{person}}ha@KJ{{head}}gaii@EM{{dakedehanaku}}yoku
@@ -50,7 +47,9 @@
       He's not only smart, he studies hard too.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{konouchihakireina@EM{{dakedehanaku}}totemo@KJ{{relax}}idesu.}}
@@ -59,7 +58,9 @@
       That house is not only beautiful but inexpensive too.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{jonn}}@EM{{dekadehanaku}}@KT{{meari-}}mo@KJ{{come}}mashita.}}
@@ -68,7 +69,7 @@
       Not only John, but Mary also came here.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
