@@ -26,7 +26,7 @@
 @BGRND{{}}
 <p>
 @HI{{@EM{{nazenara(ba)}}~@EM{{karada}}}} is a formal sentence pattern used to express a reason for the statement in the preceding sentence.
-The focus of the structure is the reason
+The focus of the structure is the reason.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@ The focus of the structure is the reason
 <h2> Notes </h2>
 
 <p>
-Because @HI{{@EM{{nazenara(ba)}}~@EM{{karada}}}}  places a sharp focus on the reason, it cannot be used when politely expresseing the reason 
+Because @HI{{@EM{{nazenara(ba)}}~@EM{{karada}}}}  places a sharp focus on the reason, it cannot be used when politely expressing the reason 
 why someone cannot do something. In such a case, the focus on the reason is so conspicuous that it sounds impolite in Japanese.
 </p>
 
@@ -51,7 +51,7 @@ why someone cannot do something. In such a case, the focus on the reason is so c
 
 <ol>
 <li> @UCREF{{DOAJG}}. (p. 371).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

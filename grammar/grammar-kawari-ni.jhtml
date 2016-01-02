@@ -46,7 +46,7 @@ In order to use @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} there needs to b
 <p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{@KJ{{me}}no @KT{{apa-to}}ha @KJ{{negative^convenience}}na@EM{{@KJ{{substitute}}warini}} @KJ{{house^fare}}ga@KJ{{relax}}i.}}
+    @HI{{@KJ{{me}}no@KT{{apa-to}}ha@KJ{{negative^convenience}}na@EM{{@KJ{{substitute}}warini}}@KJ{{house^fare}}ga@KJ{{relax}}i.}}
   </td> </tr>
   <tr class="en"> <td>
     My apartment is inconvenient but the rent is cheap.
@@ -56,7 +56,7 @@ In order to use @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} there needs to b
 
 @BGRND{{}}
 <p>
-A non-past verb before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates that the action has not yet taken place.
+A non-past verb before @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} indicates that the action has not yet taken place.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -70,11 +70,11 @@ A non-past verb before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates that t
 
 @BGRND{{}}
 <p>
-A verb in the past before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates that the action has already taken place.
+A verb in the past before @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} indicates that the action has already taken place.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta @EM{{@KJ{{substitute}}warini}} yoku @KJ{{happenstance^hinder}}shita.}}
+    @HI{{sono@KJ{{car}}ha@KJ{{relax}}katta@EM{{@KJ{{substitute}}warini}}yoku@KJ{{happenstance^hinder}}shita.}}
   </td> </tr>
   <tr class="en"> <td>
     That car was cheap but it often broke down.
@@ -87,12 +87,12 @@ A verb in the past before @HI{{@FG{{@KJ{{substitute}}:ka}}warini}} indicates tha
 <h2> Notes </h2>
 
 <p>
-In @N1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
-@S1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
+In @N1{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}@N2{{}}, @N2{{}} is replaced by @N1{{}} and in 
+@S1{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}@S2{{}}, @S2{{}} takes place to make up for the fact that @S1{{}} takes place.
 </p>
 
 <p>
-In @S1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @S2{{}}, @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
+In @S1{{}}@HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}}@S2{{}}, @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} can be replaced by @HI{{keredo(mo)}}, although the reverse does not always hold.
 </p>
 
 <h2> References </h2>
@@ -101,7 +101,7 @@ In @S1{{}} @HI{{@EM{{@FG{{@KJ{{substitute}}:ka}}warini}}}} @S2{{}}, @HI{{@EM{{@F
 <li> @UCREF{{DOBJG}}. (p. 184).
 <li> @UCREF{{DOIJG}}. (p. 116).
 <li> @UCREF{{NKZM-N3G}}. (p. 25).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -32,7 +32,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{}}:shimizu}}sanha@KJ{{year}}no@EM{{@KJ{{proportion}}niha}}@FG{{@KJ{{young}}:waka}}ku@KJ{{see}}eru.}}
+      @HI{{@FG{{@KJ{{pure^water}}:shimizu}}sanha@KJ{{year}}no@EM{{@KJ{{proportion}}niha}}@FG{{@KJ{{young}}:waka}}ku@KJ{{see}}eru.}}
   </td> </tr>
   <tr class="en"> <td>
       Ms. Shimizu looks young for her age.
@@ -76,7 +76,7 @@ can be recast as
 <ol>
 <li> @UCREF{{DOAJG}}. (p. 697).
 <li> @UCREF{{NKZM-N2G}}. (p. 86).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

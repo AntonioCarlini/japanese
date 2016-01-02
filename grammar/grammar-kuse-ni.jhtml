@@ -26,12 +26,7 @@
 
 <p>
 @HI{{@EM{{kuseni}}}} is a conjunction expressing the speaker's contempt, anger or disagreement about someone's actions, behaviour or state.
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@FG{{@KJ{{mountain^rice*field}}:yamada}}sanha@KJ{{day^book^person}}no@EM{{kuseni}}amari@FG{{@KJ{{sino-^character}}:kanji}}wo@KJ{{know}}ranai.}}
@@ -40,7 +35,7 @@
       Although Mr. Yamada is Japanese, he doesn't know many kanji.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -56,7 +51,7 @@
 
 <ol>
 <li> @UCREF{{DOIJG}}. (p. 155).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

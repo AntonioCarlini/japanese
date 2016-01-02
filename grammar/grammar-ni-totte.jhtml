@@ -23,12 +23,7 @@
 
 <p>
 @HI{{@EM{{nitotte}}}} is a compund particle that expresses the concept "from the standpoint of" or "so far as someone or something is concerned".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{koreha@FG{{@KJ{{ego^noma}}:wareware}}@EM{{nitotte}}@FG{{@KJ{{nothingness^inspection}}:mushi}}@FG{{@KJ{{exit^come}}nai:dekinai}}@KJ{{question^topic}}da.}}
@@ -37,7 +32,7 @@
       For us this is a problem which cannot be ignored.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -60,7 +55,7 @@
 <li> @UCREF{{DOIJG}}. (p. 278).
 <li> @UCREF{{NKZM-N3G}}. (p. 63).
 <li> @UCREF{{NKZM-N2G}}. (p. 87).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
