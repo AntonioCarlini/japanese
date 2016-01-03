@@ -19,17 +19,20 @@
 <dl>
 <dt> As an adverb:</dt>
 <ol>
-<li>@HI{{@EM{{amari}}}} <em>predicate</em>
+<li> @FORMATION{{@HI{{@EM{{amari}}}} <em>predicate</em>}}
 </ol>
 <dt> As a conjunction:</dt>
 <ol>
-<li>@N{{}}@HI{{no}}@HI{{@EM{{amari}}}}
-<li>@Vru{{}}@HI{{@EM{{amari}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{amari}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{amari}}}}}}
 </ol>
 </dl>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="not-much">The adverb @HI{{@EM{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
 
@@ -43,6 +46,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="excessive">As a conjunction @HI{{@EM{{amari}}}} marks a cause that involves excessive action.
 The action must represent a psychological state.
@@ -56,6 +60,8 @@ The action must represent a psychological state.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -78,7 +84,7 @@ Finally, the use of @HI{{@EM{{amari}}}} as a conjunction is limited to formal wr
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 72).
 <li> @UCREF{{DOIJG}}. (p. 3).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
