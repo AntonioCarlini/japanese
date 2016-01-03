@@ -27,7 +27,7 @@
 
 <p>
 @HI{{@EM{{monono}}}} is a conjunction used to mean "but" or "although".
-It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>
+It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -63,7 +63,7 @@ In @S1{{}}@HI{{@EM{{monono}}}}@S2{{}}, @S2{{}} is a fact which is generally unex
 <li> @UCREF{{DOAJG}}. (p. 274).
 <li> @UCREF{{NKZM-N2G}}. (p. 64).
 <li> @UCREF{{NKZM-N2G}}. (p. 128).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

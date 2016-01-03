@@ -57,7 +57,7 @@ has the same meaning but the assertion is weaker.
 <li> @UCREF{{DOIJG}}. (p. 203).
 <li> @UCREF{{NKZM-N3G}}. (p. 39).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

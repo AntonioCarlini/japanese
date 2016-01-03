@@ -24,7 +24,7 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{tamaranai}} is used when the speaker cannot bear the situation expressed by the @HI{{te}} phrase.
+@HI{{tamaranai}} is used when the speaker cannot bear the situation expressed by the @Vte{{}} phrase.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 445).
 <li> @UCREF{{NKZM-N2G}}. (p. 112).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
