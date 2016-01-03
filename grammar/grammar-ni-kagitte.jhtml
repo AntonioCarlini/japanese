@@ -62,7 +62,7 @@ The predicate is expressly negative or implicitly negative.
 @BGRND{{}}
 <p>
 @HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}} can indicate that one strongly believes something in particular about the preceding item
-but necessarily about any other similar item.
+but not necessarily about any other similar item.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@ but necessarily about any other similar item.
 <li> @UCREF{{DOIJG}}. (p. 250).
 <li> @UCREF{{NKZM-N2G}}. (p. 25).
 <li> @UCREF{{NKZM-N2G}}. (p. 122).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
