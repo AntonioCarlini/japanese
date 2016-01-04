@@ -25,11 +25,16 @@
 
 <h2> Definition </h2>
 
+<p>
+@FG{{@KJ{{now^grow*late}}:imasara}} is an adverb used when indicating that someone feels that it is too late to do something.
+</p>
+
 @BGRNDSTART{{}}
 
 @BGRND{{}}
 <p>
 @FG{{@KJ{{now^grow*late}}:imasara}} is an adverb that can be used with a positive predicate to present a rhetorical question with a negative implication.
+Apart from this rhetorical use, @FG{{@KJ{{now^grow*late}}:imasara}} cannot be used with a positive predicate.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -109,7 +114,7 @@ It cannot be used when someone is simply not in time for something.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 141).
+<li> @REF{{DOAJG}}. (p. 141).
 </ol>
 
 @include{{"grammar-footer.inc"}}
