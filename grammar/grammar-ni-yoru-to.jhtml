@@ -55,7 +55,6 @@ If the information is hearsay, the final predicate ends with @HI{{souda}} or @HI
 @BGRND{{}}
 <p>
 If the information is conjecture, the final predicate ends with @HI{{rashii}}.
-clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,7 +73,7 @@ clause.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 459).
+<li> @REF{{DOAJG}}. (p. 459).
 </ol>
 
 @include{{"grammar-footer.inc"}}
