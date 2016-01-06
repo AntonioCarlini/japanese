@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-These sentence patterns indicate that someone habitually efforts to do or not do something.
+@HI{{@EM{{younisuru}}}} can indicate that someone habitually makes efforts to do or not do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +40,7 @@ These sentence patterns indicate that someone habitually efforts to do or not do
 
 @BGRND{{}}
 <p>
-These sentence patterns indicate that someone continuously makes efforts to do or not do something.
+@HI{{@EM{{younisuru}}}} can indicate that someone continuously makes efforts to do or not do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -71,7 +71,7 @@ than @Vte{{}}@HI{{kudasai}} and @Vnai{{}}@HI{{dekudasai}}.
 <li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @REF{{NKZM-N3G}}. (p. 50).
 <li> @UCREF{{DOBJG}}. (p. 562).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

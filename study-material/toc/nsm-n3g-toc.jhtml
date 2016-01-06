@@ -248,9 +248,9 @@
 <h2><a class="navtarget" name="w4d3">_</a> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{kurai}} @MIDDOT{{}}
-     @HI{{gurai}} @MIDDOT{{}}
-     @HI{{hodo}}
+<li> <a href="grammar-kurai.html#kurai-da">@HI{{kurai}}</a> @MIDDOT{{}}
+     <a href="grammar-kurai.html#kurai-da">@HI{{gurai}}</a> @MIDDOT{{}}
+     <a href="grammar-particle-hodo.html#extent">@HI{{hodo}}</a>
 <li> adj @HI{{hodo}}
 <li> <a href="grammar-ba-hodo.html"> @Vba{{}}@HI{{hodo}} </a>
 <li> <a href="grammar-kurai.html#kurai-wa-nai">@N{{}}@HI{{kurai}}@N{{}}@HI{{hainai}}</a>

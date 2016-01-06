@@ -24,6 +24,7 @@
 
 @BGRNDSTART{{}}
 
+@BGRND{{}}
 <p>
 This sentence pattern is used to tell someone to do something. In this case the verb must be volitional.
 
@@ -64,7 +65,7 @@ This sentence pattern can also be used to mean "to say in such a way". In this c
 <ol>
 <li> @UCREF{{DOBJG}}. (p. 556).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 2).
-<li> @UCREF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

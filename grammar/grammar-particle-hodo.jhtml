@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{hodo}}}} is used to indicate an approximate amount or an approximate maximum.
+<a name="approximate">@HI{{@EM{{hodo}}}}</a> is used to indicate an approximate amount or an approximate maximum.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@ follows a noun, the predicate must be in the negative.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{hodo}}}} indicates the extent of an action or condition by citing a specific example.
+<a name="extent">@HI{{@EM{{hodo}}}}</a> indicates the extent of an action or condition by citing a specific example.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -108,6 +108,7 @@ follows a noun, the predicate must be in the negative.
 <li> @UCREF{{DOBJG}}. (p. 135).
 <li> @UCREF{{DOIJG}}. (p. 57).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
