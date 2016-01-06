@@ -490,6 +490,7 @@ JHTML_SRCS += grammar-te-demo.jhtml                                    # require
 JHTML_SRCS += grammar-te-duration.jhtml                                # requires revision
 JHTML_SRCS += grammar-te-hajimete.jhtml                                # requires revision
 JHTML_SRCS += grammar-te-hoshii.jhtml                                  # requires revision
+JHTML_SRCS += grammar-te-goran-nasai.jhtml
 JHTML_SRCS += grammar-te-iku.jhtml                                     # requires revision
 JHTML_SRCS += grammar-te-iru.jhtml                                     # requires revision
 JHTML_SRCS += grammar-te-itadakemasenka.jhtml                          # requires revision

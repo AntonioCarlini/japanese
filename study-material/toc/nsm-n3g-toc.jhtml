@@ -122,7 +122,8 @@
 <ol>
 <li> <a href="grammar-ni-kanshite.html">@HI{{nikanshite}}</a>
 <li> <a href="grammar-ni-tsuite.html">@HI{{nitsuite}}</a>
-<li> @N{{}}@HI{{ni areba}}
+<li> <a href="grammar-ni-yoru-to.html#ni-yoru-to">@N{{}}@HI{{niyoruto}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-yoru-to.html#ni-yoreba">@N{{}}@HI{{niyoreba}}</a>
 <li> <a href="grammar-ni-yotte.html#means">@HI{{niyotte}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yotte.html#change">@HI{{niyori}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yotte.html#cause">@HI{{niyoru}}</a>
@@ -158,7 +159,7 @@
 <h2><a class="navtarget" name="w2d6">_</a> @KJ{{No.}}2@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{te gorann nasai}}
+<li> <a href="grammar-te-goran-nasai.html">@HI{{@Vte{{}}gorannnasai}}</a>
 <li> <a href="grammar-you-ni-iu.html">@HI{{youni@KJ{{say}}u}}</a> @MIDDOT{{}}
      <a href="grammar-you-ni-iu.html#similar">@HI{{younitanomu}}</a>
 <li> @HI{{toiwareru}} @MIDDOT{{}}
@@ -248,9 +249,9 @@
 <h2><a class="navtarget" name="w4d3">_</a> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{kurai}} @MIDDOT{{}}
-     @HI{{gurai}} @MIDDOT{{}}
-     @HI{{hodo}}
+<li> <a href="grammar-kurai.html#kurai-da">@HI{{kurai}}</a> @MIDDOT{{}}
+     <a href="grammar-kurai.html#kurai-da">@HI{{gurai}}</a> @MIDDOT{{}}
+     <a href="grammar-particle-hodo.html#extent">@HI{{hodo}}</a>
 <li> adj @HI{{hodo}}
 <li> <a href="grammar-ba-hodo.html"> @Vba{{}}@HI{{hodo}} </a>
 <li> <a href="grammar-kurai.html#kurai-wa-nai">@N{{}}@HI{{kurai}}@N{{}}@HI{{hainai}}</a>
