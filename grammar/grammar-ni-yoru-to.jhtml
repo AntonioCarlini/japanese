@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niyoruto}}}} is a compound particle used to identify the source of the information provided in a sentence.
+<a name="ni-yoru-to">@HI{{@EM{{niyoruto}}}}</a> is a compound particle used to identify the source of the information provided in a sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +40,21 @@
 
 @BGRND{{}}
 <p>
-If the information is hearsay, the final predicate ends with @HI{{souda}} or @HI{{toiu}}.
+<a name="ni-yoreba">@HI{{@EM{{niyoreba}}}}</a> can be used in place of @HI{{@EM{{niyoruto}}}} without changing the meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{resign^write}}:jisho}}@EM{{niyoreba}},[sabishii]niha[@KJ{{loneliness}}shii]to[@KJ{{solitude}}shii]no@KJ{{two}}tsuno@KJ{{Sino-^character}}ga@KJ{{use}}wareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      According to the dictionary, two characters are used for <em>sabishii</em>, @KJ{{loneliness}} and @KJ{{solitude}}.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="hearsay">If</a> the information is hearsay, the final predicate ends with @HI{{souda}} or @HI{{toiu}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -54,7 +68,7 @@ If the information is hearsay, the final predicate ends with @HI{{souda}} or @HI
 
 @BGRND{{}}
 <p>
-If the information is conjecture, the final predicate ends with @HI{{rashii}}.
+<a name="conjecture">If</a> the information is conjecture, the final predicate ends with @HI{{rashii}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,6 +88,7 @@ If the information is conjecture, the final predicate ends with @HI{{rashii}}.
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 459).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

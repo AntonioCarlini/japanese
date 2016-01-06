@@ -122,7 +122,8 @@
 <ol>
 <li> <a href="grammar-ni-kanshite.html">@HI{{nikanshite}}</a>
 <li> <a href="grammar-ni-tsuite.html">@HI{{nitsuite}}</a>
-<li> @N{{}}@HI{{ni areba}}
+<li> <a href="grammar-ni-yoru-to.html#ni-yoru-to">@N{{}}@HI{{niyoruto}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-yoru-to.html#ni-yoreba">@N{{}}@HI{{niyoreba}}</a>
 <li> <a href="grammar-ni-yotte.html#means">@HI{{niyotte}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yotte.html#change">@HI{{niyori}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yotte.html#cause">@HI{{niyoru}}</a>

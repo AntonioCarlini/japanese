@@ -2269,7 +2269,7 @@ class KD
     "moat" => Kanji.new(2306, 28640, ["GOU","KOU"], ["hori"], [""], ["moat","ditch","canal","Australia"], 0, 0),
     "sprinkle" => Kanji.new(2307, 28300, ["HATSU"], ["mo.ru","tobichi.ru","soso.gu"], [""], ["sprinkle","lively","vigorous"], 0, 0),
     "port" => Kanji.new(2309, 28234, ["SOU"], ["minato","atsu.maru"], [""], ["port","harbor"], 9, 0),
-    "lonely" => Kanji.new(2310, 28107, ["RIN"], ["sabi.shii","sami.shii"], [""], ["lonely","deserted"], 9, 0),
+    "solitude" => Kanji.new(2310, 28107, ["RIN"], ["sabi.shii","sami.shii"], [""], ["solitude","lonely","deserted"], 9, 0),
     "wide*expanse" => Kanji.new(2311, 28009, ["KOU"], ["ooki.i","hiro.i"], ["hiro","hiroshi","yutaka","koo"], ["wide expanse","abundance","vigorous"], 9, 1),
     "water's*edge" => Kanji.new(2312, 27712, ["TEI"], ["migiwa","nagisa"], ["te"], ["water's edge","shore","bank"], 9, 1),
     "large*bird" => Kanji.new(2313, 40251, ["KOU","GOU"], ["ootori","hishikui","oogari"], [""], ["large bird","wild goose","large","great","powerful","prosperous"], 9, 1),
