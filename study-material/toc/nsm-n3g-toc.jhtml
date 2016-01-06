@@ -383,8 +383,8 @@
 <h2><a class="navtarget" name="w6d6">_</a> @KJ{{No.}}6@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{soreto}} @MIDDOT{{}}
-     <a href="grammar-ato-de.html">@HI{{ato}}</a>
+<li> <a href="grammar-sore-to.html">@HI{{soreto}}</a> @MIDDOT{{}}
+     <a href="grammar-ato-de.html#adding">@HI{{ato}}</a>
 <li> <a href="grammar-soretomo.html">@HI{{soretomo}}</a>
 <li> <a href="grammar-sono-ue.html">@HI{{sonoue}}</a>
 </ol>

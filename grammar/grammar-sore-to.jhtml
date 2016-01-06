@@ -43,10 +43,15 @@ It is often used when the speaker wants to add an item that has just been rememb
 is used to add something that is closely connected.
 </p>
 
+<p>
+<a href="grammar-sore-kara.html">@HI{{sorekara}}</a> can replaced @HI{{@EM{{soreto}}}} with no change in meaning.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 431).
+<li> @REF{{DOIJG}}. (p. 431).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
