@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tegoran'nasai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tegoran'(nasai)}}" grammar="@HI{{@Vte{{}}goran'(nasai)}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}goran'(nasai)}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vte{{}}goran'(nasai)}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}goran'(nasai)}}}} is used when addressing a subordinate and offering a suggestion.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{wakarakattara,@KJ{{before^life}}ni@KJ{{hear}}i@EM{{tegoran'}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you don't understand, you should ask your teacher.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
