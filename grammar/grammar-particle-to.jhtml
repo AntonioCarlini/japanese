@@ -142,7 +142,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to}}}} follows an onomatopoeic verb.
+@HI{{@EM{{to}}}} follows an onomatopoeic adverb.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -213,7 +213,7 @@ about which an explanation follows.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to}}}} follows two verbs in the volitional, or the same verb firstly in the volitional and secondly in @HI{{mai}},
+@HI{{@EM{{to}}}} follows two verbs in the volitional, or the same verb twice, the first time in the volitional and the second time in @HI{{mai}},
 to indicate a lack of concern over which of two events occurs.
 
 <table class="sentence" border=0>
@@ -240,7 +240,7 @@ replacing them.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 33).
+<li> @REF{{AAP}}. (p. 33).
 <li> @UCREF{{DOBJG}}. (p. 473).
 <li> @UCREF{{DOBJG}}. (p. 476).
 <li> @UCREF{{DOBJG}}. (p. 478).
