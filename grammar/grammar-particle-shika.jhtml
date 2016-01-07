@@ -60,8 +60,6 @@ suggestion that the quantity is small.
 <p>
 After a verb, @HI{{@EM{{shika}}}} indicates a limit to the action specified by the verb.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{iyadakeredo,@KJ{{exit^lengthen}}dakara@KJ{{going}}u@HI{{@EM{{shika}}}}nai.}}
@@ -70,7 +68,21 @@ After a verb, @HI{{@EM{{shika}}}} indicates a limit to the action specified by t
       I don't want to, but since it's a business trip I can't help but go.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="emphasis">@HI{{@EM{{shika}}}}</a> may follow <a href="grammar-particle-dake.html">@HI{{dake}}</a>,
+<a href="grammar-particle-nomi.html">@HI{{nomi}}</a> and @HI{{kiri}} for additional emphasis.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{konsa-to}}ha@FG{{@KJ{{meeting^employee}}:kaiin'}}@EM{{dakeshika}}@FG{{@KJ{{enter}}:hai}}remasen'.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This concert is open only to members.
+  </td> </tr>
+</table>
 </p>
 
 @BGRNDEND{{}}
@@ -83,16 +95,12 @@ When @HI{{@EM{{shika}}}} follows a noun + @HI{{ga}} or noun + @HI{{wo}},
 For all other particles, @HI{{@EM{{shika}}}} follows them rather than replacing them.
 </p>
 
-<p>
-@HI{{@EM{{shika}}}} may follow <a href="grammar-particle-dake.html">@HI{{dake}}</a>,
-<a href="grammar-particle-nomi.html">@HI{{nomi}}</a> and @HI{{kiri}} for additional emphasis.
-</p>
-
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @REF{{AAP}}. (p. 85).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
