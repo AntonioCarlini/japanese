@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-This sentence pattern indicates a purpose if the main clause is a volitional expression.
+<a name="purpose">This</a> sentence pattern indicates a purpose if the main clause is a volitional expression.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@ This sentence pattern indicates a purpose if the main clause is a volitional exp
 
 @BGRND{{}}
 <p>
-If the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted to mean a reason or cause.
+<a name="reason">If</a> the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted to mean a reason or cause.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -57,7 +57,21 @@ If the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted t
 
 @BGRND{{}}
 <p>
-The pattern @N{{}}@HI{{no@EM{{tameni}}}} can also indicate "for the benefit of @N{{}}".
+<a name="sono">The</a> reason or cause can be stated in the first sentence and then referenced with @HI{{sono}} in the immediately following sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{detain^study}}:ryuugaku}}surutsumorida.@EM{{sonotameni}},@KT{{baito}}shiteo@FG{{@KJ{{gold}}:kane}}wotameteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am planning to study abroad. That's why I am saving money by working part-time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="benefit">The</a> pattern @N{{}}@HI{{no@EM{{tameni}}}} can also indicate "for the benefit of @N{{}}".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -100,6 +114,7 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 <li> @UCREF{{DOBJG}}. (p. 447).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
