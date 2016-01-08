@@ -197,7 +197,7 @@
 </tr> 
 <tr>
   <td class=""> 36 </td>
-  <td class=""> @HI{{nara}} </td>
+  <td class=""> <a href="grammar-nara.html">@HI{{nara}}</a> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
