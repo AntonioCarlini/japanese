@@ -8,7 +8,6 @@
 </head>
 
 @GRMIDX{{index="@HI{{toshitemo}}" grammar="@HI{{toshitemo}}"}}
-@GRMIDX{{index="@HI{{toshitemo}}..@HI{{toshitemo}}" grammar="@HI{{toshitemo}} ... @HI{{toshitemo}}"}}
 
 <body>
 
@@ -17,7 +16,10 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{nishitemo}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{toshitemo}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{toshitemo}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{da@EM{{toshitemo}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{da@EM{{toshitemo}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -39,6 +41,20 @@ This expression can only be used to present a hypothetical situation.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{toshitemo}}}} is often used with @HI{{moshi}}, when there is a low chance of something happening.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{moshi@FG{{@KJ{{rest}}:yasumi}}ga@FG{{@KJ{{take}}:to}}reta@EM{{toshitemo}},@KJ{{trip^going}}niha@KJ{{going}}kanaitsumoridesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Even if I get a holiday, I don't think I will go on a trip.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -48,6 +64,7 @@ This expression can only be used to present a hypothetical situation.
 <ol>
 <li> @UCREF{{DOAJG}}. (p. 439).
 <li> @UCREF{{NKZM-N2G}}. (p. 69).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
