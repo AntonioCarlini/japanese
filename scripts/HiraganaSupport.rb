@@ -27,6 +27,7 @@ def convert_to_hiragana(text)
     :wa => 0x308f, :wi => 0x3090,                :we => 0x3091, :wo => 0x3092,
     :nn => 0x3093, :"n'" => 0x3093,
     :xa => 0x3041, :xi => 0x3043, :xu => 0x3045, :xe => 0x3045, :xo => 0x3049,
+    :vu => 0x3094,
     # Alternatives below here
     :ji => 0x3058,
     :hu => 0x3075,
