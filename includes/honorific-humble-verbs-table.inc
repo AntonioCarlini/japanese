@@ -59,7 +59,7 @@
     <td> @HI{{itadaku}} </td>
   </tr>
   <tr>
-    <td title="@HI{{taberu}}"> @HI{{eat}}@HI{{beru}} </td>
+    <td title="@HI{{taberu}}"> @KJ{{eat}}@HI{{beru}} </td>
     <td title="@HI{{meshiagaru}}"> @HI{{@KJ{{seduce}}shi@KJ{{above}}garu}} </td>
     <td> @HI{{itadaku}} </td>
   </tr>
