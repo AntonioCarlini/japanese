@@ -88,7 +88,7 @@ def processing()
     }
   end
   
-  puts(process_at_commands(file_text, data_dir))
+  puts(process_at_commands(file_text, data_dir, file))
 
 end
 

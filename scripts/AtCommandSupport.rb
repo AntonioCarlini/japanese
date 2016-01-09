@@ -302,7 +302,7 @@ $command_to_op = {
   "FORMATION" => :process_formation,
 }
 
-def process_at_commands(text, data_dir)
+def process_at_commands(text, data_dir, filename)
 
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
@@ -369,6 +369,7 @@ def process_at_commands(text, data_dir)
         rescue => e
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
           $stderr.puts("Fatal data: [#{to_handle[0..30]}\n]")
+          $stderr.puts("in source [#{filename}]\n")
           $stderr.puts(e.backtrace())
         end
         if stack.empty?()
