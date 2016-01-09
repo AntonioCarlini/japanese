@@ -37,27 +37,17 @@ def convert_to_hiragana(text)
   result = ""
   current = ""
   pos = 0
-  embed_html = false
   text.chars() {
     |c|
     pos += 1
     current += c
-    ch = current.downcase().to_sym()
     if current =~ /^[0-9]$/
       result << current
       current = ""
       next
-    elsif current == "<"
-      result << current
-      embed_html = true
-      current = ""
-      next
-    elsif embed_html
-      result << current
-      embed_html = false if current == ">"
-      current = ""
-      next
     end
+
+    ch = current.downcase().to_sym()
     case current.length()
     when 1
       s = one[ch]
@@ -96,7 +86,7 @@ def convert_to_hiragana(text)
     when 4
       s = four[ch]
       if !s.nil?()
-        # Three char translation works
+        # Four char translation works
         result << jp_unicode(s)
         current = ""
       end
@@ -139,6 +129,31 @@ def convert_to_hiragana(text)
       exit(1)
     end
   }
+
+  if current.length() == 1
+    if current == "n"
+      # Handle stray final "n"
+      result << jp_unicode(two[:nn])
+      current = ""
+    else
+      ch = current.downcase().to_sym()
+      s = one[ch]
+      if !s.nil?()
+        # Single char translation works
+        result << jp_unicode(s)
+        current = ""
+      elsif current =~ /^\s*$/
+        result << current
+        current = ""
+      elsif current =~ /[^[:alnum:]]/
+        result << current
+        current = ""
+      end
+    end
+  end
+
+  raise "Stray trailing hiragana: [#{current}] in [#{text}]" unless current.empty?()
+
   return result
 end
 
