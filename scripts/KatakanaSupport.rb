@@ -44,12 +44,13 @@ def convert_to_katakana(text)
     |c|
     pos += 1
     current += c
-    ch = current.downcase().to_sym()
     if current =~ /^[0-9]$/
       result << current
       current = ""
       next
     end
+
+    ch = current.downcase().to_sym()
     case current.length()
     when 1
       s = one[ch]
@@ -88,7 +89,7 @@ def convert_to_katakana(text)
     when 4
       s = four[ch]
       if !s.nil?()
-        # Three char translation works
+        # Four char translation works
         result << jp_unicode(s)
         current = ""
       end
@@ -136,5 +137,30 @@ def convert_to_katakana(text)
       exit(1)
     end
   }
+
+  if current.length() == 1
+    if current.downcase() == "n"
+      # Handle stray final "n"
+      result << jp_unicode(two[:nn])
+      current = ""
+    else
+      ch = current.downcase().to_sym()
+      s = one[ch]
+      if !s.nil?()
+        # Single char translation works
+        result << jp_unicode(s)
+        current = ""
+      elsif current =~ /^\s*$/
+        result << current
+        current = ""
+      elsif current =~ /[^[:alnum:]]/
+        result << current
+        current = ""
+      end
+    end
+  end
+
+  raise "Stray trailing katakana: [#{current}] in [#{text}]" unless current.empty?()
+
   return result
 end

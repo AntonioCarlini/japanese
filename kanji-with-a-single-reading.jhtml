@@ -22,7 +22,7 @@
    <td> week </td>
  </tr>
  <tr>
-   <td> &#x96fb </td> <td>   535 </td> <td>   2 </td> <td> @KT{{DEN}} </td></td>
+   <td> &#x96fb </td> <td>   535 </td> <td>   2 </td> <td> @KT{{DEN'}} </td></td>
    <td> electricity </td>
  </tr>
  <tr>
@@ -42,7 +42,7 @@
    <td> vapor,steam </td>
  </tr>
  <tr>
-   <td> &#x54e1 </td> <td>    56 </td> <td>   3 </td> <td> @KT{{IN}} </td></td>
+   <td> &#x54e1 </td> <td>    56 </td> <td>   3 </td> <td> @KT{{IN'}} </td></td>
    <td> employee,member,number,the one in charge </td>
  </tr>
  <tr>
@@ -54,7 +54,7 @@
    <td> world </td>
  </tr>
  <tr>
-   <td> &#x8ac7 </td> <td>   350 </td> <td>   3 </td> <td> @KT{{DAN}} </td></td>
+   <td> &#x8ac7 </td> <td>   350 </td> <td>   3 </td> <td> @KT{{DAN'}} </td></td>
    <td> discuss,talk </td>
  </tr>
  <tr>
@@ -78,7 +78,7 @@
    <td> idea,mind,heart,taste,thought,desire,care,liking </td>
  </tr>
  <tr>
-   <td> &#x611f </td> <td>   615 </td> <td>   3 </td> <td> @KT{{KAN}} </td></td>
+   <td> &#x611f </td> <td>   615 </td> <td>   3 </td> <td> @KT{{KAN'}} </td></td>
    <td> emotion,feeling,sensation </td>
  </tr>
  <tr>
@@ -98,7 +98,7 @@
    <td> tribe,family </td>
  </tr>
  <tr>
-   <td> &#x9662 </td> <td>  1304 </td> <td>   3 </td> <td> @KT{{IN}} </td></td>
+   <td> &#x9662 </td> <td>  1304 </td> <td>   3 </td> <td> @KT{{IN'}} </td></td>
    <td> Inst.,institution,temple,mansion,school </td>
  </tr>
  <tr>
@@ -110,7 +110,7 @@
    <td> clothing,admit,obey,discharge </td>
  </tr>
  <tr>
-   <td> &#x6f22 </td> <td>  1578 </td> <td>   3 </td> <td> @KT{{KAN}} </td></td>
+   <td> &#x6f22 </td> <td>  1578 </td> <td>   3 </td> <td> @KT{{KAN'}} </td></td>
    <td> Sino-,China </td>
  </tr>
  <tr>
@@ -134,11 +134,11 @@
    <td> vice-,assistant,aide,duplicate,copy </td>
  </tr>
  <tr>
-   <td> &#x9806 </td> <td>   129 </td> <td>   4 </td> <td> @KT{{JUN}} </td></td>
+   <td> &#x9806 </td> <td>   129 </td> <td>   4 </td> <td> @KT{{JUN'}} </td></td>
    <td> obey,order,turn,right,docility,occasion </td>
  </tr>
  <tr>
-   <td> &#x5b8c </td> <td>   187 </td> <td>   4 </td> <td> @KT{{KAN}} </td></td>
+   <td> &#x5b8c </td> <td>   187 </td> <td>   4 </td> <td> @KT{{KAN'}} </td></td>
    <td> perfect,completion,end </td>
  </tr>
  <tr>
@@ -174,7 +174,7 @@
    <td> seasons </td>
  </tr>
  <tr>
-   <td> &#x4fe1 </td> <td>   969 </td> <td>   4 </td> <td> @KT{{SHIN}} </td></td>
+   <td> &#x4fe1 </td> <td>   969 </td> <td>   4 </td> <td> @KT{{SHIN'}} </td></td>
    <td> faith,truth,fidelity,trust </td>
  </tr>
  <tr>
@@ -206,7 +206,7 @@
    <td> fee,materials </td>
  </tr>
  <tr>
-   <td> &#x5b98 </td> <td>  1271 </td> <td>   4 </td> <td> @KT{{KAN}} </td></td>
+   <td> &#x5b98 </td> <td>  1271 </td> <td>   4 </td> <td> @KT{{KAN'}} </td></td>
    <td> bureaucrat,the government </td>
  </tr>
  <tr>
@@ -230,7 +230,7 @@
    <td> harm,injury </td>
  </tr>
  <tr>
-   <td> &#x5ff5 </td> <td>  1590 </td> <td>   4 </td> <td> @KT{{NEN}} </td></td>
+   <td> &#x5ff5 </td> <td>  1590 </td> <td>   4 </td> <td> @KT{{NEN'}} </td></td>
    <td> wish,sense,idea,thought,feeling,desire,attention </td>
  </tr>
  <tr>
@@ -266,7 +266,7 @@
    <td> assets,resources,capital,funds,data,be conducive to,contribute to </td>
  </tr>
  <tr>
-   <td> &#x6069 </td> <td>   606 </td> <td>   5 </td> <td> @KT{{ON}} </td></td>
+   <td> &#x6069 </td> <td>   606 </td> <td>   5 </td> <td> @KT{{ON'}} </td></td>
    <td> grace,kindness,goodness,favor,mercy,blessing,benefit </td>
  </tr>
  <tr>
@@ -294,15 +294,15 @@
    <td> fluid,liquid,juice,sap,secretion </td>
  </tr>
  <tr>
-   <td> &#x7981 </td> <td>  1098 </td> <td>   5 </td> <td> @KT{{KIN}} </td></td>
+   <td> &#x7981 </td> <td>  1098 </td> <td>   5 </td> <td> @KT{{KIN'}} </td></td>
    <td> prohibition,ban,forbid </td>
  </tr>
  <tr>
-   <td> &#x5238 </td> <td>  1206 </td> <td>   5 </td> <td> @KT{{KEN}} </td></td>
+   <td> &#x5238 </td> <td>  1206 </td> <td>   5 </td> <td> @KT{{KEN'}} </td></td>
    <td> ticket </td>
  </tr>
  <tr>
-   <td> &#x7248 </td> <td>  1213 </td> <td>   5 </td> <td> @KT{{HAN}} </td></td>
+   <td> &#x7248 </td> <td>  1213 </td> <td>   5 </td> <td> @KT{{HAN'}} </td></td>
    <td> printing block,printing plate,edition,impression,label </td>
  </tr>
  <tr>
@@ -318,7 +318,7 @@
    <td> exploits,achievements,unreeling cocoons </td>
  </tr>
  <tr>
-   <td> &#x520a </td> <td>  1650 </td> <td>   5 </td> <td> @KT{{KAN}} </td></td>
+   <td> &#x520a </td> <td>  1650 </td> <td>   5 </td> <td> @KT{{KAN'}} </td></td>
    <td> publish,carve,engrave </td>
  </tr>
  <tr>
@@ -338,11 +338,11 @@
    <td> statue,picture,image,figure,portrait </td>
  </tr>
  <tr>
-   <td> &#x6f14 </td> <td>  2007 </td> <td>   5 </td> <td> @KT{{EN}} </td></td>
+   <td> &#x6f14 </td> <td>  2007 </td> <td>   5 </td> <td> @KT{{EN'}} </td></td>
    <td> performance,act,play,render,stage </td>
  </tr>
  <tr>
-   <td> &#x5bf8 </td> <td>    45 </td> <td>   6 </td> <td> @KT{{SUN}} </td></td>
+   <td> &#x5bf8 </td> <td>    45 </td> <td>   6 </td> <td> @KT{{SUN'}} </td></td>
    <td> measurement,foot/10 </td>
  </tr>
  <tr>
@@ -350,7 +350,7 @@
    <td> range,region,limits,stage,level </td>
  </tr>
  <tr>
-   <td> &#x8a95 </td> <td>   393 </td> <td>   6 </td> <td> @KT{{TAN}} </td></td>
+   <td> &#x8a95 </td> <td>   393 </td> <td>   6 </td> <td> @KT{{TAN'}} </td></td>
    <td> nativity,be born,declension,lie,be arbitrary </td>
  </tr>
  <tr>
@@ -382,7 +382,7 @@
    <td> scheme,plan,policy,step,means </td>
  </tr>
  <tr>
-   <td> &#x8cc3 </td> <td>  1004 </td> <td>   6 </td> <td> @KT{{CHIN}} </td></td>
+   <td> &#x8cc3 </td> <td>  1004 </td> <td>   6 </td> <td> @KT{{CHIN'}} </td></td>
    <td> fare,fee,hire,rent,wages,charge </td>
  </tr>
  <tr>
@@ -402,7 +402,7 @@
    <td> sugar </td>
  </tr>
  <tr>
-   <td> &#x73ed </td> <td>  1229 </td> <td>   6 </td> <td> @KT{{HAN}} </td></td>
+   <td> &#x73ed </td> <td>  1229 </td> <td>   6 </td> <td> @KT{{HAN'}} </td></td>
    <td> squad,corps,unit,group </td>
  </tr>
  <tr>
@@ -426,11 +426,11 @@
    <td> alliance,oath </td>
  </tr>
  <tr>
-   <td> &#x7d14 </td> <td>  1494 </td> <td>   6 </td> <td> @KT{{JUN}} </td></td>
+   <td> &#x7d14 </td> <td>  1494 </td> <td>   6 </td> <td> @KT{{JUN'}} </td></td>
    <td> genuine,purity,innocence,net (profit) </td>
  </tr>
  <tr>
-   <td> &#x61b2 </td> <td>  1554 </td> <td>   6 </td> <td> @KT{{KEN}} </td></td>
+   <td> &#x61b2 </td> <td>  1554 </td> <td>   6 </td> <td> @KT{{KEN'}} </td></td>
    <td> constitution,law </td>
  </tr>
  <tr>
@@ -450,7 +450,7 @@
    <td> eaves,roof,house,heaven </td>
  </tr>
  <tr>
-   <td> &#x8ad6 </td> <td>  1820 </td> <td>   6 </td> <td> @KT{{RON}} </td></td>
+   <td> &#x8ad6 </td> <td>  1820 </td> <td>   6 </td> <td> @KT{{RON'}} </td></td>
    <td> argument,discourse </td>
  </tr>
  <tr>
@@ -470,11 +470,11 @@
    <td> home,house,residence,our house,my husband </td>
  </tr>
  <tr>
-   <td> &#x5c55 </td> <td>  1925 </td> <td>   6 </td> <td> @KT{{TEN}} </td></td>
+   <td> &#x5c55 </td> <td>  1925 </td> <td>   6 </td> <td> @KT{{TEN'}} </td></td>
    <td> unfold,expand </td>
  </tr>
  <tr>
-   <td> &#x6669 </td> <td>  1974 </td> <td>   6 </td> <td> @KT{{BAN}} </td></td>
+   <td> &#x6669 </td> <td>  1974 </td> <td>   6 </td> <td> @KT{{BAN'}} </td></td>
    <td> nightfall,night </td>
  </tr>
  <tr>
@@ -498,7 +498,7 @@
    <td> nitrate,saltpeter </td>
  </tr>
  <tr>
-   <td> &#x5398 </td> <td>   178 </td> <td>   8 </td> <td> @KT{{RIN}} </td></td>
+   <td> &#x5398 </td> <td>   178 </td> <td>   8 </td> <td> @KT{{RIN'}} </td></td>
    <td> rin,1/10sen,1/10bu </td>
  </tr>
  <tr>
@@ -530,7 +530,7 @@
    <td> display,offer,present,send,exhibit </td>
  </tr>
  <tr>
-   <td> &#x6813 </td> <td>   264 </td> <td>   8 </td> <td> @KT{{SEN}} </td></td>
+   <td> &#x6813 </td> <td>   264 </td> <td>   8 </td> <td> @KT{{SEN'}} </td></td>
    <td> plug,bolt,cork,bung,stopper </td>
  </tr>
  <tr>
