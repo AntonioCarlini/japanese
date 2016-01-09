@@ -265,7 +265,7 @@ It can also be used to ask the listener to name one of a group which the followi
 
 @BGRND{{}}
 <p>
-<a name="kochira">@HI{{@EM{{kochira}}}}</a>, <stron>@HI{{sochira}}</strong> and @HI{{@EM{{achira}}}} are demonstratives
+<a name="kochira">@HI{{@EM{{kochira}}}}</a>, @HI{{@EM{{sochira}}}} and @HI{{@EM{{achira}}}} are demonstratives
 that refer to a direction. They can also be used to refer to a place, in which case they are considered more
 polite than @HI{{@EM{{koko}}}}, @HI{{@EM{{soko}}}} and @HI{{@EM{{asoko}}}}.
 </p>
@@ -367,7 +367,7 @@ as though it really existed then and there.
 <p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ashitagaichiban@KJ{{longing}}shii@KJ{{thing}}ha[dokodemo @KT{{doa}}]desu.
+      @HI{{ashitagaichiban'@KJ{{longing}}shii@KJ{{thing}}ha[dokodemo @KT{{doa}}]desu.
       @EM{{kono}}@KT{{doa}}wo@KJ{{open}}keruto,dokodemo@KJ{{going}}kitai 
       @KJ{{place}}he@KJ{{going}}kemasu.}}
   </td> </tr>

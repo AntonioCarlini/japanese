@@ -61,7 +61,7 @@ In the pattern:
 <br/>
 A@HI{{ha}}B@HI{{desu}}
 <br/>
-<string>@HI{{koto}}</strong> can be used in position B but @HI{{no}} cannot.
+@HI{{@EM{{koto}}}} can be used in position B but @HI{{no}} cannot.
 </p>
 
 @BGRND{{}}

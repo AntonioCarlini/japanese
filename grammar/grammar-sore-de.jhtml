@@ -27,8 +27,8 @@ the previous sentence is the reason for the following sentence.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{kono @KT{{resutoran}}ha @KJ{{price^grade}}mo @KJ{{relax}}iishi, oishiindesu.</br>
-      @EM{{sorede}} @KJ{{person}}ga @KJ{{many}}indesune.}}
+      @HI{{kono @KT{{resutoran}}ha @KJ{{price^grade}}mo @KJ{{relax}}iishi, oishiindesu.}}</br>
+      @HI{{@EM{{sorede}} @KJ{{person}}ga @KJ{{many}}indesune.}}
   </td> </tr>
   <tr class="en"> <td>
       The food is inexpensive and tasty in this restaurant.</br>

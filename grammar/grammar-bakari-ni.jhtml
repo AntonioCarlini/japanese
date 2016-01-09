@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@HI{{bakarin}}</title>
+<title>@HI{{bakarini}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -12,7 +12,7 @@
 
 <body>
 
-<h1>@HI{{bakarin}}</h1>
+<h1>@HI{{bakarini}}</h1>
 
 <h2> Formation </h2>
 
@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{bakarin}}}} is a conjunction that indicates that a single factor causes a negative situation.
+@HI{{@EM{{bakarini}}}} is a conjunction that indicates that a single factor causes a negative situation.
 
 <table class="sentence">
   <tr class="jp"> <td>

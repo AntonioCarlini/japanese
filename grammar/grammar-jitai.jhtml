@@ -35,7 +35,7 @@ The combination behaves exactly as a normal noun would do.
   <tr class="jp"> <td>
       @HI{{@KT{{inta-netto}}@EM{{@KJ{{oneself^body}}}}ha@FG{{@KJ{{feelings^report}}:jouhou}}no@FG{{@KJ{{traffic^path}}:tsuuro}}deatte,@FG{{@KJ{{inside^contain}}:naiyou}}ha@KJ{{hold}}tanai.}}
   </td> </tr>
-  <tr class="en"> <td>
+  <tr class="en1"> <td>
       The internet is a path for information and does not contain any content itself.
   </td> </tr>
 </table>
@@ -49,7 +49,7 @@ When @HI{{sore}} appears between the noun phrase and @HI{{@EM{{@FG{{@KJ{{oneself
   <tr class="jp"> <td>
       @HI{{kono@FG{{@KJ{{wide^revelation}}:koukoku}}ha,@FG{{@KJ{{marketing^sell}}:hanbai}}yori@KJ{{wide^revelation}}@OPTTEXT{{@HI{{sore}}}}@EM{{@KJ{{oneself^body}}}}ga@FG{{@KJ{{eye^bull's*eye}}:mokuteki}}da.}}
   </td> </tr>
-  <tr class="en"> <td>
+  <tr class="en2"> <td>
       The goal of this advertisement is the advertisement (of the product) itself rather than sales.
   </td> </tr>
 </table>
@@ -65,7 +65,7 @@ mostly occurs with non-human nouns.
   <tr class="jp"> <td>
       @HI{{uchino@KJ{{child}}@EM{{@FG{{@KJ{{oneself^somebody}}:jishin'}}}}ha@KT{{amerika}}ni@KJ{{going}}kitagatteimasen'.}}
   </td> </tr>
-  <tr class="en"> <td>
+  <tr class="en3"> <td>
       My own child's preference is to not go to America.
   </td> </tr>
 </table>

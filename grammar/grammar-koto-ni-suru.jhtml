@@ -36,7 +36,7 @@ In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotonin
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{capital^metropolis}}made@KT{{basu}}de@KJ{{going}}ku<strong>kotonishimashou</strong.}}
+      @HI{{@KJ{{capital^metropolis}}made@KT{{basu}}de@KJ{{going}}ku@EM{{kotonishimashou}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Let's go as far as Kyoto by bus.
@@ -45,7 +45,7 @@ In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotonin
 <li>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{every^day^Sino-^character}}wo@KJ{{ten}}@KJ{{memorize}}eru<strong>kotonishimashita.}}
+      @HI{{@KJ{{every^day^Sino-^character}}wo@KJ{{ten}}@KJ{{memorize}}eru@EM{{kotonishimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I've decided to memorise ten kanji every day.
@@ -90,7 +90,7 @@ not to do something is still in force.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{meat}}woamari@KJ{{eat}}benai<strong>kotonishiteiru</strong.}}
+      @HI{{@KJ{{private}}ha@KJ{{meat}}woamari@KJ{{eat}}benai@EM{{kotonishiteiru}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I make it a rule not to eat very much meat.

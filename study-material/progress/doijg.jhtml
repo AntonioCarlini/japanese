@@ -891,7 +891,7 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="">   </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-totan.html">@FG{{@KJ{{route^edge}}:totan}}(@HI{{ni}})</a>                             </td>
+  <td class="left"> <a href="grammar-totan.html">@FG{{@KJ{{route^edge}}:totan'}}(@HI{{ni}})</a>                            </td>
   <td class="left"> DOIJG, p. 525                                                                                          </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
