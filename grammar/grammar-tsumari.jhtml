@@ -17,7 +17,7 @@
 
 <ol>
 <li> @FORMATION{{@S1{{}}@HI{{.@EM{{tsumari}},@S2{{}}.}}}}
-<li> @FORMATION{{NP[]@HI{{,@EM{{tsumari}},NP[]}}}}
+<li> @FORMATION{{NP[]@HI{{,@EM{{tsumari}},}}NP[]}}
 </ol>
 
 <h2> Definition </h2>

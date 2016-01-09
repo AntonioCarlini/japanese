@@ -78,7 +78,7 @@ action voluntarily.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{mama}}ha@KJ{{private}}ni@KT{{se-ta-}}wo@KJ{{send*off}}t@EM{{tekuremashita}}.}}
+      @HI{{@KJ{{mama}}ha@KJ{{private}}ni@KT{{se-ta-}}wo@KJ{{send*off}}xtsu@EM{{tekuremashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       My mother sent me a sweater.
@@ -94,7 +94,7 @@ giver is in a higher position than the receiver or when the receiver is a person
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{dog}}wo@KJ{{scatter^walk}}ni@KJ{{take*along}}rete@KJ{{going}}t@EM{{teyarimashita}}.}}
+      @HI{{@KJ{{private}}ha@KJ{{dog}}wo@KJ{{scatter^walk}}ni@KJ{{take*along}}rete@KJ{{going}}xtsu@EM{{teyarimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I took my dog for a walk.
@@ -108,7 +108,7 @@ action will cause hardship or trouble for the other person.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@FG{{@KJ{{correct}}:tadasji}}wokarakatte@EM{{yatta}}.}}
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{correct}}:tadasuji}}wokarakatte@EM{{yatta}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I teased Tadashi.
@@ -153,7 +153,7 @@ social status performs an action for the receiver.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{section^long}}ha@KJ{{private}}wo@KJ{{station}}de@KJ{{send*off}}t@EM{{tekudasaimashita}}.}}
+      @HI{{@KJ{{section^long}}ha@KJ{{private}}wo@KJ{{station}}de@KJ{{send*off}}xtsu@EM{{tekudasaimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       The general manager took me to the station.
