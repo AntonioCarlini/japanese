@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{ndesu}}" grammar="@HI{{ndesu}}"}}
+@GRMIDX{{index="@HI{{nodehanai}}" grammar="@HI{{nodehanai}}"}}
 
 <body>
 
@@ -47,7 +48,7 @@ This form is used when the speaker guesses a reason or cause for what has been h
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ndesuka}}}} is also used when the speaker asks for information about what has been seen or heard.
+<a name="info-request">@HI{{@EM{{ndesuka}}}}</a> is also used when the speaker asks for information about what has been seen or heard.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,7 +62,7 @@ This form is used when the speaker guesses a reason or cause for what has been h
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ndesuka}}}} asks the listener to explain the reason or cause of what has been seen or heard.
+<a name="exp-req">@HI{{@EM{{ndesuka}}}}</a> asks the listener to explain the reason or cause of what has been seen or heard.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -109,7 +110,7 @@ to state a reason or cause in the reply.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ndesu}}}} is also used when the speaker wishes to add a reason or cause to what he has stated.
+<a name="add-cause">@HI{{@EM{{ndesu}}}}</a> is also used when the speaker wishes to add a reason or cause to what he has stated.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -162,7 +163,7 @@ expression seeking permission. However, the trailing clause can be omitted.
 
 @BGRND{{}}
 <p>
-The following pattern may be used to state a result that has arisen because of a particular reason or a guess based on logical grounds.
+<a name="state-result">The</a> following pattern may be used to state a result that has arisen because of a particular reason or a guess based on logical grounds.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -176,11 +177,11 @@ The following pattern may be used to state a result that has arisen because of a
 
 @BGRND{{}}
 <p>
-@HI{{nodehanai}} may be used to negate everything except the final part of the sentence.
+<a name="nodewanai">@HI{{nodehanai}}</a> may be used to negate everything except the final part of the sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KT{{repo-to}}ha@KJ{{one^person}}de@KJ{{write}}itanodehaarimasen.}}
+      @HI{{kono@KT{{repo-to}}ha@KJ{{one^person}}de@KJ{{write}}itanodehaarimasen'.}}
   </td> </tr>
   <tr class="en"> <td>
       I didn't write this report all by myself.
@@ -242,6 +243,7 @@ and may therefore cause offence. It should be used with care.
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @REF{{NKZM-N3G}}. (p. 38).
 </ol>
 
 @include{{"grammar-footer.inc"}}
