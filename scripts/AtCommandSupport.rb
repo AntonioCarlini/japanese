@@ -367,10 +367,12 @@ def process_at_commands(text, data_dir, filename)
           # This is probably a missing require or similar
           raise e
         rescue => e
+          $stderr.puts(e)
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
           $stderr.puts("Fatal data: [#{to_handle[0..30]}\n]")
           $stderr.puts("in source [#{filename}]\n")
           $stderr.puts(e.backtrace())
+          raise e
         end
         if stack.empty?()
           answer += puts_result(result)
