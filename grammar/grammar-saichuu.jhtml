@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @FG{{@KJ{{utmost^in}}:saichuu}} expresses the time period during which an event is taking place.
 The time period in question should be comparatively short.
@@ -29,14 +32,15 @@ The main clause often expresses something unexpected and inconvenient.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanha@KJ{{now}}@FG{{@KJ{{consider}}:ka}}egotowoshiteiru@FG{{@KJ{{utmost^in}}:saichuu}}dakara,jamashinaihougaii.}}
+      @HI{{@FG{{@KJ{{eat^matter}}:shokuji}}no@FG{{@KJ{{utmost^in}}:saichuu}}ni,o@FG{{@KJ{{guest}}:kyaku}}sanga@KJ{{come}}ta.}}
   </td> </tr>
   <tr class="en"> <td>
-      As Tanaka is thinking deeply now, it is better not to bother him.
+      A visitor came right in the middle of the meal.
   </td> </tr>
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @FG{{@KJ{{utmost^in}}:saichuu}} can be used with verbs in the continous form.
 
@@ -50,12 +54,26 @@ The main clause often expresses something unexpected and inconvenient.
 </table>
 </p>
 
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanha@KJ{{now}}@FG{{@KJ{{consider}}:ka}}egotowoshiteiru@FG{{@KJ{{utmost^in}}:saichuu}}dakara,jamashinaihougaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As Tanaka is thinking deeply now, it is better not to bother him.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{NKZM-N2G}}. (p. 12).
+<li> @REF{{NKZM-N2G}}. (p. 12).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

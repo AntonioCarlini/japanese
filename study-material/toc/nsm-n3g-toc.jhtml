@@ -200,7 +200,7 @@
 <li> <a href="grammar-tsuide-ni.html">@HI{{tsuideni}}</a>
 <li> <a href="grammar-tabi-ni.html">@HI{{tabini}}</a>
 <li> <a href="grammar-totan.html">@HI{{totann}}</a>
-<li> @HI{{goichuu}}
+<li> <a href="grammar-saichuu.html">@HI{{@FG{{@KJ{{utmost^in}}:saichuu}}}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d5">_</a> @KJ{{No.}}3@KJ{{week}}5@KJ{{day^eye}} </h2>
