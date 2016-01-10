@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{stand*up}}te}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tate}}" grammar="@HI{{@FG{{@KJ{{stand*up}}:ta}}te}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{stand*up}}:ta}}te}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{stand*up}}:ta}}te}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{stand*up}}:ta}}te}}no@N{{}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{stand*up}}:ta}}te}}}} expresses the relative freshness or immaturity of something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanhamada@FG{{@KJ{{enter^company}}:nyuusha}}shi@EM{{tate}}desukara,kono@KJ{{meeting^company}}nokotogayoku@KJ{{part}}karimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Tanaka has only just joined the company, so he doesn't know much about it yet.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{stand*up}}:ta}}te}}no}} functions as a noun modifier.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{bake}}:ya}}ki@EM{{tate}}no@KT{{pan}}haoishii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Freshly baked bread is really good.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
