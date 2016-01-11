@@ -40,7 +40,7 @@ RD.instance().radical().each() {
   print('<tr> ')
   key_bad = (key != radical.english()) ? "BAD" : ""
   print("<td> #{key} #{key_bad}</td>")
-  print("<td> @HI{{#{radical.reading()}}} </td>")
+  print("<td> @HI{{#{radical.reading().downcase()}}} </td>")
   print("<td> #{radical.unicode()} </td>")
   print("<td> @RD{{#{key}}} </td>")
   puts('</tr>')
