@@ -42,7 +42,7 @@ class Text
 
   def display()
     text = @text[0..30].tr("\n", "_")
-    text += "..." if @text.size() > 30
+    text << "..." if @text.size() > 30
     return "Text:        #{text}"
   end
 end
@@ -72,7 +72,7 @@ class DoneText
 
   def display()
     text = @text[0..30].tr("\n", "_")
-    text += "..." if @text.size() > 30
+    text << "..." if @text.size() > 30
     return "DoneText:    #{text}"
   end
 end
@@ -322,12 +322,11 @@ def process_at_commands(text, data_dir, filename)
 
   if to_handle !~ /#{OPENING_REGEXP}/ixm
     debug_out("No command found")    
-    answer += to_handle
+    answer << to_handle
     to_handle = nil
   end
 
   while !to_handle.nil?() && !to_handle.empty?()
-    debug_out("Starting with to_handle.size = #{to_handle.size()}")    
     m = /(#{OPENING_REGEXP}|#{CLOSING_REGEXP})/ixm.match(to_handle)
     if !m.nil?()
       text = m.pre_match()
@@ -336,14 +335,12 @@ def process_at_commands(text, data_dir, filename)
       debug_out("Found something to process")    
       
       if stack.empty?()
-        answer += text
+        answer << text
       else
-        debug_out("Stacking text [#{text}]")    
         stack << Text.new(text)
       end
 
       if current =~ /#{CLOSING_REGEXP}/
-        debug_out("Processing last command [#{current}]")
         # Build the mini stack by working backwards through the stack until
         # an operation is found.
         mini_stack = []
@@ -360,7 +357,6 @@ def process_at_commands(text, data_dir, filename)
         raise("No object on the stack with current [#{text}#{current}] to handle [#{to_handle}]") if object.nil?()
         op = object.operation()
         raise("Object has no operation") if op.nil?()
-        debug_out("Invoking [#{op}]")
         begin
           result = send(op, mini_stack, object.code())
         rescue NoMethodError => e
@@ -375,15 +371,13 @@ def process_at_commands(text, data_dir, filename)
           raise e
         end
         if stack.empty?()
-          answer += puts_result(result)
+          answer << puts_result(result)
         else
-          debug_out("Stacking processed text")    
           stack << result
           stack.flatten!()
         end
 
       else
-        debug_out("Stacking command [#{current}]")
         if current =~ /@(.*)#{OPENING_BRACKETS}/
           command = $1
           if command =~ /^(N|V|S)(\d*)$/
@@ -403,14 +397,12 @@ def process_at_commands(text, data_dir, filename)
     else
       # No match. This must be a sequence of trailing text that will never be processed
       debug_out("Finished handling text")
-      answer += to_handle
+      answer << to_handle
       break
     end
-    debug_out("Loop end: to_handle.size=#{to_handle.size()}")
   end
 
   unless stack.empty?()
-    debug_out("Finished with non-empty stack")
     dump_stack(stack)
     raise("Non-empty stack")
   end
@@ -431,8 +423,8 @@ def transform_ref(text, data_dir)
   else
     alt = ref.alternate()
     res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
-    res += ref.text()
-    res += "</span>" unless alt.nil?() || alt.empty?()
+    res << ref.text()
+    res << "</span>" unless alt.nil?() || alt.empty?()
   end
   return res
 end
@@ -458,7 +450,7 @@ def puts_result(stack)
   stack.each() {
     |x|
     raise("Trying to output OP") if x.op?()
-    result += x.text()
+    result << x.text()
   }
   return result
 end
@@ -469,7 +461,7 @@ def collapse_result(stack)
   stack.each() {
     |x|
     raise("Found OP in result") if x.op?()
-    result += x.text()
+    result << x.text()
   }
   return DoneText.new(puts_result(stack))
 end
@@ -565,8 +557,8 @@ def process_furigana(stack, unused)
     raise("Failed to specify furigana in @FG")
   end
   tip = "<span title=\"#{collapse_result(result).text()}\">"
-  tip += collapse_result(display_result).text()
-  tip += "</span>"
+  tip << collapse_result(display_result).text()
+  tip << "</span>"
   return [ DoneText.new(tip) ]
 end
 
@@ -725,8 +717,8 @@ def process_NSV(stack, code)
   sub = code[1..-1] # lose first character
   sub = convert_to_hiragana('te') if code == "V6" # TODO - just for comparison
   sub = convert_to_hiragana('ta') if code == "V7" # TODO - just for comparison
-  string += "<sub>#{sub}</sub>" unless sub.nil?() || sub.empty?()
-  string += "(#{brackets})" unless brackets.nil?() || brackets.empty?()
+  string << "<sub>#{sub}</sub>" unless sub.nil?() || sub.empty?()
+  string << "(#{brackets})" unless brackets.nil?() || brackets.empty?()
   string = mark_as_grammar(string) unless code =~ /^V\d$/ # TODO - just for comparison
   return [ DoneText.new(string) ] # TODO - mark_as_grammar here
 end
@@ -773,11 +765,11 @@ def process_background_insert(stack, unused)
 
   text = ""
   # If a DIV is in progress, close it off
-  text += insert_div_close() if state.divs_active?()
+  text << insert_div_close() if state.divs_active?()
 
   # Start a new DIV
   name = "style-" + state.divs_next()
-  text += "<DIV class=\"#{name}\"><p><br/></p>\n"
+  text << "<DIV class=\"#{name}\"><p><br/></p>\n"
   return [ DoneText.new(text) ]
 end
 
@@ -786,7 +778,7 @@ def process_background_end(stack, unused)
 
   # If a DIV is in progress, close it off
   text = ""
-  text += insert_div_close() if state.divs_active?()
+  text << insert_div_close() if state.divs_active?()
 
   # Forget the existing DIVs
   state.divs_end()

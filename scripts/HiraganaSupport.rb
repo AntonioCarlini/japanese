@@ -38,10 +38,10 @@ def convert_to_hiragana(text)
   result = ""
   current = ""
   pos = 0
-  text.chars() {
+  text.each_char() {
     |c|
     pos += 1
-    current += c
+    current << c
     if current =~ /^[0-9]$/
       result << current
       current = ""
