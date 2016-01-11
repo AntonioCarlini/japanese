@@ -28,6 +28,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{~@HI{{yara}}~@HI{{yara}}}} is used to present things, events or actions as examples, reasons or possibilities.
 
@@ -41,6 +44,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 In the form ~@HI{{no@EM{{yara}}}}~@HI{{no@EM{{yara}}}}, the meaning is "whether ~ or ~". 
 The main clause must contain a verb of cognition, such as @HI{{wakaru}} or @HI{{@FG{{@KJ{{see^hit}}:kentou}}gatsukanai}}.
@@ -55,6 +59,8 @@ The main clause must contain a verb of cognition, such as @HI{{wakaru}} or @HI{{
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -64,8 +70,9 @@ The main clause must contain a verb of cognition, such as @HI{{wakaru}} or @HI{{
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 720).
-<li> @UCREF{{NKZM-N2G}}. (p. 46).
+<li> @REF{{DOAJG}}. (p. 720).
+<li> @REF{{NKZM-N2G}}. (p. 46).
+<li> @REF{{NKZM-N2G}}. (p. 134).
 </ol>
 
 @include{{"grammar-footer.inc"}}

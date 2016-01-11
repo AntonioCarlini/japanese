@@ -483,13 +483,16 @@ h2#heading {
 <li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishiro}}~@HI{{nishiro}}</a>
 <li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a>
 <li> ~<a href="grammar-particle-dano.html">@HI{{dano}}~@HI{{dano}}</a>
-<li> ~@HI{{ka}}~@HI{{naikanouchini}}
+<li> ~<a href="grammar-nai-ka-no-uchi-ni.html">@HI{{ka}}~@HI{{naikanouchini}}</a>
 <li> ~<a href="grammar-you-ka-mai-ka.html">@Vyou{{}}@HI{{ka}}~@HI{{maika}}</a>
 <li> ~<a href="grammar-to-iu-no-wa.html#to-wa">@HI{{toha}}</a>
-<li> ~@HI{{gurai}}@MIDDOT{{}}@HI{{kurai}}
-<li> ~@HI{{nado}}@MIDDOT{{}}@HI{{nanka}}@MIDDOT{{}}@HI{{nante}}
-<li> ~@HI{{made}}
-<li> ~@HI{{toshite}}
+<li> ~<a href="grammar-kurai.html">@HI{{gurai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-kurai.html">@HI{{kurai}}</a>
+<li> ~<a href="grammar-nanka.html">@HI{{nanka}}@HI{{nado}}</a> @MIDDOT{{}}
+     ~<a href="grammar-nante-emotion.html">@HI{{nanka}}@MIDDOT{{}}@HI{{nante}}</a>
+<li> ~<a href="grammar-particle-made.html#extreme">@HI{{made}}</a> @MIDDOT{{}}
+<li> ~<a href="grammar-made-shite.html">@HI{{madeshite}}</a>
+<li> ~<a href="grammar-toshite-nai.html">@HI{{toshite}}~@HI{{nai}}</a>
 <li> ~<a href="grammar-particle-sae.html">@HI{{sae}}</a>
 <li> ~<a href="grammar-particle-nomi.html">@HI{{nomi}}</a>
 </ol>
