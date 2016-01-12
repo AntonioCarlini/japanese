@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{equal}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{hai}}" grammar="counter @KJ{{equal}}"}}
+
+<body>
+
+<h1>counter @KJ{{equal}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{ippiki}}</td>      <td> @KJ{{one^equal}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nihai}}</td>       <td> @KJ{{two^equal}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular"> @HI{{sanbiki}}</td>     <td> @KJ{{three^equal}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonhai}}</td>      <td> @KJ{{four^equal}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gohai}}</td>       <td> @KJ{{five^equal}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{roppiki}}</td>     <td> @KJ{{six^equal}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanahiki}}</td>    <td> @KJ{{seven^equal}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{happiki}}</td>     <td> @KJ{{eight^equal}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuhai}}</td>     <td> @KJ{{nine^equal}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juppiki}}</td>     <td> @KJ{{ten^equal}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanbiki}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count small animals, fish and insects.
+</p>
+<p>
+To ask "how many small animals?", use @HI{{nanbiki}}.
+</p>
+
+<p>
+@HI{{juppiki}} may also be read as @HI{{jippiki}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

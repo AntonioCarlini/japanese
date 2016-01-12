@@ -23,7 +23,7 @@
 <tr> <td> 4  </td> <td class="irregular">@HI{{yottsu}}</td>    <td> @KJ{{yon}}@HI{{tsu}} </td></tr>
 <tr> <td> 5  </td> <td class="irregular">@HI{{itsutsu}}</td>   <td> @KJ{{go}}@HI{{tsu}} </td></tr>
 <tr> <td> 6  </td> <td class="irregular">@HI{{muttsu}}</td>    <td> @KJ{{roku}}@HI{{tsu}} </td></tr>
-<tr> <td> 7  </td> <td class="irregular">@HI{{nanatsu}}</td>   <td> @KJ{{nana}}@HI{{tsu}} </td></tr>
+<tr> <td> 7  </td> <td>                  @HI{{nanatsu}}</td>   <td> @KJ{{nana}}@HI{{tsu}} </td></tr>
 <tr> <td> 8  </td> <td class="irregular">@HI{{yattsu}}</td>    <td> @KJ{{hachi}}@HI{{tsu}} </td></tr>
 <tr> <td> 9  </td> <td class="irregular">@HI{{kokonotsu}}</td> <td> @KJ{{kyuu}}@HI{{tsu}} </td></tr>
 <tr> <td> 10 </td> <td class="irregular">@HI{{too}}</td>       <td> 10 </td></tr>
@@ -38,6 +38,10 @@ Eleven and higher are counted using the numbers themselves.
 <p>
 This counter is used to count general items or items that have no more specific counter available or for
 which the speaker does not know the more specific counter. The counter usually follows the noun and its particle.
+</p>
+
+<p>
+To ask "how many times?", use @HI{{ikutsu}}.
 </p>
 
 <h2> Examples </h2>
@@ -60,8 +64,8 @@ which the speaker does not know the more specific counter. The counter usually f
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
 @include{{"grammar-footer.inc"}}

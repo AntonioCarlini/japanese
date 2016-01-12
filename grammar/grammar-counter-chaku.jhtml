@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{don}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{chaku}}" grammar="counter @KJ{{don}}"}}
+
+<body>
+
+<h1>counter @KJ{{don}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{icchaku}}</td>      <td> @KJ{{one^don}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nichaku}}</td>      <td> @KJ{{two^don}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sanchaku}}</td>     <td> @KJ{{three^don}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonchaku}}</td>     <td> @KJ{{four^don}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gochaku}}</td>      <td> @KJ{{five^don}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokuchaku}}</td>    <td> @KJ{{six^don}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanachaku}}</td>    <td> @KJ{{seven^don}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hacchaku}}</td>     <td> @KJ{{eight^don}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuchaku}}</td>    <td> @KJ{{nine^don}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juucchaku}}</td>    <td> @KJ{{ten^don}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanchaku}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count clothes.
+</p>
+
+<p>
+To ask "how many clothes?", use @HI{{nanchaku}}.
+</p>
+
+<p>
+@HI{{juucchaku}} may also be read as @HI{{jicchaku}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

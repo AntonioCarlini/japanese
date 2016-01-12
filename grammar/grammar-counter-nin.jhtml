@@ -41,6 +41,10 @@ This counter is used to count people.
 To ask "how many people?", use @HI{{nannninn}}.
 </p>
 
+<p>
+@HI{{nananin}} may also be expressed as @HI{{shichinin}}.
+</p>
+
 <h2> Examples </h2>
 
 <ol>
@@ -62,7 +66,7 @@ To ask "how many people?", use @HI{{nannninn}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{leg}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{soku}}" grammar="counter @KJ{{leg}}"}}
+
+<body>
+
+<h1>counter @KJ{{leg}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{issoku}}</td>      <td> @KJ{{one^leg}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nisoku}}</td>      <td> @KJ{{two^leg}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular"> @HI{{sanzoku}}</td>     <td> @KJ{{three^leg}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonsoku}}</td>     <td> @KJ{{four^leg}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gosoku}}</td>      <td> @KJ{{five^leg}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokusoku}}</td>    <td> @KJ{{six^leg}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanasoku}}</td>    <td> @KJ{{seven^leg}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hassoku}}</td>     <td> @KJ{{eight^leg}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuusoku}}</td>    <td> @KJ{{nine^leg}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{jussoku}}</td>     <td> @KJ{{ten^leg}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nansoku}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count shoes and socks.
+</p>
+
+<p>
+To ask "how shoes?", use @HI{{nanzoku}}.
+</p>
+
+<p>
+@HI{{jussoku}} may also be read as @HI{{jissoku}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

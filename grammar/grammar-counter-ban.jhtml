@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{turn}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{ban}}" grammar="counter @KJ{{turn}}"}}
+
+<body>
+
+<h1>counter @KJ{{turn}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td>                   @HI{{ichiban}}</td>    <td> @KJ{{one^turn}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{niban}}</td>      <td> @KJ{{two^turn}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sanban}}</td>     <td> @KJ{{three^turn}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonban}}</td>     <td> @KJ{{four^turn}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{goban}}</td>      <td> @KJ{{five^turn}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokuban}}</td>    <td> @KJ{{six^turn}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanaban}}</td>    <td> @KJ{{seven^turn}} </td></tr>
+<tr> <td> 8  </td> <td>                   @HI{{hachiban}}</td>   <td> @KJ{{eight^turn}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuban}}</td>    <td> @KJ{{nine^turn}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{juuban}}</td>     <td> @KJ{{ten^turn}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanban}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count order.
+</p>
+<p>
+To ask "which turn?", use @HI{{nanban}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

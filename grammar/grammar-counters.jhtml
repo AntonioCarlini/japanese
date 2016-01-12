@@ -16,62 +16,116 @@
 <h2> Formation </h2>
 
 <p>
-These counters:
 <table class="highlight">
 <tr>
-	<td> <a href="grammar-counter-tsu.html"> @HI{{tsu}} </a> </td>
-	<td> @HI{{tsu}} </td>
-	<td> general </td>
+<td> <a href="grammar-counter-tsu.html"> @HI{{tsu}} </a> </td>
+<td> @HI{{tsu}} </td>
+<td> general </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-nin.html"> @KJ{{person}} </a> </td>
-	<td> @HI{{ninn}} </td>
-	<td> people </td>
+<td> <a href="grammar-counter-nin.html"> @KJ{{person}} </a> </td>
+<td> @HI{{ninn}} </td>
+<td> people </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-dai.html"> @KJ{{pedestal}} </a> </td>
-	<td> @HI{{dai}} </td>
-	<td> machines or vehicles </td>
+<td> <a href="grammar-counter-ban.html"> @KJ{{turn}} </a> </td>
+<td> @HI{{ban}} </td>
+<td> order </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-mai.html"> @KJ{{a*sheet*of}} </a> </td>
-	<td> @HI{{mai}} </td>
-	<td> thin or flat things </td>
+<td> <a href="grammar-counter-mai.html"> @KJ{{a*sheet*of}} </a> </td>
+<td> @HI{{mai}} </td>
+<td> thin or flat things </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-kai.html"> @KJ{{-times}} </a> </td>
-	<td> @HI{{kai}} </td>
-	<td> times (occurrences) </td>
+<td> <a href="grammar-counter-dai.html"> @KJ{{pedestal}} </a> </td>
+<td> @HI{{dai}} </td>
+<td> machines or vehicles </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-bun.html"> @KJ{{part}} </a> </td>
-	<td> @HI{{bunn}} </td>
-	<td> minutes </td>
+<td> <a href="grammar-counter-sai.html"> @KJ{{year-end}} </a> </td>
+<td> @HI{{sai}} </td>
+<td> age </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-jikan.html"> @KJ{{time^interval}} </a> </td>
-	<td> @HI{{jikann}} </td>
-	<td> hours </td>
+<td> <a href="grammar-counter-satsu.html"> @KJ{{tome}} </a> </td>
+<td> @HI{{satsu}} </td>
+<td> books and volumes </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-nichi.html"> @KJ{{day}}  </a> </td>
-	<td> @HI{{nichi}} </td>
-	<td> days </td>
+<td> <a href="grammar-counter-chaku.html"> @KJ{{don}} </a> </td>
+<td> @HI{{chaku}} </td>
+<td> clothes </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-shukan.html"> @KJ{{week^interval}}  </a> </td>
-	<td> @HI{{shuukann}} </td>
-	<td> weeks </td>
+<td> <a href="grammar-counter-kai.html"> @KJ{{-times}} </a> </td>
+<td> @HI{{kai}} </td>
+<td> times (occurrences) </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-kagetsu.html"> @HI{{ka}}@KJ{{month}}  </a> </td>
-	<td> @HI{{kagetsu}} </td>
-	<td> months </td>
+<td> <a href="grammar-counter-ko.html"> @KJ{{individual}} </a> </td>
+<td> @HI{{ko}} </td>
+<td> small things </td>
 </tr>
 <tr>
-	<td> <a href="grammar-counter-nen.html"> @KJ{{year}}  </a> </td>
-	<td> @HI{{nenn}} </td>
-	<td> years </td>
+<td> <a href="grammar-counter-soku.html"> @KJ{{leg}} </a> </td>
+<td> @HI{{soku}} </td>
+<td> socks and shoes </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-ken.html"> @KJ{{flats}} </a> </td>
+<td> @HI{{ken}} </td>
+<td> houses </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-kai-floors.html"> @KJ{{story}} </a> </td>
+<td> @HI{{kai}} </td>
+<td> floors of a building </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-hon.html"> @KJ{{book}} </a> </td>
+<td> @HI{{hon}} </td>
+<td> thing and long things </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-hai.html"> @KJ{{cupfuls}} </a> </td>
+<td> @HI{{hai}} </td>
+<td> drinks in cups and glasses </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-hiki.html"> @KJ{{equal}} </a> </td>
+<td> @HI{{hiki}} </td>
+<td> small animals fish and insects </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-bun.html"> @KJ{{part}} </a> </td>
+<td> @HI{{bunn}} </td>
+<td> minutes </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-jikan.html"> @KJ{{time^interval}} </a> </td>
+<td> @HI{{jikann}} </td>
+<td> hours </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-nichi.html"> @KJ{{day}}  </a> </td>
+<td> @HI{{nichi}} </td>
+<td> days </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-shukan.html"> @KJ{{week^interval}}  </a> </td>
+<td> @HI{{shuukann}} </td>
+<td> weeks </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-kagetsu.html"> @HI{{ka}}@KJ{{month}}  </a> </td>
+<td> @HI{{kagetsu}} </td>
+<td> months </td>
+</tr>
+<tr>
+<td> <a href="grammar-counter-nen.html"> @KJ{{year}}  </a> </td>
+<td> @HI{{nenn}} </td>
+<td> years </td>
 </tr>
 </table>
 </p>

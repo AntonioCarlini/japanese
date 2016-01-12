@@ -46,7 +46,7 @@ To ask "how many machines?", use @HI{{nanndai}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
 </ol>
 
 @include{{"grammar-footer.inc"}}

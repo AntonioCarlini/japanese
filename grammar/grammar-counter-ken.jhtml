@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{flats}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{ken}}" grammar="counter @KJ{{flats}}"}}
+
+<body>
+
+<h1>counter @KJ{{flats}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{ikken}}</td>      <td> @KJ{{one^flats}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{niken}}</td>      <td> @KJ{{two^flats}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular"> @HI{{sangen}}</td>     <td> @KJ{{three^flats}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonken}}</td>     <td> @KJ{{four^flats}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{goken}}</td>      <td> @KJ{{five^flats}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{rokken}}</td>     <td> @KJ{{six^flats}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanaken}}</td>    <td> @KJ{{seven^flats}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hakken}}</td>     <td> @KJ{{eight^flats}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuken}}</td>    <td> @KJ{{nine^flats}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{jukken}}</td>     <td> @KJ{{ten^flats}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanken}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count houses.
+</p>
+<p>
+To ask "how many houses?", use @HI{{nangen}}.
+</p>
+
+<p>
+@HI{{jukken}} may also be read as @HI{{jikken}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

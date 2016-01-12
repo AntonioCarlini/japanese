@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{tome}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{satsu}}" grammar="counter @KJ{{tome}}"}}
+
+<body>
+
+<h1>counter @KJ{{tome}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{issatsu}}</td>      <td> @KJ{{one^tome}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nisatsu}}</td>      <td> @KJ{{two^tome}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sansatsu}}</td>     <td> @KJ{{three^tome}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonsatsu}}</td>     <td> @KJ{{four^tome}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gosatsu}}</td>      <td> @KJ{{five^tome}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokusatsu}}</td>    <td> @KJ{{six^tome}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanasatsu}}</td>    <td> @KJ{{seven^tome}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hassatsu}}</td>     <td> @KJ{{eight^tome}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuusatsu}}</td>    <td> @KJ{{nine^tome}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{jussatsu}}</td>     <td> @KJ{{ten^tome}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nansatsu}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count books and volumes.
+</p>
+
+<p>
+To ask "how many books?", use @HI{{nansatsu}}.
+</p>
+
+<p>
+@HI{{jussatsu}} may also be read as @HI{{jissatsu}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

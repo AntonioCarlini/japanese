@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{year-end}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{sai}}" grammar="counter @KJ{{year-end}}"}}
+
+<body>
+
+<h1>counter @KJ{{year-end}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{issai}}</td>      <td> @KJ{{one^year-end}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nisai}}</td>      <td> @KJ{{two^year-end}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sansai}}</td>     <td> @KJ{{three^year-end}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonsai}}</td>     <td> @KJ{{four^year-end}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gosai}}</td>      <td> @KJ{{five^year-end}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokusai}}</td>    <td> @KJ{{six^year-end}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanasai}}</td>    <td> @KJ{{seven^year-end}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hassai}}</td>     <td> @KJ{{eight^year-end}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuusai}}</td>    <td> @KJ{{nine^year-end}} </td></tr>
+<tr> <td> 10 </td> <td>                   @HI{{jussai}}</td>     <td> @KJ{{ten^year-end}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nansai}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to age.
+</p>
+
+<p>
+To ask "how old?", use @HI{{nansai}}.
+</p>
+
+<p>
+@HI{{jussai}} may also be read as @HI{{jissai}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

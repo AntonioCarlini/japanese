@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{cupfuls}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{hai}}" grammar="counter @KJ{{cupfuls}}"}}
+
+<body>
+
+<h1>counter @KJ{{cupfuls}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{ippai}}</td>      <td> @KJ{{one^cupfuls}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nihai}}</td>      <td> @KJ{{two^cupfuls}} </td></tr>
+<tr> <td> 3  </td> <td class="irregular"> @HI{{sanbai}}</td>     <td> @KJ{{three^cupfuls}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonhai}}</td>     <td> @KJ{{four^cupfuls}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{gohai}}</td>      <td> @KJ{{five^cupfuls}} </td></tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{roppai}}</td>     <td> @KJ{{six^cupfuls}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanahai}}</td>    <td> @KJ{{seven^cupfuls}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{happai}}</td>     <td> @KJ{{eight^cupfuls}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuhai}}</td>    <td> @KJ{{nine^cupfuls}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juppai}}</td>     <td> @KJ{{ten^cupfuls}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanbai}}</td>     <td> &nbsp; </td></tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count drinks in cups and glasses.
+</p>
+
+<p>
+To ask "how many cupfuls?", use @HI{{nanbai}}.
+</p>
+
+<p>
+@HI{{juppai}} may also be read as @HI{{jippai}}.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-TR-I}}. (Appendix IV).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
