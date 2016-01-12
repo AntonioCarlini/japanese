@@ -17,17 +17,17 @@
 
 <p>
 <table class="highlight">
-<tr> <td> 1  </td> <td class="irregular"> @HI{{isshukann}}</td>    <td> @KJ{{one^week^interval}} </td></tr>
-<tr> <td> 2  </td> <td>                   @HI{{nishukann}}</td>      <td> @KJ{{two^week^interval}} </td></tr>
-<tr> <td> 3  </td> <td>                   @HI{{sannshukann}}</td>    <td> @KJ{{three^week^interval}} </td></tr>
-<tr> <td> 4  </td> <td>                   @HI{{yonshukann}}</td>     <td> @KJ{{four^week^interval}} </td></tr>
-<tr> <td> 5  </td> <td>                   @HI{{goshukann}}</td>      <td> @KJ{{five^week^interval}} </td></tr>
-<tr> <td> 6  </td> <td>                   @HI{{rokushukann}}</td>    <td> @KJ{{six^week^interval}} </td></tr>
-<tr> <td> 7  </td> <td>                   @HI{{nanashukann}}</td>    <td> @KJ{{seven^week^interval}} </td></tr>
-<tr> <td> 8  </td> <td class="irregular"> @HI{{hasshukann}}</td>   <td> @KJ{{eight^week^interval}} </td></tr>
-<tr> <td> 9  </td> <td>                   @HI{{kyuushukann}}</td>    <td> @KJ{{nine^week^interval}} </td></tr>
-<tr> <td> 10 </td> <td class="irregular"> @HI{{juusshukann}}</td>     <td> @KJ{{ten^week^interval}} </td></tr>
-<tr> <td> ?  </td> <td>                   @HI{{nannshukann}}</td>    <td> &nbsp; </td></tr>
+<tr> <td> 1  </td> <td class="irregular"> @HI{{isshuukann}}</td>      <td> @KJ{{one^week^interval}} </td></tr>
+<tr> <td> 2  </td> <td>                   @HI{{nishuukann}}</td>      <td> @KJ{{two^week^interval}} </td></tr>
+<tr> <td> 3  </td> <td>                   @HI{{sannshuukann}}</td>    <td> @KJ{{three^week^interval}} </td></tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonshuukann}}</td>     <td> @KJ{{four^week^interval}} </td></tr>
+<tr> <td> 5  </td> <td>                   @HI{{goshuukann}}</td>      <td> @KJ{{five^week^interval}} </td></tr>
+<tr> <td> 6  </td> <td>                   @HI{{rokushuukann}}</td>    <td> @KJ{{six^week^interval}} </td></tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanashuukann}}</td>    <td> @KJ{{seven^week^interval}} </td></tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hasshuukann}}</td>     <td> @KJ{{eight^week^interval}} </td></tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuushuukann}}</td>    <td> @KJ{{nine^week^interval}} </td></tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{jusshuukann}}</td>     <td> @KJ{{ten^week^interval}} </td></tr>
+<tr> <td> ?  </td> <td>                   @HI{{nannshuukann}}</td>    <td> &nbsp; </td></tr>
 </table>
 </p>
 
@@ -36,8 +36,14 @@
 <p>
 This counter is used to count a period of weeks.
 </p>
+
 <p>
-To ask "how many weeks?", use @HI{{nannshukann}}.
+To ask "how many weeks?", use @HI{{nannshuukann}}.
+</p>
+
+<p>
+@HI{{nanashuukann}} may also be expressed as @HI{{shichishuukann}}.<br/>
+@HI{{jusshuukann}} may also be expressed as @HI{{jisshuukann}}.
 </p>
 
 <h2> Notes </h2>
@@ -46,7 +52,7 @@ To ask "how many weeks?", use @HI{{nannshukann}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Appendix III).
 </ol>
 
 @include{{"grammar-footer.inc"}}

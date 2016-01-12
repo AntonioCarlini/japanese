@@ -20,7 +20,7 @@
 <tr> <td> 1  </td> <td>                   @HI{{ichinenn}}</td>    <td> @KJ{{one^year}} </td></tr>
 <tr> <td> 2  </td> <td>                   @HI{{ninenn}}</td>      <td> @KJ{{two^year}} </td></tr>
 <tr> <td> 3  </td> <td>                   @HI{{sannnenn}}</td>    <td> @KJ{{three^year}} </td></tr>
-<tr> <td> 4  </td> <td>                   @HI{{yonnenn}}</td>     <td> @KJ{{four^year}} </td></tr>
+<tr> <td> 4  </td> <td class="irregular"> @HI{{yonenn}}</td>      <td> @KJ{{four^year}} </td></tr>
 <tr> <td> 5  </td> <td>                   @HI{{gonenn}}</td>      <td> @KJ{{five^year}} </td></tr>
 <tr> <td> 6  </td> <td>                   @HI{{rokunenn}}</td>    <td> @KJ{{six^year}} </td></tr>
 <tr> <td> 7  </td> <td>                   @HI{{nananenn}}</td>    <td> @KJ{{seven^year}} </td></tr>
@@ -40,13 +40,17 @@ This counter is used to count a period of years.
 To ask "how many years?", use @HI{{nannnenn}}.
 </p>
 
+<p>
+@HI{{nananen}} may also be expressed as @HI{{shichinen}}.
+</p>
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Appendix III).
 </ol>
 
 @include{{"grammar-footer.inc"}}
