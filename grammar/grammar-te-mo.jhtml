@@ -29,8 +29,8 @@
 @BGRND{{}}
 <p>
 This expression is used to mean "even if" or "even though" the conditon in the subordinate clause is true,
-the action expressed in the main clause will take place. The subordinate clause is not what would be
-expected from the main clause.
+the action expressed in the main clause will take place. The main clause is not what would be
+expected from the subordinate clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -108,8 +108,7 @@ With a WH word @HI{{@Vte{{}}mo}} means "no matter WH".
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 25).
-<li> @UCREF{{MNN-TR-I}}. (Chapter 23).
-<li> @UCREF{{DOBJG}}. (p. 468).
+<li> @REF{{DOBJG}}. (p. 468).
 <li> @REF{{AAP}}. (p. 29).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
