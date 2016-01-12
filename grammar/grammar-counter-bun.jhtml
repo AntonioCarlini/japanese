@@ -42,7 +42,7 @@ To ask "how many minutes?", use @HI{{nannpunn}}.
 
 <p>
 @HI{{nanafunn}} may also be expressed as @HI{{shichifunn}}.<br/>
-@HI{{juppunn}} may also be expressed as @HI{{juupunn}}.
+@HI{{juppunn}} may also be expressed as @HI{{jippunn}}.
 </p>
 
 <h2> Notes </h2>
@@ -52,7 +52,7 @@ To ask "how many minutes?", use @HI{{nannpunn}}.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix IV).
+<li> @REF{{MNN-TR-I}}. (Appendix II).
 </ol>
 
 @include{{"grammar-footer.inc"}}

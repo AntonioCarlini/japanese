@@ -20,15 +20,15 @@
 <tr> <td> 1  </td> <td>                   @HI{{ichiji}}</td>        <td> @KJ{{one^time}}   </td></tr>
 <tr> <td> 2  </td> <td>                   @HI{{niji}}</td>          <td> @KJ{{two^time}}   </td></tr>
 <tr> <td> 3  </td> <td>                   @HI{{sannji}}</td>        <td> @KJ{{three^time}} </td></tr>
-<tr> <td> 4  </td> <td class="irregular"> @HI{{yonji}}</td>         <td> @KJ{{four^time}}  </td></tr>
+<tr> <td> 4  </td> <td class="irregular"> @HI{{yoji}}</td>          <td> @KJ{{four^time}}  </td></tr>
 <tr> <td> 5  </td> <td>                   @HI{{goji}}</td>          <td> @KJ{{five^time}}  </td></tr>
 <tr> <td> 6  </td> <td>                   @HI{{rokuji}}</td>        <td> @KJ{{six^time}}   </td></tr>
 <tr> <td> 7  </td> <td>                   @HI{{shichiji}}</td>      <td> @KJ{{seven^time}} </td></tr>
 <tr> <td> 8  </td> <td>                   @HI{{hachiji}}</td>       <td> @KJ{{eight^time}} </td></tr>
-<tr> <td> 9  </td> <td>                   @HI{{kyuji}}</td>         <td> @KJ{{nine^time}}  </td></tr>
+<tr> <td> 9  </td> <td class="irregular"> @HI{{kuji}}</td>          <td> @KJ{{nine^time}}  </td></tr>
 <tr> <td> 10 </td> <td>                   @HI{{juuji}}</td>         <td> @KJ{{ten^time}}   </td></tr>
-<tr> <td> 11 </td> <td>                   @HI{{juuichiji}}</td>     <td> @KJ{{ten^time}}   </td></tr>
-<tr> <td> 12 </td> <td>                   @HI{{juuniji}}</td>       <td> @KJ{{ten^time}}   </td></tr>
+<tr> <td> 11 </td> <td>                   @HI{{juuichiji}}</td>     <td> @KJ{{ten^one^time}}   </td></tr>
+<tr> <td> 12 </td> <td>                   @HI{{juuniji}}</td>       <td> @KJ{{ten^two^time}}   </td></tr>
 <tr> <td> ?  </td> <td>                   @HI{{nannji}}</td>        <td> &nbsp;            </td></tr>
 </table>
 </p>
@@ -49,7 +49,7 @@ To ask "what time is it?", use @HI{{nannjidesuka}}.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix II).
+<li> @REF{{MNN-TR-I}}. (Appendix II).
 </ol>
 
 @include{{"grammar-footer.inc"}}
