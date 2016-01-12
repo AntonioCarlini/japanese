@@ -53,7 +53,7 @@ To ask "how many months?", use @HI{{nannkagetsu}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-TR-I}}. (Appendix III).
+<li> @REF{{MNN-TR-I}}. (Appendix III).
 </ol>
 
 @include{{"grammar-footer.inc"}}
