@@ -43,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can indicate agreement with the other person.
+<a name="agreement">@HI{{@EM{{ne}}}}</a> can indicate agreement with the other person.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can soften a request.
+<a name="soften">@HI{{@EM{{ne}}}}</a> can soften a request.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -71,7 +71,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can request confirmation.
+<a name="confirmation">@HI{{@EM{{ne}}}}</a> can request confirmation.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -85,7 +85,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can indicate a mild assertion of opinion.
+<a name="opinion">@HI{{@EM{{ne}}}}</a> can indicate a mild assertion of opinion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -99,7 +99,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ne}}}} can indicate a mild assertion.
+<a name="assertion">@HI{{@EM{{ne}}}}</a> can indicate a mild assertion.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -111,15 +111,92 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="yone">@HI{{@EM{{ne}}}}</a> can be used after <a href="grammar-particle-yo.html">@HI{{yo}}</a>.
+The combination means "I assert this, but don't you agree?". This @HI{{@EM{{ne}}}} is pronounced with rising intonation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{England^word}}:eigo}}ga@KJ{{part}}karuyo@EM{{ne}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You understand English, don't you?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="kane">@HI{{@EM{{ne}}}}</a> can be used after <a href="grammar-particle-ka.html">@HI{{ka}}</a>.
+The combination means "I'm not sure about this, am I right?". This @HI{{@EM{{ne}}}} is pronounced with falling intonation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}haii@KJ{{before^life}}desuka@EM{{ne}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I doubt that he is a good teacher.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="middle">@HI{{@EM{{ne}}}}</a> can be in a non-sentence final position to draw the listener's attention or to confirm that
+the listener has understood. This usage is typically found in telephone conversations.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{moshimoshi,@FG{{@KJ{{now^nightfall}}:konban'}}@EM{{ne}},@FG{{@KJ{{silver^sit}}:ginza}}de@KJ{{drink}}dekara@KJ{{homecoming}}rukara@EM{{ne}}
+      @KJ{{ten^one^half^time^about*that*time}}ninaruyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Hello. Tonight I'll go to Ginza to drink, so I'll be home around 11:30.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="tene">@Vte{{}}@HI{{@EM{{ne}}}}</a> and @HI{{kara@EM{{ne}}}} are used to give a reason or cause for the speaker's feelings in an indirect and vague fashion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{before^life}}hatotemokibishikute@EM{{ne}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's because that teacher is very strict, you know?
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{evening}}:yu}}beha@KJ{{drink}}misugitakara@EM{{ne}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's because I drank too much last night, you know?
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+@HI{{@EM{{ne}}}} can sometimes be pronounced @HI{{nee}}.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 128).
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
+<li> @REF{{DOBJG}}. (p. 286).
 </ol>
 
 @include{{"grammar-footer.inc"}}
