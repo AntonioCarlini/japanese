@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{kure}}}} is an expression used to instruct or request something indirectly.
 
@@ -41,6 +44,32 @@
 </p>
 
 <p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}ni@FG{{@KJ{{rice*field^in}}:tanaka}}san'no@KJ{{electricity^tale^turn^nickname}}wo@KJ{{teach}}e@EM{{tekureto}}
+      @FG{{@KJ{{trust}}:tano}}mareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My friend asked me for Mr. Tanaka's phone number.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{large^house}}:ooya}}ni,@FG{{@KJ{{mysterious^connection}}:genkan'}}no@KJ{{in*front}}ni@KJ{{oneself^revolve^car}}wo@KJ{{place}}kanai@EM{{dekureto}}
+      @KJ{{say}}wareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The landlord told me not to put my bicycle in front of the entrance.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
 @EM{{@Vte{{}}@HI{{kure}}}} is used mainly by men when asking someone junior to do something and sounds a little rough.
 
 <table class="sentence">
@@ -53,10 +82,13 @@
 </table>      
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
