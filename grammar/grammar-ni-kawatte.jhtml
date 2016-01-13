@@ -7,7 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{ni@KJ{{substitute}}watte}}" grammar="@HI{{ni@FG{{@KJ{{substitute}}:ka}}watte}}"}}
+@GRMIDX{{index="@HI{{nikawatte}}" grammar="@HI{{ni@FG{{@KJ{{substitute}}:ka}}watte}}"}}
+@GRMIDX{{index="@HI{{nikawari}}" grammar="@HI{{ni@FG{{@KJ{{substitute}}:ka}}wari}}"}}
 
 <body>
 
@@ -17,6 +18,7 @@
 
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}watte}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}wari}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}watte}}}} is a compund particle that expresses replacement of a regular person or thing by someone or something else.
+<a name="nikawatte">@HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}watte}}}}</a> is a compound particle that expresses replacement of a regular person or thing by someone or something else. It may be used in both spoken and written Japanese.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -33,6 +35,20 @@
   </td> </tr>
   <tr class="en"> <td>
       In place of Prof. Yamada, who is ill, Prof. Suzuki taught us.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nikawari">@HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}wari}}}}</a> is identical to @HI{{@EM{{ni@FG{{@KJ{{substitute}}:ka}}watte}}}} but is found only in written Japanese.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plains^ball}}:yakyuu}}@EM{{ni@KJ{{substitute}}wari}},@KT{{sakka-}}gasakan'ninattekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Soccer has overtaken baseball in popularity.
   </td> </tr>
 </table>
 </p>
@@ -48,7 +64,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 254).
+<li> @REF{{DOIJG}}. (p. 254).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
 

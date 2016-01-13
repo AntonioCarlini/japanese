@@ -242,8 +242,8 @@
 <li> <a href="grammar-okage-de.html">@HI{{okage}}</a>
 <li> <a href="grammar-sei-de.html">@HI{{seide}}</a>
 <li> <a href="grammar-kawari-ni.html">@HI{{kawarini}}</a>
-<li> <a href="grammar-ni-kawatte.html">@HI{{nikawatte}}</a> @MIDDOT{{}}
-     @HI{{nikawari}}
+<li> <a href="grammar-ni-kawatte.html#nikawatte">@HI{{nikawatte}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kawatte.html#nikawari">@HI{{nikawari}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d3">_</a> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </h2>
