@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{datte}}}} can be a conjunction that indicates a reason for something in casual speech.
+<a name="reason">@HI{{@EM{{datte}}}}</a> can be a conjunction that indicates a reason for something in casual speech.
 It is highly informal and only used in conversation between two very close people.
 In this usage, @HI{{@EM{{datte}}}} always occurs in the sentence-initial position.
 
@@ -47,7 +47,7 @@ In this usage, @HI{{@EM{{datte}}}} always occurs in the sentence-initial positio
 
 @BGRND{{}}
 <p>
-A sentence that begins with @HI{{@EM{{datte}}}} often ends in @HI{{nda}}, @HI{{ndamono}}, @HI{{mono}} or @HI{{kara}}.
+<a name="begin">A</a> sentence that begins with @HI{{@EM{{datte}}}} often ends in @HI{{nda}}, @HI{{ndamono}}, @HI{{mono}} or @HI{{kara}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -67,7 +67,7 @@ A sentence that begins with @HI{{@EM{{datte}}}} often ends in @HI{{nda}}, @HI{{n
 
 @BGRND{{}}
 <p>
-<a name="hearsay">@HI{{@EM{{datte}}}}</a> can also be used as a conjunction indicating concession.
+<a name="concession">@HI{{@EM{{datte}}}}</a> can also be used as a conjunction indicating concession.
 In this usage it appears at the end of a subordinate clause or at the end of the sentence.
 
 <table class="sentence">
@@ -82,7 +82,7 @@ In this usage it appears at the end of a subordinate clause or at the end of the
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{datte}}}} can also be used as a conjunction indicating hearsay.
+<a name="hearsay">@HI{{@EM{{datte}}}}</a> can also be used as a conjunction indicating hearsay.
 In this usage it appears at the end of a subordinate clause or at the end of the sentence.
 
 <table class="sentence">
@@ -104,6 +104,7 @@ In this usage it appears at the end of a subordinate clause or at the end of the
 <ol>
 <li> @REF{{DOAJG}}. (p. 60).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}
