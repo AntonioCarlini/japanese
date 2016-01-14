@@ -487,6 +487,7 @@ JHTML_SRCS += grammar-tame-ni.jhtml                                    # require
 JHTML_SRCS += grammar-tara-douka.jhtml                                 # requires revision
 JHTML_SRCS += grammar-tara-ii-desu-ka.jhtml                            # requires revision
 JHTML_SRCS += grammar-tara.jhtml                                       # requires revision
+JHTML_SRCS += grammar-tari-shinai.jhtml
 JHTML_SRCS += grammar-tari.jhtml                                       # requires revision
 JHTML_SRCS += grammar-tashika-ni-ga.jhtml                              # requires revision
 JHTML_SRCS += grammar-tate.jhtml
