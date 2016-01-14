@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-In this usage @HI{{@EM{{nagara}}}} is a disjunctive conjunction used in formal Japanese that combines two sentences with the meaning of "although".
+<a label="although">In</a> this usage @HI{{@EM{{nagara}}}} is a disjunctive conjunction used in formal Japanese that combines two sentences with the meaning of "although". The normal relationship would be that given the first sentence, the second one would not normally be expected to be true. @HI{{@EM{{nagara}}}} indicates that the normal relationship does not hold and that in fact the second sentence is true.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@ In this usage @HI{{@EM{{nagara}}}} is a disjunctive conjunction used in formal J
 
 @BGRND{{}}
 <p>
-If @HI{{@EM{{nagara}}}} is followed by @HI{{mo}}, the disjunctive meaning is emphasised.
+<a name="emphasis">If</a> @HI{{@EM{{nagara}}}} is followed by @HI{{mo}}, the disjunctive meaning is emphasised.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@ If @HI{{@EM{{nagara}}}} is followed by @HI{{mo}}, the disjunctive meaning is emp
 
 @BGRND{{}}
 <p>
-@HI{{zan'nen'@EM{{nagara}}}} is an idiomatic phrase meaning "to one's regret". In this case @HI{{mo}} is not permitted.
+<a name="zannen">@HI{{zan'nen'@EM{{nagara}}}}</a> is an idiomatic phrase meaning "to one's regret". In this case @HI{{mo}} is not permitted.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -79,6 +79,7 @@ If @HI{{@EM{{nagara}}}} is followed by @HI{{mo}}, the disjunctive meaning is emp
 <li> @UCREF{{DOIJG}}. (p. 199).
 <li> @UCREF{{NKZM-N2G}}. (p. 64).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
 </ol>
 
 @include{{"grammar-footer.inc"}}
