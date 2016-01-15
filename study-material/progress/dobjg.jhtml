@@ -999,12 +999,12 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-you-ni.html"> @HI{{youni}} </a>                                                        </td>
+  <td class="left"> <a href="grammar-you-ni.html"> @HI{{youni}} </a><sup>1</sup>                                            </td>
   <td class="left"> DOBJG, p. 553                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-you-desu.html"> @HI{{youni}} </a>                                                      </td>
+  <td class="left"> <a href="grammar-you-desu.html#adverb"> @HI{{youni}} </a><sup>2</sup>                                   </td>
   <td class="left"> DOBJG, p. 554                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
