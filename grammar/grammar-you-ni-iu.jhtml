@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-This sentence pattern is used to tell someone to do something. In this case the verb must be volitional.
+<a name="do">This</a> sentence pattern is used to tell someone to do something. In this case the verb must be volitional.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -38,13 +38,23 @@ This sentence pattern is used to tell someone to do something. In this case the 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-<a name="similar">In</a> this usage the verb @KJ{{say}}@HI{{u}} can be replaced by similar verbs such as @HI{{tanomu}}, @HI{{meijiru}} and @HI{{motomeru}}.
+<a name="similar">The</a> verb @HI{{@KJ{{say}}u}} can be replaced by such verbs as @HI{{@FG{{@KJ{{pour^idea}}:chuui}}suru}}, @HI{{@FG{{@KJ{{transmit}}:tsuta}}eru}} and @HI{{@FG{{@KJ{{trust}}:tano}}mu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}ni[@FG{{@KJ{{map^write^Bldg.}}:toshokan'}}de@FG{{@KJ{{thing}}:mono}}wo@KJ{{eat}}betehaikemasen']to@FG{{@KJ{{pour^idea}}:chuui}}shimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I warned the students, saying "You must not eat in the library".
+  </td> </tr>
+</table>
 </p>
 
 @BGRND{{}}
 <p>
-This sentence pattern can also be used to mean "to say in such a way". In this case the verb must be non-volitional.
+<a name="say-i-this-way">This</a> sentence pattern can also be used to mean "to say in such a way". In this case the verb must be non-volitional.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -63,8 +73,8 @@ This sentence pattern can also be used to mean "to say in such a way". In this c
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 556).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 2).
+<li> @REF{{DOBJG}}. (p. 556).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
