@@ -307,11 +307,12 @@ def process_at_commands(text, data_dir, filename)
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
   begin
-    text.gsub!(/@(?:REF|UCREF)\{\{([^\}]+)\}\}/m) {
+    text.gsub!(/@(REF|UCREF)\{\{([^\}]+)\}\}/m) {
       |what|
-      ref = $1
+      unchecked = ($1 == "UCREF")
+      ref = $2
       debug_out("inserting for REF:[#{ref}]")
-      transform_ref(ref, data_dir)
+      transform_ref(ref, data_dir, unchecked)
     }
   end
   
@@ -415,7 +416,7 @@ end
 #-
 
 # Given some text, substitute @REF{{}} statements as required. 
-def transform_ref(text, data_dir)
+def transform_ref(text, data_dir, unchecked)
   res = ""
   ref = convert_ref(text, data_dir)
   if ref.nil?()
@@ -423,6 +424,7 @@ def transform_ref(text, data_dir)
   else
     alt = ref.alternate()
     res = "<span title=\"#{alt}\"> "unless alt.nil?() || alt.empty?()
+    res << jp_unicode(0x203B) if unchecked
     res << ref.text()
     res << "</span>" unless alt.nil?() || alt.empty?()
   end
