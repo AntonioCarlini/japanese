@@ -21,10 +21,14 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@KJ{{direction}}}} forms a noun from the @HI{{masu}} stem of a verb.
 </p>
 
+@BGRND{{}}
 <p>
 The meaning can be either "way" or "manner" and is determined by the context.
 
@@ -38,8 +42,21 @@ The meaning can be either "way" or "manner" and is determined by the context.
 </table>
 </p>
 
-<h2> Notes </h2>
+@BGRND{{}}
+<p>
+When @EM{{@KJ{{direction}}}} means "method", it can be replaced by @EM{{@KJ{{direction^method}}}}.
 
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no@EM{{@KJ{{direction^method}}}}wo @KJ{{teach}}ete kudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Please teach me a method to learn Japanese.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 Sino-Japanese @HI{{suru}} verbs take the particle @HI{{no}} before @HI{{shi@EM{{@KJ{{direction}}}}}},
 for example @KJ{{electricity^tale}}@HI{{no shi}}@EM{{@KJ{{direction}}}}.
@@ -55,23 +72,14 @@ for example @KJ{{electricity^tale}}@HI{{no shi}}@EM{{@KJ{{direction}}}}.
 </table>
 </p>
 
-<p>
-When @EM{{@KJ{{direction}}}} means "method", it can be replaced by @EM{{@KJ{{direction^method}}}}.
+@BGRNDEND{{}}
 
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{@KJ{{day^book^word}}no @KJ{{exertion^strong}}no@EM{{@KJ{{direction^method}}}}wo @KJ{{teach}}ete kudasai.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    Please teach me a method to learn Japanese.
-  </td> </tr>
-</table>
-</p>
+<h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 183).
+<li> @REF{{DOBJG}}. (p. 183).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -16,16 +16,19 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@KJ{{see}}@HI{{eru}}}}
+<li> @FORMATION{{@HI{{@EM{{@KJ{{see}}eru}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@KJ{{see}}@HI{{eru}} is used to indicate that something is passively and spontaneously visible. It is
+@HI{{@EM{{@KJ{{see}}eru}}}} is used to indicate that something is passively and spontaneously visible. It is
 used when the subject has not actively caused the seeing to happen. If the seeing is active (that is,
 due to the volition of the experiencer)
-then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{kikeru}}, is used.
+then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{mirareru}}, is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -48,12 +51,28 @@ then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{k
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{see}}eru}}}} can be used as a polite form of @KJ{{come}}@HI{{ru}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{study^meeting}}:gakkai}}ni@FG{{@KJ{{above^rice*field}}:ueda}}@KJ{{before^life}}mo@EM{{@KJ{{see}}eta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Prof. Ueda also attended the academic conference. @LIT{{To the academic conference appeared Prof. Ueda too.}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 243).
+<li> @REF{{DOBJG}}. (p. 243).
 </ol>
 
 @include{{"grammar-footer.inc"}}

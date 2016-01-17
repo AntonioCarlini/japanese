@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{@HI{{@EM{{maeni}}}}, @V2{{}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{maeni}}}},@V2{{}}}}
 <li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{maeni}}}}, @V2{{}}}}
 <li> @FORMATION{{<em>quantifier(period)</em> @HI{{@EM{{maeni}}}}, @V2{{}}}}
 </ol>
@@ -73,7 +73,7 @@ is unsure when the event might take place, <a href="grammar-uchi-ni.html">@HI{{u
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 18).
-<li> @UCREF{{DOBJG}}. (p. 231).
+<li> @REF{{DOBJG}}. (p. 231).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -80,11 +80,19 @@ The equivalent male particle is <a href="grammar-particle-kana.html">@HI{{kana}}
 
 <h2> Notes </h2>
 
+<p>
+@HI{{@EM{{kashira}}}} comes from @HI{{kashiranai}} meaning "I don't know if", but now expresses the idea of "I wonder ...".
+</p>
+
+<p>
+@HI{{@EM{{kashira}}}} cannot be used to express a past-tense situation. To do that, follow it with @HI{{to@KJ{{think}}tta}}.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 134).
-<li> @UCREF{{DOBJG}}. (p. 181).
+<li> @REF{{DOBJG}}. (p. 181).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -11,22 +11,25 @@
 
 <body>
 
-<h1>@KJ{{every}}</h1>
+<h1>@HI{{@FG{{@KJ{{every}}:mai}}}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@KJ{{every}} <em>unit of time</em>}}
+<li> @FORMATION{{@EM{{@KJ{{every}}}} <em>unit of time</em>}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@KJ{{every}} is a prefix used with a unit of time to mean "every".
+@HI{{@EM{{@FG{{@KJ{{every}}:mai}}}}}} is a prefix used with a unit of time to mean "every".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}ha@KJ{{every^year^one^degrees}}ha@KJ{{day^book}}he@KJ{{going}}ku.}}
+      @HI{{@KJ{{private}}ha@EM{{@KJ{{every}}}}@KJ{{year^one^degrees}}ha@KJ{{day^book}}he@KJ{{going}}ku.}}
   </td> </tr>
   <tr class="en"> <td>
       I go to Japan at least once a year.
@@ -34,12 +37,13 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@KJ{{every}} can be used with nouns that imply a specific time.
+@EM{{@KJ{{every}}}} can be used with nouns that imply a specific time.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{ji-nn}}ha@KJ{{every^meal}}@KT{{sarada}}wo@KJ{{eat}}beru.}}
+      @HI{{@KT{{ji-nn}}ha@EM{{@KJ{{every}}}}@KJ{{meal}}@KT{{sarada}}wo@KJ{{eat}}beru.}}
   </td> </tr>
   <tr class="en"> <td>
       Jean eats salad at every meal.
@@ -47,17 +51,20 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-@KJ{{every}} cannot be used if the unit of time is preceded by a numeral. It is also used with words of
+@EM{{@KJ{{every}}}} cannot be used if the unit of time is preceded by a numeral. It is also used with words of
 Japanese origin of one or two syllables.
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 233).
+<li> @REF{{DOBJG}}. (p. 233).
 </ol>
 
 @include{{"grammar-footer.inc"}}

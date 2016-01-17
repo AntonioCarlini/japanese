@@ -2,21 +2,21 @@
 <html>
 
 <head>
-<title>@HI{{te ha ikemasenn}}</title>
+<title>@HI{{tehaikemasenn}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{te ha ikemasenn}}" grammar="@HI{{te ha ikemasenn}}"}}
+@GRMIDX{{index="@HI{{tehaikemasen'}}" grammar="@HI{{@Vte{{}}haikemasen'}}"}}
 
 <body>
 
-<h1>@HI{{te ha ikemasenn}}</h1>
+<h1>@HI{{@Vte{{}}haikemasenn}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vte{{}} @HI{{@EM{{haikenai}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{@EM{{haikenai}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -37,7 +37,7 @@ This pattern is used to express prohibition.
 <h2> Notes </h2>
 
 <p>
-To <em>strongly</em> refuse permission, use @HI{{iee, ikemasenn}}. This form cannot be used to a superior.
+To <em>strongly</em> refuse permission, use @HI{{iie,ikemasenn}}. This form cannot be used to a superior.
 </p>
 
 <p>
@@ -48,7 +48,7 @@ A slightly stronger expression is @Vte{{}}@HI{{hanaranai}}.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 15).
-<li> @UCREF{{DOBJG}}. (p. 528).
+<li> @REF{{DOBJG}}. (p. 528).
 </ol>
 
 @include{{"grammar-footer.inc"}}

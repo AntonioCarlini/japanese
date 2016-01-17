@@ -2,16 +2,16 @@
 <html>
 
 <head>
-<title>@HI{{sou desu ka}}</title>
+<title>@HI{{soudesuka}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{sou desu ka}}" grammar="@HI{{sou desu ka}}"}}
+@GRMIDX{{index="@HI{{soudesuka}}" grammar="@HI{{soudesuka}}"}}
 
 <body>
 
-<h1>@HI{{sou desu ka}}</h1>
+<h1>@HI{{soudesuka}}</h1>
 
 <h2> Formation </h2>
 
@@ -29,7 +29,7 @@ This expression is used when a new piece of information has been presented and t
       A: @HI{{kono@KJ{{umbrella}}haanatanodesuka.}}
   </td> </tr>
   <tr class="jp"> <td>
-      B: @HI{{iee, @KJ{{difference}}imasu.@KT{{shumitto}}sannodesu.}}
+      B: @HI{{iie,@KJ{{difference}}imasu.@KT{{shumitto}}san'nodesu.}}
   </td> </tr>
   <tr class="jp"> <td>
       A: @HI{{@EM{{soudesuka}}}}.

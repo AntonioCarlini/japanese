@@ -23,7 +23,7 @@
 
 <p>
 @HI{{@EM{{yahari}}}} is an adverb that indicates that an actual situation conforms to a standard based on
-experience or common sense.
+experience or common sense. The assessment is made from the speaker's subjective point of view.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,7 +61,7 @@ it is an antonym of @HI{{@EM{{yahari}}}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 538).
+<li> @REF{{DOBJG}}. (p. 538).
 </ol>
 
 @include{{"grammar-footer.inc"}}
