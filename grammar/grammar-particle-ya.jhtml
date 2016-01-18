@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{ya}}}} is used to join nouns in a non-exhaustive list. Its use implies that the nouns
 listed are some examples taken from a larger list. In this usage @HI{{@EM{{ya}}}} is
@@ -29,10 +32,22 @@ often combined with <a href="grammar-particle-nado.html">@HI{{nado}}</a>. Compar
 with <a href="grammar-particle-to.html">@HI{{to}}</a>, which can be used to provide an exhaustive listing
 of nouns.
 
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^rice*field}}:yamada}}san@EM{{ya}}@FG{{@KJ{{little^stream}}:ogawa}}sanga@KJ{{come}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Yamada and Mr. Ogawa (and others) came.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{ya}}}} cannot be used to combine predicates, only nouns or noun phrases.
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{ya}}}} inexhaustively lists items that are related to a specific time and place, whereas
 <a href="grammar-particle-toka.html">@HI{{toka}}</a> inexhaustively lists items in a more general fashion.
@@ -40,8 +55,7 @@ of nouns.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{te-buru}}no@KJ{{above}}ni,osushi@EM{{ya}}yakitori@EM{{ya}}
-tenpuranadogaarimasu.}}
+      @HI{{@KT{{te-buru}}no@KJ{{above}}ni,osushi@EM{{ya}}yakitori@EM{{ya}}tenpuranadogaarimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       On the table there are such things as sushi, yakitori and tempura.
@@ -49,14 +63,29 @@ tenpuranadogaarimasu.}}
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@N1{{}}@HI{{@EM{{ya}}}}@N2{{}} cannot appear as X in "X@HI{{ga}}A@HI{{da}}. This is because @HI{{ga}} behaves as an exhaustive listing marker.
+Instead the sentence needs to be recast as "A@HI{{ga}}@N1{{}}@HI{{@EM{{ya}}}}@N2{{}}@HI{{da}}":
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}ha@KT{{je-n}}@EM{{ya}}@KT{{misshixeru}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The students are Jane and Michelle (and others).
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 <p>
 The idomatic expression @HI{{@EM{{ya}}}} @HI{{ina}} @HI{{@EM{{ya}}}}
 means "as soon as" or "no sooner had".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{ofuroni@KJ{{enter}}ru@EM{{ya}} @HI{{ina}} @EM{{ya}},
-      @KJ{{electricity^tale}}ga@KJ{{chirp}}tta.}}
+      @HI{{ofuroni@KJ{{enter}}ru@EM{{ya}} @HI{{ina}} @EM{{ya}},@KJ{{electricity^tale}}ga@KJ{{chirp}}tta.}}
   </td> </tr>
   <tr class="en"> <td>
       No sooner had I gotten into the bath than the telephone rang.
@@ -64,13 +93,15 @@ means "as soon as" or "no sooner had".
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 41).
-<li> @UCREF{{DOBJG}}. (p. 536).
+<li> @REF{{DOBJG}}. (p. 536).
 <li> @REF{{MNN-TR-I}}. (Chapter 10).
 </ol>
 
