@@ -26,6 +26,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="do">@Vte{{}}@HI{{hoshii}}</a> is used to indicate that the speaker wants someone to do something.
 This construction <em>cannot</em> be used when the speaker wants someone of higher status to do something.
@@ -33,7 +36,7 @@ The person that the speaker wants to do something is marked by @HI{{ni}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{anatahadareni@KJ{{come}}tehoshiidesuka.}}
+      @HI{{anatahadareni@KJ{{come}}@EM{{tehoshii}}desuka.}}
   </td> </tr>
   <tr class="en"> <td>
       Who do you want to come?
@@ -41,20 +44,22 @@ The person that the speaker wants to do something is marked by @HI{{ni}}.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="not-do">@Vnaide{{}}@HI{{hoshii}}</a> is used to indicate that the speaker wants someone to <em>not</em> do something.
 This construction <em>cannot</em> be used when the speaker wants someone of higher status to not do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{anatahadareni@KJ{{come}}tehoshiidesuka.}}
+      @HI{{kon'natokoronigomiwo@FG{{@KJ{{discard}}:su}}@EM{{tenaidehoshii}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      Who do you want to come?
+      I wish people wouldn't dump rubbish in places like this.
   </td> </tr>
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="3rd-person">When the person whom the speaker wants to perform an action is the third person, then @Vte{{}}@HI{{moraitagatteiru}}
 is used.
@@ -69,6 +74,7 @@ is used.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="moraitai">@Vte{{}}@HI{{moraitai}}</a> expresses the same idea as @Vte{{}}@HI{{hoshii}}.
 
@@ -82,6 +88,7 @@ is used.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 <a name="itadakitai">When</a> the speaker wants someone of higher status to do something he uses @Vte{{}}@HI{{itadakitai}}.
 
@@ -95,14 +102,16 @@ is used.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 146).
-<li> @UCREF{{NKZM-N3G}}. (p. 44).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @REF{{DOBJG}}. (p. 146).
+<li> @REF{{NKZM-N3G}}. (p. 44).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
