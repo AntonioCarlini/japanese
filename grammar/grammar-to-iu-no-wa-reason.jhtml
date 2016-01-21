@@ -41,12 +41,12 @@
 
 @BGRND{{}}
 <p>
-In very polite speech @HI{{to@KJ{{say}}imasu}} can be used.
+In very polite speech @HI{{to@KJ{{say}}imasunoha}} can be used.
 
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{korerano@KT{{ge-mu}}ha,yori@FG{{@KJ{{correct^assurance}}:seikaku}}ni@KJ{{say}}eba,[@FG{{@KJ{{one^person^utilize}}:hitoriyou}}]toiuyori[@KJ{{one^person}}demodekiru@KT{{ge-mu}}]
-      to@KJ{{say}}bekideshou. @EM{{to@KJ{{say}}iimasu}}nowa,korerano@KT{{ge-mu}}hayari@KJ{{direction}}niyotteha@KJ{{two^person}}@FG{{@KJ{{by*means*of^above}}:ijou}}demodekirukaradesu.}}
+      to@KJ{{say}}bekideshou. @EM{{to@KJ{{say}}iimasunoha}},korerano@KT{{ge-mu}}hayari@KJ{{direction}}niyotteha@KJ{{two^person}}@FG{{@KJ{{by*means*of^above}}:ijou}}demodekirukaradesu.}}
   </td> </tr>
   <tr class="en"> <td>
       To be more accurate, these games should be called "games that can be played alone" rather than "games for one person". What I mean is, depending on how you play them, these
@@ -77,7 +77,7 @@ In very polite speech @HI{{to@KJ{{say}}imasu}} can be used.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 640).
+<li> @REF{{DOAJG}}. (p. 640).
 </ol>
 
 @include{{"grammar-footer.inc"}}
