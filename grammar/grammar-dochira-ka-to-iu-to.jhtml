@@ -70,7 +70,7 @@
 
 @BGRND{{}}
 <p>
-<a name="ieba">@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} can be replaced by @HI{{@EM{{dochirakato@KJ{{say}}eba}}}} with no change in meaning.
+<a name="ieba">@HI{{@EM{{dochirakato@KJ{{say}}uto}}}} can be replaced by @HI{{@EM{{dochirakato@KJ{{say}}eba}}}} with no change in meaning, although the latter sounds more formal.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -93,8 +93,8 @@ In colloquial speech @HI{{@EM{{dochirakato@KJ{{say}}uto}}}} very often becomes @
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 78).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 12).
+<li> @REF{{DOAJG}}. (p. 78).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 12).
 </ol>
 
 @include{{"grammar-footer.inc"}}
