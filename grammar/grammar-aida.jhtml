@@ -16,19 +16,23 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vte{{}} @HI{{iru}} @HI{{@EM{{aida}}}}}}
-<li> @FORMATION{{@HI{{iru}} @HI{{@EM{{aida}}}}}}
-<li> @FORMATION{{@Ai{{}} @HI{{@EM{{aida}}}}}}
-<li> @FORMATION{{@Ana{{}} @HI{{@EM{{aida}}}}}}
-<li> @FORMATION{{@N{{}} @HI{{no}} @HI{{@EM{{aida}}}}}}
+<li> @FORMATION{{@Vte{{}}@HI{{iru}}@HI{{@EM{{aida}}}}}}
+<li> @FORMATION{{@HI{{iru}}@HI{{@EM{{aida}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{aida}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{aida}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{aida}}}}}}
 </ol>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @HI{{@EM{{aida}}}} clause expresses the idea of "while" or "during".
 </p>
 
+@BGRND{{}}
 <p>
 The subjects in the @HI{{@EM{{aida}}}} clause and the main clause can be the same or different. If they are the same
 the subject in the @HI{{@EM{{aida}}}} clause is marked by @HI{{ha}}.
@@ -57,11 +61,13 @@ If they are different, the subject in the @HI{{@EM{{aida}}}} clause is marked by
 </table>
 </p>
 
+@BGRND{{}}
 <p>
-The verb before @HI{{@EM{{aida}}}} is usually either @Vte{{}}@HI{{iru}} or @HI{{iru}} regardless of the
+The verb before @HI{{@EM{{aida}}}} is usually either non-past @Vte{{}}@HI{{iru}} or @HI{{iru}} regardless of the
 tense of the main clause.
 </p>
 
+@BGRND{{}}
 <p>
 If the @HI{{@EM{{aida}}}} clause is followed by @HI{{ni}} then the time span of the main clause
 falls within that of the @HI{{@EM{{aida}}}} clause.
@@ -77,8 +83,7 @@ falls within that of the @HI{{@EM{{aida}}}} clause.
 </p>
 
 <p>
-If @HI{{@EM{{aida}}}} is not followed by @HI{{ni}},
- the two clauses are expected to cover the same span of time.
+If @HI{{@EM{{aida}}}} is not followed by @HI{{ni}}, the two clauses are expected to cover the same span of time.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -91,12 +96,28 @@ If @HI{{@EM{{aida}}}} is not followed by @HI{{ni}},
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The construction A@HI{{to}}B(@HI{{to}})@HI{{no@EM{{aida}}}} means "the space between" or "relationship".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}to@KT{{amerika}}no@EM{{@KJ{{interval}}ni}}ha@FG{{@KJ{{sea}}:umi}}shikanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is only ocean between Japan and America.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 67).
+<li> @REF{{DOBJG}}. (p. 67).
 <li> @UCREF{{NKZM-N3G}}. (p. 16).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>
