@@ -2,7 +2,7 @@
 <html>
 
 <head>
-<title>@Vnai{{}} @HI{{de}}</title>
+<title>@Vnai{{}}@HI{{de}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
@@ -11,7 +11,7 @@
 
 <body>
 
-<h1>@Vnai{{}} @HI{{de}}</h1>
+<h1>@Vnai{{}}@HI{{de}}</h1>
 
 <h2> Formation </h2>
 
@@ -87,7 +87,7 @@ Where the @HI{{de}} of @HI{{@EM{{naide}}}} has a meaning of "and", <a href="gram
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 17).
-<li> @UCREF{{DOBJG}}. (p. 271).
+<li> @REF{{DOBJG}}. (p. 271).
 </ol>
 
 @include{{"grammar-footer.inc"}}

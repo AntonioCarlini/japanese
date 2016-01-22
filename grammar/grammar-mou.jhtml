@@ -100,7 +100,7 @@ rather than it has <em>not yet</em> been performed.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 7).
-<li> @UCREF{{DOBJG}}. (p. 254).
+<li> @REF{{DOBJG}}. (p. 254).
 </ol>
 
 @include{{"grammar-footer.inc"}}

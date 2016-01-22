@@ -59,7 +59,7 @@ An inferior should not use this form to a superior; instead <a href="grammar-te-
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 284).
+<li> @REF{{DOBJG}}. (p. 284).
 </ol>
 
 @include{{"grammar-footer.inc"}}
