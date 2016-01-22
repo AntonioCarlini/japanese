@@ -31,10 +31,10 @@ to a postive, expected and remarkable result.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      
+      @HI{{@KJ{{every^day}}1@KT{{kiro}}@FG{{@KJ{{by*means*of^above}}:ijou}}@FG{{@KJ{{water^swim}}:suiei}}woshitekita@EM{{dakenokotohaatte}}@KJ{{he}}ha90@KJ{{year-end}}no@KJ{{now}}mokakushakutoshiteiru.}}
   </td> </tr>
   <tr class="en"> <td>
-      
+      He has been swimming more than 1 kilometre every day. No wonder he is still in such good shape at 90.
   </td> </tr>
 </table>
 </p>
@@ -45,10 +45,10 @@ If there are two sentences, @S1{{}} expresses the remarkable result and @S2{{}} 
 
 <table class="sentence">
   <tr class="jp"> <td>
-      
+      @HI{{@FG{{@KJ{{neighboring}}:tonari}}no@FG{{@KJ{{child^submit}}:kodomo}}tachiha@FG{{@KJ{{reality}}:jitsu}}ni@FG{{@KJ{{going^ceremony}}:gyougi}}gaii.@FG{{@KJ{{parent}}:oya}}noshitsukega@FG{{@KJ{{stern}}:kibi}}shii@EM{{dakenokotohaaru}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      
+      The kids next door have very good manners. Strict parental discipline explains it.
   </td> </tr>
 </table>
 </p>
@@ -60,10 +60,11 @@ expresses the reason for the result.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      
+      @HI{{@KJ{{he}}ha@FG{{@KJ{{young}}:waka}}ikorokara@FG{{@KJ{{haiku^phrase}}:haiku}}wo@KJ{{make}}ttekita@EM{{dakenokotohaatte}},sasugani@FG{{@KJ{{oneself^sort*of*thing}}:shizen'}}@FG{{@KJ{{vis-a-vis}}:tai}}suru
+      @FG{{@KJ{{outlook^guess^eyeball}}:kansatsugan'}}ga@FG{{@KJ{{pointed}}:surudoi}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      
+      He has been composing <em>haiku</em> since his younger days. No wonder he has such a sharp eye for nature.
   </td> </tr>
 </table>
 </p>
@@ -74,10 +75,11 @@ expresses the reason for the result.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      
+      @HI{{2@KJ{{year^interval}}@KT{{souru}}@KJ{{large^study}}ni@FG{{@KJ{{detain^study}}:ryuugaku}}shiteita@EM{{dakenokotoatte}},sasugani@FG{{@KJ{{bright^child}}:akiko}}ha
+      @FG{{@KJ{{Korea^country^word}}:kankokugo}}gatotemo@FG{{@KJ{{above^hand}}:jouzu}}da.}}
   </td> </tr>
   <tr class="en"> <td>
-      
+      She spent two years at Seoul National University. No wonder Akiko is good at Korean.
   </td> </tr>
 </table>
 </p>
@@ -89,7 +91,7 @@ expresses the reason for the result.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 51).
+<li> @REF{{DOAJG}}. (p. 51).
 <li> @UCREF{{NKZM-N2G}}. (p. 86).
 </ol>
 
