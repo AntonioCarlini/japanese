@@ -152,7 +152,7 @@ It is also used to respond poitively to such an invitation. Note that an invitat
       A: Won't you have lunch with me?
   </td> </tr>
   <tr class="en"> <td>
-      B: yes, let's go and eat.
+      B: Yes, let's go and eat.
   </td> </tr>
 </table>
 <p>
@@ -171,7 +171,7 @@ The question forms of sentences are answered by repeating the same verb. @HI{{so
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
-<li> @UCREF{{DOBJG}}. (p. 240).
+<li> @REF{{DOBJG}}. (p. 240).
 </ol>
 
 @include{{"grammar-footer.inc"}}
