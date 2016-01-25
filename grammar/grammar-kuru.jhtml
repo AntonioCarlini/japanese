@@ -15,6 +15,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @KJ{{come}}@HI{{ru}} is used to indicate a motion in a direction towards from the speaker's point of view.
 
@@ -28,6 +31,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @KJ{{come}}@HI{{ru}} can also be used to describe motion towards a place where the speaker has placed his point of view.
 In this example, the speaker did not attend the party and is taking the viewpoint of the listener.
@@ -41,14 +45,15 @@ In this example, the speaker did not attend the party and is taking the viewpoin
   </td> </tr>
 </table>
 </p>
-</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 219).
+<li> @REF{{DOBJG}}. (p. 219).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -32,8 +32,6 @@
 In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotoninaru}}</a>, which indicates a non-volitional decision.
 @HI{{@EM{{kotonisuru}}}} is a more complex form of <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a>, where the noun is replaced with a nominalised phrase.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{capital^metropolis}}made@KT{{basu}}de@KJ{{going}}ku@EM{{kotonishimashou}}.}}
@@ -42,7 +40,9 @@ In this respect it differs from <a href="grammar-koto-ni-naru.html">@HI{{kotonin
       Let's go as far as Kyoto by bus.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{every^day^Sino-^character}}wo@KJ{{ten}}@KJ{{memorize}}eru@EM{{kotonishimashita}}.}}
@@ -105,7 +105,7 @@ not to do something is still in force.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 204).
+<li> @REF{{DOBJG}}. (p. 204).
 <li> @UCREF{{NKZM-N3G}}. (p. 50).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).

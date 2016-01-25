@@ -16,8 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}} @HI{{@EM{{ga dekiru}}}}}}
-<li> @FORMATION{{@Vru{{}} @HI{{@EM{{koto ga dekiru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ga dekiru}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{koto ga dekiru}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -35,7 +35,7 @@ and means "can" or "able to".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @KJ{{day^book^word}}gadekimasu.}}
+      @HI{{@KT{{mira-}}sanha@KJ{{day^book^word}}gadekimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Miller can speak Japanese.
@@ -72,7 +72,7 @@ sentence pattern above.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 18).
-<li> @UCREF{{DOBJG}}. (p. 200).
+<li> @REF{{DOBJG}}. (p. 200).
 </ol>
 
 @include{{"grammar-footer.inc"}}

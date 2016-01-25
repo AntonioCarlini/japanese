@@ -21,12 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @KJ{{hear}}@HI{{koeru}} is used to indicate that something is passively and spontaneously audible. It is
 used when the subject has not actively caused the hearing to happen.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}nihao@KJ{{buddhist*temple}}nokaneno@KJ{{sound}}ga@KJ{{hear}}koetaga,@KJ{{younger*brother}}niha
@@ -36,7 +37,9 @@ used when the subject has not actively caused the hearing to happen.
       I could hear the sound of the temple bell but my younger brother could not.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{me}}ha@KJ{{ear}}ga@KJ{{hear}}koenai.}}
@@ -45,9 +48,9 @@ used when the subject has not actively caused the hearing to happen.
       I am deaf.
   </td> </tr>
 </table>
-</ol>
 </p>
 
+@BGRND{{}}
 <p>
 If the listening is active then the <a href="grammar-verb-use-of-potential.html">potential</a> form, @HI{{kikeru}}, is used.
 
@@ -61,12 +64,14 @@ If the listening is active then the <a href="grammar-verb-use-of-potential.html"
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 188).
+<li> @REF{{DOBJG}}. (p. 188).
 </ol>
 
 @include{{"grammar-footer.inc"}}

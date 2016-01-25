@@ -21,12 +21,16 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @EM{{@Vte{{}}@HI{{kara}}}} means that the action of the main sentence
 takes place (or took place) after the subordinate clause. So the meaning might
 be rendered as "after X, " or "since X, " where X is the subordinate clause.
 </p>
 
+@BGRND{{}}
 <p>
 The tense of the whole sentence is determined by the tense of the final verb.
 
@@ -40,6 +44,8 @@ The tense of the whole sentence is determined by the tense of the final verb.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -51,7 +57,7 @@ on the part of the speaker.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 16).
-<li> @UCREF{{DOBJG}}. (p. 177).
+<li> @REF{{DOBJG}}. (p. 177).
 </ol>
 
 @include{{"grammar-footer.inc"}}

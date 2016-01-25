@@ -21,30 +21,15 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kirai}}}} is a @HI{{na}}-adjective meaning "don't like" or "dislike" that takes the 
 <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}}...@HI{{ga}}</a> construction. The
 person who dislikes is marked by @HI{{ha}} and the object of the dislike is marked by @HI{{ga}}. In a subordinate
 clause @HI{{ha}} becomes @HI{{ga}}.
-</p>
 
-<p>
-To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI{{daikirai}}.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
-<table class="sentence">
-  <tr class="jp"> <td>
-      @HI{{@KT{{howaito}}sanha@KT{{futtobo-ru}}ga@EM{{daikirai}}desu.}}
-  </td> </tr>
-  <tr class="en"> <td>
-      Mr. White hates football.
-  </td> </tr>
-</table>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{me}}ha@KJ{{winter}}ga@EM{{kirai}}da.}}
@@ -53,7 +38,9 @@ To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI
       I dislike winter.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KT{{chi-zu}}ga@EM{{kirai}}desu.}}
@@ -62,7 +49,23 @@ To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI
       I don't like cheese.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRND{{}}
+<p>
+To express a greater degree of emotion, to "dislike a lot" or to "hate", use @HI{{daikirai}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{howaito}}sanha@KT{{futtobo-ru}}ga@EM{{daikirai}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. White hates football.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 

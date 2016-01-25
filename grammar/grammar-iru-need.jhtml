@@ -21,20 +21,13 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{iru}}, to need, is a @5D{{}} verb and so can be distiguished in speech from
-<a href="grammar-iru.html">@HI{{iru}}</a>, to be.
-</p>
+@HI{{iru}}, to need, is a @5D{{}} verb and so can be distiguished in some of its forms from
+<a href="grammar-iru.html">@HI{{iru}}</a>, "to be".
 
-<p>
-@HI{{iru}} uses the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @HI{{ga}}</a>
-construction.
-</p>
-
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{old*boy}}tachiha@KJ{{england^harmony^resign^code}}ga@EM{{irimasu}}.}}
@@ -43,7 +36,13 @@ construction.
       You need an English-Japanese dictionary.
   </td> </tr>
 </table>
-<li>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{iru}} uses the <a href="grammar-basic-sentence-patterns.html#waga">@HI{{ha}} ... @HI{{ga}}</a>
+construction.
+
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{private}}ha@KJ{{now}}o@KJ{{gold}}ga@EM{{iru}}.}}
@@ -52,14 +51,16 @@ construction.
       I need money now.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 157).
+<li> @REF{{DOBJG}}. (p. 157).
 </ol>
 
 @include{{"grammar-footer.inc"}}
