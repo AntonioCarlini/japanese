@@ -26,7 +26,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{child^submit^accomplished}}no@KJ{{voice}}gashimashita.}}
+      @HI{{@KJ{{child^submit^accomplished}}no@KJ{{voice}}ga@EM{{shimashita}}.}}
   </td> </tr>
   <tr class="en"> <td>
       I heard children's voices.
@@ -39,7 +39,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 435).
+<li> @REF{{DOBJG}}. (p. 435).
 </ol>
 
 @include{{"grammar-footer.inc"}}
