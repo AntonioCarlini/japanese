@@ -97,9 +97,9 @@ Common examples are @HI{{ocha}} and @HI{{okane}}.
 <li> @REF{{MNN-TR-I}}. (Chapter 3).
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 <li> @REF{{MNN-TR-I}}. (Chapter 13).
-<li> @UCREF{{DOBJG}}. (p. 211).
-<li> @UCREF{{DOBJG}}. (p. 343).
-<li> @UCREF{{DOBJG}}. (p. 384).
+<li> @REF{{DOBJG}}. (p. 211).
+<li> @REF{{DOBJG}}. (p. 343).
+<li> @REF{{DOBJG}}. (p. 384).
 </ol>
 
 @include{{"grammar-footer.inc"}}
