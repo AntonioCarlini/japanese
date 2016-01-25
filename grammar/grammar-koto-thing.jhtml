@@ -37,7 +37,9 @@
       I'll tell you a good thing./I have a good suggestion for you.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{argument^sentence}}ni@KJ{{write}}ta@EM{{koto}}wo@KJ{{tale}}shitekudasai.}}
@@ -46,7 +48,6 @@
       Please tell me what you wrote in your thesis.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -64,7 +65,7 @@ and @KJ{{part}}@HI{{karu}} to mean "about @N{{}}".
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 191).
+<li> @REF{{DOBJG}}. (p. 191).
 </ol>
 
 @include{{"grammar-footer.inc"}}
