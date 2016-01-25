@@ -178,10 +178,10 @@ In the case of @Vte{{}}@HI{{ageru}}, if the person receiving the benefit is the 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 24).
 <li> @REF{{MNN-TR-II}}. (Chapter 41).
-<li> @UCREF{{DOBJG}}. (p. 65).
-<li> @UCREF{{DOBJG}}. (p. 216).
-<li> @UCREF{{DOBJG}}. (p. 263).
-<li> @UCREF{{DOIJG}}. (p. 589).
+<li> @REF{{DOBJG}}. (p. 65).
+<li> @REF{{DOBJG}}. (p. 216).
+<li> @REF{{DOBJG}}. (p. 263).
+<li> @REF{{DOIJG}}. (p. 589).
 </ol>
 
 @include{{"grammar-footer.inc"}}
