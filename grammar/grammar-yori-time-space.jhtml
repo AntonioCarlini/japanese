@@ -24,8 +24,6 @@
 <p>
 In this usage @HI{{@EM{{yori}}}} is a particle which indicates a set point in time or space.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{mekishiko}}ha@KJ{{red^road-way}}@EM{{yori}}@KJ{{north}}niarimasu.}}
@@ -34,7 +32,9 @@ In this usage @HI{{@EM{{yori}}}} is a particle which indicates a set point in ti
       Mexico is located north of the equator.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{three^time}}@EM{{yori}}@KJ{{in*front}}ni@KJ{{come}}tekudasai.}}
@@ -43,7 +43,6 @@ In this usage @HI{{@EM{{yori}}}} is a particle which indicates a set point in ti
       Please come back before three o'clock.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -51,7 +50,7 @@ In this usage @HI{{@EM{{yori}}}} is a particle which indicates a set point in ti
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 567).
+<li> @REF{{DOBJG}}. (p. 567).
 </ol>
 
 @include{{"grammar-footer.inc"}}
