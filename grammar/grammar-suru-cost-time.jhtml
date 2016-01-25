@@ -21,12 +21,15 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{suru}} can be used to indicate the cost of something.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KJ{{time^plot}}ha@KJ{{ten^ten*thousand^circle}}shimasu.}}
+      @HI{{kono@KJ{{time^plot}}ha@KJ{{ten^ten*thousand^circle}}@EM{{shimasu}}.}}
   </td> </tr>
   <tr class="en"> <td>
       This watch costs 100,000 yen.
@@ -34,13 +37,14 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{suru}} can also be used to indicate a duration of time.
 This usage can only appear in a subordinate clause.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{ato@KJ{{one^year}}shitara@KJ{{large^study}}wo@KJ{{exit}}masu.}}
+      @HI{{ato@KJ{{one^year}}@EM{{shitara}}@KJ{{large^study}}wo@KJ{{exit}}masu.}}
   </td> </tr>
   <tr class="en"> <td>
       In another year I'll graduate from college.
@@ -48,12 +52,14 @@ This usage can only appear in a subordinate clause.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 436).
+<li> @REF{{DOBJG}}. (p. 436).
 </ol>
 
 @include{{"grammar-footer.inc"}}
