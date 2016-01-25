@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{suru}}}} is an important irregular Japanese verb that means "to cause a state or action"
 and corresponds to "do" or "make".
@@ -35,6 +38,7 @@ and corresponds to "do" or "make".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{suru}}}} can mean "to wear" when used with small objects such as a watch or a tie.
 
@@ -48,6 +52,7 @@ and corresponds to "do" or "make".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Compounds with @HI{{@EM{{suru}}}} form transitive words. In contemporary Japanese, @HI{{@EM{{suru}}}}
 can be used with loanwords too.
@@ -62,6 +67,8 @@ can be used with loanwords too.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -71,7 +78,7 @@ The idiomatic construction <a href="grammar-ni-suru.html">@N{{}}@HI{{nisuru}}</a
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 428).
+<li> @REF{{DOBJG}}. (p. 428).
 </ol>
 
 @include{{"grammar-footer.inc"}}
