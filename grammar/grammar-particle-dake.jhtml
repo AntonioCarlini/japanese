@@ -48,8 +48,6 @@ It expresses the limit of the extent of an action.
 When used with a verb, that verb is often in the potential form.
 The verb cannot express a momentary action.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{morning}}ha@KT{{ko-hi-}}wo@KJ{{one^cupfuls^drink}}mu@EM{{dake}}desu.}}
@@ -58,7 +56,9 @@ The verb cannot express a momentary action.
       In the morning I just drink a cup of coffee and that's all.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kono@KJ{{hon}}ha@KJ{{tall}}i@EM{{dake}}deomoshirokunai.}}
@@ -67,7 +67,6 @@ The verb cannot express a momentary action.
       This book is just expensive and not interesting.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRNDEND{{}}
@@ -99,7 +98,7 @@ and @HI{{wo}}, which can optionally be used only after @HI{{@EM{{dake}}}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 93).
+<li> @REF{{DOBJG}}. (p. 93).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
 <li> @UCREF{{NKZM-N2G}}. (p. 21).
 </ol>
