@@ -95,7 +95,7 @@ should be used instead.
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 16).
-<li> @UCREF{{DOBJG}}. (p. 464).
+<li> @REF{{DOBJG}}. (p. 464).
 </ol>
 
 @include{{"grammar-footer.inc"}}
