@@ -24,8 +24,6 @@
 <p>
 @HI{{tokoro}} in this sentence pattern means a place that takes a certain amount of time to reach.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KJ{{study^exam}}hauchikara@KT{{basu}}de@KJ{{three^ten^part}}no@EM{{tokoro}}desu.}}
@@ -34,7 +32,9 @@
     It takes 30 minutes to get from home to school by bus.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{sono@KJ{{ill^Inst.}}hakokokara@KJ{{car}}de@KJ{{ten^five^part}}no@EM{{tokoro}}da.}}
@@ -43,7 +43,6 @@
     By car the hospital is 15 minutes from here.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -55,7 +54,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 495).
+<li> @REF{{DOBJG}}. (p. 495).
 </ol>
 
 @include{{"grammar-footer.inc"}}
