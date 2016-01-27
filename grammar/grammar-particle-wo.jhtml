@@ -157,14 +157,20 @@ distinct from the @HI{{@EM{{wo}}}} that is a direct object marker.
 
 <h2> Notes </h2>
 
+<p>
+When @HI{{@EM{{wo}}}} is the direct object marker or indicates the location of the movement, it can only appear once in a clause.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 72).
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
-<li> @UCREF{{DOBJG}}. (p. 347).
-<li> @UCREF{{DOBJG}}. (p. 351).
+<li> @REF{{DOBJG}}. (p. 347).
+<li> @REF{{DOBJG}}. (p. 349).
+<li> @REF{{DOBJG}}. (p. 351).
+<li> @REF{{DOBJG}}. (p. 352).
 </ol>
 
 @include{{"grammar-footer.inc"}}
