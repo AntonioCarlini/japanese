@@ -56,6 +56,7 @@ In this example the @HI{{ga}} after @HI{{@KJ{{forest^rice*field}}san'}} has drop
 </table>
 </p>
 
+<p>
 On the other hand, the particle is retained if it has a concrete meaning.
 
 <table class="sentence">
@@ -109,7 +110,7 @@ The element between @HI{{@EM{{noha}}}} and @HI{{@EM{{da}}}} cannot be a manner a
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 337).
+<li> @REF{{DOBJG}}. (p. 337).
 </ol>
 
 @include{{"grammar-footer.inc"}}
