@@ -38,6 +38,11 @@ or about which the speaker is expected to know.
 </table>
 </p>
 
+<p>
+This implies that @HI{{@EM{{ha}}}} cannot follow WH-words, such as @HI{{dare}} and @KJ{{what}}, as they refer to something unknown that cannot be considered
+to be within the knowledge of the listener.
+</p>
+
 @BGRND{{}}
 <p>
 <a name="topic">@HI{{@EM{{ha}}}}</a> is used to mark a topic, which is then explained or described in the rest of the
@@ -83,6 +88,23 @@ quality or property, @N2{{}}, is explained.
 </table>
 </p>
 
+<p>
+<a name="negative">In</a> a negative sentence, @HI{{@EM{{ha}}}} marks the negated element.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kinou@EM{{ha}}@KT{{bosuton}}he@KJ{{going}}kanakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      <em>Yesterday</em> I didn't go to Boston.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+The implication is that the speaker went to Boston on some day other than yesterday or that in the normal course of events he would have gone to Boston yesterday but for some reason he didn't.
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -99,7 +121,7 @@ replacing them.
 <li> @UCREF{{MNN-TR-I}}. (Chapter 1).
 <li> @REF{{MNN-TR-I}}. (Chapter 27).
 <li> @REF{{AAP}}. (p. 10).
-<li> @UCREF{{DOBJG}}. (p. 516).
+<li> @REF{{DOBJG}}. (p. 516).
 </ol>
 
 @include{{"grammar-footer.inc"}}
