@@ -237,6 +237,10 @@ replaces those particles. For all other particles, @HI{{@EM{{to}}}} follows them
 replacing them.
 </p>
 
+<p>
+The use of @HI{{@EM{{to}}}} as a conditional is described more fully <a href="grammar-to-conditional.html">here</a>.
+</p>
+
 <h2> References </h2>
 
 <ol>
