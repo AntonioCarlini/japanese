@@ -94,6 +94,20 @@ follows a noun, the predicate must be in the negative.
 
 @BGRND{{}}
 <p>
+<a name="about">When</a> @HI{{@EM{{hodo}}}} is used with a quantifier, it means "about".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{bi-ru}}wo@KJ{{three^book}}@EM{{hodo}}@KJ{{drink}}mimashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I drank about three bottles of beer.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 @HI{{@EM{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
 </p>
 
@@ -105,7 +119,7 @@ follows a noun, the predicate must be in the negative.
 
 <ol>
 <li> @REF{{AAP}}. (p. 77).
-<li> @UCREF{{DOBJG}}. (p. 135).
+<li> @REF{{DOBJG}}. (p. 135).
 <li> @UCREF{{DOIJG}}. (p. 57).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
