@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{toka}}" grammar="@HI{{toka}}"}}
+@GRMIDX{{index="@HI{{tokaiu}}" grammar="@HI{{toka@KJ{{say}}u}}"}}
 
 <body>
 
@@ -18,6 +19,7 @@
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{toka}}}}}}
 <li> @FORMATION{{@Vru{{}}@HI{{@EM{{toka}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{toka}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{toka}}}} is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
+<a name="nouns">@HI{{@EM{{toka}}}}</a> is used to list example nouns in the same way that <a href="grammar-particle-ya.html">@HI{{ya}}</a> is used.
 However, @HI{{@EM{{toka}}}}
 is more informal. Furthermore, @HI{{@EM{{toka}}}} can sometimes follow the last noun listed, which @HI{{ya}}
 never can.
@@ -62,6 +64,11 @@ never can.
 </table>
 </p>
 
+<p>
+The construction @Splain{{}}@HI{{@EM{{toka}}}}@Splain{{}}@HI{{@EM{{toka}}suru}} is used to refer to something in general.
+It would be inappropriate in the example above if it were referring to things that the child was told on a specific occasion.
+</p>
+
 @BGRND{{}}
 <p>
 @HI{{@EM{{toka}}}} can follow  pairs of words of opposite meaning to indicate uncertainty.
@@ -78,6 +85,34 @@ never can.
 
 </p>
 
+@BGRND{{}}
+<p>
+<a name="uncertainty">When</a> @HI{{@EM{{toka}}}} is followed by @HI{{@KJ{{say}}u}}, it is no longer a conjunction.
+It is a quote marker followed by a @HI{{ka}} which indicates the speaker's uncertainty.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{assistant^wisteria}}:satou}}sanha@KJ{{busy}}shikute@KJ{{going}}kenai@EM{{toka@KJ{{say}}tteita}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Sato was saying he can't go there because he's busy or something.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+@HI{{@N1{{}}@EM{{toka@KJ{{say}}u}}@N2{{}}}} is another construction that uses @HI{{@EM{{toka}}@KJ{{say}}u}} to indicate uncertainty.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{plains^mouth}}:noguchi}}@EM{{toka@KJ{{say}}u}}@FG{{@KJ{{person}}:hito}}ga@KJ{{come}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A person named Noguchi or something like that showed up.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -86,13 +121,12 @@ never can.
 When used with nouns @HI{{@EM{{toka}}}} has a more informal feel than @HI{{ya}}.
 </p>
 
-
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 36).
 <li> @REF{{AAP}}. (p. 42).
-<li> @UCREF{{DOBJG}}. (p. 488).
+<li> @REF{{DOBJG}}. (p. 488).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
