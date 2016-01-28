@@ -21,14 +21,24 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@KJ{{oneself^part}} can be a reflexive pronoun that refers back to a human subject, which is then contrasted with someone else.
-Of the two usages of @KJ{{oneself^part}}, this one is the correct one if any of the following is true:
+@KJ{{oneself^part}} may be an empathy marker or it may be  a reflexive pronoun that refers back to a human subject, which is then contrasted with someone else.
+
+@KJ{{oneself^part}} is a contrastive marker if any of the following is true:
+
 <ol>
 <li> the referent is an agent
 <li> the subject is generic
 <li> @KJ{{oneself^part}} cannot be replaced by an implicit or explicit 3rd person pronoun.
 </ol>
+</p>
+
+@BGRND{{}}
+<p>
+Here @KJ{{oneself^part}} is a contrastive marker.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,9 +49,9 @@ Of the two usages of @KJ{{oneself^part}}, this one is the correct one if any of 
       The Japanese think that their country's culture is unique.
   </td> </tr>
 </table>
-
 </p>
 
+@BGRND{{}}
 <p>
 If @KJ{{oneself^part}} does not satisy the conditions above then it is not a contrastive marker and is instead referring back
 to a human subject with whom the speaker empathises.
@@ -56,13 +66,31 @@ to a human subject with whom the speaker empathises.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The referent of @KJ{{oneself^part}} has to be conscious of the sitaution expressed in the main clause.
+This sentence is acceptable because @KJ{{friend^child}} is alive when her child enters university.
+Had the child entered university after @KJ{{friend^child}} died, the sentence would have to be recast to not use @KJ{{oneself^part}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{friend^child}}:tomoko}}ha@KJ{{oneself^part}}ga@FG{{@KJ{{death}}:shi}}nu@KJ{{in*front}}ni@KJ{{child^submit}}ga@KJ{{large^study}}ni@KJ{{enter}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Before Tomoko died, her child entered university.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOBJG}}. (p. 159).
-<li> @UCREF{{DOBJG}}. (p. 161).
+<li> @REF{{DOBJG}}. (p. 159).
+<li> @REF{{DOBJG}}. (p. 161).
 </ol>
 
 @include{{"grammar-footer.inc"}}
