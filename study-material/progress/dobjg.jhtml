@@ -134,8 +134,13 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-particle-ga.html">@HI{{ga}}</a>                                                        </td>
+  <td class="left"> <a href="grammar-particle-ga.html">@HI{{ga}}</a><sup>1</sup>                                            </td>
   <td class="left"> DOBJG, p. 118                                                                                           </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class="left"> <a href="grammar-ga-conjunction.html">@HI{{ga}}</a><sup>2</sup>                                         </td>
+  <td class="left"> DOBJG, p. 120                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
