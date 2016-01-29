@@ -49,8 +49,8 @@ example to an existing enumeration.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 28).
-<li> @UCREF{{DOBJG}}. (p. 413).
-<li> @UCREF{{DOIJG}}. (p. 427).
+<li> @REF{{DOIJG}}. (p. 413).
+<li> @REF{{DOIJG}}. (p. 427).
 </ol>
 
 @include{{"grammar-footer.inc"}}
