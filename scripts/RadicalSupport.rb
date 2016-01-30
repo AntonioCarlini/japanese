@@ -217,7 +217,7 @@ class RD
     "yellow" =>             Radical.new("yellow",             "KIIRU",          find_kanji_unicode_from_keyword("yellow")),          # alternative: 40643
     "millet" =>             Radical.new("millet",             "KIBI",           40643),
     "black" =>              Radical.new("black",              "KUROU",          find_kanji_unicode_from_keyword("black")),           # alternative: 40657
-    "embroidery" =>         Radical.new("embroidery",         "FUTSU",          400697),
+    "embroidery" =>         Radical.new("embroidery",         "FUTSU",          40697),
     "frog" =>               Radical.new("frog",               "BEN'",           40701),
     "sacrificial*tripod" => Radical.new("sacrificial*tripod", "KANAE",          find_kanji_unicode_from_keyword("tripod")),
     "drum" =>               Radical.new("drum",               "TSUDUMI",        find_kanji_unicode_from_keyword("drum")),
