@@ -16,7 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}}@N2{{}}}}
+<li> @FORMATION{{@S1{{}}@HI{{koto,@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}}@S2{{}}@HI{{koto}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} is a partcile that connects two nouns or noun phrases and means "and".
+@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} is a particle that connects two nouns or noun phrases and means "and".
 It is a highly formal word commonly used in the titles of formal documents.
 
 <table class="sentence">
@@ -38,6 +39,51 @@ It is a highly formal word commonly used in the titles of formal documents.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+When there are more than two nouns, @HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} and the particle @HI{{to}} can be used interchangeably.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{east^capital}}:toukyou}}to@FG{{@KJ{{sideways^seacoast}}:yokohama}}@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}no@FG{{@KJ{{circumference^environs}}:shuuhen'}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Tokyo and Yokohama and its (i.e. Yokohama's) surroundings.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} can join nouns followed by certain particles including compound particles such as
+<a href="grammar-ni-tsuite.html">@HI{{nitsuite}}</a> and <a href="grammar-toshite.html">@HI{{toshite}}</a>.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{gather^group}}:shuudan'}}toshite@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}@FG{{@KJ{{individual^person}}:kojin'}}toshite@KJ{{now^ego^noma}}ga@FG{{@KJ{{straightaway^mask}}:chokumen'}}
+      woshikkari@KJ{{consider}}eru@FG{{@KJ{{invariably^need}}:hitsuyou}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We have to think hard about the problems facing us now, both as a group and as individuals.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}}} can join @HI{{na}}-adjectives, but only when they are used without the @HI{{na}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{market^people^bull's*eye}}:shiminteki}}@EM{{@FG{{@KJ{{reach*out}}:oyo}}bi}}@FG{{@KJ{{politics^reign^bull's*eye}}:seijiteki}}ni@FG{{@KJ{{connection}}:jan'}}suru
+      @FG{{@KJ{{country^occasion}}:kokusai}}@FG{{@KJ{{standard^promise}}:kiyaku}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      International Agreements Regarding Civil Rights and Political Rights.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -45,7 +91,7 @@ It is a highly formal word commonly used in the titles of formal documents.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 521).
+<li> @REF{{DOAJG}}. (p. 521).
 </ol>
 
 @include{{"grammar-footer.inc"}}
