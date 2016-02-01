@@ -31,7 +31,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{association^fit}}:kumiai}}no@FG{{@KJ{{need^request}}:youkyuu}}ni@KJ{{apply}}jite@FG{{@KJ{{signpost^semi-}}:hyoujun'}}@FG{{@KJ{{concerning^profession}}:shuugyou}}@KJ{{time^interval}}ga
+      @HI{{@FG{{@KJ{{association^fit}}:kumiai}}no@FG{{@KJ{{need^request}}:youkyuu}}@EM{{ni@KJ{{apply}}jite}}@FG{{@KJ{{signpost^semi-}}:hyoujun'}}@FG{{@KJ{{concerning^profession}}:shuugyou}}@KJ{{time^interval}}ga
       @FG{{@KJ{{short^shrink}}:tanshuku}}sarerukotoninatta.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -42,11 +42,26 @@
 
 @BGRND{{}}
 <p>
+@HI{{ni@FG{{@KJ{{apply}}:ou}}jite}} can mean "according to" when different actions are taken depending on different situations.
+The core meaning of "in response to" is retained in that an actor takes different actions in response to different situations.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{profession^exploits}}:gyouseki}}@EM{{ni@KJ{{apply}}jite}}@FG{{@KJ{{accompany^profession^employee}}:juugyouin'}}@FG{{@KJ{{whole^employee}}:zen'in'}}ni@KT{{bo-nasu}}ga@FG{{@KJ{{branch^salary}}:shikyuu}}sareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bonuses were distributed to all employees according to their performance.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 @HI{{ni@FG{{@KJ{{apply}}:ou}}jita}} is the pre-nominal form.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{house}}wo@FG{{@KJ{{subscription^enter}}:kounyuu}}suru@FG{{@KJ{{location^fit}}:baai}}niha@FG{{@KJ{{income^enter}}:shuunyuu}}ni@KJ{{apply}}jita@FG{{@KJ{{thing^affair}}:bukken'}}wo
+      @HI{{@KJ{{house}}wo@FG{{@KJ{{subscription^enter}}:kounyuu}}suru@FG{{@KJ{{location^fit}}:baai}}niha@FG{{@KJ{{income^enter}}:shuunyuu}}@EM{{ni@KJ{{apply}}jita}}@FG{{@KJ{{thing^affair}}:bukken'}}wo
       @FG{{@KJ{{elect}}:era}}bubekidesu.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -59,10 +74,14 @@
 
 <h2> Notes </h2>
 
+<p>
+When <a href="grammar-ni-yotte.html">@HI{{niyotte}}</a> means "according to" or "depending on" it is synonymous with @HI{{ni@FG{{@KJ{{apply}}:ou}}jite}} and can be substituted for it.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 412).
+<li> @REF{{DOAJG}}. (p. 412).
 <li> @UCREF{{NKZM-N2G}}. (p. 43).
 <li> @UCREF{{NKZM-N2G}}. (p. 122).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
