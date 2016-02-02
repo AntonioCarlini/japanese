@@ -84,11 +84,13 @@ The perception is expressed by a verb of cognition such as @HI{{@KJ{{see}}ru}}, 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
+@HI{{@FG{{@KJ{{what^matter}}:nanigoto}}@EM{{nitsuke(temo)}}}} is an idiomatic phrase meaning "in no matter what it is".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{what^matter}}@EM{{nitsuke(temo)}},@FG{{@KJ{{heat^in}}:necchuu}}suruto@FG{{@KJ{{other}}:hoka}}nokotoga@KJ{{see}}enakunaru.}}
+      @HI{{@FG{{@KJ{{what^matter}}:nanigoto}}@EM{{nitsuke(temo)}},@FG{{@KJ{{heat^in}}:necchuu}}suruto@FG{{@KJ{{other}}:hoka}}nokotoga@KJ{{see}}enakunaru.}}
   </td> </tr>
   <tr class="en"> <td>
       No matter what it is, when you get engrossed in one thing, you become blind to everything else.
