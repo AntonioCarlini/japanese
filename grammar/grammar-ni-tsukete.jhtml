@@ -7,6 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
+@GRMIDX{{index="@HI{{nitsuke}}" grammar="@HI{{nitsuke}}"}}
 @GRMIDX{{index="@HI{{nitsukete}}" grammar="@HI{{nitsukete}}"}}
 
 <body>
@@ -16,7 +17,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nitsukete}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nitsuke}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nitsukete(mo)}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -56,7 +58,7 @@ The perception is expressed by a verb of cognition such as @HI{{@KJ{{see}}ru}}, 
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nitsuke}}}} can take the form @HI{{@EM{{nitsukete(mo)}}}}.
+@HI{{@EM{{nitsuke}}}} can take the form @HI{{@EM{{nitsukete(mo)}}}} except when two verbs of cognition are used in a single sentence.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -82,9 +84,7 @@ The perception is expressed by a verb of cognition such as @HI{{@KJ{{see}}ru}}, 
 </table>
 </p>
 
-@BGRND{{}}
 <p>
-@HI{{@KJ{{what^matter}}@EM{{nitsuke(temo)}}}} is an idiomatic phrase meaning "in various ways".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -107,7 +107,7 @@ The perception is expressed by a verb of cognition such as @HI{{@KJ{{see}}ru}}, 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOAJG}}. (p. 444).
+<li> @REF{{DOAJG}}. (p. 444).
 <li> @UCREF{{NKZM-N2G}}. (p. 43).
 </ol>
 
