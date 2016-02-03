@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{toka}} can be used as a sentence-ending particle to indicate unconfirmed hearsay.
 
@@ -35,6 +38,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{tokade}} can be used as a conjunction that gives an uncertain reason for something.
 
@@ -48,13 +52,15 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @UCREF{{NKZM-N3G}}. (p. 37).
-<li> @UCREF{{DOIJG}}. (p. 498).
+<li> @REF{{DOIJG}}. (p. 498).
 </ol>
 
 @include{{"grammar-footer.inc"}}

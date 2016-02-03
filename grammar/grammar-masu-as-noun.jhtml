@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The @HI{{masu}} stem, @Vmasustem{{}}, of almost any verb (except Sino-Japanese @HI{{suru}} verbs) can be used as a noun.
 Some of these stems are treated as real nouns and appear as separate entries in dictionaries.
@@ -34,6 +37,7 @@ Some of these stems are treated as real nouns and appear as separate entries in 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 Some verb stems can form compounds of the form @Vmasustem{{}}@Vmasustem{{}}. In this case the two stems have a contrastive meaning.
 
@@ -47,6 +51,7 @@ Some verb stems can form compounds of the form @Vmasustem{{}}@Vmasustem{{}}. In 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 A few @Vmasustem{{}} nouns cannot be used as nouns in isolation but can be used in a compound.
 
@@ -59,12 +64,14 @@ A few @Vmasustem{{}} nouns cannot be used as nouns in isolation but can be used 
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 561).
+<li> @REF{{DOIJG}}. (p. 561).
 </ol>
 
 @include{{"grammar-footer.inc"}}
