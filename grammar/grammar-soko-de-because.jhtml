@@ -99,10 +99,14 @@ If the action is not controllable, @HI{{sorede}} should be used instead.
 In @S1{{}}@HI{{.@EM{{sokode}}}}@S2{{}}, @S2{{}} cannot be a command, a request, a suggestion or an invitation.
 </p>
 
+<p>
+In @HI{{@EM{{sokode}}}} cannot connect a cause and a result: to do that use @HI{{sonotame}} or <a href="grammar-sore-de.html">@HI{{sorede}}</a>.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 401).
+<li> @REF{{DOIJG}}. (p. 401).
 </ol>
 
 @include{{"grammar-footer.inc"}}
