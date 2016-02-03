@@ -40,7 +40,21 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{sorezore}}}} can be used as a pronoun, in which case in appears as @HI{{@EM{{sorezore}}}}@N{{}}.
+@HI{{@EM{{sorezore}}}} is an adverb used to express the idea of "respectively" when actions differ.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^rice*field}}:yamada}}santo@FG{{@KJ{{small*bell^tree}}:suzuki}}sanha,@FG{{@KJ{{fruit^thing}}:kudamono}}too@FG{{@KJ{{confectionary^child}}:kashi}}wo@EM{{sorezore}}@KJ{{buy}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yamada and Suzuki bought fruit and cakes respectively.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sorezore}}}} can be used as a pronoun, in which case in appears as @HI{{@EM{{sorezore}}no}}@N{{}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -73,7 +87,7 @@
 <h2> References </h2>
 
 <ol>
-  <li> @REF{{DOIJG}}. (p. 436).
+<li> @REF{{DOIJG}}. (p. 436).
 </ol>
 
 @include{{"grammar-footer.inc"}}
