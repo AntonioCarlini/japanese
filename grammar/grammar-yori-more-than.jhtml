@@ -28,7 +28,7 @@ In this usage @HI{{@EM{{yori}}}} is an adverb used to form the comparative of an
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private^accomplished}}haitsumo@EM{{yori}}yoi@KT{{sa-bisu}}no@FG{{@KJ{{propose^submit}}:teikyou}}ni@FG{{@KJ{{toil}}:tsuto}}meteimasu.}}
+      @HI{{@KJ{{private^accomplished}}haitsumo,@EM{{yori}}yoi@KT{{sa-bisu}}no@FG{{@KJ{{propose^submit}}:teikyou}}ni@FG{{@KJ{{toil}}:tsuto}}meteimasu.}}
   </td> </tr>
   <tr class="en"> <td>
       We are always trying to offer better services.
@@ -46,7 +46,7 @@ rather than a comparison between two specific entities.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 602).
+<li> @REF{{DOIJG}}. (p. 602).
 </ol>
 
 @include{{"grammar-footer.inc"}}
