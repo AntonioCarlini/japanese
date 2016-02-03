@@ -25,19 +25,6 @@
 
 @BGRND{{}}
 <p>
-
-
-  <tr class="jp"> <td>
-      
-  </td> </tr>
-  <tr class="en"> <td>
-      
-  </td> </tr>
-</table>
-</p>
-
-@BGRND{{}}
-<p>
 @HI{{@EM{{toiu@FG{{@KJ{{wind}}:fuu}}ni}}}} is a phrase that expresses a way or manner in which someone does something.
 It expresses what the manner of a person's action shows or suggests.
 
@@ -84,13 +71,13 @@ It expresses what the manner of a person's action shows or suggests.
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{toiu@KJ{{wind}}ni}}}} can be replaced with @HI{{toiuyori}} with no change in meaning.
+@HI{{@EM{{toiu@KJ{{wind}}ni}}}} can be replaced with @HI{{toiuyouni}} with no change in meaning.
 </p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 478).
+<li> @REF{{DOIJG}}. (p. 478).
 </ol>
 
 @include{{"grammar-footer.inc"}}
