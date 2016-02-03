@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{soredokoroka}}}} is a conjunction used to state that the degree expressed in the second sentence is far above or below
 that  of the first sentence. The basic meaning is  "as a matter of fact" or "on the contrary".
@@ -35,6 +38,7 @@ that  of the first sentence. The basic meaning is  "as a matter of fact" or "on 
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 When followed by @HI{{ka}}, @HI{{dehanai}} or @HI{{janai}}, @HI{{@EM{{soredokoro}}}} can indicate a flat rejection of
 an invitation, command or request, and is followed by the unusual circumstance that makes it impossible to accept.
@@ -55,12 +59,14 @@ an invitation, command or request, and is followed by the unusual circumstance t
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 420).
+<li> @REF{{DOIJG}}. (p. 420).
 </ol>
 
 @include{{"grammar-footer.inc"}}
