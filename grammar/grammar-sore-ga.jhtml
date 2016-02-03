@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{sorega}}}} is an interjection used to signal that the speaker is about to provide an unexpected response to a question.
 
@@ -40,6 +43,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 When an interjection is used, @HI{{@EM{{sorega}}}} follows it.
 
@@ -59,15 +63,19 @@ When an interjection is used, @HI{{@EM{{sorega}}}} follows it.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
+<p>
 In contrast to @HI{{@EM{{sorega}}}}, <a href="grammar-sore-wa-interjection.html">@HI{{soreha}}</a> is used when the speaker provides an
 expected response to a question.
+</p>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 423).
+<li> @REF{{DOIJG}}. (p. 423).
 </ol>
 
 @include{{"grammar-footer.inc"}}
