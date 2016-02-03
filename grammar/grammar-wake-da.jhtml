@@ -31,8 +31,6 @@
 <p>
 @HI{{@EM{{wakeda}}}} represents the speaker's conclusion reached through deductive reasoning, logic or calculation based on something heard or read.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{sumisu}}sanha@KJ{{ten^year^interval}}mo@KT{{tenisu}}woshitanodakara@KJ{{above^hand}}
@@ -42,7 +40,9 @@
       Mr. Smith has played tennis for ten years so he should be good at it.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{every^day}}@KT{{pu-ru}}de@KJ{{swim}}ideirundesuka. @KJ{{length^husband}}na@EM{{wakedesu}}ne.}}
@@ -51,7 +51,9 @@
       Do you swim in the pool every day? No wonder you're healthy.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{kinouha@KJ{{three^time^interval}}shika@KJ{{lie*down}}teinai. @KJ{{road-way^logic}}de@KJ{{sleep}}i@EM{{wakeda}}.}}
@@ -60,7 +62,9 @@
       I only slept for three hours yesterday. No wonder I'm sleepy.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{life}}ki@KJ{{character^pull}}toiu@EM{{wakedesu}}ka.}}
@@ -69,7 +73,6 @@
       You mean he's a living dictionary?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
