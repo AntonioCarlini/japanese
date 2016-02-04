@@ -45,7 +45,7 @@ In this example the listener is expected to know about the project to which the 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 346).
+<li> @REF{{DOIJG}}. (p. 346).
 </ol>
 
 @include{{"grammar-footer.inc"}}
