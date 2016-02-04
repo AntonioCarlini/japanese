@@ -16,7 +16,8 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{come}}:rai}}}}}}}}
+<li> @FORMATION{{@N{{duration}}@HI{{@EM{{@FG{{@KJ{{come}}:rai}}}}}}}}
+<li> @FORMATION{{@N{{duration}}@HI{{@EM{{@FG{{@KJ{{come}}:rai}}}}no}}@N{{}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -58,7 +59,7 @@ It can mean that something has continued until now.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 343).
+<li> @REF{{DOIJG}}. (p. 343).
 </ol>
 
 @include{{"grammar-footer.inc"}}
