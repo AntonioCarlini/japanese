@@ -27,6 +27,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 The adverb @HI{{@EM{{sasuga}}}} expresses speaker's strong feeling that something has turned out as expected..
 
@@ -40,6 +43,7 @@ The adverb @HI{{@EM{{sasuga}}}} expresses speaker's strong feeling that somethin
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{sasuga}}}} can expresses speaker's strong feeling that something has not turned out as expected..
 
@@ -53,6 +57,7 @@ The adverb @HI{{@EM{{sasuga}}}} expresses speaker's strong feeling that somethin
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{sasuga}}}}@JDOTS3{{}}@HI{{dake}} may be followed by either @HI{{atte}} or @HI{{ni}} (either may be used interchangeably).
 
@@ -78,6 +83,7 @@ The adverb @HI{{@EM{{sasuga}}}} expresses speaker's strong feeling that somethin
 </ol>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{sasuga}}}}@HI{{no}}X@HI{{mo}}
 means that something has occurred that is contrary to what might be expected from the characterstics of X.
@@ -92,6 +98,7 @@ means that something has occurred that is contrary to what might be expected fro
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 In conversational Japanese, @HI{{@EM{{sasuga}}}} can be used as an exclamation.
 
@@ -111,6 +118,8 @@ In conversational Japanese, @HI{{@EM{{sasuga}}}} can be used as an exclamation.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -121,7 +130,7 @@ Also it does not have prenomial or precopula uses.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 374).
+<li> @REF{{DOIJG}}. (p. 374).
 </ol>
 
 @include{{"grammar-footer.inc"}}
