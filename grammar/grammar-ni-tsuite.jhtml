@@ -24,13 +24,15 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{nitsuite}}}} means "about" or "concerning".
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KT{{sumisu}}sanha@KJ{{day^book}}he @KJ{{detain^study}}surukoto@EM{{nitsuite}}
-      iroiro @KJ{{private}}ni@KJ{{inquire}}neta.}}
+      @HI{{@KT{{sumisu}}sanha@KJ{{day^book}}he @KJ{{detain^study}}surukoto@EM{{nitsuite}}iroiro@KJ{{private}}ni@KJ{{inquire}}neta.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Smith asked me various questions about his going to Japan for study.
@@ -41,7 +43,7 @@
 <p>
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{honorable^house^tribe}}@EM{{nitsuite}}@KJ{{tale}}shite kudasai.}}
+      @HI{{@KJ{{honorable^house^tribe}}@EM{{nitsuite}}@KJ{{tale}}shitekudasai.}}
   </td> </tr>
   <tr class="en"> <td>
       Please talk about your family.
@@ -49,12 +51,29 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@N1{{}}@EM{{nitsuite}}no@N2{{}}}} means "@N2{{}} concerning @N1{{}}".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book^person}}no@FG{{@KJ{{religion^teach}}:shuukyou}}@EM{{nitsuiteno}}@FG{{@KJ{{consider}}:kanga}}e@FG{{@KJ{{direction}}:kata}}ha@FG{{@KJ{{west^ocean^person}}:seiyoujin'}}
+      notohakanari@FG{{@KJ{{difference}}:chiga}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese views on religion are quite different from those of Westeners.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 280).
+<li> @REF{{DOIJG}}. (p. 280).
 <li> @UCREF{{NKZM-N3G}}. (p. 62).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 </ol>
