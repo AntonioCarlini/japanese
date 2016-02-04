@@ -47,8 +47,6 @@
 <a name="if-only">@HI{{@EM{{sae}}}}</a>, when coupled with @Vta{{}}@HI{{ra}} or @Vba{{}} or @HI{{nara}},
 means "if only" something had been done a positive result would have followed.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{mou5@KJ{{part}}@EM{{sae}}attara,@KJ{{fly^going^mechanism}}ni@KJ{{interval}}ni@KJ{{fit}}ttanoni.}}
@@ -57,7 +55,9 @@ means "if only" something had been done a positive result would have followed.
       If only we had had 5 minutes more, we would have been in time for the flight.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{kono@KJ{{attend^matter}}@EM{{sae}}@KJ{{one-sided^adhere}}itara@KJ{{behind}}ha@KJ{{music}}nandesu.}}
@@ -66,7 +66,11 @@ means "if only" something had been done a positive result would have followed.
       If we can just finish this work, the rest will be easy.
   </td> </tr>
 </table>
-</ol>
+</p>
+
+<p>
+This construction is most commonly used with @Vba{{}}, as shown in the example sentence above. @HI{{@Vta{{}}ra}} is used, but less often. @HI{{nara}} may only be used in limited contexts.
+The @HI{{to}} conditional is unacceptable.
 </p>
 
 @BGRNDEND{{}}
@@ -77,7 +81,7 @@ means "if only" something had been done a positive result would have followed.
 
 <ol>
 <li> @REF{{AAP}}. (p. 126).
-<li> @UCREF{{DOIJG}}. (p. 363).
+<li> @REF{{DOIJG}}. (p. 363).
 <li> @UCREF{{NKZM-N3G}}. (p. 32).
 <li> @UCREF{{NKZM-N3G}}. (p. 58).
 <li> @UCREF{{NKZM-N2G}}. (p. 97).
