@@ -23,12 +23,7 @@
 
 <p>
 @HI{{@EM{{nokoto}}}} is a phrase meaning "about" or "to do with".
-</p>
 
-<h2> Examples </h2>
-
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{he^woman}}@EM{{nokoto}}hamou@KJ{{forget}}reta@KJ{{direction}}gaiiyo.}}
@@ -37,7 +32,7 @@
       You'd better forget about her now.
   </td> </tr>
 </table>
-</ol>
+</p>
 
 <h2> Notes </h2>
 
@@ -48,7 +43,7 @@ X@HI{{@EM{{nokoto}}}}@HI{{nandesuga}} is often used to introduce the reason for 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 304).
+<li> @REF{{DOIJG}}. (p. 304).
 </ol>
 
 @include{{"grammar-footer.inc"}}
