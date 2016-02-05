@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This sentence pattern shows that the action before @HI{{@EM{{kekka}}}} led to the event described in the subsequent clause.
 It is used mainly in writing but can also be found on TV or the radio.
@@ -37,10 +40,9 @@ It is used mainly in writing but can also be found on TV or the radio.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 When @HI{{@EM{{kekka}}}} is followed by a particle, it is a common noun.
-
-</p>
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -52,13 +54,15 @@ When @HI{{@EM{{kekka}}}} is followed by a particle, it is a common noun.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 10).
-<li> @UCREF{{DOIJG}}. (p. 121).
+<li> @REF{{DOIJG}}. (p. 121).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
