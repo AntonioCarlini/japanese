@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{karatoitte}}" grammar="@HI{{karato@KJ{{say}}tte}}"}}
+@GRMIDX{{index="@HI{{karatte}}" grammar="@HI{{karatte}}"}}
 
 <body>
 
@@ -66,6 +67,20 @@ The main clause is a negative form.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{karato@KJ{{say}}tte}}}} can contract to @HI{{@EM{{karatte}}}} in conversation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{chotto@KJ{{exit^come}}ru@EM{{karatte}},son'nani@FG{{@KJ{{intimidate^lengthen}}:iba}}ranakutemoiideshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You shouldn't boast that much just because you are better than others.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -73,7 +88,7 @@ The main clause is a negative form.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 103).
+<li> @REF{{DOIJG}}. (p. 103).
 <li> @UCREF{{NKZM-N2G}}. (p. 65).
 <li> @UCREF{{NKZM-N2G}}. (p. 124).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
