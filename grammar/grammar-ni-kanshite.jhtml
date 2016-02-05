@@ -28,6 +28,7 @@
 @BGRND{{}}
 <p>
 @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}} means "with regard to" or "concerning".
+The @HI{{te}} in @HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}} may optionally be dropped. 
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,6 +43,7 @@
 @BGRND{{}}
 <p>
 @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} is used to present a topic.
+The @HI{{te}} in @HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} cannot be dropped.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -88,7 +90,7 @@ The polite form @N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shimashite}} can be us
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 252).
+<li> @REF{{DOIJG}}. (p. 252).
 <li> @UCREF{{NKZM-N2G}}. (p. 34).
 <li> @UCREF{{NKZM-N2G}}. (p. 122).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
