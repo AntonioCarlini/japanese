@@ -31,7 +31,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kotoninaru}}}} indicates an event or decision that occurs irrespective of the speaker's volition.
+<a name="occurs">@HI{{@EM{{kotoninaru}}}}</a> indicates an event or decision that occurs irrespective of the speaker's volition.
 The focus is on the action that happens.
 It differs from <a href="grammar-koto-ni-suru.html">@HI{{kotonisuru}}</a>, which marks a volitional decision.
 
@@ -68,7 +68,7 @@ far as to indicate that something has become a rule or a custom.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kotoninaru}}}} can be a phrase that indicates that an action or event leads to a certain situation or conclusion.
+<a name="cause">@HI{{@EM{{kotoninaru}}}}</a> can be a phrase that indicates that an action or event leads to a certain situation or conclusion.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -88,7 +88,7 @@ far as to indicate that something has become a rule or a custom.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 202).
-<li> @UCREF{{DOIJG}}. (p. 140).
+<li> @REF{{DOIJG}}. (p. 140).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
