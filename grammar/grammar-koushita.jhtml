@@ -38,6 +38,20 @@ It has the same meaning as @HI{{kon'na}} but is more formal and is mostly used i
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The adverbial form is @HI{{@EM{{koushite}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private^accomplished}}no@FG{{@KJ{{lively^move}}:katsudou}}ha@EM{{koushite}}@FG{{@KJ{{commence}}:haji}}matta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our activity started like this.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -45,7 +59,7 @@ It has the same meaning as @HI{{kon'na}} but is more formal and is mostly used i
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 130).
+<li> @REF{{DOIJG}}. (p. 130).
 </ol>
 
 @include{{"grammar-footer.inc"}}
