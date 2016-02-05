@@ -135,6 +135,19 @@ To state what should <em>not</em> be done use <a href="grammar-mono-de-wa-nai.ht
 </table>
 </p>
 
+<p>
+In this used @HI{{@EM{{mono}}}} may be followed by @HI{{to}}, the quotation particle. In this case @HI{{mono}} could be dropped with no change in meaning. No copula is used in this case.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{question^topic}}:mondai}}ha@FG{{@KJ{{time^period}}:jiki}}ga@KJ{{come}}reba@FG{{@KJ{{oneself^sort*of*thing}}:shizen}}ni@FG{{@KJ{{unravel^decide}}:kaiketsu}}sareru@EM{{mono}}to@KJ{{see}}rareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The problem is expected to solve itself when the time comes.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -147,7 +160,7 @@ In colloquial speech, @HI{{@EM{{mono}}}} contracts to @HI{{@EM{{mon'}}}}.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 257).
-<li> @UCREF{{DOIJG}}. (p. 189).
+<li> @REF{{DOIJG}}. (p. 189).
 <li> @UCREF{{NKZM-N2G}}. (p. 104).
 <li> @UCREF{{NKZM-N2G}}. (p. 108).
 <li> @UCREF{{NKZM-N2G}}. (p. 116).
