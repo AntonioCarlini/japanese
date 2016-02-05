@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{naikotohanai}}}} is used to express a mild affirmative using a double negative. It can be translated
 as "I cannot say that ~ never happens".
@@ -44,6 +47,8 @@ as "I cannot say that ~ never happens".
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -51,10 +56,14 @@ The alternative form @HI{{@EM{{naikotomonai}}}} (with @HI{{ha}} replaced by @HI{
 has the same meaning but the assertion is weaker.
 </p>
 
+<p>
+This phrase is used to respond to something said by the other party. It cannot be used to start a conversation.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 203).
+<li> @REF{{DOIJG}}. (p. 203).
 <li> @UCREF{{NKZM-N3G}}. (p. 39).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
