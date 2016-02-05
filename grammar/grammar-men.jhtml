@@ -38,6 +38,7 @@
 </p>
 
 @BGRND{{}}
+<p>
 @FG{{@KJ{{mask}}:men'}} can also be used as an independent noun, with the same meaning.
 
 <table class="sentence">
@@ -57,7 +58,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 176).
+<li> @REF{{DOIJG}}. (p. 176).
 </ol>
 
 @include{{"grammar-footer.inc"}}
