@@ -43,8 +43,8 @@ or orders in writing, for example in notices.
 
 <ol>
 <li> @UCREF{{NKZM-N3G}}. (p. 46).
-<li> @UCREF{{DOIJG}}. (p. 73).
-<li> @UCREF{{DOIJG}}. (p. 135).
+<li> @REF{{DOIJG}}. (p. 73).
+<li> @REF{{DOIJG}}. (p. 135).
 </ol>
 
 @include{{"grammar-footer.inc"}}
