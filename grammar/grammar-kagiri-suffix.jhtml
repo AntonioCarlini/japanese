@@ -37,10 +37,14 @@
 
 <h2> Notes </h2>
 
+<p>
+@N{{}}@EM{{@FG{{@KJ{{limit}}ri:kagiri}}}} is used when a repeated or on-going event, action or state lasts only until a certain time.
+</p>
+
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 85).
+<li> @REF{{DOIJG}}. (p. 85).
 </ol>
 
 @include{{"grammar-footer.inc"}}
