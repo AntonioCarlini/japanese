@@ -7,7 +7,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{aida}}" grammar="@HI{{aida}}"}}
+@GRMIDX{{index="@HI{{aida}}" grammar="@HI{{@FG{{@KJ{{interval}}:aida}}}}"}}
+@GRMIDX{{index="@HI{{aidani}}" grammar="@HI{{@FG{{@KJ{{interval}}:aida}}ni}}"}}
 
 <body>
 
@@ -98,6 +99,38 @@ If @HI{{@EM{{aida}}}} is not followed by @HI{{ni}}, the two clauses are expected
 
 @BGRND{{}}
 <p>
+The clause marked by @HI{{@EM{{aida}}(ni)}} always expresses a continuous state or action.
+In the case of @HI{{@EM{{aida}}}}, the following clause also expresses a continuous state or action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{mama}}sanga@FG{{@KJ{{daytime^lie*down}}:hirune}}woshiteiru@EM{{aida}},@KJ{{child}}domotachiha@KT{{terebi}}wo@KJ{{see}}teita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While mother had an afternoon nap, the children watched TV.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, in the case of @HI{{@EM{{aida}}}}, the following clause expresses a momentary action or state.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@KJ{{mama}}sanga@FG{{@KJ{{daytime^lie*down}}:hirune}}woshiteiru@EM{{aidani}},@KJ{{child}}domotachiha@KJ{{play}}bini@KJ{{exit}}kaketa.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While mother had an afternoon nap, the children went out to play.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+Note that in this second case, although the playing may or may not continue for some time, the going out (@HI{{@KJ{{exit}}kakeru}}) is a momentary action.
+</p>
+
+@BGRND{{}}
+<p>
 The construction A@HI{{to}}B(@HI{{to}})@HI{{no@EM{{aida}}}} means "the space between" or "relationship".
 
 <table class="sentence">
@@ -118,8 +151,8 @@ The construction A@HI{{to}}B(@HI{{to}})@HI{{no@EM{{aida}}}} means "the space bet
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 67).
-<li> @UCREF{{NKZM-N3G}}. (p. 16).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 8).
+<li> @REF{{NKZM-N3G}}. (p. 16).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 8).
 </ol>
 
 @include{{"grammar-footer.inc"}}
