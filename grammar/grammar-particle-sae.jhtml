@@ -19,7 +19,7 @@
 <li> @FORMATION{{@N{{}}@HI{{@EM{{sae}}}}}}
 <li> @FORMATION{{@N{{}} @PRT{{}} @HI{{@EM{{sae}}}}}}
 <li> @FORMATION{{@Vte{{}}@HI{{@EM{{sae}}}}}}
-<li> @FORMATION{{@Vmasu{{}}@HI{{@EM{{sae}}}}@HI{{suru}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{sae}}}}@HI{{suru}}}}
 <li> @FORMATION{{@Aistem{{}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
 <li> @FORMATION{{@Anastem{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
 <li> @FORMATION{{@N{{}}@HI{{de}}@HI{{@EM{{sae}}}}@HI{{aru}}}}
@@ -82,7 +82,7 @@ The @HI{{to}} conditional is unacceptable.
 <ol>
 <li> @REF{{AAP}}. (p. 126).
 <li> @REF{{DOIJG}}. (p. 363).
-<li> @UCREF{{NKZM-N3G}}. (p. 32).
+<li> @REF{{NKZM-N3G}}. (p. 32).
 <li> @UCREF{{NKZM-N3G}}. (p. 58).
 <li> @UCREF{{NKZM-N2G}}. (p. 97).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
