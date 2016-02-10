@@ -54,6 +54,30 @@ as "at the time when".
 
 @BGRND{{}}
 <p>
+When the subjects of the clause before @HI{{@EM{{toki}}}} and the main clause differ, the subject of the @HI{{@EM{{toki}}}} clause should be marked by @HI{{ga}} rather than by @HI{{ha}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@KJ{{large^study^life}}no@EM{{toki}},@KJ{{meeting^company}}wotsukutta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a university student, I formed a company.
+  </td> </tr>
+</table>
+</p>
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ga@KJ{{large^study^life}}no@EM{{toki}},@KJ{{younger*brother}}ha@KJ{{meeting^company}}wotsukutta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was a university student, my younger brother formed a company.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 @Vru{{}}@HI{{@EM{{toki}}}} means that the action in the relative clause has not yet completed when the main clause happens.
 This can often be translated as <em>right before</em>.
 
@@ -114,7 +138,7 @@ happened comes under particular focus.
 </p>
 
 <p>
-A @HI{{@EM{{toki}}}} clause never indicates a condiftion.
+A @HI{{@EM{{toki}}}} clause never indicates a condition.
 </p>
 
 <h2> References </h2>
@@ -122,7 +146,7 @@ A @HI{{@EM{{toki}}}} clause never indicates a condiftion.
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 23).
 <li> @REF{{DOBJG}}. (p. 490).
-<li> @UCREF{{JPOD101-LI-S6-007}}.
+<li> @REF{{JPOD101-LI-S6-007}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
