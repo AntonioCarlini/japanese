@@ -31,8 +31,9 @@ Neither the place where the speaker is going nor the action to be performed are 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-TR-II}}. (Chapter 43).
+<li> @REF{{MNN-TR-II}}. (Chapter 43).
 </ol>
+
 @include{{"grammar-footer.inc"}}
 
 </body>
