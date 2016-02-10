@@ -60,6 +60,21 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
+    @HI{{kono@KJ{{desk}}ha@KJ{{length^husband}}@EM{{soudesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This desk looks strong and durable.
+  </td> </tr>
+</table>
+</ol>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{ii}} becomes @HI{{yosasoudesu}} in this sentence pattern.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
     @HI{{@KJ{{he^woman}}ha@KJ{{head}}gayosa@EM{{soudesu}}.}}
   </td> </tr>
   <tr class="en"> <td>
@@ -68,16 +83,18 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
+<a name="nai">In</a> the negative form, @HI{{nai}} becomes @HI{{@EM{{nasasou}}}}.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-    @HI{{kono@KJ{{desk}}ha@KJ{{length^husband}}@EM{{soudesu}}.}}
+    @HI{{ano@KJ{{reflect^brush-stroke}}haamariomoshirokunasasoudesune.}}
   </td> </tr>
   <tr class="en"> <td>
-    This desk looks strong and durable.
+    That film doesn't look very interesting does it?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -96,7 +113,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 
 @BGRND{{}}
 <p>
-<a name="pre-nominal">When</a> used as a noun modifier, the expresion becomes @HI{{@EM{{souna}}}}.
+<a name="pre-nominal">When</a> used as a noun modifier, the expression becomes @HI{{@EM{{souna}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -110,7 +127,7 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 
 @BGRND{{}}
 <p>
-<a name="adverb">When</a> used as an adverb, the expresion becomes @HI{{@EM{{souni}}}}.
+<a name="adverb">When</a> used as an adverb, the expression becomes @HI{{@EM{{souni}}}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -118,20 +135,6 @@ state and so this sentence patten cannot refer to conjecture about a past state.
   </td> </tr>
   <tr class="en"> <td>
     The children seem to be playing happily.
-  </td> </tr>
-</table>
-</p>
-
-@BGRND{{}}
-<p>
-<a name="nai">In</a> the negative form, @HI{{nai}} becomes @HI{{@EM{{nasasou}}}}.
-
-<table class="sentence" border=0>
-  <tr class="jp"> <td>
-    @HI{{ano@KJ{{reflect^brush-stroke}}haamariomoshirokunasasoudesune.}}
-  </td> </tr>
-  <tr class="en"> <td>
-    That film doesn't look very interesting does it?
   </td> </tr>
 </table>
 </p>
@@ -155,10 +158,6 @@ state and so this sentence patten cannot refer to conjecture about a past state.
 <h2> Notes </h2>
 
 <p>
-@HI{{ii}} becomes @HI{{yosasoudesu}} in this sentence pattern.
-</p>
-
-<p>
 Neither N + @HI{{soudesu}} nor N @HI{{dasoudesu}} are permitted but N + @HI{{janasasoudesu}} is permitted.
 </p>
 
@@ -167,8 +166,8 @@ Neither N + @HI{{soudesu}} nor N @HI{{dasoudesu}} are permitted but N + @HI{{jan
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 43).
 <li> @REF{{DOBJG}}. (p. 410).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 3).
-<li> @UCREF{{JPOD101-LI-S1-003}}.
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
+<li> @REF{{JPOD101-LI-S1-003}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
