@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{sokowo}}}} is a conjunction used to indicate that inspite of a previously mentioned negative situation, a positive effort is made.
+@HI{{@EM{{sokowo}}}} is a conjunction used to indicate that in spite of a previously mentioned negative situation, a positive effort is made.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -59,7 +59,7 @@ In this case @HI{{@EM{{sokowo}}}} can be replaced by @HI{{sokonotokorowo}}.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 407).
+<li> @REF{{DOIJG}}. (p. 407).
 </ol>
 
 @include{{"grammar-footer.inc"}}
