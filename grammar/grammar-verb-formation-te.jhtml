@@ -31,7 +31,6 @@
 <tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{totte}}          </td> </tr>
 <tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motte}}          </td> </tr>
 <tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanashite}}      </td> </tr>
-<tr> <td> @HI{{iku}}  </td> <td> @HI{{iku}}      </td> <td> @HI{{itte}}           </td> </tr>
 </table>
 </p>
 
@@ -53,6 +52,7 @@
 <tr> <th> verb </th> <th> dictionary </th> <th> @HI{{te}}-form </th>
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kite}}     </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shite}}    </td> </tr>
+<tr> <td> @HI{{iku}}   </td> <td> @HI{{iku}}   </td> <td> @HI{{itte}}     </td> </tr>
 </table>
 </p>
 </dl>
@@ -71,6 +71,10 @@ and adding the suffix @HI{{te}}.
 
 <p>
 The two irregular verbs conjugate as shown above.
+</p>
+
+<p>
+Note that @HI{{iku}} has an irregular -@HI{{te}} form.
 </p>
 
 <p>

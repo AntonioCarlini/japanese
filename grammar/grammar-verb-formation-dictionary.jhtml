@@ -27,9 +27,9 @@
 <tr> <td> ~@HI{{mu}}  </td> <td> @HI{{fumimasu}}     </td> <td> @HI{{fumu}}       </td> </tr>
 <tr> <td> ~@HI{{bu}}  </td> <td> @HI{{yobimasu}}     </td> <td> @HI{{yobu}}       </td> </tr>
 <tr> <td> ~@HI{{nu}}  </td> <td> @HI{{shinimasu}}    </td> <td> @HI{{shinu}}      </td> </tr>
-<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iwimasu}}       </td> <td> @HI{{iu}}        </td> </tr>
+<tr> <td> ~@HI{{u}}   </td> <td> @HI{{iimasu}}       </td> <td> @HI{{iu}}         </td> </tr>
 <tr> <td> ~@HI{{ru}}  </td> <td> @HI{{torimasu}}     </td> <td> @HI{{toru}}       </td> </tr>
-<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motimasu}}    </td> <td> @HI{{motsu}}       </td> </tr>
+<tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motimasu}}     </td> <td> @HI{{motsu}}      </td> </tr>
 <tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasimasu}}   </td> <td> @HI{{hanasu}}     </td> </tr>
 </table>
 </p>
@@ -83,7 +83,7 @@ The two irregular verbs conjugate as shown above.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-JP-I}}. (Chapter 18).
+<li> @REF{{MNN-JP-I}}. (Chapter 18).
 </ol>
 
 @include{{"grammar-footer.inc"}}

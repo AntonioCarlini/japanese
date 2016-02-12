@@ -31,7 +31,6 @@
 <tr> <td> ~@HI{{ru}}  </td> <td> @HI{{toru}}     </td> <td> @HI{{totta}}          </td> </tr>
 <tr> <td> ~@HI{{tsu}} </td> <td> @HI{{motsu}}    </td> <td> @HI{{motta}}          </td> </tr>
 <tr> <td> ~@HI{{su}}  </td> <td> @HI{{hanasu}}   </td> <td> @HI{{hanashita}}      </td> </tr>
-<tr> <td> @HI{{iku}}  </td> <td> @HI{{iku}}      </td> <td> @HI{{itta}}           </td> </tr>
 </table>
 </p>
 
@@ -53,6 +52,7 @@
 <tr> <th> verb </th> <th> dictionary </th> <th> @HI{{ta}}-form </th>
 <tr> <td> @HI{{kuru}}  </td> <td> @HI{{kuru}}  </td> <td> @HI{{kita}}     </td> </tr>
 <tr> <td> @HI{{suru}}  </td> <td> @HI{{suru}}  </td> <td> @HI{{shita}}    </td> </tr>
+<tr> <td> @HI{{iku}}   </td> <td> @HI{{iku}}   </td> <td> @HI{{itta}}     </td> </tr>
 </table>
 </p>
 </dl>
@@ -74,6 +74,10 @@ The two irregular verbs conjugate as shown above.
 </p>
 
 <p>
+Note that @HI{{iku}} has an irregular -@HI{{ta}} form.
+</p>
+
+<p>
 Note that the @HI{{ta}}-form and the <a href="grammar-verb-formation-te.html">@HI{{te}}-form</a> (@Vte{{}})
 are formed identically except that
 @HI{{ta}} in the former becomes @HI{{te}} in the latter and @HI{{da}} becomes @HI{{de}}.
@@ -84,7 +88,7 @@ are formed identically except that
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-JP-I}}. (Chapter 19).
+<li> @REF{{MNN-JP-I}}. (Chapter 19).
 </ol>
 
 @include{{"grammar-footer.inc"}}
