@@ -144,9 +144,9 @@ table.progress td.left {
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left">  Imperative <a href="grammar-verb-formation-imperative.html">formation</a>
-    <a href="grammar-verb-formation-imperative-prohibitive.html"> (prohibitive) </a>
-    and <a href="grammar-verb-use-of-imperative.html">uses</a> </td>
+  <td class="left">  <a href="grammar-verb-formation-imperative.html">Imperative</a>
+    and <a href="grammar-verb-formation-prohibitive.html"> prohibitive </a>  formation
+    and <a href="grammar-verb-use-of-imperative-prohibitive.html">uses</a> </td>
   <td class="left"> DOIJG, p. 70                                                                                           </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
