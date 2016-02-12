@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @N{{}}@HI{{noyouda}} is used at the end of a sentence to liken one noun to another.
 
@@ -38,6 +41,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @N{{}}@HI{{noyouna}} is an adjectival phrase used to describe a following noun.
 
@@ -51,6 +55,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @N{{}}@HI{{noyouni}} is the form used to modify a verb or an adjective.
 
@@ -59,11 +64,12 @@
       @HI{{@KJ{{rice*field^in}}sanga@KJ{{enter^Inst.}}ha@KT{{hoteru}}noyounikireida.}}
   </td> </tr>
   <tr class="en"> <td>
-      The hospital Mr. takana is in is as nice as a hotel.
+      The hospital Mr. Takana is in is as nice as a hotel.
   </td> </tr>
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an example.
 
@@ -77,11 +83,10 @@ The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an e
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{marude}} can appear before @N{{}}@HI{{noyou}} and acts to emphasise the similarity.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ano@KJ{{lake}}ha@KJ{{large}}kikute,marude@KJ{{sea}}noyoudesu.}}
@@ -90,7 +95,9 @@ The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an e
       That lake is so big it's like the sea.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{ano@KJ{{lake}}hamarude@KJ{{sea}}noyouni@KJ{{large}}kiidesu.}}
@@ -99,15 +106,16 @@ The form @N{{}}@HI{{noyouna}} is often used to describe something by citing an e
       That lake is as large as the sea.
   </td> </tr>
 </table>
-</ol>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}
