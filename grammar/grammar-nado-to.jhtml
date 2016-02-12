@@ -32,7 +32,7 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{o@KJ{{gold}}ganaikara,@KJ{{day^book}}e@KJ{{going}}ku@EM{{nadoto}}iukotoha@KJ{{dream}}desu.}}
+      @HI{{o@KJ{{gold}}ganaikara,@KJ{{day^book}}he@KJ{{going}}ku@EM{{nadoto}}iukotoha@KJ{{dream}}desu.}}
   </td> </tr>
   <tr class="en"> <td>
       I don't have money, so ideas like going to Japan are just dreams.
@@ -47,7 +47,7 @@
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{DOIJG}}. (p. 197).
+<li> @REF{{DOIJG}}. (p. 197).
 </ol>
 
 @include{{"grammar-footer.inc"}}
