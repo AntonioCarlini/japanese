@@ -24,11 +24,12 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 This pattern expresses that something happens under all circumstances, whatever they might be.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{generation^world^in}}dokoniitemo@KJ{{house^tribe}}nokotowo@KJ{{forget}}remasenn.}}
@@ -37,7 +38,9 @@ This pattern expresses that something happens under all circumstances, whatever 
       Wherever I am in the world, I never forget my family.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{what^degrees^hear}}itemo@KJ{{same}}jikotoshika@KJ{{teach}}etekurenai.}}
@@ -46,15 +49,16 @@ This pattern expresses that something happens under all circumstances, whatever 
       No matter how many times I ask, they only tell me the same thing.
   </td> </tr>
 </table>
-</ol>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}
