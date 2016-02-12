@@ -59,7 +59,7 @@ The pattern @KJ{{what}} + @CTR{{}} + @HI{{mo}} means that the quantity mentioned
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 1).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 1).
 </ol>
 
 @include{{"grammar-footer.inc"}}
