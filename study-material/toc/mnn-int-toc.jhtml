@@ -247,10 +247,10 @@
 <li> <a href="grammar-tate.html">@HI{{tate}}</a>
 <li> <a href="grammar-tatoe-temo.html">@HI{{tatoe}} ~ @HI{{temo}}</a>
 <li> <a href="grammar-tari-shinai.html">@Vta{{}}@HI{{rishinai}}</a>
-<li> <a href="grammar-.html"></a>@HI{{hodo}}
+<li> <a href="grammar-particle-hodo.html#extreme">@HI{{hodo}}</a>
 <li> <a href="grammar-datte-reason.html#hearsay">@HI{{ndatte}}</a>
 <li> <a href="grammar-nagara-although.html">@HI{{nagara}}</a>
-<li> <a href="grammar-.html"></a>@HI{{tsumari}} ~ @HI{{toiu}}/@HI{{tsumari}} ~ @HI{{ttekotoda}}
+<li> <a href="grammar-tsumari.html#easysummary">@HI{{tsumari}} ~ @HI{{toiu}}/@HI{{tsumari}} ~ @HI{{ttekotoda}}</a>
 <li> <a href="grammar-particle-ne.html#yone">@HI{{yone}}</a>
 </ol>
 
