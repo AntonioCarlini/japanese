@@ -29,8 +29,6 @@
 @HI{{@EM{{toiukotoda}}}} and @HI{{@EM{{tonokotoda}}}} are used to report speech or what people in general say.
 The latter is more often used in written language.
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{market}}noo@KJ{{know}}raseniyoreba,kono@KJ{{road-way^path}}ha@KJ{{come^week}}kara@KJ{{craft^matter}}ga
@@ -40,7 +38,9 @@ The latter is more often used in written language.
       According to a city notice, from next week construction of this road will begin.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{[@KJ{{hand^paper}}]@KJ{{new}}shii@KJ{{attend^matter}}ga@KJ{{decide}}matta@EM{{tonokoto}},omedetougozaimasu.}}
@@ -49,7 +49,6 @@ The latter is more often used in written language.
       New job has been decided. Congratulations.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -80,7 +79,7 @@ The latter is more often used in written language.
 
 <ol>
 <li> @UCREF{{NKZM-N3G}}. (p. 36).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 

@@ -45,7 +45,7 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
 
 @BGRND{{}}
 <p>
-<a name="negative">The</a> @HI{{nai}} form indicates the speaker's intention of not doing something.
+<a name="negative">The</a> @HI{{nai}} form before @HI{{@EM{{tsumori}}}} indicates the speaker's intention of not doing something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -53,6 +53,19 @@ The @Vru{{}} form indicates the speaker's intention of doing something.
   </td> </tr>
   <tr class="en"> <td>
       I'm determined not to smoke from tomorrow.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+A negative intention may also be expressed by using @HI{{@EM{{tsumori}}hanai}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{attend^matter}}ga@KJ{{busy}}shiinode,@FG{{@KJ{{now^night}}:kon'ya}}no@KT{{pa-texi-}}ni@EM{{tsumori}}hanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm busy with work today so I'm not thinking of going to the party tonight.
   </td> </tr>
 </table>
 </p>
@@ -141,7 +154,7 @@ Compared with @Vyou{{}} @HI{{to @KJ{{think}}tteimasu}}, @Vru{{}}@HI{{@EM{{tsumor
 <li> @REF{{MNN-TR-II}}. (Chapter 31).
 <li> @REF{{JPOD101-LI-S1-002}}.
 <li> @UCREF{{NKZM-N3G}}. (p. 51).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 

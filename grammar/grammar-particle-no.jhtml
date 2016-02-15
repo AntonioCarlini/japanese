@@ -224,8 +224,8 @@ question marker in colloquial sentences.
 <li> @REF{{DOBJG}}. (p. 312).
 <li> @REF{{DOBJG}}. (p. 315).
 <li> @REF{{DOBJG}}. (p. 322).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}

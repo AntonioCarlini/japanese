@@ -16,7 +16,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{@N{{}}@PRT{{}}no}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@N{{}} @PRT{{}} no}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -60,10 +60,10 @@ When a word with the particle @HI{{ni}} attached is used to modify a noun, the @
 When a word with the particle @HI{{ga}} or @HI{{wo}} attached is used to modify a noun, @HI{{no}} is not appended.
 </p>
 
-> References </h2>
+<h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
 </ol>
 
 @include{{"grammar-footer.inc"}}

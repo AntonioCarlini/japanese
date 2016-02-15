@@ -88,7 +88,7 @@ The point in time at which the change starts may be in the past.
 <ol>
 <li> @REF{{DOBJG}}. (p. 151).
 <li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
 </ol>
 
 @include{{"grammar-footer.inc"}}

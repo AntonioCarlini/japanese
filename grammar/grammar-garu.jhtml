@@ -29,8 +29,6 @@
 <p>
 <a name="garu">@HI{{garu}}</a> is an auxiliary that indicates that someone other than the speaker is showing signs of something.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{child^submit}}ga@KJ{{sleep}}tagatteiru.}}
@@ -39,7 +37,9 @@
       My child wants to go to sleep.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{above^rice*field}}sanha@KT{{aisukuri-mu}}wo@KJ{{eat}}betagarimashita.}}
@@ -48,7 +48,6 @@
       Mr. Ueda wanted to eat ice-cream.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 @BGRND{{}}
@@ -93,7 +92,7 @@ that subject is marked with @HI{{wo}} rather than @HI{{ga}}.
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 123).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 4).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 4).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 

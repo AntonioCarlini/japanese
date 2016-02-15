@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{tokoro}}" grammar="@HI{{tokoro}}"}}
+@GRMIDX{{index="@HI{{tokoro}} (when)" grammar="@HI{{tokoro}} (when)"}}
 
 <body>
 
@@ -25,8 +25,6 @@
 @HI{{tokoro}} in this sentence pattern means "when". In this usage it can be used only in conjunction with
 certain words in polite situations.
 
-<ol>
-<li>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{o@KJ{{busy}}shii@EM{{tokoro}},sumimasen'. chottoo@KJ{{petition}}igaarundesuga.}}
@@ -35,7 +33,9 @@ certain words in polite situations.
     I'm sorry to bother you when you're so busy, but I have a little favour to ask.
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{o@KJ{{rest}}mino@EM{{tokoro}},@FG{{@KJ{{hand^transmit}}:tetsuda}}ttekudasatte,arigatougozaimashita.}}
@@ -44,7 +44,6 @@ certain words in polite situations.
     Thank you very much for helping me during your time off.
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -52,7 +51,7 @@ certain words in polite situations.
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 2).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 </ol>
 
 @include{{"grammar-footer.inc"}}
