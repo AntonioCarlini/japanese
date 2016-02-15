@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{nakutehanaranai}}}} expresses the idea of obligation: something must be done or is definitely necessary.
 It is the same as <a href="grammar-nakereba-naranai.html">@HI{{nakerebanaranai}}</a>.
@@ -39,20 +42,24 @@ It is the same as <a href="grammar-nakereba-naranai.html">@HI{{nakerebanaranai}}
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 @HI{{@EM{{nakutehaikenai}}}} also expresses the same idea of obligation.
 </p>
 
+@BGRND{{}}
 <p>
 The negative form of this pattern is <a href="grammar-nakute-mo-kamawanai.html">@HI{{nakutemokamawanai}}</a>.
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 7).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 7).
 </ol>
 
 @include{{"grammar-footer.inc"}}
