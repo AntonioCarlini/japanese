@@ -16,18 +16,20 @@ NSM-N1L        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 
 NSM-N1V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{word}}@KJ{{glossary}} | Nihongo So-Matome N1 Vocabulary
 NSM-N1G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{sentence}}@KJ{{method}} | Nihongo So-Matome N1 Grammar
 NSM-N1R        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{read}}@KJ{{unravel}} | Nihongo So-Matome N1 Reading Comprehension
+NKZM-N3K       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sino-}}@KJ{{character}} N3 | New Kanzen Master Kanji N3
 NKZM-N3G       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sentence^method}} N3 | New Kanzen Master Grammar N3
-NKZM-N3L       | New Kanzen Master N3 Listening |
-NKZM-N2K       | New Kanzen Master N2 Kanji |
-NKZM-N2V       | New Kanzen Master N2 Vocabulary |
+NKZM-N3L       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{listen}}@KJ{{unravel}} N3 | New Kanzen Master Listening N3
+NKZM-N3R       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{read}}@KJ{{unravel}} N3 | New Kanzen Master Reading Comprehension N3
+NKZM-N2K       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sino-}}@KJ{{character}} N2 | New Kanzen Master Kanji N2
+NKZM-N2V       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{word}}@KJ{{glossary}} N2 | New Kanzen Master Vocabulary N2
 NKZM-N2G       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sentence^method}} N2 | New Kanzen Master Grammar N2
-NKZM-N2L       | New Kanzen Master N2 Listening |
-NKZM-N2R       | New Kanzen Master N2 Reading Comprehension |
-NKZM-N1K       | New Kanzen Master N1 Kanji |
-NKZM-N1V       | New Kanzen Master N1 Vocabulary |
-NKZM-N1G       | New Kanzen Master N1 Grammar |
-NKZM-N1L       | New Kanzen Master N1 Listening |
-NKZM-N1R       | New Kanzen Master N1 Reading Comprehension |
+NKZM-N2L       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{listen}}@KJ{{unravel}} N2 | New Kanzen Master Listening N2
+NKZM-N2R       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{read}}@KJ{{unravel}} N2 | New Kanzen Master Reading Comprehension N2
+NKZM-N1K       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sino-}}@KJ{{character}} N1 | New Kanzen Master Kanji N1
+NKZM-N1V       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{word}}@KJ{{glossary}} N1 | New Kanzen Master Vocabulary N1
+NKZM-N1G       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{sentence}}@KJ{{method}} N1 | New Kanzen Master Grammar N1
+NKZM-N1L       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{listen}}@KJ{{unravel}} N1 | New Kanzen Master Listening N1
+NKZM-N1R       | @KJ{{new^perfect^whole}}@KT{{masuta-}}@KJ{{read}}@KJ{{unravel}} N1 | New Kanzen Master Reading Comprehension N1
 DOBJG          | Dictionary of Basic Japanese Grammar |
 DOIJG          | Dictionary of Intermediate Japanese Grammar |
 DOAJG          | Dictionary of Advanced Japanese Grammar |
