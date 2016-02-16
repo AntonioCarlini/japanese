@@ -7,11 +7,11 @@ NSM-N3V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N3 
 NSM-N3G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N3 @KJ{{sentence}}@KJ{{method}} | Nihongo So-Matome N3 Grammar
 NSM-N2R        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N3 @KJ{{read}}@KJ{{unravel}} | Nihongo So-Matome N3 Reading Comprehension
 NSM-N2K        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{sino-}}@KJ{{character}} | Nihongo So-Matome N2 Kanji
-NSM-N2L        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 | Nihongo So-Matome N2 Listening Comprehension
-NSM-N2V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 | Nihongo So-Matome N2 Vocabulary
-NSM-N2G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 | Nihongo So-Matome N2 Grammar
-NSM-N2R        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N3 @KJ{{read}}@KJ{{unravel}} | Nihongo So-Matome N2 Reading Comprehension
-NSM-N1K        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{sino-}}@KJ{{character}} | Nihongo So-Matome N1 Kanji
+NSM-N2L        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{listen}}@KJ{{unravel}} | Nihongo So-Matome N2 Listening Comprehension
+NSM-N2V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{word}}@KJ{{glossary}} | Nihongo So-Matome N2 Vocabulary
+NSM-N2G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{sentence}}@KJ{{method}} | Nihongo So-Matome N2 Grammar
+NSM-N2R        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N2 @KJ{{read}}@KJ{{unravel}} | Nihongo So-Matome N2 Reading Comprehension
+NSM-N1K        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{sino-}}@KJ{{character}} | Nihongo So-Matome N1 Kanji
 NSM-N1L        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{listen}}@KJ{{unravel}} | Nihongo So-Matome N1 Listening Comprehension
 NSM-N1V        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{word}}@KJ{{glossary}} | Nihongo So-Matome N1 Vocabulary
 NSM-N1G        | @KJ{{day}}@KJ{{book}}@KJ{{word}}@KJ{{general}}@HI{{matome}} N1 @KJ{{sentence}}@KJ{{method}} | Nihongo So-Matome N1 Grammar
