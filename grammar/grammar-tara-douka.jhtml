@@ -25,8 +25,6 @@
 This sentence pattern is used when offering advice or a recommendation of the form "wouldn't it be
 better to?". The literal meaning is "how would you feel if you do something?".
 
-<ol>
-<li>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KJ{{tired}}reteirumitaidesune. @KJ{{few}}shi@KJ{{rest}}ndaradoudesuka.}}
@@ -35,7 +33,9 @@ better to?". The literal meaning is "how would you feel if you do something?".
       You look tired. Wouldn't it be better to take a little rest?
   </td> </tr>
 </table>
-<li>
+</p>
+
+<p>
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{sarada}}mo@KJ{{eat}}betaradoudesuka.}}
@@ -44,7 +44,6 @@ better to?". The literal meaning is "how would you feel if you do something?".
       Why don't you eat salad too?
   </td> </tr>
 </table>
-</ol>
 </p>
 
 <h2> Notes </h2>
@@ -67,7 +66,7 @@ It is therefore stronger than @Vta{{}}@HI{{radoudesuka}}.
 <ol>
 <li> @UCREF{{NKZM-N3G}}. (p. 47).
 <li> @REF{{DOBJG}}. (p. 457).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 11).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 11).
 </ol>
 
 @include{{"grammar-footer.inc"}}
