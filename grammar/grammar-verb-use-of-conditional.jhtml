@@ -100,7 +100,7 @@ and is in the past.
 
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 35).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

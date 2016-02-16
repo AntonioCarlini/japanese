@@ -220,7 +220,7 @@ If this is not the case then this sentence pattern cannot be used.
 <li> @REF{{AAP}}. (p. 100).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 2).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 </ol>
 
 @include{{"grammar-footer.inc"}}

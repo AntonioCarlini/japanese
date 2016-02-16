@@ -45,7 +45,7 @@ This sentence pattern is used to indicate that something happens from time to ti
 
 <ol>
 <li> @REF{{DOBJG}}. (page 198).
-<li> @UCREF{{MNN-INT-TR-I}}. (Chapter 10).
+<li> @REF{{MNN-INT-TR-I}}. (Chapter 10).
 </ol>
 
 @include{{"grammar-footer.inc"}}
