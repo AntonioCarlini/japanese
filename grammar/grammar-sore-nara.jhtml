@@ -63,7 +63,7 @@ Unlike <a href="grammar-sore-dewa.html">@HI{{soredeha}}</a>, @HI{{@EM{{sorenara}
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 419).
-<li> @UCREF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
