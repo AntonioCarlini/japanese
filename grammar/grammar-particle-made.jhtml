@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{made}}" grammar="@HI{{made}}"}}
+@GRMIDX{{index="@HI{{mademonai}}" grammar="@HI{{mademonai}}"}}
 
 <body>
 
@@ -80,6 +81,35 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+When <a name="limitation">@HI{{@EM{{made}}}}</a> comes at the end of a sentence, it can indicate a limitation or an extent.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^day}}hakoko@EM{{made}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      That's all for today.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="emphasis">@HI{{@EM{{made}}monai}}</a> following a verb root, emphasises an extent or degree.
+The phrase may be translated as "there is no need to".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{bright^day}}no@KT{{pa-texi-}}nihawazawaza@KJ{{going}}ku@EM{{made}}monai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no need to go out of your way to attend tomorrow's party.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -104,7 +134,7 @@ When X refers to a duration of time, then "X@HI{{@EM{{made}}}}" means "up to and
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 65).
+<li> @REF{{AAP}}. (p. 65).
 <li> @REF{{MNN-TR-I}}. (Chapter 4).
 <li> @REF{{DOBJG}}. (p. 225).
 <li> @REF{{NKZM-N3G}}. (p. 59).
