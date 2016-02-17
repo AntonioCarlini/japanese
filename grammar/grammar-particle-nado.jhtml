@@ -86,6 +86,34 @@ If the main predicate is negated, @HI{{@EM{{nado}}}} can indicate a sense of hum
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="negative">@HI{{@EM{{nado}}}}</a> can emphasise the negative aspect of a situation, especially in a belittling manner.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}san@EM{{nado}}ha,totemo@FG{{@KJ{{company^long}}:shachou}}nihanarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There's no way that anyone like Tanaka could become president of the company.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="impossible">@HI{{@EM{{nado}}}}</a> can emphasise the impossibility of the situation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{son'na@KJ{{tall}}imono@EM{{nado}},itadakuwakenihaikimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I could never accept such an expensive gift.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -97,7 +125,7 @@ If the main predicate is negated, @HI{{@EM{{nado}}}} can indicate a sense of hum
 <h2> References </h2>
 
 <ol>
-<li> @UCREF{{AAP}}. (p. 43).
+<li> @REF{{AAP}}. (p. 43).
 <li> @REF{{DOBJG}}. (p. 267).
 <li> @REF{{NKZM-N3G}}. (p. 59).
 <li> @REF{{NKZM-N2G}}. (p. 96).
