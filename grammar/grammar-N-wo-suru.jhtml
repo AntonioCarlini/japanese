@@ -42,7 +42,7 @@ Some examples are:
 
 <ol>
 <li> @REF{{MNN-TR-I}}. (Chapter 6).
-<li> @UCREF{{JACG}}. (p. 571).  
+<li> @REF{{JACG-2001}}. (p. 571).  
 </ol>
 
 @include{{"grammar-footer.inc"}}
