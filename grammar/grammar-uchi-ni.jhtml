@@ -29,8 +29,6 @@
 
 <p>
 @HI{{@EM{{uchini}}}} expresses the general time in which a state or action occurs.
-The @HI{{@EM{{uchini}}}} clause may express a time limit beyond which an action will become difficult.
-Or it may indicate a time during which a change becomes apparent. In this latter case the following clause should not express intention.
 </p>
 
 @BGRNDSTART{{}}
@@ -91,6 +89,38 @@ Or it may indicate a time during which a change becomes apparent. In this latter
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+The @HI{{@EM{{uchini}}}} clause may express a time limit beyond which an action will become difficult.
+The meaning in this case is "do something before the situation changes".
+The main clause should express a volitional action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}niiru@EM{{uchini}}@FG{{@KJ{{one^degrees}}:ichido}}@FG{{@KJ{{wealth^gentleman^mountain}}:fujisan}}ni@FG{{@KJ{{ascend}}:no}}bottemitai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While I'm in Japan I'd like to have a go at climbing Mt. Fuji.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{uchini}}}} may indicate a time during which a change becomes apparent. In this latter case the following clause should not express intention
+or volition. The meaning here is that while the state expressed by the @HI{{@EM{{uchini}}}} clause continues, the action or state expressed by the
+main clause happens at the same time.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sound^music}}:ongaku}}wo@FG{{@KJ{{hear}}:ki}}iteiru@EM{{uchini}}@FG{{@KJ{{sleep}}:nemu}}tteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While listening to the music, I fell asleep.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -108,7 +138,7 @@ The expression before @HI{{@EM{{uchini}}}} is always non-past even if the senten
 <ol>
 <li> @REF{{DOBJG}}. (p. 512).
 <li> @REF{{NKZM-N2G}}. (p. 12).
-<li> @UCREF{{NKZM-N3G}}. (p. 16).
+<li> @REF{{NKZM-N3G}}. (p. 16).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
