@@ -45,7 +45,7 @@ This sentence pattern is used to express a request.
 
 <ol>
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
-<li> @UCREF{{NKZM-N3G}}. (p. 71)
+<li> @REF{{NKZM-N3G}}. (p. 71)
 </ol>
 
 @include{{"grammar-footer.inc"}}
