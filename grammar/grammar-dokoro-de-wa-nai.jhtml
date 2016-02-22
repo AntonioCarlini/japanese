@@ -58,8 +58,8 @@ occurs at the end of a sentence.
 <ol>
 <li> @REF{{DOAJG}}. (p. 85).
 <li> @REF{{NKZM-N2G}}. (p. 56).
-<li> @UCREF{{NKZM-N2G}}. (p. 83).
-<li> @UCREF{{NKZM-N2G}}. (p. 132).
+<li> @REF{{NKZM-N2G}}. (p. 83).
+<li> @REF{{NKZM-N2G}}. (p. 132).
 </ol>
 
 @include{{"grammar-footer.inc"}}
