@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-To directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to@KJ{{say}}u}}.
+<a name="direct-quote">To</a> directly quote what someone says or has said, repeat their words exactly and follow with @HI{{to@KJ{{say}}u}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@ To directly quote what someone says or has said, repeat their words exactly and 
 
 @BGRND{{}}
 <p>
-To quote indirectly, use the plain form before @HI{{to@KJ{{say}}u}}. The tense of the quoted text is 
+<a name="indirect-quote">To</a> quote indirectly, use the plain form before @HI{{to@KJ{{say}}u}}. The tense of the quoted text is 
 unaffected by the tense of the main sentence.
 
 <table class="sentence">
@@ -54,7 +54,7 @@ unaffected by the tense of the main sentence.
 
 @BGRND{{}}
 <p>
-If it appears at the end of a sentence @HI{{to@KJ{{say}}u}} indicates hearsay ("I heard that ...", "It is said that ...").
+<a name="hearsay">If</a> it appears at the end of a sentence @HI{{to@KJ{{say}}u}} indicates hearsay ("I heard that ...", "It is said that ...").
 This form is most often used in written Japanese.
 
 <table class="sentence">
@@ -63,6 +63,20 @@ This form is most often used in written Japanese.
   </td> </tr>
   <tr class="en"> <td>
       Long ago, this neighbourhood used to be fields, I heard.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="identification">@HI{{to@KJ{{say}}u}}</a> can be used to mark information which identifies or explains a following noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@KJ{{seven^person]}}no@KJ{{waiter}}]@EM{{toiu}}@FG{{@KJ{{reflect^brush-stroke}}:eiga}}wo@KJ{{see}}takotogaarimasuka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Have you ever seen the film called <em>Seven Samurai</em>?
   </td> </tr>
 </table>
 </p>
@@ -77,6 +91,7 @@ This form is most often used in written Japanese.
 <li> @REF{{MNN-TR-I}}. (Chapter 21).
 <li> @REF{{DOBJG}}. (p. 486).
 <li> @REF{{NKZM-N3G}}. (p. 37).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -141,7 +141,7 @@
 <h2><a class="navtarget" name="w2d4">_</a> @KJ{{No.}}2@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{toiu}}
+<li> <a href="grammar-to-iu.html#identification">@HI{{toiu}}</a>
 <li> <a href="grammar-to-iu-no-wa.html">@HI{{to@KJ{{say}}noha}}</a>
 <li> @HI{{toiu no}}
 </ol>
@@ -171,7 +171,8 @@
 
 <ol>
 <li> <a href="grammar-te-mo.html"> @Vte{{}}@HI{{mo}} ... </a>
-<li> @HI{{donnnani}}/@HI{{ikura}}
+<li> @HI{{donnnani}} @MIDDOT{{}}
+     <a href="grammar-ikura.html#temo"> @HI{{ikura}} </a>
 <li> <a href="grammar-verb-use-of-zu.html">@Vnaistem{{}}@HI{{zuni}}</a>
 </ol>
 
