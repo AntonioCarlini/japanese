@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ge}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ge}}" grammar="@HI{{ge}}"}}
+
+<body>
+
+<h1>@HI{{ge}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{ge}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{ge}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ge}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ge}}}} attaches to nouns or adjectives to indicate "having an air of" or "a slight feeling of".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ground^quake}}:jishin}}no@FG{{@KJ{{shadow^echo}}:eikyou}}de@FG{{@KJ{{craft^location}}:koujou}}wo@FG{{@KJ{{closed}}:to}}jirukotoninatta
+      to@FG{{@KJ{{explanation^bright}}:setsumei}}suru@KJ{{company^long}}ha@FG{{@KJ{{repent}}:ku}}yashi@EM{{ge}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The company president looked mortified as he explained that the factory had to be closed as a result of the earthquake. 
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 14).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

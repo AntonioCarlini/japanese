@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nodehanaidarouka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nodehanaidarouka}}" grammar="@HI{{nodehanaidarouka}}"}}
+
+<body>
+
+<h1>@HI{{nodehanaidarouka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{nodehanaidarouka}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{nodehanaidarouka}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{nodehanaidarouka}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{na@EM{{nodehanaidarouka}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nodehanaidarouka}}}} is used when the speaker wishes to indicate that they believe something is probably true
+but they are unwilling to commit to a definite conclusion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}@FG{{@KJ{{sutra^finish}}:keizai}}no@FG{{@KJ{{-times^restore}}:kaifuku}}niha@KJ{{few}}shi@KJ{{time^interval}}gakakaru@EM{{nodehanaidarouka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think it will probably take a little more time before the Japanese economy recovers, won't it?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 14).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

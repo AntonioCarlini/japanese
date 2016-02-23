@@ -260,14 +260,14 @@
 <li> <a href="grammar-sai.html">@KJ{{occasion}}</a>
 <li> <a href="grammar-to-itta.html">@N1{{}}@HI{{toitta}}@N2{{}}</a>
 <li> <a href="grammar-ni-watatte.html">@HI{{ni}}(@HI{{mo}})@HI{{watatte}}</a>
-<li> <a href="grammar-.html"></a>@HI{{uchini}}
+<li> <a href="grammar-uchi-ni.html">@HI{{uchini}}</a>
 <li> <a href="grammar-ni-totte.html">@HI{{nitotte}}</a>
 <li> <a href="grammar-particle-to-wa.html">@HI{{toha}}</a>
 <li> <a href="grammar-ni-oite.html">@HI{{nioite}}</a>
-<li> <a href="grammar-.html"></a>@HI{{wakeda}}/@HI{{wakedearu}}
-<li> <a href="grammar-.html"></a>@HI{{noda}}/@HI{{nodehanaidarouka}}
+<li> <a href="grammar-wake-da.html">@HI{{wakeda}}</a>/<a href="grammar-wake-da.html">@HI{{wakedearu}}</a>
+<li> @HI{{noda}}/<a href="grammar-no-de-wa-nai-darou-ka.html">@HI{{nodehanaidarouka}}</a>
 <li> <a href="grammar-particle-kke.html">@HI{{kke}}</a>
-<li> <a href="grammar-.html"></a>@HI{{ge}}
+<li> <a href="grammar-ge.html">@HI{{ge}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter15">_</a>Chapter 15</h2>
