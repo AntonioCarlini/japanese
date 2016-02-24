@@ -96,6 +96,7 @@ JHTML_SRCS += grammar-gachi.jhtml
 JHTML_SRCS += grammar-garu.jhtml
 JHTML_SRCS += grammar-gatai-suffix.jhtml
 JHTML_SRCS += grammar-ge.jhtml
+JHTML_SRCS += grammar-gimi.jhtml
 JHTML_SRCS += grammar-giving-receiving-actions.jhtml
 JHTML_SRCS += grammar-giving-receiving.jhtml
 JHTML_SRCS += grammar-goro.jhtml

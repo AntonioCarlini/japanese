@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{gimi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{gimi}}" grammar="@HI{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}}} attaches to nouns or the @HI{{masu}}-stem of a verb. It indicates a "slight tendency towards".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{remainder^profession}}:zangyou}}@FG{{@KJ{{continue}}:tsudu}}kide@FG{{@KJ{{tired}}:tsuka}}re@EM{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've been feeling rather tired because of the continuous overtime work.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
