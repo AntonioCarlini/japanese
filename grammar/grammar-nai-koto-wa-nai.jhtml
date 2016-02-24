@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{naikotohanai}}" grammar="@HI{{naikotohanai}}"}}
+@GRMIDX{{index="@HI{{naikotomonai}}" grammar="@HI{{naikotomonai}}"}}
 
 <body>
 
@@ -28,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{naikotohanai}}}} is used to express a mild affirmative using a double negative. It can be translated
+<a name="affirmative">@HI{{@EM{{naikotohanai}}}}</a> is used to express a mild affirmative using a double negative. It can be translated
 as "I cannot say that ~ never happens".
 
 <table class="sentence">
@@ -47,14 +48,25 @@ as "I cannot say that ~ never happens".
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="milder">The</a> alternative form @HI{{@EM{{naikotomonai}}}} (with @HI{{ha}} replaced by @HI{{mo}})
+has the same meaning but the assertion is weaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{meeting^company}}wo@FG{{@KJ{{stop}}:ya}}meru@FG{{@KJ{{person}}:hito}}no@KJ{{spirit^hold}}chigawakara@EM{{naikotomonai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I understand, to some extent, why he has quit this company.
+  </td> </tr>
+</table>
+</p>
+
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
-
-<p>
-The alternative form @HI{{@EM{{naikotomonai}}}} (with @HI{{ha}} replaced by @HI{{mo}})
-has the same meaning but the assertion is weaker.
-</p>
 
 <p>
 This phrase is used to respond to something said by the other party. It cannot be used to start a conversation.
