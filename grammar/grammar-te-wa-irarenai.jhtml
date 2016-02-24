@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="@HI{{tehairarenai}}" grammar="@HI{{@Vte{{}}hairarenai}}"}}
+@GRMIDX{{index="@HI{{terarenai}}" grammar="@HI{{@Vte{{}}rarenai}}"}}
+@GRMIDX{{index="@HI{{teran'nai}}" grammar="@HI{{@Vte{{}}ran'nai}}"}}
 @GRMIDX{{index="@HI{{naidehairarenai}}" grammar="@HI{{@Vnai{{}}dehairarenai}}"}}
 @GRMIDX{{index="@HI{{zunihairarenai}}" grammar="@HI{{@Vnaistem{{}}zunihairarenai}}"}}
 
@@ -74,12 +76,17 @@ The literal meaning is "cannot remain not doing".
 
 <h2> Notes </h2>
 
+<p>
+In @HI{{@EM{{@Vte{{}}hairarenai}}}}, the @HI{{ha}} may drop. An alternative form is @HI{{@EM{{@Vte{{}}rarenai}}}}, which, in informal speech, may further abbreviate to @HI{{@EM{{@Vte{{}}ran'nai}}}}.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 609).
 <li> @REF{{NKZM-N2G}}. (p. 113).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
