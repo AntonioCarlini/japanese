@@ -30,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-When the predicate in @S2{{}} (the main clause) is not emotive and the subjects of both sentences are the same, @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
+<a name="as-soon-as">When</a> the predicate in @S2{{}} (the main clause) is not emotive and the subjects of both sentences are the same, @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
 carries the meaning of "as soon as" or "the moment that". In this case @S1{{}} must be in the past.
 This usage conveys a light element of surprise.
 
@@ -46,7 +46,7 @@ This usage conveys a light element of surprise.
 
 @BGRND{{}}
 <p>
-When the predicate in @S2{{}} (the main clause) is emotive , @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
+<a name="when">When</a> the predicate in @S2{{}} (the main clause) is emotive , @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}uto}}}}
 carries the meaning of "when I think that". In this case @S1{{}} may be either past or nonpast.
 
 <table class="sentence">
@@ -60,7 +60,7 @@ carries the meaning of "when I think that". In this case @S1{{}} may be either p
 </p>
 
 <p>
-If the context is a recollection, the tense of the main clause can be past.
+<a name="recollection">If</a> the context is a recollection, the tense of the main clause can be past.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,8 +74,17 @@ If the context is a recollection, the tense of the main clause can be past.
 
 @BGRND{{}}
 <p>
-When the predicate of @S2{{}} is non-emotive, the alternative equivalent expressions @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}ttara}}}}
-and @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}eba}}}} may be used. Neither of these are acceptable if @S2{{}}'s predicate is emotive.
+<a name="omottara">When</a> the predicate of @S2{{}} is non-emotive, the alternative equivalent expressions @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}ttara}}}}
+and @HI{{@EM{{kato@FG{{@KJ{{think}}:omo}}eba}}}} may be used. Neither of these is acceptable if @S2{{}}'s predicate is emotive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@KJ{{person}}ha@KJ{{busy}}shiihitode,@KJ{{come}}ta@EM{{kato@KJ{{think}}ttara}},mou@KJ{{homecoming}}tteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is a very busy person. Just when I thought he had arrived, he had already left.
+  </td> </tr>
+</table>
 </p>
 
 @BGRNDEND{{}}
@@ -92,6 +101,7 @@ It also cannot be followed by a clause expressing the speaker's hope, intention 
 <ol>
 <li> @REF{{NKZM-N2G}}. (p. 9).
 <li> @REF{{DOAJG}}. (p. 206).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
