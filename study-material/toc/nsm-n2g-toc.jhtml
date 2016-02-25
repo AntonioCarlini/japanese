@@ -200,7 +200,8 @@
 <li> <a href="grammar-wake-da.html">@HI{{wakeda}}</a>
 <li> <a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>
 <li> <a href="grammar-wake-ga-nai.html">@HI{{wakeganai}}</a>
-<li> <a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a>
+<li> <a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a> @MIDDOT{{}}
+     <a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenimoikanai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d3">_</a> @KJ{{No.}}3@KJ{{week}}3@KJ{{day^eye}} </h2>

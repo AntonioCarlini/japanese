@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{wakenihaikanai}}" grammar="@HI{{wakenihaikanai}}"}}
+@GRMIDX{{index="@HI{{wakenimoikanai}}" grammar="@HI{{wakenimoikanai}}"}}
 @GRMIDX{{index="@HI{{naiwakenihaikanai}}" grammar="@HI{{naiwakenihaikanai}}"}}
 
 <body>
@@ -84,6 +85,10 @@ for example it is late at night. It is in fact likely that the speaker does know
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+@HI{{@EM{{wakenimoikanai}}}} carries essentially the same meaning as @HI{{@EM{{wakenihaikanai}}}}.
+</p>
 
 <h2> References </h2>
 
