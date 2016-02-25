@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{koso}}" grammar="@HI{{koso}}"}}
+@GRMIDX{{index="@HI{{tekoso}}" grammar="@Vte{{}}@HI{{koso}}"}}
 
 <body>
 
@@ -27,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{koso}}}} is a particle that emphasises the word, phrase or clause before it.
+<a name="emphasis">@HI{{@EM{{koso}}}}</a> is a particle that emphasises the word, phrase or clause before it.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,7 +42,22 @@
 
 @BGRND{{}}
 <p>
-The idiomatic expression @HI{{kochira}}@HI{{@EM{{koso}}}} means "not at all, the pleasure is all mine".
+<a name="after">@Vte{{}}@HI{{@EM{{koso}}}}</a> means "now that" or "after".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{parent}}:oya}}ninatte@EM{{koso}},@KJ{{parent}}no@FG{{@KJ{{suffering&^labor}}:kurou}}gawakaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Now that I am a parent, I realise the difficulties of being one.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+<a name="not-at-all">The</a> idiomatic expression @HI{{kochira}}@HI{{@EM{{koso}}}} means "not at all, the pleasure is all mine".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -75,6 +91,7 @@ may optionally drop when followed by @HI{{@EM{{koso}}}}, but other particles are
 <li> @REF{{AAP}}. (p. 127).
 <li> @REF{{NKZM-N3G}}. (p. 58).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
