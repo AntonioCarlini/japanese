@@ -7,7 +7,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{nouedeha}}" grammar="@HI{{no@FG{{@KJ{{above}}:ue}}deha}}"}}
+@GRMIDX{{index="@HI{{nouedeha}}" grammar="@N{{}}@HI{{no@FG{{@KJ{{above}}:ue}}deha}}"}}
+@GRMIDX{{index="@HI{{nouedemo}}" grammar="@N{{}}@HI{{no@FG{{@KJ{{above}}:ue}}demo}}"}}
+@GRMIDX{{index="@HI{{jou}}" grammar="@N{{}}@HI{{@FG{{@KJ{{above}}:jou}}}}"}}
+@GRMIDX{{index="@HI{{jouha}}" grammar="@N{{}}@HI{{@FG{{@KJ{{above}}:jou}}ha}}"}}
+@GRMIDX{{index="@HI{{joumo}}" grammar="@N{{}}@HI{{@FG{{@KJ{{above}}:jou}}mo}}"}}
 
 <body>
 
@@ -16,7 +20,11 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{no@FG{{@KJ{{above}}:ue}}deha}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{no@FG{{@KJ{{above}}:ue}}deha}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{no@FG{{@KJ{{above}}:ue}}demo}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{@FG{{@KJ{{above}}:jou}}}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{@FG{{@KJ{{above}}:jou}}ha}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{@FG{{@KJ{{above}}:jou}}mo}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -37,6 +45,20 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:jou}}de}}}} has the same meaning, but the reading of @KJ{{above}} is different.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{logic^argument}}:riron}}@FG{{@KJ{{above}}:jou}}dehadekiruhadattaga,@FG{{@KJ{{reality^verification}}:jikken}}deha@FG{{@KJ{{lose^failure}}:shippai}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Theoretically it should have been possible but the experiment failed.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -49,6 +71,7 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 312).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

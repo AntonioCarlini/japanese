@@ -244,8 +244,9 @@
 <ol>
 <li> <a href="grammar-ue-ni.html">@FG{{@KJ{{above}}:ue}}@HI{{ni}}</a>
 <li> <a href="grammar-ue-de.html">@FG{{@KJ{{above}}:ue}}@HI{{de}}</a>
-<li> <a href=""></a> @FG{{@KJ{{above}}:ue}}@HI{{ha}}
-<li> <a href=""></a> @HI{{no}}@FG{{@KJ{{above}}:ue}}@HI{{deha}}
+<li> <a href="grammar-ue-wa.html">@FG{{@KJ{{above}}:ue}}@HI{{ha}}</a>
+<li> <a href="grammar-no-ue-de-wa.html">@N{{}}@HI{{no}}@FG{{@KJ{{above}}:ue}}@HI{{deha}}</a> @MIDDOT{{}}
+     <a href="grammar-no-ue-de-wa.html">@N{{}}@FG{{@KJ{{above}}:ue}}@HI{{ha}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d2">_</a> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </h2>

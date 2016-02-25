@@ -596,6 +596,7 @@ JHTML_SRCS += grammar-tte-topic.jhtml
 JHTML_SRCS += grammar-uchi-ni.jhtml
 JHTML_SRCS += grammar-ue-de.jhtml
 JHTML_SRCS += grammar-ue-ni.jhtml
+JHTML_SRCS += grammar-ue-wa.jhtml
 JHTML_SRCS += grammar-verb-conjugations.jhtml
 JHTML_SRCS += grammar-verb-contractions.jhtml
 JHTML_SRCS += grammar-verb-formation-causative-passive.jhtml
