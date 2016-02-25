@@ -252,10 +252,11 @@
 <h2><a class="navtarget" name="w4d2">_</a> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-muke.html">@FG{{@KJ{{yonder}}:mu}}@HI{{ke}}</a>
+<li> <a href="grammar-muke.html">@FG{{@KJ{{yonder}}:mu}}@HI{{ke}}</a> @MIDDOT{{}}
+     <a href="grammar-muki.html">@FG{{@KJ{{yonder}}:mu}}@HI{{ki}}</a>
 <li> <a href="grammar-shidai.html#depends-on">@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}</a>
 <li> <a href="grammar-shidai.html#as-soon-as">@FG{{@KJ{{next^No.}}:shidai}}</a>
-<li> <a href=""></a> @FG{{@KJ{{next^No.}}:shidai}}@HI{{desu}}
+<li> <a href="grammar-shidai.html#information">@FG{{@KJ{{next^No.}}:shidai}}@HI{{desu}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d3">_</a> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </h2>

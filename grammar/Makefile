@@ -230,6 +230,7 @@ JHTML_SRCS += grammar-mono-de-wa-nai.jhtml
 JHTML_SRCS += grammar-motto-mo.jhtml
 JHTML_SRCS += grammar-mou.jhtml
 JHTML_SRCS += grammar-muke.jhtml
+JHTML_SRCS += grammar-muki.jhtml
 JHTML_SRCS += grammar-mushiro.jhtml
 JHTML_SRCS += grammar-n-desu.jhtml
 JHTML_SRCS += grammar-N-no-you.jhtml

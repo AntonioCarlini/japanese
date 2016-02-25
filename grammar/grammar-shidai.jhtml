@@ -23,6 +23,7 @@
 <li> @FORMATION{{@NS{{}}@FG{{@KJ{{next^No.}}:shidai}}}}
 <li> @FORMATION{{(X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}}}
 <li> @FORMATION{{(X@HI{{ha}})@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{de}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@FG{{@KJ{{next^No.}}:shidai}}desu}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -31,7 +32,7 @@
 
 @BGRND{{}}
 <p>
-<a name="as-soon-as">@Vmasu{{}}@FG{{@KJ{{next^No.}}:shidai}}</a> means "as soon as".
+<a name="as-soon-as">@Vmasustem{{}}@FG{{@KJ{{next^No.}}:shidai}}</a> means "as soon as".
 The main clause should  express the speaker's hope, intention or encouragement.
 
 <table class="sentence">
@@ -62,7 +63,7 @@ The main clause should  express the speaker's hope, intention or encouragement.
 
 @BGRND{{}}
 <p>
-@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}} means "depends on".
+<a name="depends-on">@N{{}}@FG{{@KJ{{next^No.}}:shidai}}@HI{{da}}</a> means "depends on".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -104,6 +105,20 @@ As noted in the formation, the use of this structure with honorific polite verbs
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="information"@Vplain{{}}@FG{{@KJ{{next^No.}}:shidai}}</a>@HI{{desu}} presents information after an explanation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{day^time}}:nichiji}}no@FG{{@KJ{{unusual^grow*late}}:henkou}}nitsuite,@FG{{@KJ{{reformation}}:arata}}meteo@FG{{@KJ{{know}}:shi}}rasesuru@FG{{@KJ{{next^No.}}:shidai}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I will inform you later of any changes in the time and place of the meeting.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -113,7 +128,7 @@ When @FG{{@KJ{{next^No.}}:shidai}} is used, the main clause cannot be in the pas
 </p>
 
 <p>
-@Vmasu{{}}@FG{{@KJ{{next^No.}}:shidai}} cannot use @HI{{suru}}, possibly because this would give rise to a difficult to pronounce @HI{{shishi}}.
+@Vmasustem{{}}@FG{{@KJ{{next^No.}}:shidai}} cannot use @HI{{suru}}, possibly because this would give rise to a difficult to pronounce @HI{{shishi}}.
 </p>
 
 <h2> References </h2>

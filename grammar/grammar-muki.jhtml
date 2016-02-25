@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{muki}}" grammar="@HI{{@FG{{@KJ{{yonder}}:mu}}ki}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}kida}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}kino}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{@FG{{@KJ{{yonder}}:mu}}kini}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{yonder}}:mu}}ke}}}} is used as a suffix meaning "suitable for".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{store}}:mise}}no@FG{{@KJ{{fee^logic}}:ryouri}}ha,@FG{{@KJ{{quantity}}:ryou}}ga@FG{{@KJ{{few}}:suku}}naku@FG{{@KJ{{see}}:mi}}ta@FG{{@KJ{{eye}}:me}}ga
+      kireinode,@FG{{@KJ{{woman^sex}}:josei}}@EM{{@FG{{@KJ{{yonder}}:mu}}ki}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The food at this restaurant comes in small portions and looks nice, so it is suited for women.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{@FG{{@KJ{{yonder}}:mu}}ki}}}} is used when something is suitable for a group, but
+doesn't imply that it was made specifically with that group in mind.
+The similar grammar point <a href="grammar-muke.html">@HI{{@EM{{@FG{{@KJ{{yonder}}:mu}}ke}}}}</a>. is used when something has been made specifically with a target group's needs in mind.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
