@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="@HI{{tosuru}}" grammar="@HI{{tosuru}} (assume)"}}
+@GRMIDX{{index="@HI{{toshitara}}" grammar="@HI{{toshitara}} (assume)"}}
+@GRMIDX{{index="@HI{{tosureba}}" grammar="@HI{{tosureba}} (assume)"}}
 
 <body>
 
@@ -23,8 +25,11 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{tosuru}} is used to inidcate that someone assumes something: "suppose that".
+<a name="suppose">@HI{{@EM{{tosuru}}}}</a> is used to inidcate that someone assumes something: "suppose that".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -35,6 +40,36 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRND{{}}
+<p>
+<a name="if-tara">@HI{{@EM{{toshitara}}}}</a> is used to state a hypothetical assumption.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{moshi,sorega@KJ{{book^hit}}da@EM{{toshitara}},@FG{{@KJ{{dream}}:yume}}noyoudesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If that's true, it's like a dream.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="if-ba">@HI{{@EM{{tosureba}}}}</a> is used to state an assumption.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{person}}:hito}}ga@KJ{{now}}mo@FG{{@KJ{{life}}:i}}kiteiru@EM{{tosureba}},mou90@FG{{@KJ{{year-end}}:sai}}ninatteirudeshou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If that person were still alive today, he would be 90 years old.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
 
 <h2> Notes </h2>
 
@@ -52,6 +87,7 @@ If @HI{{ha}} is used as the particle, then that which is assumed, is the subject
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 518).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
