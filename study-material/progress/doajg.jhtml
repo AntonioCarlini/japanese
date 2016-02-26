@@ -812,9 +812,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{fold}}:ori}}(@HI{{ni}})                                           </td>
+  <td class="left"> <a href="grammar-ori-ni.html">@FG{{@KJ{{fold}}:ori}}(@HI{{ni}})</a>                                     </td>
   <td class="left"> DOAJG, p. 502                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-osore-ga-aru.html">@FG{{@KJ{{fear}}regaaru:osoregaaru}}</a>                            </td>
