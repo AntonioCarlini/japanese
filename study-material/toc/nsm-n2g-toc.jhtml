@@ -384,11 +384,11 @@
 
 <ol>
 <li> <a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
-<li> <a href="grammar-te-kara-denaito.html"> @Vte{{}}@HI{{karadenaito}}</a> @MIDDOT{{}}
-     @Vte{{}}@HI{{karadenakereba}}
+<li> <a href="grammar-te-kara-denaito.html#denaito">@Vte{{}}@HI{{karadenaito}}</a> @MIDDOT{{}}
+     <a href="grammar-te-kara-denaito.html#denakereba">@Vte{{}}@HI{{karadenakereba}}</a>
 <li> <a href="grammar-kara-ni-kakete.html">@HI{{kara}} ~ @HI{{nikakete}}</a>
-<li> <a href="grammar-ni-kakete-wa.html">@HI{{kaketeha}}</a> @MIDDOT{{}}
-     @HI{{kaketemo}}
+<li> <a href="grammar-ni-kakete-wa.html#wa">@HI{{kaketeha}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kakete-wa.html#mo">@HI{{kaketemo}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w6d4">_</a> @KJ{{No.}}6@KJ{{week}}4@KJ{{day^eye}} </h2>
