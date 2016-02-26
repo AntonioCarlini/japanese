@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="@HI{{niwatatte}}" grammar="@HI{{niwatatte}}"}}
+@GRMIDX{{index="@HI{{niwatari}}" grammar="@HI{{niwatari}}"}}
+@GRMIDX{{index="@HI{{niwataru}}" grammar="@HI{{niwataru}}"}}
 
 <body>
 
@@ -18,6 +20,7 @@
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{niwatatte}}}}}}
 <li> @FORMATION{{@N1{{}}@HI{{kara}}@N2{{}}@HI{{@EM{{niwatatte}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niwatari}}}}}}
 <li> @FORMATION{{(@N1{{}}@HI{{kara}})@N2{{}}@HI{{@EM{{niwataru}}}}@N3{{}}}}
 </ol>
 
@@ -27,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{niwatatte}}}} is a compound particle that indicates that something takes place over a particular span of time or physical space.
+<a name="niwatatte">@HI{{@EM{{niwatatte}}}}</a> is a compound particle that indicates that something takes place over a particular span of time or physical space.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -84,7 +87,21 @@ X@HI{{kara}}Y@HI{{@EM{{niwatatte}}}} is most commonly used when X and Y indicate
 
 @BGRND{{}}
 <p>
-The adjectival form is @HI{{@EM{{niwataru}}}}.
+<a name="niwatari">@HI{{@EM{{niwatari}}}}</a> is equivalent to @HI{{@EM{{niwatatte}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{waga@FG{{@KJ{{company}}:sha}}ha20@KJ{{year^interval}}@EM{{niwatari}},kono@FG{{@KJ{{medicine}}:kusuri}}no@FG{{@KJ{{polish^research^open^discharge}}:kenkyuukaihatsu}}ni@FG{{@KJ{{toil}}:tsuto}}metekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Over the last 20 years, our company has endeavoured to research and develop this drug.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="prenominal">The</a> adjectival form is @HI{{@EM{{niwataru}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
