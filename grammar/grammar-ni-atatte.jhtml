@@ -29,8 +29,23 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is used in formal Japanese to denote an occasion when someone does something.
+<a name="atatte">@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}</a> is used in formal Japanese to denote an occasion when someone does something.
 It is not used to describe anything of a negative nature.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{harmony^ground}}:kazuya}}@KJ{{large^study}}wo@FG{{@KJ{{graduate^profession}}:sotsugyou}}suru@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}},
+      @FG{{@KJ{{finger^guidance}}:shidou}}@FG{{@KJ{{teach^bureaucrat}}:kyoukan}}ni@FG{{@KJ{{now^behind}}:kongo}}no@FG{{@KJ{{advance^path}}:shinro}}nitsuite@FG{{@KJ{{inter-^discuss}}:soudan}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the occasion of graduating from university, Kazuya colsulted with his academic adviser on his future direction.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="atari">@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}</a> is more formal than @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}}, but they are otherwise identical.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -45,7 +60,7 @@ It is not used to describe anything of a negative nature.
 
 @BGRND{{}}
 <p>
-The verb before @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is always non-past, which indicates that the action in that clause is not yet complete.
+<a name="non-past">The</a> verb before @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is always non-past, which indicates that the action in that clause is not yet complete.
 So the appropriate translation is often "before" or "prior to".
 
 <table class="sentence">
@@ -61,7 +76,7 @@ So the appropriate translation is often "before" or "prior to".
 
 @BGRND{{}}
 <p>
-Before a noun, the form @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}no@N{{}}}} is used.
+<a name="no">Before</a> a noun, the form @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}no@N{{}}}} is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -74,12 +89,25 @@ Before a noun, the form @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}no@N{{}}}} is used
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="wa">@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}ha}} is also possible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{arubaito}}wosuru@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}ha,@FG{{@KJ{{study^profession}}:gakugyou}}ya@KJ{{body}}ni@FG{{@KJ{{nothingness^logic}}:muri}}nonaiyou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If you are going to work part-time, make sure that it does not interfere with your studies or your health.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
 
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tatte}}}} is less formal than @HI{{@EM{{ni@FG{{@KJ{{hit}}:a}}tari}}}}, but they are otherwise identical.
 </p>
 
 <p>

@@ -289,10 +289,10 @@
 <h2><a class="navtarget" name="w4d6">_</a> @KJ{{No.}}4@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-ni-atatte.html">@HI{{niatatte}}</a> @MIDDOT{{}}
-     <a href="grammar-ni-atatte.html">@HI{{niatari}}</a> @MIDDOT{{}}
-     @HI{{niatatteha}} @MIDDOT{{}}
-     @HI{{niatteno}}
+<li> <a href="grammar-ni-atatte.html#atatte">@HI{{niatatte}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-atatte.html#atari">@HI{{niatari}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-atatte.html#wa">@HI{{niatatteha}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-atatte.html#no">@HI{{niatteno}}</a>
 <li> <a href="grammar-ni-sotte.html">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a>
 <li> <a href="grammar-ni-saki-datte.html">@HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}tte}}</a> @MIDDOT{{}}
      @HI{{ni@FG{{@KJ{{before^stand*up}}:sakida}}chi}} @MIDDOT{{}}
