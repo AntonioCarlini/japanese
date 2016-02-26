@@ -8,6 +8,8 @@
 </head>
 
 @GRMIDX{{index="@HI{{nisotte}}" grammar="@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}"}}
+@GRMIDX{{index="@HI{{nisoi}}" grammar="@HI{{ni@FG{{@KJ{{run*alongside}}:so}}i}}"}}
+@GRMIDX{{index="@HI{{nisotta}}" grammar="@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}"}}
 
 <body>
 
@@ -17,6 +19,8 @@
 
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}}}
+<li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{run*alongside}}:so}}i}}}}
+<li> @FORMATION{{@N1{{}}@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "along".
+<a name="along">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a> can be used as an adverbial phrase meaning "along".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,7 +43,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "parallel to".
+<a name="parallel">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a> can be used as an adverbial phrase meaning "parallel to".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -53,7 +57,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} can be used as an adverbial phrase meaning "in accordance with".
+<a name="accordance">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a> can be used as an adverbial phrase meaning "in accordance with".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -62,6 +66,20 @@
   </td> </tr>
   <tr class="en"> <td>
       He carried it out in accordance with his boss's policy.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nisotta">The</a> pre-nominal form is @HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{guest^Esq.}}:kyakusama}}hitorihitorinogo@FG{{@KJ{{hope^ambition}}:kibou}}ni@KJ{{run*alongside}}tta@FG{{@KJ{{trip^going}}:ryokou}}@KT{{puran}}woo@FG{{@KJ{{make}}:tsuku}}rishimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We make travel plans according to each customer's wishes.
   </td> </tr>
 </table>
 </p>
