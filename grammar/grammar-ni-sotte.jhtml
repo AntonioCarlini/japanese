@@ -72,7 +72,7 @@
 
 @BGRND{{}}
 <p>
-<a name="nisotta">The</a> pre-nominal form is @HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}.
+<a name="nisotta">A</a> pre-nominal form is @HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -80,6 +80,21 @@
   </td> </tr>
   <tr class="en"> <td>
       We make travel plans according to each customer's wishes.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nisou">Another</a> pre-nominal form is @HI{{ni@FG{{@KJ{{run*alongside}}:so}}u}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{build^fabricate^house}}:kenchikuka}}ha@FG{{@KJ{{pour^sentence}}:chuumon}}suru@KJ{{person}}no@FG{{@KJ{{idea^yonder}}:ikou}}ni@KJ{{run*alongside}}u@FG{{@KJ{{dwell^home}}:juutaku}}
+      @FG{{@KJ{{establishment^plot}}:sekkei}}woshitehoshii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      An architect wants to plan a layout according to the wishes of the client.
   </td> </tr>
 </table>
 </p>

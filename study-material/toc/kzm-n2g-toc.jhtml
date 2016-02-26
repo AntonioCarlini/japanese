@@ -131,7 +131,9 @@ h2#heading {
 <ol>
 <li> ~<a href="grammar-ni-motozuite.html#wo-moto-ni-shite">@HI{{womotoni}}(@HI{{shite}})</a>
 <li> ~<a href="grammar-ni-motozuite.html">@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}</a>
-<li> ~<a href="grammar-ni-sotte.html">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a>
+<li> ~<a href="grammar-ni-sotte.html">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a>  @MIDDOT{{}}
+     ~<a href="grammar-ni-sotte.html#nisotta">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}</a>  @MIDDOT{{}}
+     ~<a href="grammar-ni-sotte.html#nisou">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}u}}</a>
 <li> ~<a href="grammar-no-moto-de.html#de">@HI{{nomotode}}</a>, ~<a href="grammar-no-moto-de.html#ni">@HI{{nomotoni}}</a>
 <li> ~<a href="grammar-muke.html">@HI{{@FG{{@KJ{{yonder}}:mu}}keda}}</a>
 </ol>
