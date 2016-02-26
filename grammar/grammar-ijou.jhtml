@@ -2,21 +2,21 @@
 <html>
 
 <head>
-<title>@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}</title>
+<title>@HI{{@KJ{{by*means*of^above}}}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{fuuni}}" grammar="@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}"}}
+@GRMIDX{{index="@HI{{ijou}}" grammar="@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}"}}
 
 <body>
 
-<h1>@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}</h1>
+<h1>@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@Vru{{}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}(@HI{{ha}})}}
+<li> @FORMATION{{@Vplain{{}}@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}(@HI{{ha}})}}
 <li> @FORMATION{{@N{{}}@HI{{dearu@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ha}}}}}}
 </ol>
 
@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}ni}}}} is a conjunction indication the speaker's feeling that there should be a strong connection between
+@HI{{@EM{{@FG{{@KJ{{by*means*of^above}}:ijou}}}}}} is a conjunction indication the speaker's feeling that there should be a strong connection between
 the phrase that precedes the conjunction and that which follows it.
 
 <table class="sentence">

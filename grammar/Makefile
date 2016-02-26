@@ -343,6 +343,7 @@ JHTML_SRCS += grammar-okage-de.jhtml
 JHTML_SRCS += grammar-omoeba.jhtml
 JHTML_SRCS += grammar-omowareru.jhtml
 JHTML_SRCS += grammar-ooi.jhtml
+JHTML_SRCS += grammar-ori-ni.jhtml
 JHTML_SRCS += grammar-osore-ga-aru.jhtml
 JHTML_SRCS += grammar-owaru-suffix.jhtml
 JHTML_SRCS += grammar-oyobi.jhtml

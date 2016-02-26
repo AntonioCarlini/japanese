@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{orini}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{orini}}" grammar="@HI{{@FG{{@KJ{{fold}}:orini}}}}"}}
+@GRMIDX{{index="@HI{{orikara}}" grammar="@HI{{@FG{{@KJ{{fold}}:orikara}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{fold}}:ori}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}}}
+<li> @FORMATION{{<em>demontrative</em> @HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}kara}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="use">@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}</a> is a noun indicating special and desirable situations which someone takes advantage of,
+or where someone is expected to do something or where something desirable takes place.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{metropolis^heart}}:toshin}}ni@KJ{{exit}}ta@EM{{@KJ{{fold}}ni}},@FG{{@KJ{{old^book^roof}}:furuhon'ya}}ni@FG{{@KJ{{leg}}:ashi}}wo@FG{{@KJ{{prolong}}:no}}bashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I went into downtown Tokyo, I also extended my trip to the used book store district.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="wa">The </a> form @HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)ha}}}} is also possible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@EM{{@FG{{@KJ{{fold}}:ori}}niha}},zehikochiranio@FG{{@KJ{{stand*up}}:ta}}chi@FG{{@KJ{{draw*near}}:yo}}rikudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Please visit us when you come to Japan.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{near}}:chika}}kunio@FG{{@KJ{{surpass}}:ko}}shino@EM{{@KJ{{fold}}ni}}ha,zehi@FG{{@KJ{{hit^store}}:touten}}wogo@FG{{@KJ{{profit^utilize}}:riyou}}@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When you are in the area, please use our shop.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="past">When</a> a verb in the past comes before @HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}, then the action in the main clause takes place after that in the
+@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}} clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}e@KJ{{going}}tta@EM{{@FG{{@KJ{{fold}}:ori}}ni}},@FG{{@KJ{{mountain^inside}}:tamauchi}}san'ni@KJ{{meeting}}utsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      After arriving in Japan, I intend to meet Ms. Yamauchi.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="non-past">When</a> a verb in the non-past comes before @HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}, then the action in the main clause takes place before that in the
+@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}} clause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}e@KJ{{going}}ku@EM{{@FG{{@KJ{{fold}}:ori}}ni}},@FG{{@KJ{{mountain^inside}}:tamauchi}}san'ni@KJ{{meeting}}utsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Before leaving for Japan, I intend to meet Ms. Yamauchi.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="good">@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}}</a> is used only when the subject takes advantage of special or uncommon situations.
+It cannot be used when the situation is not advantageous.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{graduate^profession}}:sotsugyou}}no@EM{{@KJ{{fold}}ni}}@FG{{@KJ{{parent}}:oya}}ni@KJ{{buy}}ttemoratta@FG{{@KJ{{time^plot}}:tokei}}wonakushiteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I lost the watch my parents bought for me for my graduation.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="kara">@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}kara}}}}</a> is used to present a special or uncommon situation as the reason for the statement in the main clause.
+@HI{{ni}} cannot be used in this case.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{cold}}:samu}}sano@FG{{@KJ{{strict}}:kibi}}shii@EM{{@KJ{{fold}}kara}}o@KJ{{body}}niha@KJ{{ten^part}}wo@FG{{@KJ{{spirit}}:ki}}wotsuke@KJ{{below}}sai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Now that the weather is severely cold, please take good care of yourself.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="noun">@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}}}}}</a> can also be used as a common noun meaning "occasion" or "chance".
+or where someone is expected to do something or where something desirable takes place.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{korehamatatonai@KJ{{fold}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is a golden opportunity. @LIT{{an opportunity that will not happen again}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}} cannot be used when the situations in the @HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}} clause and the main clause
+are not related.
+</p>
+
+<p>
+@HI{{@EM{{@FG{{@KJ{{fold}}:ori}}(ni)}}}} is not used when the span of time is momentary.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 502).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
