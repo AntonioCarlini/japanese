@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@N{{}}@HI{{@EM{{nioite}}}} is a compound particle that indicates the place of an action, event, state or time.
+<a name="nioite">@N{{}}@HI{{@EM{{nioite}}}}</a> is a compound particle that indicates the place of an action, event, state or time.
 The location can be non-physical.
 
 <table class="sentence" border=0>
@@ -42,7 +42,7 @@ The location can be non-physical.
 
 @BGRND{{}}
 <p>
-The pre-nominal form of @HI{{@EM{{nioite}}}} is @HI{{niokeru}}.
+<a name="prenominal">The</a> pre-nominal form of @HI{{@EM{{nioite}}}} is @HI{{niokeru}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@ The pre-nominal form of @HI{{@EM{{nioite}}}} is @HI{{niokeru}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nioite}}}} cannot be used to specify a specific time. @HI{{@EM{{niokeru}}}} can, however, be used to specify a specific time.
+<a name="time">@HI{{@EM{{nioite}}}}</a> cannot be used to specify a specific time. @HI{{@EM{{niokeru}}}} can, however, be used to specify a specific time.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -88,6 +88,7 @@ The pre-nominal form of @HI{{@EM{{nioite}}}} is @HI{{niokeru}}.
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 14).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -30,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{megutte}}}} is a compound particle meaning "concerning" or "over". It is used when different opinions are
+<a name="megutte">@HI{{@EM{{megutte}}}}</a> is a compound particle meaning "concerning" or "over". It is used when different opinions are
 expressed over a single issue.
 
 <table class="sentence">
@@ -46,7 +46,7 @@ expressed over a single issue.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{megutte}}}} can only be used when different opinions about a single issue are expressed by multiple people or sources.
+<a name="single-issue">@HI{{@EM{{megutte}}}}</a> can only be used when different opinions about a single issue are expressed by multiple people or sources.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,7 +61,7 @@ expressed over a single issue.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{megutte}}}} often occurs in titles.
+<a name="titles">@HI{{@EM{{megutte}}}}</a> often occurs in titles.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -75,7 +75,7 @@ expressed over a single issue.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{meguru}}}} is the the pre-nominal form.
+<a name="meguru">@HI{{@EM{{meguru}}}}</a> is the the pre-nominal form.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -89,7 +89,7 @@ expressed over a single issue.
 
 @BGRND{{}}
 <p>
-@HI{{megutte}} and @HI{{meguri}} can be used interchangeably
+<a name="meguri">@HI{{meguri}}</a> and @HI{{megutte}} can be used interchangeably
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -116,6 +116,7 @@ in formal presentations such as news reports.
 <li> @REF{{DOIJG}}. (p. 486).
 <li> @REF{{NKZM-N2G}}. (p. 34).
 <li> @REF{{NKZM-N2G}}. (p. 122).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

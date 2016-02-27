@@ -23,7 +23,7 @@
 <h2> Definition </h2>
 
 <p>
-@N{{}}@HI{{@EM{{wohajime}}}} basically means "making @N{{}} the begining".
+<a name="hajime">@N{{}}@HI{{@EM{{wohajime}}}} basically means "making @N{{}} the begining".
 @N{{}} is a representative example of a larger group.
 The following clause makes a statement about the larger group that includes the representative sample.
 
@@ -52,6 +52,7 @@ The following clause makes a statement about the larger group that includes the 
 <ol>
 <li> @REF{{DOIJG}}. (p. 320).
 <li> @REF{{NKZM-N2G}}. (p. 20).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}

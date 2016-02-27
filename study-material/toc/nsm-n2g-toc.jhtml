@@ -404,19 +404,23 @@
 
 <ol>
 <li> <a href="grammar-ni-kimatte-iru.html">@HI{{@FG{{@KJ{{decide}}:ki}}matteiru}}</a> @MIDDOT{{}}
-     @HI{{@FG{{@KJ{{difference}}:chiga}}inai}} @MIDDOT{{}}
-     @HI{{@FG{{@KJ{{inter-^difference}}:soui}}nai}}
+     <a href="grammar-ni-chigainai.html">@HI{{@FG{{@KJ{{difference}}:chiga}}inai}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-soui-nai.html">@HI{{@FG{{@KJ{{inter-^difference}}:soui}}nai}}</a>
 <li> <a href="grammar-to-wa-kagiranai.html">@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}</a>
 <li> <a href="grammar-yori-hoka-nai.html">@HI{{yorihokanai}}</a>
-<li> <a href=""></a> @HI{{nihokanaranai}}
+<li> <a href="grammar-ni-hoka-naranai.html">@HI{{nihokanaranai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w6d6">_</a> @KJ{{No.}}6@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @N{{}}@HI{{wohajime}}
-<li> <a href=""></a> @N{{}}@HI{{wonugutte}}
-<li> <a href="grammar-ni-oite.html">@N{{}}@HI{{nioite}}</a>
+<li> <a href="grammar-wo-hajime-toshite.html#hajime">@N{{}}@HI{{wohajime}}</a> @MIDDOT{{}}
+     <a href="grammar-wo-hajime-toshite.html#toshite">@N{{}}@HI{{wohajimetoshite}}</a>
+     @N1{{}}@HI{{wohajimetosuru}}@N2{{}}
+<li> <a href="grammar-wo-megutte.html#megutte">@N{{}}@HI{{womegutte}}</a> @MIDDOT{{}}
+     <a href="grammar-wo-megutte.html#meguru">@N1{{}}@HI{{womeguru}}@N2{{}}</a>
+<li> <a href="grammar-ni-oite.html#nioite">@N{{}}@HI{{nioite}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-oite.html#niokeru">@N1{{}}@HI{{niokeru}}@N2{{}}</a>
 <li> <a href=""></a> @N{{}}@HI{{nite}}
 </ol>
 
