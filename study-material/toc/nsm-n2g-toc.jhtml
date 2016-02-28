@@ -436,9 +436,9 @@
 <h2><a class="navtarget" name="w7d2">_</a> @KJ{{No.}}7@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{yara}}
+<li> <a href="grammar-yara-yara.html">@HI{{yara}}</a>
 <li> <a href=""></a> @HI{{nitsuke}}
-<li> <a href=""></a> @HI{{nishiru}}
+<li> <a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiro}}</a>
 <li> <a href=""></a> @N1{{}}@HI{{mo}}@Vba{{}}@HI{{mo}}
 </ol>
 
@@ -483,7 +483,7 @@
 
 <ol>
 <li> <a href=""></a> @HI{{sorenanoni}}
-<li> <a href=""></a> @HI{{soretomo}}
+<li> <a href="grammar-soretomo.html">@HI{{soretomo}}</a>
 <li> <a href="grammar-sore-nara.html">@HI{{sorenara}}(@HI{{ba}})</a>
 <li> <a href="grammar-sore-demo.html">@HI{{soredemo}}</a>
 </ol>
@@ -491,8 +491,8 @@
 <h2><a class="navtarget" name="w8d2">_</a> @KJ{{No.}}8@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{soreba}}
-<li> <a href=""></a> @HI{{sokode}}
+<li> <a href="grammar-sore-ga.html">@HI{{sorega}}</a>
+<li> <a href="grammar-soko-de-then.html">@HI{{sokode}}</a>
 <li> <a href=""></a> @HI{{souieba}}
 <li> <a href=""></a> @HI{{sorehasouto}}
 </ol>
@@ -500,10 +500,10 @@
 <h2><a class="navtarget" name="w8d3">_</a> @KJ{{No.}}8@KJ{{week}}3@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a> @HI{{sunawachi}}
+<li> <a href="grammar-sunawachi.html">@HI{{sunawachi}}</a>
 <li> <a href="grammar-aruiwa.html">@HI{{aruiha}}</a>
 <li> <a href="grammar-daga.html">@HI{{daga}}</a>
-<li> <a href=""></a> @HI{{datte}}
+<li> <a href="grammar-datte-reason.html#reason">@HI{{datte}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w8d4">_</a> @KJ{{No.}}8@KJ{{week}}4@KJ{{day^eye}} </h2>
@@ -520,7 +520,7 @@
 <ol>
 <li> <a href="grammar-motto-mo.html">@HI{{mottomo}}</a>
 <li> <a href=""></a> @HI{{naa}}
-<li> <a href=""></a> @HI{{sate}}
+<li> <a href="grammar-sate.html">@HI{{sate}}</a>
 <li> <a href="grammar-suruto.html">@HI{{suruto}}</a>
 </ol>
 

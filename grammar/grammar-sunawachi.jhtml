@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<head>
+<title>@HI{{sunawachi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sunawachi}} (reason)" grammar="@HI{{sunawachi}} (reason)"}}
+
+<body>
+
+<h1>@HI{{sunawachi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{sunawachi}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sunawachi}}}} is used to rephrase a word or sentence. It may often be translated as "in other words" or "namely".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{mama}}no@KJ{{elder*brother}},@EM{{sunawachi}}@KJ{{me}}noojidesuga@JDOTS6{{}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My mother's older brother, in other words, my uncle ...
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{sunawachi}}}} can replace <a href="grammar-tsumari.html">@HI{{tsumari}}</a> except where the latter is used to summarise what
+the conversational partner has said.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 541).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
