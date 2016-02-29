@@ -162,8 +162,8 @@
 <li> <a href="grammar-te-goran-nasai.html">@HI{{@Vte{{}}gorannnasai}}</a>
 <li> <a href="grammar-you-ni-iu.html">@HI{{youni@KJ{{say}}u}}</a> @MIDDOT{{}}
      <a href="grammar-you-ni-iu.html#similar">@HI{{younitanomu}}</a>
-<li> @HI{{toiwareru}} @MIDDOT{{}}
-     @HI{{tochuuisureru}} ...
+<li> <a href="grammar-command-to-iwareru.html#imperative">@HI{{toiwareru}}</a> @MIDDOT{{}}
+     <a href="grammar-command-to-iwareru.html#warn">@HI{{tochuuisureru}}</a>
 <li> <a href="grammar-te-kure.html">@Vte{{}}@HI{{kureto}}</a>
 </ol>
 
@@ -171,7 +171,7 @@
 
 <ol>
 <li> <a href="grammar-te-mo.html"> @Vte{{}}@HI{{mo}} ... </a>
-<li> @HI{{donnnani}} @MIDDOT{{}}
+<li> <a href="grammar-particle-demo.html#whatever">@HI{{donnnani}}</a> @MIDDOT{{}}
      <a href="grammar-ikura.html#temo"> @HI{{ikura}} </a>
 <li> <a href="grammar-verb-use-of-zu.html">@Vnaistem{{}}@HI{{zuni}}</a>
 </ol>
@@ -222,7 +222,7 @@
 <li> <a href="grammar-te-hoshii.html#do">@Vte{{}}@HI{{hoshii}}</a> @MIDDOT{{}}
      <a href="grammar-te-hoshii.html#not-do">@Vnai{{}}@HI{{dehoshii}}</a> @MIDDOT{{}}
      <a href="grammar-te-hoshii.html#moraitai">@Vte{{}}@HI{{moraitai}}</a> @MIDDOT{{}}
-     @Vnai{{}}@HI{{demoraitai}}
+     <a href="grammar-te-hoshii.html#naide-moraitai">@Vnai{{}}@HI{{demoraitai}}</a>
 <li> <a href="grammar-furi-wo-suru.html">@HI{{furiwosuru}}</a>
 </ol>
 
