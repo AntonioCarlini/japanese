@@ -323,7 +323,8 @@
 <h2><a class="navtarget" name="w5d5">_</a> @KJ{{No.}}5@KJ{{week}}5@KJ{{day^eye}} </h2>
 <ol>
 <li> <a href="grammar-tatoe-temo.html">@HI{{tatoe}}</a>
-<li> @HI{{moshikasuruto}}
+<li> <a href="grammar-kitto-tabun-moshikashitara.html#moshikasuruto">@HI{{moshikasuruto}}</a> @MIDDOT{{}}
+     <a href="grammar-kitto-tabun-moshikashitara.html#moshikashitara">@HI{{moshikashitara}}</a>
 <li> <a href="grammar-particle-kanarazushimo.html">@HI{{kanarazushimo}}</a>
 <li> <a href="grammar-marude.html">@HI{{marude}}</a>
 </ol>

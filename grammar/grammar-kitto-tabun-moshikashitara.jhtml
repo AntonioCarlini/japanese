@@ -33,11 +33,11 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kitto}}}} indicates a high degree of certainty. It can be used with @HI{{deshou}}.
+<a anme="kitto">@HI{{@EM{{kitto}}}}</a> indicates a high degree of certainty. It can be used with @HI{{deshou}}.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@KT{{mira-}}sanha @EM{{kitto}} @KJ{{come}}masu.}}
+      @HI{{@KT{{mira-}}sanha@EM{{kitto}}@KJ{{come}}masu.}}
   </td> </tr>
   <tr class="en"> <td>
       Mr. Miller will surely come.
@@ -47,7 +47,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{tabunn}}}} implies less certainty than when @HI{{@EM{{kitto}}}} is used. It is most often
+<a name="tabun">@HI{{@EM{{tabunn}}}}</a> implies less certainty than when @HI{{@EM{{kitto}}}} is used. It is most often
 used with @HI{{deshou}}.
 
 <table class="sentence" border=0>
@@ -62,7 +62,7 @@ used with @HI{{deshou}}.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{moshikashitara}}}} is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
+<a name="moshikashitara">@HI{{@EM{{moshikashitara}}}}</a> is most often used with @HI{{kamo shiremasenn}}. Of the threee adverbs described here,
 this one involves the least amount of certainty.
 
 <table class="sentence" border=0>
@@ -71,6 +71,20 @@ this one involves the least amount of certainty.
   </td> </tr>
   <tr class="en"> <td>
       There is a chance I might be unable to graduate in March.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="moshikasuruto">@HI{{@EM{{moshikasuruto}}}}</a> is equivalent to @HI{{@EM{{moshikashitara}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{moshikasuruto}}@KJ{{he}}no@FG{{@KJ{{tale}}:hanashi}}hausokamoshirenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He could be telling a lie.
   </td> </tr>
 </table>
 </p>
@@ -84,6 +98,7 @@ this one involves the least amount of certainty.
 <ol>
 <li> @REF{{MNN-TR-II}}. (Chapter 32).
 <li> @REF{{DOBJG}}. (p. 100).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
