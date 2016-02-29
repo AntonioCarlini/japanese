@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}beruto}}}} is comparitive particle which corresponds to "if we compare (it) with".
+<a name="nikuraberuto">@HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}beruto}}}}</a> is comparitive particle which corresponds to "if we compare (it) with".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,8 +41,8 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}bete}}}} is interchangeable with @HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}beruto}}}}.
-The meaning is unchanged.
+<a name="nikurabete">@HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}bete}}}}</a> is interchangeable with @HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}beruto}}}}.
+The meaning is unchanged. Note that this may appear in the form @HI{{@EM{{ni@FG{{@KJ{{compare}}:kura}}be}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@ The meaning is unchanged.
 
 @BGRND{{}}
 <p>
-The particle @HI{{to}} can appear instead of @HI{{ni}} in either form to give @HI{{@EM{{to@FG{{@KJ{{compare}}:kura}}bete}}}} and @HI{{@EM{{to@FG{{@KJ{{compare}}:kura}}beruto}}}}.
+<a anme="to">The</a> particle @HI{{to}} can appear instead of @HI{{ni}} in either form to give @HI{{@EM{{to@FG{{@KJ{{compare}}:kura}}bete}}}} and @HI{{@EM{{to@FG{{@KJ{{compare}}:kura}}beruto}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -76,6 +76,7 @@ The particle @HI{{to}} can appear instead of @HI{{ni}} in either form to give @H
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 256).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
