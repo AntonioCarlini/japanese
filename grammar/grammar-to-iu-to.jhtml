@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{toiuto}}" grammar="@HI{{to@KJ{{say}}uto}}"}}
+@GRMIDX{{index="@HI{{toittara}}" grammar="@HI{{toittara}}"}}
 
 <body>
 
@@ -18,6 +19,7 @@
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{to@KJ{{say}}uto}}}}}}
 <li> @FORMATION{{@Splain{{}}@HI{{@EM{{to@KJ{{say}}uto}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{toittara}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -34,6 +36,20 @@
   </td> </tr>
   <tr class="en"> <td>
       When you mention San Francisco, I remember those cable cars.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="memory-casual">@HI{{@EM{{toittara}}}}</a> is also used when something mentioned evokes a memory, but is more casual.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{summer}}:natsu}}no@FG{{@KJ{{fruit^thing}}:kudamono}}@EM{{toittara}},yappari@KT{{suika}}dane.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When you talk about "summer fruits", watermelon comes to mind.
   </td> </tr>
 </table>
 </p>
