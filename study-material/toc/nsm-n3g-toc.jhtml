@@ -71,8 +71,8 @@
 <h2><a class="navtarget" name="w1d2">_</a> @KJ{{No.}}1@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-nai-to.html">@Vnai{{}}@HI{{to}}</a>
-<li> <a href="grammar-verb-contractions.html">V@HI{{nakucha}}</a>
+<li> <a href="grammar-nai-to.html">@Vnai{{}}@HI{{to}}</a> @MIDDOT{{}}
+     <a href="grammar-verb-contractions.html"> V@HI{{nakucha}}</a>
 <li> <a href="grammar-verb-contractions.html"> Contraction of @Vte{{}}@HI{{shimau}} </a>
 <li> <a href="grammar-verb-contractions.html"> Contraction of @Vte{{}}@HI{{oku}} </a>
 </ol>
@@ -111,7 +111,8 @@
 <h2><a class="navtarget" name="w2d1">_</a> @KJ{{No.}}2@KJ{{week}}1@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-bakari.html#happening"> @HI{{bakari}} <a/>
+<li> <a href="grammar-bakari.html#happening"> @HI{{bakari}} <a/> @MIDDOT{{}}
+     <a href="grammar-bakari.html#habitual"> @Vte{{}}@HI{{bakariiru}} <a/>
 <li> <a href="grammar-particle-shika.html#emphasis">@HI{{dakeshika}}@Vnai{{}}</a>
 <li> <a href="grammar-particle-sae.html#even">@HI{{sae}}</a>
 <li> <a href="grammar-koso.html">@N{{}}@HI{{koso}} </a>
@@ -120,13 +121,14 @@
 <h2><a class="navtarget" name="w2d2">_</a> @KJ{{No.}}2@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href="grammar-ni-kanshite.html">@HI{{nikanshite}}</a>
+<li> <a href="grammar-ni-kanshite.html#concerning">@HI{{ni@FG{{@KJ{{connection}}:kan}}shite}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kanshite.html#prenominal">@HI{{ni@FG{{@KJ{{connection}}:kan}}suru}}</a>
 <li> <a href="grammar-ni-tsuite.html">@HI{{nitsuite}}</a>
 <li> <a href="grammar-ni-yoru-to.html#ni-yoru-to">@N{{}}@HI{{niyoruto}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yoru-to.html#ni-yoreba">@N{{}}@HI{{niyoreba}}</a>
 <li> <a href="grammar-ni-yotte.html#means">@HI{{niyotte}}</a> @MIDDOT{{}}
      <a href="grammar-ni-yotte.html#change">@HI{{niyori}}</a> @MIDDOT{{}}
-     <a href="grammar-ni-yotte.html#cause">@HI{{niyoru}}</a>
+     <a href="grammar-ni-yotte.html#pre-nominal">@HI{{niyoru}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w2d3">_</a> @KJ{{No.}}2@KJ{{week}}3@KJ{{day^eye}} </h2>
