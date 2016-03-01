@@ -102,6 +102,17 @@ is used.
 </table>
 </p>
 
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{decide}}:kextsu}}shite@FG{{@KJ{{loins}}:koshi}}kudakeninara@EM{{naidemoraitai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't want you to lose your nerve on my account.
+  </td> </tr>
+</table>
+</p>
+
 @BGRND{{}}
 <p>
 <a name="itadakitai">When</a> the speaker wants someone of higher status to do something he uses @Vte{{}}@HI{{itadakitai}}.
@@ -127,6 +138,7 @@ is used.
 <li> @REF{{NKZM-N3G}}. (p. 44).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 3).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JACG-2013}}. 25.6.4.4
 </ol>
 
 @include{{"grammar-footer.inc"}}
