@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hamochiron}}~@HI{{mo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{hamochiron}}~@HI{{mo}}" grammar="@HI{{hamochiron}}~@HI{{mo}}"}}
+
+<body>
+
+<h1>@HI{{hamochiron}}~@HI{{mo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{hamochiron}}@N2{{}}demo}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{hamochiron}}@N2{{}}mo}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{hamochiron}}@N2{{}}sae}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The structure @N1{{}}@HI{{@EM{{hamochiron}}@N2{{}}@HI{{mo}}}} is used to indicate that while @N1{{}} is naturally to be expected,
+surprisingly even @N2{{}} is true.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha,@FG{{@KJ{{exertion^strong}}:benkyou}}@EM{{hamochiron}},@KT{{supo-tsu}}@EM{{mo}}yokudekiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is not only a good student, he is a good athelete too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In this sentence pattern, @HI{{demo}} or @HI{{sae}} may be used instead of @HI{{mo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tall^exam^life}}:koukousei}}@EM{{hamochiron}},@FG{{@KJ{{in^study^life}}:chuugakusei}}@EM{{demo}}hotondobo@KJ{{child}}ga@FG{{@KJ{{portable^sash^electricity^tale}}:keitaidenwa}}wo@KJ{{hold}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It goes without saying that most high school students have mobile phones, but even most middle schoolers do too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JPOD101-UI-S4-016}}
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

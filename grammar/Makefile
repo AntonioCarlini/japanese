@@ -627,6 +627,7 @@ JHTML_SRCS += grammar-verb-use-of-volitional.jhtml
 JHTML_SRCS += grammar-verb-use-of-zu.jhtml
 JHTML_SRCS += grammar-volitional-to-suru.jhtml
 JHTML_SRCS += grammar-wa-iu-made-mo-naku.jhtml
+JHTML_SRCS += grammar-wa-mochiron-mo.jhtml
 JHTML_SRCS += grammar-wa-moto-yori.jhtml
 JHTML_SRCS += grammar-wakaru.jhtml
 JHTML_SRCS += grammar-wake-da.jhtml

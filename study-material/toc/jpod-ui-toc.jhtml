@@ -764,8 +764,8 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.16">_</a>Lesson 16</h3>
 
 <ol>
-<li> @N1{{}}@HI{{hamochiron}}@N2{{}}@HI{{demo}}
-<li> @N1{{}}@HI{{hamochiron}}@N2{{}}@HI{{sae}}
+<li> <a href="grammar-wa-mochiron-mo.html">@N1{{}}@HI{{hamochiron}}@N2{{}}@HI{{demo}}</a>
+<li> <a href="grammar-wa-mochiron-mo.html">@N1{{}}@HI{{hamochiron}}@N2{{}}@HI{{sae}}</a>
 <li> @HI{{@KJ{{say}}umademonaku}}
 </ol>
 
