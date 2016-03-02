@@ -122,12 +122,50 @@ follows a noun, the predicate must be in the negative.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
+<a name="adverbial-positive">With</a>  a positive predicate, when @HI{{@EM{{hodo}}}} is modified by a verb or adjective, it can form an adverbial clause with the meaning "so ... that".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{cry}}:na}}ketekisouna@EM{{hodo}}@FG{{@KJ{{emotion^move}}:kandou}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was moved so deeply that I almost cried.
+  </td> </tr>
+</table>
+</p>
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{transmit^overall^bull's*eye}}:dentouteki}}namonoha,@FG{{@KJ{{old}}:furu}}i@EM{{hodo}}@FG{{@KJ{{value^price}}:kachi}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Traditional items have more value if they are older.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="adverbial-negative">With</a>a negative predicate, when @HI{{@EM{{hodo}}}} is modified by a verb or adjective, it can form an adverbial clause with the meaning "not as ... as".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{shikashi,soreha@FG{{@KJ{{mouth}}:kuchi}}de@KJ{{say}}u@EM{{hodo}}@FG{{@KJ{{simplicity^simple}}:kantan}}nakotodehanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      [context:Making clothes that customers buy regardless of price]</br>
+      However, that's easier said than done.
+  </td> </tr>
+</table>
 </p>
 
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+@HI{{@EM{{hodo}}}} is used in the construction <a href="grammar-ba-hodo.html">@Vba{{}} + @V{{}}@HI{{hodo}}</a>.
+</p>
 
 <h2> References </h2>
 
@@ -138,6 +176,8 @@ follows a noun, the predicate must be in the negative.
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 13).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JACG-2013}}. 11.5.2.3.1
+<li> @REF{{JACG-2013}}. 11.5.2.3.4
 </ol>
 
 @include{{"grammar-footer.inc"}}
