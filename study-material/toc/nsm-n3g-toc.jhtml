@@ -301,8 +301,10 @@
 <h2><a class="navtarget" name="w5d2">_</a> @KJ{{No.}}5@KJ{{week}}2@KJ{{day^eye}} </h2>
 
 <ol>
-<li> @HI{{ageru}}
-<li> @HI{{kiru/kireru}}
+<li> <a href="grammar-ageru-agaru-suffix.html">@HI{{ageru}}</a>
+<li> <a href="grammar-kiru-suffix.html">@HI{{kiru}}</a> @MIDDOT{{}}
+     <a href="grammar-kiru-suffix.html">@HI{{kireru}}</a>
+<li> <a href="grammar-kakeru-suffix-incomplete.html">@HI{{kakeru}}</a>
 <li> <a href="grammar-tate.html">@HI{{tate}}</a>
 </ol>
 
