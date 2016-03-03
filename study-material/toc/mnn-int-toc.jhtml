@@ -273,15 +273,20 @@
 <h2><a class="navtarget" name="chapter15">_</a>Chapter 15</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{toiu}}
-<li> <a href="grammar-.html"></a>@HI{{tabini}}
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{connection}}suru}}/@HI{{ni@KJ{{connection}}shite}}/@HI{{ni@KJ{{connection}}shiteno}}
-<li> <a href="grammar-.html"></a>@HI{{wakedehanai}}
+<li> <a href="grammar-to-iu.html#hearsay">@HI{{toiu}}</a>
+<li> <a href="grammar-tabi-ni.html">@HI{{tabini}}</a>
+<li> <a href="grammar-ni-kanshite.html#prenominal">@HI{{ni@KJ{{connection}}suru}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kanshite.html">@HI{{ni@KJ{{connection}}shite}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kanshite.html#prenominal2">@HI{{ni@KJ{{connection}}shiteno}}</a>
+<li> <a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>
 <li> <a href="grammar-.html"></a>@HI{{nodehanaika}}
 <li> <a href="grammar-.html"></a>@HI{{noda}}/@HI{{nodehanai}}
 <li> <a href="grammar-.html"></a>@HI{{hodonomonojaarimasen}}
-<li> <a href="grammar-.html"></a>@HI{{dakejanaku}}
-<li> <a href="grammar-.html"></a>@HI{{toieba}}
+<li> <a href="grammar-dake-de-wa-naku-mo.html">@HI{{dakejanaku}}</a>
+<li> <a href="grammar-to-ieba.html#examples">@HI{{toieba}} (examples)</a> @MIDDOT{{}}
+     <a href="grammar-to-ieba.html#unexpected">@HI{{toieba}} (surprise)</a> @MIDDOT{{}}
+     <a href="grammar-to-iu-to#unexpected">@HI{{toiuto}}</a> @MIDDOT{{}}
+     <a href="grammar-to-iu-to#unexpected-toittara">@HI{{tottara}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter16">_</a>Chapter 16</h2>

@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{~dakede(ha)naku~mo}}}} means "not only ~ but also ~"
 
@@ -71,12 +74,31 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{made}}}} and similar particles can be used in place of @HI{{@EM{{mo}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{company^inside}}:shanai}}de@FG{{@KJ{{tie^nucleus}}:kekkaku}}no@FG{{@KJ{{afflicted^someone}}:kanja}}ga@KJ{{exit}}tanode,
+      @FG{{@KJ{{book^person}}:hon'nin}}@EM{{dakedenaku}},@FG{{@KJ{{circumference}}:mawa}}rino@KJ{{person}}@EM{{made}}@FG{{@KJ{{examination^investigate}}:kensa}}wo
+      @FG{{@KJ{{accept}}:u}}kenakerebanaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Someone at work has contracted tuberculosis, so not only the person himself but everyone who has been in contact with him has to be examined.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 97).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 15).
 </ol>
 
 @include{{"grammar-footer.inc"}}

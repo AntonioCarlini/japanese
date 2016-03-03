@@ -19,6 +19,7 @@
 <li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shite}}}}
 <li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}}}}
 <li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}suru}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}suru}}@N2{{}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -57,7 +58,7 @@ The @HI{{te}} in @HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} cannot be dropped
 
 @BGRND{{}}
 <p>
-<a name="prenominal">@N{{}}@HI{{ni@FG{{@KJ{{connection}}:kan'}}suru}}</a> is used to modify a following noun.
+<a name="prenominal">@HI{{@N{{}}ni@FG{{@KJ{{connection}}:kan'}}suru}}</a> is used to modify a following noun.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -65,6 +66,20 @@ The @HI{{te}} in @HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} cannot be dropped
   </td> </tr>
   <tr class="en"> <td>
       Last week a conference on superconductivity was held in Tokyo.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="prenominal2">@HI{{@N{{}}ni@FG{{@KJ{{connection}}:kan'}}shiteno}}</a> is also used to modify a following noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{east^capital}}de@FG{{@KJ{{ring^boundary}}:kankyou}}@KJ{{question^topic}}ni@KJ{{connection}}shiteno@KJ{{meeting^deliberation}}ga@FG{{@KJ{{open}}:hira}}kareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A conference on environmental issues was held in Tokyo.
   </td> </tr>
 </table>
 </p>
@@ -94,6 +109,7 @@ The @HI{{te}} in @HI{{ni@FG{{@KJ{{connection}}:kan'}}shiteha}} cannot be dropped
 <li> @REF{{NKZM-N2G}}. (p. 34).
 <li> @REF{{NKZM-N2G}}. (p. 122).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 15).
 </ol>
 
 @include{{"grammar-footer.inc"}}

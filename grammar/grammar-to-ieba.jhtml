@@ -21,8 +21,11 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{to@KJ{{say}}eba}} is used to take a phrase which has just been said and use it as the topic
+<a name="">@HI{{to@KJ{{say}}eba}} is used to take a phrase which has just been said and use it as the topic
 of a subsequent discourse.
 
 <table class="sentence">
@@ -41,6 +44,36 @@ of a subsequent discourse.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="examples">@HI{{to@KJ{{say}}eba}} can be used to associate something in a previous discourse with typical examples.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="unexpected">@HI{{to@KJ{{say}}eba}} can be used to associate something in a previous discourse with something surprising.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -50,6 +83,7 @@ of a subsequent discourse.
 <li> @REF{{NKZM-N2G}}. (p. 60).
 <li> @REF{{NKZM-N2G}}. (p. 124).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 15).
 </ol>
 
 @include{{"grammar-footer.inc"}}

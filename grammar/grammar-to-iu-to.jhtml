@@ -56,7 +56,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}uto}}}} is used when the speaker wants to make a remark which is different from that which is expected.
+<a name="unexpected">@HI{{@EM{{to@KJ{{say}}uto}}}}</a> is used when the speaker wants to make a remark which is different from that which is expected.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -64,6 +64,20 @@
   </td> </tr>
   <tr class="en"> <td>
       Some people ridicule comics (lit. Some people despise you when you mention comics), but comics are intesting in their own way.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="unexpected-toittara">@HI{{@EM{{toittara}}}}</a> is used when the speaker wants to make a remark which is different from that which is expected.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      
+  </td> </tr>
+  <tr class="en"> <td>
+      
   </td> </tr>
 </table>
 </p>
@@ -98,6 +112,7 @@
 <li> @REF{{DOIJG}}. (p. 492).
 <li> @REF{{NKZM-N2G}}. (p. 61).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 15).
 </ol>
 
 @include{{"grammar-footer.inc"}}
