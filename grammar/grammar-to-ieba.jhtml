@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-<a name="">@HI{{to@KJ{{say}}eba}} is used to take a phrase which has just been said and use it as the topic
+<a name="topic">@HI{{to@KJ{{say}}eba}} is used to take a phrase which has just been said and use it as the topic
 of a subsequent discourse.
 
 <table class="sentence">
