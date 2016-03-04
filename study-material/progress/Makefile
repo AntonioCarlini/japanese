@@ -18,6 +18,7 @@ JHTML_SRCS += kzm-n3g.jhtml
 JHTML_SRCS += kzm-n3g-exercises.jhtml
 JHTML_SRCS += mnn-int.jhtml
 JHTML_SRCS += mnn.jhtml
+JHTML_SRCS += nsm-n1g.jhtml
 JHTML_SRCS += nsm-n2g.jhtml
 JHTML_SRCS += nsm-n3g.jhtml
 JHTML_SRCS += nsm-n3g-exercises.jhtml
