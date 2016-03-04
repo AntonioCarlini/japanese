@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-If two things share a common property, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "as well".
+<a name="as-well">If</a> two things share a common property, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "as well".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -43,7 +43,7 @@ If two things share a common property, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni
 
 @BGRND{{}}
 <p>
-If two things are actors of the same action, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "with" or "along with".
+<a name="along-with">If</a> two things are actors of the same action, @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} means "with" or "along with".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@ If two things are actors of the same action, @HI{{@EM{{to@FG{{@KJ{{together}}:to
 
 @BGRND{{}}
 <p>
-If @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a noun representing an event or an action, then it means "at the same time" or "with", depending on the noun.
+<a name="same-time">If</a> @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a noun representing an event or an action, then it means "at the same time" or "with", depending on the noun.
 In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 <table class="sentence">
@@ -72,7 +72,7 @@ In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 @BGRND{{}}
 <p>
-When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a verb, it means "as" or "while".
+<a name="as">When</a> @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by a verb, it means "as" or "while".
 In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 <table class="sentence">
@@ -87,7 +87,7 @@ In this usage it can be replaced by @HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}.
 
 @BGRND{{}}
 <p>
-When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by @HI{{dearu}} is means "as well as".
+<a name="as-well-as">When</a> @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by @HI{{dearu}} is means "as well as".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -124,6 +124,7 @@ When @HI{{@EM{{to@FG{{@KJ{{together}}:tomo}}ni}}}} is preceded by @HI{{dearu}} i
 <li> @REF{{NKZM-N2G}}. (p. 42).
 <li> @REF{{NKZM-N2G}}. (p. 122).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}

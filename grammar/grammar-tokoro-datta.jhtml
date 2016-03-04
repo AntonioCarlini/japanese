@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{tokorodatta}}}} indicates that an action was almost, but not quite, performed or that someone came close to doing something.
+<a name="not-quite">@HI{{@EM{{tokorodatta}}}}</a> indicates that an action was almost, but not quite, performed or that someone came close to doing something.
 Had the action been performed, the consequences would usually have been bad. 
 
 <table class="sentence">
@@ -41,7 +41,7 @@ Had the action been performed, the consequences would usually have been bad.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{tokorodatta}}}} often occurs with @HI{{mousukoshide}}.
+<a name="mousukoshide">@HI{{@EM{{tokorodatta}}}}</a> often occurs with @HI{{mousukoshide}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -63,6 +63,7 @@ Had the action been performed, the consequences would usually have been bad.
 <li> @REF{{NKZM-N2G}}. (p. 91).
 <li> @REF{{DOBJG}}. (p. 499).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}
