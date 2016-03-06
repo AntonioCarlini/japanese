@@ -19,6 +19,7 @@
 <li> @FORMATION{{@Vru{{}}@HI{{@EM{{no}}}}}}
 <li> @FORMATION{{@Ai{{}}@HI{{@EM{{no}}}}}}
 <li> @FORMATION{{@Ana{{}}@HI{{@EM{{no}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{@EM{{toiuno}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -58,6 +59,20 @@ something to which the speaker does not feel very close.
 @HI{{@EM{{no}}}} tends to be used when the nominalised clause indicates something concrete or perceptible
 whereas <a href="grammar-koto-nominaliser.html">@HI{{koto}}</a> tends to be used when it indicates something
 abstract or imperceptible.
+</p>
+
+@BGRND{{}}
+<p>
+<a name="toiuno"@HI{{@EM{{toiuno}}}} can be used to nominalise a complicated phrase.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}sanga@FG{{@KJ{{doctor^someone}}:isha}}da@EM{{toiuno}}wo@FG{{@KJ{{know}}:shi}}ranakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I didn't know that Tanaka was a doctor.
+  </td> </tr>
+</table>
 </p>
 
 
@@ -104,6 +119,7 @@ abstract or imperceptible.
 <li> @REF{{MNN-TR-II}}. (Chapter 38).
 <li> @REF{{DOBJG}}. (p. 318).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
