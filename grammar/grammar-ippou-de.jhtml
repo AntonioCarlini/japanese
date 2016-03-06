@@ -31,7 +31,7 @@
 
 @BGRND{{}}
 <p>
-@KJ{{one^direction}}@HI{{de}} is a conjunction used to present two concurrent actions, events or states
+<a name="concurrent">@KJ{{one^direction}}@HI{{de}}</a> is a conjunction used to present two concurrent actions, events or states
 or two contrasting situations.
 Often translated as "while" or "at the same time" or "on the other hand".
 
@@ -48,7 +48,7 @@ Often translated as "while" or "at the same time" or "on the other hand".
 
 @BGRND{{}}
 <p>
-The particle @HI{{de}} of @KJ{{one^direction}}@HI{{de}} may be present when @KJ{{one^direction}} is connected to another element,
+<a name="optional-de">The</a> particle @HI{{de}} of @KJ{{one^direction}}@HI{{de}} may be present when @KJ{{one^direction}} is connected to another element,
 but it is optional.
 
 <table class="sentence">
@@ -64,7 +64,7 @@ but it is optional.
 
 @BGRND{{}}
 <p>
-When @KJ{{one^direction}}@HI{{de}} appears as a sentence-initial conjunction, the preceding and following sentences
+<a name="contrast">When</a> @KJ{{one^direction}}@HI{{de}} appears as a sentence-initial conjunction, the preceding and following sentences
 present contrasting situations and do not represent concurrent actions.
 
 <table class="sentence">

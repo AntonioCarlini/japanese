@@ -302,7 +302,7 @@
 <li> <a href="grammar-.html"></a>@Vta{{}}@HI{{tokoro}}
 <li> <a href="grammar-.html"></a>@HI{{anmari}} ~ @HI{{kara}}
 <li> <a href="grammar-tokoro-datta.html#not-quite">@HI{{tokorodatta}}</a>
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{limit}}tte}}
+<li> <a href="grammar-ni-kagitte.html">@HI{{ni@KJ{{limit}}tte}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter17">_</a>Chapter 17</h2>
@@ -341,28 +341,29 @@
 <ol>
 <li> <a href="grammar-.html"></a>@HI{{wo@KJ{{vis-a-vis^elephant}}ni}}
 <li> <a href="grammar-.html"></a>@HI{{bakaridenaku}}
-<li> <a href="grammar-.html"></a>@HI{{nihokanaranai}}
-<li> <a href="grammar-.html"></a>@HI{{wo@KJ{{traffic}}shite}}
-<li> <a href="grammar-.html"></a>@HI{{kara}} ~ @HI{{nikakete}}
+<li> <a href="grammar-ni-hoka-naranai.html">@HI{{nihokanaranai}}</a>
+<li> <a href="grammar-wo-tooshite.html">@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
+<li> <a href="grammar-kara-ni-kakete.html">@HI{{kara}} ~ @HI{{nikakete}}</a>
 <li> <a href="grammar-.html"></a>@HI{{hatomokaku}}
 <li> <a href="grammar-.html"></a>@HI{{tameniha}}
-<li> <a href="grammar-.html"></a>@KJ{{decide}}@HI{{shite}} ~ @HI{{nai}}
+<li> <a href="grammar-kesshite.html">@KJ{{decide}}@HI{{shite}} ~ @HI{{nai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter20">_</a>Chapter 20</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{nomotode}}
+<li> <a href="grammar-no-moto-de.html">@HI{{nomotode}}</a>
 <li> <a href="grammar-.html"></a>@HI{{sou}}
-<li> <a href="grammar-.html"></a>@HI{{zo}}
+<li> <a href="grammar-particle-zo.html">@HI{{zo}}</a>
 <li> <a href="grammar-.html"></a>@HI{{to@KJ{{same^time}}ni}}
-<li> <a href="grammar-.html"></a>@HI{{shikanakatta}}
-<li> <a href="grammar-.html"></a>@HI{{no}}@KJ{{extremity}}
-<li> <a href="grammar-.html"></a>@KJ{{by*means*of^come}}
+<li> <a href="grammar-shika-nai.html"></a>@HI{{shikanai}}
+<li> <a href="grammar-sue-ni.html">@HI{{no@FG{{@KJ{{extremity}}:sue}}(ni)}}</a>
+<li> <a href="grammar-irai.html#noun-irai">@HI{{@N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}} @MIDDOT{{}}
+     <a href="grammar-irai.html#te-irai">@HI{{@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}}
 <li> <a href="grammar-.html"></a>@HI{{kurai}}/@HI{{kuraida}}
 <li> <a href="grammar-.html"></a>@HI{{wokomete}}
-<li> <a href="grammar-.html"></a>@HI{{totan'ni}}
-<li> <a href="grammar-.html"></a>@HI{{karatoitte}}
+<li> <a href="grammar-totan.html">@HI{{totan'ni}}</a>
+<li> <a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter21">_</a>Chapter 21</h2>
@@ -374,41 +375,41 @@
 <li> <a href="grammar-.html"></a>@HI{{ikani}} ~ @HI{{ka}}
 <li> <a href="grammar-.html"></a>@HI{{toka}}
 <li> <a href="grammar-.html"></a>@HI{{ni@KJ{{say}}wasereba}}
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{fundamentals}}duite}}
+<li> <a href="grammar-ni-motozuite.html">@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}</a>
 <li> <a href="grammar-.html"></a>@HI{{to@KJ{{say}}emasu}}
-<li> <a href="grammar-.html"></a>@KJ{{one^direction}}@HI{{de}}
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{limit}}razu}}
+<li> <a href="grammar-ippou-de.html#contrast">@KJ{{one^direction}}@HI{{de}}</a>
+<li> <a href="grammar-ni-kagirazu.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter22">_</a>Chapter 22</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{@KJ{{next^no.}}desu}}
+<li> <a href="grammar-shidai.html#information">@HI{{@FG{{@KJ{{next^no.}}:shidai}}desu}}</a>
 <li> <a href="grammar-.html"></a>@HI{{womotte}} ~ @HI{{tosareteiru}}
 <li> <a href="grammar-.html"></a>@HI{{okimashiteha}}
-<li> <a href="grammar-.html"></a>@HI{{uru}}/@HI{{eru}}
-<li> <a href="grammar-.html"></a>@HI{{nodearou}}/@HI{{nodarou}}
+<li> <a href="grammar-eru-suffix.html">@HI{{uru}}</a> @MIDDOT{{}} <a href="grammar-eru-suffix.html">@HI{{eru}}</a>
+<li> <a href="grammar-dearou.html">@HI{{nodearou}}</a> @MIDDOT{{}} <a href="grammar-dearou.html">@HI{{nodarou}}</a>
 <li> <a href="grammar-.html"></a>@HI{{to@KJ{{think}}wareru}}
-<li> <a href="grammar-.html"></a>@HI{{toshitemo}}
+<li> <a href="grammar-to-shite-mo.html">@HI{{toshitemo}}</a>
 <li> <a href="grammar-.html"></a>@HI{{mounimo}} ~ @HI{{nai}}
-<li> <a href="grammar-.html"></a>@HI{{warini}}
-<li> <a href="grammar-.html"></a>@HI{{bekida}}
-<li> <a href="grammar-.html"></a>@HI{{toiuyori}}
+<li> <a href="grammar-wari-ni-wa.html">@HI{{warini}}</a>
+<li> <a href="grammar-beki.html">@HI{{bekida}}</a>
+<li> <a href="grammar-to-iu-yori.html">@HI{{toiuyori}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter23">_</a>Chapter 23</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{reach*out}}bu}}
+<li> <a href="grammar-oyobi.html">@HI{{ni@FG{{@KJ{{reach*out}}:oyo}}bu}}</a>
 <li> <a href="grammar-.html"></a>@KJ{{can^ability^sex}}@HI{{gaaru}}
 <li> <a href="grammar-.html"></a>@HI{{kono}}@N{{}}
-<li> <a href="grammar-.html"></a>@KJ{{above}}@HI{{de}}
-<li> <a href="grammar-.html"></a>@HI{{nitsurete}}
-<li> <a href="grammar-.html"></a>@HI{{kotoni}}
-<li> <a href="grammar-.html"></a>@KJ{{fear}}@HI{{renoaru}}
+<li> <a href="grammar-ue-de.html">@KJ{{above}}@HI{{de}}</a>
+<li> <a href="grammar-ni-tsurete.html">@HI{{nitsurete}}</a>
+<li> <a href="grammar-koto-ni.html">@HI{{kotoni}}</a>
+<li> <a href="grammar-osore-ga-aru.html">@KJ{{fear}}@HI{{renoaru}}</a>
 <li> <a href="grammar-.html"></a>@HI{{mademoarimasen}}
 <li> <a href="grammar-.html"></a>@HI{{kikkakete}}
-<li> <a href="grammar-.html"></a>@HI{{wohajime}}
+<li> <a href="grammar-wo-hajime-toshite.html">@HI{{wohajime}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>
@@ -418,11 +419,11 @@
 <li> <a href="grammar-.html"></a>@HI{{kara}} ~ @HI{{ni@KJ{{climax}}rumade}}
 <li> <a href="grammar-.html"></a>@HI{{kitta}}
 <li> <a href="grammar-.html"></a>@HI{{naranu}}
-<li> <a href="grammar-.html"></a>@HI{{sae}} ~ @HI{{ba}}
-<li> <a href="grammar-.html"></a>(one) @HI{{toshite}} ~ @HI{{masen}}
-<li> <a href="grammar-.html"></a>@KJ{{by*means*of^above}}(@HI{{ha}})
+<li> <a href="grammar-particle-sae.html#if-only">@HI{{sae}} ~ @HI{{ba}}</a>
+<li> <a href="grammar-toshite-nai.html">(one) @HI{{toshite}} ~ @HI{{masen}}</a>
+<li> <a href="grammar-ijou.html">@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}(ha)}}</a>
 <li> <a href="grammar-.html"></a>@HI{{nukagiri}}
-<li> <a href="grammar-.html"></a>@HI{{wakenihayukimasen}}
+<li> <a href="grammar-wake-ni-wa-ikenai.html">@HI{{wakenihayukimasen}}</a>
 <li> <a href="grammar-.html"></a>@HI{{amari}}(@HI{{ni}})
 </ol>
 
