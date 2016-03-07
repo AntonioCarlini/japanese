@@ -81,6 +81,7 @@ JHTML_SRCS += grammar-dekiru.jhtml
 JHTML_SRCS += grammar-demo.jhtml
 JHTML_SRCS += grammar-deshou-ka.jhtml
 JHTML_SRCS += grammar-deshou.jhtml
+JHTML_SRCS += grammar-desu-kara.jhtml
 JHTML_SRCS += grammar-dochira-ka-to-iu-to.jhtml
 JHTML_SRCS += grammar-dokoro-de-wa-nai.jhtml
 JHTML_SRCS += grammar-dokoro-ka.jhtml
