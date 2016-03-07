@@ -32,6 +32,7 @@ JHTML_SRCS += grammar-choosing.jhtml
 JHTML_SRCS += grammar-choudo.jhtml
 JHTML_SRCS += grammar-command-to-iwareru.jhtml
 JHTML_SRCS += grammar-conditional-ii.jhtml
+JHTML_SRCS += grammar-conditional-noni.jhtml
 JHTML_SRCS += grammar-copula.jhtml
 JHTML_SRCS += grammar-counter-ban.jhtml
 JHTML_SRCS += grammar-counter-bun.jhtml
