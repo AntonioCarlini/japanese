@@ -8,28 +8,36 @@
 <body>
 <h1>@KJ{{day^book^word}} Study Progress</h1>
 
-<ol class="toc">
+@BGRNDSTART{{}}
+
+<ul>
+@BGRND{{}}
 <li><a href="mnn.html"><span>@HI{{minnnano}}@KJ{{day^book^word^first*time^class}}</span></a> -
     <a href="mnn-toc.html"><span>(table of contents)</span></a>
 <li><a href="mnn-int.html"><span>@HI{{minnnano}}@KJ{{day^book^word^in^class}}</span></a> -
     <a href="mnn-int-toc.html"><span>(table of contents)</span></a>
+@BGRND{{}}
 <li><a href="nsm-n3g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N3 @KJ{{sentence^method}}</span></a> -
   <a href="nsm-n3g-toc.html"><span>(table of contents)</span></a> - 
   <a href="nsm-n3g-exercises.html"><span>(exercises)</span>
 <li><a href="nsm-n2g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N2 @KJ{{sentence^method}}</span></a> -
   <a href="nsm-n2g-toc.html"><span>(table of contents)</span></a>
 <li><a href="nsm-n1g.html"><span>@KJ{{day^book^word^general}}@HI{{matome}} N1 @KJ{{sentence^method}}</span></a> -
-  <a href="nsm-n1g-toc.html"><span>(table of contents)</span></a>
+  <a href="nsm-n1g-toc.html"><span>(table of contents)</span></a>=
+@BGRND{{}}
 <li><a href="kzm-n3g.html"><span>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</span></a> -
   <a href="kzm-n3g-toc.html"><span>(table of contents)</span></a> -
   <a href="kzm-n3g-exercises.html"><span>(exercises)</span></a>
 <li><a href="kzm-n2g.html"><span>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{sentence^method}}</span></a> -
   <a href="kzm-n2g-toc.html"><span>(table of contents)</span></a> -
   <a href="kzm-n2g-exercises.html"><span>(exercises)</span></a>
+@BGRND{{}}
 <li><a href="aap.html"><span>All About Particles</span></a>
+@BGRND{{}}
 <li><a href="dobjg.html"><span>Dictionary of Basic Japanese Grammar</span></a>
 <li><a href="doijg.html"><span>Dictionary of Intermediate Japanese Grammar</span></a>
 <li><a href="doajg.html"><span>Dictionary of Advanced Japanese Grammar</span></a>
+@BGRND{{}}
 <li><a href="ahij-vocabulary.html"><span>A Homestay in Japan: vocabulary</span></a>
 <li><a href="jpod.html"><span>JapanesePOD101.com</span></a>
 <li><a href="kic.html"><span>Kanji In Context</span></a>
@@ -37,7 +45,9 @@
 <li><a href="taekim.html"><span>Tae Kim's Japanese Grammar</span></a>
 <li><a href="heisig.gen.html"><span>Kanji by Heisig Index</span></a>
 <li><a href="radicals.gen.html"><span>Kanji Radicals</span></a>
-</ol>
+</ul>
+
+@BGRNDEND{{}}
 
 </body>
 </html>
