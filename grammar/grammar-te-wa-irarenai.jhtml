@@ -11,7 +11,7 @@
 @GRMIDX{{index="@HI{{terarenai}}" grammar="@HI{{@Vte{{}}rarenai}}"}}
 @GRMIDX{{index="@HI{{teran'nai}}" grammar="@HI{{@Vte{{}}ran'nai}}"}}
 @GRMIDX{{index="@HI{{naidehairarenai}}" grammar="@HI{{@Vnai{{}}dehairarenai}}"}}
-@GRMIDX{{index="@HI{{zunihairarenai}}" grammar="@HI{{@Vnaistem{{}}zunihairarenai}}"}}
+@GRMIDX{{index="@HI{{zunihairarenai}}" grammar="@HI{{@Vzu{{}}nihairarenai}}"}}
 
 <body>
 
@@ -22,7 +22,7 @@
 <ol>
 <li> @FORMATION{{@HI{{@EM{{@Vte{{}}hairarenai}}}}}}
 <li> @FORMATION{{@HI{{@EM{{@Vnai{{}}dehairarenai}}}}}}
-<li> @FORMATION{{@HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vzu{{}}nihairarenai}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -60,7 +60,7 @@ The literal meaning is "cannot remain not doing".
 
 @BGRND{{}}
 <p>
-<a name="zu-ni-wa-irarenai">@HI{{@EM{{@Vnaistem{{}}zunihairarenai}}}} also means "cannot help doing".
+<a name="zu-ni-wa-irarenai">@HI{{@EM{{@Vzu{{}}nihairarenai}}}} also means "cannot help doing".
 
 <table class="sentence">
   <tr class="jp"> <td>
