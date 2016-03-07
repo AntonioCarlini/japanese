@@ -233,6 +233,7 @@ JHTML_SRCS += grammar-mo-ba.jhtml
 JHTML_SRCS += grammar-mono-da.jhtml
 JHTML_SRCS += grammar-mono-dakara.jhtml
 JHTML_SRCS += grammar-mono-de-wa-nai.jhtml
+JHTML_SRCS += grammar-moshi.jhtml
 JHTML_SRCS += grammar-motto-mo.jhtml
 JHTML_SRCS += grammar-mou.jhtml
 JHTML_SRCS += grammar-muke.jhtml
