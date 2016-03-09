@@ -43,7 +43,7 @@
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}1@KJ{{week}}7@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td> <td class="none">  </td> <td class="none"> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td> <td class="none">  </td> <td class="none"> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}2@KJ{{week}}1@KJ{{day^eye}} </td>
@@ -71,7 +71,7 @@
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}2@KJ{{week}}7@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td> <td class="none">  </td> <td class="none"> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td> <td class="none">  </td> <td class="none"> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}3@KJ{{week}}1@KJ{{day^eye}} </td>
