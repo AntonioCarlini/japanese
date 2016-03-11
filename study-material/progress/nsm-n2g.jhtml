@@ -103,31 +103,31 @@
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}1@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}3@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}4@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}5@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}6@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}4@KJ{{week}}7@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="none"> </td> <td class=""> </td> <td class="none">  </td> <td class="none"> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class=""> </td> <td class="none">  </td> <td class="none"> </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}5@KJ{{week}}1@KJ{{day^eye}} </td>
