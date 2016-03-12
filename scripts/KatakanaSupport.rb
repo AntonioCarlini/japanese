@@ -40,7 +40,7 @@ def convert_to_katakana(text)
   result = ""
   current = ""
   pos = 0
-  text.chars() {
+  text.each_char() {
     |c|
     pos += 1
     current += c
