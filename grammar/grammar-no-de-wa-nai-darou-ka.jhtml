@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{nodehanaidarouka}}" grammar="@HI{{nodehanaidarouka}}"}}
+@GRMIDX{{index="@HI{{nodehanaika}}" grammar="@HI{{nodehanaika}}"}}
 
 <body>
 
@@ -28,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nodehanaidarouka}}}} is used when the speaker wishes to indicate that they believe something is probably true
+<a name="nodewanaidarouka">@HI{{@EM{{nodehanaidarouka}}}}</a> is used when the speaker wishes to indicate that they believe something is probably true
 but they are unwilling to commit to a definite conclusion.
 
 <table class="sentence" border=0>
@@ -41,6 +42,35 @@ but they are unwilling to commit to a definite conclusion.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="nodewanaika">@HI{{@EM{{nodehanaika}}}}</a> is used to indicate that something is probably true, but there is some uncertainty.
+It conveys a lesser degree of uncertainty than @HI{{@EM{{nodehanaidarouka}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}@FG{{@KJ{{family*name}}:shi}}ha@FG{{@KJ{{now^degrees}}:kondo}}no@FG{{@KJ{{elect^raise}}:senkyo}}ni@KJ{{exit}}ru@EM{{nodehanaika.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Suzuki will probably stand in the forthcoming election.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="noda">@HI{{@EM{{noda}}}}</a> conveys a degree of conviction.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}@FG{{@KJ{{sutra^finish}}:keizai}}no@FG{{@KJ{{-times^restore}}:kaifuku}}niha@KJ{{few}}shi@KJ{{time^interval}}gakakaru@EM{{noda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It will take a little more time before the Japanese economy recovers.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -49,6 +79,7 @@ but they are unwilling to commit to a definite conclusion.
 
 <ol>
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 14).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 15).
 </ol>
 
 @include{{"grammar-footer.inc"}}

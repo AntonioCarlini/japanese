@@ -265,7 +265,8 @@
 <li> <a href="grammar-particle-to-wa.html">@HI{{toha}}</a>
 <li> <a href="grammar-ni-oite.html">@HI{{nioite}}</a>
 <li> <a href="grammar-wake-da.html">@HI{{wakeda}}</a>/<a href="grammar-wake-da.html">@HI{{wakedearu}}</a>
-<li> @HI{{noda}}/<a href="grammar-no-de-wa-nai-darou-ka.html">@HI{{nodehanaidarouka}}</a>
+<li> <a href="grammar-no-de-wa-nai-darou-ka.html#noda">@HI{{noda}}</a> @MIDDOT{{}}
+     <a href="grammar-no-de-wa-nai-darou-ka.html#nodewanaidarouka">@HI{{nodehanaidarouka}}</a>
 <li> <a href="grammar-particle-kke.html">@HI{{kke}}</a>
 <li> <a href="grammar-ge.html">@HI{{ge}}</a>
 </ol>
@@ -279,7 +280,7 @@
      <a href="grammar-ni-kanshite.html">@HI{{ni@KJ{{connection}}shite}}</a> @MIDDOT{{}}
      <a href="grammar-ni-kanshite.html#prenominal2">@HI{{ni@KJ{{connection}}shiteno}}</a>
 <li> <a href="grammar-wake-dewa-nai.html">@HI{{wakedehanai}}</a>
-<li> <a href="grammar-.html"></a>@HI{{nodehanaika}}
+<li> <a href="grammar-no-de-wa-nai-darou-ka.html#nodewanaika">@HI{{nodehanaika}}</a>
 <li> <a href="grammar-.html"></a>@HI{{noda}}/@HI{{nodehanai}}
 <li> <a href="grammar-.html"></a>@HI{{hodonomonojaarimasen}}
 <li> <a href="grammar-dake-de-wa-naku-mo.html">@HI{{dakejanaku}}</a>
