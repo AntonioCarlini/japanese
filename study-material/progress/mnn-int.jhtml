@@ -126,90 +126,100 @@
 
 <table class="progress">
 <tr>
-  <th> &nbsp; </th> <th colspan="6"> Studied </th> <th> SRS </th> <th> Grammar </th>
+  <th> &nbsp; </th> <th colspan="2"> SRS </th> <th colspan="5"> Studied </th> <th> Grammar </th>
 </tr>
 <tr>
   <th> Chapter </th>
-  <th> Vocabulary </th> <th> Grammar </th>
+  <th> Vocabulary </th> <th> Sentences </th>
+  <th> Grammar </th>
   <th> @FG{{@KJ{{read}}:yo}}@HI{{mu}}@MIDDOT{{}}@FG{{@KJ{{write}}:ka}}@HI{{ku}} </th>
   <th> @FG{{@KJ{{tale}}:hana}}@HI{{su}}@MIDDOT{{}}@FG{{@KJ{{hear}}:ki}}@HI{{ku}} </th>
   <th> @FG{{@KJ{{sentence^method}}:bunpou}} </th>
   <th> @FG{{@KJ{{question^topic}}:mondai}} </th>
-  <th> Sentences </th>
   <th> Notes Made </th>
 </tr>
 <tr>
   <td class=""> 13 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 14 </td>
-  <td class="ok"> @TICK{{}} </td> <td class="">
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class="">
   </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 15 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 16 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 17 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 18 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 19 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 20 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 21 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 <tr>
   <td class=""> 22 </td>
   <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 23 </td>
   <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
   <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 24 </td>
   <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td> <td class=""> </td>
+  <td class=""> </td>
 </tr>
 </table>
 
