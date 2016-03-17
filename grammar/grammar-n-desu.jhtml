@@ -130,6 +130,36 @@ to state a reason or cause in the reply.
 
 @BGRND{{}}
 <p>
+<a name="restate">@HI{{@EM{{nodesu}}}}</a> can be used to restate a previous sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}hamadao@KJ{{sake}}ga@KJ{{drink}}menai@FG{{@KJ{{year^age}}:nenrei}}da.@FG{{@KJ{{un-^turn*into^year}}:minenrei}}na@EM{{noda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He's still too young to drink. He's a minor.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="summarise">When</a> used with such expressions as "@HI{{tsumari}}", "@HI{{@KJ{{private}}ga@KJ{{say}}itainoha}}" and "@HI{{@KJ{{say}}e@FG{{@KJ{{interchange}}:ka}}ereba}}",
+@HI{{@EM{{nodesu}}}} can also be used to summarise what has been said so far.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{make*a*deal^goods}}:shouhin}}ha@FG{{@KJ{{country^inside}}:kokunai}}deha@FG{{@KJ{{marketing^sell}}:hanbai}}sareteinai.
+      @KJ{{say}}e@FG{{@KJ{{interchange}}:ka}}ereba,@FG{{@KJ{{sea^outside}}:kaigai}}deshika@KJ{{buy}}enai@EM{{nodesu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This product is not sold domestically. Putting it another way, it can only be bought abroad.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 In informal speech, this may be abbreviated to @HI{{@EM{{no}}}}.
 </p>
 
