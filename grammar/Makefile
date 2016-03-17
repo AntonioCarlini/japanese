@@ -111,6 +111,7 @@ JHTML_SRCS += grammar-hanmen.jhtml
 JHTML_SRCS += grammar-hazu-ga-nai.jhtml
 JHTML_SRCS += grammar-hazu.jhtml
 JHTML_SRCS += grammar-hitotsu.jhtml
+JHTML_SRCS += grammar-hodo-no-mono-ja-arimasen.jhtml
 JHTML_SRCS += grammar-honorific-humble.jhtml
 JHTML_SRCS += grammar-hoshii.jhtml
 JHTML_SRCS += grammar-hou-ga-ii.jhtml
