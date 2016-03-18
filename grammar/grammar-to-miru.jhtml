@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomiru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomiru}}" grammar="@HI{{tomiru}}"}}
+
+<body>
+
+<h1>@HI{{tomiru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{tomiru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tomiru}}}} means "one can think (on objective grounds)".
+This @HI{{miru}} means to judge or to deduce and the @HI{{to}} is the quotation particle.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{oneself^move^car^profession^world}}:jidoushagyoukai}}ha@FG{{@KJ{{east^south}}:tounan}}@KT{{ajia}}@KJ{{oneself^move^car}}no@FG{{@KJ{{demand^need}}:juyou}}hamada@FG{{@KJ{{expand}}:no}}biru@EM{{tomiteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The automobile industry believes that the demand for cars in South-East Asia will keep on increasing.      
+  </td> </tr>
+</table>
+
+@BGRND{{}}
+<p>
+In the form @HI{{@EM{{tomirareru}}}} it is often used in news reports when the speaker is saying what they think.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{promise}}:yaku}}100@KJ{{person}}ga@FG{{@KJ{{death^deceased}}:shibou}}shita@EM{{tomirareru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      About 100 people were feared dead.
+  </td> </tr>
+</table>
+
+@BGRND{{}}
+<p>
+In the form @HI{{@EM{{tomirareteiru}}}} it indicates that what was stated is generally thought by many people.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{period^wait}}:kitai}}no@FG{{@KJ{{new^person}}:shinjin}}ha@KT{{meja-ri-gu}}ni@FG{{@KJ{{challenge^war}}:chousen}}suru@EM{{tomirareteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is believed that the promising new team member will try for the Major League.
+  </td> </tr>
+</table>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 16).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -568,6 +568,7 @@ JHTML_SRCS += grammar-to-iu-yori.jhtml
 JHTML_SRCS += grammar-to-iu.jhtml
 JHTML_SRCS += grammar-to-iwarete-iru.jhtml
 JHTML_SRCS += grammar-to-mieru.jhtml
+JHTML_SRCS += grammar-to-miru.jhtml
 JHTML_SRCS += grammar-to-naru-to.jhtml
 JHTML_SRCS += grammar-to-naru.jhtml
 JHTML_SRCS += grammar-to-omou.jhtml
