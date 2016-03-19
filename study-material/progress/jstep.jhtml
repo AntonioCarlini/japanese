@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Japanese Step By Step</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<h1>Japanese Step By Step</h1>
+
+<table class="progress">
+<tr>
+  <th> &nbsp; </th> <th colspan="2"> SRS </th> <th> Studied </th> <th> Grammar </th>
+</tr>
+<tr>
+  <th> Chapter </th>
+  <th> Vocabulary </th> <th> Sentences </th> <th> Grammar </th> <th> Notes Made </th>
+</tr>
+<tr>
+  <td class="left"> Chapter 1: Syllables and Accent </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 2: Kana and Kanji </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 3: @HI{{desu}} </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 4: @HI{{masu}} </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 5: Postpositions @HI{{ha}} and @HI{{ga}} </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 6: The Uses of V3 (@Vru{{}}) </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 7: The Uses of V2 (@Vmasustem{{}}) </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 8: The Uses of "V2<sup>'</sup>-te" (@Vte{{}}) </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 9: The Uses of "V2<sup>'</sup>-ta" (@Vta{{}}) </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 10: The Uses of V1-nai (@Vnai{{}})  </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 11: Derivative Verbs </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 12: Compound Sentences </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Chapter 13: Complex Sentences </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Appendix 1: Greetings and Simple Expressions </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Appendix 2: Kanji Radicals </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Appendix 3: Numbers </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class="left"> Appendix 4: Verb Conjugation Charts </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+</body>
+</html>
