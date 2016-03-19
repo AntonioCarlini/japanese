@@ -13,15 +13,14 @@ table.progress td.left {
 <body>
 <h1>Dictionary of Intermediate Japanese Grammar</h1>
 
-
 <table class="progress">
 <tr>
-  <th colspan="2"> &nbsp; </th> <th colspan="2"> Studied </th> <th> SRS </th> <th> Grammar </th>
+  <th colspan="2"> &nbsp; </th> <th colspan="2"> SRS </th> <th> Studied </th> <th> Grammar </th>
 </tr>
 <tr>
   <th> Heading </th>
   <th> Location </th>
-  <th> Vocabulary </th> <th> Grammar </th> <th> Sentences </th> <th> Notes Made </th>
+  <th> Vocabulary </th> <th> Sentences </th> <th> Grammar </th> <th> Notes Made </th>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-amari.html#excessive">@HI{{amari}}</a>                                                 </td>
@@ -86,7 +85,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>                                                    </td>
   <td class="left"> DOIJG, p. 34                                                                                            </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-doumo.html"> @HI{{doumo}} </a>                                                         </td>
@@ -643,7 +642,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-particle-sae.html"> @HI{{sae}} </a>                                                   </td>
   <td class="left"> DOIJG, p. 363                                                                                          </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>                                   </td>
@@ -1017,5 +1016,6 @@ table.progress td.left {
 </tr>
 </table>
 
+</td></tr></table>
 </body>
 </html>

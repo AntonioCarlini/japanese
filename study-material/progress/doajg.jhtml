@@ -12,14 +12,15 @@ table.progress td.left {
 </style>
 <body>
 <h1>Dictionary of Advanced Japanese Grammar</h1>
+
 <table class="progress">
 <tr>
-  <th colspan="2"> &nbsp; </th> <th colspan="2"> Studied </th> <th> SRS </th> <th> Grammar </th>
+  <th colspan="2"> &nbsp; </th> <th colspan="2"> SRS </th> <th> Studied </th> <th> Grammar </th>
 </tr>
 <tr>
   <th> Heading </th>
   <th> Location </th>
-  <th> Vocabulary </th> <th> Grammar </th> <th> Sentences </th> <th> Notes Made </th>
+  <th> Vocabulary </th> <th> Sentences </th> <th> Grammar </th> <th> Notes Made </th>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{aete}}                                                                 </td>
@@ -369,7 +370,7 @@ table.progress td.left {
 <tr>
   <td class="left"> <a href="grammar-particle-kiri.html">(@HI{{xtsu}})@HI{{kiri}}</a>                                       </td>
   <td class="left"> DOAJG, p. 219                                                                                           </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-kke.html">@HI{{kke}}</a>                                                      </td>
