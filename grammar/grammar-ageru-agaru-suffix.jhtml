@@ -29,6 +29,11 @@
 <p>
 @HI{{@EM{{@FG{{@KJ{{above}}:a}}geru}}}} and @HI{{@EM{{@FG{{@KJ{{above}}:a}}garu}}}} both function as suffixes attached to the @HI{{masu}}-stem of a verb to give 
 a meaning of "just finished".
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{above}}:a}}geru}}}} attaches to transitive verbs.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -40,7 +45,10 @@ a meaning of "just finished".
 </table>
 </p>
 
+@BGRND{{}}
 <p>
+@HI{{@EM{{@FG{{@KJ{{above}}:a}}garu}}}} attaches to intransitive verbs.
+
 <table class="sentence" border=0>
   <tr class="jp"> <td>
     @HI{{@KT{{ke-ki}}ga@FG{{@KJ{{bake}}:ya}}ki@EM{{@KJ{{above}}garimashita}}.}}
