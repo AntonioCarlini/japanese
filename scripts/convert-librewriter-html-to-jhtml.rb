@@ -64,7 +64,7 @@ prefix = "<P STYLE=#{qQ}><FONT FACE=#{qQ}><FONT SIZE=#{inE}><SPAN LANG=#{inE}>"
 suffix = "</SPAN></FONT></FONT></P>".gsub(%r{/}, '\/')
 
 text = IO.read(file)
-text = text.force_encoding("ISO-8859-1") if RUBY_VERSION !~ /0.|1.[0-8]/ 
+text = text.force_encoding("ISO-8859-1") if RUBY_VERSION !~ /^0.|^1.[0-8]/ 
 
 text.scan(%r{#{prefix}(.*?)#{suffix}}im) {
   |jp|
