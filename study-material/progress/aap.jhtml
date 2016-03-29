@@ -163,10 +163,10 @@
   <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
+  <td class=""> 30 </td>
   <td class=""> @HI{{noni}} <a href="grammar-noni-although.html">(although)
   <a href="grammar-noni-purpose.html">(purpose)
   </td>
-  <td class=""> 30 </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
