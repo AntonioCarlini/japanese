@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{doushi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{doushi}}" grammar="@HI{{@FG{{@KJ{{same^gentleman}}:doushi}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{same^gentleman}}:doushi}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="among">@HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}</a>, when used with a reciprocal action, can mean "between" or "among".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{country}}dehaitoko@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}no@FG{{@KJ{{tie^marriage}}:kekkon}}ha@FG{{@KJ{{method^bull's*eye}}:houteki}}ni
+      @FG{{@KJ{{acknowledge}}:mito}}merareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In this country, marriage between cousins is legally recognised.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="together">@HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}</a>, when used with an action that is not reciprocal, can mean "together".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tall^exam^time^substitute}}:koukoujidai}}no@KJ{{friend^accomplished}}@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}de
+      @KJ{{outside^world^trip^going}}ni@KJ{{going}}kukotoninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We've decided that we high school friends will travel abroad together.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="reciprocal">@HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}</a>, when it means "together", must refer to something interactive between the nouns.
+In this sentence @KJ{{study^life^same^gentleman}} would be incorrect.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{study^life}}ga@FG{{@KJ{{stand*up}}:ta}}chi@FG{{@KJ{{above}}:a}}gatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The students stood up together.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="numbers">Numbers</a> do not come before @HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}.
+In this sentence @KJ{{car^same^gentleman}} would be incorrect.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{3@KJ{{pedestal^car}}ga@FG{{@KJ{{collide^stab}}:shoutotsu}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Three cars collided with one another.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, numbers can come after @HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{friend^accomplished}}@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}5@KJ{{person}}de@FG{{@KJ{{reflect^brush-stroke}}:eiga}}ni@KJ{{going}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We five friends went to a film together.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="first-person">When</a> @HI{{@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}}} means "together" and the subject is omitted, the sentence is taken to be in
+the first person unless there is some context to suggest otherwise.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{salary^logic^child}}:eriko}}hayoku@KJ{{trip^going}}suru.@KJ{{before^month}}mo@KJ{{friend^accomplished}}@EM{{@FG{{@KJ{{same^gentleman}}:doushi}}}}de
+      @FG{{@KJ{{nine^state}}:kyuushuu}}ni@KJ{{going}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Eriko travels often. Just last month she went to Kyushu with her friends.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 94).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

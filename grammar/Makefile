@@ -92,6 +92,7 @@ JHTML_SRCS += grammar-dou.jhtml
 JHTML_SRCS += grammar-douka.jhtml
 JHTML_SRCS += grammar-doumo.jhtml
 JHTML_SRCS += grammar-douse.jhtml
+JHTML_SRCS += grammar-doushi.jhtml
 JHTML_SRCS += grammar-douyatte.jhtml
 JHTML_SRCS += grammar-eru-suffix.jhtml
 JHTML_SRCS += grammar-expressing-time.jhtml
