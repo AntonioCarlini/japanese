@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dounimo~nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dounimo~nai}}" grammar="@HI{{dounimo~nai}}"}}
+
+<body>
+
+<h1>@HI{{dounimo~nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{dounimo}}@Vrareru{{}}}}}}
+<li> @FORMATION{{@HI{{@EM{{dounimo}}@Vmasustem{{}}youganai}}}}
+<li> @FORMATION{{@HI{{@EM{{dounimo}}@N{{}}ninaranai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="">@HI{{@EM{{dounimo}}}}~@HI{{@EM{{nai}}}}</a> is a structure used to indicate that no matter how hard someone may try, something is impossible.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ni@FG{{@KJ{{little^explanation}}:shousetsu}}nadoha@EM{{dounimo}}@KJ{{write}}ke@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'd never be able to write something like a novel, no matter how hard I try.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nothing-can-be-done">@HI{{@EM{{dounimonaranai}}}}</a> is a an idiomatic phrase meaning "it cannot be helped".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{baburu}}@FG{{@KJ{{sutra^finish^crumble^demolition}}:keizaihoukai}}no@KJ{{day^book}}no@KJ{{sutra^finish}}no@FG{{@KJ{{lower^astray}}:teimei}}buriha
+      hidoimonodakeredo,@EM{{dounimonaranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The Japanese economic slump since the bubble economy burst is terrible, but there is no help for it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 92).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

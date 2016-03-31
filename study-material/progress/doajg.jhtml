@@ -163,14 +163,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{domo}}                                                                 </td>
+  <td class="left"> <a href="grammar-domo.html">@HI{{domo}}</a>                                                             </td>
   <td class="left"> DOAJG, p. 88                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{dounimo}} ~ @HI{{nai}}                                                 </td>
+  <td class="left"> <a href="grammar-dou-ni-mo-nai.html">@HI{{dounimo}} ~ @HI{{nai}}</a>                                    </td>
   <td class="left"> DOAJG, p. 92                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{same^market}}:doushi}}                                            </td>

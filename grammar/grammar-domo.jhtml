@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{domo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{domo}}" grammar="@HI{{domo}}"}}
+
+<body>
+
+<h1>@HI{{domo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vba{{}}@HI{{@EM{{domo}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="conjunction">@HI{{@Vba{{}}@EM{{domo}}}}</a> is a conjunction that indicates concession based on an actual state or action.
+In @S1@HI{{@EM{{domo}}}}@S2{{}}, the second sentence always represents an actual state or action.
+It is used mostly in written language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KJ{{two}}tsuno@FG{{@KJ{{sentence^badge}}:bunshou}}ha@KJ{{say}}i@KJ{{direction}}ha@FG{{@KJ{{difference}}:chiga}}e@EM{{domo}},@KJ{{say}}outoshiteirukotoha@KJ{{same}}jida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although the way in which these two compositions are written is different, their claims are the same.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<name="even-though">The</a> phrase @HI{{@EM{{iedomo}}}} means "even though".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{parent}}@EM{{iedemo}}@FG{{@KJ{{child^submit}}:kodomo}}ni@FG{{@KJ{{vis-a-vis}}:tai}}shiteson'na@FG{{@KJ{{sideways^outburst}}:oubou}}ha@FG{{@KJ{{permit}}:yuru}}sarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even parents shouldn't be allowed to exercise such tyranny over their children.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="no-matter">When</a> @Vba{{}}@HI{{@EM{{domo}}}} is repeated the meaning is "no matter how ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{going}}ba@EM{{domo}}@KJ{{going}}ba@EM{{domo}}@FG{{@KJ{{person^house}}:jinka}}ga@KJ{{see}}etekonai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how far we go, we still can't see houses.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOIJG}}. (p. 88).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
