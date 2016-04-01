@@ -178,9 +178,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{ga@KJ{{early}}ika:haya}}                                               </td>
+  <td class="left"> <a href="grammar-ga-hayai-ka.html">@HI{{ga@FG{{@KJ{{early}}:haya}}ika}}</a>                             </td>
   <td class="left"> DOAJG, p. 99                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>~ @HI{{ga}} ~ @HI{{nara}}                                                   </td>

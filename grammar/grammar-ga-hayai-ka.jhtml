@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{gahayaika}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{gahayaika}}" grammar="@HI{{ga@FG{{@KJ{{early}}:haya}}ika}}"}}
+
+<body>
+
+<h1>@HI{{ga@FG{{@KJ{{early}}:haya}}ika}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{ga@FG{{@KJ{{early}}:haya}}ika}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="conjunction">@HI{{@EM{{ga@FG{{@KJ{{early}}:haya}}ika}}}}</a> is a conjunction that indicates that as soon as
+whatever is expressed in the subordinate clause takes place, what is expressed in the main clause happens.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@KJ{{morning}}@FG{{@KJ{{rouse}}:o}}kiru@EM{{ga@KJ{{early}}ika}},@KT{{shawa-}}wo@FG{{@KJ{{bathe}}:a}}bita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As soon as he woke up he took a shower.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="non-past">The</a> tense of the main clause cannot be non-past: it must describe something that has already happened.
+In the following sentence @HI{{@KJ{{electricity^tale}}wokaketa}} cannot be replaced by @HI{{@KJ{{electricity^tale}}wokakemasu}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he^woman}}:kanojo}}ha@KJ{{day^book}}ni@FG{{@KJ{{don}}:tsu}}ku@EM{{ga@KJ{{early}}ika}}@KJ{{friend^person}}ni@KJ{{electricity^tale}}wokaketa.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The moment she arrived in Japan she called her friend.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="subjects">The</a> subjects of the subordinate clause and the main clause can be different.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^car}}ha@KT{{jon}}ga@KJ{{ride}}ru@EM{{ga@KJ{{early}}ika}},@KJ{{move}}ki@KJ{{commence}}meta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As soon as John got on the train, it started to move.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="not-first">The</a> subject of the main clause cannot be the first person singular.
+In the following sentence @KJ{{he}} cannot be replaced by @KJ{{me}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@KJ{{house}}ni@KJ{{homecoming}}ru@EM{{ka@KJ{{early}}ka}}@KT{{bi-ru}}wo@KJ{{drink}}nda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As soon as he came home, he drank beer.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 99).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
