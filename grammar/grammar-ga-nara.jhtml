@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{~ga~nara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{~ga~nara}}" grammar="@HI{{~ga~nara}}"}}
+
+<body>
+
+<h1>@HI{{~ga~nara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ganara}}}}@N{{}}@HI{{@EM{{nara}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="counterfactual">The</a> construction @N{{}}@HI{{@EM{{ganara}}}}@N{{}}@HI{{@EM{{nara}}}} is used to express a
+counterfactual situation indicating that things would be better if @N{{}} were really good or appropriate.
+This construction often occurs with a conjectural expression such as @HI{{darou}} or @HI{{kamoshirenai}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{meeting^company}}@EM{{ga}}@KJ{{meeting^company}}@EM{{nara}}mou@KJ{{few}}shimashina@FG{{@KJ{{salary^fee}}:kyuuryou}}wo@KJ{{exit}}shitekurerunodarouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If my company were a really good one, it would probably pay a bit better salary, but ...
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<name="negative">The</a> construction can also be used to state that @N{{}} is bad. In this case there is no counterfactual meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{parent}}@EM{{ga}}@KJ{{parent}}@EM{{nara}},@KJ{{child^submit}}@EM{{mo}}@KJ{{child^submit}}@EM{{da}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The parents are really bad, but the children are the same.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 101).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

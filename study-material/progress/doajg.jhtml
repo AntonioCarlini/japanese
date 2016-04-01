@@ -183,14 +183,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>~ @HI{{ga}} ~ @HI{{nara}}                                                   </td>
+  <td class="left"> <a href="grammar-ga-nara.html">~ @HI{{ga}} ~ @HI{{nara}}</a>                                            </td>
   <td class="left"> DOAJG, p. 101                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{gotoshi}}                                                              </td>
+  <td class="left"> <a href="grammar-gotoshi.html">@HI{{gotoshi}}</a>                                                       </td>
   <td class="left"> DOAJG, p. 103                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-hanmen.html">@FG{{@KJ{{anti-^mask}}:hanmenn}}</a>                                      </td>

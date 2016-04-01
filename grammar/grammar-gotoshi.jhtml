@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{gotoshi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{gotoshi}}" grammar="@HI{{gotoshi}}"}}
+
+<body>
+
+<h1>@HI{{gotoshi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{gotoshi}}}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{ga@EM{{gotoshi}}}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{kano@EM{{gotoshi}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(ka)no@EM{{gotoku}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(ka)no@EM{{gotoki}}}}@N2{{}}}}
+<li> @FORMATION{{@Vplain(non-past)@HI{{ga@EM{{gotoki}}}}@N2{{}}}}
+<li> @FORMATION{{@Vplain(non-past)@HI{{kano@EM{{gotoki}}}}@N2{{}}}}
+<li> @FORMATION{{@N@HI{{dearuga@EM{{gotoki}}}}@N2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearukano@EM{{gotoki}}}}@N2{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="similarity">@HI{{@EM{{gotoshi}}}}</a> indicates similarity. @HI{{@EM{{gotoshi}}}} is the sentence-final form,
+@HI{{@EM{{gotoku}}}} is the adverbial form and @HI{{@EM{{gotoki}}}} is the noun-modifying form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{person^life}}:jinsei}}ha@FG{{@KJ{{trip}}:tabi}}no@EM{{gotoshi}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Life is like a journey.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="similie">@HI{{@EM{{gotoshi}}}}</a> can be used to mark a similie.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he^woman}}:kanojo}}ha@KT{{monariza}}no@EM{{gotoku}}itsumo@FG{{@KJ{{delicate^laugh}}:hohoe}}ndeiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She is like Mona Lisa, always smiling.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="similie-ka">When</a> @HI{{@EM{{gotoshi}}}} is used to mark a similie, inserting @HI{{ka}} adds a nuance of doubt on the part of the speaker.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he^woman}}:kanojo}}ha@FG{{@KJ{{me}}:boku}}nokotowo@FG{{@KJ{{whole^sort*of*thing}}:zenzen}}@FG{{@KJ{{memorize}}:obo}}eteinaikano@EM{{gotoki}}
+      @FG{{@KJ{{Esq.^child}}:yousu}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She looked as if she didn't remember me at all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="as-above">@HI{{@FG{{@KJ{{above^mention}}:joujutsu}}no@EM{{gotoshi}}}}</a> is an idiomatic expression meaning "as stated above".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}no@FG{{@KJ{{sutra^finish}}:keizai}}ha,@FG{{@KJ{{above^mention}}:joujutsu}}@EM{{gotoku}},@KJ{{now^behind}}shibarakuha
+      @FG{{@KJ{{-times^restore}}:kaifuku}}shinai@FG{{@KJ{{see^crowded}}:miko}}midearu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As staed above, the Japanese economy is not expected to recover for some time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="as-if">@HI{{@FG{{@KJ{{hit^sort*of*thing}}:touzen}}no@EM{{gotoshi}}}}</a> is an idiomatic expression meaning "as if it were a matter of course".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{chapter^long}}:kachou}}ha@FG{{@KJ{{hit^sort*of*thing}}:touzen}}no@EM{{gotoku}}@FG{{@KJ{{woman^sex}}:josei}}no@FG{{@KJ{{post^employee}}:shokuin}}ni
+      o@KJ{{tea}}kumiwosaseteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The section chief has female staff members serve tea as if it were in their job description. @LIT{{as if it were a matter of course}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{gotoshi}}}} and its variants are used exclusively in written language.
+In colloquial speech either <a href="grammar-you-desu.html">@HI{{youda}}</a> or
+<a href="grammar-mitai.html">@HI{{mitaida}}</a> is used.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 103).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
