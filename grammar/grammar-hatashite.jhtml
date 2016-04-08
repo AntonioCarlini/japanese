@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{hatashite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{hatashite}}" grammar="@HI{{hatashite}}"}}
+
+<body>
+
+<h1>@HI{{hatashite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{hatashite}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="past">@HI{{@EM{{hatashite}}}}</a> can be used in a sentence in the past to mean something was as expected.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^year}}no@KJ{{winter}}mo@FG{{@KJ{{warmth^winter}}:dantou}}dato@KJ{{say}}wareteitaga,@EM{{hatashite}}@KJ{{warmth^winter}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      They said this would be a warm winter, and indeed it has been.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="doubt">@HI{{@EM{{hatashite}}}}</a> can be used in a sentence to express the writer's strong doubts about something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{hatashite}}@KJ{{day^book}}no@FG{{@KJ{{teach^bring*up}}:kyouiku}}ha@FG{{@KJ{{reformation^leather}}:kaikaku}}sareru(no)darouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I wonder if Japanese education will really be reformed at all.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="concession">@HI{{@EM{{hatashite}}}}</a> can be used in a sentence with @HI{{toshitemo}} to accept that something may happen but with reservations.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{hatashite}}@FG{{@KJ{{woman^sex}}:josei}}no@FG{{@KJ{{ground^rank}}:chii}}ga@FG{{@KJ{{reformation^virtuous}}:kaizen}}sarerutoshitemo@KJ{{time^interval}}gakakarudarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even if women's status improves, as expected, it may take time.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{hatashite}}}} is used exclusively in formal Japanese.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 111).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

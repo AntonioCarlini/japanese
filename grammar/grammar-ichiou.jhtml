@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ichiou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ichiou}}" grammar="@HI{{@FG{{@KJ{{one^apply}}:ichiou}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{one^apply}}:ichiou}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="temporary">@HI{{@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}}}</a> is an adverb that indicates that an action or state
+is only temporary or tentative or superficially conceived.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{meeting^deliberation}}:kaigi}}no@FG{{@KJ{{day^take}}:hido}}riwo@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}@KJ{{come^week}}no@KJ{{tree^weekday^day}}to
+      @FG{{@KJ{{decide}}:ki}}meteokimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let's tentatively set our meeting date for next Wednesday.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="indecisive">When</a> the speaker wishes to convey a sense of indecisiveness, @HI{{@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}}} is used with @HI{{maa}}.
+is only temporary or tentative or superficially conceived.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      A: @HI{{@KT{{konpyu-ta}}ga@KJ{{use}}tteirasshaimasuka.}}
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{haa,maa,@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}@KJ{{use}}tteimasuga.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: Are you using a computer?
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Well, I'm kind of using one, but ...
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{@FG{{@KJ{{one^apply}}:ichiou}}}}}} is used primarily in spoken Japanese.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 126).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
