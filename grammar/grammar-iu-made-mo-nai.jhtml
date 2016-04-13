@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{say}}mademonai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{iumademonai}}" grammar="@HI{{@KJ{{say}}mademonai}}"}}
+
+<body>
+
+<h1>@HI{{@KJ{{say}}mademonai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@KJ{{say}}mademonai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{say}}mademonai}}}} is a phrase indicating that something is generally known but the speaker is presenting it as a reminder.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sushiga@KJ{{day^book}}no@FG{{@KJ{{substitute^surface^bull's*eye}}:daihyouteki}}na@KJ{{fee^logic}}dearukotoha@EM{{@KJ{{say}}mademonai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It goes without saying that <em>sushi</em> is representative of Japanese cuisine.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The adverbial form @HI{{@EM{{@KJ{{say}}mademonaku}}}} is also used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{imasara@EM{{@KJ{{say}}umademonaku}},@FG{{@KJ{{ground^ball}}:chikyuu}}no@FG{{@KJ{{warm^warmth^change}}:ondanka}}ha@FG{{@KJ{{life^attitude^lineage{}}:seitaikei}}ni
+      @FG{{@KJ{{bad^shadow^echo}}:akueikyuu}}womotarashiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's obvious now but global warming is having an adverse effect on the ecosystem.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 167).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

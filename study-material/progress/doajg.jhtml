@@ -283,9 +283,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{say}}@HI{{umademonai}}:iumademonai}}                              </td>
+  <td class="left"> <a href="grammar-iu-made-mo-nai.html">@FG{{@KJ{{say}}@HI{{umademonai}}:iumademonai}}</a>                </td>
   <td class="left"> DOAJG, p. 167                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-iwaba.html">@KJ{{say}}@HI{{waba}}</a>                                                  </td>
@@ -318,9 +318,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{kana}}                                                                 </td>
+  <td class="left"> <a href="grammar-interjection-kana.html">@HI{{kana}}</a>                                                </td>
   <td class="left"> DOAJG, p. 185                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{kanoyouni}}                                                            </td>

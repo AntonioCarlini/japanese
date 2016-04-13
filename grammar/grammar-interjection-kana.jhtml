@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kana}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kana}}" grammar="@HI{{kana}}"}}
+
+<body>
+
+<h1>@HI{{kana}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{kana}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{kana}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kana}}}} is an interjection that expresses a deep-felt emotion.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sad}}:kana}}shii@EM{{kana}},@KJ{{year}}wo@FG{{@KJ{{take}}:to}}tte@FG{{@KJ{{journey^year}}:ounen}}no@FG{{@KJ{{scribe^recollection^power}}:kiokuryoku}}ganakatteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      How sad (it is) that I no longer have as strong a memory as I had in my yonger days.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This emotive @HI{{@EM{{kana}}}} is different from the sentence-final <a href="grammar-particle-kana.html">@HI{{kana}}</a> which indicates a self-addressed question or a question
+addressed to an in-group member.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 185).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
