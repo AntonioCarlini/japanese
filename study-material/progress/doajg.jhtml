@@ -273,7 +273,7 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{one^daybreak}}:ittann}}                                           </td>
+  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{one^nightbreak}}:ittann}}                                         </td>
   <td class="left"> DOAJG, p. 163                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
