@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{row}}@HI{{bini}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{narabini}}" grammar="@FG{{@KJ{{row}}:nara}}bini"}}
+
+<body>
+
+<h1>@FG{{@KJ{{row}}:nara}}bini</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{@FG{{@KJ{{row}}:nara}}bini}}@N2{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{row}}:nara}}bini}}}} is a conjunction used to combine two nouns or noun phrases.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@KT{{ho-mupe-ji}}@EM{{@FG{{@KJ{{row}}:nara}}bini}}@KT{{me-rumagajin}}no@KT{{sutaffu}}wogo@FG{{@KJ{{introduce^jammed*in}}:shoukai}}shimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Let me introduce you to the staff of our website and mail magazine.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{row}}:nara}}bini}}}} should not appear more than once in a sentence, so in a list it should be used just once before the last item.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sugar^urine^ill}}:tounyoubyou}}@FG{{@KJ{{afflicted^someone}}:kanja}}ha,@FG{{@KJ{{sugar^part}}:toubun}},
+      @FG{{@KJ{{charcoal^water^change^thing}}:tansuikabutsu}},@EM{{@FG{{@KJ{{row}}:nara}}bini}}@FG{{@KJ{{sake^sort}}:shurui}}ha@FG{{@KJ{{vicarious^take}}:sesshu}}shisuginai@KJ{{direction}}gaii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Diabetese patients should take care not to consume excessive amounts of sugar, carbohydrates and alcohol.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@FG{{@KJ{{row}}:nara}}bini}} is found mostly in written Japanese or in very formal speeches.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 353).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

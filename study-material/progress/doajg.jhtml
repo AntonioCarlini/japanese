@@ -363,9 +363,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{kiraigaaru}}                                                           </td>
+  <td class="left"> <a href="grammar-kirai-ga-aru.html">@HI{{kiraigaaru}}</a>                                               </td>
   <td class="left"> DOAJG, p. 214                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-particle-kiri.html">(@HI{{xtsu}})@HI{{kiri}}</a>                                       </td>
@@ -523,9 +523,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{row}}@HI{{mi}}:nami}}                                             </td>
+  <td class="left"> <a href="grammar-nami.html">@FG{{@KJ{{row}}@HI{{mi}}:nami}}</a>                                         </td>
   <td class="left"> DOAJG, p. 323                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-nan-counter-mo.html">@HI{{nan}} (num + counter) @HI{{mo}}</a>                          </td>
@@ -538,9 +538,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{what}}@HI{{mo}} ~ @HI{{nai}}:@HI{{nanimo}} ~ @HI{{nai}}}}         </td>
+  <td class="left"> <a href="grammar-nani-mo-nai.html">@KJ{{what}}@HI{{mo}} ~ @Vnai{{}}</a>                                 </td>
   <td class="left"> DOAJG, p. 330                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{what}}@HI{{karano}}:nankarano}}                                   </td>
@@ -583,9 +583,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{narabini}}                                                             </td>
+  <td class="left"> <a href="grammar-narabi-ni.html">@HI{{narabini}}</a>                                                    </td>
   <td class="left"> DOAJG, p. 353                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nari}}                                                                 </td>

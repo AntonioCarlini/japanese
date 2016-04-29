@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kiraigaaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kiraigaaru}}" grammar="@HI{{kiraigaaru}}"}}
+
+<body>
+
+<h1>@HI{{kiraigaaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@Vplain{{}}@EM{{kiraigaaru}}}}}}
+<li> @FORMATION{{@HI{{@N{{}}no@EM{{kiraigaaru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kiraigaaru}}}} is a phrase indicating that someone or something has an undesirable tendency.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ha@FG{{@KJ{{single^severance}}:dokudan}}no@EM{{kiraigaaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is slightly dogmatic.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}ha@FG{{@KJ{{thing^matter}}:monogoto}}wo@FG{{@KJ{{simple^genuine}}:tanjun}}ni@FG{{@KJ{{consider}}:kanga}}eru@EM{{kiraigaaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He has a tendency to think about things in simplistic terms.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The sentence pattern @Vta{{}}@HI{{@EM{{kiraigaaru}}}} can usually be rephrased as @Vru{{}}@HI{{@EM{{kiraigaatta}}}}.
+
+So
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zoremadeno@KJ{{day^book}}no@FG{{@KJ{{tall^etc.^teach^bring*up}}:koutoukyouiku}}ha,@KT{{ajia}}tono@FG{{@KJ{{together^life}}:kyousei}}wo
+      @FG{{@KJ{{heavy^inspection}}:juushi}}shinakatta@EM{{kiraigaaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese higher education so far has tended to attach little importance to Japan's co-existence with Asia.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+can be recast as:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zoremadeno@KJ{{day^book}}no@FG{{@KJ{{tall^etc.^teach^bring*up}}:koutoukyouiku}}ha,@KT{{ajia}}tono@FG{{@KJ{{together^life}}:kyousei}}wo
+      @FG{{@KJ{{heavy^inspection}}:juushi}}shinai@EM{{kiraigaatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japanese higher education so far has tended to attach little importance to Japan's co-existence with Asia.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+However, if a tendency still exists at the time of the statment, then the final verb cannot be in the past tense.
+<p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The noun @HI{{kirai}} comes from @HI{{@FG{{@KJ{{dislike}}:kira}}u}} but is almost always written in kana.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 214).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nanimo~nai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nanimo~nai}}" grammar="@HI{{@KJ{{what}}mo~@Vnai{{}}}}"}}
+
+<body>
+
+<h1>@HI{{@KJ{{what}}mo~@Vnai{{}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@KJ{{what}}mo~@Vnai{{}}}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{what}}mo~@Vnai{{}}}}}} is a sentence pattern used to indicate that an action is taken for no good reason.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@KJ{{what}}mo}}son'nani@FG{{@KJ{{angry}}:oko}}rukotoha@EM{{nai}}yo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You have no reason to get so angry.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@KJ{{what}}mo~@Vnai{{}}}}}} is often used with final predicates such as @HI{{kotohanai}} (as above), @HI{{wakejanai}}, @HI{{ni@FG{{@KJ{{limit}}:kagi}}ttakotodehanai}},
+@HI{{nakuteii}} and @HI{{nakutemoii}}. For example:
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}no@FG{{@KJ{{sex^status}}:seikaku}}wo@FG{{@KJ{{unusual}}:ka}}eyoutoshiteiruyoudakedo,@EM{{@KJ{{what}}mo}}sokomadeshinakutatteiinja@EM{{nai}}ka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You seem to be trying to change her personality, but why do you need to go that far?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 331).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

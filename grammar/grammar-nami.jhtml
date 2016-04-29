@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nami}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nami}}" grammar="@HI{{@FG{{@KJ{{row}}:na}}mi}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{row}}:na}}mi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@N{{}}@EM{{@FG{{@KJ{{row}}:na}}mi}}}}}}
+<li> @FORMATION{{@HI{{@N1{{}}@EM{{@FG{{@KJ{{row}}:na}}mi}}no@N2{{}}}}}}
+<li> @FORMATION{{@HI{{@N{{}}@EM{{@FG{{@KJ{{row}}:na}}mi}}ni}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{row}}:na}}mi}}}} is a suffix that adds the meaning "to match" to a noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{maiku}}san'no@KT{{gorufu}}ha@KT{{puro}}@EM{{@FG{{@KJ{{row}}:na}}mi}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mike's golf skills are about the same level as a pro's.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+Nouns can be modified by using the form @HI{{@EM{{@FG{{@KJ{{row}}:na}}mi}}no}}
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{good*luck^rice*field}}:yoshida}}sanha@FG{{@KJ{{plant^thing}}:shokubutsu}}nitsuiteha
+      @FG{{@KJ{{specialty^gates^house}}:senmonka}}@EM{{@FG{{@KJ{{row}}:na}}mi}}no@FG{{@KJ{{know^discriminating}}:chishiki}}wo@KJ{{hold}}tteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Regarding plants, Ms. Yoshida has as much knowledge as a specialist.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The form @HI{{@EM{{@FG{{@KJ{{row}}:na}}mi}}ni}} behaves as an adverb.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokono@FG{{@KJ{{longevity^director^roof}}:sushiya}}ha@FG{{@KJ{{-times^revolve^longevity^director}}:kaitenzushi}}@EM{{@FG{{@KJ{{row}}:na}}mi}}ni@KJ{{relax}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This <em>sushi</em> bar is cheap like a conveyor belt <em>sushi</em> bar.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When not used as a suffix, @HI{{@EM{{@FG{{@KJ{{row}}:na}}mi}}no}} means "ordinary" or "average".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{@FG{{@KJ{{row}}:na}}mi}}no@KJ{{day^book^word^power}}dehakono@KJ{{attend^matter}}hadekinai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You cannot do this job with ordinary Japanese skills.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The common phrase @HI{{@EM{{@FG{{@KJ{{ten^person^row}}:na}}}}mi}} means "ordinary" or "average".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{what}}demo@EM{{@FG{{@KJ{{ten^person^row}}:na}}}}minidekirutoiunoha@FG{{@KJ{{oneself^faith}}:jishin}}nihatsunagaranai,dakara,
+      don'na@KJ{{little}}sanakotodemo[zoredakeha@FG{{@KJ{{who}}:dare}}nimo@FG{{@KJ{{defeat}}:ma}}kenai]to@KJ{{think}}erumonowo@KJ{{hold}}tsukotoga@KJ{{large^matter}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Doing everything only as well as everyone else is no way to build confidence. Therefore, it is important to have something, no matter how small, at which you
+      believe no one can beat you.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 323).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
