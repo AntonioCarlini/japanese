@@ -267,6 +267,19 @@ td {
   <td class="missing"> b </td> <td class="missing"> a </td> <td class="ok"> </td>
 
 </tr>
+<tr>
+  <td> 2016-05-24 </td>
+
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
+
+</tr>
 </table>
 
 <table class="progress">
