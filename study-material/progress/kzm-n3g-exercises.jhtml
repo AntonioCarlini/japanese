@@ -325,6 +325,19 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
 </tr>
+<tr>
+  <td> 2016-05-25 </td>
+
+  <td class="missing"> f </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{mo}} </td> <td class="missing"> @HI{{shika}} </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+</tr>
 </table>
 
 <table class="progress">
@@ -353,6 +366,20 @@ td {
 
   <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
+
+</tr>
+<tr>
+  <td> 2016-05-25 </td>
+
+  <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> b </td> <td class="ok"> </td>
+  <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> c </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok">
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
 </tr>
 </table>
