@@ -412,6 +412,20 @@ td {
   <td class="ok"> </td> <td class="ok">
 
 </tr>
+<tr>
+  <td> 2016-05-26 </td>
+
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> c </td> <td class="ok"> b </td>
+
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok">  </td> <td class="missing"> @HI{{koto}} </td>
+  <td class="missing"> @KJ{{thing}} </td> <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok">
+
+</tr>
 </table>
 
 <table class="progress">
