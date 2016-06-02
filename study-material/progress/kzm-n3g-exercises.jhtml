@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>&#x65b0;&#x5b8c;&#x5168;&#x30de;&#x30b9;&#x30bf;&#x30fc; N3 &#x6587;&#x6cd5;</title>
+<title>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
@@ -15,14 +15,14 @@ td {
 
 </style></head>
 <body>
-<h1>&#x65b0;&#x5b8c;&#x5168;&#x30de;&#x30b9;&#x30bf;&#x30fc; N3 &#x6587;&#x6cd5;</h1>
+<h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N3 @KJ{{sentence^method}}</h1>
 
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (1&#x8ab2; &#x30fb; 2&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (1@KJ{{chapter}} @MIDDOT{{}} 2@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="9"> 1&#x8ab2; </th> <th colspan="9"> 2&#x8ab2; </th> <th colspan="9"> 1&#x8ab2; &#x30fb; 2&#x8ab2; </th>
+  <th colspan="9"> 1@KJ{{chapter}} </th> <th colspan="9"> 2@KJ{{chapter}} </th> <th colspan="9"> 1@KJ{{chapter}} @MIDDOT{{}} 2@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th> </th>
@@ -55,10 +55,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (3&#x8ab2; &#x30fb; 4&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (3@KJ{{chapter}} @MIDDOT{{}} 4@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="9"> 3&#x8ab2; </th> <th colspan="9"> 4&#x8ab2; </th> <th colspan="9"> 3&#x8ab2; &#x30fb; 4&#x8ab2; </th>
+  <th colspan="9"> 3@KJ{{chapter}} </th> <th colspan="9"> 4@KJ{{chapter}} </th> <th colspan="9"> 3@KJ{{chapter}} @MIDDOT{{}} 4@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -93,7 +93,7 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x307e;&#x3068;&#x3081;&#x554f;&#x984c; (1&#x8ab2; ~ 4&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 4@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
   <th>  1 </th> <th>  2 </th> <th>  3 </th> <th>  4 </th> <th>  5 </th> <th>  6 </th> <th>  7 </th> <th>  8 </th> <th>  9 </th> <th>  10 </th>
@@ -110,10 +110,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (5&#x8ab2; &#x30fb; 6&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (5@KJ{{chapter}} @MIDDOT{{}} 6@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="9"> 5&#x8ab2; </th> <th colspan="8"> 6&#x8ab2; </th> <th colspan="10"> 5&#x8ab2; &#x30fb; 6&#x8ab2; </th>
+  <th colspan="9"> 5@KJ{{chapter}} </th> <th colspan="8"> 6@KJ{{chapter}} </th> <th colspan="10"> 5@KJ{{chapter}} @MIDDOT{{}} 6@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -148,10 +148,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (7&#x8ab2; &#x30fb; 8&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (7@KJ{{chapter}} @MIDDOT{{}} 8@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="8"> 7&#x8ab2; </th> <th colspan="8"> 8&#x8ab2; </th> <th colspan="10"> 7&#x8ab2; &#x30fb; 8&#x8ab2; </th>
+  <th colspan="8"> 7@KJ{{chapter}} </th> <th colspan="8"> 8@KJ{{chapter}} </th> <th colspan="10"> 7@KJ{{chapter}} @MIDDOT{{}} 8@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -186,7 +186,7 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x307e;&#x3068;&#x3081;&#x554f;&#x984c; (1&#x8ab2; ~ 8&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 8@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
   <th>  1 </th> <th>  2 </th> <th>  3 </th> <th>  4 </th> <th>  5 </th> <th>  6 </th> <th>  7 </th> <th>  8 </th> <th>  9 </th> <th>  10 </th>
@@ -203,10 +203,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (9&#x8ab2; &#x30fb; 10&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (9@KJ{{chapter}} @MIDDOT{{}} 10@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="8"> 9&#x8ab2; </th> <th colspan="10"> 10&#x8ab2; </th> <th colspan="9"> 9&#x8ab2; &#x30fb; 10&#x8ab2; </th>
+  <th colspan="8"> 9@KJ{{chapter}} </th> <th colspan="10"> 10@KJ{{chapter}} </th> <th colspan="9"> 9@KJ{{chapter}} @MIDDOT{{}} 10@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -243,10 +243,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (11&#x8ab2; &#x30fb; 12&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (11@KJ{{chapter}} @MIDDOT{{}} 12@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="9"> 11&#x8ab2; </th> <th colspan="9"> 12&#x8ab2; </th> <th colspan="8"> 11&#x8ab2; &#x30fb; 12&#x8ab2; </th>
+  <th colspan="9"> 11@KJ{{chapter}} </th> <th colspan="9"> 12@KJ{{chapter}} </th> <th colspan="8"> 11@KJ{{chapter}} @MIDDOT{{}} 12@KJ{{chapter}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -283,7 +283,7 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x307e;&#x3068;&#x3081;&#x554f;&#x984c; (1&#x8ab2; ~ 12&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 12@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
   <th>  1 </th> <th>  2 </th> <th>  3 </th> <th>  4 </th> <th>  5 </th> <th>  6 </th> <th>  7 </th> <th>  8 </th> <th>  9 </th> <th>  10 </th>
@@ -300,11 +300,11 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (A&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (A@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="7"> &#x7df4;&#x7fd2;1 </th> <th colspan="7"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="8"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="7"> @KJ{{practice^learn}}1 </th> <th colspan="7"> @KJ{{practice^learn}}2 </th>
+  <th colspan="8"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -334,18 +334,18 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x3082; </td> <td class="missing"> &#x3057;&#x304b; </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{mo}} </td> <td class="missing"> @HI{{shika}} </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (B&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (B@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="14"> &#x7df4;&#x7fd2;1 </th> <th colspan="5"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="8"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="14"> @KJ{{practice^learn}}1 </th> <th colspan="5"> @KJ{{practice^learn}}2 </th>
+  <th colspan="8"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -385,11 +385,11 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (C&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (C@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="4"> &#x7df4;&#x7fd2;1 </th> <th colspan="12"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="10"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="4"> @KJ{{practice^learn}}1 </th> <th colspan="12"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -403,12 +403,12 @@ td {
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a+b+c </td>
 
-  <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x306e; </td>
-  <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td> <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{no}} </td>
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
-  <td class="ok"> </td> <td class="missing"> &#x7269; </td> <td class="ok">  </td> <td class="missing"> </td>
-  <td class="missing"> &#x7269; </td> <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @KJ{{thing}} </td> <td class="ok">  </td> <td class="missing"> </td>
+  <td class="missing"> @KJ{{thing}} </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok">
 
 </tr>
@@ -417,23 +417,23 @@ td {
 
   <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> c </td> <td class="ok"> b </td>
 
-  <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x3053;&#x3068; </td> <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="ok">  </td> <td class="missing"> &#x3053;&#x3068; </td>
-  <td class="missing"> &#x7269; </td> <td class="ok"> </td> <td class="missing"> &#x3053;&#x3068; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok">  </td> <td class="missing"> @HI{{koto}} </td>
+  <td class="missing"> @KJ{{thing}} </td> <td class="ok"> </td> <td class="missing"> @HI{{koto}} </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok">
 
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (D&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (D@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="13"> &#x7df4;&#x7fd2;1 </th> <th colspan="8"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="10"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="13"> @KJ{{practice^learn}}1 </th> <th colspan="8"> @KJ{{practice^learn}}2 </th>
+  <th colspan="10"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -454,7 +454,7 @@ td {
   <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x3088;&#x3046;&#x306b; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{youni}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
 </tr>
 <tr>
@@ -468,17 +468,17 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x3088;&#x3046;&#x306b; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{youni}} </td> <td class="ok"> </td>
 
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (E&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (E@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th> <th colspan="5"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="6"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="5"> @KJ{{practice^learn}}2 </th>
+  <th colspan="6"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -495,7 +495,7 @@ td {
 
   <td class="missing"> b </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x308f;&#x3051; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{wake}} </td> <td class="ok"> </td>
   <td class="ok"> </td>
 </tr>
 <tr>
@@ -509,14 +509,15 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td>
 </tr>
+
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (F&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (F@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th> <th colspan="8"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="7"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="8"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -528,36 +529,36 @@ td {
 <tr>
   <td> 2015-02-22  </td>
 
-  <td class="ok"> </td> <td class="missing"> &#x306f;&#x3058;&#x3081;&#x308b; </td> <td class="ok"> </td> <td class="missing"> &#x306a;&#x3063;&#x305f; </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x307f;&#x3066;&#x3044;&#x3066; </td> <td class="ok"> </td> <td class="missing"> &#x304d;&#x305f;  </td>
-  <td class="missing"> &#x306a;&#x3084;&#x3080; </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{hajimeru}} </td> <td class="ok"> </td> <td class="missing"> @HI{{natta}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{miteite}} </td> <td class="ok"> </td> <td class="missing"> @HI{{kita}}  </td>
+  <td class="missing"> @HI{{nayamu}} </td>
 
   <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
   <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> c </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x3068;&#x3053;&#x308d; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{tokoro}} </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 <tr>
   <td> 2016-05-27  </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x3072;&#x3069;&#x304f;&#x306a;&#x3063;&#x3066; </td> <td class="missing"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{hidokunatte}} </td> <td class="missing"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok">  </td> <td class="ok"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
 
-  <td class="missing"> &#x3068;&#x3053;&#x308d; </td> <td class="missing"> &#x3070;&#x304b;&#x308a; </td> <td class="ok"> </td> <td class="missing"> &#x3068;&#x3053;&#x308d; </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{tokoro}} </td> <td class="missing"> @HI{{bakari}} </td> <td class="ok"> </td> <td class="missing"> @HI{{tokoro}} </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (G&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (G@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="15"> &#x7df4;&#x7fd2;1 </th> <th colspan="6"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="7"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="15"> @KJ{{practice^learn}}1 </th> <th colspan="6"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -573,7 +574,7 @@ td {
   <td class="missing"> a </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
-  <td class="ok"> </td> <td class="missing"> &#x3088;&#x3046;&#x306b; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{youni}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
@@ -582,11 +583,11 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (H&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (H@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th> <th colspan="8"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="7"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="8"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -610,10 +611,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (I&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (I@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="14"> &#x7df4;&#x7fd2;1 </th> <th colspan="13"> &#x7df4;&#x7fd2;2 </th>
+  <th colspan="14"> @KJ{{practice^learn}}1 </th> <th colspan="13"> @KJ{{practice^learn}}2 </th>
 </tr>
 <tr>
   <th>  </th>
@@ -637,11 +638,11 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (J&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (J@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th> <th colspan="10"> &#x7df4;&#x7fd2;2 </th>
-  <th colspan="7"> &#x30ef;&#x30f3;&#x30dd;&#x30a4;&#x30f3;&#x30c8;&#x30ec;&#x30c3;&#x30b9;&#x30f3; </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="10"> @KJ{{practice^learn}}2 </th>
+  <th colspan="7"> @KT{{wanpointoressun'}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -658,7 +659,7 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="missing"> </td> <td class="ok"> </td> <td class="missing"> &#x307f;&#x305f;&#x3044;&#x3060;  </td> <td class="missing"> &#x3084;&#x3059;&#x3044; </td>
+  <td class="missing"> </td> <td class="ok"> </td> <td class="missing"> @HI{{mitaida}}  </td> <td class="missing"> @HI{{yasui}} </td>
   <td class="missing"> </td>
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
@@ -667,10 +668,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (1&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (1@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
   <th> </th>
@@ -687,10 +688,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (2&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (2@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
   <th> </th>
@@ -706,10 +707,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (3&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (3@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2; </th>
+  <th colspan="10"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th> </th>
@@ -724,10 +725,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (4&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (4@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2; </th>
+  <th colspan="10"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -744,10 +745,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (1&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (1@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
   <th>  </th>
@@ -762,10 +763,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (2&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (2@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="10"> &#x7df4;&#x7fd2;1 </th> <th colspan="7"> &#x7df4;&#x7fd2;2 </th>
+  <th colspan="10"> @KJ{{practice^learn}}1 </th> <th colspan="7"> @KJ{{practice^learn}}2 </th>
 </tr>
 <tr>
   <th>  </th>
@@ -779,16 +780,16 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="missing"> a </td>
   <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
 
-  <td class="missing"> &#x3044;&#x3063;&#x3066;&#x3044;&#x305f; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x306a;&#x3063;&#x305f; </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{itteita}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{natta}} </td> <td class="ok"> </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (3&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (3@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="16"> &#x7df4;&#x7fd2;1 </th>
+  <th colspan="16"> @KJ{{practice^learn}}1 </th>
 </tr>
 <tr>
   <th> </th>
@@ -800,18 +801,18 @@ td {
 <tr>
   <td> 2015-02-28 </td>
 
-  <td class="ok"> </td> <td class="missing"> &#x3051;&#x3057;&#x3066; </td> <td class="missing"> &#x304d;&#x306d;&#x305f; </td> <td class="missing"> &#x304d;&#x305f; </td>
-  <td class="ok"> </td> <td class="missing"> &#x3042;&#x3051;&#x308b; </td> <td class="missing"> &#x3067;&#x305f; </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x305d;&#x3060;&#x3064; </td> <td class="missing"> &#x3046;&#x3080;  </td> <td class="missing"> &#x305d;&#x3060;&#x3066;&#x3066; </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{keshite}} </td> <td class="missing"> @HI{{kineta}} </td> <td class="missing"> @HI{{kita}} </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{akeru}} </td> <td class="missing"> @HI{{deta}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{sodatsu}} </td> <td class="missing"> @HI{{umu}}  </td> <td class="missing"> @HI{{sodatete}} </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (4&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (4@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="14"> &#x7df4;&#x7fd2; </th>
+  <th colspan="14"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th> </th>
@@ -823,18 +824,18 @@ td {
 <tr>
   <td> 2015-02-28 </td>
 
-  <td class="ok"> </td> <td class="missing"> &#x3044;&#x3063;&#x3066; </td>
-  <td class="ok"> </td> <td class="missing"> &#x3044;&#x3063;&#x305f; </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> &#x304d;&#x305f; </td> <td class="missing"> &#x3044;&#x3063;&#x305f; </td> <td class="ok"> </td> <td class="missing"> &#x3044;&#x3063;&#x305f; </td>
-  <td class="ok"> </td> <td class="missing"> &#x3044;&#x3063;&#x305f; </td> <td class="missing"> &#x3044;&#x3063;&#x305f; </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{itte}} </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{itta}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{kita}} </td> <td class="missing"> @HI{{itta}} </td> <td class="ok"> </td> <td class="missing"> @HI{{itta}} </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{itta}} </td> <td class="missing"> @HI{{itta}} </td> <td class="ok"> </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (5&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (5@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="21"> &#x7df4;&#x7fd2; </th>
+  <th colspan="21"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -846,19 +847,19 @@ td {
 <tr>
   <td> 2015-03-01 </td>
 
-  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> &#x3066;&#x3064;&#x3060;&#x3046; </td>
-  <td class="ok"> </td> <td class="missing"> &#x306f;&#x3057;&#x3089;&#x308c;&#x305f;  </td> <td class="missing"> &#x3055;&#x305b;&#x3066;&#x3044;&#x3066; </td> <td class="missing"> &#x3055;&#x305b;&#x305f; </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="missing"> &#x304a;&#x304f;&#x308c;&#x3066; </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="missing"> &#x304b;&#x3058; </td> <td class="missing">&#x3055;&#x308c;&#x3066; </td> <td class="ok"> </td>
-  <td class="missing"> &#x3044;&#x3063;&#x305f; </td> <td class="missing"> &#x3042;&#x304d;&#x306a;&#x3044;&#x305f; </td> <td class="missing"> &#x307e;&#x3063;&#x3066;&#x3044;&#x306a;&#x3044; </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> @HI{{tetsudau}} </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{hashirareta}}  </td> <td class="missing"> @HI{{saseteite}} </td> <td class="missing"> @HI{{saseta}} </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{okurete}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{kaji}} </td> <td class="missing">@HI{{sarete}} </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{itta}} </td> <td class="missing"> @HI{{akinaita}} </td> <td class="missing"> @HI{{matteinai}} </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (6&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (6@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="11"> &#x7df4;&#x7fd2; </th>
+  <th colspan="11"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -876,10 +877,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (7&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (7@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="12"> &#x7df4;&#x7fd2; </th>
+  <th colspan="12"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -896,10 +897,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (8&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (8@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="13"> &#x7df4;&#x7fd2; </th>
+  <th colspan="13"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -909,17 +910,17 @@ td {
 <tr>
   <td> 015-03-03 </td>
 
-  <td class="missing"> &#x306f; </td> <td class="ok"> </td> <td class="missing"> &#x304c; </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> @HI{{ha}} </td> <td class="ok"> </td> <td class="missing"> @HI{{ga}} </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (9&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (9@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="8"> &#x7df4;&#x7fd2; </th>
+  <th colspan="8"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
@@ -936,10 +937,10 @@ td {
 </table>
 
 <table class="progress">
-<tr> <th colspan="" id="heading"> &#x7df4;&#x7fd2; (10&#x8ab2;) </th> </tr>
+<tr> <th colspan="" id="heading"> @KJ{{practice^learn}} (10@KJ{{chapter}}) </th> </tr>
 <tr>
   <th> Date </th>
-  <th colspan="12"> &#x7df4;&#x7fd2; </th>
+  <th colspan="12"> @KJ{{practice^learn}} </th>
 </tr>
 <tr>
   <th>  </th>
