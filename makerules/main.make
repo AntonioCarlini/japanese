@@ -1,13 +1,13 @@
-archive: bin/archive.tar
+archive: bin/japanese.tar
 
-.PHONY: bin/archive.tar
+.PHONY: bin/japanese.tar
 
-bin/archive.tar: 
-	git archive HEAD --format  tar | gzip -9 > bin/archive.tar
+bin/japanese.tar: 
+	git archive HEAD --format  tar | gzip -9 > bin/japanese.tar
 
-bundle: bin/repo.bundle
+bundle: bin/japanese.bundle
 
-.PHONY: bin/repo.bundle
+.PHONY: bin/japanese.bundle
 
-bin/repo.bundle:
+bin/japanese.bundle:
 	git bundle create $@ master
