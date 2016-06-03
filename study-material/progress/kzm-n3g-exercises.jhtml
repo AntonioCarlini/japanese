@@ -580,6 +580,19 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> b </td>
 </tr>
+<tr>
+  <td> 2016-06-01 </td>
+
+  <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> a </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> b </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="missing"> a </td> <td class="ok"> </td>
+</tr>
 </table>
 
 <table class="progress">
@@ -608,6 +621,18 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="missing"> a+b </td> <td class="ok"> </td>
 </tr>
+<tr>
+  <td>  2016-06-02 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="missing"> c </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a,b </td> <td class="missing"> b </td> <td class="ok"> </td>
+  <td class="missing"> a </td> <td class="ok"> </td>
+</tr>
 </table>
 
 <table class="progress">
@@ -634,6 +659,17 @@ td {
   <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 
+</tr>
+<tr>
+  <td> 2016-06-02 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> c </td>
+  <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
@@ -664,6 +700,18 @@ td {
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> b </td>
+</tr>
+<tr>
+  <td> 2016-06-02 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td> 
+  <td class="ok"> </td> <td class="missing"> @HI{{mitai}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
