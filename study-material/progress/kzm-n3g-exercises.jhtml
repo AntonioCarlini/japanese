@@ -733,6 +733,13 @@ td {
   <td class="ok"> </td> <td class="missing"> 2431 </td> <td class="missing"> 1234 </td>
   <td class="missing"> 3142 </td> <td class="missing"> 1234 </td>
 </tr>
+<tr>
+  <td> 2016-06-03 </td>
+
+  <td class="missing"> 3214 </td> <td class="missing"> 2431 </td> <td class="ok"> </td> <td class="missing"> 3142 </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> 4231 </td> <td class="missing"> 4132 </td>
+  <td class="missing"> </td> <td class="missing"> 2341 </td>
+</tr>
 </table>
 
 <table class="progress">
@@ -752,6 +759,12 @@ td {
   <td class="missing"> 4123 </td> <td class="missing"> 1234 </td> <td class="missing"> 2314 </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> 3241 </td> <td class="missing"> 3421 </td> <td class="ok"> </td>
 </tr>
+<tr>
+  <td> 2016-06-03 </td>
+
+  <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td> <td class="missing"> 3214 </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> 2431 </td> <td class="missing"> 3241 </td> <td class="missing"> 3142 </td> <td class="ok"> </td>
+</tr>
 </table>
 
 <table class="progress">
@@ -769,6 +782,12 @@ td {
 
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> 2314 </td> <td class="ok"> </td>
+</tr>
+<tr>
+  <td> 2016-06-04 </td>
+
+  <td class="missing"> 4123 </td> <td class="missing"> 4123 </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> 1423 </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 </tr>
 </table>
 
@@ -789,6 +808,14 @@ td {
   <td class="missing"> 1432 </td>
   <td class="ok"> </td> <td class="missing"> 1432 </td> <td class="missing"> 1432 </td> <td class="missing"> 1324 </td>
   <td class="ok"> </td>
+</tr>
+<tr>
+  <td> 2016-06-04 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> </td> <td class="ok"> </td>
+  <td class="missing"> 1243 </td>
+  <td class="ok"> </td> <td class="missing"> 4321 </td> <td class="missing"> </td> <td class="ok"> </td>
+  <td class="missing"> 1423 </td>
 </tr>
 </table>
 
