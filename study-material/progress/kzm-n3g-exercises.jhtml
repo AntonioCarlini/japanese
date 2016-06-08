@@ -835,6 +835,12 @@ td {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
 </tr>
+<tr>
+  <td> 2016-06-06 </td>
+
+  <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="missing"> b </td> <td class="ok"> </td>
+</tr>
 </table>
 
 <table class="progress">
@@ -856,7 +862,16 @@ td {
   <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
 
   <td class="missing"> @HI{{itteita}} </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
-  <td class="ok"> </td> <td class="missing"> @HI{{natta}} </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="missing"> @HI{{natta}} </td>
+</tr>
+<tr>
+  <td> 2016-06-06 </td>
+
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> a </td> <td class="ok"> </td>
+
+  <td class="missing"> @HI{{itta}} </td> <td class="ok"> </td> <td class="missing"> @HI{{motsu}} </td> <td class="ok"> </td> <td class="missing"> </td>
+  <td class="missing"> @HI{{natta}} </td> <td class="ok"> </td>
 </tr>
 </table>
 
