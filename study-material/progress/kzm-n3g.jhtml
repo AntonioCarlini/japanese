@@ -159,7 +159,7 @@ td#heading {
        @KJ{{No.}}2@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 2 </a> </td> </tr>
 <tr>
   <td class=""> 1 @KJ{{chapter}} </td>
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 2 @KJ{{chapter}} </td>
