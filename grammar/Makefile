@@ -618,6 +618,7 @@ JHTML_SRCS += grammar-tsukuru.jhtml
 JHTML_SRCS += grammar-tsumari.jhtml
 JHTML_SRCS += grammar-tsumori.jhtml
 JHTML_SRCS += grammar-tsutsu.jhtml
+JHTML_SRCS += grammar-ttara.jhtml
 JHTML_SRCS += grammar-tte-quotation.jhtml
 JHTML_SRCS += grammar-tte-topic.jhtml
 JHTML_SRCS += grammar-uchi-ni.jhtml
