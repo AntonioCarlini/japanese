@@ -155,15 +155,15 @@
 <tr >
   <td class=""> 15 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td>
-  <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 16 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> </td>
-  <td class=""> </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
 </tr>
 <tr>
