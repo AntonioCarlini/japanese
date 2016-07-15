@@ -310,26 +310,27 @@
 <h2><a class="navtarget" name="chapter17">_</a>Chapter 17</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{karanatte}}
-<li> <a href="grammar-toshite-wa.html">@HI{{toshiteha}}</a>
-<li> <a href="grammar-.html"></a>-@KJ{{above}}
+<li> <a href="grammar-kara-naru.html">@HI{{karanatte}}</a>
+<li> <a href="grammar-toshite-wa.html"></a>@HI{{toshiteha}}
+<li> <a href="grammar-jou.html">-@KJ{{above}}</a>
 <li> <a href="grammar-ni-yotte.html#means">@HI{{niyori}}</a>
 <li> <a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
 <li> <a href="grammar-zaru-wo-enai.html">@HI{{zaruwo@KJ{{gain}}nakatta}}</a>
 <li> <a href="grammar-te-hajimete.html">@HI{{tehajimete}}</a>
-<li> <a href="grammar-.html"></a>@HI{{ttara}}
+<li> <a href="grammar-ttara.html">@HI{{ttara}}</a>
 <li> <a href="grammar-ni-shite-wa.html">@HI{{nishiteha}}</a>
 <li> <a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a>
-<li> <a href="grammar-.html"></a>@HI{{desho}}
+<li> <a href="grammar-deshou.html#confirm">@HI{{desho}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter18">_</a>Chapter 18</h2>
 
 <ol>
 <li> <a href="grammar-ni-chigai-inai.html">@HI{{ni@KJ{{difference}}inai}}</a>
-<li> <a href="grammar-ni-kuraberuto.html#nikurabete"></a>@HI{{@N{{}}ni@KJ{{compare}}bete}} @MIDDOT{{}}
-     <a href="grammar-ni-kuraberuto.html#nikuraberuto"></a>@HI{{@N{{}}ni@KJ{{compare}}beruto}}
-<li> <a href="grammar-.html"></a>@HI{{monodehanai}}
+<li> <a href="grammar-ni-kuraberuto.html#nikurabete">@HI{{@N{{}}ni@KJ{{compare}}bete}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kuraberuto.html#nikuraberuto">@HI{{@N{{}}ni@KJ{{compare}}beruto}}</a>
+<li> <a href="grammar-mono-da.html#should">@HI{{monoda}}</a> @MIDDOT{{}}
+     <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> <a href="grammar-.html"></a>past tense forms
 <li> <a href="grammar-.html"></a>@HI{{datte}} ~ @HI{{mono}}
 <li> <a href="grammar-.html"></a>@Vta{{}}@HI{{tokorode}}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ttara}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ttara}}" grammar="@HI{{ttara}}"}}
+
+<body>
+
+<h1>@HI{{ttara}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ttara}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ttara}}}} is an abbreviation for @HI{{tokitara}} or @HI{{to@KJ{{say}}ttara}} and is used to present a noun phrase
+in informal conversation. It is more emphatic that using the topic marker @HI{{ha}}. It expresses a feeling of
+astonishment or criticism towards the topic.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{uchide@FG{{@KJ{{domesticate}}:ka}}tteru@KT{{chiro}}@EM{{ttara}},@KJ{{private}}nokotowo@KJ{{mama^parent}}dato@KJ{{think}}tterundesuyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our dog Chiro thinks that I'm his mother, you know.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 17).
+<li> @REF{{DOBJG}}. (p. 484).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

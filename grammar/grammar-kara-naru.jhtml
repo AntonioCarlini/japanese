@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{karanaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{karanaru}}" grammar="@HI{{karanaru}}"}}
+
+<body>
+
+<h1>@HI{{karanaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{(to)@EM{{karanatteiru}}}}}}
+<li> @FORMATION{{@N1{{}}@HI{{(to)@EM{{karanaru}}}}@N2{{}}}}
+<li> @FORMATION{{@HI{{@EM{{yorinaru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{karanaru}}}} is used to indicate that something is composed of constituent parts.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+X@HI{{ha}}Y@HI{{@EM{{karanaru}}}} or X@HI{{ha}}Y@HI{{@EM{{karanatteiru}}}}, where Y may be a list of @HI{{to}}-separated nouns, both mean that X is made of Y.
+The @HI{{@EM{{karanaru}}}} version is more formal.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{day^book}}ha@FG{{@KJ{{metropolis^road-way^municipality^prefecture}}:todoufuken}}@EM{{karanatteiru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Japan is divided into 47 prefectures, including Tokyo, Hokkaido, Osaka and Kyoto.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When a prenominal form is required, only @HI{{@EM{{karanaru}}}} can be used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{10@KJ{{person}}no@FG{{@KJ{{department^study^someone}}:kagakusha}}@EM{{karanaru}}@FG{{@KJ{{polish^research}}:kenkyuu}}@KT{{guru-pu}}niyotte,
+      @FG{{@KJ{{tune^investigate}}:chousa}}ga@FG{{@KJ{{going}}:okona}}wareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The inquiry was conducted by a research group composed of 10 scientists.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+In formal writing, @HI{{@EM{{yorinaru}}}} is used. In this case the otherwise optional final @HI{{to}} must be omitted.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice^country}}:beikoku}}@FG{{@KJ{{deliberation^meeting}}:gikai}}ha@FG{{@KJ{{above^Inst.}}:jouin}}to@FG{{@KJ{{below^Inst.}}:kain}}@EM{{yorinaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The US Congress consists of the Senate and the House of Representatives.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 192).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 17).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
