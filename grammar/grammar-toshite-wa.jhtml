@@ -21,6 +21,10 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+
 <p>
 This compound particle follows a noun and indicates that something is a standard for comparison.
 
@@ -34,12 +38,31 @@ This compound particle follows a noun and indicates that something is a standard
 </table>
 </p>
 
+@BGRND{{}}
+
+<p>
+<a name="non-comparison">@HI{{toshiteha}}</a> can also be used without implying a sense of comparison.
+In this case it indicates that whatever follows is applicable to whatever is marked by the particle.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{north^sea^road-way}}:hokkaidou}}noo@FG{{@KJ{{soil^products}}:miyage}}@EM{{toshiteha}},@KT{{kukki}}ya@KT{{chokore-to}}nadoga@FG{{@KJ{{possess^name}}:yuumei}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Well-known souvenirs from Hokkaido include biscuits and chocolate.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 502).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 17).
 </ol>
 
 @include{{"grammar-footer.inc"}}
