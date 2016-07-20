@@ -980,7 +980,7 @@ h2#heading {
 <ol>
 <li> @HI{{@FG{{@KJ{{say}}:i}}i@FG{{@KJ{{interchange}}:ka}}ereba}}
 <li> @HI{{tsumari}}
-<li> @HI{{@FG{{@KJ{{need}}:you}}suruni}}
+<li> <a href="grammar-you-suru-ni.html">@HI{{@FG{{@KJ{{need}}:you}}suruni}}</a>
 <li> @HI{{sunawachi}}
 <li> @HI{{@FG{{@KJ{{tie^bureau}}:kekkyoku}}}}
 <li> @HI{{toiukotoha}}

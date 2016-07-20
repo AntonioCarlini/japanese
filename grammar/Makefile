@@ -688,6 +688,7 @@ JHTML_SRCS += grammar-you-ni-request.jhtml
 JHTML_SRCS += grammar-you-ni-suru.jhtml
 JHTML_SRCS += grammar-you-ni.jhtml
 JHTML_SRCS += grammar-you-to-omou.jhtml
+JHTML_SRCS += grammar-you-suru-ni.jhtml
 JHTML_SRCS += grammar-zaru-wo-enai.jhtml
 JHTML_SRCS += grammar-zehi.jhtml
 JHTML_SRCS += grammar-zutsu.jhtml
