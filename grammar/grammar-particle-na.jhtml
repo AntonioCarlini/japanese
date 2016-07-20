@@ -98,13 +98,28 @@ This usage is employed by men.
       Narita airport, if you please. <em>(used by a woman)</em>
   </td> </tr>
 </table>
-<br/>
+</p>
+
+<p>
 <table class="sentence" border=0>
   <tr class="jp"> <td>
       @HI{{@KJ{{bright^day^invariably}}zu@KJ{{come}}i@EM{{na}}.}}
   </td> </tr>
   <tr class="en"> <td>
       Be sure to come tomorrow. <em>(used by a man)</em>
+  </td> </tr>
+</table>
+
+@BGRND{{}}
+<p>
+<a name="supplement">@HI{{@EM{{naa}}}}</a> can be used at the beginning of a sentence to add further information to what has been said before.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^day}}hakorede@FG{{@KJ{{end}}:o}}warimasu. @EM{{naa}}@FG{{@KJ{{next^-times}}:jikai}}no@FG{{@KJ{{day^time}}:nichiji}}ha@JDOTS6{{}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We are finished for today. Our next session will be ...
   </td> </tr>
 </table>
 
@@ -119,6 +134,7 @@ This usage is employed by men.
 <ol>
 <li> @REF{{AAP}}. (p. 135).
 <li> @REF{{DOIJG}}. (p. 193).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
