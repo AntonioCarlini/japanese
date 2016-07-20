@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{slip*out}}kinishite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nukinishite}}" grammar="@HI{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{ha@EM{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{ha@EM{{@FG{{@KJ{{slip*out}}:nu}}kide}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{ha@EM{{@FG{{@KJ{{slip*out}}:nu}}kini}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{ha@EM{{@FG{{@KJ{{slip*out}}:nu}}kino@N2{{}}}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kide}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kini}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kino@N2{{}}}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}(ha)}}@Vrenai{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kide}}(ha)}}@Vrenai{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{(wo)@EM{{@FG{{@KJ{{slip*out}}:nu}}kini}}(ha)}}@Vrenai{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{slip*out}}:nu}}ki}}}} expresses the idea of "without".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{all}}:mina}}san,@KJ{{attend^matter}}no@FG{{@KJ{{tale}}:hanashi}}@EM{{@FG{{@KJ{{slip*out}}:nu}}kinishite}}@FG{{@KJ{{music}}:tano}}shiku@KJ{{drink}}mimashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Everyone, let's enjoy drinking and forget about work.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+When followed by a potential form in the negative, @HI{{@EM{{@FG{{@KJ{{slip*out}}:nu}}ki}}}} expresses the idea of "without" something, something else cannot be done.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{rice*field^in}}:tanaka}}san@EM{{@FG{{@KJ{{slip*out}}:nu}}kide(ha)}}@KT{{pa-texi-}}ha@FG{{@KJ{{commence}}:haji}}me@EM{{raremasen}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We can't start the party without Tanaka-san.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NKZM-N2G}}. (p. 69).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

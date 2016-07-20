@@ -359,6 +359,7 @@ JHTML_SRCS += grammar-noni-purpose.jhtml
 JHTML_SRCS += grammar-noun-modification-by-word-plus-particle.jhtml
 JHTML_SRCS += grammar-noun-sentences.jhtml
 JHTML_SRCS += grammar-nu-archaic-negative.jhtml
+JHTML_SRCS += grammar-nuki-ni-shite.jhtml
 JHTML_SRCS += grammar-nuku-suffix.jhtml
 JHTML_SRCS += grammar-o-desu.jhtml
 JHTML_SRCS += grammar-o-kudasai.jhtml

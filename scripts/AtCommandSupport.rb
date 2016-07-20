@@ -267,6 +267,7 @@ $command_to_op = {
   "Vba" => :process_empty_code,
   "Vyou" => :process_empty_code,
   "Vreru" => :process_empty_code,
+  "Vrenai" => :process_empty_code,
   "Vrareru" => :process_empty_code,
   "Vsaseru" => :process_empty_code,
   "Vsasete" => :process_empty_code,
@@ -667,6 +668,7 @@ def process_empty_code_helper(code)
         when "Vba"         then mark_as_grammar("V#{convert_to_hiragana('ba')}")                # ba (conditional)
         when "Vyou"        then mark_as_grammar("V#{convert_to_hiragana('you')}")               # volitional
         when "Vreru"       then mark_as_grammar("V#{convert_to_hiragana('reru')}")              # potential
+        when "Vrenai"      then mark_as_grammar("V#{convert_to_hiragana('renai')}")             # negative potential
         when "Vrareru"     then mark_as_grammar("V#{convert_to_hiragana('rareru')}")            # passive
         when "Vsaseru"     then mark_as_grammar("V#{convert_to_hiragana('saseru')}")            # causative
         when "Vsasete"     then mark_as_grammar("V#{convert_to_hiragana('sasete')}")            # causative-te-form
