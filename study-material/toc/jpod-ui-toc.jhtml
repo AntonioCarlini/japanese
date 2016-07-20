@@ -158,7 +158,7 @@ h2#heading {
 
 <ol>
 <li> @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
-<li> @HI{{kkonai}}
+<li> <a href="grammar-kkonai.html">@Vmasustem{{}}@HI{{kkonai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.12">_</a>Lesson 12</h3>
@@ -361,7 +361,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson2.15">_</a>Lesson 15</h3>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{kkonai}}
+<li> <a href="grammar-kkonai.html">@Vmasustem{{}}@HI{{kkonai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.16">_</a>Lesson 16</h3>

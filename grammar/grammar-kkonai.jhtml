@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kkonai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kkonai}}" grammar="@HI{{kkonai}}"}}
+
+<body>
+
+<h1>@HI{{kkonai}} (reason)</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{kkonai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kkonai}}}} is appended to the @HI{{masu}}-stem of a verb and adds the meaning of "there is no reason why" or "there is no way to do something".
+The meaning is similar to <a href="grammar-wake-ga-nai.html">@HI{{wakeganai}}</a>. @HI{{@EM{{kkonai}}}} cannot be used to negate the possibility of a past action.
+It is used in casual conversations.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now}}no@FG{{@KJ{{reality^power}}:jitsuryoku}}deha,@FG{{@KJ{{test^verification}}:shiken}}ni@FG{{@KJ{{accept}}:u}}kari@EM{{kkonai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With my current abilities, it is impossible to pass the test.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JPOD101-UI-S1-011}}
+<li> @REF{{JPOD101-UI-S2-015}}
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
