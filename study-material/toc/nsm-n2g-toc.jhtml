@@ -437,7 +437,7 @@
 
 <ol>
 <li> <a href="grammar-yara-yara.html">@HI{{yara}}</a>
-<li> <a href=""></a> @HI{{nitsuke}}
+<li> <a href="grammar-ni-tsukete.html#repeated">@HI{{nitsuke}}</a>
 <li> <a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiro}}</a>
 <li> <a href=""></a> @N1{{}}@HI{{mo}}@Vba{{}}@HI{{mo}}
 </ol>
