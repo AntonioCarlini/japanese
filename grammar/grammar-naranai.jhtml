@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{naranai}}" grammar="@HI{{naranai}}"}}
+@GRMIDX{{index="@HI{{tenaranai}}" grammar="@HI{{@Vte{{}}naranai}}"}}
 
 <body>
 
@@ -24,7 +24,7 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{@EM{{naranai}}}} is a phrase that expresses insurmountable psychological or physical feelings.
+@Vte{{}}@HI{{@EM{{naranai}}}} is a phrase that expresses insurmountable psychological or physical feelings.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -54,6 +54,7 @@
 <ol>
 <li> @REF{{DOIJG}}. (p. 219).
 <li> @REF{{NKZM-N2G}}. (p. 112).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 

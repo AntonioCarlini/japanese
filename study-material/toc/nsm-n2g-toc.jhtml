@@ -105,9 +105,9 @@
 
 <ol>
 <li> <a href="grammar-tamaranai.html">@Vte{{}}@HI{{tamaranai}}
-<li> <a href=""></a> @HI{{deshouganai}}
-<li> <a href=""></a> @HI{{tekanawanai}}
-<li> <a href=""></a> @HI{{denaranai}}
+<li> <a href="grammar-te-shikata-ga-nai.html">@HI{{@Vte{{}}shouganai}}</a>
+<li> <a href="grammar-te-kanawanai.html">@HI{{tekanawanai}}</a>
+<li> <a href="grammar-naranai.html">@Vte{{}}@HI{{naranai}}</a>
 </ol>
 
 
