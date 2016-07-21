@@ -318,8 +318,8 @@
 <ol>
 <li> <a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
 <li> <a href="grammar-no-koto-dakara.html">@HI{{nokotodakara}}</a>
-<li> <a href=""></a> @HI{{kotonaku}}
-<li> <a href=""></a> @Vnai{{}}@HI{{kotoniha}}@Vnai{{}}
+<li> <a href="grammar-koto-naku.html">@HI{{kotonaku}}</a>
+<li> <a href="grammar-nai-koto-ni-wa.html">@Vnai{{}}@HI{{kotoniha}}@Vnai{{}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w5d3">_</a> @KJ{{No.}}5@KJ{{week}}3@KJ{{day^eye}} </h2>

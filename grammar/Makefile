@@ -197,6 +197,7 @@ JHTML_SRCS += grammar-koto-de.jhtml
 JHTML_SRCS += grammar-koto-ga-dekiru.jhtml
 JHTML_SRCS += grammar-koto-ka.jhtml
 JHTML_SRCS += grammar-koto-kara.jhtml
+JHTML_SRCS += grammar-koto-naku.jhtml
 JHTML_SRCS += grammar-koto-ni-naru.jhtml
 JHTML_SRCS += grammar-koto-ni-suru.jhtml
 JHTML_SRCS += grammar-koto-ni-yoru.jhtml

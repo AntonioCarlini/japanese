@@ -450,7 +450,7 @@ h2#heading {
 <li> ~@HI{{kotodarou}}
 <li> ~<a href="grammar-koto-ka.html">@HI{{kotoka}}</a>
 <li> ~@HI{{koto}}
-<li> ~@HI{{kotonaku}}
+<li> ~<a href="grammar-koto-naku.html">@HI{{kotonaku}}</a>
 <li> ~<a href="grammar-koto-ni.html">@HI{{kotoni}}</a>
 <li> ~@HI{{kotoha}}~@HI{{ga}}
 <li> ~@HI{{toiukotoda}}
