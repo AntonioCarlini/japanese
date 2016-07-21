@@ -367,6 +367,7 @@ JHTML_SRCS += grammar-o-kudasai.jhtml
 JHTML_SRCS += grammar-o-ni-naru.jhtml
 JHTML_SRCS += grammar-o-suru.jhtml
 JHTML_SRCS += grammar-okage-de.jhtml
+JHTML_SRCS += grammar-omakeni.jhtml
 JHTML_SRCS += grammar-omoeba.jhtml
 JHTML_SRCS += grammar-omowareru.jhtml
 JHTML_SRCS += grammar-ooi.jhtml

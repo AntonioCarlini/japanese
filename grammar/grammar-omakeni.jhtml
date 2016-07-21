@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{omakeni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{omakeni}}" grammar="@HI{{omakeni}}"}}
+
+<body>
+
+<h1>@HI{{tomokaku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@S1{{}}.@HI{{@EM{{omakeni}}}}@S2{{}}.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{omakeni}}}} is used to add further information to a preceding utterance. It means "and in addition".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{anosoba@FG{{@KJ{{roof}}:ya}}ha@KJ{{tall}}ishimazui.@EM{{omakeni}}@KT{{sa-bisu}}mo@KJ{{bad}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The soba in that shop is expensive and doesn't taste good. On top of that, the service is poor.     
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
