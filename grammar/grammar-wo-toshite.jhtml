@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wo~toshite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wo~toshite}}" grammar="@HI{{wo~toshite}}"}}
+
+<body>
+
+<h1>@HI{{wo~toshite}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{wo}}@N2{{}}@EM{{toshite}}}}@V{{}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{wo}}@N2{{}}@EM{{tosuru}}}}@N3{{}}}}
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{wo}}@N2{{}}@EM{{toshita}}}}@N3{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The pattern @N1{{}}@HI{{@EM{{wo}}@N2{{}}@EM{{toshite}}}} means that @N1{{}} is used as @N2{{}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{ritual}}:matsuri}}ha,@FG{{@KJ{{dwell^people}}:juumin}}no@FG{{@KJ{{company^meeting}}:shakai}}@FG{{@KJ{{visit^add}}:sanka}}@EM{{wo}}
+      @FG{{@KJ{{eye^bull's*eye}}:mokuteki}}@EM{{toshite}}@FG{{@KJ{{commence}}:haji}}merareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The goal of this festival was to have residents participate in the local society.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^rice*field}}:yamada}}san@EM{{wo}}@KT{{ri-da-}}@EM{{tosuru}}@KT{{sa-kuru}}wo@FG{{@KJ{{make}}:tsuku}}ru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We will make a club with Tanaka-san as the leader.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

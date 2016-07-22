@@ -97,7 +97,7 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
 
 @BGRND{{}}
 <p>
-@Vta{{}}@HI{{@EM{{kiri}}}} is used to mean that ever since someone did something in the past, nothing has changed.
+<a name="unchanged">@Vta{{}}@HI{{@EM{{kiri}}}}</a> is used to mean that ever since someone did something in the past, nothing has changed.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -121,6 +121,7 @@ In this usage it may be replaced by <a href="grammar-particle-dake.html">@HI{{da
 <li> @REF{{DOAJG}}. (p. 219).
 <li> @REF{{NKZM-N2G}}. (p. 90).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
