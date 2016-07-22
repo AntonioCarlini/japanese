@@ -71,7 +71,7 @@ expresses the reason for the result.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{dake(nokotoha)atte}}}} is the continuative form. The order of the reason and the result are reversed when this sentence pattern is used.
+<a name="continuative">@HI{{@EM{{dake(nokotoha)atte}}}}</a> is the continuative form. The order of the reason and the result are reversed when this sentence pattern is used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -93,6 +93,7 @@ expresses the reason for the result.
 <ol>
 <li> @REF{{DOAJG}}. (p. 51).
 <li> @REF{{NKZM-N2G}}. (p. 86).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
