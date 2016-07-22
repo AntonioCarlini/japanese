@@ -152,6 +152,7 @@ JHTML_SRCS += grammar-jibun.jhtml
 JHTML_SRCS += grammar-jitai.jhtml
 JHTML_SRCS += grammar-jou.jhtml
 JHTML_SRCS += grammar-ka-ka.jhtml
+JHTML_SRCS += grammar-ka-no-you.jhtml
 JHTML_SRCS += grammar-ka-to-iu-to.jhtml
 JHTML_SRCS += grammar-ka-to-omou-to.jhtml
 JHTML_SRCS += grammar-kadouka.jhtml

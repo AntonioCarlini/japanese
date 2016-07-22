@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kanoyou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kanoyou}}" grammar="@HI{{kanoyou}}"}}
+
+<body>
+
+<h1>@HI{{kanoyou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{kanoyou}}}}.}}
+<li> @FORMATION{{@Ai{{}}@HI{{dearu@EM{{kanoyou}}}}.}}
+<li> @FORMATION{{@Anastem{{}}@HI{{dearu@EM{{kanoyou}}}}.}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{kanoyou}}}}.}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kanoyouni}}}} is a conjunctive phrase that forms an adverbial clause which describes how someone or something appears to the writer, contrary to reality.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{dreadful}}:kowa}}imonodemo@KJ{{see}}ta@EM{{kanoyouni}},@KJ{{he^woman}}ha@FG{{@KJ{{quake}}:furu}}eteita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She was shivering as if she had seen something frightening.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The counterfactual nature of the phrase can be emphasised by using the adverbs @HI{{marude}} or @HI{{atakamo}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he^woman}}hamarude@FG{{@KJ{{organize^shape^hand^art}}:seikeishujutsu}}shita@EM{{kanoyouni}}kireininatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He looks improved @LIT{{she became beautiful}}, as though she had undergone plastic surgery.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{atakamo@KJ{{day^book}}no@FG{{@KJ{{made*in...^create^profession}}:seizougyou}}@FG{{@KJ{{whole^body}}:zentai}}no@FG{{@KJ{{emulate^contend^power}}:kyousouryoku}}ha
+      @FG{{@KJ{{strong}}:tsuyo}}i@EM{{kanoyouni}}@KJ{{think}}waretekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The competitiveness of the Japanese manufacturing industry has been perceived as (though it were) strong.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kanoyouda}}}} is the form used at the end of a sentence.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{interment^style}}:soushiki}}ga@FG{{@KJ{{commence}}:haji}}maruto@KJ{{rain}}ga@FG{{@KJ{{descend}}:fu}}ri@FG{{@KJ{{exit}}:da}}shita.
+      marude@FG{{@KJ{{empty}}:sora}}ga@FG{{@KJ{{cry}}:na}}iteiru@EM{{kanoyouda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When the funeral started, it began to rain. It was as if the sky were crying.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kanoyouna}}}} is the pre-nominal form.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{private}}ha@FG{{@KJ{{gold}}:kane}}desubetega@FG{{@KJ{{unravel^decide}}:kaiketsu}}suru@EM{{kanoyouna}}@FG{{@KJ{{consider}}:kanga}}e@FG{{@KJ{{direction}}:kata}}nihatsuiteikenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I can't accept that way of thinking, as if everything can be solved by money.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 187).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
