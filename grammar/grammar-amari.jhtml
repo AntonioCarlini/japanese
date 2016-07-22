@@ -34,7 +34,7 @@
 
 @BGRND{{}}
 <p>
-<a name="not-much">The adverb @HI{{@EM{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
+<a name="not-much">The</a> adverb @HI{{@EM{{amari}}}} expresses that the degree of the action of the verb is not great ("not much" or "not very").
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -48,7 +48,7 @@
 
 @BGRND{{}}
 <p>
-<a name="excessive">As a conjunction @HI{{@EM{{amari}}}} marks a cause that involves excessive action.
+<a name="excessive">As</a> a conjunction @HI{{@EM{{amari}}}} marks a cause that involves excessive action.
 The action must represent a psychological state.
 
 <table class="sentence" border=0>
@@ -57,6 +57,21 @@ The action must represent a psychological state.
   </td> </tr>
   <tr class="en"> <td>
       I was so excited that night that I couldn't sleep.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="degree">The</a> pattern @HI{{@EM{{anmari}}}}X@HI{{@EM{{kara}}}}Y expresses the relationship "Y occurred because X was of high degree".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KJ{{electricity^tale}}wokaketekita@FG{{@KJ{{inter-^hand}}:aite}}no@FG{{@KJ{{say^leaf}}:kotoba}}@FG{{@KJ{{use}}:tsuka}}iga
+      @EM{{anmari}}@FG{{@KJ{{lose^salutation}}:shitsurei}}datta@EM{{kara}},@FG{{@KJ{{think}}:omo}}wazu@FG{{@KJ{{cut}}:ki}}tteshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because the person who telephoned me spoke so rudely, I instintcively put the phone down.
   </td> </tr>
 </table>
 </p>
@@ -85,6 +100,7 @@ Finally, the use of @HI{{@EM{{amari}}}} as a conjunction is limited to formal wr
 <li> @REF{{DOBJG}}. (p. 72).
 <li> @REF{{DOIJG}}. (p. 3).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}

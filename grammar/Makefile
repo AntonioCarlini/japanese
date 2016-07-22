@@ -614,6 +614,7 @@ JHTML_SRCS += grammar-tokoro-when.jhtml
 JHTML_SRCS += grammar-tokoro.jhtml
 JHTML_SRCS += grammar-tomo-conjunction.jhtml
 JHTML_SRCS += grammar-toori-ni.jhtml
+JHTML_SRCS += grammar-toshite-iru.jhtml
 JHTML_SRCS += grammar-toshite-nai.jhtml
 JHTML_SRCS += grammar-toshite-wa.jhtml
 JHTML_SRCS += grammar-toshite.jhtml

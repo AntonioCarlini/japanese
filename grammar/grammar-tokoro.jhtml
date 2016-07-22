@@ -90,7 +90,7 @@ sentence patterns above, it means a specific point in time during the course of 
 </p>
 
 <p>
-@Vta{{}}@HI{{@EM{{tokoro}}}} can also indicate the conclusion of a certain action.
+<a name="conclusion">@Vta{{}}@HI{{@EM{{tokoro}}}}</a> can also indicate the conclusion of a certain action.
 In this case the @HI{{tokoro}} clause must represent a volitional action.
 The main clause must represent an event caused by the @HI{{tokoro}} clause and the event must be in the past.
 
@@ -165,6 +165,7 @@ This usage is explained more fully <a href="grammar-ta-tokoro-de.html">here</a>.
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 5).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 16).
 </ol>
 
 @include{{"grammar-footer.inc"}}
