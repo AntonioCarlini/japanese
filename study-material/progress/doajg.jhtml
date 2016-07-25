@@ -93,9 +93,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{dakeatte}}                                                             </td>
+  <td class="left"> <a href="grammar-dake-no-koto-wa-aru.html#continuative">@HI{{dakeatte}}</a>                             </td>
   <td class="left"> DOAJG, p. 45                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-dake-ni.html">@HI{{dakeni}}</a>                                                        </td>
