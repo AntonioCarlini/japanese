@@ -166,6 +166,7 @@ JHTML_SRCS += grammar-kai.jhtml
 JHTML_SRCS += grammar-kakeru-suffix-incomplete.jhtml
 JHTML_SRCS += grammar-kamo-shiremasen.jhtml
 JHTML_SRCS += grammar-kaneru-suffix.jhtml
+JHTML_SRCS += grammar-kara-itte.jhtml
 JHTML_SRCS += grammar-kara-koso.jhtml
 JHTML_SRCS += grammar-kara-naru.jhtml
 JHTML_SRCS += grammar-kara-ni-kakete.jhtml
