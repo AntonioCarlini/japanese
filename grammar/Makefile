@@ -160,6 +160,7 @@ JHTML_SRCS += grammar-kadouka.jhtml
 JHTML_SRCS += grammar-kaeru-suffix.jhtml
 JHTML_SRCS += grammar-kaette.jhtml
 JHTML_SRCS += grammar-kagiri-conjunction.jhtml
+JHTML_SRCS += grammar-kagiri-emotion.jhtml
 JHTML_SRCS += grammar-kagiri-suffix.jhtml
 JHTML_SRCS += grammar-kai.jhtml
 JHTML_SRCS += grammar-kakeru-suffix-incomplete.jhtml

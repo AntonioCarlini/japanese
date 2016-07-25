@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@KJ{{limit}}ri}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kagiri}} (emotion)" grammar="@HI{{@FG{{@KJ{{limit}}:kagi}}ri}} (emotion)"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{limit}}:kagi}}ri}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{@FG{{@KJ{{limit}}:kagi}}ri}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{limit}}:kagi}}ri}}}} is used with an @HI{{i}}-adjective of emotion ending in @HI{{shii}} to indicate that the degree of emotion is extreme.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{iroironatokoroni@KJ{{going}}tteorarerundesune.urayamashii@EM{{@FG{{@KJ{{limit}}:kagi}}ri}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You are travelling to all sorts of places. I'm extremely envious of you.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{limit}}:kagi}}ri}}}} can also be used in the same way with a @HI{{na}}-adjective with emotive meaning, but this is less common.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{test^fit}}:shiai}}@FG{{@KJ{{in^stop}}:chuushi}}toha@FG{{@KJ{{remainder^wish}}:zan'nen}}na@EM{{@FG{{@KJ{{limit}}:kagi}}ri}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I feel extremely sorry that the game has been suspended.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 177).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
