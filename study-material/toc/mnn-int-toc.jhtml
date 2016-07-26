@@ -358,13 +358,13 @@
 <li> <a href="grammar-no-moto-de.html">@HI{{nomotode}}</a>
 <li> <a href="grammar-.html"></a>@HI{{sou}}
 <li> <a href="grammar-particle-zo.html">@HI{{zo}}</a>
-<li> <a href="grammar-.html"></a>@HI{{to@KJ{{same^time}}ni}}
-<li> <a href="grammar-shika-nai.html"></a>@HI{{shikanai}}
+<li> <a href="grammar-to-douji-ni.html">@HI{{to@FG{{@KJ{{same^time}}:douji}}ni}}</a>
+<li> <a href="grammar-shika-nai.html">@HI{{shikanai}}</a>
 <li> <a href="grammar-sue-ni.html">@HI{{no@FG{{@KJ{{extremity}}:sue}}(ni)}}</a>
 <li> <a href="grammar-irai.html#noun-irai">@HI{{@N{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}} @MIDDOT{{}}
      <a href="grammar-irai.html#te-irai">@HI{{@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}}
-<li> <a href="grammar-.html"></a>@HI{{kurai}}/@HI{{kuraida}}
-<li> <a href="grammar-.html"></a>@HI{{wokomete}}
+<li> <a href="grammar-kurai.html#kurai-da">@HI{{kurai}}/@HI{{kuraida}}</a>
+<li> <a href="grammar-wo-komete.html">@HI{{wokomete}}</a>
 <li> <a href="grammar-totan.html">@HI{{totan'ni}}</a>
 <li> <a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
 </ol>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wokomete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wokomete}}" grammar="@HI{{wokomete}}"}}
+
+<body>
+
+<h1>@HI{{wokomete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@N{{}}@EM{{wokomete}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wokomete}}}} is used to indicate that something is full of a certain feeling.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{zoreha@KJ{{child}}domonotameni@FG{{@KJ{{mama^parent}}:hahaoya}}ga@FG{{@KJ{{love}}:ai}}@EM{{komete}}@FG{{@KJ{{make}}:tsuku}}tta@FG{{@KJ{{poem}}:shi}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      These are poems written with love by mothers for their children.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 20).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
