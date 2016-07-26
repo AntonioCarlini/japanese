@@ -43,6 +43,21 @@
 
 @BGRND{{}}
 <p>
+<a name="obligation">In</a> the form @Vru{{}}@HI{{@EM{{tameniha}}}} or @N{{}}@HI{{@EM{{tameniha}}}}, it indicates a purpose.
+It is followed by an expression indicating a requirement or an obligation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{manshon}}wo@KJ{{buy}}u@EM{{tameniha}},3000@KJ{{ten*thousand^circle}}kurai@FG{{@KJ{{invariably^need}}:hitsuyou}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      To buy a flat you need about &yen;30 million.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 <a name="reason">If</a> the main clause is non-volitional, then @HI{{@EM{{tameni}}}} is interpreted to mean a reason or cause.
 
 <table class="sentence">
@@ -114,6 +129,7 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <li> @REF{{MNN-TR-II}}. (Chapter 42).
 <li> @REF{{DOBJG}}. (p. 447).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 19).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 </ol>
 

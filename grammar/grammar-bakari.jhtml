@@ -153,7 +153,7 @@ in @QNTF{{}} @HI{{@EM{{bakari}}}}, which means "about".
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{bakari}}denai}} expresses the idea of "not also but also". In this usage it can be replaced by
+<a name="denai">@HI{{@EM{{bakari}}denai}}</a> expresses the idea of "not also but also". In this usage it can be replaced by
 <a href="grammar-particle-dake.html">@HI{{dake}}</a> but @HI{{@EM{{bakari}}}} is slightly more emphatic.
 
 <table class="sentence" border=0>
@@ -241,6 +241,7 @@ When @HI{{@EM{{bakari}}}} follows @HI{{ga}} or @HI{{wo}}, these particles drop. 
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 6).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 19).
 </ol>
 
 @include{{"grammar-footer.inc"}}
