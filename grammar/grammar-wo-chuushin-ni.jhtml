@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wo@KJ{{in^heart}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wochuushin'ni}}" grammar="@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}ni}}"}}
+
+<body>
+
+<h1>@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{in^heart}}:chuushin}}ni}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{in^heart}}:chuushin}}nishite}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{in^heart}}:chuushin}}toshite}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+X@HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}ni}}}} is a phrase that means "focussing on X" or "X primarily".
+The specific meaning varies with context but it means that something happens or is done with X as
+the central object or person.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{east^capital}}@EM{{wo@KJ{{in^heart}}ni}}@FG{{@KJ{{large^rain}}:ooame}}ga@FG{{@KJ{{descend}}:fu}}tta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There was heavy rain, mostly in and around Tokyo.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}nishite}}}} is interchangeable with @HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}ni}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{east^south}}:tounan}}@KT{{ajia}}@EM{{wo@KJ{{in^heart}}nishite}}@FG{{@KJ{{bird}}:tori}}@KT{{infuruenza}}ga@FG{{@KJ{{hurry^quick}}:kyuusoku}}ni@FG{{@KJ{{wide}}:hiro}}gatteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Bird flu is spreading rapidly, primarily in Southeast Asia.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}toshite}}}} is also interchangeable with @HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}ni}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{polish^research}}:kenkyuu}}ha@FG{{@KJ{{in^island}}:nakajima}}@FG{{@KJ{{teach^impart}}:kyouju}}@EM{{wo@KJ{{in^heart}}toshite}}@FG{{@KJ{{advance}}:susu}}merareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This research is progessing, with Prof. Nakajima taking the lead.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}ni}}}} has no noun modification form so when such a form is required either @HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}nishita}}}}
+or @HI{{wo@EM{{@FG{{@KJ{{in^heart}}:chuushin}}toshita}}}} is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kokodeha@FG{{@KJ{{meeting^tale}}:kaiwa}}@EM{{wo@KJ{{in^heart}}toshita}}@FG{{@KJ{{impart^profession}}:jugyou}}ga@FG{{@KJ{{going}}:okona}}wareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Here classes focussing on conversation are being taught.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 477).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -608,9 +608,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nazeka}}                                                               </td>
+  <td class="left"> <a href="grammar-naze-ka.html">@HI{{nazeka}}</a>                                                        </td>
   <td class="left"> DOAJG, p. 370                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-naze-nara-ba-kara-da.html">@HI{{nazenara}}(@HI{{ba}}) ~ @HI{{karada}}</a>              </td>
@@ -773,9 +773,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{wo}}@FG{{@KJ{{in^heart}}:chuushinn}}@HI{{ni}}                          </td>
+  <td class="left"> <a href="grammar-wo-chuushin-ni.html">@HI{{wo}}@FG{{@KJ{{in^heart}}:chuushinn}}@HI{{ni}}</a>            </td>
   <td class="left"> DOAJG, p. 477                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{wo}}@FG{{@KJ{{jammed*in}}shite:kaishite}}/@FG{{@KJ{{jammed*in}}shita:kaishita}}</td>
