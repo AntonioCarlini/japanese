@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wo@KJ{{vis-a-vis^elephant}}ni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wotaishouni}}" grammar="@HI{{wo@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ni}}"}}
+
+<body>
+
+<h1>@HI{{wo@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{wo@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ni}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ni}}}} is used to indicate the object of a survey or investigation or the target of some information or action.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{terebi}}no@FG{{@KJ{{noon^behind}}:gogo}}@FG{{@KJ{{turn^association}}:bangumi}}haomoni@FG{{@KJ{{lord^lady}}:shufu}}@EM{{wo@FG{{@KJ{{vis-a-vis^elephant}}:taishou}}ni}}
+      @FG{{@KJ{{association}}:ku}}mareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Afternoon television programmes are put together mainly for housewives.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 19).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
