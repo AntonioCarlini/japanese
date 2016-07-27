@@ -578,6 +578,7 @@ JHTML_SRCS += grammar-teineigo.jhtml
 JHTML_SRCS += grammar-ten-de.jhtml
 JHTML_SRCS += grammar-to-conditional.jhtml
 JHTML_SRCS += grammar-to-douji-ni.jhtml
+JHTML_SRCS += grammar-to-ie-domo.jhtml
 JHTML_SRCS += grammar-to-ieba.jhtml
 JHTML_SRCS += grammar-to-itta.jhtml
 JHTML_SRCS += grammar-to-itte-imashita.jhtml
