@@ -256,6 +256,7 @@ $command_to_op = {
   "Vnaide" => :process_empty_code,
   "Vnaistem" => :process_empty_code,
   "Vzu" => :process_empty_code,
+  "Vnu" => :process_empty_code,
   "Vmasu" => :process_empty_code,
   "Vmasustem" => :process_empty_code,
   "Vte" => :process_empty_code,
@@ -657,6 +658,7 @@ def process_empty_code_helper(code)
         when "Vnaide"      then mark_as_grammar("V#{convert_to_hiragana('naide')}")             # negative-te-form
         when "Vnaistem"    then mark_as_grammar("V<del>#{convert_to_hiragana('nai')}</del>")    # negative stem
         when "Vzu"         then mark_as_grammar("V#{convert_to_hiragana('zu')}")                # negative zu-form
+        when "Vnu"         then mark_as_grammar("V#{convert_to_hiragana('nu')}")                # negative nu-form
         when "Vmasu"       then mark_as_grammar("V#{convert_to_hiragana('masu')}")              # masu form
         when "Vmasustem"   then mark_as_grammar("V<del>#{convert_to_hiragana('masu')}</del>")   # masu stem
         when "Vte"         then mark_as_grammar("V#{convert_to_hiragana('te')}")                # te-form

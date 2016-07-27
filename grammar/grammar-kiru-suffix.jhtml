@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{cut}}:ki}}ru}}}} functions as a auxiliary verb attached to the @HI{{masu}} stem of a verb and gives the meaning of "to do something completely".
+@HI{{@EM{{@FG{{@KJ{{cut}}:ki}}ru}}}} functions as a auxiliary verb attached to the @HI{{masu}}-stem of a verb and gives the meaning of "to do something completely".
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -33,6 +33,20 @@
   </td> </tr>
   <tr class="en"> <td>
     Can you memorise this many kanji?
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@FG{{@KJ{{cut}}:ki}}ru}}}} attached to the @HI{{masu}}-stem of a verb of motion means from the beginning to the end.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{he}}ha@KT{{marason}}de42.195}}km@HI{{wo@KJ{{run}}ri@EM{{kitta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    He completed 42.195km in the marathon.
   </td> </tr>
 </table>
 </p>
@@ -61,6 +75,7 @@ In the negative potential form, @HI{{@EM{{@FG{{@KJ{{cut}}:ki}}renai}}}}, the aux
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}5@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{DOIJG}}. (p. 634).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -418,16 +418,17 @@
 <h2><a class="navtarget" name="chapter24">_</a>Chapter 24</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{zaru}}
+<li> <a href="grammar-zaru.html">@HI{{zaru}}</a>
 <li> <a href="grammar-.html"></a>@HI{{kara}} ~ @HI{{ni@KJ{{climax}}rumade}}
-<li> <a href="grammar-.html"></a>@HI{{kitta}}
-<li> <a href="grammar-.html"></a>@HI{{naranu}}
+<li> <a href="grammar-kiru-suffix.html">@Vmasustem{{}}@HI{{kiru}}</a>
+<li> <a href="grammar-naranu.html">@HI{{naranu}}</a>
 <li> <a href="grammar-particle-sae.html#if-only">@HI{{sae}} ~ @HI{{ba}}</a>
 <li> <a href="grammar-toshite-nai.html">(one) @HI{{toshite}} ~ @HI{{masen}}</a>
 <li> <a href="grammar-ijou.html">@HI{{@FG{{@KJ{{by*means*of^above}}:ijou}}(ha)}}</a>
-<li> <a href="grammar-.html"></a>@HI{{nukagiri}}
-<li> <a href="grammar-wake-ni-wa-ikenai.html">@HI{{wakenihayukimasen}}</a>
-<li> <a href="grammar-.html"></a>@HI{{amari}}(@HI{{ni}})
+<li> <a href="grammar-nai-kagiri.html">@HI{{@Vnai{{}}kagiri}}</a> @MIDDOT{{}}
+     <a href="grammar-nai-kagiri.html">@HI{{@Vnu{{}}kagiri}}</a>
+<li> <a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihayukimasen}}</a>
+<li> <a href="grammar-amari.html#excessive">@HI{{amari}}(@HI{{ni}})</a>
 </ol>
 
 </div>

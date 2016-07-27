@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{naranu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naranu}}" grammar="@HI{{naranu}}"}}
+
+<body>
+
+<h1>@HI{{naranu}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{naranu}}@N{{}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+@N1{{}}@HI{{@EM{{naranu}}}}@N2{{}} means "N1 not being N2" or "N1 is not N2".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{itsuka@FG{{@KJ{{eaves^mid-air}}:uchuu}}ni@KJ{{going}}kitaito@KJ{{think}}tteitaga,soregatsuini@FG{{@KJ{{dream}}:yume}}@EM{{naranu}}@FG{{@KJ{{present^reality}}:genjitsu}}tonatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I used to think that I would like to go into space one day, and ultimately it became reality, not just a dream.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

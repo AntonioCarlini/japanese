@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vnai{{}}kagiri}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naikagiri}}" grammar="@HI{{@Vnai{{}}kagiri}}"}}
+@GRMIDX{{index="@HI{{nukagiri}}" grammar="@HI{{@Vnu{{}}kagiri}}"}}
+
+<body>
+
+<h1>@HI{{@Vnai{{}}kagiri}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@Vnai{{}}kagiri}}}}}}
+<li> @FORMATION{{@HI{{@EM{{@Vnu{{}}kagiri}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vnai{{}}kagiri}}}} means "as long as [verb] doesn't happen".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{akirame@EM{{naikagiri}},@KT{{chansu}}ha@FG{{@KJ{{invariably}}:kanara}}zu@KJ{{come}}ruto@KJ{{think}}u.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I believe that an opportunity will present itself, provided that I do not give up.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+This construction can also be made using the archaic @HI{{nu}}-form of the verb: @HI{{@EM{{@Vnu{{}}kagiri}}}}. The meaning is the same.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@KJ{{private}}@FG{{@KJ{{ill^spirit}}:byouki}}nidemonara@EM{{nukagiri}},kono@KJ{{store}}ha@KJ{{sell}}rimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I will never sell this shop, as long as I don't fall ill.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
