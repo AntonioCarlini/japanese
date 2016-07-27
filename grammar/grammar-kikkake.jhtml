@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kikkake}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kikkake}}" grammar="@HI{{kikkake}}"}}
+
+<body>
+
+<h1>@HI{{kikkake}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{gakikkakede}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wokikkakeni}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{gakikkakede}}}} marks an occasion or opportunity for starting to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{little^study^life}}no@FG{{@KJ{{about*that*time}}:koro}}@KT{{puranetariumu}}wo@KJ{{see}}takoto@EM{{gakikkakede}},@FG{{@KJ{{eaves^mid-air}}:uchuu}}ni
+      @FG{{@KJ{{entertain^flavor}}:kyoumi}}wo@KJ{{hold}}tsuyouninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I became interested in space after visiting a planetarium while at primary school.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wokikkakeni}}}} also marks an occasion or opportunity for starting to do something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{now^-times}}no@KT{{biru}}@FG{{@KJ{{fire^disaster}}:kasai}}@EM{{wokikkakeni}},@FG{{@KJ{{each^story}}:kakukai}}ni@KT{{supurinkura-}}no
+      @FG{{@KJ{{establishment^placement}}:secchi}}ga@FG{{@KJ{{righteousness^task}}:gimu}}dukerareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It became obligatory to install sprinklers on every floor after the recent office building fire.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kanouseigaaru}}" grammar="@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{no@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}} is used to indicate the possibility that something may happen.
+It can be used for both positive and negative events.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{exhort^study^gold}}:shougakukin}}gamoraeru@EM{{@FG{{@KJ{{can^ability^sex}}:kanousei}}gaaru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is a possibility that I may be given a scholarship.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 509).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
