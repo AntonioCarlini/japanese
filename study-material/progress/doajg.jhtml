@@ -238,9 +238,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{ikani}}                                                                </td>
+  <td class="left"> <a href="grammar-ikani.html">@HI{{ikani}}</a>                                                           </td>
   <td class="left"> DOAJG, p. 135                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ikura.html">@HI{{ikura}}</a>                                                           </td>

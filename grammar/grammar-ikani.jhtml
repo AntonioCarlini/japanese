@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ikani}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ikani}}" grammar="@HI{{ikani}}"}}
+
+<body>
+
+<h1>@HI{{ikani}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@HI{{@EM{{ikani}}@JDOTS3{{}}ka}}}}
+<li> @FORMATION{{@HI{{@EM{{ikani}}@JDOTS3{{}}mo}}}}
+<li> @FORMATION{{@HI{{@EM{{ikani}}@JDOTS3{{}}kotoka}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{ikani}}}} is an adverb meaning "how". It can be used in one of three basic sentence patterns.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ka">@HI{{@EM{{ikani}}}}</a> can be used in an embedded question.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{morning}}:asa}}no@KT{{rasshu}}wo@KJ{{see}}ruto,@KJ{{day^book^person}}ga@EM{{ikani}}@FG{{@KJ{{ego^ridicule^strong}}:gamanduyo}}i@EM{{ka}}ga@FG{{@KJ{{part}}:wa}}karu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Looking at the morning rush, one can see how stoical the Japanese are.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="mo">@HI{{@EM{{ikani}}}}</a> can be used in a sentence of concession, expressing a "no matter how".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@EM{{ikani}}@FG{{@KJ{{carry^move}}:unshou}}shite@EM{{mo}}@FG{{@KJ{{long^life}}:nagai}}kidekirutoha@FG{{@KJ{{limit}}:kagi}}ranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    No matter how hard one exercises, it doesn't guarantee a long life.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="kotoka">@HI{{@EM{{ikani}}}}</a> can be used in an exclamatory sentence.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{person^life}}:jinsei}}ha@EM{{ikani}}@FG{{@KJ{{short}}:mijika}}i@EM{{kotoka}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    How short life is!
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 135).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 21).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

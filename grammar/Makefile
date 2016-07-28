@@ -130,6 +130,7 @@ JHTML_SRCS += grammar-ichiban.jhtml
 JHTML_SRCS += grammar-ichiou.jhtml
 JHTML_SRCS += grammar-igai.jhtml
 JHTML_SRCS += grammar-ijou.jhtml
+JHTML_SRCS += grammar-ikani.jhtml
 JHTML_SRCS += grammar-ikanimo.jhtml
 JHTML_SRCS += grammar-iku.jhtml
 JHTML_SRCS += grammar-ikura.jhtml
