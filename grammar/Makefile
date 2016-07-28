@@ -695,6 +695,7 @@ JHTML_SRCS += grammar-yara-yara.jhtml
 JHTML_SRCS += grammar-yaru-to-do.jhtml
 JHTML_SRCS += grammar-yasui.jhtml
 JHTML_SRCS += grammar-yatto.jhtml
+JHTML_SRCS += grammar-yohodo-demo.jhtml
 JHTML_SRCS += grammar-yori-hoka-nai.jhtml
 JHTML_SRCS += grammar-yori-more-than.jhtml
 JHTML_SRCS += grammar-yori-time-space.jhtml
