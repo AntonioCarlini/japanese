@@ -219,7 +219,7 @@
   <td class="ok"> @TICK{{}} </td> <td class=""> </td>
   <td class=""> </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
 </tr>
 </table>
 

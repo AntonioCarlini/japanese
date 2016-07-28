@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kara~ni@KJ{{climax}}rumade}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kara~niitarumade}}" grammar="@HI{{kara~ni@FG{{@KJ{{climax}}:ita}}rumade}}"}}
+
+<body>
+
+<h1>@HI{{kara~ni@FG{{@KJ{{climax}}:ita}}rumade}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@HI{{@EM{{kara}}~@EM{{ni@FG{{@KJ{{climax}}:ita}}rumade}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{kara}}~@EM{{ni@FG{{@KJ{{climax}}:ita}}rumade}}}} is used to cite items at either extreme of a group so that the following statement can be applied to the whole group, including the extremes.
+It means "from ~ to ~".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{oneself^move^car}}:jidousha}}noneji@EM{{kara}}@FG{{@KJ{{person^craft^defense^star}}:jinkoueisei}}no@FG{{@KJ{{section^goods}}:buhin}}@EM{{ni@KJ{{climax}}rumade}},
+    doremokono@FG{{@KJ{{craft^location}}:koujou}}de@FG{{@KJ{{make}}:tsuku}}tteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    We make everything in this factory from automobile screws to satellite components.
+  </td> </tr>
+</table>
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
