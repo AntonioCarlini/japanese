@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{toka}} can be used as a sentence-ending particle to indicate unconfirmed hearsay.
+<a name="ending">@HI{{toka}}</a> can be used as a sentence-ending particle to indicate unconfirmed hearsay.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +40,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{tokade}} can be used as a conjunction that gives an uncertain reason for something.
+<a name="conjunction">@HI{{tokade}}</a> can be used as a conjunction that gives an uncertain reason for something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -61,6 +61,7 @@
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 37).
 <li> @REF{{DOIJG}}. (p. 498).
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 21).
 </ol>
 
 @include{{"grammar-footer.inc"}}
