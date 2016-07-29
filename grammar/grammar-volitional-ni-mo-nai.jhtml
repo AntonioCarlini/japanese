@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@Vyou{{}}@HI{{nimo}}@Vnai{{}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{younimonai}}" grammar="@Vyou{{}}@HI{{nimo}}@Vnai{{}}"}}
+
+<body>
+
+<h1>@Vyou{{}}@HI{{nimo}}@Vnai{{}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vyou{{}}@HI{{nimo}}@Vnai{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+The pattern @EM{{@Vyou{{}}@HI{{nimo}}@Vnai{{}}}} is used to mean "could not even if I wanted to".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pasuwa-do}}ga@KJ{{part}}karanainode,@KT{{de-ta}}wo@KJ{{see}}@EM{{younimo}}@KJ{{see}}rare@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know the password, so I couldn't see the data even if I wanted to.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 22).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
