@@ -25,6 +25,7 @@ JHTML_SRCS += grammar-bakari-ni.jhtml
 JHTML_SRCS += grammar-bakari.jhtml
 JHTML_SRCS += grammar-bakarika-sae.jhtml
 JHTML_SRCS += grammar-basic-sentence-patterns.jhtml
+JHTML_SRCS += grammar-becoming-aware.jhtml
 JHTML_SRCS += grammar-beki.jhtml
 JHTML_SRCS += grammar-bun.jhtml
 JHTML_SRCS += grammar-buri.jhtml
