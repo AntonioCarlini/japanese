@@ -17,15 +17,20 @@
 
 <p>
 <ol>
-<li> @FORMATION{{@Vnaistem{{}}@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}}}
+<li> @FORMATION{{@Vnaistem{{}}@HI{{@EM{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}}}}}
 <li> @FORMATION{{@HI{{sezaruwo@FG{{@KJ{{gain}}:e}}nai}}}}
 </ol>
 </p>
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
-@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}} is an auxiliary that indicates that there is no other choice but to do something.
+@HI{{@EM{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}}} is an auxiliary that indicates that there is no other choice but to do something.
+This phrase is used to state that someone has to do something because there is no other choice (either because of external
+circumstances or because of common sense). Usually the person does not wish to perform the action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -36,6 +41,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -55,6 +62,7 @@ The verb used must be volitional.
 <li> @REF{{NKZM-N2G}}. (p. 126).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}4@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 17).
+<li> @REF{{JPOD101-UI-S1-008}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
