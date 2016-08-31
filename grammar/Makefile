@@ -80,6 +80,7 @@ JHTML_SRCS += grammar-dearou.jhtml
 JHTML_SRCS += grammar-dearu.jhtml
 JHTML_SRCS += grammar-dekakete-kuru.jhtml
 JHTML_SRCS += grammar-dekiru.jhtml
+JHTML_SRCS += grammar-demo-shitara.jhtml
 JHTML_SRCS += grammar-demo.jhtml
 JHTML_SRCS += grammar-deshou-ka.jhtml
 JHTML_SRCS += grammar-deshou.jhtml
