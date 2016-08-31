@@ -39,6 +39,20 @@
 
 @BGRND{{}}
 <p>
+When attached to a non-volitional verb, @HI{{@EM{{@FG{{@KJ{{cut}}:ki}}ru}}}} indicates that someone gets completely into the state expressed by the preceding verb.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{tired}}:tsuka}}re@EM{{kitte}}te,@FG{{@KJ{{phantasm}}:maboroshi}}wo@KJ{{see}}tadakejanaika.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Oh, she just had a hallucination from the exhaustion.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
 @HI{{@EM{{@FG{{@KJ{{cut}}:ki}}ru}}}} attached to the @HI{{masu}}-stem of a verb of motion means from the beginning to the end.
 
 <table class="sentence" border=0>
@@ -69,6 +83,12 @@ In the negative potential form, @HI{{@EM{{@FG{{@KJ{{cut}}:ki}}renai}}}}, the aux
 
 <h2> Notes </h2>
 
+<p>
+The suffix @HI{{@EM{{kiru}}}} is similar to the suffix <a href="grammar-owaru-suffix.html">@HI{{owaru}}</a>.
+The difference is that the former carries a nuance that something has been carried out until the end and nothing is left.
+So @KJ{{drink}}@HI{{mikiru}} suggests that a drink has been completely finished and that none of drink is left over.
+</p>
+
 <h2> References </h2>
 
 <ol>
@@ -76,6 +96,7 @@ In the negative potential form, @HI{{@EM{{@FG{{@KJ{{cut}}:ki}}renai}}}}, the aux
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{DOIJG}}. (p. 634).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
+<li> @REF{{JPOD101-UI-S3-007}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

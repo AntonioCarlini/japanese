@@ -481,7 +481,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson3.7">_</a>Lesson 7</h3>
 
 <ol>
-<li> @HI{{@Vmasustem{{}}kiru}}
+<li> <a href="grammar-kiru-suffix.html">@HI{{@Vmasustem{{}}kiru}}</a>
 <li> @HI{{@Vta{{}}kiri}}
 </ol>
 
