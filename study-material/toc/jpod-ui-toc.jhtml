@@ -96,7 +96,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.2">_</a>Lesson 2</h3>
 
 <ol>
-<li> @HI{{tsukimashiteha}}
+<li> <a href="grammar-tsukimashite-wa.html">@HI{{tsukimashiteha}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.3">_</a>Lesson 3</h3>

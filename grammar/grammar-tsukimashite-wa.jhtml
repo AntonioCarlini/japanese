@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tsukimashiteha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tsukimashiteha}}" grammar="@HI{{tsukimashiteha}}"}}
+
+<body>
+
+<h1>@HI{{tsukimashiteha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{tsukimashiteha,}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tsukimashiteha}}}} is a prefix which is used in business situations to get straight to the point.
+In English it could be rendered as "and so" or "therefore".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@EM{{tsukimashiteha}},@FG{{@KJ{{honorable^company}}:onsha}}ni@FG{{@KJ{{same^time^traffic^translate^someone}}:doujitsuuyakusha}}no@FG{{@KJ{{faction^dispatch}}:haken}}
+      woo@FG{{@KJ{{petition}}:nega}}iitashitaku@FG{{@KJ{{exist}}:zon}}jimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      So, I would like to ask you to send us simultaneous interpreters.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{JPOD101-UI-S1-002}}.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
