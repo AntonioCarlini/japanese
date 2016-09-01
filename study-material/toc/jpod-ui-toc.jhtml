@@ -102,7 +102,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.3">_</a>Lesson 3</h3>
 
 <ol>
-<li> @HI{{niyotte}}
+<li> <a href="grammar-ni-yotte.html#change">@HI{{niyotte}}</a>
 <li> @HI{{ni@FG{{@KJ{{apply}}:ou}}jite}}
 <li> @HI{{@FG{{@KJ{{next^No.}}:shidai}}de}}
 </ol>
@@ -150,7 +150,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.10">_</a>Lesson 10</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}}
+<li> <a href="grammar-ni-kimatte-iru.html">@HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}}</a>
 <li> @HI{{hitotsu}}
 </ol>
 
@@ -176,8 +176,8 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.14">_</a>Lesson 14</h3>
 
 <ol>
-<li> @HI{{tsumari}}
-<li> @HI{{chinamini}}
+<li> <a href="grammar-tsumari.html">@HI{{tsumari}}</a>
+<li> <a href="grammar-chinami-ni.html">@HI{{chinamini}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.15">_</a>Lesson 15</h3>
@@ -190,7 +190,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.16">_</a>Lesson 16</h3>
 
 <ol>
-<li> @HI{{@Vba{{}}yokatta}}
+<li> <a href="grammar-ba-yokatta.html">@HI{{@Vba{{}}yokatta}}</a>
 <li> @HI{{@Vyou{{}}tto}}
 </ol>
 
@@ -204,7 +204,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.18">_</a>Lesson 18</h3>
 
 <ol>
-<li> @HI{{noni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}
+<li> <a href="grammar-ni-taishite.html">@HI{{noni@FG{{@KJ{{vis-a-vis}}:tai}}shite}}</a>
 <li> @HI{{wakedehanai}}
 </ol>
 

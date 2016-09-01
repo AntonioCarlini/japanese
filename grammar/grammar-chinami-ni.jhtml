@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{chinamini}}}} is a conjunction used to add an incidental piece of information to what has gone before.
 
@@ -37,6 +40,22 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{chinamini}}}} can also be used to ask a supplementary question.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@EM{{chinamini}},@KT{{petto}}ha@FG{{@KJ{{take*along}}:tsu}}rete@KJ{{going}}tteha@FG{{@KJ{{burdensome^eye}}:dame}}nandesune.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      By the way, we're not allowed to bring pets, are we?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -49,6 +68,7 @@ Note that, unlike @HI{{tokorode}}, which changes the topic,
 <ol>
 <li> @REF{{DOAJG}}. (p. 40).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}8@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JPOD101-UI-S1-014}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
