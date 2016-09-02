@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{toiedomo}}}} is an archaic expression meaning "even though".
 
@@ -38,6 +41,7 @@
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The pattern X@HI{{@EM{{toiedomo}}}}Y is used when Y is true although Y is not expected from X.
 
@@ -51,6 +55,7 @@ The pattern X@HI{{@EM{{toiedomo}}}}Y is used when Y is true although Y is not ex
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 For emphasis @HI{{tatoe}} may be used before @N{{}}.
 
@@ -65,6 +70,7 @@ For emphasis @HI{{tatoe}} may be used before @N{{}}.
 </table>
 </p>
 
+@BGRND{{}}
 <p>
 The @HI{{mo}} of @HI{{@EM{{toiedomo}}}} may be omitted.
 
@@ -77,6 +83,8 @@ The @HI{{mo}} of @HI{{@EM{{toiedomo}}}} may be omitted.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
