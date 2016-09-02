@@ -110,9 +110,9 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.4">_</a>Lesson 4</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{connection}}:kan'}}shimashiteha}}
+<li> <a href="grammar-ni-kanshite.html#topic">@HI{{ni@FG{{@KJ{{connection}}:kan'}}shimashiteha}}</a>
 <li> @HI{{nitsukimashiteha}}
-<li> ~@HI{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}
+<li> <a href="grammar-gimi.html">@HI{{@FG{{@KJ{{spirit^flavor}}:gimi}}}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.5">_</a>Lesson 5</h3>
