@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kurai}}}} indicates an approximate amount without saying anything about the amount's
+<a name="approximate">@HI{{@EM{{kurai}}}}</a> indicates an approximate amount without saying anything about the amount's
 upper or lower limits.
 
 <table class="sentence" border=0>
@@ -43,7 +43,7 @@ upper or lower limits.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kurai}}}} is used to indicate the extent of an action.
+<a name="extent">@HI{{@EM{{kurai}}}}</a> is used to indicate the extent of an action.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -57,7 +57,7 @@ upper or lower limits.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{kurai}}}} is used to indicate a comparison.
+<a name="comparison">@HI{{@EM{{kurai}}}}</a> is used to indicate a comparison.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -83,6 +83,7 @@ There is no difference in meaning between @HI{{@EM{{kurai}}}} and @HI{{@EM{{gura
 <ol>
 <li> @REF{{AAP}}. (p. 75).
 <li> @REF{{DOBJG}}. (p. 212).
+<li> @REF{{JPOD101-UI-S1-006}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

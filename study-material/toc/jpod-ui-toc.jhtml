@@ -118,14 +118,14 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.5">_</a>Lesson 5</h3>
 
 <ol>
-<li> ~@Vba{{}}~@HI{{hodo}}
+<li> <a href="grammar-ba-hodo.html">~@Vba{{}}~@HI{{hodo}}</a>
 <li> @HI{{nattekuru}}
 </ol>
 
 <h3><a class="navtarget" name="lesson1.6">_</a>Lesson 6</h3>
 
 <ol>
-<li> @HI{{kurai}}
+<li> <a href="grammar-particle-kurai.html#extent">@HI{{kurai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.7">_</a>Lesson 7</h3>
@@ -157,7 +157,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.11">_</a>Lesson 11</h3>
 
 <ol>
-<li> @HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}
+<li> <a href="grammar-osore-ga-aru.html">@HI{{@FG{{@KJ{{fear}}:oso}}regaaru}}</a>
 <li> <a href="grammar-kkonai.html">@Vmasustem{{}}@HI{{kkonai}}</a>
 </ol>
 
@@ -198,7 +198,7 @@ h2#heading {
 
 <ol>
 <li> ~@HI{{toha,}}~@HI{{wo@FG{{@KJ{{idea^flavor}}:imi}}shimasu}}
-<li> @HI{{nante}}
+<li> <a href="grammar-nante-emotion.html#disparagement">@HI{{nante}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.18">_</a>Lesson 18</h3>
@@ -217,7 +217,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.20">_</a>Lesson 20</h3>
 
 <ol>
-<li> @HI{{wakenihaikanai}}
+<li> <a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a>
 <li> @HI{{@Vte{{}}karadeha@FG{{@KJ{{slow}}:oso}}i}}
 </ol>
 
@@ -231,8 +231,8 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.22">_</a>Lesson 22</h3>
 
 <ol>
-<li> @HI{{souninaru}}
-<li> ~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}
+<li> <a href="grammar-sou-ni-naru.html">@HI{{souninaru}}</a>
+<li> <a href="grammar-zaru-wo-enai.html">~@HI{{zaruwo@FG{{@KJ{{gain}}:e}}nai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson1.23">_</a>Lesson 23</h3>
@@ -245,7 +245,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson1.24">_</a>Lesson 24</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}
+<li> <a href="grammar-ni-koshita-koto-wa-nai.html">@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</a>
 <li> @HI{{nomo@FG{{@KJ{{extent}}:hodo}}gaaru}}
 </ol>
 
@@ -253,7 +253,7 @@ h2#heading {
 
 <ol>
 <li> @HI{{@FG{{@KJ{{see^crowded}}:miko}}mi}} @MIDDOT{{}} @HI{{@FG{{@KJ{{imitation^Esq.}}:moyou}}}}
-<li> @HI{{gachi}}
+<li> <a href="grammar-gachi.html">@HI{{gachi}}</a>
 </ol>
 
 <h2 id="heading"><a name="UI-S2">Season 2</a></h2>

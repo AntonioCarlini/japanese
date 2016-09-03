@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nante}}}} is is used to express the speaker's emotion, which may be positive (joy, happiness) or
+<a name="emotion">@HI{{@EM{{nante}}}}</a> is is used to express the speaker's emotion, which may be positive (joy, happiness) or
 negative (anger, sorrow).
 
 <table class="sentence" border=0>
@@ -43,7 +43,7 @@ negative (anger, sorrow).
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nante}}}} can indicate that the speaker disparages something and attaches little importance to it.
+<a name="disparagement">@HI{{@EM{{nante}}}}</a> can indicate that the speaker disparages something and attaches little importance to it.
 In this usage it is similar to <a href="grammar-nanka.html">@HI{{nanka}}</a>. Note that @HI{{nanka}} can
 only follow a noun whereas @HI{{@EM{{nante}}}} can also follow verbs or adjectives.
 
@@ -69,6 +69,7 @@ only follow a noun whereas @HI{{@EM{{nante}}}} can also follow verbs or adjectiv
 <li> @REF{{NKZM-N2G}}. (p. 96).
 <li> @REF{{NKZM-N2G}}. (p. 134).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JPOD101-UI-S1-017}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
