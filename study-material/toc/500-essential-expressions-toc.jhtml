@@ -134,43 +134,128 @@ h2#heading {
 <h2 id="heading"><a class="navtarget" name="chapter6">_</a>Chapter 6</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{@FG{{@KJ{{one^direction}}:ippou}}da}}
+<li> ~@HI{{bakarida}}
+<li> ~@HI{{tsutsuaru}}
+<li> ~@HI{{@Vba{{}}}}~@HI{{hodo}} @MIDDOT{{}} ~@HI{{nara}}~@HI{{hodo}} @MIDDOT{{}} ~@HI{{hodo}}
+<li> ~@HI{{nitsurete}}
+<li> ~@HI{{nishitagatte}}
+<li> ~@HI{{ni@FG{{@KJ{{consort}}:tomona}}tte}}
+<li> ~@HI{{totomoni}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter7">_</a>Chapter 7</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{tsuideni}}
+<li> ~@HI{{tsutsu}}
+<li> ~@HI{{wokomete}}
+<li> ~@HI{{kotonaku}}
+<li> ~@HI{{nukide}} @MIDDOT{{}} ~@HI{{nukini}} @MIDDOT{{}} ~@HI{{nukino}}
+<li> ~@HI{{wonukinishite}} @MIDDOT{{}} ~@HI{{hanukinishite}}
+<li> ~@HI{{katawaru}}
+<li> ~@HI{{gatera}}
+<li> ~@HI{{katagata}}
+<li> ~@HI{{nagara}} @MIDDOT{{}} ~@HI{{nagarani}} @MIDDOT{{}} ~@HI{{nagarano}}
+<li> ~@HI{{nashini}} @MIDDOT{{}} ~@HI{{kotonashini}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter8">_</a>Chapter 8</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}ri}}
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}tte}}
+<li> ~@HI{{kagiri}}(@HI{{ha}})
+<li> ~@HI{{kagirideha}}
+<li> ~@HI{{tada}}~@HI{{nomi}}
+<li> ~@HI{{naradeha}}
+<li> ~@HI{{wooite}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter9">_</a>Chapter 9</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{bakaridenaku}}
+<li> ~@HI{{bakarika}}
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}
+<li> ~@HI{{nominarazu}}
+<li> ~@HI{{tada}}~@HI{{dakedenaku}} @MIDDOT{{}}
+     ~@HI{{tada}}~@HI{{nominarazu}} @MIDDOT{{}}
+     ~@HI{{hitori}}~@HI{{dakedenaku}} @MIDDOT{{}}
+     ~@HI{{hitori}}~@HI{{nominarazu}}
+<li> ~@HI{{nitodomarazu}}
+<li> ~@HI{{mo}}~@Vba{{}}~@HI{{mo}} @MIDDOT{{}} ~@HI{{mo}}~@HI{{nara}}~@HI{{mo}}
+<li> ~@HI{{ue}}(@HI{{ni}})
+<li> ~@HI{{hamochiron}}
+<li> ~@HI{{hamotoyori}}
+<li> ~@HI{{ni@FG{{@KJ{{add}}:kuwa}}ete}}
+<li> ~@HI{{haoroka}}
+<li> ~@HI{{mosarukotonagaru}}
+<li> ~@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter10">_</a>Chapter 10</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{ni@FG{{@KJ{{compare}}:kura}}bete}}
+<li> ~@HI{{hodo}}~@HI{{hanai}} @MIDDOT{{}} ~@HI{{kurai}}~@HI{{hanai}}
+<li> ~@HI{{ni@FG{{@KJ{{limit}}:kagi}}ru}}
+<li> ~@HI{{nimomashite}}
+<li> ~@HI{{@Vyou{{}}ka}}~@HI{{maika}}
+<li> ~@HI{{dokoroka}}
+<li> ~@HI{{@FG{{@KJ{{one^direction}}:ippou}}}}(@HI{{de}})
+<li> ~@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shite}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}suru}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{vis-a-vis}}:tai}}shita}}
+<li> ~@HI{{ni@FG{{@KJ{{anti-^mask}}:hanmen}}}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{half^mask}}:hanmen}}}}
+<li> ~@HI{{toiuyori}}
+<li> ~@HI{{kawarini}}
+<li> ~@HI{{nikawatte}}
+<li> ~@HI{{naimademo}}
+<li> ~@HI{{nihikikae}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter11">_</a>Chapter 11</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{nitotte}}
+<li> ~@HI{{toshite}}
+<li> ~@HI{{no@KJ{{above}}de}} @MIDDOT{{}} ~@HI{{@FG{{@KJ{{above}}:jou}}}} @MIDDOT{{}} ~@HI{{@FG{{@KJ{{above}}:jou}}no}} 
+<li> ~@HI{{karaiuto}} @MIDDOT{{}} ~@HI{{karaieba}} @MIDDOT{{}}~@HI{{karaitte}}
+<li> ~@HI{{kara@KJ{{see}}ruto}} @MIDDOT{{}} ~@HI{{kara@KJ{{see}}reba}} @MIDDOT{{}} ~@HI{{kara@KJ{{see}}te}}
+<li> ~@HI{{karasuruto}} @MIDDOT{{}} ~@HI{{karasureba}} @MIDDOT{{}} ~@HI{{karashite}} @MIDDOT{{}}
+<li> ~@HI{{nishitara}} @MIDDOT{{}} ~@HI{{nisureba}}
+<li> ~@HI{{narini}} @MIDDOT{{}} ~@HI{{narino}}
+<li> ~@HI{{narini}}(@HI{{ha}})
+<li> ~@HI{{nishiteha}}
+<li> ~@HI{{@FG{{@KJ{{yonder}}:mu}}kini}} @MIDDOT{{}} ~@HI{{@FG{{@KJ{{yonder}}:mu}}kino}} @MIDDOT{{}} ~@HI{{@FG{{@KJ{{yonder}}:mu}}kida}}
+<li> ~@HI{{tomonaruto}} @MIDDOT{{}} ~@HI{{tomonareba}}
+<li> ~@HI{{tomoarou}}
+<li> ~@HI{{taru}}
+<li> ~@HI{{majiki}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter12">_</a>Chapter 12</a></h2>
 
 <ol>
-<li> ~@HI{{}}
+<li> ~@HI{{youni}} @MIDDOT{{}} ~@HI{{youna}}
+<li> ~@HI{{toori}}(@HI{{ni}}) @MIDDOT{{}} ~@HI{{toorino}} @MIDDOT{{}} ~@HI{{toorida}}
+<li> ~@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{run*alongside}}:so}}u}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tta}}
+<li> ~@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duku}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duita}}
+<li> ~@HI{{womotoni}}(@HI{{shite}}) @MIDDOT{{}} ~@HI{{womotonisuru}} @MIDDOT{{}} ~@HI{{womotonishita}}
+<li> ~@HI{{nomotode}} @MIDDOT{{}} ~@HI{{nomotoni}}
+<li> ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}ni}}(@HI{{shite}}) @MIDDOT{{}}
+     ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}toshite}} @MIDDOT{{}}
+     ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}nisuru}} @MIDDOT{{}}
+     ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}tosuru}} @MIDDOT{{}}        
+     ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}nishita}} @MIDDOT{{}}
+     ~@HI{{wo@FG{{@KJ{{in^heart}}:chuushin}}toshita}}
+<li> ~@HI{{wo}}~@HI{{ni}}(@HI{{shite}}) @MIDDOT{{}}
+     ~@HI{{wo}}~@HI{{toshite}} @MIDDOT{{}}
+     ~@HI{{wo}}~@HI{{nisuru}} @MIDDOT{{}}
+     ~@HI{{wo}}~@HI{{tosuru}} @MIDDOT{{}}
+     ~@HI{{wo}}~@HI{{nishita}} @MIDDOT{{}}
+     ~@HI{{wo}}~@HI{{toshita}} @MIDDOT{{}}
+<li> ~@HI{{ni@FG{{@KJ{{instant}}:soku}}shite}} @MIDDOT{{}} ~@HI{{ni@FG{{@KJ{{instant}}:soku}}shita}}
+<li> ~@HI{{gotoku}} @MIDDOT{{}} ~@HI{{gotoki}}
 </ol>
 
 <h2 id="heading"><a class="navtarget" name="chapter13">_</a>Chapter 13</a></h2>
