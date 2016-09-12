@@ -293,7 +293,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson2.5">_</a>Lesson 5</h3>
 
 <ol>
-<li> @HI{{kke}}
+<li> <a href="grammar-particle-kke.html">@HI{{kke}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.6">_</a>Lesson 6</h3>
@@ -305,7 +305,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson2.7">_</a>Lesson 7</h3>
 
 <ol>
-<li> @HI{{totemo}}~@Vnai{{}}
+<li> <a href="grammar-totemo-nai.html">@HI{{totemo}}~@Vnai{{}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.8">_</a>Lesson 8</h3>
@@ -355,7 +355,7 @@ h2#heading {
 <ol>
 <li> @HI{{toiukotodesu}}
 <li> @HI{{tonokotodesu}}
-<li> @HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}}
+<li> <a href="grammar-ni-kimatte-iru.html">@HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.15">_</a>Lesson 15</h3>
@@ -391,13 +391,13 @@ h2#heading {
 <h3><a class="navtarget" name="lesson2.19">_</a>Lesson 19</h3>
 
 <ol>
-<li> @Vru{{}}@HI{{shikanai}}
+<li> <a href="grammar-shika-nai.html">@Vru{{}}@HI{{shikanai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.20">_</a>Lesson 20</h3>
 
 <ol>
-<li> @HI{{okagede}}
+<li> <a href="grammar-okage-de.html">@HI{{okagede}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.21">_</a>Lesson 21</h3>
@@ -409,19 +409,19 @@ h2#heading {
 <h3><a class="navtarget" name="lesson2.22">_</a>Lesson 22</h3>
 
 <ol>
-<li> @HI{{nimokawarazu}}
+<li> <a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.23">_</a>Lesson 23</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}
+<li> <a href="grammar-ni-koshita-koto-wa-nai.html">@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson2.24">_</a>Lesson 24</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{difference}}:chiga}}inai}}
+<li> <a href="grammar-ni-chigainai.html">@HI{{ni@FG{{@KJ{{difference}}:chiga}}inai}}</a>
 </ol>
 
 <h2 id="heading"><a name="UI-S3">Season 3</a></h2>

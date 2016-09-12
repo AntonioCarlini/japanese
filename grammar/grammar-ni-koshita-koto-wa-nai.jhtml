@@ -25,7 +25,7 @@
 <h2> Definition </h2>
 
 <p>
-@HI{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}} is used to indicate that a state or action is more desirable, if possible.
+@HI{{@EM{{ni@FG{{@KJ{{surpass}}:ko}}shitakotohanai}}}} is used to indicate that a state or action is more desirable, if possible.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -45,6 +45,7 @@
 <li> @REF{{DOAJG}}. (p. 398).
 <li> @REF{{NKZM-N2G}}. (p. 105).
 <li> @REF{{JPOD101-UI-S1-024}}.
+<li> @REF{{JPOD101-UI-S2-023}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

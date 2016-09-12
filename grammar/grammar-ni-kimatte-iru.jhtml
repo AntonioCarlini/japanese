@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ni@FG{{@KJ{{decide}}:ki}}matteiru}} is used to express the speaker's strong conviction about something.
+@HI{{@EM{{ni@FG{{@KJ{{decide}}:ki}}matteiru}}}} is used to express the speaker's strong conviction about something.
 This expression is most often used when the speaker's belief is subjective.
 
 <table class="sentence">
@@ -52,6 +52,7 @@ This expression is most often used when the speaker's belief is subjective.
 <li> @REF{{NKZM-N2G}}. (p. 101).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{JPOD101-UI-S1-010}}.
+<li> @REF{{JPOD101-UI-S2-014}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
