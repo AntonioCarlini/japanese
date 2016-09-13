@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{ni@KJ{{limit}}ru}} expresses the subjective judgement of the speaker that something is the best or the best method.
 
@@ -36,12 +39,16 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{NKZM-N3G}}. (p. 23).
+<li> @REF{{JPOD101-UI-S3-008}}.
+<li> @REF{{JPOD101-UI-S3-025}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

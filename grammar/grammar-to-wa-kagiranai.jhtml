@@ -17,6 +17,7 @@
 
 <ol>
 <li> @FORMATION{{@Splain{{}}@HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{tomo@FG{{@KJ{{limit}}:kagi}}ranai}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -26,10 +27,24 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{before^life}}gasou@KJ{{say}}ttakarato@KJ{{say}}ttesorega@KJ{{correct}}shiitoha@FG{{@KJ{{limit}}:kagi}}ranai.}}
+      @HI{{@KJ{{before^life}}gasou@KJ{{say}}ttakarato@KJ{{say}}ttesorega@KJ{{correct}}shii@EM{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       It is not necessarily correct just because a teacher said so.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+  @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}} has the same meaning as @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}} but emphasises the preceding clause.
+  It is used especially when talking about an event that is extreme and not likely to happen.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{test^verification}}:shiken}}no@FG{{@KJ{{day}}:hi}}ni,@KT{{infuruenza}}nikakaranai@EM{{tomo@FG{{@KJ{{limit}}:kagi}}ranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You can't rule out the possibility of getting the flu on the day of the exam.
   </td> </tr>
 </table>
 </p>
@@ -40,12 +55,19 @@
 The adverbs @KJ{{invariably}}@HI{{zushimo}} and @HI{{itsumo}} can be used with @HI{{toha@FG{{@KJ{{limit}}:kagi}}ranai}}.
 </p>
 
+<p>
+@HI{{toha}} is a compund particle used to mark an event, action or state that is unexpected or surprising and causes people to have an emotional reaction.
+@HI{{tomo}} is the same but acts to emphasise the preceding phrase.
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 536).
 <li> @REF{{NKZM-N3G}}. (p. 38).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JPOD101-UI-S3-018}}.
+<li> @REF{{JPOD101-UI-S3-024}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -574,7 +574,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 13'41" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -583,7 +583,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 13'23" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -628,7 +628,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 15'24" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -637,7 +637,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 15'07" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -646,7 +646,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
   <td class="ok"> @TICK{{}}</td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 16'46" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -664,7 +664,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td><td class="ok"> @TICK{{}} </td> 
   <td class="ok"> @TICK{{}}</td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 18'00" </td> <td class=""> </td>
 </tr>
 <tr>
@@ -673,7 +673,7 @@ Bonus: #1, #25: present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="none"> </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td>  </td>  <td>  </td> <td class="ok"> @TICK{{}} </td>
-  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td>
   <td class=""> 17'31" </td> <td class=""> </td>
 </tr>
 <tr>

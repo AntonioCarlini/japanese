@@ -455,7 +455,7 @@ h2#heading {
 
 <ol>
 <li> @HI{{noga@FG{{@KJ{{fall}}:o}}chida}}
-<li> @Vru{{}}@HI{{@FG{{@KJ{{one^direction}}:ippou}}da}}
+<li> <a href="grammar-ippou-da.html">@Vru{{}}@HI{{@FG{{@KJ{{one^direction}}:ippou}}da}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.5">_</a>Lesson 5</h3>
@@ -488,13 +488,13 @@ h2#heading {
 <h3><a class="navtarget" name="lesson3.8">_</a>Lesson 8</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{limit}}:kagi}}ru}}
+<li> <a href="grammar-ni-kagiru.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}ru}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.9">_</a>Lesson 9</h3>
 
 <ol>
-<li> @HI{{toiu@FG{{@KJ{{spot}}:ten'}}de}}
+<li> <a href="grammar-ten-de.html">@HI{{toiu@FG{{@KJ{{spot}}:ten'}}de}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.10">_</a>Lesson 10</h3>
@@ -527,20 +527,20 @@ h2#heading {
 <h3><a class="navtarget" name="lesson3.14">_</a>Lesson 14</h3>
 
 <ol>
-<li> @HI{{@FG{{@KJ{{yonder}}:mu}}ki}}
-<li> @HI{{@FG{{@KJ{{yonder}}:mu}}ke}}
+<li> <a href="grammar-muki.html">@HI{{@FG{{@KJ{{yonder}}:mu}}ki}}</a>
+<li> <a href="grammar-muke.html">@HI{{@FG{{@KJ{{yonder}}:mu}}ke}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.15">_</a>Lesson 15</h3>
 
 <ol>
-<li> @HI{{@KJ{{what}}toka}}
+<li> <a href="grammar-nantoka.html">@HI{{@KJ{{what}}toka}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.16">_</a>Lesson 16</h3>
 
 <ol>
-<li> @HI{{@Vte{{}}karadenaito}}
+<li> <a href="grammar-te-kara-denaito.html">@HI{{@Vte{{}}karadenaito}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.17">_</a>Lesson 17</h3>
@@ -558,14 +558,14 @@ h2#heading {
 <h3><a class="navtarget" name="lesson3.18">_</a>Lesson 18</h3>
 
 <ol>
-<li> @HI{{tomo@FG{{@KJ{{limit}}:kiga}}ranai}}
-<li> @HI{{toha@FG{{@KJ{{limit}}:kiga}}ranai}}
+<li> <a href="grammar-to-wa-kagiranai.html">@HI{{tomo@FG{{@KJ{{limit}}:kiga}}ranai}}</a>
+<li> <a href="grammar-to-wa-kagiranai.html">@HI{{toha@FG{{@KJ{{limit}}:kiga}}ranai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.19">_</a>Lesson 19</h3>
 
 <ol>
-<li> @HI{{iwayuru}}
+<li> <a href="grammar-iwayuru.html">@HI{{iwayuru}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.20">_</a>Lesson 20</h3>
@@ -607,17 +607,17 @@ h2#heading {
 <ol>
 <li> @HI{{to@KJ{{think}}ttara}}
 <li> @HI{{ga@FG{{@KJ{{fall}}:o}}chida}}
-<li> @HI{{tomo@FG{{@KJ{{limit}}:kiga}}ranai}}
-<li> @HI{{@KJ{{what}}toka}}
-<li> @HI{{@FG{{@KJ{{yonder}}:mu}}ki}}
+<li> <a href="grammar-to-wa-kagiranai.html">@HI{{tomo@FG{{@KJ{{limit}}:kiga}}ranai}}</a>
+<li> <a href="grammar-nantoka.html">@HI{{@KJ{{what}}toka}}</a>
+<li> <a href="grammar-muki.html">@HI{{@FG{{@KJ{{yonder}}:mu}}ki}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson3.25">_</a>Lesson 25</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{limit}}:kagi}}ru}}
+<li> <a href="grammar-ni-kagiru.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}ru}}</a>
 <li> @HI{{toshitakotoga}}
-<li> @HI{{@Vmasustem{{}}kiru}}
+<li> <a href="grammar-kiru-suffix.html">@HI{{@Vmasustem{{}}kiru}}</a>
 </ol>
 
 <h2 id="heading"><a name="UI-S4">Season 4</a></h2>
