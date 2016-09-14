@@ -649,8 +649,8 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.3">_</a>Lesson 3</h3>
 
 <ol>
-<li> @HI{{tadashi}}
-<li> @HI{{toiimasuto}}
+<li> <a href="grammar-tadashi.html">@HI{{tadashi}}</a>
+<li> <a href="grammar-to-iu-to.html#question-meaning">@HI{{toiimasuto}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.4">_</a>Lesson 4</h3>
@@ -673,7 +673,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.6">_</a>Lesson 6</h3>
 
 <ol>
-<li> @HI{{totemo}}~@Vnai{{}}
+<li> <a href="grammar-totemo-nai.html">@HI{{totemo}}~@Vnai{{}}</a>
 <li> @HI{{toha}}
 </ol>
 
@@ -691,9 +691,9 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.8">_</a>Lesson 8</h3>
 
 <ol>
-<li> @HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}
+<li> <a href="grammar-ni-sotte.html">@HI{{ni@FG{{@KJ{{run*alongside}}:so}}tte}}</a>
 <li> @HI{{zatto@FG{{@KJ{{one^traffic}}:hitotoori}}}}
-<li> @HI{{akumademo~}}
+<li> <a href="grammar-akumade-mo.html">@HI{{akumademo~}}</a>
 <li> @HI{{@FG{{@KJ{{liver^heart}}:kanjin'}}}}
 <li> @HI{{@FG{{@KJ{{company^inside}}:shanai}}de@FG{{@KJ{{examination^chastise}}:kentou}}suru}}
 <li> @HI{{@FG{{@KJ{{company^inside}}:shanai}}he@FG{{@KJ{{hold}}:mo}}chi@FG{{@KJ{{homecoming}}:kae}}ru}}
@@ -715,13 +715,13 @@ h2#heading {
 
 <ol>
 <li> @HI{{toiunohadoudeshouka}}
-<li> @HI{{taradou}}
+<li> <a href="grammar-tara-douka.html">@HI{{taradou}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.11">_</a>Lesson 11</h3>
 
 <ol>
-<li> @HI{{@Vta{{}}tokoro}}
+<li> <a href="grammar-tokoro.html#complete">@HI{{@Vta{{}}tokoro}}</a>
 <li> ~@HI{{tono}}@N{{}}
 </ol>
 
@@ -738,7 +738,7 @@ h2#heading {
 
 <ol>
 <li> @HI{{somosomo}}
-<li> @Vte{{}}@HI{{miseru}}
+<li> <a href="grammar-te-miseru.html">@Vte{{}}@HI{{miseru}}</a>
 <li> @HI{{@FG{{@KJ{{shoulder}}:kata}}tataki}}
 <li> @HI{{@FG{{@KJ{{shoulder^substitute}}:kataga}}wari}}
 <li> @HI{{@FG{{@KJ{{shoulder}}:kata}}wo@FG{{@KJ{{row}}:na}}beru}}
@@ -758,7 +758,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.15">_</a>Lesson 15</h3>
 
 <ol>
-<li> @HI{{@FG{{@KJ{{provisional}}:kari}}ni}}
+<li> <a href="grammar-kari-ni.html">@HI{{@FG{{@KJ{{provisional}}:kari}}ni}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.16">_</a>Lesson 16</h3>
@@ -794,7 +794,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.19">_</a>Lesson 19</h3>
 
 <ol>
-<li> @Vmasustem{{}}@HI{{kanenai}}
+<li> <a href="grammar-kaneru-suffix.html#kanenai">@Vmasustem{{}}@HI{{kanenai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.20">_</a>Lesson 20</h3>
@@ -832,7 +832,7 @@ h2#heading {
 <h3><a class="navtarget" name="lesson4.23">_</a>Lesson 23</h3>
 
 <ol>
-<li> @HI{{tatte}} @MIDDOT{{}} @HI{{datte}}
+<li> <a href="grammar-tatte.html">@HI{{tatte}}</a> @MIDDOT{{}} <a href="grammar-tatte.html">@HI{{datte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.24">_</a>Lesson 24</h3>
@@ -840,7 +840,7 @@ h2#heading {
 <ol>
 <li> @HI{{@KJ{{what}}toka}}
 <li> @HI{{wake}}
-<li> @HI{{dokorodehanai}}
+<li> <a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson4.25">_</a>Lesson 25</h3>
