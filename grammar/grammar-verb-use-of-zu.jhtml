@@ -2,16 +2,16 @@
 <html>
 
 <head>
-<title>Use of the @HI{{Zu}} Form</title>
+<title>Use of the @HI{{zu}} Form</title>
 <link rel="stylesheet" type="text/css" href="japanese.css"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="Use of the @HI{{Zu}} Form" grammar="Use of the @HI{{Zu}} Form"}}
+@GRMIDX{{index="Use of the @HI{{zu}} Form" grammar="Use of the @HI{{zu}} Form"}}
 
 <body>
 
-<h1>Use of the @HI{{Zu}} Form</h1>
+<h1>Use of the @HI{{zu}} Form</h1>
 
 <h2> Formation </h2>
 
@@ -22,7 +22,7 @@
 <h2> Definition </h2>
 
 <p>
-The @HI{{Zu}} form is an older form of the negative conjugation of a verb.
+The @HI{{zu}} form is an older form of the negative conjugation of a verb.
 Note the irregular <a href="grammar-verb-formation-zu.html">formation</a> for @HI{{suru}} and @HI{{kuru}}.
 </p>
 
@@ -103,6 +103,7 @@ and @HI{{nu}} can be used at the end of a sentence or before a noun, auxiliary o
 <li> @REF{{DOBJG}}. (p. 271).
 <li> @REF{{DOIJG}}. (p. 315).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JPOD101-UI-S5-001}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

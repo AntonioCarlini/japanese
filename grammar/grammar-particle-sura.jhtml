@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{sura}}}} is a particle meaning "even". It is a more formal equivalent of
 <a href="grammar-particle-sae.html">@HI{{sae}}</a>.
@@ -37,12 +40,15 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 127).
+<li> @REF{{JPOD101-UI-S5-005}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -858,53 +858,54 @@ h2#heading {
 <h3><a class="navtarget" name="lesson5.1">_</a>Lesson 1</h3>
 
 <ol>
-<li> @Vnaistem{{}}@HI{{zu}}
-<li> @Vnaistem{{}}@HI{{nu}}
+<li> <a href="grammar-verb-use-of-zu.html">@Vnaistem{{}}@HI{{zu}}
+<li> <a href="grammar-nu-archaic-negative.html">@Vnaistem{{}}@HI{{nu}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.2">_</a>Lesson 2</h3>
 
 <ol>
-<li> Particle @HI{{ni}}
-<li> Particle @HI{{sa}}
+<li> <a href="grammar-particle-sentence-ending-ni.html">Particle @HI{{ni}}</a>
+<li> <a href="grammar-particle-sa.html">Particle @HI{{sa}}</a>
 <li> Particle @HI{{wa}}
 </ol>
 
 <h3><a class="navtarget" name="lesson5.3">_</a>Lesson 3</h3>
 
 <ol>
-<li> @HI{{dake}}
-<li> @HI{{nomi}}
-<li> @HI{{kiri}} @MIDDOT{{}} @HI{{kkiri}}
+<li> <a href="grammar-particle-dake.html">@HI{{dake}}</a>
+<li> <a href="grammar-particle-nomi.html">@HI{{nomi}}</a>
+<li> <a href="grammar-particle-kiri.html">@HI{{kiri}}</a> @MIDDOT{{}}
+     <a href="grammar-particle-kiri.html">@HI{{kkiri}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.4">_</a>Lesson 4</h3>
 
 <ol>
-<li> @HI{{koso}}
-<li> @Vba{{}}@HI{{koso}}
+<li> <a href="grammar-koso.html">@HI{{koso}}</a>
+<li> <a href="grammar-ba-koso.html">@Vba{{}}@HI{{koso}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.5">_</a>Lesson 5</h3>
 
 <ol>
-<li> @HI{{sae}}
-<li> @HI{{sura}}
-<li> @HI{{made}}
+<li> <a href="grammar-particle-sae.html">@HI{{sae}}</a>
+<li> <a href="grammar-particle-sura.html">@HI{{sura}}</a>
+<li> <a href="grammar-particle-made.html#emphasis">@HI{{made}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.6">_</a>Lesson 6</h3>
 
 <ol>
-<li> @HI{{ppoi}}
-<li> @HI{{rashii}}
+<li> <a href="grammar-ppoi.html">@HI{{ppoi}}</a>
+<li> <a href="grammar-rashii.html">@HI{{rashii}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.7">_</a>Lesson 7</h3>
 
 <ol>
 <li> @FG{{@KJ{{bull's*eye}}:teki}}
-<li> @FG{{@KJ{{wind}}:fuu}}
+<li> <a href="grammar-fuu-ni.html">@FG{{@KJ{{wind}}:fuu}}</a>
 <li> @FG{{@KJ{{sex}}:sei}}
 <li> @FG{{@KJ{{lineage}}:kei}}
 <li> @FG{{@KJ{{change}}:ka}}
@@ -913,25 +914,23 @@ h2#heading {
 <h3><a class="navtarget" name="lesson5.8">_</a>Lesson 8</h3>
 
 <ol>
-<li> @FG{{@KJ{{spirit^flavor}}:gimi}}
-<li> @HI{{gachi}}
+<li> <a href="grammar-gimi.html">@FG{{@KJ{{spirit^flavor}}:gimi}}</a>
+<li> <a href="grammar-gachi.html">@HI{{gachi}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.9">_</a>Lesson 9</h3>
 
 <ol>
-<li> @HI{{darake}}
+<li> <a href="grammar-darake.html">@HI{{darake}}</a>
 <li> @HI{{mamire}}
 <li> @HI{{zukume}}
-<li> @HI{{}}
-<li> @FG{{@KJ{{spirit^flavor}}:gimi}}
 </ol>
 
 <h3><a class="navtarget" name="lesson5.10">_</a>Lesson 10</h3>
 
 <ol>
-<li> @FG{{@KJ{{mask}}:men'}}
-<li> @FG{{@KJ{{spot}}:ten'}}
+<li> <a href="grammar-men.html">@FG{{@KJ{{mask}}:men'}}</a>
+<li> <a href="grammar-ten-de.html">@FG{{@KJ{{spot}}:ten'}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.11">_</a>Lesson 11</h3>
@@ -951,8 +950,8 @@ h2#heading {
 <h3><a class="navtarget" name="lesson5.12">_</a>Lesson 12</h3>
 
 <ol>
-<li> @HI{{beki}}
-<li> @HI{{beku}}
+<li> <a href="grammar-beki.html">@HI{{beki}}</a>
+<li> <a href="grammar-beki.html#beku">@HI{{beku}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.13">_</a>Lesson 13</h3>
@@ -961,9 +960,9 @@ h2#heading {
 <li> @HI{{@FG{{@KJ{{liver^heart}}:kanjin'}}}}
 <li> @HI{{@FG{{@KJ{{connection}}:kan'}}shite}}
 <li> @HI{{@FG{{@KJ{{armor^fish*guts}}:kouotsu}}tsukegatai}}
-<li> ~@HI{{nikui}}
+<li> ~<a href="grammar-nikui.html">@HI{{nikui}}</a>
 <li> ~@HI{{durai}}
-<li> ~@HI{{gatai}}
+<li> ~<a href="grammar-gatai-suffix.html">@HI{{gatai}}</a>
 </ol>
 
 <h3><a class="navtarget" name="lesson5.14">_</a>Lesson 14</h3>
@@ -971,7 +970,8 @@ h2#heading {
 <ol>
 <li> @HI{{@FG{{@KJ{{head}}:atama}}ga@FG{{@KJ{{true}}:ma}}xtsu@FG{{@KJ{{white}}:shiro}}ninaru}}
 <li> @HI{{@FG{{@KJ{{semi-^equip^ten*thousand^edge}}:junbibantan'}}}}
-<li> @HI{{@FG{{@KJ{{gain}}:e}}ru}} @MIDDOT{{}} @HI{{@FG{{@KJ{{gain}}:u}}ru}}
+<li> <a href="grammar-eru-suffix.html">@HI{{@FG{{@KJ{{gain}}:e}}ru}}</a> @MIDDOT{{}}
+     <a href="grammar-eru-suffix.html">@HI{{@FG{{@KJ{{gain}}:u}}ru}}</a>
 <li> @HI{{ari@FG{{@KJ{{gain}}:e}}nai}}
 </ol>
 

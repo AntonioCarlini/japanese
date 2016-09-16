@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{darake}}}} is a suffix used to indicate that someone or something is filled or covered with something undesirable.
 
@@ -34,6 +37,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -48,6 +53,7 @@ can include intangible objects and is not restricted to liquids or powders.
 <li> @REF{{DOIJG}}. (p. 25).
 <li> @REF{{NKZM-N3G}}. (p. 97).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{JPOD101-UI-S5-009}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}

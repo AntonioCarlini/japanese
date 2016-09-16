@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{nikui}}}} is an auxiliary that adds a nuance of "difficult to do".
 The combined form functions as an @HI{{i}}-adjective and inflects in the same way.
@@ -47,6 +50,8 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -55,6 +60,7 @@ The combined form functions as an @HI{{i}}-adjective and inflects in the same wa
 <li> @REF{{DOBJG}}. (p. 307).
 <li> @REF{{MNN-TR-II}}. (Chapter 44).
 <li> @REF{{NKZM-N3G}}. (p. 97).
+<li> @REF{{JPOD101-UI-S5-013}}.
 </ol>
 
 @include{{"grammar-footer.inc"}}
