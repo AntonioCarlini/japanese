@@ -145,11 +145,11 @@ td#heading {
 </tr>
 <tr>
   <td class=""> I </td>
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> J </td>
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> @HI{{matome}}@KJ{{question^topic}} (A ~ J) </td>
