@@ -94,6 +94,20 @@ comes before or after @HI{{@EM{{nomi}}}}.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="nomika">"A@HI{{@EM{{nomi}}ka}}B@HI{{@EM{{mo}}}}"</a> also means "not only ... but also ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@@KJ{{child}}domo@EM{{nomika}}@FG{{@KJ{{large^person}}:otona}}@EM{{mo}}kono@KT{{ge-mu}}nihamatteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Not only children but also adults are into this TV game.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -109,6 +123,7 @@ The particles @HI{{ga}} and @HI{{wo}} are optional after @HI{{@EM{{nomi}}}}. Oth
 <li> @REF{{DOIJG}}. (p. 307).
 <li> @REF{{NKZM-N2G}}. (p. 134).
 <li> @REF{{JPOD101-UI-S5-003}}.
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 </ol>
 
 @include{{"grammar-footer.inc"}}
