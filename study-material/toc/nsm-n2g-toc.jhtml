@@ -136,8 +136,8 @@
 <li> <a href="grammar-kai.html#not-worth">@HI{{kaiganai}}</a> @MIDDOT{{}}
      <a href="grammar-kai.html#despite">@HI{{kai}}(@HI{{mo}})@HI{{naku}}</a>
 <li> <a href="grammar-kai.html#gai">@HI{{gai}}</a>
-<li> <a href="grammar-te-made.html">@HI{{temade}}</a> @MIDDOT{{}}
-     @HI{{made}}@Vte{{}}
+<li> <a href="grammar-te-made.html">@Vte{{}}@HI{{made}}</a> @MIDDOT{{}}
+     <a href="grammar-te-made.html">@HI{{madeshite}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w2d2">_</a> @KJ{{No.}}2@KJ{{week}}2@KJ{{day^eye}} </h2>
