@@ -219,7 +219,7 @@
 <li> <a href=""></a> @HI{{tokoro}}
 <li> <a href="grammar-tokoro.html#complete">@Vta{{}}@HI{{tokoro}}</a>
 <li> <a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
-<li> <a href="grammar-tokoro-ga.html">@HI{{tokoroga}}</a>
+<li> <a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d5">_</a> @KJ{{No.}}3@KJ{{week}}5@KJ{{day^eye}} </h2>
@@ -457,7 +457,7 @@
 
 <ol>
 <li> <a href="grammar-wo-chuushin-ni.html">@N{{}}@HI{{wo@FG{{@KJ{{in^heart}}:chuushinn}}ni}}</a>
-<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{crowded}}:ko}}mete}}
+<li> <a href="grammar-wo-komete.html">@N{{}}@HI{{wo@FG{{@KJ{{crowded}}:ko}}mete}}</a>
 <li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}/@N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}shite}}
 <li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{trust}}:tayo}}rini}}
 </ol>
