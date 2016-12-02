@@ -18,7 +18,7 @@ Extras (not checked): #10, #17, #65, #67, #76.</br>
 </p>
 
 <!-- the numbering does not necessarily match the website -->
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th>
@@ -679,7 +679,7 @@ Extras (not checked): #10, #17, #65, #67, #76.</br>
 <p>
 </p>
 
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
@@ -842,71 +842,82 @@ Extras (not checked): #10, #17, #65, #67, #76.</br>
 <p>
 </p>
 
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
+  <th> Shadowed </th> <th> Lesson time </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
-  <td> </td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> 7'20" </td> <td class=""> 0'58" </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 8'13" </td> <td> 1'50" </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 8'01" </td> <td> 1'33" </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> @TICK{{}} </td> <td class=""> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 8'02" </td> <td> 1'27" </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 6'51" </td> <td> 1'02" </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 7'07" </td> <td> 1'30" </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 8'30" </td> <td> 2'16" </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
   <td class="ok"> @TICK{{}} </td> <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 8'04" </td> <td> 1'31" </td>
 </tr>
 <tr>
   <td class="done"> 9 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 7'28" </td> <td> 1'28" </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
   <td class=""> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td> </td>
+  <td> </td> <td> 9'33" </td> <td> 1'39" </td>
 </tr>
 </table>
 
@@ -916,7 +927,7 @@ Extras (not checked): #10, #17, #65, #67, #76.</br>
 Bonus: #1: present and verified.</br>
 </p>
 
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
@@ -1080,7 +1091,7 @@ Bonus: #1: present and verified.</br>
 Bonus: #15, #16: NOT present and verified.</br>
 </p>
 
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
@@ -1243,7 +1254,7 @@ Bonus: #15, #16: NOT present and verified.</br>
 <p>
 </p>
 
-<table class="progress">
+<table class="progress highlight">
 <tr>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
