@@ -27,6 +27,11 @@ h2#heading {
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> aa </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> 2134 </td>
 </tr>
+<tr>
+  <td> 2017-01-22 </td>
+  <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> aa </td> <td class="ok"> </td>
+  <td class="ok"> </td> <td class="ok"> </td>
+</tr>
 </table>
 
 <table class="progress">
