@@ -8,6 +8,19 @@
 h2#heading {
   background-color: goldenrod;
 }
+
+th, td { 
+  width: 4em
+}
+
+td:first-child {
+  width: 6em
+}
+
+table {
+  width: 36em
+}
+
 </style></head>
 
 <body>
