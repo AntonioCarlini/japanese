@@ -29,7 +29,6 @@ def convert_to_hiragana(text)
     :xa => 0x3041, :xi => 0x3043, :xu => 0x3045, :xe => 0x3045, :xo => 0x3049,
     :vu => 0x3094,
     # Alternatives below here
-    :ji => 0x3058,
     :hu => 0x3075,
   }
   three = { :shi => 0x3057, :chi => 0x3061, :tsu => 0x3064, :xya => 0x3083, :xyu => 0x3085, :xyo => 0x3087, :xwa => 0x308e }

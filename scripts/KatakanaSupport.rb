@@ -29,7 +29,6 @@ def convert_to_katakana(text)
     :nn => 0x30f3, :"n'" => 0x30f3,
     :xa => 0x30a1, :xi => 0x30a3, :xu => 0x30a5, :xe => 0x30a7, :xo => 0x30a9,
     # Alternatives below here
-    :ji => 0x30b8,
     :hu => 0x30d5,
     :shi => 0x30b7, :chi => 0x30c1,
   }
