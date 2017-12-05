@@ -9,6 +9,8 @@ JHTML_SRCS += mnn-toc.jhtml
 JHTML_SRCS += nsm-n1g-toc.jhtml
 JHTML_SRCS += nsm-n2g-toc.jhtml
 JHTML_SRCS += nsm-n3g-toc.jhtml
+JHTML_SRCS += udemy-n1-toc.jhtml
+JHTML_SRCS += udemy-n2-toc.jhtml
 
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 
