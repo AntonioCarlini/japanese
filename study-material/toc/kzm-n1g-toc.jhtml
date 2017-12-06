@@ -55,7 +55,12 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.1">_</a>1 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href="">@HI{{ga}}@FG{{@KJ{{early}}:haya}}(@HI{{ika}})</a>
+<li> ~<a href="grammar-ga-hayai-ka.html">@HI{{ga}}@FG{{@KJ{{early}}:haya}}@HI{{ika}}</a>
+<li> ~<a href="">@HI{{ya}}</a> @MIDDOT{{}} ~<a href="">@HI{{ga}}@FG{{@KJ{{negate}}:ina}}(@HI{{ika}})</a>
+<li> ~<a href="">@HI{{nari}}</a>
+<li> ~<a href="">@HI{{sobakara}}</a>
+<li> ~<a href="">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
+<li> ~<a href="">@HI{{niatte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>
