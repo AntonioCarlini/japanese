@@ -21,7 +21,7 @@
 
 <h1>Udemy N2 Course</h1>
 
-<h2><a class="navtarget" name="chapter1">_</a>@KJ{{No.}}1</h2>
+<h2><a class="navtarget" name="chapter1">_</a>@KJ{{No.}}1@KJ{{chapter}}</h2>
 
 <ol>
 <li> <a href="">@HI{{kiri}}</a>
@@ -36,7 +36,7 @@
 <li> <a href="">@Vta{{}}@HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{uto}} @MIDDOT{{}} @HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{xtsutara}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter2">_</a>@KJ{{No.}}2</h2>
+<h2><a class="navtarget" name="chapter2">_</a>@KJ{{No.}}2@KJ{{chapter}}</h2>
 
 <ol>
 <li> <a href="">@Vte{{}}@HI{{karadenaito}} @MIDDOT{{}} @HI{{tekaradenakereba}}</a>
@@ -52,7 +52,7 @@
 <li> <a href="">@HI{{tsuideni}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter3">_</a>@KJ{{No.}}3</h2>
+<h2><a class="navtarget" name="chapter3">_</a>@KJ{{No.}}3</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@Vta{{}}@HI{{totan'}}(@HI{{ni}})</a>
@@ -68,7 +68,7 @@
 <li> <a href="">@Vmasustem{{}}@HI{{kaneru}} @MIDDOT{{}} @Vmasustem{{}}@HI{{kanenai}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter4">_</a>@KJ{{No.}}4</h2>
+<h2><a class="navtarget" name="chapter4">_</a>@KJ{{No.}}4</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@Vmasustem{{}}@HI{{tsutsu}}(@HI{{mo}})</a>
@@ -84,7 +84,7 @@
 <li> <a href="">@FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}} @MIDDOT{{}} @FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}}@HI{{da}} @MIDDOT{{}}@FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}}@HI{{deha}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter5">_</a>@KJ{{No.}}5</h2>
+<h2><a class="navtarget" name="chapter5">_</a>@KJ{{No.}}5</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@HI{{o}}/@HI{{goitadakemasen'ka}}</a>
@@ -101,7 +101,7 @@
 <li> <a href="">@HI{{xtsupoi}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter6">_</a>@KJ{{No.}}6</h2>
+<h2><a class="navtarget" name="chapter6">_</a>@KJ{{No.}}6</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@HI{{kotoni}}(@HI{{ha}})</a>
@@ -118,7 +118,7 @@
 <li> <a href="">@N{{}} @HI{{nisoxtsute}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter7">_</a>@KJ{{No.}}7</h2>
+<h2><a class="navtarget" name="chapter7">_</a>@KJ{{No.}}7</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@HI{{toha}}@FG{{@KJ{{limit}}:kagi}}@HI{{ranai}}</a>
@@ -135,7 +135,7 @@
 </ol>
 
 
-<h2><a class="navtarget" name="chapter8">_</a>@KJ{{No.}}8</h2>
+<h2><a class="navtarget" name="chapter8">_</a>@KJ{{No.}}8</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@N1{{}}@HI{{kara}}@N2{{}}@HI{{nikakete}}</a>
@@ -153,7 +153,7 @@
 </ol>
 
 
-<h2><a class="navtarget" name="chapter9">_</a>@KJ{{No.}}9</h2>
+<h2><a class="navtarget" name="chapter9">_</a>@KJ{{No.}}9</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@HI{{dokorodehanai}}</a>
@@ -170,7 +170,7 @@
 <li> <a href="">@Vmasustem{{}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{ku}}</a>
 </ol>
 
-<h2><a class="navtarget" name="chapter10">_</a>@KJ{{No.}}10</h2>
+<h2><a class="navtarget" name="chapter10">_</a>@KJ{{No.}}10</h2>@KJ{{chapter}}
 
 <ol>
 <li> <a href="">@HI{{ge}}</a>
