@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nihongo No Mori N2 Course</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+<div class="nav">
+<ul class="nav">
+  <li> <a href="#lesson1">1</a> <li> <a href="#lesson2">2</a> <li> <a href="#lesson3">3</a>
+  <li> <a href="#lesson4">4</a> <li> <a href="#lesson5">5</a> <li> <a href="#lesson6">6</a>
+  <li> <a href="#lesson7">7</a> <li> <a href="#lesson8">8</a> <li> <a href="#lesson9">9</a>
+
+  <li> <a href="#lesson10">10</a>
+</ul>
+</div>
+
+<div class="main">
+
+<h1>@HI{{@FG{{@KJ{{day^book^word}}:nihongo}}no@FG{{@KJ{{forest}}:mori}} @FG{{@KJ{{similar}}:ni}}teiru@FG{{@KJ{{sentence^method}}:bunpou}}}} N2 Course</h1>
+
+<h2><a class="navtarget" name="lesson1">_</a>@KJ{{No.}}1@KJ{{chapter}}</h2>
+
+<ol>
+<li> ~<a href="">@HI{{totan}}(@HI{{ni}})</a>
+<li> ~<a href="">(@HI{{ka}})@HI{{to@FG{{@KJ{{think}}:omo}}u}}</a>
+</ol>
+
+</div>
+</body>
+</html>
