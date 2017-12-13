@@ -90,7 +90,7 @@
 
 <ol>
 <li> <a href="grammar-particle-e.html">@N{{place}}@HI{{he @KJ{{going}}kimasu/@KJ{{come}}masu/@KJ{{homecoming}}rimasu}}</a>
-<li> <a href="grammar-interrogatives-with-particles.html"><em>interrogative</em> + @HI{{mo}}</a>
+<li> <a href="grammar-interrogatives-with-particles.html">@QW{{}} + @HI{{mo}}</a>
 <li> <a href="grammar-particle-de.html#means">@N{{vehicle}}@HI{{de}}
     @KJ{{going}}@HI{{kimasu}}/@KJ{{come}}@HI{{masu}}/@KJ{{homecoming}}@HI{{rimasu}}</a>
 <li> <a href="grammar-particle-to.html#with">@N{{person}}@HI{{to}}@V{{}}</a>
@@ -372,7 +372,7 @@
 <li> <a href="grammar-kamo-shiremasen.html"> @HI{{kamoshiremasenn}} </a>
 <li> <a href="grammar-kitto-tabun-moshikashitara.html"> @HI{{kitto/tabunn/moshikashitara}} </a>
 <li> <a href="grammar-nanika-shinpai-na-koto.html"> @HI{{@KJ{{what}}ka@KJ{{heart^distribute}}na koto}} </a>
-<li> <a href="grammar-quantifier-de.html"> <em>quantifier</em> @HI{{de}} </a>
+<li> <a href="grammar-quantifier-de.html"> @QNTF{{}} @HI{{de}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter33">_</a>Chapter 33</h2>
@@ -460,8 +460,8 @@
 <ol>
 <li> <a href="grammar-tame-ni.html"> @HI{{tameni}} </a>
 <li> <a href="grammar-purpose-ni.html"> <em>purpose</em> @HI{{ni}} </a>
-<li> <a href="grammar-quantifier-wa.html"> <em>quantifier</ha> @HI{{ha}} </a>
-<li> <a href="grammar-quantifier-mo.html"> <em>quantifier</em> @HI{{mo}} </a>
+<li> <a href="grammar-quantifier-wa.html"> @QNTF{{}} @HI{{ha}} </a>
+<li> <a href="grammar-quantifier-mo.html"> @QNTF{{}} @HI{{mo}} </a>
 </ol>
 
 <h2><a class="navtarget" name="chapter43">_</a>Chapter 43</h2>
