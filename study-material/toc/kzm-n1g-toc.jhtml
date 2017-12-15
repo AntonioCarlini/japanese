@@ -60,8 +60,8 @@ h2#heading {
      ~<a href="grammar-ya-ina-ya.html">@HI{{ya}}@FG{{@KJ{{negate}}:ina}}@HI{{ya}}</a>
 <li> ~<a href="grammar-nari.html">@HI{{nari}}</a>
 <li> ~<a href="grammar-soba-kara.html">@HI{{sobakara}}</a>
-<li> ~<a href="">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
-<li> ~<a href="">@HI{{niatte}}</a>
+<li> ~<a href="grammar-te-kara-to-iu-mono.html">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
+<li> ~<a href="grammar-ni-atte.html">@HI{{niatte}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>

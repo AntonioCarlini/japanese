@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niatte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niatte}}" grammar="@HI{{niatte}}"}}
+
+<body>
+
+<h1>@HI{{niatte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niatte}}}}(@HI{{ha}})}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{niatte}}}} is used to mean "due to", "as a result of", "at the time of" or "on the occasion of".
+It acts to emphasise the noun to which it is attached.
+@HI{{@EM{{niatte}}}} is the @HI{{te}}-form of @HI{{niaru}}, so the literal meaning is "while being in".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{father}}ha@FG{{@KJ{{large^study}}:daigaku}}@FG{{@KJ{{teach^impart}}:kyouju}}daga,
+      @FG{{@KJ{{house^courtyard}}:katei}}@EM{{niatte}}futsuuno@KJ{{father^parent}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My father is a university professor but he is an ordinary father at home.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 9).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
