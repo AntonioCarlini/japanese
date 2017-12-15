@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nari}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nari}}" grammar="@HI{{nari}}"}}
+
+<body>
+
+<h1>@HI{{nari}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{nari}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nari}}}} is a conjunction that means "soon after".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{wife}}:tsuma}}ha@KJ{{private}}no@FG{{@KJ{{face}}:kao}}wo@KJ{{see}}ru@EM{{nari}}
+      @FG{{@KJ{{cry}}:na}}ki@FG{{@KJ{{exit}}:da}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My wife began to cry as soon as she saw my face.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 355).
+<li> @REF{{NKZM-N1G}}. (p. 8).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
