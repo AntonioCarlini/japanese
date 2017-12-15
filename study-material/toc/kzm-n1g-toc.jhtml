@@ -56,7 +56,8 @@ h2#heading {
 
 <ol>
 <li> ~<a href="grammar-ga-hayai-ka.html">@HI{{ga}}@FG{{@KJ{{early}}:haya}}@HI{{ika}}</a>
-<li> ~<a href="">@HI{{ya}}</a> @MIDDOT{{}} ~<a href="">@HI{{ya}}@FG{{@KJ{{negate}}:ina}}@HI{{ya}}</a>
+<li> ~<a href="grammar-ya-ina-ya.html#ya">@HI{{ya}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ya-ina-ya.html">@HI{{ya}}@FG{{@KJ{{negate}}:ina}}@HI{{ya}}</a>
 <li> ~<a href="">@HI{{nari}}</a>
 <li> ~<a href="">@HI{{sobakara}}</a>
 <li> ~<a href="">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
