@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toieru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toieru}}" grammar="@HI{{to@FG{{@KJ{{say}}:i}}eru}}"}}
+
+<body>
+
+<h1>@HI{{to@FG{{@KJ{{say}}:i}}eru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}eru}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}eru}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{da@EM{{ni@FG{{@KJ{{say}}:i}}eru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{da@EM{{ni@FG{{@KJ{{say}}:i}}eru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{to@FG{{@KJ{{say}}:i}}eru}}}} means "this judgement can be made".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{gold}}:kane}}gaareba@FG{{@KJ{{happiness}}:shiawa}}seda@EM{{to@FG{{@KJ{{say}}:i}}eru}}nodeshouka.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Can we really say that money brings happiness?
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 21).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

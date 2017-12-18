@@ -326,9 +326,9 @@
 <h2><a class="navtarget" name="chapter18">_</a>Chapter 18</h2>
 
 <ol>
-<li> <a href="grammar-ni-chigainai.html">@HI{{ni@KJ{{difference}}inai}}</a>
-<li> <a href="grammar-ni-kuraberu-to.html#nikurabete">@HI{{@N{{}}ni@KJ{{compare}}bete}}</a> @MIDDOT{{}}
-     <a href="grammar-ni-kuraberu-to.html#nikuraberuto">@HI{{@N{{}}ni@KJ{{compare}}beruto}}</a>
+<li> <a href="grammar-ni-chigai-inai.html">@HI{{ni@KJ{{difference}}inai}}</a>
+<li> <a href="grammar-ni-kuraberuto.html#nikurabete">@HI{{@N{{}}ni@KJ{{compare}}bete}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kuraberuto.html#nikuraberuto">@HI{{@N{{}}ni@KJ{{compare}}beruto}}</a>
 <li> <a href="grammar-mono-da.html#should">@HI{{monoda}}</a> @MIDDOT{{}}
      <a href="grammar-mono-de-wa-nai.html">@HI{{monodehanai}}</a>
 <li> <a href="grammar-becoming-aware.html">Past tense forms to indicate becoming aware</a>
@@ -365,7 +365,6 @@
      <a href="grammar-irai.html#te-irai">@HI{{@Vte{{}}@FG{{@KJ{{by*means*of^come}}:irai}}}}
 <li> <a href="grammar-kurai.html#kurai-da">@HI{{kurai}}/@HI{{kuraida}}</a>
 <li> <a href="grammar-wo-komete.html">@HI{{wokomete}}</a>
-<li> <a href=""></a>@Vba{{}}~@HI{{dake}}
 <li> <a href="grammar-totan.html">@HI{{totan'ni}}</a>
 <li> <a href="grammar-kara-to-itte.html">@HI{{karatoitte}}</a>
 </ol>
@@ -373,14 +372,14 @@
 <h2><a class="navtarget" name="chapter21">_</a>Chapter 21</h2>
 
 <ol>
-<li> <a href="grammar-.html"></a>@HI{{mosezuni}}
+<li> <a href="grammar-mo-sezu-ni.html">@HI{{mosezuni}}</a>
 <li> <a href="grammar-to-ie-domo.html">@HI{{toiedomo}}</a>
 <li> <a href="grammar-yohodo-demo.html">@HI{{yohodo~demo}}</a>
 <li> <a href="grammar-ikani.html#ka">@HI{{ikani}} ~ @HI{{ka}}</a>
 <li> <a href="grammar-toka-hearsay.html#ending">@HI{{toka}}</a>
-<li> <a href="grammar-.html"></a>@HI{{ni@KJ{{say}}wasereba}}
+<li> <a href="grammar-ni-iwasereba.html">@HI{{ni@KJ{{say}}wasereba}}</a>
 <li> <a href="grammar-ni-motozuite.html">@HI{{ni@FG{{@KJ{{fundamentals}}:moto}}duite}}</a>
-<li> <a href="grammar-.html"></a>@HI{{to@KJ{{say}}emasu}}
+<li> <a href="grammar-to-ieru.html">@HI{{to@FG{{@KJ{{say}}:i}}eru}}</a>
 <li> <a href="grammar-ippou-de.html#contrast">@KJ{{one^direction}}@HI{{de}}</a>
 <li> <a href="grammar-ni-kagirazu.html">@HI{{ni@FG{{@KJ{{limit}}:kagi}}razu}}</a>
 </ol>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niiwasereba}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niiwasereba}}" grammar="@HI{{ni@FG{{@KJ{{say}}:i}}wasereba}}"}}
+@GRMIDX{{index="@HI{{niiwasereruto}}" grammar="@HI{{ni@FG{{@KJ{{say}}:i}}wasereruto}}"}}
+@GRMIDX{{index="@HI{{niiwasetara}}" grammar="@HI{{ni@FG{{@KJ{{say}}:i}}wasetara}}"}}
+@GRMIDX{{index="@HI{{niiwaserunara}}" grammar="@HI{{ni@FG{{@KJ{{say}}:i}}waserunara}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{say}}:i}}waseru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @N{{}}(person)@FORMATION{{@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}wasereba}}}}}}
+<li> @N{{}}(person)@FORMATION{{@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}waseruto}}}}}}
+<li> @N{{}}(person)@FORMATION{{@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}wasetara}}}}}}
+<li> @N{{}}(person)@FORMATION{{@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}waserunara}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{say}}:i}}wasereba}}}} follows a noun indicating a person and indicates that "this is the person's own opinion".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sutra^finish}}:keizai}}no@FG{{@KJ{{specialty^gates^house}}:senmonka}}@EM{{ni@FG{{@KJ{{say}}:i}}wasereba}},@FG{{@KJ{{circle}}:en}}hakorekaramotto@FG{{@KJ{{tall}}:taka}}kunarurashii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      According to economic experts, the yen will go even higher.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 21).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

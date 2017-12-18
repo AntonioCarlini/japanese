@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{mosezuni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{mosezuni}}" grammar="@HI{{mosezuni}}"}}
+
+<body>
+
+<h1>@HI{{mosezuni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{mosezuni}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{mosezuni}}}} is an archaic expression that means "not doing something one would normally be expected to do".
+It emphasises the meaning of "not doing something".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{heat}}:netsu}}nanode,@FG{{@KJ{{evening^eat}}:yuushoku}}@EM{{mosezuni}}gussuri@FG{{@KJ{{lie*down}}:ne}}ta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Because I am sick, I did not even have dinner and just slept.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 21).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
