@@ -61,17 +61,20 @@
 <h2><a class="navtarget" name="chapter3">_</a>@KJ{{No.}}3@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@Vta{{}}@HI{{totan'}}(@HI{{ni}})
+<li> <a href="grammar-totan.html">@Vta{{}}@HI{{totan'}}(@HI{{ni}})</a>
 <li> <a href=""></a>@Vta{{}}@HI{{tokoro}}
 <li> <a href=""></a>@Vta{{}}@HI{{tokorode}}
-<li> <a href=""></a>@Vta{{}}@HI{{tokoroga}}
-<li> <a href=""></a>@N{{}} @HI{{ni}}@FG{{@KJ{{add}}:wiwiwi}}@HI{{ete}}
-<li> <a href=""></a>@N{{}} @HI{{ni}}@FG{{@KJ{{apply}}:wiwiwi}}@HI{{e}}(@HI{{te}})
-<li> <a href=""></a>@HI{{niataxtsute}} @MIDDOT{{}} @HI{{niatari}}
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{accompany}}:wiwiwi}}@HI{{xtsute}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{accompany}}:wiwiwi}}@HI{{i}}
-<li> <a href=""></a>@HI{{bakarini}}
+<li> <a href="grammar-tokoro-ga.html">@Vta{{}}@HI{{tokoroga}}</a>
+<li> <a href="grammar-kuwaete.html">@N{{}}@HI{{ni}}@FG{{@KJ{{add}}:kuwa}}@HI{{ete}}</a>
+<li> <a href="grammar-ni-kotaete.html">@N{{}}@HI{{ni}}@FG{{@KJ{{apply}}:kota}}@HI{{e}}(@HI{{te}})</a>
+<li> <a href="grammar-ni-atatte.html#atatte">@HI{{niataxtsute}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-atatte.html#atari">@HI{{niatari}}</a>
+<li> <a href="grammar-ni-shitagatte.html#shitagatte">@HI{{ni}}@FG{{@KJ{{accompany}}:shitaga}}@HI{{xtsute}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-shitagatte.html#shitagari">@HI{{ni}}@FG{{@KJ{{accompany}}:shitaga}}@HI{{i}}</a>
+<li> <a href="grammar-bakari-ni.html">@HI{{bakarini}}</a>
 <li> <a href=""></a>@HI{{bakarika}}
-<li> <a href=""></a>@Vmasustem{{}}@HI{{kaneru}} @MIDDOT{{}} @Vmasustem{{}}@HI{{kanenai}}
+<li> <a href="grammar-kaneru-suffix.html">@Vmasustem{{}}@HI{{kaneru}}</a> @MIDDOT{{}}
+     <a href="grammar-kaneru-suffix.html#kanenai">@Vmasustem{{}}@HI{{kanenai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter4">_</a>@KJ{{No.}}4@KJ{{chapter}}</h2>

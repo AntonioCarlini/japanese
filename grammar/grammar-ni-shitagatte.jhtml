@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}} expresses that something beyond human control happens simultaneously with something else.
+<a name="shitagatte">@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}</a> expresses that something beyond human control happens simultaneously with something else.
 Both the main and subordinate clauses must express a continuous action.
 
 <table class="sentence">
@@ -41,7 +41,7 @@ Both the main and subordinate clauses must express a continuous action.
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}}}} is a more formal form of @HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}, with the same meaning.
+<a name="shitagari">@HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}}}}</a> is a more formal form of @HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}tte}}}}, with the same meaning.
 @HI{{@EM{{ni@FG{{@KJ{{accompany}}:shitaga}}i}}}} is usually used only in writing.
 
 <table class="sentence">
@@ -71,6 +71,7 @@ The former seems to be preferred in writing and the latter in speech.
 <li> @REF{{NKZM-N2G}}. (p. 42).
 <li> @REF{{NKZM-N2G}}. (p. 122).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 3.
 </ol>
 
 @include{{"grammar-footer.inc"}}
