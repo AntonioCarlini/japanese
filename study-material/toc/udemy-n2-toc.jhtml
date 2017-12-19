@@ -41,17 +41,21 @@
 <h2><a class="navtarget" name="chapter2">_</a>@KJ{{No.}}2@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@Vte{{}}@HI{{karadenaito}} @MIDDOT{{}} @HI{{tekaradenakereba}}
-<li> <a href=""></a>@Vte{{}}@HI{{made}}
-<li> <a href=""></a>@Vmasustem{{}}@HI{{xtsupanashi}}
+  <li> <a href="grammar-te-kara-denaito.html#denaito">@Vte{{}}@HI{{karadenaito}}</a> @MIDDOT{{}}
+       <a href="grammar-te-kara-denaito.html#denakereba">@Vte{{}}@HI{{karadenakereba}}</a>
+<li> <a href="grammar-te-made.html">@Vte{{}}@HI{{made}}</a>
+<li> <a href="grammar-ppanashi.html">@Vmasustem{{}}@HI{{xtsupanashi}}</a>
 <li> <a href=""></a>@HI{{nakuhanai}} @MIDDOT{{}} @HI{{nakumonai}}
 <li> <a href=""></a>@FG{{@KJ{{limit}}:kagi}}@HI{{ri}} @MIDDOT{{}} @FG{{@KJ{{limit}}:kagi}}@HI{{rideha}}
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{xtsute}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{ru}}
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{razu}}
-<li> <a href=""></a>@HI{{toshitara}} @MIDDOT{{}} @HI{{tosureba}} @MIDDOT{{}} @HI{{tosuruto}}
-<li> <a href=""></a>@HI{{kurainara}}
-<li> <a href=""></a>@HI{{tsuideni}}
+<li> <a href="grammar-ni-kagitte.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{xtsute}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-kagitte.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}</a>
+<li> <a href="grammar-ni-kagiru.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{ru}}</a>
+<li> <a href="grammar-ni-kagirazu.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{razu}}</a>
+<li> <a href="grammar-to-suru-assume.html#if-tara">@HI{{toshitara}}</a> @MIDDOT{{}}
+     <a href="grammar-to-suru-assume.html#if-ba">@HI{{tosureba}}</a> @MIDDOT{{}}
+     <a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a>
+<li> <a href="grammar-kurai.html#kurainara">@HI{{kurainara}}</a>
+<li> <a href="grammar-tsuide-ni.html">@HI{{tsuideni}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter3">_</a>@KJ{{No.}}3@KJ{{chapter}}</h2>

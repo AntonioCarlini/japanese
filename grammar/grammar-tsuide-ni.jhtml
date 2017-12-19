@@ -26,6 +26,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{tsuideni}}}} is a phrase used to express the idea that a second action is done at the same
 time as a main action because the additional time or effort required is minimal.
@@ -39,6 +42,8 @@ time as a main action because the additional time or effort required is minimal.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -61,6 +66,7 @@ Only a limited number of adjectives can come before @HI{{@EM{{tsuideni}}}}.
 <li> @REF{{NKZM-N3G}}. (p. 19).
 <li> @REF{{DOAJG}}. (p. 671).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 2.
 </ol>
 
 @include{{"grammar-footer.inc"}}

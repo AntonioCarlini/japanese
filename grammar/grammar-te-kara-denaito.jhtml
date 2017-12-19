@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="denaito">This</a> construction is used to mean that until the action specified by @Vte{{}} is done, the action in the main clause cannot happen.
 The main clause must convey a negative meaning.
@@ -37,6 +40,8 @@ The main clause must convey a negative meaning.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -50,6 +55,7 @@ The main clause must convey a negative meaning.
 <li> @REF{{NKZM-N2G}}. (p. 17).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{JPOD101-UI-S3-016}}.
+<li> @REF{{UDEMY-N2}}. Lesson 2.
 </ol>
 
 @include{{"grammar-footer.inc"}}

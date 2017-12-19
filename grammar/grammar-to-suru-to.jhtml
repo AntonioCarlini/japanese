@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{tosuruto}} indicates that an event is hypothetical or uncertain.
 This expression cannot be used when the event is taken to be true or a reality.
@@ -35,6 +38,8 @@ This expression cannot be used when the event is taken to be true or a reality.
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -50,6 +55,7 @@ is used instead.
 <li> @REF{{NKZM-N2G}}. (p. 68).
 <li> @REF{{NKZM-N2G}}. (p. 124).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}3@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 2.
 </ol>
 
 @include{{"grammar-footer.inc"}}
