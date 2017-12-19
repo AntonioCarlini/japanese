@@ -57,6 +57,22 @@ Note that, as shown in this example, more than one noun can precede the compund 
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{@EM{{ha@FG{{@KJ{{question}}:to}}wazu}}}}
+Note that, as shown in this example, more than one noun can precede the compund particle without any intervening particle, such as @HI{{to}} or @HI{{ya}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{detain^study^life}}:ryuugakusei}}deareba,@FG{{@KJ{{year^age}}:nenrei}}ha@EM{{@FG{{@KJ{{question}}:to}}wazu}}no
+      @KT{{ho-musuteipuroguramu}}ni@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{crowded}}:ko}}miga@FG{{@KJ{{can^ability}}:kanou}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As long as you are an international student, you can apply for this homestay program regardless of age.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> References </h2>
@@ -66,6 +82,7 @@ Note that, as shown in this example, more than one noun can precede the compund 
 <li> @REF{{NKZM-N2G}}. (p. 52).
 <li> @REF{{NKZM-N2G}}. (p. 126).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 4.
 </ol>
 
 @include{{"grammar-footer.inc"}}

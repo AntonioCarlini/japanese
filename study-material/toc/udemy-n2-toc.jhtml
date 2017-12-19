@@ -80,17 +80,29 @@
 <h2><a class="navtarget" name="chapter4">_</a>@KJ{{No.}}4@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@Vmasustem{{}}@HI{{tsutsu}}(@HI{{mo}})
-<li> <a href=""></a>@Vmasustem{{}}@HI{{tsutsuaru}}
-<li> <a href=""></a>@N{{}} @HI{{nomotode}} @MIDDOT{{}} @HI{{nomotoni}} @MIDDOT{{}} @HI{{no}}@FG{{@KJ{{name}}:wiwiwi}}@HI{{nomotoni}}
-<li> <a href=""></a>@N{{}} @HI{{womotoni}}(@HI{{shite}})
-<li> <a href=""></a>@N{{}} @HI{{wo}}@FG{{@KJ{{in}}:wiwiwi}}@FG{{@KJ{{heart}}:wiwiwi}}@HI{{ni}}(@HI{{shite}})/@HI{{wo}} @FG{{@KJ{{in}}:wiwiwi}} @FG{{@KJ{{heart}}:wiwiwi}}@HI{{toshite}}
-<li> <a href=""></a>@N{{}} @HI{{wokanete}}
-<li> <a href=""></a>@FG{{@KJ{{armor}}:wiwiwi}}@FG{{@KJ{{symmetrically*patterned}}:wiwiwi}}@HI{{gaaru}} @MIDDOT{{}} @FG{{@KJ{{armor}}:wiwiwi}}@FG{{@KJ{{symmetrically*patterned}}:wiwiwi}}@HI{{ganai}}
-<li> <a href=""></a>@N{{}} @HI{{wo}}@FG{{@KJ{{question}}:wiwiwi}}@HI{{wazu}} @MIDDOT{{}} @HI{{ha}}@FG{{@KJ{{question}}:wiwiwi}}@HI{{wazu}}
-<li> <a href=""></a>@HI{{ga}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{de}} @MIDDOT{{}} @HI{{ga}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{ninaxtsute}} @MIDDOT{{}}@MIDDOT{{}} @HI{{wo}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{toshite}}
-<li> <a href=""></a>@HI{{gakixtsukakede}} @MIDDOT{{}} @HI{{gakixtsukakeninaxtsute}} @MIDDOT{{}} @HI{{wokixtsukakeni}}(@HI{{shite}}) @MIDDOT{{}} @HI{{wokixtsukaketoshite}}
-<li> <a href=""></a>@FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}} @MIDDOT{{}} @FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}}@HI{{da}} @MIDDOT{{}}@FG{{@KJ{{next}}:wiwiwi}}@FG{{@KJ{{no.}}:wiwiwi}}@HI{{deha}}
+<li> <a href="grammar-tsutsu.html#simultaneous">@Vmasustem{{}}@HI{{tsutsu}}(@HI{{mo}})</a>
+<li> <a href="grammar-tsutsu.html#ongoing">@Vmasustem{{}}@HI{{tsutsuaru}}</a>
+<li> <a href="grammar-no-moto-de.html">@N{{}}@HI{{nomotode}}</a> @MIDDOT{{}}
+     <a href="grammar-no-moto-de.html#ni">@HI{{nomotoni}}</a> @MIDDOT{{}}
+     <a href=""></a>@HI{{no}}@FG{{@KJ{{name}}:na}}@HI{{nomotoni}}
+<li> <a href=""></a>@N{{}}@HI{{womotoni}}(@HI{{shite}})
+<li> <a href="grammar-wo-chuushin-ni.html">@N{{}}@HI{{wo}}@FG{{@KJ{{in}}:chuu}}@FG{{@KJ{{heart}}:shin}}@HI{{ni}}(@HI{{shite}})</a> @MIDDOT{{}}
+     <a href="grammar-wo-chuushin-ni.html">@N{{}}@HI{{wo}}@FG{{@KJ{{in}}:chuu}}@FG{{@KJ{{heart}}:shin}}@HI{{toshite}}</a>
+<li> <a href=""></a>@N{{}}@HI{{wokanete}}
+<li> <a href=""></a>@FG{{@KJ{{armor}}:ka}}@FG{{@KJ{{symmetrically*patterned}}:i}}@HI{{gaaru}} @MIDDOT{{}}
+     <a href=""></a>@FG{{@KJ{{armor}}:ka}}@FG{{@KJ{{symmetrically*patterned}}:i}}@HI{{ganai}}
+<li> <a href="grammar-wo-towazu.html">@N{{}}@HI{{wo}}@FG{{@KJ{{question}}:to}}@HI{{wazu}}</a> @MIDDOT{{}}
+     <a href="grammar-wo-towazu.html">@HI{{ha}}@FG{{@KJ{{question}}:to}}@HI{{wazu}}</a>
+<li> <a href=""></a>@HI{{ga}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{de}} @MIDDOT{{}}
+     <a href=""></a>@HI{{ga}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{ninaxtsute}} @MIDDOT{{}}
+     <a href=""></a>@HI{{wo}}@FG{{@KJ{{pledge}}:wiwiwi}}@FG{{@KJ{{mechanism}}:wiwiwi}}@HI{{toshite}}
+<li> <a href=""></a>@HI{{gakixtsukakede}} @MIDDOT{{}}
+     <a href=""></a>@HI{{gakixtsukakeninaxtsute}} @MIDDOT{{}}
+     <a href=""></a>@HI{{wokixtsukakeni}}(@HI{{shite}}) @MIDDOT{{}}
+     <a href=""></a>@HI{{wokixtsukaketoshite}}
+<li> <a href="grammar-shidai.html#as-soon-as">@FG{{@KJ{{next}}:shi}}@FG{{@KJ{{no.}}:dai}}</a> @MIDDOT{{}}
+     <a href="grammar-shidai.html#depends-on">@FG{{@KJ{{next}}:shi}}@FG{{@KJ{{no.}}:dai}}@HI{{da}}</a> @MIDDOT{{}}
+     <a href="grammar-shidai.html#depends-on">@FG{{@KJ{{next}}:shi}}@FG{{@KJ{{no.}}:dai}}@HI{{deha}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter5">_</a>@KJ{{No.}}5@KJ{{chapter}}</h2>
