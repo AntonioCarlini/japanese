@@ -24,16 +24,18 @@
 <h2><a class="navtarget" name="chapter1">_</a>@KJ{{No.}}1@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@HI{{kiri}}
-<li> <a href=""></a>@Vmasustem{{}}@FG{{@KJ{{gain}}:u}}@HI{{ru}} @MIDDOT{{}} @Vmasustem{{}}@FG{{@KJ{{gain}}:e}}@HI{{nai}}
-<li> <a href=""></a>@HI{{zaruwo}}@FG{{@KJ{{gain}}:e}}@HI{{nai}}
-<li> <a href=""></a>@HI{{tsumoride}}
-<li> <a href=""></a>@HI{{tsumori}}
-<li> <a href=""></a>@HI{{tenaranai}}
-<li> <a href=""></a>@HI{{monono}}
-<li> <a href=""></a>@HI{{monoka}}
-<li> <a href=""></a>@HI{{mononara}}
-<li> <a href=""></a>@Vta{{}}@HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{uto}} @MIDDOT{{}} @HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{xtsutara}}
+<li> <a href="grammar-particle-kiri.html">@HI{{kiri}}</a>
+<li> <a href="grammar-eru-suffix.html">@Vmasustem{{}}@FG{{@KJ{{gain}}:u}}@HI{{ru}}</a> @MIDDOT{{}}
+     <a href="grammar-eru-suffix.html">@Vmasustem{{}}@FG{{@KJ{{gain}}:e}}@HI{{nai}}</a>
+<li> <a href="grammar-zaru-wo-enai.html">@HI{{zaruwo}}@FG{{@KJ{{gain}}:e}}@HI{{nai}}</a>
+<li> <a href="grammar-tsumori.html#thinks-but-unknown-past">@HI{{tsumoride}}</a>
+<li> <a href="grammar-tsumori.html#thinks-but-unknown-cont">@HI{{tsumori}}</a>
+<li> <a href="grammar-naranai.html">@Vte{{}}@HI{{aranai}}</a>
+<li> <a href="grammar-particle-mono-no.html">@HI{{monono}}</a>
+<li> <a href="grammar-particle-mono-ka-not.html">@HI{{monoka}}</a>
+<li> <a href="grammar-particle-mono-nara.html">@HI{{mononara}}</a>
+<li> <a href="grammar-ka-to-omou-to.html">@Vta{{}}@HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{uto}}</a> @MIDDOT{{}}
+     <a href="grammar-ka-to-omou-to.html#omottara">@Vta{{}}@HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{xtsutara}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter2">_</a>@KJ{{No.}}2@KJ{{chapter}}</h2>

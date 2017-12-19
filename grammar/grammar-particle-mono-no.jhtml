@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{monono}}}} is a conjunction used to mean "but" or "although".
 It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>.
@@ -50,6 +53,8 @@ It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredo
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -64,6 +69,7 @@ In @S1{{}}@HI{{@EM{{monono}}}}@S2{{}}, @S2{{}} is a fact which is generally unex
 <li> @REF{{NKZM-N2G}}. (p. 64).
 <li> @REF{{NKZM-N2G}}. (p. 128).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}1@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 1.
 </ol>
 
 @include{{"grammar-footer.inc"}}

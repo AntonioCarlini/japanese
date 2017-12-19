@@ -56,6 +56,21 @@ is acceptable. The basic conjugation pattern is as shown below.
 
 </p>
 
+@BGRND{{}}
+<p>
+@HI{{arienai}} is used to express that something is hard to believe.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ha,@FG{{@KJ{{sincerity^reality}}:seijitsu}}deyasashii@FG{{@KJ{{person}}:hito}}nanode,
+      o@FG{{@KJ{{gold}}:kane}}wo@FG{{@KJ{{steal}}:nusu}}munante@EM{{ari@FG{{@KJ{{gain}}:e}}nai}}.
+      kitto@FG{{@KJ{{what}}:nani}}kano@FG{{@KJ{{interval^difference}}:machiga}}idayo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He is an honest and kind person and it is unlike him to steal money. It must be some mistake.
+  </td> </tr>
+</table>
+</p>
 
 @BGRNDEND{{}}
 
@@ -74,6 +89,7 @@ a sentence that expresses pure ability.
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 22).
 <li> @REF{{JPOD101-UI-S5-014}}.
+<li> @REF{{UDEMY-N2}}. Lesson 1.
 </ol>
 
 @include{{"grammar-footer.inc"}}
