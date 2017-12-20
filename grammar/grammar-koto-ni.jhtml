@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kotoni}}}} expresses the emotion or subjective judgement of the speaker.
 
@@ -36,6 +39,8 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
@@ -45,6 +50,7 @@
 <li> @REF{{NKZM-N2G}}. (p. 129).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+<li> @REF{{UDEMY-N2}}. Lesson 6.
 </ol>
 
 @include{{"grammar-footer.inc"}}

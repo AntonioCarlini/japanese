@@ -114,29 +114,35 @@
 <li> <a href=""></a>@HI{{bato}} @FG{{@KJ{{think}}:omo}}@HI{{u}}
 <li> <a href=""></a>@Vte{{}}@HI{{itadakerutoarigatain'desuga}}
 <li> <a href=""></a>@N{{}} @HI{{ni}} @FG{{@KJ{{apply}}:wiwiwi}}@HI{{jite}}(@HI{{ha}})@MIDDOT{{}} @HI{{ni}} @FG{{@KJ{{apply}}:wiwiwi}}@HI{{ji}}
-<li> <a href=""></a>@FG{{@KJ{{occasion}}:wiwiwi}}(@HI{{ni}})
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{occasion}}:wiwiwi}}@HI{{shite}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{occasion}}:wiwiwi}}@HI{{shi}}
-<li> <a href=""></a>@N{{}} @HI{{nitsukimashite}}
+<li> <a href="grammar-sai.html">@FG{{@KJ{{occasion}}:sai}}(@HI{{ni}})</a>
+<li> <a href="grammar-sai.html#nisaishite">@HI{{ni}}@FG{{@KJ{{occasion}}:sai}}@HI{{shite}}</a> @MIDDOT{{}}
+     <a href="grammar-sai.html">@HI{{ni}}@FG{{@KJ{{occasion}}:sai}}@HI{{shi}}</a>
+<li> <a href="grammar-tsukimashite-wa.html">@N{{}}@HI{{nitsukimashite}}</a>
 <li> <a href=""></a>@N{{}} @HI{{nitsuki}}
-<li> <a href=""></a>@N{{}} @HI{{ni}}@FG{{@KJ{{before}}:wiwiwi}}@FG{{@KJ{{stand*up}}:wiwiwi}}@HI{{xtsute}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{before}}:wiwiwi}}@FG{{@KJ{{stand*up}}:wiwiwi}}@HI{{chi}}
-<li> <a href=""></a>@HI{{xtsupoi}}
+<li> <a href="grammar-ni-saki-datte.html#before">@N{{}}@HI{{ni}}@FG{{@KJ{{before}}:sa}}@FG{{@KJ{{stand*up}}:kida}}@HI{{xtsute}}</a> @MIDDOT{{}} 
+     <a href="grammar-ni-saki-datte.html#masu">@HI{{ni}}@FG{{@KJ{{before}}:sa}}@FG{{@KJ{{stand*up}}:kida}}@HI{{chi}}</a>
+<li> <a href="grammar-ppoi.html">@HI{{xtsupoi}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter6">_</a>@KJ{{No.}}6@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@HI{{kotoni}}(@HI{{ha}})
-<li> <a href=""></a>@HI{{kotokara}}
-<li> <a href=""></a> @FG{{@KJ{{spirit}}:wiwiwi}} @MIDDOT{{}} @FG{{@KJ{{flavor}}:wiwiwi}}
-<li> <a href=""></a>@HI{{gachida}}
-<li> <a href=""></a>@HI{{ageku}}(@HI{{ni}})
+<li> <a href="grammar-koto-ni.html">@HI{{kotoni}}(@HI{{ha}})</a>
+<li> <a href="grammar-koto-kara.html">@HI{{kotokara}}</a>
+<li> <a href="grammar-gimi.html">@FG{{@KJ{{spirit^flavor}}:gimi}}</a>
+<li> <a href="grammar-gachi.html">@HI{{gachida}}</a>
+<li> <a href="grammar-ageku.html">@HI{{ageku}}(@HI{{ni}})</a>
 <li> <a href=""></a>@HI{{toshika}}@FG{{@KJ{{say}}:wiwiwi}}@HI{{iyouganai}}
-<li> <a href=""></a>@HI{{toiumonoda}}
-<li> <a href=""></a>@HI{{toiumonodehanai}}/@HI{{toiumonodemonai}}
-<li> <a href=""></a>@HI{{zunisumu}}/@HI{{naidesumu}}/@HI{{nakutesumu}}
-<li> <a href=""></a>@N{{}} @HI{{karashite}}
-<li> <a href=""></a>@N{{}} @HI{{hamochiron'}} @MIDDOT{{}} @HI{{hamotoyori}}
-<li> <a href=""></a>@N{{}} @HI{{nisoxtsute}}
+<li> <a href="grammar-to-iu-mono-da.html">@HI{{toiumonoda}}</a>
+<li> <a href="grammar-to-iu-mono-de-wa-nai.html">@HI{{toiumonodehanai}}</a> @MIDDOT{{}}
+     <a href="grammar-to-iu-mono-de-wa-nai.html">@HI{{toiumonodemonai}}</a>
+<li> <a href=""></a>@HI{{zunisumu}} @MIDDOT{{}}
+     <a href=""></a>@HI{{naidesumu}} @MIDDOT{{}}
+     <a href=""></a>@HI{{nakutesumu}}
+<li> <a href="grammar-kara-shite.html">@N{{}}@HI{{karashite}}</a>
+<li> <a href="grammar-wa-mochiron-mo.html">@N{{}}@HI{{hamochiron'}}</a> @MIDDOT{{}}
+     <a href="grammar-wa-moto-yori.html">@HI{{hamotoyori}}</a>
+<li> <a href="grammar-ni-sotte.html">@N{{}}@HI{{nisoxtsute}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter7">_</a>@KJ{{No.}}7@KJ{{chapter}}</h2>

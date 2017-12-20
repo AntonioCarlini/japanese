@@ -25,6 +25,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kotokara}}}} is used in this construction to mean that the preceding clause is the cause
 of the subsequent one. Often translated as "due to" or "from the fact that".
@@ -38,6 +41,8 @@ of the subsequent one. Often translated as "due to" or "from the fact that".
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -53,6 +58,7 @@ This is a formal expression used mainly in writing.
 <li> @REF{{NKZM-N2G}}. (p. 132).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}5@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 17).
+<li> @REF{{UDEMY-N2}}. Lesson 6.
 </ol>
 
 @include{{"grammar-footer.inc"}}
