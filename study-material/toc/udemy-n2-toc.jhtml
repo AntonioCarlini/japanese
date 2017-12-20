@@ -149,16 +149,18 @@
 
 <ol>
 <li> <a href=""></a>@HI{{toha}}@FG{{@KJ{{limit}}:kagi}}@HI{{ranai}}
-<li> <a href=""></a>@HI{{toiuyori}}
+<li> <a href="grammar-to-iu-yori.html">@HI{{toiuyori}}</a>
 <li> <a href=""></a>@HI{{toixtsutemo}}@FG{{@KJ{{overdo}}:wiwiwi}}@FG{{@KJ{{say}}:wiwiwi}}@HI{{dehanai}} @MIDDOT{{}} @HI{{toitemo}}@FG{{@KJ{{say}}:wiwiwi}}@HI{{i}}@FG{{@KJ{{overdo}}:wiwiwi}}@HI{{gidehanai}}
-<li> <a href=""></a>@HI{{nishiteha}}
-<li> <a href=""></a>@N{{}} @HI{{nishitara}} @MIDDOT{{}} @HI{{nisureba}}/@HI{{nishitemo}}
-<li> <a href=""></a>@HI{{mo}}@FG{{@KJ{{hit}}:wiwiwi}}@FG{{@KJ{{sort*of*thing}}:wiwiwi}}@HI{{da}}
+<li> <a href="grammar-ni-shite-wa.html">@HI{{nishiteha}}</a>
+<li> <a href="grammar-ni-shitara.html">@N{{}}@HI{{nishitara}}</a> @MIDDOT{{}}
+     <a href=""></a>@HI{{nisureba}} @MIDDOT{{}}
+     <a href=""></a>@HI{{nishitemo}}
+<li> <a href=""></a>@HI{{mo}}@FG{{@KJ{{hit}}:tou}}@FG{{@KJ{{sort*of*thing}}:zen}}@HI{{da}}
 <li> <a href=""></a>@HI{{youdeha}}
 <li> <a href=""></a>@HI{{younara}}(@HI{{ba}}) @MIDDOT{{}} @HI{{youdaxtsutara}} @MIDDOT{{}} @HI{{youdeareba}}
 <li> <a href=""></a>@Vru{{}}@HI{{hoka}}(@HI{{ha}})@HI{{nai}} @MIDDOT{{}} @Vru{{}}@HI{{yorihoka}}(@HI{{ha}})@HI{{nai}} @MIDDOT{{}} @HI{{hokashikataganai}}
-<li> <a href=""></a>@HI{{nihokanaranai}}
-<li> <a href=""></a>@HI{{karaniha}}
+<li> <a href="grammar-ni-hoka-naranai.html">@HI{{nihokanaranai}}</a>
+<li> <a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a>
 </ol>
 
 
