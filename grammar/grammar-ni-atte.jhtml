@@ -40,6 +40,23 @@ It acts to emphasise the noun to which it is attached.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="mo">@HI{{@EM{{niattemo}}}}</a> is a contradictory conjunction.
+It means "whatever the conditions".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{mountain^rice*field}}:yamada}}sanhadon'na@FG{{@KJ{{section^signature}}:busho}}@EM{{niattemo}}
+      @KT{{ri-da-shippu}}wo@FG{{@KJ{{discharge^brandish}}:hakki}}@FG{{@KJ{{exit^come}}:deki}}ru,
+      @FG{{@KJ{{elementary^clear*up}}:suba}}rashii@FG{{@KJ{{person^lumber}}:jinzai}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Yamada can exercise leadership in any department.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -49,6 +66,7 @@ It acts to emphasise the noun to which it is attached.
 <ol>
 <li> @REF{{NKZM-N1G}}. (p. 9).
 <li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 9.
 </ol>
 
 @include{{"grammar-footer.inc"}}

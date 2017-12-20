@@ -41,7 +41,7 @@
 <li> ~<a href=""></a>@N1{{}}@HI{{deare}}@N2{{}}@HI{{deare}} @MIDDOT{{}}
      ~<a href=""></a>@N1{{}}@HI{{dearouto}}@N2{{}}@HI{{dearouto}} @MIDDOT{{}}
      ~<a href=""></a>@N1{{}}@HI{{darouga}}@N2{{}}@HI{{darouga}}
-<li> ~<a href=""></a>@Vte{{}}@HI{{karatoiumono}}
+<li> ~<a href="grammar-te-kara-to-iu-mono.html">@Vte{{}}@HI{{karatoiumono}}</a>
 <li> ~<a href=""></a>@HI{{toha}} @MIDDOT{{}}
      ~<a href=""></a>@HI{{nante}}
 <li> ~<a href=""></a>@HI{{tohaie}}
@@ -83,7 +83,7 @@
      ~<a href=""></a>@HI{{nashideha}}
 <li> ~<a href=""></a>@FG{{@KJ{{say}}:i}}@HI{{wazumogana}}
 <li> ~<a href=""></a>@N{{}}@HI{{zukume}}
-<li> ~<a href=""></a>@Vru{{}}@HI{{nari}}
+<li> ~<a href="grammar-nari.html">@Vru{{}}@HI{{nari}}</a>
 <li> ~<a href=""></a>@N{{}}@HI{{naritomo}}
 <li> ~<a href=""></a>@HI{{nari}}~@HI{{nari}}
 <li> ~<a href=""></a>@HI{{narini}} @MIDDOT{{}}
@@ -145,7 +145,7 @@
 
 <ol>
 <li> ~<a href=""></a>@Vta{{}}@HI{{tameshiganai}}
-<li> ~<a href=""></a>@HI{{sobakara}}
+<li> ~<a href="grammar-soba-kara.html">@HI{{sobakara}}</a>
 <li> ~<a href=""></a>@HI{{dani}}
 <li> ~<a href=""></a>@HI{{narakiriganai}} @MIDDOT{{}}
      ~<a href=""></a>@Vba{{}}@HI{{kiriganai}}
@@ -239,8 +239,8 @@
      ~<a href=""></a>@HI{{mo@FG{{@KJ{{inter-}}:wiwi}}matte}}
 <li> ~<a href=""></a>@HI{{tote}}
 <li> ~<a href=""></a>@Vru{{}}@HI{{kotonashini}}
-<li> ~<a href=""></a>@N{{}}@HI{{niatte}}(@HI{{ha}}) @MIDDOT{{}}
-     ~<a href=""></a>@N{{}}@HI{{niattemo}}
+<li> ~<a href="grammar-ni-atte.html">@N{{}}@HI{{niatte}}(@HI{{ha}})</a> @MIDDOT{{}}
+     ~<a href="grammar-ni-atte.html#mo">@N{{}}@HI{{niattemo}}</a>
 <li> ~<a href=""></a>@Vte{{}}@HI{{mo@FG{{@KJ{{distinction}}:sa}}shi@FG{{@KJ{{branch}}:tsuka}}enai}}
 </ol>
 
