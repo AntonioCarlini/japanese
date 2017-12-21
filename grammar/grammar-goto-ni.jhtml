@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{gotoni}}}} is used to indicate that something happens regularly at a certain spacing in time or space.
 
@@ -45,12 +48,15 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOBJG}}. (p. 128).
+<li> @REF{{UDEMY-N2}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}

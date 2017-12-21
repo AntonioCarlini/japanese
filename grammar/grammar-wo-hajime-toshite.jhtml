@@ -22,6 +22,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 <a name="hajime">@N{{}}@HI{{@EM{{wohajime}}}} basically means "making @N{{}} the begining".
 @N{{}} is a representative example of a larger group.
@@ -36,6 +39,8 @@ The following clause makes a statement about the larger group that includes the 
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -54,6 +59,7 @@ The following clause makes a statement about the larger group that includes the 
 <li> @REF{{NKZM-N2G}}. (p. 20).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+<li> @REF{{UDEMY-N2}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}

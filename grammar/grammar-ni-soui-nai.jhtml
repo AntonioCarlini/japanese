@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{ni@KJ{{inter-^difference}}nai}}}} is used in formal speech to state the speaker's strong conviction that there is no mistake on his part
 in guessing something.
@@ -39,6 +42,8 @@ in guessing something.
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <p>
@@ -50,6 +55,7 @@ in guessing something.
 <ol>
 <li> @REF{{NKZM-N2G}}. (p. 101).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}
