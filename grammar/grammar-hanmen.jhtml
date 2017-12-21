@@ -24,6 +24,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @KJ{{anti-^mask}} presents the preceding clause and the main clause as positive and negative contrasts.
 The main clause is usually the negative side of the contrast.
@@ -38,6 +41,8 @@ It can often be translated as "while" or "on the other hand".
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -57,6 +62,7 @@ In the latter case it may optionally be preceded by @HI{{sono}}, but other demon
 <li> @REF{{NKZM-N3G}}. (p. 24).
 <li> @REF{{DOAJG}}. (p. 107).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 10.
 </ol>
 
 @include{{"grammar-footer.inc"}}

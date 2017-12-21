@@ -213,18 +213,27 @@
 <h2><a class="navtarget" name="chapter10">_</a>@KJ{{No.}}10@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@HI{{ge}}
-<li> <a href=""></a>@HI{{nagara}}(@HI{{mo}})
-<li> <a href=""></a>@FG{{@KJ{{extremity}}:wiwiwi}}(@HI{{ni}})
-<li> <a href=""></a>@N{{}} @HI{{womeguxtsute}} @MIDDOT{{}} @HI{{womeguri}} @MIDDOT{{}} @HI{{womeguru}}
-<li> <a href=""></a>@N{{}}@HI{{wo}}@FG{{@KJ{{exclude}}:wiwiwi}}@HI{{ite}} @MIDDOT{{}} @HI{{wo}}@FG{{@KJ{{exclude}}:wiwiwi}}@HI{{ki}}
-<li> <a href=""></a>@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:wiwiwi}}@HI{{duite}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{fundamentals}}:wiwiwi}}@HI{{duki}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{fundamentals}}:wiwiwi}}@HI{{duku}} @MIDDOT{{}} @HI{{ni}}@FG{{@KJ{{fundamentals}}:wiwiwi}}@HI{{duita}}
-<li> <a href=""></a>@HI{{warini}}(@HI{{ha}})
-<li> <a href=""></a>@HI{{dakeaxtsute}} @MIDDOT{{}} @HI{{dakeni}} @MIDDOT{{}} @HI{{dakenokotohaaru}}
-<li> <a href=""></a>@HI{{ni}}@FG{{@KJ{{overdo}}:wiwiwi}}@HI{{ginai}}
-<li> <a href=""></a>@HI{{nominarazu}}
-<li> <a href=""></a>@FG{{@KJ{{anti-}}:wiwiwi}}@FG{{@KJ{{mask}}:wiwiwi}}
-<li> <a href=""></a>@HI{{zunihairarenai}} @MIDDOT{{}} @HI{{naidehairarenai}}
+<li> <a href="grammar-ge.html">@HI{{ge}}</a>
+<li> <a href="grammar-nagara-although.html">@HI{{nagara}}(@HI{{mo}})</a>
+<li> <a href="grammar-sue-ni.html">@FG{{@KJ{{extremity}}:sue}}(@HI{{ni}})</a>
+<li> <a href="grammar-wo-megutte.html">@N{{}}@HI{{womeguxtsute}}</a> @MIDDOT{{}}
+     <a href="grammar-wo-megutte.html#meguri">@N{{}}@HI{{womeguri}}</a> @MIDDOT{{}}
+     <a href="grammar-wo-megutte.html#meguru">@N{{}}@HI{{womeguru}}</a>
+<li> <a href=""></a>@N{{}}@HI{{wo}}@FG{{@KJ{{exclude}}:nozo}}@HI{{ite}} @MIDDOT{{}}
+     <a href=""></a>@HI{{wo}}@FG{{@KJ{{exclude}}:nozo}}@HI{{ki}}
+<li> <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duite}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duki}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duku}}</a> @MIDDOT{{}}
+     <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duita}}</a>
+<li> <a href="grammar-wari-ni-wa.html">@HI{{warini}}(@HI{{ha}})</a>
+<li> <a href=""></a>@HI{{dakeaxtsute}} @MIDDOT{{}}
+     <a href="grammar-dake-ni.html">@HI{{dakeni}}</a> @MIDDOT{{}}
+     <a href=""></a>@HI{{dakenokotohaaru}}
+<li> <a href="grammar-ni-suginai.html">@HI{{ni}}@FG{{@KJ{{overdo}}:su}}@HI{{ginai}}</a>
+<li> <a href="grammar-nominarazu.html">@HI{{nominarazu}}</a>
+<li> <a href="grammar-hanmen.html">@FG{{@KJ{{anti-}}:han}}@FG{{@KJ{{mask}}:men}}</a>
+<li> <a href=""></a>@HI{{zunihairarenai}} @MIDDOT{{}}
+     <a href=""></a>@HI{{naidehairarenai}}
 </ol>
 
 </div>
