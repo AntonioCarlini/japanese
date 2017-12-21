@@ -26,6 +26,9 @@
 <h2> Definition </h2>
 
 <p>
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 @HI{{@EM{{dokorodehanai}}}} is a phrase indicating that an action or state is simply impossible due to some adverse situation.
 
 <table class="sentence" border=0>
@@ -37,6 +40,8 @@
   </td> </tr>
 </table>
 </p>
+
+@BGRNDEND{{}}
 
 <h2> Notes </h2>
 
@@ -62,6 +67,7 @@ occurs at the end of a sentence.
 <li> @REF{{NKZM-N2G}}. (p. 132).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{JPOD101-UI-S4-024}}.
+<li> @REF{{UDEMY-N2}}. Lesson 9.
 </ol>
 
 @include{{"grammar-footer.inc"}}

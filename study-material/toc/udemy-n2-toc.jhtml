@@ -191,18 +191,23 @@
 <h2><a class="navtarget" name="chapter9">_</a>@KJ{{No.}}9@KJ{{chapter}}</h2>
 
 <ol>
-<li> <a href=""></a>@HI{{dokorodehanai}}
-<li> <a href=""></a>@HI{{dokoroka}}
-<li> <a href=""></a>@Vru{{}}@HI{{tokorodaxtsuta}}
-<li> <a href=""></a>@Vte{{}}@HI{{hairarenai}}
-<li> <a href=""></a>@Vte{{}}@HI{{bakarihairarenai}}
-<li> <a href=""></a>@HI{{amari}}
-<li> <a href=""></a>@HI{{karatoixtsute}}
-<li> <a href=""></a>@HI{{nimokakawarazu}}
-<li> <a href=""></a>@N{{}}@HI{{nokotodakara}}
-<li> <a href=""></a>@N{{}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kide}} @MIDDOT{{}} @FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kini}} @MIDDOT{{}} @HI{{wo}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kinishite}} @MIDDOT{{}} @HI{{wo}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kinishite}}
-<li> <a href=""></a>@N{{}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kideha}} @MIDDOT{{}} @FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kiniha}} @MIDDOT{{}} @HI{{wo}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{kinishiteha}}
-<li> <a href=""></a>@Vmasustem{{}}@FG{{@KJ{{slip*out}}:wiwiwi}}@HI{{ku}}
+<li> <a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
+<li> <a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a>
+<li> <a href="grammar-tokoro-datta.html">@Vru{{}}@HI{{tokorodaxtsuta}}</a>
+<li> <a href="grammar-te-wa-irarenai.html">@Vte{{}}@HI{{hairarenai}}</a>
+<li> <a href="grammar-te-bakari-wa-irarenai.html">@Vte{{}}@HI{{bakarihairarenai}}</a>
+<li> <a href="grammar-amari.html#excessive">@HI{{amari}}</a>
+<li> <a href="grammar-kara-to-itte.html">@HI{{karatoixtsute}}</a>
+<li> <a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
+<li> <a href="grammar-no-koto-dakara.html">@N{{}}@HI{{nokotodakara}}</a>
+<li> <a href="grammar-nuki-ni-shite.html">@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kide}}</a> @MIDDOT{{}}
+     <a href="grammar-nuki-ni-shite.html">@FG{{@KJ{{slip*out}}:nu}}@HI{{kini}}</a> @MIDDOT{{}}
+     <a href="grammar-nuki-ni-shite.html">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishite}}</a> @MIDDOT{{}}
+     <a href="grammar-nuki-ni-shite.html">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}</a>
+<li> <a href=""></a>@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kideha}} @MIDDOT{{}}
+     <a href=""></a>@FG{{@KJ{{slip*out}}:nu}}@HI{{kiniha}} @MIDDOT{{}}
+     <a href=""></a>@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}
+<li> <a href="grammar-nuku-suffix.html">@Vmasustem{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{ku}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter10">_</a>@KJ{{No.}}10@KJ{{chapter}}</h2>
