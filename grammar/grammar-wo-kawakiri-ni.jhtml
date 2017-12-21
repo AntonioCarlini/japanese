@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wokawakirini}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wokawakirini}}" grammar="@HI{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}"}}
+@GRMIDX{{index="@HI{{wokawakiritoshite}}" grammar="@HI{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}ritoshite}}"}}
+
+<body>
+
+<h1>@HI{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{no@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}} indicates the beginning of something or the main example of something.
+The following clause is the same sort of action or event and develops the meaning.
+The marked action or event is the impetus for a series of similar actions or events.
+It is hardly ever used with natural phenomena or unfavourable events.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{next}}:tsugi}}no@FG{{@KJ{{period^end}}:kimatsu}}@KT{{tesuto}}@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rinishite}},
+      @FG{{@KJ{{me}}:boku}}ha@FG{{@KJ{{every^day}}:mainichi}}@FG{{@KJ{{}}:benkyou}}surutsumorida.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Starting with the next end-of-term exam, I am going to study every day.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 12).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
