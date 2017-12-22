@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{womotte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{womotte}}" grammar="@HI{{womotte}}"}}
+
+<body>
+
+<h1>@HI{{womotte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{womotte}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{womochimashite}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="time-end">@HI{{@EM{{womotte}}}} when used with a time noun, typically marks the start or end of a period of time. It is a formal expression.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{book^day}}:honjitsu}}no@FG{{@KJ{{occupation^profession}}:eigyou}}ha@FG{{@KJ{{noon^behind}}:gogo}}6@FG{{@KJ{{time}}:ji}}@EM{{womotte}}
+      @FG{{@KJ{{end^complete}}:shuuryou}}itashimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The store will close today at six o’clock.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="mochimashite">@HI{{@EM{{womochimashite}}}} is also used and is even more formal.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kore@EM{{womochimashite}}@FG{{@KJ{{book^day}}:honjitsu}}no@FG{{@KJ{{meeting^deliberation}}:kaigi}}woo@FG{{@KJ{{open}}:hira}}kitosaseteitadakimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At this point I would like to close this meeting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="means">@HI{{@EM{{womotte}}}} is also used to indicate a means. It is a formal expression in this usage too.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{heat^idea}}:kitsui}}to@FG{{@KJ{{toil^power}}:doryoku}}@EM{{womotte}},@FG{{@KJ{{attend^matter}}:shigoto}}woshitekudasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You are expected to work enthusiastically.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 13).
+<li> @REF{{NKZM-N1G}}. (p. 50).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
