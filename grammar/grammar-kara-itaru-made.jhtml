@@ -23,6 +23,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+
+@BGRND{{}}
 <p>
 @HI{{@EM{{kara}}~@EM{{ni@FG{{@KJ{{climax}}:ita}}rumade}}}} is used to cite items at either extreme of a group so that the following statement can be applied to the whole group, including the extremes.
 It means "from ~ to ~".
@@ -38,12 +41,46 @@ It means "from ~ to ~".
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="ni-itaru-made">@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}rumade}}}}</a> can be used without @HI{{kara}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{watashino@FG{{@KJ{{study^exam}}:gakkou}}no@FG{{@KJ{{clothing^attire}}:fukusou}}ni@FG{{@KJ{{stern}}:kibi}}shii.
+    @FG{{@KJ{{system^clothing}}:seifuku}}no@FG{{@KJ{{don^direction}}:kikata}}hamochiron,@KT{{heasutairu}}ya@KT{{suka-to}}no@FG{{@KJ{{long}}:naga}}sa
+    @EM{{ni@KJ{{climax}}rumade}}@FG{{@KJ{{pour^idea}}:chuui}}sareru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    My school's rules on clothing are strict. The way one wears the uniform obviously but even hairstyle and skirt length is regulated.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ni-itatte-wa">@HI{{@EM{{niitatteha}}}}</a> is also used as a compound particle that indicates an extreme example.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{}}
+  </td> </tr>
+  <tr class="en"> <td>
+    
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 24).
+<li> @REF{{NKZM-N1G}}. (p. 12).
+<li> @REF{{DOAJG}}. (p. 384).
 </ol>
 
 @include{{"grammar-footer.inc"}}
