@@ -693,6 +693,7 @@ JHTML_SRCS += grammar-wari-ni-wa.jhtml
 JHTML_SRCS += grammar-wasureru-suffix.jhtml
 JHTML_SRCS += grammar-wo-chuushin-ni.jhtml
 JHTML_SRCS += grammar-wo-hajime-toshite.jhtml
+JHTML_SRCS += grammar-wo-kagiri-ni.jhtml
 JHTML_SRCS += grammar-wo-kawakiri-ni.jhtml
 JHTML_SRCS += grammar-wo-komete.jhtml
 JHTML_SRCS += grammar-wo-megutte.jhtml

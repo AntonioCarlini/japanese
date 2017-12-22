@@ -2375,6 +2375,7 @@ class KD
     "dawn" => Kanji.new(2448, 26329, ["SHYO"], ["akebono"], [""], ["dawn","daybreak"], 9, 1),
     "rise" => Kanji.new(2449, 26114, ["KOU","GOU"], ["a.garu","taka.i","taka.buru"], ["aki","akira","taka","takashi","noboru"], ["rise"], 9, 1),
     "flourishing" => Kanji.new(2450, 26106, ["OU","KYOU","GOU"], ["kagaya.ki","utsukushi.i","sakan"], [""], ["flourishing","successful","beautiful","vigorous"], 8, 1),
+    "last*day*of*the*month" => Kanji.new(2452, 26214, ["KAI"], ["tsugomori","kura.i","misoka","kura.mu"], ["mori"], ["last*day*of*the*month","dark","disappear"], 9, 0),
     "kidney" => Kanji.new(2453, 33102, ["JIN"], [""], [""], ["kidney"], 8, 0),
     "thigh" => Kanji.new(2454, 32929, ["KO"], ["mata","momo"], [""], ["thigh","crotch"], 8, 0),
     "pus" => Kanji.new(2455, 33215, ["NOU","DOU"], ["u.mu","umi"], [""], ["pus","fester","discharge"], 0, 0),
