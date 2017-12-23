@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@EM{{wooite}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wooite}}" grammar="@HI{{wooite}}"}}
+
+<body>
+
+<h1>@HI{{@EM{{wooite}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wooite}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="wooite">@N{{}}@HI{{@EM{{wooite}}}}</a> expresses a limitation. It indicates that there is nothing else besides what is stated.
+It is often used to state that something is much better than any other option.
+It is always followed by a negative predicate.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{general^logic^large^retainer}}:souridaijin}}no@FG{{@KJ{{suitable^responsibility^someone}}:tekininsha}}ha@FG{{@KJ{{he}}:kare}}@EM{{wooite}}
+      ha@FG{{@KJ{{consider}}:kanga}}erarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I think he is the only person who is qualified to be the president.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="hoka">It</a> often is used in the form @HI{{@EM{{wooite}}hokani}}(@HI{{ha}})@Vnai{{}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kore@EM{{wooite}}hokani@FG{{@KJ{{method^direction}}:houhou}}hanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no other way.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 16).
+<li> @REF{{UDEMY-N1}}. Lesson 1.
+<li> @REF{{DOAJG}}. (p. 499).
+<li> @REF{{NSM-N2G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

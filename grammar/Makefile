@@ -699,6 +699,7 @@ JHTML_SRCS += grammar-wo-kawakiri-ni.jhtml
 JHTML_SRCS += grammar-wo-komete.jhtml
 JHTML_SRCS += grammar-wo-megutte.jhtml
 JHTML_SRCS += grammar-wo-motte.jhtml
+JHTML_SRCS += grammar-wo-oite.jhtml
 JHTML_SRCS += grammar-wo-taishou-ni.jhtml
 JHTML_SRCS += grammar-wo-tooshite.jhtml
 JHTML_SRCS += grammar-wo-toshite.jhtml
