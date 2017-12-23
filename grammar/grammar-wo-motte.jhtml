@@ -55,7 +55,7 @@
 
 @BGRND{{}}
 <p>
-<a name="means">@HI{{@EM{{womotte}}}} is also used to indicate a means. It is a formal expression in this usage too.
+<a name="means">@HI{{@EM{{womotte}}}} can be used to indicate a means. It is a formal expression in this usage too.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -63,6 +63,22 @@
   </td> </tr>
   <tr class="en"> <td>
       You are expected to work enthusiastically.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="means-de">@HI{{@EM{{demotte}}}} acts to emphasise the particle @HI{{de}}. This, like @HI{{womotte}} expresses a way or a means but it is
+used in spoken language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{now^day}}:kyou}}madeno@FG{{@KJ{{exertion^strong}}:benkyou}}no@FG{{@KJ{{turn*into^fruit}}:seika}}wo@KT{{tesuto}}@EM{{demotte}}
+      @FG{{@KJ{{evidence^bright}}:shoumei}}shitemiseru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In this exam I will prove the results of my study so far.
   </td> </tr>
 </table>
 </p>
@@ -76,6 +92,8 @@
 <ol>
 <li> @REF{{NKZM-N1G}}. (p. 13).
 <li> @REF{{NKZM-N1G}}. (p. 50).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}3@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}
