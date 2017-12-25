@@ -463,9 +463,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{monosarukotonagara}}                                                   </td>
+  <td class="left"> <a href="grammar-mo-saru-koto-nagara.html">@HI{{monosarukotonagara}}</a>                                </td>
   <td class="left"> DOAJG, p. 283                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{moshikuwa}}                                                            </td>
@@ -578,9 +578,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{naradeha}}(@HI{{no}})                                                  </td>
+  <td class="left"> <a href="grammar-nara-de-wa.html">@HI{{naradeha}}(@HI{{no}})</a>                                        </td>
   <td class="left"> DOAJG, p. 350                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-narabi-ni.html">@HI{{narabini}}</a>                                                    </td>
@@ -1088,7 +1088,7 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{haoroka}}                                                              </td>
+  <td class="left"> <a href="grammar-wa-oroka.html">@HI{{haoroka}}</a>                                                      </td>
   <td class="left"> DOAJG, p. 694                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>

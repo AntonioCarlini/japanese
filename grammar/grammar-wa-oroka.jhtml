@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{haoroka}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{haoroka}}" grammar="@HI{{haoroka}}"}}
+
+<body>
+
+<h1>@HI{{haoroka}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{no@EM{{haoroka}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{haoroka}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{haoroka}}}} is usually used in the sentence pattern X@HI{{@EM{{haoroka}}}}Y@HI{{sae}}~@HI{{nai}} to express that something goes without saying.
+X, which has a lower degree of something, is presented first in order to emphasise the higher degree of something in Y.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{private}}:watashi}}ha,@FG{{@KJ{{sea^outside^trip^going}}:kaigairyokou}}@EM{{haoroka}}@FG{{@KJ{{country^inside^trip^going}}:kokunairyokou}}@EM{{sae}},
+      hotondo@FG{{@KJ{{going}}:i}}ttakotoga@EM{{nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I've hardly ever travelled in this country let alone abroad.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="other">As</a> well as @HI{{sae}} in the above sentence pattern, @HI{{mo}}, @HI{{made}} and @HI{{sura}} are often used.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{good*luck^well}}:yoshii}}sanha@KT{{arerugi-}}gahidokute,@FG{{@KJ{{egg}}:tamago}}@EM{{haoroka}}@KT{{pan}}@EM{{mo}}@FG{{@KJ{{eat}}:ta}}berare@EM{{nai}}souda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Yoshii-san has terrible allergies, she can't even eat bread, let alone eggs.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This is a formal expression that has an old-fashioned feel.
+In speech use <a href="grammar-dokoro-ka.html">@HI{{dokoroka}}</a> instead.
+</p>
+
+<p>
+@HI{{@EM{{haoroka}}}} is a shortened form of @HI{{ha@FG{{@KJ{{say}}:i}}umoorokada}}, which means "it is foolish to talk about".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 694).
+<li> @REF{{NKZM-N1G}}. (p. 17).
+<li> @REF{{UDEMY-N1}}. Lesson 10.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

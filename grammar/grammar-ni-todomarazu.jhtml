@@ -28,7 +28,6 @@
 <p>
 @HI{{@EM{{nitodomarazu}}}} is a phrase that indicates that something goes beyond a spatial or physical boundary.
 It may be translated as "doesn't stop with" or "not limited to".
-@HI{{todomarazu}} is an archaic negative form of the verb @HI{{todomararu}}, "to stay in one place for an extended period of time".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -45,10 +44,17 @@ It may be translated as "doesn't stop with" or "not limited to".
 
 <h2> Notes </h2>
 
+<p>
+@HI{{todomarazu}} is an archaic negative form of the verb @HI{{todomararu}}, "to stay in one place for an extended period of time".
+</p>
+
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 440).
+<li> @REF{{NKZM-N1G}}. (p. 16).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 2.
 </ol>
 
 @include{{"grammar-footer.inc"}}
