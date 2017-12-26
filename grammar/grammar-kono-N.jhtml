@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kono}}N" grammar="@HI{{kono}}@N{{}}"}}
+
+<body>
+
+<h1>@HI{{kono}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{kono}}}}@N{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+To apply a new label to a word or sentence that has just been meantioned @HI{{@EM{{kono}}}}, rather than @HI{{sono}}, is used.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{[@KT{{wa-rudokappu}}2010de@KT{{supein}}ga@FG{{@KJ{{tenderness^victory}}:yuushou}}shita.]
+      @EM{{kono}}@KT{{nyu-su}}wo@FG{{@KJ{{private}}:watashi}}ha@FG{{@KJ{{ill^Inst.}}:byouin}}de@FG{{@KJ{{hear}}:ki}}ita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      "Spain has won the 2010 World Cup". I heard this news when I was in hospital.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
