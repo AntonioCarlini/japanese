@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{niyorazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niyorazu}}" grammar="@HI{{niyorazu}}"}}
+
+<body>
+
+<h1>@HI{{niyorazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{niyorazu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="irrespective">@HI{{@EM{{niyorazu}}}}</a> means "irrespective of something" or "without corresponding to something".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{risutora}}@EM{{niyorazu}}}}(@HI{{ni}})@HI{{kono@FG{{@KJ{{meeting^company}}:kaisha}}wo@FG{{@KJ{{salvation}}:suku}}u@FG{{@KJ{{direction^method}}:houhou}}hanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There is no way to save this company without restructuring it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="appearance">@HI{{@EM{{@FG{{@KJ{{see}}:mi}}kakeniyorazu}}}}</a> means "despite outward appearances".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ha@FG{{@KJ{{see}}:mi}}kakeniyorazu@FG{{@KJ{{stubborn^harden}}:ganko}}no@FG{{@KJ{{male}}:otoko}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although he doesn't look it, he's a stubborn man.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="all-cases">@HI{{@EM{{@FG{{@KJ{{what^matter}}:nanigoto}}niyorazu}}}}</a> means "in all cases".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{what^matter}}:nanigoto}}niyorazu,@FG{{@KJ{{pour^idea}}:chuui}}wo@FG{{@KJ{{neglect}}:okota}}ranaikotoga@FG{{@KJ{{liver^heart}}:kanjin}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In all things it is crucial to not stop paying attention.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 452).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

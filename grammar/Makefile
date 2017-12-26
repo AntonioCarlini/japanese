@@ -359,6 +359,7 @@ JHTML_SRCS += grammar-ni-tsuki-ratio.jhtml
 JHTML_SRCS += grammar-ni-tsurete.jhtml
 JHTML_SRCS += grammar-ni-wa.jhtml
 JHTML_SRCS += grammar-ni-watatte.jhtml
+JHTML_SRCS += grammar-ni-yorazu.jhtml
 JHTML_SRCS += grammar-ni-yoru-to.jhtml
 JHTML_SRCS += grammar-ni-yotte-ni-yoru.jhtml
 JHTML_SRCS += grammar-ni-yotte.jhtml

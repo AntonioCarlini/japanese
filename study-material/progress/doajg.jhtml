@@ -733,9 +733,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{niyorazu}}                                                             </td>
+  <td class="left"> <a href="grammar-ni-yorazu.html#irrespective">@HI{{niyorazu}}</a>                                       </td>
   <td class="left"> DOAJG, p. 452                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ni-yoru-to.html">@HI{{niyoruto}}</a>                                                   </td>
