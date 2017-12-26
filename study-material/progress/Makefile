@@ -21,12 +21,15 @@ JHTML_SRCS += kzm-n3g.jhtml
 JHTML_SRCS += kzm-n3g-exercises.jhtml
 JHTML_SRCS += mnn-int.jhtml
 JHTML_SRCS += mnn.jhtml
+JHTML_SRCS += nihongonomori-n2-niteiru-bunpou.jhtml
 JHTML_SRCS += nsm-n1g.jhtml
 JHTML_SRCS += nsm-n2g.jhtml
 JHTML_SRCS += nsm-n2g-exercises.jhtml
 JHTML_SRCS += nsm-n3g.jhtml
 JHTML_SRCS += nsm-n3g-exercises.jhtml
 JHTML_SRCS += study-material.jhtml
+JHTML_SRCS += udemy-n1.jhtml
+JHTML_SRCS += udemy-n2.jhtml
 
 TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH))) 
 

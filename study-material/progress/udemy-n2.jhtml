@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Udemy N2 Course</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<h1>Udemy N2 Course</h1>
+
+<table class="progress">
+<tr>
+  <th> &nbsp; </th> <th colspan="2"> SRS </th> <th colspan="2"> Studied </th> <th> Grammar </th>
+</tr>
+<tr>
+  <th> Chapter </th>
+  <th> Vocabulary </th> <th> Sentences </th> <th> Grammar </th> <th> Exercises </th> <th> Notes Made </th>
+</tr>
+<tr>
+  <td class=""> 1 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class=""> 2 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 3 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 4 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 5 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 6 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 7 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 8 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 9 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 10 </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+</table>
+
+</body>
+</html>
