@@ -38,8 +38,8 @@
 <li> ~<a href=""></a>@HI{{bekumonai}}
 <li> ~<a href=""></a>@N{{}}@HI{{deare}} @MIDDOT{{}}
      ~<a href=""></a>@N{{}}@HI{{dearouto}}
-<li> ~<a href=""></a>@N1{{}}@HI{{deare}}@N2{{}}@HI{{deare}} @MIDDOT{{}}
-     ~<a href=""></a>@N1{{}}@HI{{dearouto}}@N2{{}}@HI{{dearouto}} @MIDDOT{{}}
+<li> ~<a href="grammar-deare-deare.html#deare-deare">@N1{{}}@HI{{deare}}@N2{{}}@HI{{deare}}</a> @MIDDOT{{}}
+     ~<a href="grammar-deare-deare.html#dearouto-dearouto">@N1{{}}@HI{{dearouto}}@N2{{}}@HI{{dearouto}}</a> @MIDDOT{{}}
      ~<a href=""></a>@N1{{}}@HI{{darouga}}@N2{{}}@HI{{darouga}}
 <li> ~<a href="grammar-te-kara-to-iu-mono.html">@Vte{{}}@HI{{karatoiumono}}</a>
 <li> ~<a href=""></a>@HI{{toha}} @MIDDOT{{}}
@@ -231,7 +231,7 @@
 <li> ~<a href=""></a>@Vnaistem{{}}@HI{{naimademo}}
 <li> ~<a href=""></a>@HI{{tomadehaikanaiga}} @MIDDOT{{}}
      ~<a href=""></a>@HI{{tomadeha@FG{{@KJ{{say}}:i}}wanaitoshitemo}}
-<li> ~<a href=""></a>@N1{{}}@HI{{toiwazu}}@N2{{}}@HI{{toiwazu}}
+<li> ~<a href="grammar-to-iwazu-to-iwazu.html">@N1{{}}@HI{{toiwazu}}@N2{{}}@HI{{toiwazu}}</a>
 <li> ~<a href=""></a>@HI{{mo@FG{{@KJ{{same^sort*of*thing}}:douzen}}da}} @MIDDOT{{}}
      ~<a href=""></a>@HI{{mo@FG{{@KJ{{same^sort*of*thing}}:douzen}}no}}
 <li> ~<a href=""></a>@HI{{to@FG{{@KJ{{inter-}}:wiwi}}matte}} @MIDDOT{{}}

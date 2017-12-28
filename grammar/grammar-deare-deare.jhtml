@@ -26,7 +26,8 @@
 
 @BGRND{{}}
 <p>
-~@HI{{@EM{{deare}},}}~@HI{{@EM{{deare}}}} is a structure used to mean "whether it is ~ or ~".
+<a name="deare-deare">~@HI{{@EM{{deare}},}}~@HI{{@EM{{deare}}}}</a> is a structure used to mean "whether it is ~ or ~".
+This sentence pattern is used when neither of the things mentioned will influence a decision or a course of action.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -38,14 +39,37 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="dearouto-dearouto">~@HI{{@EM{{dearouto}},}}~@HI{{@EM{{dearouto}}}}</a> can be used with the same meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{male}}:otoko}}@EM{{dearouto}},@FG{{@KJ{{woman^life}}:josei}}@EM{{dearouto}},@FG{{@KJ{{person^interval}}:ningen}}toshiteno
+      @FG{{@KJ{{authority^profit}}:kenri}}ha@FG{{@KJ{{same}}:onaji}}hazuda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whether one is a man or a woman, one's rights as a human being should be the same.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+~@HI{{demo}}~@HI{{demo}} can replace ~@HI{{@EM{{deare}}}}~@HI{{@EM{{deare}}}} with no change in meaning. 
+The only difference is that the former is used in both spoken and written Japanese, whereas the latter occurs primarily in written Japanese.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 70).
+<li> @REF{{NKZM-N1G}}. (p. 20).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}2@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 1.
 </ol>
 
 @include{{"grammar-footer.inc"}}

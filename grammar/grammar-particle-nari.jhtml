@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nari}}}} is a particle that indicates a choice ("whether or not").
+<a name="two-choices">@HI{{@EM{{nari}}}}</a> is a particle that indicates a choice ("whether or not").
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -102,6 +102,7 @@ The expression @HI{{@KJ{{large}}@EM{{nari}}@KJ{{little}}@EM{{nari}}}} indicates 
 <ol>
 <li> @REF{{AAP}}. (p. 117).
 <li> @REF{{DOIJG}}. (p. 223).
+<li> @REF{{NKZM-N1G}}. (p. 20).
 </ol>
 
 @include{{"grammar-footer.inc"}}

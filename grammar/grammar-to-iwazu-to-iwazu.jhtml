@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toiwazu}}~@HI{{toiwazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toiwazu}}~@HI{{toiwazu}}" grammar="@HI{{toiwazu}}~@HI{{toiwazu}}"}}
+
+<body>
+
+<h1>@HI{{toiwazu}}~@HI{{toiwazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{toiwazu}}}}@N2{{}}@HI{{@EM{{toiwazu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="many-other">@HI{{@EM{{toiwazu}}}}~@HI{{@EM{{toiwazu}}}}</a> is used to present two examples of something where
+many other examples also apply.
+
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{shibarakusuruto,@FG{{@KJ{{discharge^advance}}:hasshin}}ga@FG{{@KJ{{neck}}:kubi}}@EM{{to@KJ{{say}}wazu}}@FG{{@KJ{{hand^leg}}:teashi}}@EM{{to@KJ{{say}}wazu}},
+      @FG{{@KJ{{whole^somebody}}:zenshin}}ni@FG{{@KJ{{wide}}:hi}}rogatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Some time later, a rash spread over my neck, hands, feet and all over the rest of my body.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="whether">When</a> @HI{{@EM{{toiwazu}}}}~@HI{{@EM{{toiwazu}}}} is used in a case where no other examples apply, the meaning is "whether this case or that case".
+
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{elder*sister}}:ane}}nouchiha@FG{{@KJ{{daytime}}:hiru}}@EM{{to@KJ{{say}}wazu}}@FG{{@KJ{{night}}:yoru}}@EM{{to@KJ{{say}}wazu}},@FG{{@KJ{{one^day^in}}:ichinichijuu}}@KT{{terebi}}wo
+      tsukeppanashinishiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      At my (elder) sister's house the TV is on all the time, day or night.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 21).
+<li> @REF{{DOAJG}}. (p. 643).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}2@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 9.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -88,11 +88,11 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{nari}}@JDOTS3{{}}@HI{{nari}}}
-<li> ~<a href=""></a>@HI{{dearu}}@JDOTS3{{}}@HI{{dearu}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{dearouto}}@JDOTS3{{}}@HI{{dearouto}}
-<li> ~<a href=""></a>@HI{{toii}}@JDOTS3{{}}@HI{{toii}}
-<li> ~<a href=""></a>@HI{{toiwazu}}@JDOTS3{{}}@HI{{toiwazu}}
+<li> ~<a href="grammar-particle-nari.html#two-choices">@HI{{nari}}@JDOTS3{{}}@HI{{nari}}}</a>
+<li> ~<a href="grammar-deare-deare.html">@HI{{deare}}@JDOTS3{{}}@HI{{deare}}</a> @MIDDOT{{}}
+     ~<a href="grammar-deare-deare.html#dearouto-dearouto">@HI{{dearouto}}@JDOTS3{{}}@HI{{dearouto}}</a>
+<li> ~<a href="grammar-to-ii-to-ii.html">@HI{{toii}}@JDOTS3{{}}@HI{{toii}}</a>
+<li> ~<a href="grammar-to-iwazu-to-iwazu.html">@HI{{toiwazu}}@JDOTS3{{}}@HI{{toiwazu}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
