@@ -396,6 +396,7 @@ JHTML_SRCS += grammar-ori-ni.jhtml
 JHTML_SRCS += grammar-osore-ga-aru.jhtml
 JHTML_SRCS += grammar-owaru-suffix.jhtml
 JHTML_SRCS += grammar-oyobi.jhtml
+JHTML_SRCS += grammar-oyoso-ni.jhtml
 JHTML_SRCS += grammar-particle-dai.jhtml
 JHTML_SRCS += grammar-particle-dake.jhtml
 JHTML_SRCS += grammar-particle-dano.jhtml
