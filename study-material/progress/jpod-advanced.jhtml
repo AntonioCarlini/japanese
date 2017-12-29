@@ -1259,56 +1259,56 @@ Bonus: #15, #16: NOT present and verified.</br>
   <th> Session </th>
   <th> Audio </th> <th> Dialog </th> <th> Review </th>
   <th> Lesson </th> <th> Embedded </th> <th> Kanji </th> <th> SRS </th>
-  <th> Shadowed </th> <th> Lesson time </th> <th> Dialogue time </th>
+  <th> Shadowed </th> <th> Lesson time <a href="#L5-fn"><sup>&dagger;</sup></a> </th> <th> Dialogue time </th>
 </tr>
 <tr>
   <td class="done"> 1 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 7'09" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 2 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 8'09" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 3 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 7'58" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 4 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 8'45" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 5 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 7'09" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 6 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 6'21" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 7 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 7'07" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 8 </td>
@@ -1322,21 +1322,21 @@ Bonus: #15, #16: NOT present and verified.</br>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 6'20" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 10 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 6'30" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 11 </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class=""> </td>
-  <td class=""> </td> <td class="">  </td> <td class="">  </td>
+  <td class=""> </td> <td class=""> 6'14" </td> <td class="">  </td>
 </tr>
 <tr>
   <td class="done"> 12 </td>
@@ -1437,6 +1437,8 @@ Bonus: #15, #16: NOT present and verified.</br>
   <td class=""> </td> <td class="">  </td> <td class="">  </td>
 </tr>
 </table>
+
+<a name="L5-fn"><sup>&dagger;</sup></a> Lessons have been edited to remove English announcements at the start and the end.
 
 <h3><a name="AA-S6">Advanced Audio Blog - Season 6</a></h3>
 
