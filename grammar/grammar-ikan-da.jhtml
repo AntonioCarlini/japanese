@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ikan}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ikan}}" grammar="@HI{{ikan}}"}}
+
+<body>
+
+<h1>@HI{{ikan}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}(@HI{{no}})@HI{{@EM{{ikan}}}}(@HI{{da}})}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="da">@HI{{@EM{{ikanda}}}}</a> follows a noun and indicates that the noun depends on whatever the preceding part of the sentence indicates.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{private}}:watashi}}gakono@FG{{@KJ{{meeting^company}}:kaisha}}ni@FG{{@KJ{{pick^utilize}}:saiyou}}sarerukadoukaha,
+      @FG{{@KJ{{mask^touch}}:mensetsu}}no@FG{{@KJ{{tie^fruit}}:kekka}}@EM{{ikanda}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whether or not I'll be hired by this company depends on the results of my interview.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="regardless">@HI{{@EM{{ikan}}wo@FG{{@KJ{{question}}:to}}wazu}}</a> and @HI{{@EM{{ikan}}ni@FG{{@KJ{{connection}}:kaka}}warazu}}
+and @HI{{@EM{{ikan}}niyorazu}} can be used interchangeably to mean "no matter what" or "regardless of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{settlement^enter}}:nounyuu}}shita@FG{{@KJ{{study^expense}}:gakuhi}}ha,@FG{{@KJ{{logic^wherefore}}:riyuu}}no@EM{{ikan}}wo@FG{{@KJ{{question}}:to}}wazu
+      @FG{{@KJ{{return^instead}}:henkyaku}}shimasen.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The tuition fees you have paid will not be returned, no matter what the reason.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 26).
+<li> @REF{{DOAJG}}. (p. 128).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 1.
+
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

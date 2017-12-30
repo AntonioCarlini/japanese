@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{womonotomosezu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{womonotomosezu}}" grammar="@HI{{womonotomosezu}}"}}
+
+<body>
+
+<h1>@HI{{womonotomosezu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{womonotomosezu}}}}}}
+<li> @FORMATION{{@Splain{{}}@HI{{no@EM{{womonotomosezu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{womonotomosezuda}}}} follows a noun or a noun phrase and means that someone does something bravely in spite of
+severe unfavourable circumstances.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{friend^person}}:yuujin}}ha@FG{{@KJ{{tall^waves}}:takanami}}@EM{{womonotomosezu}}4@KT{{kiro}}wo
+      @FG{{@KJ{{swim}}:oyo}}gi@FG{{@KJ{{cut}}:ki}}xtsuta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Overcoming high waves, my friend swam (all of) four kilometres.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This sentence pattern is mostly used to express a positive viewpoint. It expresses that a situation is addressed despite obstacles or difficulties.
+</p>
+
+<p>
+This expression is used in a written context.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 27).
+<li> @REF{{DOAJG}}. (p. 493).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 3.
+
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

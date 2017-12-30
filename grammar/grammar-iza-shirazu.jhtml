@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{izashirazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{izashirazu}}" grammar="@HI{{izashirazu}}"}}
+
+<body>
+
+<h1>@HI{{izashirazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{ha@EM{{izashirazu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{nara@EM{{izashirazu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dattara@EM{{izashirazu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="shirazu">@HI{{@EM{{izashirazu}}}}</a> means that the speaker doesn't care much about what precedes this expression, but whatever comes next
+is more important or a special case of what comes before. It is often followed by an expression of astonishment or an indication that
+there is a problem.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{outside^country}}:gaikoku}}@EM{{haizashirazu}},soreha@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{country}}:kuni}}deha
+      @FG{{@KJ{{method^rhythm}}:houritsu}}de@FG{{@KJ{{prohibition^stop}}:kinshi}}sareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know about other countries, but it is prohibited by law in our country.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="mukashi">@HI{{@FG{{@KJ{{once*upon*a*time}}:mukashi}}ha@EM{{izashirazu}}}}</a> is an idiomatic expression meaning that
+something is "different from the past".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{once*upon*a*time}}:mukashi}}ha@EM{{izashirazu}},@FG{{@KJ{{now}}:ima}}ha@FG{{@KJ{{meeting^company}}:kaisha}}wo
+      10mo@FG{{@KJ{{hold}}:motsu}}@FG{{@KJ{{large^reality^profession^house}}:daijitsugyouka}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I don't know about his past, but he is now a business magnate who has ten companies.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 27).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

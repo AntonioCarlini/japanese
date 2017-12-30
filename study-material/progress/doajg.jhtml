@@ -228,9 +228,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{likeness^what}}:ikann}}(@HI{{da}})                                </td>
+  <td class="left"> <a href="grammar-ikan-da.html">@FG{{@KJ{{likeness^what}}:ikan}}(@HI{{da}})</a>                          </td>
   <td class="left"> DOAJG, p. 128                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}}</td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{ikanaru}}                                                              </td>
@@ -793,14 +793,14 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-omoeba.html">@HI{{@FG{{@KJ{{think}}:omo}}eba}}</a>                                      </td>
+  <td class="left"> <a href="grammar-omoeba.html">@HI{{@FG{{@KJ{{think}}:omo}}eba}}</a>                                     </td>
   <td class="left"> DOAJG, p. 492                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{womonotomosezu}}                                                       </td>
+  <td class="left"> <a href="grammar-wo-mono-to-mo-sezu.html">@HI{{womonotomosezu}}</a>                                     </td>
   <td class="left"> DOAJG, p. 493                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@FG{{@KJ{{think}}uni:omouni}}                                               </td>
