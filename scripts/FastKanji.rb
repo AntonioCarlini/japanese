@@ -2196,7 +2196,7 @@ class KD
     "niece" => Kanji.new(2201, 23018, ["TETSU","CHITSU","JICHI","ITSU","ICHI"], ["mei","oi"], [""], ["niece"], 9, 0),
     "mistress" => Kanji.new(2203, 23340, ["JU"], ["yowa.i"], ["tsuma"], ["mistress","weak"], 0, 0),
     "mother-in-law" => Kanji.new(2205, 22993, ["KO"], ["shyuutome","shyuuto","oba","shibaraku"], [""], ["mother-in-law"], 0, 0),
-    "glad" => Kanji.new(2207, 23305, ["KI"], ["ure.shii","tano.shimu"], ["urashi","ureshi"], ["glad","pleased","rejoice"], 9, 1),
+    "overjoyed" => Kanji.new(2207, 23305, ["KI"], ["ure.shii","tano.shimu"], ["urashi","ureshi"], ["overjoyed","glad","pleased","rejoice"], 9, 1),
     "become*pregnant" => Kanji.new(2208, 23381, ["YOU"], ["hara.mu"], ["harami","moto"], ["become pregnant"], 0, 0),
     "industriousness" => Kanji.new(2209, 23388, ["SHI"], ["tsuto.meru"], [""], ["industriousness"], 9, 0),
     "soothe" => Kanji.new(2210, 23461, ["YUU"], ["nada.meru","yuru.su"], [""], ["soothe","calm","pacify"], 9, 1),

@@ -176,7 +176,7 @@ h2#heading {
 
 <ol>
 <li> ~<a href=""></a>@Vba{{}}@HI{{koso}}
-<li> ~<a href=""></a>@HI{{toatte}}
+<li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
 <li> ~<a href=""></a>@HI{{dehaarumaishi}}
 <li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
 <li> ~<a href=""></a>@HI{{yue}}(@HI{{ni}})
@@ -198,7 +198,7 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.14">_</a>14 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{tokitara}}
+<li> ~<a href="grammar-to-kitara.html">@HI{{tokitara}}</a>
 <li> ~<a href=""></a>@HI{{tomonaruto}} @MIDDOT{{}}
      ~<a href=""></a>@HI{{tomonareba}}
 <li> ~<a href=""></a>@HI{{tomoarou}}
