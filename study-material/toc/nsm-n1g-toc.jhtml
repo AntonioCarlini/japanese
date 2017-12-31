@@ -246,10 +246,10 @@
 <h2><a class="navtarget" name="w3d6">_</a> @KJ{{No.}}3@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a>@HI{{kobara}}
-<li> <a href=""></a>@HI{{katawara}}
-<li> <a href=""></a>@HI{{gatera}}
-<li> <a href=""></a>@HI{{katagata}}
+<li> <a href=""></a>@HI{{sobara}}
+<li> <a href="grammar-katawara.html#secondary">@HI{{katawara}}</a>
+<li> <a href="grammar-gatera.html">@HI{{gatera}}</a>
+<li> <a href="grammar-katagata.html">@HI{{katagata}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d1">_</a> @KJ{{No.}}4@KJ{{week}}1@KJ{{day^eye}} </h2>
@@ -375,7 +375,7 @@
 <h2><a class="navtarget" name="w5d6">_</a> @KJ{{No.}}5@KJ{{week}}6@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a>@HI{{@Vru{{}}beku}}
+<li> <a href="grammar-beki.html#beku">@HI{{@Vru{{}}beku}}</a>
 <li> <a href=""></a>@HI{{@Vru{{}}bekumonai}}
 <li> <a href=""></a>@HI{{@Vru{{}}bekarazu}}
 <li> <a href=""></a>@HI{{@Vru{{}}bekarazaru@N{{}}}}

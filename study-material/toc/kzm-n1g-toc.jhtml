@@ -121,9 +121,9 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{gatera}}
-<li> ~<a href=""></a>@HI{{katagata}}
-<li> ~<a href=""></a>@HI{{katawara}}
+<li> ~<a href="grammar-gatera.html">@HI{{gatera}}</a>
+<li> ~<a href="grammar-katagata.jhtml">@HI{{katagata}}</a>
+<li> ~<a href="grammar-katawara.html#secondary">@HI{{katawara}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
@@ -167,7 +167,7 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{beku}}
+<li> ~<a href="grammar-beki.html#beku">@HI{{beku}}</>
 <li> ~<a href=""></a>@HI{{ngadame}}(@HI{{ni}})
 <li> ~<a href="grammar-wo-motte.html#means">@HI{{womotte}}</a>
 </ol>
