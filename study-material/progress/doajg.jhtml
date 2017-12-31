@@ -73,9 +73,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{bekumonai}}                                                            </td>
+  <td class="left"> <a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>                                                 </td>
   <td class="left"> DOAJG, p. 34                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{bekushite}}                                                            </td>
