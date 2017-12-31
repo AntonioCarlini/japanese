@@ -20,6 +20,8 @@
 <li> @FORMATION{{@N{{}}@HI{{no}}@HI{{@EM{{tameni}}}}}}
 <li> @FORMATION{{@Ai{{}}@HI{{@EM{{tameni}}}}}}
 <li> @FORMATION{{@Ana{{}}@HI{{@EM{{tameni}}}}}}
+
+<li> @FORMATION{{@Vnaistem{{}}@HI{{@EM{{ngatame}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -112,6 +114,35 @@ It is followed by an expression indicating a requirement or an obligation.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="nga-tame-ni">@HI{{@EM{{ngatame}}}}(@HI{{ni}})</a> is a formal expression that marks a positive objective that someone wishes to achieve proactively.
+Note that in this pattern @HI{{suru}} becomes @HI{{sen}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he^woman}}:kanojou}}ha@FG{{@KJ{{graduate^profession}}:sotsugyou}}@FG{{@KJ{{argument^sentence}}:ronbun}}wo@FG{{@KJ{{perfect^turn*into}}:kansei}}
+      sa@EM{{sengatameni}}@FG{{@KJ{{take*along^day}}:renjitsu}}@FG{{@KJ{{penetrate^night}}:tetsuya}}de@FG{{@KJ{{make^profession}}:sagyou}}woshita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She had been working for several days without sleep in order to complete her graduation thesis.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+In the form <a name="nga-tame-no">@HI{{@EM{{ngatameno}}}}</a> it has the same meaning as @HI{{@EM{{ngatame}}}}(@HI{{ni}}) but is followed by a noun.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{true^reality}}:shinjitsu}}wo@FG{{@KJ{{bright}}:aki}}rakani@EM{{sengatameno}}@FG{{@KJ{{tune^investigate}}:chousa}}ga@FG{{@KJ{{going}}:okona}}waremashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      An investigation was conducted to bring the truth to light.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -131,6 +162,9 @@ is @HI{{naru}}, then whether or not volition is invovled depends on the sentence
 <li> @REF{{MNN-INT-TR-I}}. (Chapter 9).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 19).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NKZM-N1G}}. (p. 50).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}6@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}
