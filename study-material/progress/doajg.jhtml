@@ -458,9 +458,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{monowo}}                                                               </td>
+  <td class="left"> <a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>                                               </td>
   <td class="left"> DOAJG, p. 279                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-mo-saru-koto-nagara.html">@HI{{monosarukotonagara}}</a>                                </td>
@@ -1048,9 +1048,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@FG{{toha@KJ{{say}}e:tohaie}}                                               </td>
+  <td class="left"> <a href="grammar-particle-to-wa.html"></a>@FG{{toha@KJ{{say}}e:tohaie}}                                 </td>
   <td class="left"> DOAJG, p. 664                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{tsui}}                                                                 </td>

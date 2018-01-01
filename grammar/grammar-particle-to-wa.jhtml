@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{toha}}}} is used between two clauses that are opposed in meaning, the first clause representing a concession to the second.
+<a name="towaie">@HI{{@EM{{toha}}}}</a> is used between two clauses that are opposed in meaning, the first clause representing a concession to the second.
 In this case it usually appears in the form @HI{{@EM{{tohaie}}}}. The meaning is "though" or "even though".
 
 <table class="sentence">
@@ -61,6 +61,10 @@ In this case it usually appears in the form @HI{{@EM{{tohaie}}}}. The meaning is
 <ol>
 <li> @REF{{AAP}}. (p. 40).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 14).
+<li> @REF{{NKZM-N1G}}. (p. 36).
+<li> @REF{{DOAJG}}. (p. 664).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}3@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 1.
 </ol>
 
 @include{{"grammar-footer.inc"}}

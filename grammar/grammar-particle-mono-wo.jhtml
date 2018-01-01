@@ -21,6 +21,9 @@
 
 <h2> Definition </h2>
 
+@BGRNDSTART{{}}
+@BGRND{{}}
+
 <p>
 @HI{{@EM{{monowo}}}} is a particle that indicates resentment or complaint and is usually to be found at the end of a sentence
 
@@ -45,12 +48,18 @@
 </table>
 </p>
 
+@BGRNDEND{{}}
+
 <h2> Notes </h2>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{AAP}}. (p. 106).
+<li> @REF{{NKZM-N1G}}. (p. 36).
+<li> @REF{{DOAJG}}. (p. 279).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
 </ol>
 
 @include{{"grammar-footer.inc"}}

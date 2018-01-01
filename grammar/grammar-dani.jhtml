@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{dani}}}} is a particle that can be used to mean that simply engaging in a cognitive process can lead to feelings such as shamefulness, fearfulness or happiness.
+<a name="feelings">@HI{{@EM{{dani}}}}</a> is a particle that can be used to mean that simply engaging in a cognitive process can lead to feelings such as shamefulness, fearfulness or happiness.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +40,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{dani}}}} is a particle that can be used to mean "even". This usage occurs with Sino-Japanese words with @HI{{suru}}.
+<a name="even">@HI{{@EM{{dani}}}}</a> is a particle that can be used to mean "even". This usage occurs with Sino-Japanese words with @HI{{suru}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -65,6 +65,9 @@
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 54).
+<li> @REF{{NKZM-N1G}}. (p. 76).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}7@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 6.
 </ol>
 
 @include{{"grammar-footer.inc"}}

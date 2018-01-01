@@ -25,7 +25,8 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nashideha}}}} is compund particle used to express a conditional "if someone something is missing".
+<a name="dewa">@HI{{@EM{{nashideha}}}}</a> is compund particle used to express a conditional "if someone or something is missing".
+The following clause is very often a negative.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -45,6 +46,9 @@
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 230).
+<li> @REF{{NKZM-N1G}}. (p. 43).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 3.
 </ol>
 
 @include{{"grammar-footer.inc"}}

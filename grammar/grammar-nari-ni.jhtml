@@ -28,7 +28,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{narini}}}} is a compound particle that expreses that something is in a style that is proper for that thing.
+<a name="narini">@HI{{@EM{{narini}}}}</a> is a compound particle that expreses that something is in a style that is proper for that thing.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -42,7 +42,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{narini}}}} has a pre-nominal form, @HI{{@EM{{narino}}}}.
+<a name="narino">@HI{{@EM{{narini}}}}</a> has a pre-nominal form, @HI{{@EM{{narino}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -56,7 +56,7 @@
 
 @BGRND{{}}
 <p>
-The second occurrence of the repeated noun can be replaced by @HI{{sore}} if it refers to an inanimate object.
+<a name="sore">The</a> second occurrence of the repeated noun can be replaced by @HI{{sore}} if it refers to an inanimate object.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -76,6 +76,9 @@ The second occurrence of the repeated noun can be replaced by @HI{{sore}} if it 
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 227).
+
+<li> @REF{{NKZM-N1G}}. (p. 63).
+<li> @REF{{UDEMY-N1}}. Lesson 3.
 </ol>
 
 @include{{"grammar-footer.inc"}}

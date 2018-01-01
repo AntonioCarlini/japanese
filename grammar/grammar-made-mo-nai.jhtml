@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{mademonai}}}} is a phrase that indicates that it is not necessary to do something.
+<a name="nai">@HI{{@EM{{mademonai}}}}</a> is a phrase that indicates that it is not necessary to do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-The adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
+<a name="naku">The</a> adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@ The adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
 
 @BGRND{{}}
 <p>
-@HI{{iu@EM{{mademonai}}}} is an idomatic expression meaning "needless to say".
+<a name="iumademonai">@HI{{iu@EM{{mademonai}}}}</a> is an idomatic expression meaning "needless to say".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -68,7 +68,7 @@ The adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
 
 @BGRND{{}}
 <p>
-@HI{{nohaiu@EM{{mademonai}}}} is an idomatic expression meaning "it goes without saying that".
+<a name="noiumademonai">@HI{{nohaiu@EM{{mademonai}}}}</a> is an idomatic expression meaning "it goes without saying that".
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -89,6 +89,9 @@ The adverbial form, @HI{{@EM{{mademonaku}}}}, is often used.
 <ol>
 <li> @REF{{DOIJG}}. (p. 159).
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
+<li> @REF{{NKZM-N1G}}. (p. 80).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}3@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 8.
 </ol>
 
 @include{{"grammar-footer.inc"}}

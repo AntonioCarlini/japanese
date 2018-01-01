@@ -200,7 +200,7 @@
 <li> <a href=""></a>@HI{{madeda}}
 <li> <a href=""></a>@HI{{@Vnai{{}}mademo}} @MIDDOT{{}}
      <a href=""></a>@HI{{@Vte{{}}mademo}}
-<li> <a href=""></a>@HI{{@Vru{{}}mademonai}}
+<li> <a href="grammar-made-mo-nai.html#nai">@HI{{@Vru{{}}mademonai}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w3d2">_</a> @KJ{{No.}}3@KJ{{week}}2@KJ{{day^eye}} </h2>
@@ -217,8 +217,8 @@
 
 <ol>
 <li> <a href=""></a>@HI{{toha}}
-<li> <a href=""></a>@HI{{tohaie}}
-<li> <a href=""></a>@HI{{toiedomo}}
+<li> <a href="grammar-particle-to-wa.html">@HI{{tohaie}}</a>
+<li> <a href="grammar-to-ie-domo.html">@HI{{toiedomo}}</a>
 <li> <a href=""></a>@HI{{tono}} @MIDDOT{{}}
      <a href=""></a>@HI{{tonokotoda}}
 </ol>
@@ -257,11 +257,11 @@
 <ol>
 <li> <a href=""></a>@HI{{nakushite~hanai}}
 <li> <a href=""></a>@HI{{nashini(ha)~nai}} @MIDDOT{{}}
-     <a href=""></a>@HI{{nashideha~nai}}
+     <a href="grammar-nashi-de-wa.html#dewa">@HI{{nashideha~nai}}</a>
 <li> <a href=""></a>@HI{{tomonaku}} @MIDDOT{{}}
      <a href=""></a>@HI{{tomonashi}}
 <li> <a href=""></a>@HI{{@Vba{{}}~monowo}} @MIDDOT{{}}
-     <a href=""></a>@HI{{~monowo}}
+     <a href="grammar-particle-mono-wo.html">@HI{{~monowo}}</a>
 </ol>
 
 <h2><a class="navtarget" name="w4d2">_</a> @KJ{{No.}}4@KJ{{week}}2@KJ{{day^eye}} </h2>
@@ -463,8 +463,8 @@
 <ol>
 <li> <a href=""></a>@HI{{@N{{}}nishite(@FG{{@KJ{{first*time}}:haji}}mete}}
 <li> <a href=""></a>@HI{{@Vmasustem{{}}moshinaide}}
-<li> <a href=""></a>@HI{{@Vru{{}}dani}} @MIDDOT{{}}
-     <a href=""></a>@HI{{@N{{}}dani}}
+<li> <a href="grammar-dani.html#even">@HI{{@Vru{{}}dani}}</a> @MIDDOT{{}}
+     <a href="grammar-dani.html#even">@HI{{@N{{}}dani}}</a>
 <li> <a href=""></a>@HI{{kototote}}
 </ol>
 
