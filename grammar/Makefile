@@ -753,6 +753,7 @@ JHTML_SRCS += grammar-zaru-wo-enai.jhtml
 JHTML_SRCS += grammar-zaru.jhtml
 JHTML_SRCS += grammar-zehi.jhtml
 JHTML_SRCS += grammar-zutsu.jhtml
+JHTML_SRCS += grammar-zu-ni-wa-okanai.jhtml
 JHTML_SRCS += grammar.jhtml
 
 GRMIDX += $(addprefix $(GENDIR)/,$(addsuffix .grmidx,$(JHTML_SRCS)))
