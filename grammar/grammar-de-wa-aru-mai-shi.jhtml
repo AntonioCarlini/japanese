@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{dehaarumaishi}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{dehaarumaishi}}" grammar="@HI{{dehaarumaishi}}" anchor="dewaarumaishi"}}
+@GRMIDX{{index="@HI{{jaarumaishi}}" grammar="@HI{{jaarumaishi}} anchor="jaarumaishi"}}
+@GRMIDX{{index="@HI{{demoarumaishi}}" grammar="@HI{{demoarumaishi}} anchor="demoarumaishi"}}
+
+<body>
+
+<h1>@HI{{dehaarumaishi}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dehaarumaishi}}}}}}
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{dehaarumaishi}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{dehaarumaishi}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{dehaarumaishi}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{dearu@EM{{dehaarumaishi}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="dewaarumaishi">@HI{{@EM{{dehaarumaishi}}}}</a> is a phrase indicating the speaker's belief that someone's action
+is based on that person's mistaken identity of himself or herself.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{child^submit}}:kodomo}}@EM{{dehaarumaishi}},@FG{{@KJ{{cry}}:na}}kunohayamenasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Stop crying! You are not a child.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="jaarumaishi">@HI{{@EM{{jaarumaishi}}}}</a> has the same meaning as @HI{{@EM{{dehaarumaishi}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:youchienji}}@EM{{jaarumaishi}}@FG{{@KJ{{one^person}}:hitori}}de@FG{{@KJ{{study^}}:gakkou}}ni@FG{{@KJ{{going}}:i}}kinasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You are not a kindergarten pupil. Go to school by yourself.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="demoarumaishi">@HI{{@EM{{demoarumaishi}}}}</a> has the same meaning as @HI{{@EM{{dehaarumaishi}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:seijika}}@EM{{demoarumaishi}},@FG{{@KJ{{lie}}:uso}}wotsukanaide@FG{{@KJ{{below}}:ku}}dasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      You are not a politician. Do not tell a lie.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 74).
+<li> @REF{{NKZM-N1G}}. (p. 53).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 4.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -75,6 +75,7 @@ JHTML_SRCS += grammar-datte-reason.jhtml
 JHTML_SRCS += grammar-datte-too.jhtml
 JHTML_SRCS += grammar-de-cause.jhtml
 JHTML_SRCS += grammar-de-wa-aru-mai-ka.jhtml
+JHTML_SRCS += grammar-de-wa-aru-mai-shi.jhtml
 JHTML_SRCS += grammar-deare-deare.jhtml
 JHTML_SRCS += grammar-deare.jhtml
 JHTML_SRCS += grammar-dearou.jhtml
