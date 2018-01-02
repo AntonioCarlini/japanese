@@ -179,7 +179,7 @@ h2#heading {
 <li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
 <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
 <li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
-<li> ~<a href=""></a>@HI{{yue}}(@HI{{ni}})
+<li> ~<a href="grammar-yue-ni.html#yueni">@HI{{yue}}(@HI{{ni}})</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>

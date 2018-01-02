@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{yueni}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{yueni}}" grammar="@HI{{yueni}}"}}
+
+<body>
+
+<h1>@HI{{yueni}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{(@HI{{ga}})@HI{{yueni}}}}
+<li> @FORMATION{{(@HI{{ga}})@HI{{yueno}}@N{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="yueni">@HI{{@EM{{yueni}}}}</a> is a conjunction that presents a reason or a cause.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}no@FG{{@KJ{{refined^gods}}:seishin}}ha@FG{{@KJ{{large^ill}}:taibyou}}no@EM{{yueni}}@FG{{@KJ{{strong^pliable}}:kyoujin}}ninatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His mind was strengthed because of his serious illness.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="yueno">@HI{{@EM{{yueno}}}}</a> is a form of @HI{{@EM{{yueni}}}} that can be used to form a noun phrase.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{possess^name^person}}:yuumeijin}}@EM{{yueno}}@FG{{@KJ{{trouble}}:naya}}migaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Due to their fame, well known people have their share of troubles.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="yuedearu">@HI{{@EM{{yuedearu}}}}</a> is a form of @HI{{@EM{{yueni}}}} that can be used to form a copula.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{soiu@FG{{@KJ{{consider}}:kanga}}e@FG{{@KJ{{direction}}:kata}}shikadekinainoha,@FG{{@KJ{{inspection^plains}}:shiya}}ga@FG{{@KJ{{cramped}}:sema}}i@EM{{yuedearu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is because of your limited viewpoint that you cannot find other ways of thining about it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{yueni}}}} is only used in highly formal language.
+</p>
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 745).
+<li> @REF{{NKZM-N1G}}. (p. 53).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}6@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 10.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

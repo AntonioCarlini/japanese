@@ -2629,6 +2629,7 @@ class KD
     "whip" => Kanji.new(2783, 38829, ["BEN","HEN"], ["muchi","muchiutsu"], [""], ["whip","rod","counter for whippings"], 9, 0),
     "sheath" => Kanji.new(2784, 38808, ["SHYOU","SOU"], ["saya"], [""], ["sheath","case","margin","difference","shells (of beans)"], 9, 0),
     "suitcase" => Kanji.new(2785, 38788, ["HAKU","HOU","BYOU"], ["kaban"], [""], ["suitcase","bag","briefcase"], 9, 0),
+    "pliable" => Kanji.new(2786, 38765, ["JIN","NIN","SA","SAI","SATSU"], ["utsubo","shina.yaka","yugi"], ["yuki"], ["pliable","soft","quiver"], 0, 0),
     "suddenly" => Kanji.new(2788, 38931, ["TON","TOTSU"], ["niwaka.ni","ton.to","tsumazu.ku","tomi.ni","nukazuku"], [""], ["suddenly","immediately","in a hurry"], 8, 0),
     "overturn" => Kanji.new(2789, 39003, ["TEN"], ["itadaki","tao.reru"], [""], ["overturn","summit","origin"], 0, 0),
     "heads*of*grain" => Kanji.new(2790, 31310, ["EI"], ["hosaki","nogi"], [""], ["heads of grain","cleverness"], 0, 0),
