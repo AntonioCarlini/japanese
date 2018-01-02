@@ -648,6 +648,7 @@ JHTML_SRCS += grammar-tokoro-ga.jhtml
 JHTML_SRCS += grammar-tokoro-kara.jhtml
 JHTML_SRCS += grammar-tokoro-place.jhtml
 JHTML_SRCS += grammar-tokoro-when.jhtml
+JHTML_SRCS += grammar-tokoro-wo.jhtml
 JHTML_SRCS += grammar-tokoro.jhtml
 JHTML_SRCS += grammar-tomo-conjunction.jhtml
 JHTML_SRCS += grammar-toori-ni.jhtml

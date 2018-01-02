@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tokorowo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tokorowo}}" grammar="@HI{{tokorowo}}"}}
+
+<body>
+
+<h1>@HI{{tokorowo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@V1{{}}@HI{{@EM{{tokorowo}}}}@V2{{}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@EM{{tokorowo}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{tokorowo}}}}}}
+<li> @FORMATION{{@Vmasustem{{}}@HI{{chuu@EM{{tokorowo}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="development">When</a> preceded and followed by verbs, @HI{{@EM{{tokorowo}}}} indicates that the subsequent verb has a direct effect on
+the development of the situation expressed by the first verb.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kossori@KT{{tabako}}wo@FG{{@KJ{{suck}}:su}}tteiru@EM{{tokorowo}}@FG{{@KJ{{before^life}}:sensei}}ni@FG{{@KJ{{see}}:mi}}tsukatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I was sneaking a smoke when my teacher spotted me.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="development">In</a> the other cases in the formation, @HI{{@EM{{tokorowo}}}} indicates that the speaker is taking the addressee's 
+situation into account when making a difficult or unreasonable request. The @HI{{wo}} can be dropped in this usage.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{busy}}:isoga}}shii@EM{{tokorowo}}@FG{{@KJ{{speaketh}}:mou}}shi@FG{{@KJ{{translate}}:wake}}arimasenga,chottoo@FG{{@KJ{{wicked^witch}}:jama}}itashimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am very sorry to disturb you but I am going to have to interrupt.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 36).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}1@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
