@@ -2106,7 +2106,7 @@ class KD
     "some" => Kanji.new(2091, 25110, ["WAKU","KOKU","IKI"], ["a.ru","arui","aruiha"], [""], ["some","one","or","possibly","a certain"], 9, 0),
     "beheading" => Kanji.new(2092, 26028, ["ZAN","SAN","SEN","ZEN"], ["ki.ru"], [""], ["beheading","kill","murder"], 8, 0),
     "rabbit" => Kanji.new(2093, 20814, ["TO","TSU"], ["usagi"], [""], ["rabbit","hare"], 9, 0),
-    "to*be*(classical)" => Kanji.new(2094, 20063, ["YA","E"], ["nari","ka","mata"], ["shi"], ["to be (classical)"], 9, 1),
+    "est" => Kanji.new(2094, 20063, ["YA","E"], ["nari","ka","mata"], ["shi"], ["est","to be (classical)"], 9, 1),
     "lofty" => Kanji.new(2095, 23597, ["GYOU"], ["taka.i"], ["takashi","taka","nori","aki"], ["lofty","high","far"], 9, 1),
     "comma-design" => Kanji.new(2096, 24052, ["HA"], ["tomoe","uzumaki"], ["tomo"], ["comma-design"], 9, 1),
     "for*the*first*time" => Kanji.new(2097, 29995, ["HO","HU"], ["haji.mete"], ["hajime","toshi","nami","suke","yoshi"], ["for the first time","not until"], 9, 1),

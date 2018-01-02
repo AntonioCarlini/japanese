@@ -258,8 +258,8 @@
 <li> <a href=""></a>@HI{{nakushite~hanai}}
 <li> <a href=""></a>@HI{{nashini(ha)~nai}} @MIDDOT{{}}
      <a href="grammar-nashi-de-wa.html#dewa">@HI{{nashideha~nai}}</a>
-<li> <a href=""></a>@HI{{tomonaku}} @MIDDOT{{}}
-     <a href=""></a>@HI{{tomonashi}}
+<li> <a href="grammar-to-mo-naku.html#tomonaku">@HI{{tomonaku}}</a> @MIDDOT{{}}
+     <a href="grammar-to-mo-naku.html#tomonashi">@HI{{tomonashi}}</a>
 <li> <a href=""></a>@HI{{@Vba{{}}~monowo}} @MIDDOT{{}}
      <a href="grammar-particle-mono-wo.html">@HI{{~monowo}}</a>
 </ol>
@@ -547,7 +547,7 @@
 <ol>
 <li> <a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}
 <li> <a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareta}}
-<li> <a href=""></a>@HI{{@FG{{@KJ{{dislike}}:kira}}igaaru}}
+<li> <a href="grammar-kirai-ga-aru.html">@HI{{@FG{{@KJ{{dislike}}:kira}}igaaru}}</a>
 <li> <a href=""></a>@HI{{@Vru{{}}@FG{{@KJ{{commence^end}}:shimatsu}}da}}
 </ol>
 

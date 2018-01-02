@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomonaku}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomonaku}}" grammar="@HI{{tomonaku}}"}}
+@GRMIDX{{index="@HI{{tomonashi}}" grammar="@HI{{tomonashi}}"}}
+@GRMIDX{{index="@HI{{tonaku}}" grammar="@HI{{tonaku}}"}}
+
+<body>
+
+<h1>@HI{{tomonaku}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{tomonaku}}}}}}
+<li> @FORMATION{{@QW{{}} @PRT{{}} @HI{{@EM{{tomonaku}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="tomonaku">@HI{{@EM{{tomonaku}}}}</a> is used to mean that someone does something without paying much attention to it.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{large^study^time^substitute}}:daigakujidai}}nokotowo@FG{{@KJ{{consider}}:kanga}}eru@EM{{tomonaku}}@KJ{{consider}}eteiruto,
+      @FG{{@KJ{{next^noma}}:tsugitsugi}}ni@KT{{kurasume-to}}no@FG{{@KJ{{face}}:kao}}ga@FG{{@KJ{{floating}}:u}}kandekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      When I was thinking absentmindedly about my university days, the faces of my classmates came into my mind one after another.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<a name="repeat">When</a> a verb comes before @HI{{@EM{{tomonaku}}}} it is usually, but not always, repeated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{scatter^walk}}:sanpo}}woshiteiruuchini,@FG{{@KJ{{come}}:ku}}ru@EM{{tomonaku}}@FG{{@KJ{{station}}:eki}}made@KJ{{come}}teshimatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      While I was taking a walk, I came as far as the station without intending to.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<a name="uncertain">When</a> @HI{{@EM{{tomonaku}}}} follows a question word plus a particle, it indicates that something happened but it is unclear who did it or when it happened.
+Note that the particle is absolutely required.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{dokokara@EM{{tomonaku}}ii@FG{{@KJ{{aroma}}:nio}}iga@FG{{@KJ{{drift}}:tadayo}}ttekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      (I couldn't tell from where, but) a good smell wafted from somewhere.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="tomonashi">@HI{{@EM{{tomonashi}}}}</a> can be used interchangeably with @HI{{@EM{{tomonaku}}}}. There is no difference in meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{ego}}:wa}}ga@FG{{@KJ{{house}}:ya}}dehaitsukara@EM{{tomonashi}}@FG{{@KJ{{correct^month}}:shougatsu}}ni@KT{{suki-}}ni
+      @FG{{@KJ{{going}}:i}}ku@FG{{@KJ{{learn^accustomed}}:shuukan}}ga@FG{{@KJ{{commence}}:haji}}matta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      We do not know when, but my family started a tradition of going skiing on New Year's Day.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="tonaku">@HI{{tonaku}}</a> is similar to @HI{{@EM{{tomonaku}}}} in form and meaning but it is used only with a limited range of words, including
+@HI{{doko}}, @FG{{@KJ{{what}}:nani}}, @HI{{@FG{{@KJ{{who}}:dare}}kare}} and @HI{{sore}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{sentence^badge}}:bunshou}}hadoko@EM{{tonaku}}@FG{{@KJ{{unusual}}:hen}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This passage is strange somewhere (but I cannot tell where).
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{philosophy^est}}:tetsuya}}nokotoga@KJ{{what}}@EM{{tonaku}}@FG{{@KJ{{spirit}}:ki}}ninaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I'm concerned about Tetsuya somehow (for some reason I don't know).
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{tomonaku}}}} is an abbreviated form of @HI{{to@KJ{{say}}ukotomonaku}} meaning "without doing something".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 30).
+<li> @REF{{DOAJG}}. (p. 648).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

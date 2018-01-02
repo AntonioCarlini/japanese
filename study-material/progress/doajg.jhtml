@@ -968,7 +968,7 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{tobakarini}}                                                           </td>
+  <td class="left"> <a href="grammar-bakari-ni.html#to">@HI{{tobakarini}}</a>                                               </td>
   <td class="left"> DOAJG, p. 618                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -1023,9 +1023,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{tomonaku}}                                                             </td>
+  <td class="left"> <a href="grammar-to-mo-naku.html">@HI{{tomonaku}}</a>                                                   </td>
   <td class="left"> DOAJG, p. 648                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{tomosuruto}}                                                           </td>

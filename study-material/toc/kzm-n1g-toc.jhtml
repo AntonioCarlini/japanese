@@ -111,11 +111,11 @@ h2#heading {
 
 <ol>
 <li> ~<a href=""></a>@HI{{nbakarida}}
-<li> ~<a href=""></a>@HI{{tobakari}}(@HI{{ni}})
-<li> ~<a href=""></a>@HI{{tomonaku}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{tomonashini}}
+<li> ~<a href="grammar-bakari-ni.html#to">@HI{{tobakari}}(@HI{{ni}})</a>
+<li> ~<a href="grammar-to-mo-naku.html#tomonaku">@HI{{tomonaku}}</a> @MIDDOT{{}}
+     ~<a href="grammar-to-mo-naku.html#tomonashi">@HI{{tomonashini}}</a>
 <li> ~<a href=""></a>@HI{{nagarani}}(@HI{{shite}})
-<li> ~<a href=""></a>@HI{{kiraigaaru}}
+<li> ~<a href="grammar-kirai-ga-aru.html">@HI{{kiraigaaru}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
