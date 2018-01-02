@@ -1,5 +1,5 @@
 #!/usr/bin/ruby -w
-#encoding: UTF-8
+#encoding: utf-8
 
 $LOAD_PATH << File.dirname(__FILE__)
 
@@ -29,10 +29,6 @@ kanji.each() {
 
 # Walk the Hesig kanji list, writing out kanji data in HTML　table format.
 # Complain (at the end) if any kanji were missing.
-first_missing = 0
-missing = false
-last_processed = 0
-
 puts("<!DOCTYPE html>")
 puts("<html>")
 puts("<head>")
