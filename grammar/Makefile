@@ -629,6 +629,7 @@ JHTML_SRCS += grammar-to-miru.jhtml
 JHTML_SRCS += grammar-to-mo-naku.jhtml
 JHTML_SRCS += grammar-to-naru-to.jhtml
 JHTML_SRCS += grammar-to-naru.jhtml
+JHTML_SRCS += grammar-to-omoi-kiya.jhtml
 JHTML_SRCS += grammar-to-omou.jhtml
 JHTML_SRCS += grammar-to-shite-mo.jhtml
 JHTML_SRCS += grammar-to-suru-assume.jhtml

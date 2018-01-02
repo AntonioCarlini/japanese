@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{think}}ikiya}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toomoikiya}}" grammar="@HI{{to@KJ{{think}}ikiya}}"}}
+
+<body>
+
+<h1>@HI{{to@FG{{@KJ{{think}}:omo}}ikiya}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Splain{{}}@HI{{to@FG{{@KJ{{think}}:omo}}ikiya}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+This sentence pattern is used to express that someone thought something was the case but, perhaps surprisingly, it tuned out not to be so.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{}}:takara}}kujini@FG{{@KJ{{hit}}:a}}tattaka@EM{{to@FG{{@KJ{{think}}:omo}}ikiya}},@FG{{@KJ{{}}:bangou}}wo@FG{{@KJ{{}}:mimachiga}}eteita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I thought I had won the lottery, but I'd misread the number.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+A slightly old-fashioned expression, but often used for humour.
+</p>
+
+<p>
+Not used in formal language or essays.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 37).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}3@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
