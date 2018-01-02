@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{deare}}}} is a conjunction used in a subordinate clause to expresses the idea of concession.
+<a name="deare">@HI{{@EM{{deare}}}}</a> is a conjunction used in a subordinate clause to expresses the idea of concession.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -40,7 +40,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{deare}}}} is often preceded by @HI{{tatoe}} when an interrogative word is not present.
+<a name="tatoe">@HI{{@EM{{deare}}}}</a> is often preceded by @HI{{tatoe}} when an interrogative word is not present.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -54,7 +54,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{ikani}}, the emphatic adverb meaning "how", may occur with @HI{{@EM{{deare}}}}.
+<a name="ikanimo">@HI{{ikani}}</a>, the emphatic adverb meaning "how", may occur with @HI{{@EM{{deare}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -62,6 +62,20 @@
   </td> </tr>
   <tr class="en"> <td>
       No matter how difficult the problem may be, he certainly should be able to solve it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="dearouto">@HI{{@EM{{deareto}}}}</a> can replace @HI{{@EM{{deare}}}} with no change in meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{traffic^diligence}}:tsuukin}}gaikani@FG{{@KJ{{negative^convenience}}:fuben}}@EM{{dearouto}},@FG{{@KJ{{now}}:ima}}no@FG{{@KJ{{house}}:ie}}wo@FG{{@KJ{{unusual}}:ka}}warutsumorihanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how inconvenient my commute is, I do not intend to move @LIT{{from our current house}}.
   </td> </tr>
 </table>
 </p>
@@ -82,6 +96,8 @@
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 67).
+<li> @REF{{NKZM-N1G}}. (p. 46).
+<li> @REF{{UDEMY-N1}}. Lesson 1.
 </ol>
 
 @include{{"grammar-footer.inc"}}
