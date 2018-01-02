@@ -282,6 +282,7 @@ JHTML_SRCS += grammar-N1-to-iu-N2.jhtml
 JHTML_SRCS += grammar-N1-wo-N2-to-iu.jhtml
 JHTML_SRCS += grammar-nado-to.jhtml
 JHTML_SRCS += grammar-nagara-although.jhtml
+JHTML_SRCS += grammar-nagara-ni.jhtml
 JHTML_SRCS += grammar-nagara.jhtml
 JHTML_SRCS += grammar-nai-de.jhtml
 JHTML_SRCS += grammar-nai-ka-no-uchi-ni.jhtml

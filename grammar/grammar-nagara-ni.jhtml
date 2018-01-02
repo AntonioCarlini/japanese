@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nagarani}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nagarani}}" grammar="@HI{{nagarani}}"}}
+
+<body>
+
+<h1>@HI{{nagarani}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{nagarani}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="nagarani">@HI{{@EM{{nagarani}}}}</a> is used to say that something has been continuously in the same state.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ha@FG{{@KJ{{tears}}:namida}}@EM{{nagarani}}@FG{{@KJ{{friend^accomplished}}:tomodachi}}to@FG{{@KJ{{separate}}:waka}}reta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      She parted from her friend in tears.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nagarano">@HI{{@EM{{nagarano}}}}</a> also means that something has been continuously in the same state.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{before^life}}:sensei}}noitsumo@EM{{nagarano}}o@FG{{@KJ{{}}:kokoroduka}}ini,@FG{{@KJ{{}}:kansha}}shiteorimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I really appreciate the teacher's kind consideration as usual.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="umare">@HI{{@FG{{@KJ{{life}}:u}}mare@EM{{nagarani}}}}</a> means "a natural gift".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ha@FG{{@KJ{{life}}:u}}mare@EM{{nagarani}}@FG{{@KJ{{person}}:hito}}wo@FG{{@KJ{{see^slip*out}}:mini}}ku@FG{{@KJ{{genius^ability}}:sainou}}wo
+      @FG{{@KJ{{hold}}:mo}}xtsuteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He has the gift of being able to see people's true nature.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 31	).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}6@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 3.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
