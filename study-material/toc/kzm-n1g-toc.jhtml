@@ -139,7 +139,7 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{toareba}}
+<li> ~<a href="grammar-to-areba.html">@HI{{toareba}}</a>
 <li> ~<a href="grammar-ga-saigo.html#ra">@Vta{{}}@HI{{ra}}@FG{{@KJ{{utmost^behind}}:saigo}}</a> @MIDDOT{{}}
      ~<a href="grammar-ga-saigo.html#ga">@Vta{{}}@HI{{ga}}@FG{{@KJ{{utmost^behind}}:saigo}}</a>
 <li> ~<a href=""></a>@HI{{youdeha}}
