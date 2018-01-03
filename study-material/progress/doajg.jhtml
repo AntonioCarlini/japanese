@@ -618,9 +618,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nbakari}}(@HI{{ni}})                                                   </td>
+  <td class="left"> <a href="grammar-n-bakari.html">@HI{{nbakari}}(@HI{{ni}})</a>                                           </td>
   <td class="left"> DOAJG, p. 374                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-negau.html">@FG{{@KJ{{petition}}:nega}}@HI{{u}}/@FG{{@KJ{{petition}}:nega}}@HI{{imasu}}</a> </td>

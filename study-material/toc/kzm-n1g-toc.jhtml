@@ -110,7 +110,7 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{nbakarida}}
+<li> ~<a href="grammar-n-bakari.html#da">@HI{{nbakarida}}</a>
 <li> ~<a href="grammar-bakari-ni.html#to">@HI{{tobakari}}(@HI{{ni}})</a>
 <li> ~<a href="grammar-to-mo-naku.html#tomonaku">@HI{{tomonaku}}</a> @MIDDOT{{}}
      ~<a href="grammar-to-mo-naku.html#tomonashi">@HI{{tomonashini}}</a>

@@ -419,8 +419,8 @@
      <a href="grammar-yue-ni.html#yueno">@HI{{yueno@N{{}}}}</a>
 <li> <a href="grammar-tame-ni.html#nga-tame-ni">@HI{{@Vnaistem{{}}ngatameni}}</a> @MIDDOT{{}}
      <a href="grammar-tame-ni.html#nga-tame-no">@HI{{@Vnaistem{{}}ngatameno}}@N{{}}</a>
-<li> <a href=""></a>@HI{{@Vnaistem{{}}nbakarini}} @MIDDOT{{}}
-     <a href=""></a>@HI{{@Vnaistem{{}}nbakarino}}@N{{}}
+<li> <a href="grammar-n-bakari.html#ni">@HI{{@Vnaistem{{}}nbakarini}}</a> @MIDDOT{{}}
+     <a href="grammar-n-bakari.html#no">@HI{{@Vnaistem{{}}nbakarino}}@N{{}}</a>
 <li> <a href=""></a>@HI{{to(@KJ{{say}}wan')bakarini}} @MIDDOT{{}}
      <a href=""></a>@HI{{to(@KJ{{say}}wan')bakarino}}@N{{}}
 </ol>

@@ -274,6 +274,7 @@ JHTML_SRCS += grammar-mou.jhtml
 JHTML_SRCS += grammar-muke.jhtml
 JHTML_SRCS += grammar-muki.jhtml
 JHTML_SRCS += grammar-mushiro.jhtml
+JHTML_SRCS += grammar-n-bakari.jhtml
 JHTML_SRCS += grammar-n-desu.jhtml
 JHTML_SRCS += grammar-N-no-you.jhtml
 JHTML_SRCS += grammar-N-wo-suru.jhtml
