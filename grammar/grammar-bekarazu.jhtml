@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{bekarazu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{bekarazu}}" grammar="@HI{{bekarazu}}"}}
+@GRMIDX{{index="@HI{{bekarazaru}}" grammar="@HI{{bekarazaru}}"}}
+
+<body>
+
+<h1>@HI{{bekarazu}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{bekarazu}}.}}}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{@EM{{bekarazaru}}@N{{}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="bekarazu">@HI{{@EM{{bekarazu}}}}</a> occurs at the end of a sentence and indicates a strong prohibition.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{void^say}}:kyogen}}wo@FG{{@KJ{{spit}}:ha}}ku@EM{{bekarazu}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    Don't tell a lie.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="bekarazaru">@HI{{@EM{{bekarazaru}}}}</a> is the pre-nominal form. 
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{koreha@FG{{@KJ{{contend}}:araso}}u@EM{{bekarazaru}}@FG{{@KJ{{matter^reality}}:jijitsu}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    It is an indisputable fact
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{bekarazu}}}} is the negative form of @HI{{beshi}}, which means "should" or "ought to".
+</p>
+
+<p>
+@HI{{@EM{{bekarazaru}}}} is the written version of @HI{{bekidenai}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 32).
+<li> @REF{{NKZM-N1G}}. (p. 59).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 4.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

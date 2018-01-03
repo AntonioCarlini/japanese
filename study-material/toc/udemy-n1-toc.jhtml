@@ -112,8 +112,8 @@
      ~<a href="grammar-n-bakari.html#no">@HI{{nbakarino}}</a> @MIDDOT{{}}
      ~<a href="grammar-n-bakari.html#da">@HI{{nbakarida}}</a>
 <li> ~<a href=""></a>@HI{{yare}}@N1{{}}@HI{{,yare}}@N2{{}}
-<li> ~<a href=""></a>@HI{{bekarazu}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{bekarazaru}}
+<li> ~<a href="grammar-bekarazu.html#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
+     ~<a href="grammar-bekarazu.html#bekarazaru">@HI{{bekarazaru}}</a>
 </ol>
 
 <h2><a class="navtarget" name="chapter5">_</a>@KJ{{No.}}5@KJ{{chapter}}</h2>
@@ -250,7 +250,7 @@
 <li> ~<a href=""></a>@N{{}}@HI{{denakutenandarou}}
 <li> ~<a href=""></a>@N{{}}@HI{{toiumono}}
 <li> ~<a href=""></a>@N{{}}@HI{{toshitakotoga}}
-<li> ~<a href=""></a>@HI{{nikatakunai}}
+<li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
 <li> ~<a href=""></a>@N{{}}@HI{{nikamakete}}
 <li> ~<a href="grammar-kirai-ga-aru.html">@HI{{kiraigaaru}}</a>
 <li> ~<a href=""></a>@N{{}}(@HI{{de}})@HI{{sura}}

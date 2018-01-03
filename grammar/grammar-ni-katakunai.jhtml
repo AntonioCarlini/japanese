@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nikatakunai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikatakunai}}" grammar="@HI{{nikatakunai}}"}}
+
+<body>
+
+<h1>@HI{{nikatakunai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{nikatakunai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nikatakunai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="empathy">@HI{{@EM{{nikatakunai}}}} attaches to verbs or nouns that represent psychological aspects of people and expresses something that is easy to guess or not hard to imagine.
+It implies sympathy or empathy.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{sea^outside}}:kaigai}}@KT{{dorama}}ga@FG{{@KJ{{fond}}:su}}kina@FG{{@KJ{{mountain^book}}:yamamoto}}sanga@FG{{@KJ{{detain^study}}:ryuugaku}}ni@FG{{@KJ{{yearn}}:akoga}}rerunoha
+      @FG{{@KJ{{logic^unravel}}:rikai}}@EM{{nikatakunai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is easy to understand that Miss Yamamoto yearns for studying abroad as she loves foreign drama series.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This sentence pattern is used only in formal Japanese.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 58).
+<li> @REF{{DOAJG}}. (p. 393).
+<li> @REF{{UDEMY-N1}}. Lesson 10.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

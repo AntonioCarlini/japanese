@@ -185,13 +185,13 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{nikatakunai}}
+<li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
 <li> ~<a href=""></a>@HI{{ni}}~@HI{{nai}} @MIDDOT{{}}
      ~<a href=""></a>@Vyou{{}}@HI{{nimo}}~@HI{{nai}}
 <li> ~<a href=""></a>@Vte{{}}(@HI{{ha}})@HI{{irarenai}}
 <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
-<li> ~<a href=""></a>@HI{{bekarazu}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{bekarazaru}}
+<li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
+     ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
 <li> ~<a href=""></a>@HI{{majiki}}
 </ol>
 

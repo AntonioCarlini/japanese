@@ -2247,7 +2247,7 @@ class KD
     "fall*in*love*with" => Kanji.new(2277, 24794, ["KOTSU"], ["hoke.ru","bo.keru","ho.reru"], [""], ["fall in love with","admire","grow senile"], 9, 0),
     "wise" => Kanji.new(2278, 24604, ["REI","REN","RYOU"], ["awa.remu","sato.i"], ["sato","satoshi"], ["wise"], 9, 1),
     "sincere" => Kanji.new(2279, 24775, ["SHYUN","JUN","TON"], ["atsu.i"], ["atsushi","atsu","makoto","toshi","tsutomu"], ["sincere","kind","considerate"], 9, 1),
-    "yearn*after" => Kanji.new(2280, 24999, ["SHYOU","TOU","DOU"], ["akoga.reru"], [""], ["yearn after","long for","aspire to","admire","adore"], 8, 1),
+    "yearn" => Kanji.new(2280, 24999, ["SHYOU","TOU","DOU"], ["akoga.reru"], [""], ["yearn","yearn after","long for","aspire to","admire","adore"], 8, 1),
     "just*as" => Kanji.new(2281, 24688, ["KOU","KACHISAI_TSU","CHYOU","KYOU"], ["ataka.mo"], [""], ["just as","as though","fortunately"], 9, 0),
     "enlarge" => Kanji.new(2282, 24674, ["KAI","KE"], ["hiro.i"], [""], ["enlarge","wide","large","enlarge"], 9, 0),
     "serving*our*elders" => Kanji.new(2283, 24716, ["TEI","DAI"], [""], ["tomo","yasu","yasushi","yoshi","chika"], ["serving our elders"], 9, 1),

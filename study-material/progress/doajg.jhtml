@@ -63,9 +63,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{bekarazu}}/@HI{{bekarazuru}}                                           </td>
+  <td class="left"> <a href="grammar-bekarazu.html">@HI{{bekarazu}}/@HI{{bekarazuru}}</a>                                   </td>
   <td class="left"> DOAJG, p. 29                                                                                            </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}}</td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-beki.html#beku">@HI{{beku}}</a>                                                        </td>
@@ -648,9 +648,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{ni}}@FG{{@KJ{{difficult}}kunai:katakunai}}                             </td>
+  <td class="left"> <a href="grammar-ni-katakunai.jhtml">@HI{{ni}}@FG{{@KJ{{difficult}}kunai:katakunai}}</a>                </td>
   <td class="left"> DOAJG, p. 393                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-ni-kimatte-iru.html">@HI{{ni}}@FG{{@KJ{{decide}}:ki}}@HI{{matteiru}}</a>               </td>
