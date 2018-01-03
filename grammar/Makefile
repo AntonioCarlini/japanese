@@ -107,6 +107,7 @@ JHTML_SRCS += grammar-fuu-ni.jhtml
 JHTML_SRCS += grammar-ga-conjunction.jhtml
 JHTML_SRCS += grammar-ga-hayai-ka.jhtml
 JHTML_SRCS += grammar-ga-nara.jhtml
+JHTML_SRCS += grammar-ga-saigo.jhtml
 JHTML_SRCS += grammar-gachi.jhtml
 JHTML_SRCS += grammar-garu.jhtml
 JHTML_SRCS += grammar-gatai-suffix.jhtml

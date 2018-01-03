@@ -140,8 +140,8 @@ h2#heading {
 
 <ol>
 <li> ~<a href=""></a>@HI{{toareba}}
-<li> ~<a href=""></a>@Vta{{}}@HI{{ra}}@FG{{@KJ{{utmost^behind}}:zaigo}} @MIDDOT{{}}
-     ~<a href=""></a>@Vta{{}}@HI{{ga}}@FG{{@KJ{{utmost^behind}}:zaigo}}
+<li> ~<a href="grammar-ga-saigo.html#ra">@Vta{{}}@HI{{ra}}@FG{{@KJ{{utmost^behind}}:saigo}}</a> @MIDDOT{{}}
+     ~<a href="grammar-ga-saigo.html#ga">@Vta{{}}@HI{{ga}}@FG{{@KJ{{utmost^behind}}:saigo}}</a>
 <li> ~<a href=""></a>@HI{{youdeha}}
 <li> ~<a href=""></a>@HI{{nashini}}(@HI{{ha}}) @MIDDOT{{}}
      ~<a href="grammar-nashi-de-wa.html#dewa">@HI{{nashideha}}</a> @MIDDOT{{}}
