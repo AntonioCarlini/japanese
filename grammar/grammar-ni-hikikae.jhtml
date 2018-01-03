@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nihikikae}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nihikikae}}" grammar="@HI{{nihikikae}}"}}
+
+<body>
+
+<h1>@HI{{nihikikae}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nihikikae}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nihikikae}}}} indicates a sharp contrast between two nouns or people.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{table^notebook^mask}}:kichoumen}}na@FG{{@KJ{{father}}:chichi}}@EM{{nihikikae}},@FG{{@KJ{{breath^child}}:musuko}}hadarashinakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    The son, in contrast to his meticulous father, was slovenly.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{hikikae}} is the @HI{{masu}}-stem of ther verb @HI{{@FG{{@KJ{{pull}}:hi}}ki@FG{{@KJ{{interchange}}:ka}}eru}}, meaning "to exchange (things)".
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 66).
+<li> @REF{{DOAJG}}. (p. 380).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}6@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

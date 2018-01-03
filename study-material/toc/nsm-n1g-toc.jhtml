@@ -198,7 +198,7 @@
 
 <ol>
 <li> <a href=""></a>@HI{{madeda}}
-<li> <a href=""></a>@HI{{@Vnai{{}}mademo}} @MIDDOT{{}}
+<li> <a href="grammar-nai-made-mo.jhtml#nai">@HI{{@Vnai{{}}mademo}}</a> @MIDDOT{{}}
      <a href=""></a>@HI{{@Vte{{}}mademo}}
 <li> <a href="grammar-made-mo-nai.html#nai">@HI{{@Vru{{}}mademonai}}</a>
 </ol>
@@ -385,8 +385,8 @@
 
 <ol>
 <li> <a href=""></a>@HI{{@N{{}}ni@FG{{@KJ{{before^drive}}:sakiga}}kete}}
-<li> <a href=""></a>@HI{{@N{{}}nimomashite}}
-<li> <a href=""></a>@HI{{@N1{{}}nihikikae@N2{{}}ha}}
+<li> <a href="grammar-ni-mo-mashite.html">@HI{{@N{{}}nimomashite}}</a>
+<li> <a href="grammar-ni-hikikae.html">@HI{{@N1{{}}nihikikae@N2{{}}ha}}</a>
 <li> <a href=""></a>@HI{{@N{{}}@FG{{@KJ{{instant}}:soku}}shite@V{{}}}}
      <a href=""></a>@HI{{@N1{{}}@FG{{@KJ{{instant}}:soku}}shita@N2{{}}}}
 </ol>

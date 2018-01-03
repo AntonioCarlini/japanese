@@ -209,9 +209,9 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href=""></a>@HI{{nihikikae}}
-<li> ~<a href=""></a>@HI{{nimomashite}}
-<li> ~<a href=""></a>@HI{{naimademo}}
+<li> ~<a href="grammar-ni-hikikae.html">@HI{{nihikikae}}</a>
+<li> ~<a href="grammar-ni-mo-mashite.html">@HI{{nimomashite}}</a>
+<li> ~<a href="grammar-nai-made-mo.html">@HI{{naimademo}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>

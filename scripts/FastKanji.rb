@@ -2783,6 +2783,7 @@ class KD
     "and*then" => Kanji.new(3006, 32780, ["JI","NI"], ["shiko.ushite","shika.shite","shika.mo","shika.redomo","sunawachi","nanji","shikaruni"], [""], ["and then","rake"], 9, 0),
     "law" => Kanji.new(3007, 25503, ["TOU","CHYOU","JOU","TEI"], ["okite"], [""], ["law","commandments","regulations"], 0, 0),
     "sniff" => Kanji.new(3008, 21957, ["KYUU"], ["ka.gu"], [""], ["sniff","smell","scents"], 0, 0),
+    "table" => Kanji.new(20960, 20960, ["KI"], ["kinyou"], [""], ["table"], 0, 0),
     }
   end
 end
