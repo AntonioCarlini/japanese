@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{zunihasumanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{zunihasumanai}}" grammar="@Vzu{{}}@HI{{nihasumanai}}" anchor="zuni"}}
+@GRMIDX{{index="@HI{{naidehasumanai}}" grammar="@Vnai{{}}@HI{{dehasumanai}}" anchor="naide"}}
+
+<body>
+
+<h1>@HI{{zunihasumanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vzu{{}}@HI{{nihasumanai}}}}
+<li> @FORMATION{{@Vnai{{}}@HI{{dehasumanai}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="zuni">@HI{{@EM{{zunihasumanai}}}}</a> expresses one's duties and obligations, that is what one has to based on circumstances and common sense.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{4@FG{{@KJ{{year}}:nen}}kaketeyattokokomade@FG{{@KJ{{come}}:ki}}tanda,@FG{{@KJ{{utmost^behind}}:saigo}}madeyari@FG{{@KJ{{consummate}}:to}}ge@EM{{zunihasumanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It took four years to come here. I must stay the course.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="naide">@HI{{@EM{{naidehasumanai}}}}</a> has the same meaning as @HI{{@EM{{zunihasumanai}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{o@FG{{@KJ{{guest^Esq.}}::kyakusama}}kara@FG{{@KJ{{attend^matter}}:shigoto}}wo@FG{{@KJ{{accept}}:u}}keta@FG{{@KJ{{by*means*of^above}}:ijou}},
+      @FG{{@KJ{{now^grow*late}}:imasara}}deki@EM{{naidehasumanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since I undertook the job from the customer, I must accomplish it.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 88).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 2.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
