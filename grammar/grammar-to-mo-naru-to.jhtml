@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tomonaruto}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tomonaruto}}" grammar="@HI{{tomonaruto}}"}}
+
+<body>
+
+<h1>@HI{{tomonaruto}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tomonaruto}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{tomonaruto}}}}}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{tomonareba}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{tomonareba}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="tomonaruto">@HI{{@EM{{tomonaruto}}}}</a> follows a noun or verb that represents a time, role or event and is followed by a sentence that expresses a judgement.
+The meaning is that something is supposed to happen in a certain condition or situation, as seen from the perspective of a specified judge.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}@FG{{@KJ{{before^life}}:sensei}}noyouna@FG{{@KJ{{possess^name}}:yuumei}}na@FG{{@KJ{{teach^impart}}:kyouju}}no
+    @FG{{@KJ{{special^separate}}:tokubetsu}}@FG{{@KJ{{impart^profession}}:jugyou}}@EM{{tonaruto}},suguni@FG{{@KJ{{determine^employee}}:teiin}}ninarudarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    If it is a special lecture held by famous professors like Prof. Suzuki, I am sure the enrollment will reach its capacity immediately.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="tomonareba">@HI{{@EM{{tomonareba}}}}</a> has the same meaning as @HI{{@EM{{tomonaruto}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{20@FG{{@KJ{{year-end}}:sai}}@EM{{tomonareba}}@FG{{@KJ{{company^meeting}}:shakai}}no@FG{{@KJ{{one^employee}}:ichiin}}datoiu@FG{{@KJ{{oneself^memorize}}:jikaku}}gadetekurumonoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    When turning 20 years old, you realise that you are a member of society.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 62).
+<li> @REF{{UDEMY-N1}}. Lesson 7.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

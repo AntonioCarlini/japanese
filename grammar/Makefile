@@ -639,6 +639,7 @@ JHTML_SRCS += grammar-to-iwazu-to-iwazu.jhtml
 JHTML_SRCS += grammar-to-mieru.jhtml
 JHTML_SRCS += grammar-to-miru.jhtml
 JHTML_SRCS += grammar-to-mo-naku.jhtml
+JHTML_SRCS += grammar-to-mo-naru-to.jhtml
 JHTML_SRCS += grammar-to-naru-to.jhtml
 JHTML_SRCS += grammar-to-naru.jhtml
 JHTML_SRCS += grammar-to-omoi-kiya.jhtml
