@@ -186,8 +186,8 @@ h2#heading {
 
 <ol>
 <li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
-<li> ~<a href=""></a>@HI{{ni}}~@HI{{nai}} @MIDDOT{{}}
-     ~<a href=""></a>@Vyou{{}}@HI{{nimo}}~@HI{{nai}}
+<li> ~<a href="grammar-ni-nai.html">@HI{{ni}}~@HI{{nai}}</a> @MIDDOT{{}}
+     ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
 <li> ~<a href=""></a>@Vte{{}}(@HI{{ha}})@HI{{irarenai}}
 <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
 <li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}

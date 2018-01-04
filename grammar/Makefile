@@ -353,6 +353,7 @@ JHTML_SRCS += grammar-ni-kuraberu-to.jhtml
 JHTML_SRCS += grammar-ni-mo-kakawarazu.jhtml
 JHTML_SRCS += grammar-ni-mo-mashite.jhtml
 JHTML_SRCS += grammar-ni-motozuite.jhtml
+JHTML_SRCS += grammar-ni-nai.jhtml
 JHTML_SRCS += grammar-ni-naru-to.jhtml
 JHTML_SRCS += grammar-ni-oite.jhtml
 JHTML_SRCS += grammar-ni-oujite.jhtml
