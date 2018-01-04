@@ -562,6 +562,7 @@ JHTML_SRCS += grammar-tara-ii-desu-ka.jhtml
 JHTML_SRCS += grammar-tara.jhtml
 JHTML_SRCS += grammar-tari-shinai.jhtml
 JHTML_SRCS += grammar-tari.jhtml
+JHTML_SRCS += grammar-taru-mono.jhtml
 JHTML_SRCS += grammar-tashika-ni-ga.jhtml
 JHTML_SRCS += grammar-tate.jhtml
 JHTML_SRCS += grammar-tatoe-temo.jhtml

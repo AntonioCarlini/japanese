@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tarumono}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tarumono}}" grammar="@HI{{tarumono}}"}}
+
+<body>
+
+<h1>@HI{{tarumono}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{tarumono}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{taru}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="tarumono">@HI{{@EM{{tarumono}}}}</a> follows a noun and means that the situation or person represented by that noun ought to be or should do whatever is expressed in the following clause.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{teach^expert}}:kyoushi}}@EM{{tarumono}},@FG{{@KJ{{usual}}:tsune}}ni@FG{{@KJ{{before^junior}}:seito}}no@FG{{@KJ{{hand^book}}:tehon}}denakunaranai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    A teacher should always be a role model for students.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="taru">@HI{{@EM{{taru}}}}</a> has the same meaning and usage as @HI{{@EM{{tarumono}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{child^submit}}:kodomo}}wo@FG{{@KJ{{set*free}}:hou}}xtsutteoitekegawosaserunante,@FG{{@KJ{{parent}}:oya}}@EM{{taru}}@FG{{@KJ{{}}:shikaku}}hanai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    They are not qualified to be parents, because their child got injured while they neglected him.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 63).
+<li> @REF{{UDEMY-N1}}. Lesson 8.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
