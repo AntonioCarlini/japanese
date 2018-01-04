@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nakushiteha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nakushiteha}}" grammar="@HI{{nakushiteha}}"}}
+
+<body>
+
+<h1>@HI{{nakushiteha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nakushiteha}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nakushiteha}}}}</a> is compound particle used to mean "without something".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{konpyu-ta-}}@EM{{nakushite}}@FG{{@KJ{{present^exist}}:genzai}}no@FG{{@KJ{{life^lively}}:seikatsu}}ha@FG{{@KJ{{negative^can^ability}}:fukanou}}da.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Without computers our current lifestyle would be impossible.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 315).
+<li> @REF{{NKZM-N1G}}. (p. 43).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 10.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

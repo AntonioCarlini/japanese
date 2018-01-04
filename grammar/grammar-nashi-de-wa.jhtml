@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{nashideha}}" grammar="@HI{{nashideha}}"}}
+@GRMIDX{{index="@HI{{nashiniha}}" grammar="@HI{{nashiniha}}"}}
 
 <body>
 
@@ -17,6 +18,7 @@
 
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{@EM{{nashideha}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nashiniha}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-<a name="dewa">@HI{{@EM{{nashideha}}}}</a> is compund particle used to express a conditional "if someone or something is missing".
+<a name="dewa">@HI{{@EM{{nashideha}}}}</a> is compound particle used to express a conditional "if someone or something is missing".
 The following clause is very often a negative.
 
 <table class="sentence">
@@ -38,14 +40,37 @@ The following clause is very often a negative.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="niwa">@HI{{@EM{{nashiniha}}}}</a> can replace @HI{{@EM{{nashideha}}}} as long as the context has only a weak meaning of a means of achieving something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{wa-puro}}@EM{{nashiniha}}@FG{{@KJ{{sentence^writing*brush}}:bunpitsu}}@FG{{@KJ{{make^profession}}:sagyou}}ha@FG{{@KJ{{consider}}:kanga}}erarenai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      One cannot think of writing  activities without a word processor.
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+@HI{{@EM{{nashini}}}} is usually used in written or formal spoken Japanese.
+</p>
+
+<p>
+When used with @HI{{ha}} in the form @HI{{@EM{{nashiniha}}}} the final predicate has to be negative.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOIJG}}. (p. 230).
+<li> @REF{{DOAJG}}. (p. 362).
 <li> @REF{{NKZM-N1G}}. (p. 43).
 <li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{UDEMY-N1}}. Lesson 3.

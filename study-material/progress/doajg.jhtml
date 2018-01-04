@@ -513,7 +513,7 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nakushite}}(@HI{{ha}})                                                 </td>
+  <td class="left"> <a href="grammar-nakushite-wa.html">@HI{{nakushite}}(@HI{{ha}})</a>                                     </td>
   <td class="left"> DOAJG, p. 315                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
@@ -598,9 +598,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{nashini}}                                                              </td>
+  <td class="left"> <a href="grammar-nashi-de-wa.html#niwa"></a>@HI{{nashini}}                                              </td>
   <td class="left"> DOAJG, p. 362                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-.html"></a>@HI{{nasu}}                                                                 </td>
