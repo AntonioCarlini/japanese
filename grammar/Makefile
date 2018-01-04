@@ -749,6 +749,7 @@ JHTML_SRCS += grammar-yori-more-than.jhtml
 JHTML_SRCS += grammar-yori-time-space.jhtml
 JHTML_SRCS += grammar-yoshi.jhtml
 JHTML_SRCS += grammar-yotei.jhtml
+JHTML_SRCS += grammar-you-de-wa.jhtml
 JHTML_SRCS += grammar-you-desu.jhtml
 JHTML_SRCS += grammar-you-ga-nai-suffix.jhtml
 JHTML_SRCS += grammar-you-ka-mai-ka.jhtml
