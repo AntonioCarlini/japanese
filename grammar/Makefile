@@ -561,6 +561,7 @@ JHTML_SRCS += grammar-tara-douka.jhtml
 JHTML_SRCS += grammar-tara-ii-desu-ka.jhtml
 JHTML_SRCS += grammar-tara.jhtml
 JHTML_SRCS += grammar-tari-shinai.jhtml
+JHTML_SRCS += grammar-tari-tomo.jhtml
 JHTML_SRCS += grammar-tari.jhtml
 JHTML_SRCS += grammar-taru-mono.jhtml
 JHTML_SRCS += grammar-tashika-ni-ga.jhtml
