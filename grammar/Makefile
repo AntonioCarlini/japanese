@@ -501,6 +501,7 @@ JHTML_SRCS += grammar-shi-infix.jhtml
 JHTML_SRCS += grammar-shidai.jhtml
 JHTML_SRCS += grammar-shika-nai.jhtml
 JHTML_SRCS += grammar-shikamo.jhtml
+JHTML_SRCS += grammar-shimatsu.jhtml
 JHTML_SRCS += grammar-shinaide-alternative.jhtml
 JHTML_SRCS += grammar-shiru.jhtml
 JHTML_SRCS += grammar-shitagatte.jhtml

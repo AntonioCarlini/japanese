@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@KJ{{commence^extremity}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{shimatsu}}" grammar="@HI{{@FG{{@KJ{{commence^extremity}}:shimatsu}}}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{commence^extremity}}:shimatsu}}}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{@FG{{@KJ{{commence^extremity}}:shimatsu}}}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@Vru{{}}@HI{{@EM{{@FG{{@KJ{{commence^extremity}}:shimatsu}}}}}} is used to represent an undesriable consequence.
+It is used when a bad result finally occurs.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}ga@FG{{@KJ{{settlement^period}}:nouki}}wo@FG{{@KJ{{guard}}:mamo}}ranakattaseide
+      @FG{{@KJ{{above^director}}:joushi}}made@FG{{@KJ{{one^life}}:isshou}}ni@FG{{@KJ{{apologize}}:ayama}}rini@FG{{@KJ{{going}}:i}}ku
+      @EM{{@FG{{@KJ{{commence^extremity}}:shimatsu}}}}datta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Since he didn’t meet the delivery date, he had to go apologise with his boss, finally.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 71).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 7.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
