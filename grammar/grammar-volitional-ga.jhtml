@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vyou{{}}ga}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{youga}}" grammar="@HI{{@Vyou{{}}to}}"}}
+@GRMIDX{{index="@HI{{youto}}" grammar="@HI{{@Vyou{{}}to}}"}}
+
+<body>
+
+<h1>@HI{{@Vyou{{}}ga}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@Vyou{{}}ga}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{karouga}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{darouga}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{dearouga}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{darouga}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{dearouga}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ga-concession">@HI{{@EM{{@Vyou{{}}ga}}}}</a> can indicate concession ("no matter what").
+It expresses a strong feeling or a solid fact that the speaker believes cannot be influenced by anything.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{person}}:hito}}ga@FG{{@KJ{{what}}:nani}}to@FG{{@KJ{{say}}:i}}@EM{{ouga}}@FG{{@KJ{{private}}:watashi}}ha@FG{{@KJ{{oneself^part}}:jibun}}no@FG{{@KJ{{child^submit}}:kodomo}}wo@FG{{@KJ{{faith}}:shin}}jiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Whatever (other) people say, I believe my child.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="to-concession">@HI{{@EM{{@Vyou{{}}to}}}}</a> has the same meaning as @HI{{@EM{{@Vyou{{}}ga}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{now}}:ima}}karadon'nani@FG{{@KJ{{hurry}}:iso}}ide@FG{{@KJ{{house}}:ie}}wo@FG{{@KJ{{exit}}:de}}@EM{{youto}},
+      @FG{{@KJ{{wait}}:ma}}chi@FG{{@KJ{{fit}}:a}}wase@FG{{@KJ{{time^interval}}:jikan}}niha@FG{{@KJ{{late}}:oku}}rerudarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      No matter how hastily you leave home from now on, you cannot make it in time for the meeting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 46).
+<li> @REF{{DOAJG}}. (p. 740).
+<li> @REF{{UDEMY-N1}}. Lesson 6.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

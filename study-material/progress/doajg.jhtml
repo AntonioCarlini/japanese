@@ -1143,9 +1143,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{youto}}/@HI{{ga}}                                                      </td>
+  <td class="left"> <a href="grammar-volitional-ga.html#to-concession">@HI{{youto}}</a>/grammar-volitional-ga.html#to-concession@HI{{ga}}</a> </td>
   <td class="left"> DOAJG, p. 740                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-yue-ni.html">@HI{{yueni}}</a>                                                          </td>
