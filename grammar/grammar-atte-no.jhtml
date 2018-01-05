@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{atteno}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{atteno}}" grammar="@HI{{atteno}}"}}
+
+<body>
+
+<h1>@HI{{atteno}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N1{{}}@HI{{@EM{{atteno}}}}@N2{{}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@N1{{}}@HI{{@EM{{atteno}}}}@N2{{}} means that if it were not for @N2{{}} then @N1{{}} would not exist.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}no@FG{{@KJ{{turn*into^}}:seiseki}}ga@FG{{@KJ{{usual}}:tsune}}ni@KT{{toppu}}nanoha,@FG{{@KJ{{day^noma}}:hibi}}no@FG{{@KJ{{toil^power}}:doryoku}}@EM{{atteno}}monodarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      He always keeps the highest grades which I think is due to his daily efforts.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 77).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

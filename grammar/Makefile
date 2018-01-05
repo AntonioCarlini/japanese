@@ -14,6 +14,7 @@ JHTML_SRCS += grammar-aru.jhtml
 JHTML_SRCS += grammar-aruiwa.jhtml
 JHTML_SRCS += grammar-atakamo.jhtml
 JHTML_SRCS += grammar-ato-de.jhtml
+JHTML_SRCS += grammar-atte-no.jhtml
 JHTML_SRCS += grammar-au-suffix.jhtml
 JHTML_SRCS += grammar-ba-conditional.jhtml
 JHTML_SRCS += grammar-ba-hodo.jhtml
