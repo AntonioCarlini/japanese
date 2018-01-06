@@ -300,7 +300,9 @@
 <h2><a class="navtarget" name="w4d5">_</a> @KJ{{No.}}4@KJ{{week}}5@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a>@HI{{karasuru}}
+<li> <a href="grammar-kara-suru.html#aru">@HI{{karaaru}}</a> @MIDDOT{{}}
+     <a href="grammar-kara-suru.html#suru">@HI{{karasuru}}</a> @MIDDOT{{}}
+     <a href="grammar-kara-suru.html#no">@HI{{karano}}</a>
 <li> <a href="grammar-tari-tomo.html">@HI{{taritomo}}</a>
 <li> <a href=""></a>@HI{{naritomo}}
 <li> <a href="grammar-nara-de-wa.html">@HI{{naradeha}}</a>

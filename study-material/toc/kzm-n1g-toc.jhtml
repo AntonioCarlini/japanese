@@ -232,9 +232,9 @@ h2#heading {
 <li> ~<a href="grammar-dani.html#even">@HI{{dani}}</a>
 <li> ~<a href=""></a>@HI{{nishite}}
 <li> ~<a href="grammar-atte-no.html">@HI{{atteno}}</a>
-<li> ~<a href=""></a>@HI{{karaaru}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{karasuru}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{karano}}
+<li> ~<a href="grammar-kara-suru.html#aru">@HI{{karaaru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-kara-suru.html#suru">@HI{{karasuru}}</a> @MIDDOT{{}}
+     ~<a href="grammar-kara-suru.html#no">@HI{{karano}}</a>
 </ol>
 
 <h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
