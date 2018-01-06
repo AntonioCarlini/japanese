@@ -714,6 +714,7 @@ JHTML_SRCS += grammar-verb-use-of-passive.jhtml
 JHTML_SRCS += grammar-verb-use-of-potential.jhtml
 JHTML_SRCS += grammar-verb-use-of-volitional.jhtml
 JHTML_SRCS += grammar-verb-use-of-zu.jhtml
+JHTML_SRCS += grammar-volitional-ga-mai-ga.jhtml
 JHTML_SRCS += grammar-volitional-ga.jhtml
 JHTML_SRCS += grammar-volitional-ni-mo-nai.jhtml
 JHTML_SRCS += grammar-volitional-to-suru.jhtml
