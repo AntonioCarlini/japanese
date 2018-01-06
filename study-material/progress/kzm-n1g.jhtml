@@ -29,7 +29,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 2 @KJ{{chapter}} </td>
-  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 3 @KJ{{chapter}} </td>

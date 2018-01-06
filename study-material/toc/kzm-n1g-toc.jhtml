@@ -67,8 +67,8 @@ h2#heading {
 <h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>
 
 <ol>
-<li> ~<a href="grammar-wo-kawakiri-ni.html">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{rini}}(@HI{{shite}})</a> @MIDDOT{{}}
-     ~<a href="grammar-wo-kawakiri-ni.html"></a>@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{ritoshite}}
+<li> ~<a href="grammar-wo-kawakiri-ni.html#ni">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{rini}}(@HI{{shite}})</a> @MIDDOT{{}}
+     ~<a href="grammar-wo-kawakiri-ni.html#toshite">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{ritoshite}}</a>
 <li> ~<a href="grammar-kara-itaru-made.html#ni-itaru-made">@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{rumade}}</a>
 <li> ~<a href="grammar-wo-kagiri-ni.html">@HI{{wo}}@FG{{@KJ{{limit}}:kagi}}@HI{{rini}}</a>
 <li> ~<a href="grammar-wo-motte.html#time-end">@HI{{womotte}}</a>

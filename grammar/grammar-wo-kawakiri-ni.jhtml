@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}} indicates the beginning of something or the main example of something.
+<a name="ni">@HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}}</a> indicates the beginning of something or the main example of something.
 The following clause is the same sort of action or event and often develops rapidly.
 The marked action or event is the impetus for a series of similar actions or events.
 It is hardly ever used with natural phenomena or unfavourable events.
@@ -39,6 +39,23 @@ It is hardly ever used with natural phenomena or unfavourable events.
   </td> </tr>
   <tr class="en"> <td>
       Starting with the next end-of-term exam, I am going to study every day.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+<a name="toshite">@HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}ritoshite}}}}</a> has the same meaning as @HI{{@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}}}.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      K@FG{{@KJ{{silver^going}}:ginkou}}@HI{{to}}M@FG{{@KJ{{silver^going}}:ginkou}}@HI{{no@FG{{@KJ{{fit^join}}:gappei}}@EM{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}ritoshite}},
+      koko@FG{{@KJ{{number^year}}:suunen}}@FG{{@KJ{{undertake^profession}}:kigyou}}no@KJ{{fit^join}}@MIDDOT{{}}@FG{{@KJ{{overall^fit}}:tougou}}ga@FG{{@KJ{{inter-^next}}:aitsu}}ide
+      @FG{{@KJ{{going}}:okona}}wareteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Starting with the merger of K Bank and M Bank, this multi-year enterprise of mergers and acquisitions will happen one after the other.
   </td> </tr>
 </table>
 </p>
