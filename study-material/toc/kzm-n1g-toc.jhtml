@@ -10,7 +10,8 @@ h2#heading {
 }
 
 td, th {
-    width: 25%;
+  width: 25%;
+  vertical-align:top;
 }
 </style>
 </head>

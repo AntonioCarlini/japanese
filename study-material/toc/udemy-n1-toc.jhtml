@@ -6,7 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
 td, th {
-    width: 34%;
+  width: 34%;
+  vertical-align:top;
 }
 </style>
 </head>
