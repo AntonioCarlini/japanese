@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{sentence^method}}</title>
+<title>@KJ{{new^perfect^whole}}@KT{{masuta-}} N1 @KJ{{sentence^method}}</title>
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
 h2#heading {
   background-color: goldenrod;
+}
+
+td, th {
+    width: 25%;
 }
 </style>
 </head>
@@ -44,7 +48,7 @@ h2#heading {
 
 <div class="main">
 
-<h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{sentence^method}}</h1>
+<h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N1 @KJ{{sentence^method}}</h1>
 
 <div class="toc">
 <h1>Table of Contents</h1>
@@ -52,261 +56,355 @@ h2#heading {
 <h2 id="heading">@KJ{{reality^power^foster^turn*into^compilation}} 
     @KJ{{No.}}1@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 1</h2>
 
-<h3><a class="navtarget" name="chapter1.1">_</a>1 @KJ{{chapter}}</h3>
+<table>
 
-<ol>
-<li> ~<a href="grammar-ga-hayai-ka.html">@HI{{ga}}@FG{{@KJ{{early}}:haya}}@HI{{ika}}</a>
-<li> ~<a href="grammar-ya-ina-ya.html#ya">@HI{{ya}}</a> @MIDDOT{{}}
-     ~<a href="grammar-ya-ina-ya.html">@HI{{ya}}@FG{{@KJ{{negate}}:ina}}@HI{{ya}}</a>
-<li> ~<a href="grammar-nari.html">@HI{{nari}}</a>
-<li> ~<a href="grammar-soba-kara.html">@HI{{sobakara}}</a>
-<li> ~<a href="grammar-te-kara-to-iu-mono.html">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
-<li> ~<a href="grammar-ni-atte.html">@HI{{niatte}}</a>
-</ol>
+  <tr>
 
-<h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.1">_</a>1 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-ga-hayai-ka.html">@HI{{ga}}@FG{{@KJ{{early}}:haya}}@HI{{ika}}</a>
+        <li> ~<a href="grammar-ya-ina-ya.html#ya">@HI{{ya}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ya-ina-ya.html">@HI{{ya}}@FG{{@KJ{{negate}}:ina}}@HI{{ya}}</a>
+        <li> ~<a href="grammar-nari.html">@HI{{nari}}</a>
+        <li> ~<a href="grammar-soba-kara.html">@HI{{sobakara}}</a>
+        <li> ~<a href="grammar-te-kara-to-iu-mono.html">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
+        <li> ~<a href="grammar-ni-atte.html">@HI{{niatte}}</a>
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-wo-kawakiri-ni.html#ni">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{rini}}(@HI{{shite}})</a> @MIDDOT{{}}
-     ~<a href="grammar-wo-kawakiri-ni.html#toshite">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{ritoshite}}</a>
-<li> ~<a href="grammar-kara-itaru-made.html#ni-itaru-made">@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{rumade}}</a>
-<li> ~<a href="grammar-wo-kagiri-ni.html">@HI{{wo}}@FG{{@KJ{{limit}}:kagi}}@HI{{rini}}</a>
-<li> ~<a href="grammar-wo-motte.html#time-end">@HI{{womotte}}</a>
-<li> ~<a href="grammar-to-itta-tokoro-da.html">@HI{{toittatokoroda}}</a>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.2">_</a>2 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-wo-kawakiri-ni.html#ni">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{rini}}(@HI{{shite}})</a> @MIDDOT{{}}
+          ~<a href="grammar-wo-kawakiri-ni.html#toshite">@HI{{wo}}@FG{{@KJ{{pelt^cut}}:kawaki}}@HI{{ritoshite}}</a>
+        <li> ~<a href="grammar-kara-itaru-made.html#ni-itaru-made">@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{rumade}}</a>
+        <li> ~<a href="grammar-wo-kagiri-ni.html">@HI{{wo}}@FG{{@KJ{{limit}}:kagi}}@HI{{rini}}</a>
+        <li> ~<a href="grammar-wo-motte.html#time-end">@HI{{womotte}}</a>
+        <li> ~<a href="grammar-to-itta-tokoro-da.html">@HI{{toittatokoroda}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.3">_</a>3 @KJ{{chapter}}</h3>
+    <td>      
+      <h3><a class="navtarget" name="chapter1.3">_</a>3 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-wo-oite.html">@HI{{wooite}}</a>
+        <li> ~<a href="grammar-nara-de-wa.html">@HI{{naradeha}}</a>
+        <li> ~<a href="grammar-ni-todomarazu.html">@HI{{nitodomarazu}}</a>
+        <li> ~<a href="grammar-wa-oroka.html">@HI{{haoroka}}</a>
+        <li> ~<a href="grammar-mo-saru-koto-nagara.html">@HI{{mosarukotonagara}}</a>
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-wo-oite.html">@HI{{wooite}}</a>
-<li> ~<a href="grammar-nara-de-wa.html">@HI{{naradeha}}</a>
-<li> ~<a href="grammar-ni-todomarazu.html">@HI{{nitodomarazu}}</a>
-<li> ~<a href="grammar-wa-oroka.html">@HI{{haoroka}}</a>
-<li> ~<a href="grammar-mo-saru-koto-nagara.html">@HI{{mosarukotonagara}}</a>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-particle-nari.html#two-choices">@HI{{nari}}@JDOTS3{{}}@HI{{nari}}</a>
+        <li> ~<a href="grammar-deare-deare.html">@HI{{deare}}@JDOTS3{{}}@HI{{deare}}</a> @MIDDOT{{}}
+          ~<a href="grammar-deare-deare.html#dearouto-dearouto">@HI{{dearouto}}@JDOTS3{{}}@HI{{dearouto}}</a>
+        <li> ~<a href="grammar-to-ii-to-ii.html">@HI{{toii}}@JDOTS3{{}}@HI{{toii}}</a>
+        <li> ~<a href="grammar-to-iwazu-to-iwazu.html">@HI{{toiwazu}}@JDOTS3{{}}@HI{{toiwazu}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.4">_</a>4 @KJ{{chapter}}</h3>
+  </tr>
 
-<ol>
-<li> ~<a href="grammar-particle-nari.html#two-choices">@HI{{nari}}@JDOTS3{{}}@HI{{nari}}</a>
-<li> ~<a href="grammar-deare-deare.html">@HI{{deare}}@JDOTS3{{}}@HI{{deare}}</a> @MIDDOT{{}}
-     ~<a href="grammar-deare-deare.html#dearouto-dearouto">@HI{{dearouto}}@JDOTS3{{}}@HI{{dearouto}}</a>
-<li> ~<a href="grammar-to-ii-to-ii.html">@HI{{toii}}@JDOTS3{{}}@HI{{toii}}</a>
-<li> ~<a href="grammar-to-iwazu-to-iwazu.html">@HI{{toiwazu}}@JDOTS3{{}}@HI{{toiwazu}}</a>
-</ol>
+  <tr>
+    <td colspan="2">
+      <h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-ikan-da.html#da">@HI{{ikanda}}</a>
+        <li> ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'nikakawarazu}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ikan-da.html#regardless">@HI{{ikanwo@FG{{@KJ{{question}}:to}}warazu}}</a>
+        <li> ~<a href="grammar-wo-mono-to-mo-sezu.html">@HI{{womonotomosezu}}(@HI{{ni}})</a>
+        <li> ~<a href="grammar-wo-yoso-ni.html">@HI{{woyosoni}}</a>
+        <li> ~<a href="grammar-iza-shirazu.html">@HI{{naraizashirazu}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-n-bakari.html#da">@HI{{nbakarida}}</a>
+        <li> ~<a href="grammar-bakari-ni.html#to">@HI{{tobakari}}(@HI{{ni}})</a>
+        <li> ~<a href="grammar-to-mo-naku.html#tomonaku">@HI{{tomonaku}}</a> @MIDDOT{{}}
+          ~<a href="grammar-to-mo-naku.html#tomonashi">@HI{{tomonashini}}</a>
+        <li> ~<a href="grammar-nagara-ni.html#nagarani">@HI{{nagarani}}(@HI{{shite}})</a>
+        <li> ~<a href="grammar-kirai-ga-aru.html">@HI{{kiraigaaru}}</a>
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-ikan-da.html#da">@HI{{ikanda}}</a>
-<li> ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'nikakawarazu}}</a> @MIDDOT{{}}
-     ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a> @MIDDOT{{}}
-     ~<a href="grammar-ikan-da.html#regardless">@HI{{ikanwo@FG{{@KJ{{question}}:to}}warazu}}</a>
-<li> ~<a href="grammar-wo-mono-to-mo-sezu.html">@HI{{womonotomosezu}}(@HI{{ni}})</a>
-<li> ~<a href="grammar-wo-yoso-ni.html">@HI{{woyosoni}}</a>
-<li> ~<a href="grammar-iza-shirazu.html">@HI{{naraizashirazu}}</a>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-gatera.html">@HI{{gatera}}</a>
+        <li> ~<a href="grammar-katagata.jhtml">@HI{{katagata}}</a>
+        <li> ~<a href="grammar-katawara.html#secondary">@HI{{katawara}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.6">_</a>6 @KJ{{chapter}}</h3>
+  </tr>
 
-<ol>
-<li> ~<a href="grammar-n-bakari.html#da">@HI{{nbakarida}}</a>
-<li> ~<a href="grammar-bakari-ni.html#to">@HI{{tobakari}}(@HI{{ni}})</a>
-<li> ~<a href="grammar-to-mo-naku.html#tomonaku">@HI{{tomonaku}}</a> @MIDDOT{{}}
-     ~<a href="grammar-to-mo-naku.html#tomonashi">@HI{{tomonashini}}</a>
-<li> ~<a href="grammar-nagara-ni.html#nagarani">@HI{{nagarani}}(@HI{{shite}})</a>
-<li> ~<a href="grammar-kirai-ga-aru.html">@HI{{kiraigaaru}}</a>
-</ol>
+  <tr>
+    <td>
+      <h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-tokoro-wo.html">@HI{{tokorowo}}</a>
+        <li> ~<a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>
+        <li> ~<a href="grammar-particle-to-wa.html">@HI{{tohaie}}
+            <li> ~<a href="grammar-to-ie-domo.html">@HI{{toiedomo}}</a>
+            <li> ~<a href="grammar-to-omoi-kiya.html">@HI{{to@FG{{@KJ{{think}}:omo}}ikiya}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.7">_</a>7 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-to-areba.html">@HI{{toareba}}</a>
+        <li> ~<a href="grammar-ga-saigo.html#ra">@Vta{{}}@HI{{ra}}@FG{{@KJ{{utmost^behind}}:saigo}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ga-saigo.html#ga">@Vta{{}}@HI{{ga}}@FG{{@KJ{{utmost^behind}}:saigo}}</a>
+        <li> ~<a href="grammar-you-de-wa.html">@HI{{youdeha}}</a>
+        <li> ~<a href="grammar-nashi-de-wa.html#niwa">@HI{{nashini}}(@HI{{ha}})</a> @MIDDOT{{}}
+          ~<a href="grammar-nashi-de-wa.html#dewa">@HI{{nashideha}}</a> @MIDDOT{{}}
+          ~<a href="grammar-nakushite-wa.html">@HI{{nakushite}}(@HI{{ha}})</a>
+        <li> ~<a href=""></a>@HI{{kurainara}}
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-gatera.html">@HI{{gatera}}</a>
-<li> ~<a href="grammar-katagata.jhtml">@HI{{katagata}}</a>
-<li> ~<a href="grammar-katawara.html#secondary">@HI{{katawara}}</a>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-volitional-ga.html#to-concession">@Vyou{{}}@HI{{to}}(@HI{{mo}})</a> @MIDDOT{{}}
+          ~<a href="grammar-volitional-ga.html#ga-concession">@Vyou{{}}@HI{{ga}}</a>
+        <li> ~<a href="grammar-volitional-ga-mai-ga.html#to">@Vyou{{}}@HI{{to}}~@HI{{maito}}</a> @MIDDOT{{}}
+          ~<a href="grammar-volitional-ga-mai-ga.html#ga">@Vyou{{}}@HI{{ga}}~@HI{{maiga}}</a>
+        <li> ~<a href="grammar-deare.html#deare">@HI{{deare}}</a> @MIDDOT{{}}
+          ~<a href="grammar-deare.html#dearouto">@HI{{dearouto}}</a>
+        <li> ~<a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>
+        <li> ~<a href=""></a>@Vba{{}}~@HI{{de}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{nara}}~@HI{{de}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{nara}}~@Vta{{}}@HI{{de}}
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-beki.html#beku">@HI{{beku}}</a>
+        <li> ~<a href="grammar-tame-ni.html#nga-tame-ni">@HI{{ngatame}}(@HI{{ni}})</a>
+        <li> ~<a href="grammar-wo-motte.html#means">@HI{{womotte}}</a>
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-tokoro-wo.html">@HI{{tokorowo}}</a>
-<li> ~<a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>
-<li> ~<a href="grammar-particle-to-wa.html">@HI{{tohaie}}
-<li> ~<a href="grammar-to-ie-domo.html">@HI{{toiedomo}}</a>
-<li> ~<a href="grammar-to-omoi-kiya.html">@HI{{to@FG{{@KJ{{think}}:omo}}ikiya}}</a>
-</ol>
+  </tr>
 
-<h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
+  <tr>
+    
+    <td>
+      <h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
 
-<ol>
-<li> ~<a href="grammar-to-areba.html">@HI{{toareba}}</a>
-<li> ~<a href="grammar-ga-saigo.html#ra">@Vta{{}}@HI{{ra}}@FG{{@KJ{{utmost^behind}}:saigo}}</a> @MIDDOT{{}}
-     ~<a href="grammar-ga-saigo.html#ga">@Vta{{}}@HI{{ga}}@FG{{@KJ{{utmost^behind}}:saigo}}</a>
-<li> ~<a href="grammar-you-de-wa.html">@HI{{youdeha}}</a>
-<li> ~<a href="grammar-nashi-de-wa.html#niwa">@HI{{nashini}}(@HI{{ha}})</a> @MIDDOT{{}}
-     ~<a href="grammar-nashi-de-wa.html#dewa">@HI{{nashideha}}</a> @MIDDOT{{}}
-     ~<a href="grammar-nakushite-wa.html">@HI{{nakushite}}(@HI{{ha}})</a>
-<li> ~<a href=""></a>@HI{{kurainara}}
-</ol>
+      <ol>
+        <li> ~<a href=""></a>@Vba{{}}@HI{{koso}}
+        <li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
+        <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
+        <li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
+        <li> ~<a href="grammar-yue-ni.html#yueni">@HI{{yue}}(@HI{{ni}})</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
+        <li> ~<a href="grammar-ni-nai.html">@HI{{ni}}~@HI{{nai}}</a> @MIDDOT{{}}
+          ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
+        <li> ~<a href=""></a>@Vte{{}}(@HI{{ha}})@HI{{irarenai}}
+        <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
+        <li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
+          ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
+        <li> ~<a href=""></a>@HI{{majiki}}
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-volitional-ga.html#to-concession">@Vyou{{}}@HI{{to}}(@HI{{mo}})</a> @MIDDOT{{}}
-     ~<a href="grammar-volitional-ga.html#ga-concession">@Vyou{{}}@HI{{ga}}</a>
-<li> ~<a href="grammar-volitional-ga-mai-ga.html#to">@Vyou{{}}@HI{{to}}~@HI{{maito}}</a> @MIDDOT{{}}
-     ~<a href="grammar-volitional-ga-mai-ga.html#ga">@Vyou{{}}@HI{{ga}}~@HI{{maiga}}</a>
-<li> ~<a href="grammar-deare.html#deare">@HI{{deare}}</a> @MIDDOT{{}}
-     ~<a href="grammar-deare.html#dearouto">@HI{{dearouto}}</a>
-<li> ~<a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>
-<li> ~<a href=""></a>@Vba{{}}~@HI{{de}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{nara}}~@HI{{de}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{nara}}~@Vta{{}}@HI{{de}}
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.14">_</a>14 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-to-kitara.html">@HI{{tokitara}}</a>
+        <li> ~<a href="grammar-to-mo-naru-to.html#tomonaruto">@HI{{tomonaruto}}</a> @MIDDOT{{}}
+          ~<a href="grammar-to-mo-naru-to.html#tomonareba">@HI{{tomonareba}}</a>
+        <li> ~<a href=""></a>@HI{{tomoarou}}
+        <li> ~<a href="grammar-taru-mono.html#tarumono">@HI{{tarumono}}(@HI{{ha}})</a>
+        <li> ~<a href="grammar-nari-ni.html#narini">@HI{{narini}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.11">_</a>11 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-ni-hikikae.html">@HI{{nihikikae}}</a>
+        <li> ~<a href="grammar-ni-mo-mashite.html">@HI{{nimomashite}}</a>
+        <li> ~<a href="grammar-nai-made-mo.html">@HI{{naimademo}}</a>
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-beki.html#beku">@HI{{beku}}</>
-<li> ~<a href="grammar-tame-ni.html#nga-tame-ni">@HI{{ngatame}}(@HI{{ni}})</a>
-<li> ~<a href="grammar-wo-motte.html#means">@HI{{womotte}}</a>
-</ol>
+  </tr>
 
-<h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
+  <tr>
+    
+    <td>
+      <h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}ttemo}}
+        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tteha}}
+        <li> ~<a href="grammar-shimatsu.html">@HI{{@FG{{@KJ{{commence^extremity}}:shimatsu}}da}}</a>
+        <li> ~<a href=""></a>@HI{{ppanashida}}
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href=""></a>@Vba{{}}@HI{{koso}}
-<li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
-<li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
-<li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
-<li> ~<a href="grammar-yue-ni.html#yueni">@HI{{yue}}(@HI{{ni}})</a>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-tari-tomo.html">@HI{{taritomo}}~@HI{{nai}}</a>
+        <li> ~<a href=""></a>@HI{{nara}}
+        <li> ~<a href="grammar-dani.html#even">@HI{{dani}}</a>
+        <li> ~<a href=""></a>@HI{{nishite}}
+        <li> ~<a href="grammar-atte-no.html">@HI{{atteno}}</a>
+        <li> ~<a href="grammar-kara-suru.html#aru">@HI{{karaaru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-kara-suru.html#suru">@HI{{karasuru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-kara-suru.html#no">@HI{{karano}}</a>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href="grammar-made-mo-nai.html#nai">@HI{{mademonai}}</a>
+        <li> ~<a href=""></a>@HI{{madeda}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{madenokotoda}}
+        <li> ~<a href=""></a>@Vba{{}}@HI{{soremadeda}}
+        <li> ~<a href=""></a>@HI{{niha@FG{{@KJ{{hit}}:a}}taranai}}
+        <li> ~<a href=""></a>@HI{{denakutenandarou}}(@HI{{ka}})
+      </ol>
+    </td>
 
-<ol>
-<li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
-<li> ~<a href="grammar-ni-nai.html">@HI{{ni}}~@HI{{nai}}</a> @MIDDOT{{}}
-     ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
-<li> ~<a href=""></a>@Vte{{}}(@HI{{ha}})@HI{{irarenai}}
-<li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
-<li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
-     ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
-<li> ~<a href=""></a>@HI{{majiki}}
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.19">_</a>19 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}
+        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}
+        <li> ~<a href=""></a>@HI{{toittaranai}}
+        <li> ~<a href=""></a>@HI{{kagirida}}
+        <li> ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}maru}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}marinai}}
+        <li> ~<a href=""></a>@HI{{toha}}
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.14">_</a>14 @KJ{{chapter}}</h3>
+  </tr>
 
-<ol>
-<li> ~<a href="grammar-to-kitara.html">@HI{{tokitara}}</a>
-<li> ~<a href="grammar-to-mo-naru-to.html#tomonaruto">@HI{{tomonaruto}}</a> @MIDDOT{{}}
-     ~<a href="grammar-to-mo-naru-to.html#tomonareba">@HI{{tomonareba}}</a>
-<li> ~<a href=""></a>@HI{{tomoarou}}
-<li> ~<a href="grammar-taru-mono.html#tarumono">@HI{{tarumono}}(@HI{{ha}})</a>
-<li> ~<a href="grammar-nari-ni.html#narini">@HI{{narini}}</a>
-</ol>
+  <tr>
+    
+    <td>
+      <h3><a class="navtarget" name="chapter1.20">_</a>20 @KJ{{chapter}}</h3>
+      
+      <ol>
+        <li> ~<a href=""></a>@Vte{{}}@HI{{yamanai}}
+        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}
+        <li> ~<a href="grammar-zu-ni-wa-sumanai.html#naide">@HI{{naidehasumanai}}</a> @MIDDOT{{}}
+          ~<a href="grammar-zu-ni-wa-sumanai.html#zuni">@HI{{zunihasumanai}}</a>
+        <li> ~<a href=""></a>@HI{{naidehaokanai}} @MIDDOT{{}}
+          ~<a href="grammar-zu-ni-wa-okanai.html#zunihaokanai">@HI{{zunihaokanai}}</a>
+        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}
+        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareru}} @MIDDOT{{}}
+          ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusaseru}}
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
+  </tr>
 
-<ol>
-<li> ~<a href="grammar-ni-hikikae.html">@HI{{nihikikae}}</a>
-<li> ~<a href="grammar-ni-mo-mashite.html">@HI{{nimomashite}}</a>
-<li> ~<a href="grammar-nai-made-mo.html">@HI{{naimademo}}</a>
-</ol>
+</table>
 
-<h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
+<table>
 
-<ol>
-<li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}ttemo}}
-<li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tteha}}
-<li> ~<a href="grammar-shimatsu.html">@HI{{@FG{{@KJ{{commence^extremity}}:shimatsu}}da}}</a>
-<li> ~<a href=""></a>@HI{{ppanashida}}
-</ol>
+  <tr>
 
-<h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.A">_</a>A</h3>
 
-<ol>
-<li> ~<a href="grammar-tari-tomo.html">@HI{{taritomo}}~@HI{{nai}}</a>
-<li> ~<a href=""></a>@HI{{nara}}
-<li> ~<a href="grammar-dani.html#even">@HI{{dani}}</a>
-<li> ~<a href=""></a>@HI{{nishite}}
-<li> ~<a href="grammar-atte-no.html">@HI{{atteno}}</a>
-<li> ~<a href="grammar-kara-suru.html#aru">@HI{{karaaru}}</a> @MIDDOT{{}}
-     ~<a href="grammar-kara-suru.html#suru">@HI{{karasuru}}</a> @MIDDOT{{}}
-     ~<a href="grammar-kara-suru.html#no">@HI{{karano}}</a>
-</ol>
+      <ol>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.B">_</a>B</h3>
 
-<ol>
-<li> ~<a href="grammar-made-mo-nai.html#nai">@HI{{mademonai}}</a>
-<li> ~<a href=""></a>@HI{{madeda}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{madenokotoda}}
-<li> ~<a href=""></a>@Vba{{}}@HI{{soremadeda}}
-<li> ~<a href=""></a>@HI{{niha@FG{{@KJ{{hit}}:a}}taranai}}
-<li> ~<a href=""></a>@HI{{denakutenandarou}}(@HI{{ka}})
-</ol>
+      <ol>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.19">_</a>19 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.C">_</a>C</h3>
 
-<ol>
-<li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}
-<li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}
-<li> ~<a href=""></a>@HI{{toittaranai}}
-<li> ~<a href=""></a>@HI{{kagirida}}
-<li> ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}maru}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}marinai}}
-<li> ~<a href=""></a>@HI{{toha}}
-</ol>
+      <ol>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.20">_</a>20 @KJ{{chapter}}</h3>
+    <td>
+      <h3><a class="navtarget" name="chapter1.D">_</a>D</h3>
 
-<ol>
-<li> ~<a href=""></a>@Vte{{}}@HI{{yamanai}}
-<li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}
-<li> ~<a href="grammar-zu-ni-wa-sumanai.html#naide">@HI{{naidehasumanai}}</a> @MIDDOT{{}}
-     ~<a href="grammar-zu-ni-wa-sumanai.html#zuni">@HI{{zunihasumanai}}</a>
-<li> ~<a href=""></a>@HI{{naidehaokanai}} @MIDDOT{{}}
-     ~<a href="grammar-zu-ni-wa-okanai.html#zunihaokanai">@HI{{zunihaokanai}}</a>
-<li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}
-<li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareru}} @MIDDOT{{}}
-     ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusaseru}}
-</ol>
+      <ol>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.A">_</a>A</h3>
+  </tr>
 
-<ol>
-</ol>
+  <tr>
+    
+    <td>
+      <h3><a class="navtarget" name="chapter1.E">_</a>E</h3>
 
-<h3><a class="navtarget" name="chapter1.B">_</a>B</h3>
+      <ol>
+      </ol>
+    </td>
 
-<ol>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.F">_</a>F</h3>
 
-<h3><a class="navtarget" name="chapter1.C">_</a>C</h3>
+      <ol>
+      </ol>
+    </td>
 
-<ol>
-</ol>
+    <td>
+      <h3><a class="navtarget" name="chapter1.G">_</a>G</h3>
+      <ol>
+      </ol>
+    </td>
 
-<h3><a class="navtarget" name="chapter1.D">_</a>D</h3>
+  </tr>
 
-<ol>
-</ol>
-
-<h3><a class="navtarget" name="chapter1.E">_</a>E</h3>
-
-<ol>
-</ol>
-
-<h3><a class="navtarget" name="chapter1.F">_</a>F</h3>
-
-<ol>
-</ol>
-
-<h3><a class="navtarget" name="chapter1.G">_</a>G</h3>
-
+</table>
+    
 <h2 id="heading">@KJ{{reality^power^foster^turn*into^compilation}} 
     @KJ{{No.}}2@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 2</h2>
 
