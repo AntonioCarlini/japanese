@@ -13,6 +13,10 @@ td, th {
   width: 25%;
   vertical-align:top;
 }
+
+span.nobreak {
+  display: inline-block;
+}
 </style>
 </head>
 <body>
@@ -115,14 +119,14 @@ td, th {
   </tr>
 
   <tr>
-    <td colspan="2">
+    <td>
       <h3><a class="navtarget" name="chapter1.5">_</a>5 @KJ{{chapter}}</h3>
       
       <ol>
         <li> ~<a href="grammar-ikan-da.html#da">@HI{{ikanda}}</a>
-        <li> ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'nikakawarazu}}</a> @MIDDOT{{}}
-          ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a> @MIDDOT{{}}
-          ~<a href="grammar-ikan-da.html#regardless">@HI{{ikanwo@FG{{@KJ{{question}}:to}}warazu}}</a>
+        <li> <span class="nobreak">~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'nikakawarazu}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-ikan-da.html#regardless">@HI{{ikanwo@FG{{@KJ{{question}}:to}}warazu}}</a></span>
         <li> ~<a href="grammar-wo-mono-to-mo-sezu.html">@HI{{womonotomosezu}}(@HI{{ni}})</a>
         <li> ~<a href="grammar-wo-yoso-ni.html">@HI{{woyosoni}}</a>
         <li> ~<a href="grammar-iza-shirazu.html">@HI{{naraizashirazu}}</a>
@@ -152,9 +156,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
     <td>
       <h3><a class="navtarget" name="chapter1.8">_</a>8 @KJ{{chapter}}</h3>
       
@@ -167,6 +168,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.9">_</a>9 @KJ{{chapter}}</h3>
       
@@ -209,10 +214,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
 
@@ -225,6 +226,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
       
@@ -263,10 +268,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.16">_</a>16 @KJ{{chapter}}</h3>
       
@@ -279,6 +280,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
       
@@ -322,10 +327,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.20">_</a>20 @KJ{{chapter}}</h3>
       

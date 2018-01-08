@@ -14,6 +14,9 @@ td, th {
   vertical-align:top;
 }
 
+span.nobreak {
+  display: inline-block;
+}
 </style>
 </head>
 <body>
@@ -184,15 +187,15 @@ td, th {
       </ol>
     </td>
 
-    <td colspan="2">
+    <td>
       <h3><a class="navtarget" name="chapter1.10">_</a>10 @KJ{{chapter}}</h3>
       
       <ol>
         <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
         <li> ~@HI{{toiuka}}~@HI{{toiuka}}
-        <li> ~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}@HI{{nishitemo}}</a> @MIDDOT{{}}
-          ~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiru}}~@HI{{nishiru}}</a> @MIDDOT{{}}
-          ~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a>
+        <li> <span class="nobreak">~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}@HI{{nishitemo}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiru}}~@HI{{nishiru}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a></span>
         <li> ~<a href="grammar-to-itta.html">@HI{{toitta}}</a>
       </ol>
     </td>
@@ -209,10 +212,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
       
@@ -225,6 +224,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.13">_</a>13 @KJ{{chapter}}</h3>
       
@@ -250,17 +253,16 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
-    <td colspan="2">
+    <td>
       <h3><a class="navtarget" name="chapter1.15">_</a>15 @KJ{{chapter}}</h3>
       
       <ol>
-        <li> ~@HI{{toshitara}}, ~@HI{{tosureba}},
-          ~<a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a>,
-          ~@HI{{tonattara}}, ~@HI{{tonareba}}, ~@HI{{tonaruto}}
+        <li> <span class="nobreak">~@HI{{toshitara}}</span> @MIDDOT{{}}
+          <span class="nobreak">~@HI{{tosureba}}</span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-to-suru-to.html">@HI{{tosuruto}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">@HI{{tonattara}}</span> @MIDDOT{{}}
+          <span class="nobreak">~@HI{{tonareba}}</span> @MIDDOT{{}}
+          <span class="nobreak">~@HI{{tonaruto}}</span>
         <li> ~<a href="grammar-particle-mono-nara.html#unlikely">@HI{{mononara}}</a>
         <li> ~@Vyou{{}}@HI{{mononara}}
         <li> ~<a href="grammar-nai-koto-ni-wa.html">@HI{{naikotoniha}}</a>
@@ -284,6 +286,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.17">_</a>17 @KJ{{chapter}}</h3>
       
@@ -298,10 +304,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.18">_</a>18 @KJ{{chapter}}</h3>
       
@@ -341,6 +343,10 @@ td, th {
       </ol>
     </td>
 
+  </tr>
+
+  <tr>
+    
     <td>
       <h3><a class="navtarget" name="chapter1.21">_</a>21 @KJ{{chapter}}</h3>
       
@@ -358,10 +364,6 @@ td, th {
       </ol>
     </td>
 
-  </tr>
-
-  <tr>
-    
     <td>
       <h3><a class="navtarget" name="chapter1.22">_</a>22 @KJ{{chapter}}</h3>
       
@@ -408,13 +410,13 @@ td, th {
 
   <tr>
 
-    <td colspan="2">
+    <td>
       <h3><a class="navtarget" name="chapter1.25">_</a>25 @KJ{{chapter}}</h3>
       
       <ol>
-        <li> ~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shikataganai}}</a> @MIDDOT{{}}
-          ~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shouganai}}</a> @MIDDOT{{}}
-          ~<a href="grammar-tamaranai.html">@Vte{{}}@HI{{tamaranai}}</a>
+        <li> <span class="nobreak">~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shikataganai}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-te-shikata-ga-nai.html">@Vte{{}}@HI{{shouganai}}</a></span> @MIDDOT{{}}
+          <span class="nobreak">~<a href="grammar-tamaranai.html">@Vte{{}}@HI{{tamaranai}}</a></span>
         <li> ~<a href="grammar-naranai.html">@Vte{{}}@HI{{naranai}}</a>
         <li> ~<a href="grammar-te-wa-irarenai.html#nai-de-wa-irarenai">@HI{{naidehairarenai}}</a> @MIDDOT{{}}
           ~<a href="grammar-te-wa-irarenai.html#zu-ni-wa-irarenai">@HI{{zunihairarenai}}</a>
