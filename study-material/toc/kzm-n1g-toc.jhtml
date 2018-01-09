@@ -237,7 +237,7 @@ span.nobreak {
         <li> ~<a href="grammar-ni-katakunai.html">@HI{{nikatakunai}}</a>
         <li> ~<a href="grammar-ni-nai.html">@HI{{ni}}~@HI{{nai}}</a> @MIDDOT{{}}
           ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
-        <li> ~<a href=""></a>@Vte{{}}(@HI{{ha}})@HI{{irarenai}}
+        <li> ~<a href="grammar-te-wa-irarenai.html#te-wa-irarenai">@Vte{{}}(@HI{{ha}})@HI{{irarenai}}</a>
         <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
         <li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
           ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
@@ -274,7 +274,7 @@ span.nobreak {
       <ol>
         <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}} @MIDDOT{{}}
           ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}ttemo}}
-        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{climax}}:ita}}tteha}}
+        <li> ~<a href="grammar-kara-itaru-made.html#ni-itatte-wa">@HI{{ni@FG{{@KJ{{climax}}:ita}}tteha}}</a>
         <li> ~<a href="grammar-shimatsu.html">@HI{{@FG{{@KJ{{commence^extremity}}:shimatsu}}da}}</a>
         <li> ~<a href=""></a>@HI{{ppanashida}}
       </ol>
