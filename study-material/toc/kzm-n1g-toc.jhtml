@@ -218,7 +218,7 @@ span.nobreak {
       <h3><a class="navtarget" name="chapter1.12">_</a>12 @KJ{{chapter}}</h3>
 
       <ol>
-        <li> ~<a href=""></a>@Vba{{}}@HI{{koso}}
+        <li> ~<a href="grammar-ba-koso.html">@Vba{{}}@HI{{koso}}</a>
         <li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
         <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
         <li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
