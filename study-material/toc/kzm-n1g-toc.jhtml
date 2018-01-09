@@ -221,7 +221,7 @@ span.nobreak {
         <li> ~<a href="grammar-ba-koso.html">@Vba{{}}@HI{{koso}}</a>
         <li> ~<a href="grammar-to-atte.html">@HI{{toatte}}</a>
         <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
-        <li> ~<a href=""></a>@FG{{@KJ{{hand^in*front}}:temae}}
+        <li> ~<a href="grammar-temae.html">@FG{{@KJ{{hand^in*front}}:temae}}</a>
         <li> ~<a href="grammar-yue-ni.html#yueni">@HI{{yue}}(@HI{{ni}})</a>
       </ol>
     </td>

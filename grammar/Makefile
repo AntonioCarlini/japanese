@@ -610,6 +610,7 @@ JHTML_SRCS += grammar-te-wa-ikemasen.jhtml
 JHTML_SRCS += grammar-te-wa-irarenai.jhtml
 JHTML_SRCS += grammar-te-wa.jhtml
 JHTML_SRCS += grammar-teineigo.jhtml
+JHTML_SRCS += grammar-temae.jhtml
 JHTML_SRCS += grammar-ten-de.jhtml
 JHTML_SRCS += grammar-to-areba.jhtml
 JHTML_SRCS += grammar-to-atte.jhtml

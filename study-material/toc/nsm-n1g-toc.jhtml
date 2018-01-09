@@ -528,8 +528,8 @@ td, th {
 <li> <a href=""></a>@HI{{nagara}} @MIDDOT{{}}
      <a href=""></a>@HI{{nagaramo}}
 <li> <a href="grammar-mo-saru-koto-nagara.html">@HI{{@N1{{}}mosarukotonagara@N2{{}}mo}}</a>
-<li> <a href=""></a>@HI{{@N{{}}no@FG{{@KJ{{hand^in*front}}:temae}}}} @MIDDOT{{}}
-     <a href=""></a>@HI{{@Vplain{{}}@FG{{@KJ{{hand^in*front}}:temae}}}}
+<li> <a href="grammar-temae.html">@HI{{@N{{}}no@FG{{@KJ{{hand^in*front}}:temae}}}}</a> @MIDDOT{{}}
+     <a href="grammar-temae.html">@HI{{@Vplain{{}}@FG{{@KJ{{hand^in*front}}:temae}}}}</a>
 </ol>
 </td>
 
