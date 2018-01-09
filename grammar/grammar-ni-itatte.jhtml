@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ni@KJ{{climax}}tte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{niitatte}}" grammar="@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}}"}}
+@GRMIDX{{index="@HI{{niitaru}}" grammar="@HI{{ni@FG{{@KJ{{climax}}:ita}}ru}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@Vru@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}}}}}}
+<li> @FORMATION{{@N@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}}}}}}
+<li> @FORMATION{{@Vru@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}}}}}
+<li> @FORMATION{{@N@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ni-itatte">@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}}}}</a> expresses the idea of "only when this extreme is reached". In the @HI{{te}}-form, it is used in the middle of a sentence.
+<a name="time">When</a> used with a time it means "until that time".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{graduate^profession}}:sotsugyou}}suru@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}},yatto@FG{{@KJ{{large^study}}:daigaku}}ni@FG{{@KJ{{enter}}:hai}}tta
+      @FG{{@KJ{{eye^bull's*eye}}:mokuteki}}ga@FG{{@KJ{{few}}:suko}}shi@FG{{@KJ{{see}}:mi}}etekitayouna@FG{{@KJ{{spirit}}:ki}}gasuru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    When I was about to graduate, I felt I finally could see something of the goals I had in entering a university.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="place">When</a> used with a location it means "to arrive".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{ano@KT{{ke-ki}}@FG{{@KJ{{post^person}}:shokunin}}ha10@FG{{@KJ{{year}}:nen}}no@FG{{@KJ{{discipline^going}}:shugyou}}wo@FG{{@KJ{{volume}}:tsu}}mi,@FG{{@KJ{{large^meeting}}:taikai}}ni@FG{{@KJ{{challenge}}:ido}}nda.
+    kokoni@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}}hajimete,@KJ{{post^person}}toshiteno@FG{{@KJ{{genius^ability}}:sainou}}ga@FG{{@KJ{{open^flower}}:kaika}}shita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    After 10 years of training, the cake artisan finally entered the contest with his developed talent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="event">When</a> used with a situation or an event it means "started" or "finally" in an extreme situation.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{@FG{{@KJ{{above^director}}:joushi}}nihakkiri@FG{{@KJ{{pour^idea}}:chuui}}sareru@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}},youyaku@FG{{@KJ{{oneself^part}}:jibun}}no
+    @FG{{@KJ{{say^leaf^dispatch}}:kotobaduka}}ini@FG{{@KJ{{question^topic}}:mondai}}gaarukotoni@FG{{@KJ{{spirit}}:ki}}duita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    It was not until my boss warned me explicitly that I realised I had a problem with my way of speaking.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ni-itaru">@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}}}</a> is the form used at the end of a sentence.
+The usages are the same.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@FG{{@KJ{{stream}}:kawa}}ha@FG{{@KJ{{large^grass^meadow}}:daisougen}}wo@FG{{@KJ{{}}:yokogi}}tte@FG{{@KJ{{}}:naga}}re,yagateha@FG{{@KJ{{sea}}:umi}}ni@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    This river runs across a vast prairie and eventually flows into the ocean.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 70).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 2.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

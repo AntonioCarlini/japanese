@@ -63,8 +63,8 @@ td, th {
       <h2><a class="navtarget" name="chapter2">_</a>@KJ{{No.}}2@KJ{{chapter}}</h2>
 
       <ol>
-        <li> ~<a href=""></a>@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{tte}} @MIDDOT{{}}
-             ~<a href=""></a>@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{ru}}
+        <li> ~<a href="grammar-ni-itatte.html#ni-itatte">@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{tte}}</a> @MIDDOT{{}}
+             ~<a href="grammar-ni-itatte.html#ni-itaru">@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{ru}}</a>
         <li> ~<a href=""></a>@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{tteha}}
         <li> ~<a href=""></a>@HI{{ni}}@FG{{@KJ{{climax}}:ita}}@HI{{rumade}}
         <li> ~<a href="grammar-ni-todomarazu.html">@N{{}}@HI{{nitodomarazu}}</a>

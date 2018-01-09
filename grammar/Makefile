@@ -340,6 +340,7 @@ JHTML_SRCS += grammar-ni-chigainai.jhtml
 JHTML_SRCS += grammar-ni-hanshite.jhtml
 JHTML_SRCS += grammar-ni-hikikae.jhtml
 JHTML_SRCS += grammar-ni-hoka-naranai.jhtml
+JHTML_SRCS += grammar-ni-itatte.jhtml
 JHTML_SRCS += grammar-ni-iwasereba.jhtml
 JHTML_SRCS += grammar-ni-kagirazu.jhtml
 JHTML_SRCS += grammar-ni-kagiru.jhtml
