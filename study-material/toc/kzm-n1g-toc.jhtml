@@ -241,7 +241,7 @@ span.nobreak {
         <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
         <li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
           ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
-        <li> ~<a href=""></a>@HI{{majiki}}
+        <li> ~<a href="grammar-majiki.html">@HI{{majiki}}</a>
       </ol>
     </td>
 

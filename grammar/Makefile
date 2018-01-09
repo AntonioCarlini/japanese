@@ -244,6 +244,7 @@ JHTML_SRCS += grammar-made-shite.jhtml
 JHTML_SRCS += grammar-mae-ni.jhtml
 JHTML_SRCS += grammar-mai-volitional.jhtml
 JHTML_SRCS += grammar-mai.jhtml
+JHTML_SRCS += grammar-majiki.jhtml
 JHTML_SRCS += grammar-mama.jhtml
 JHTML_SRCS += grammar-marude.jhtml
 JHTML_SRCS += grammar-masaka.jhtml
