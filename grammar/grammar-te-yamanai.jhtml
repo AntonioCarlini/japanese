@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{teyamanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{teyamanai}}" grammar="@HI{{@Vte{{}}yamanai}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}yamanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@Vte{{}}yamanai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="nai">@HI{{@EM{{@Vte{{}}yamanai}}}}</a> expresses the act of wishing from the bottom of one's heart.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{monariza}}no@FG{{@KJ{{riddle}}:nazo}}meita@FG{{@KJ{{delicate^laugh}}:hohoe}}miha,
+      @FG{{@KJ{{specimen^prize}}:kanjou}}suru@FG{{@KJ{{someone}}:mono}}wo@FG{{@KJ{{fascination^complete}}:miryou}}shi@EM{{teyamanai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mona Lisa's mysterious smile keeps bewitching the viewers.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 88).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}2@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 3.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -331,7 +331,7 @@ span.nobreak {
       <h3><a class="navtarget" name="chapter1.20">_</a>20 @KJ{{chapter}}</h3>
       
       <ol>
-        <li> ~<a href=""></a>@Vte{{}}@HI{{yamanai}}
+        <li> ~<a href="grammar-te-yamanai.html">@Vte{{}}@HI{{yamanai}}</a>
         <li> ~<a href="grammar-ni-taeru.html#emotion">@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}</a>
         <li> ~<a href="grammar-zu-ni-wa-sumanai.html#naide">@HI{{naidehasumanai}}</a> @MIDDOT{{}}
           ~<a href="grammar-zu-ni-wa-sumanai.html#zuni">@HI{{zunihasumanai}}</a>
