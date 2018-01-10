@@ -76,6 +76,7 @@ JHTML_SRCS += grammar-dasu-suffix.jhtml
 JHTML_SRCS += grammar-datte-reason.jhtml
 JHTML_SRCS += grammar-datte-too.jhtml
 JHTML_SRCS += grammar-de-cause.jhtml
+JHTML_SRCS += grammar-de-nakute-nan-darou.jhtml
 JHTML_SRCS += grammar-de-wa-aru-mai-ka.jhtml
 JHTML_SRCS += grammar-de-wa-aru-mai-shi.jhtml
 JHTML_SRCS += grammar-deare-deare.jhtml
