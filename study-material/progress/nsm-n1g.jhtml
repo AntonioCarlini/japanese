@@ -91,7 +91,7 @@
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}3@KJ{{week}}5@KJ{{day^eye}} </td>
-  <td class="">  </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{No.}}3@KJ{{week}}6@KJ{{day^eye}} </td>
