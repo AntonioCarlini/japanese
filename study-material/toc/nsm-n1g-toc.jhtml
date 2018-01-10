@@ -632,10 +632,10 @@ td, th {
 <h2><a class="navtarget" name="w7d4">_</a> @KJ{{No.}}7@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a>@HI{{nitaeru}}
-<li> <a href=""></a>@HI{{@FG{{@KJ{{withstand}}:ta}}enai}}
-<li> <a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru@N{{}}}}
-<li> <a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}rinai}}
+<li> <a href="grammar-ni-taeru.html#ni-taeru">@HI{{nitaeru}}</a>
+<li> <a href="grammar-ni-taeru.html#ni-taenai">@HI{{@FG{{@KJ{{withstand}}:ta}}enai}}</a>
+<li> <a href="grammar-ni-taru.html#ni-taru">@HI{{ni@FG{{@KJ{{leg}}:ta}}ru@N{{}}}}</a>
+<li> <a href="grammar-ni-taru.html#ni-tarinai">@HI{{ni@FG{{@KJ{{leg}}:ta}}rinai}}</a>
 </ol>
 </td>
 
@@ -646,9 +646,9 @@ td, th {
 <li> <a href=""></a>@HI{{@Vte{{}}miseru}}
 <li> <a href=""></a>@HI{{monantomonai}} @MIDDOT{{}}
      <a href=""></a>@HI{{monandemonai}}
-<li> <a href=""></a>@HI{{(toittara)nai}} @MIDDOT{{}}
-     <a href=""></a>@HI{{(toittara)arihashinai}} @MIDDOT{{}}
-     <a href=""></a>@HI{{(toittara)aryashinai}}
+<li> <a href="grammar-to-ittara-nai.html#nai">@HI{{(toittara)nai}}</a> @MIDDOT{{}}
+     <a href="grammar-to-ittara-nai.html#ari-wa">@HI{{(toittara)arihashinai}}</a> @MIDDOT{{}}
+     <a href="grammar-to-ittara-nai.html#ari-wa">@HI{{(toittara)aryashinai}}</a>
 </ol>
 </td>
 
@@ -713,7 +713,7 @@ td, th {
 <h2><a class="navtarget" name="w8d4">_</a> @KJ{{No.}}8@KJ{{week}}4@KJ{{day^eye}} </h2>
 
 <ol>
-<li> <a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}
+<li> <a href="grammar-wo-kinjienai.html">@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}</a>
 <li> <a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareta}}
 <li> <a href="grammar-kirai-ga-aru.html">@HI{{@FG{{@KJ{{dislike}}:kira}}igaaru}}</a>
 <li> <a href="grammar-shimatsu.html">@HI{{@Vru{{}}@FG{{@KJ{{commence^extremity}}:shimatsu}}da}}</a>

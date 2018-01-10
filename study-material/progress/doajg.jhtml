@@ -783,9 +783,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-.html"></a>@HI{{wo}}@FG{{@KJ{{prohibition}}ji:kinji}}@FG{{@KJ{{gain}}nai:enai}}        </td>
+  <td class="left"> <a href="grammar-wo-kinjienai.html">@HI{{wo}}@FG{{@KJ{{prohibition}}ji:kinji}}@FG{{@KJ{{gain}}nai:enai}}</a> </td>
   <td class="left"> DOAJG, p. 483                                                                                           </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href="grammar-wo-megutte.html">@HI{{womegutte}}/@HI{{meguru}}</a>                                    </td>

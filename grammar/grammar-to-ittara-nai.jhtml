@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{toittaranai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toittaranai}}" grammar="@HI{{toittaranai}}"}}
+@GRMIDX{{index="@HI{{toittaraarihashinai}}" grammar="@HI{{toittaraarihashinai}}"}}
+
+<body>
+
+<h1>@HI{{toittaranai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{toittaranai}}}}}}
+<li> @FORMATION{{@Anastem{{}}(@HI{{da}})@HI{{@EM{{toittaranai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{toittaranai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="nai">@HI{{@EM{{toittaranai}}}}</a> strongly emphasises the extreme degree of a feeling or a situation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{flower^marry*into^garment^skirt}}:hanayomeishou}}wo@FG{{@KJ{{don}}:ki}}ta@FG{{@KJ{{he^woman}}:kanojo}}no@FG{{@KJ{{beauty}}:utsuku}}shisa@EM{{toittaranakatta}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Wearing her bridal costume, she was incredibly beautiful.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ari-wa">@HI{{@EM{{toittaraarihashinai}}}}</a> has the same meaning as @HI{{@EM{{toittaranai}}}} but is only used to express dissatisfaction
+or criticism. It has the tone of written language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{year}}:toshi}}ninattekara@FG{{@KJ{{one^person^livelihood}}:hitorigura}}rashiwo@FG{{@KJ{{commence}}:haji}}meru
+      @FG{{@KJ{{heart^dainty}}:kokoroboso}}sa@EM{{toittaraarihashinai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      There are no words to describe the loneliness I feel at having started to live alone at this age.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+In spoken language @HI{{ttaranai}} may be used for @HI{{@EM{{toittaranai}}}}.
+Similarly @HI{{toittaraaryashinai}} or even @HI{{ittaraaryashinai}} may be used in place of @HI{{@EM{{toittaraarihashinai}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 84).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}7@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 4.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

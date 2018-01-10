@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitaru}}" grammar="@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}ru}}}}(@HI{{ha}})}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}ru}}}}(@HI{{ha}})}}
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}riru}}}}(@HI{{ha}})}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}riru}}}}(@HI{{ha}})}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ni-taru">@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}ru}}}}</a> expresses an evaluation that something is worth doing or that someone is capable of doing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{subetega@FG{{@KJ{{sleep}}:ne}}muttayona@FG{{@KJ{{even^harmony}}:heiwa}}na@FG{{@KJ{{island}}:shima}}deha,
+      @FG{{@KJ{{report^road-way}}:houdou}}suru@EM{{nitaru}}@KT{{nyu-su}}nadonanimonakatta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      On the peaceful island where everything seems to be asleep, there was no news worth reporting.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="ni-tariranai">@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}ranai}}}}</a> means that something is not worth doing or that someone is not capable of doing something.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{vis-a-vis^war^inter-^hand}}:taisenaite}}ha@FG{{@KJ{{in*front^-times}}:zenkai}}no@FG{{@KJ{{tenderness^victory}}:yuushou}}@KT{{chi-mu}}daga,
+      @FG{{@KJ{{oneself^part}}:jibun}}no@FG{{@KJ{{power}}:chikara}}wo@FG{{@KJ{{faith}}:shinjite}}
+      @FG{{@KJ{{war}}:tataka}}eba@FG{{@KJ{{fear}}:oso}}reru@EM{{ni@FG{{@KJ{{leg}}:ta}}ranai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Our opponent is the previous winner of the competition, but they are not worth fearing if you play believing in yourself.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="toru">@HI{{@EM{{@FG{{@KJ{{take}}:to}}runi@FG{{@KJ{{leg}}:ta}}ranai}}}}</a> is an idiomatic expression meaning "insignificant".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{large^person}}:otona}}karashitara@EM{{@FG{{@KJ{{take}}:to}}runi@FG{{@KJ{{leg}}:ta}}ranai}}@FG{{@KJ{{trouble}}:naya}}mini@FG{{@KJ{{see}}:mi}}etemo,
+      @FG{{@KJ{{think^springtime^period}}:shishunki}}no@FG{{@KJ{{blue^year}}:seinen}}nitotteha@FG{{@KJ{{large}}:oo}}kina@FG{{@KJ{{question^topic}}:mondai}}dearu
+      @FG{{@KJ{{location^fit}}:baai}}gaaru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Seen from adults, it may be a trifling concern. But it is serious for the youth in their puberty.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+This is a formal written expression.
+</p>
+
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}riru}}}} has the same meaning as @HI{{@EM{{ni@FG{{@KJ{{leg}}:ta}}ru}}}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 84).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}7@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 8.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

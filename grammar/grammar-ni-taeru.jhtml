@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nitaeru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nitaeru}}" grammar="@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vru{{}}@HI{{@EM{{ni@FG{{@KJ{{withstand}}:ta}}eru}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{withstand}}:ta}}eru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ni-taeru">@HI{{@EM{{ni@FG{{@KJ{{withstand}}:ta}}eru}}}}</a> is used to indicate that something is worth doing or has value.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{make*a*deal^goods}}:shouhin}}ha@KT{{yu-za-}}no@FG{{@KJ{{evaluate^value}}:hyouka}}@EM{{nitaeru}}monoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This product deserves the reputation given to it by its users.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="ni-taenai">@HI{{@EM{{ni@FG{{@KJ{{withstand}}:ta}}enai}}}}</a> is used to indicate that something is not someone cannot keep doing something
+because the situation is bad.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{yesterday^day}}:kinou}}no@FG{{@KJ{{reflect^brush-stroke}}:eiga}}ha@FG{{@KJ{{remainder^cruel}}:zankoku}}de@FG{{@KJ{{see}}:mi}}ru@EM{{ni@FG{{@KJ{{withstand}}:ta}}enai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The film I saw yesterday had many cruel scenes so it was not worth watching.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="emotion">@HI{{@EM{{ni@FG{{@KJ{{withstand}}:ta}}enai}}}}</a> can mean "unable to hold back one's emotions". 
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{daughter}}:musume}}ga@FG{{@KJ{{nothingness^matter}}:buji}}ni@FG{{@KJ{{life}}:u}}marete,
+      @FG{{@KJ{{parent}}:oya}}toshite@FG{{@KJ{{rejoice}}:yoroko}}bi@EM{{nitaemasen}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My daughter was born safe and sound. I cannot be happier as her parent.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+Only a few verbs can be used in this sentence pattern, such as @HI{{@FG{{@KJ{{see}}:mi}}ru}}, @HI{{@FG{{@KJ{{read}}:yo}}mu}} and @HI{{@FG{{@KJ{{hear}}:ki}}ku}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 84).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}7@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

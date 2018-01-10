@@ -316,10 +316,10 @@ span.nobreak {
       <h3><a class="navtarget" name="chapter1.19">_</a>19 @KJ{{chapter}}</h3>
       
       <ol>
-        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}
-        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}
-        <li> ~<a href=""></a>@HI{{toittaranai}}
+        <li> ~<a href="grammar-ni-taru.html#ni-taru">@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}</a>
+        <li> ~<a href="grammar-ni-taeru.html#ni-taeru">@HI{{ni@FG{{@KJ{{withstand}}:ta}}eru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ni-taeru.html#ni-taenai">@HI{{ni@FG{{@KJ{{withstand}}:ta}}enai}}</a>
+        <li> ~<a href="grammar-to-ittara-nai.html#nai">@HI{{toittaranai}}</a>
         <li> ~<a href=""></a>@HI{{kagirida}}
         <li> ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}maru}} @MIDDOT{{}}
           ~<a href=""></a>@HI{{@FG{{@KJ{{poles}}:kiwa}}marinai}}
@@ -337,7 +337,7 @@ span.nobreak {
           ~<a href="grammar-zu-ni-wa-sumanai.html#zuni">@HI{{zunihasumanai}}</a>
         <li> ~<a href=""></a>@HI{{naidehaokanai}} @MIDDOT{{}}
           ~<a href="grammar-zu-ni-wa-okanai.html#zunihaokanai">@HI{{zunihaokanai}}</a>
-        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}
+        <li> ~<a href="grammar-wo-kinjienai.html">@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}</a>
         <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareru}} @MIDDOT{{}}
           ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusaseru}}
       </ol>

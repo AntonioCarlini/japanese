@@ -117,9 +117,9 @@ td, th {
         <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a> @MIDDOT{{}}
           ~<a href="grammar-de-wa-aru-mai-shi.html#jaarumaishi">@HI{{jaarumaishi}}</a>
         <li> ~<a href=""></a>@HI{{teha}}~@HI{{teha}}
-        <li> ~<a href=""></a>@HI{{toittaraarihashinai}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{toittaraaryashinai}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{toittaranai}}
+        <li> ~<a href="grammar-to-ittara-nai.html#ari-wa">@HI{{toittaraarihashinai}}</a> @MIDDOT{{}}
+          ~<a href="grammar-to-ittara-nai.html#ari-wa">@HI{{toittaraaryashinai}}</a> @MIDDOT{{}}
+          ~<a href="grammar-to-ittara-nai.html#nai">@HI{{toittaranai}}</a>
         <li> ~<a href="grammar-to-kitara.html">@N{{}}@HI{{tokitara}}</a>
         <li> ~<a href=""></a>@Vba{{}}@HI{{koso}}
         <li> ~<a href=""></a>@HI{{niha@FG{{@KJ{{nothingness^logic}}:muri}}gaaru}}
@@ -151,8 +151,8 @@ td, th {
           ~<a href=""></a>@Ana{{}}@HI{{@FG{{@KJ{{poles}}:kiwa}}marinai}}
         <li> ~<a href="grammar-atte-no.html">@N1{{}}@HI{{atteno}}@N2{{}}</a>
         <li> ~<a href=""></a>@N{{}}@HI{{no@FG{{@KJ{{climax}}:ita}}rida}}
-        <li> ~<a href=""></a>@HI{{nitaeru}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{nitaenai}}
+        <li> ~<a href="grammar-ni-taeru.html#ni-taeru">@HI{{nitaeru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ni-taeru.html">@HI{{nitaenai}}</a>
         <li> ~<a href="grammar-wo-kawakiri-ni.html#ni">@HI{{wo@FG{{@KJ{{pelt^cut}}:kawaki}}rini}}(@HI{{shite}})</a>
         <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{mechanism}}:ki}}ni}}
         <li> ~<a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>
@@ -246,10 +246,10 @@ td, th {
           ~<a href="grammar-tame-ni.html#nga-tame-no">@HI{{ngatameno}}</a>
         <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{reach*out}}:oyo}}banai}}
         <li> ~<a href=""></a>@HI{{nikakatteiru}}
-        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}riru}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}
-        <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}rinai}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{ni@FG{{@KJ{{leg}}:ta}}ranai}}
+        <li> ~<a href="grammar-ni-taru.html#taru">@HI{{ni@FG{{@KJ{{leg}}:ta}}riru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ni-taru.html#taru">@HI{{ni@FG{{@KJ{{leg}}:ta}}ru}}</a>
+        <li> ~<a href="grammar-ni-taru.html#ni-tarinai">@HI{{ni@FG{{@KJ{{leg}}:ta}}rinai}} @MIDDOT{{}}
+          ~<a href="grammar-ni-taru.html#ni-tarinai">@HI{{ni@FG{{@KJ{{leg}}:ta}}ranai}}</a>
       </ol>
     </td>
 
@@ -309,7 +309,7 @@ td, th {
         <li> ~<a href=""></a>@HI{{@FG{{@KJ{{dart^before}}:yasaki}}ni}}
         <li> ~<a href="grammar-yue-ni.html#yueni">(@HI{{ga}})@HI{{yue}}(@HI{{ni}})</a> @MIDDOT{{}}
           ~<a href="grammar-yue-ni.html#yueno">@HI{{yueno}}</a>
-        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{prohibition}}:kan}}jienai}}
+        <li> ~<a href="grammar-wo-kinjienai.html">@HI{{wo@FG{{@KJ{{prohibition}}:kan}}jienai}}</a>
       </ol>
     </td>
     

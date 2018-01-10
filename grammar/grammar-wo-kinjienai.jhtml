@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wokinjienai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wokinjienai}}" grammar="@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}"}}
+
+<body>
+
+<h1>@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}}}(@HI{{ha}})}}
+<li> @FORMATION{{@Vplain{{}}(non-past)@HI{{no@EM{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}}}(@HI{{ha}})}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}}} indicates that someone cannot hold back their emotions or cannot
+control their reaction to those emotions.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{konoyouna@FG{{@KJ{{nothingness^blame^responsibility}}:musekinin}}na@FG{{@KJ{{going}}:okona}}ini@FG{{@KJ{{vis-a-vis}}:tai}}shite
+      @FG{{@KJ{{angry}}:ika}}ri@EM{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I cannot hold back my anger at such an irresponsible deed.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}}} is a literary expression and so cannot be used with casual words or phrases.
+</p>
+
+
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 89).
+<li> @REF{{DOAJG}}. (p. 483).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 10.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
