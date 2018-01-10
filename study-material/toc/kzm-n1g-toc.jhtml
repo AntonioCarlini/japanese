@@ -338,8 +338,8 @@ span.nobreak {
         <li> ~<a href=""></a>@HI{{naidehaokanai}} @MIDDOT{{}}
           ~<a href="grammar-zu-ni-wa-okanai.html#zunihaokanai">@HI{{zunihaokanai}}</a>
         <li> ~<a href="grammar-wo-kinjienai.html">@HI{{wo@FG{{@KJ{{prohibition}}:kin}}ji@FG{{@KJ{{gain}}:e}}nai}}</a>
-        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareru}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusaseru}}
+        <li> ~<a href="grammar-wo-yogi-naku.html#passive">@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusareru}}</a> @MIDDOT{{}}
+          ~<a href="grammar-wo-yogi-naku.html#causative">@HI{{wo@FG{{@KJ{{too*much^ceremony}}:yogi}}nakusaseru}}</a>
       </ol>
     </td>
 

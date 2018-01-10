@@ -71,8 +71,8 @@ td, th {
         <li> ~<a href="grammar-ni-mo-mashite.html">@N{{}}@HI{{nimomashite}}</a>
         <li> ~<a href=""></a>@HI{{nishite}}
         <li> ~<a href=""></a>@Vte{{}}@HI{{mo}}@FG{{@KJ{{commence}}:haji}}@HI{{maranai}}
-        <li> ~<a href=""></a>@N{{}}@HI{{wo}}@FG{{@KJ{{too*much^ceremony}}:yogi}}@HI{{nakusaseru}}
-        <li> ~<a href=""></a>@N{{}}@HI{{wo}}@FG{{@KJ{{too*much^ceremony}}:yogi}}@HI{{nakusareru}}
+        <li> ~<a href="grammar-wo-yogi-naku.html#causative">@N{{}}@HI{{wo}}@FG{{@KJ{{too*much^ceremony}}:yogi}}@HI{{nakusaseru}}</a>
+        <li> ~<a href="grammar-wo-yogi-naku.html#passive">@N{{}}@HI{{wo}}@FG{{@KJ{{too*much^ceremony}}:yogi}}@HI{{nakusareru}}</a>
         <li> ~<a href="grammar-zu-ni-wa-okanai.html#zunihaokanai">@HI{{zunihaokanai}}</a> @MIDDOT{{}}
           ~<a href=""></a>@HI{{naidehaokanai}}
         <li> ~<a href="grammar-zu-ni-wa-sumanai.html#zuni">@HI{{zunihasumanai}}</a> @MIDDOT{{}}
