@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kiwamaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kiwamaru}}" grammar="@HI{{@FG{{@KJ{{poles}}:kiwa}}maru}}"}}
+@GRMIDX{{index="@HI{{kiwamarinai}}" grammar="@HI{{@FG{{@KJ{{poles}}:kiwa}}marinai}}"}}
+
+<body>
+
+<h1>@HI{{@FG{{@KJ{{poles}}:kiwa}}maru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Anastem{{}}@HI{{@EM{{@FG{{@KJ{{poles}}:kiwa}}maru}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{koto@EM{{@FG{{@KJ{{poles}}:kiwa}}marinai}}}}}}
+<li> @FORMATION{{@Anastem{{}}(@HI{{nakoto}})@HI{{@EM{{@FG{{@KJ{{poles}}:kiwa}}marinai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="kiwamarinai">@HI{{@EM{{@FG{{@KJ{{poles}}:kiwa}}marinai}}}}</a> expresses that something has reached its ultimate limit.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{grope^examination^trip^going}}:taikenryokou}}ha@FG{{@KJ{{}}:kiken}}@EM{{@FG{{@KJ{{poles}}:kiwa}}marinai}}monoto@FG{{@KJ{{say}}:i}}eta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      They say that exploration of that region is highly dangerous.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="kiwamaru">@HI{{@EM{{@FG{{@KJ{{poles}}:kiwa}}maru}}}}</a>, like @HI{{@EM{{@FG{{@KJ{{poles}}:kiwa}}marinai}}}}, expresses that something has
+reached its ultimate limit. However, its formation is more restricted as it can only combine directly with a @HI{{na}}-adjective.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{he}}:kare}}no@FG{{@KJ{{attitude^degrees}}:taido}}ha@FG{{@KJ{{lose^salutation}}:shitsurei}}@EM{{@FG{{@KJ{{poles}}:kiwa}}maru}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His attitude is rude in the extreme.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+These are formal expressions used in written language.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 85).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}8@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

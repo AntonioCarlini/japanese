@@ -206,6 +206,7 @@ JHTML_SRCS += grammar-kirai-ga-aru.jhtml
 JHTML_SRCS += grammar-kirai.jhtml
 JHTML_SRCS += grammar-kiru-suffix.jhtml
 JHTML_SRCS += grammar-kitto-tabun-moshikashitara.jhtml
+JHTML_SRCS += grammar-kiwamaru.jhtml
 JHTML_SRCS += grammar-kkonai.jhtml
 JHTML_SRCS += grammar-kono-N.jhtml
 JHTML_SRCS += grammar-kono-time.jhtml
