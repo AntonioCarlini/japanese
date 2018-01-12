@@ -428,7 +428,7 @@ span.nobreak {
       
       <ol>
         <li> <a href="grammar-no-moto-de.html">@HI{{nomotode}}</a>
-        <li> <a href="grammar-.html"></a>@HI{{sou}}
+        <li> <a href="grammar-sou-forward-reference.html">@HI{{sou}}</a>
         <li> <a href="grammar-particle-zo.html">@HI{{zo}}</a>
         <li> <a href="grammar-to-douji-ni.html">@HI{{to@FG{{@KJ{{same^time}}:douji}}ni}}</a>
         <li> <a href="grammar-shika-nai.html">@HI{{shikanai}}</a>

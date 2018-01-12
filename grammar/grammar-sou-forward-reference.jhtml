@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{sou}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{sou}} (forward reference)" grammar="@HI{{sou}} (forward reference)"}}
+
+<body>
+
+<h1>@HI{{sou}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{sou}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{sou}}}} can be used to indicate what follows.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{sono@FG{{@KJ{{ground^range}}:chiiki}}deha,@FG{{@KJ{{once*upon*a*time}}:mukashi}}kara@EM{{sou}}deattayouni,@FG{{@KJ{{together^same}}:kyoudou}}de@FG{{@KJ{{rice*field^plant}}:tau}}ewosuru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Rice is planted communally in this area, as it always has been.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 20).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

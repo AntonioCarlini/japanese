@@ -540,6 +540,7 @@ JHTML_SRCS += grammar-sou-desu-appearance.jhtml
 JHTML_SRCS += grammar-sou-desu-hearsay.jhtml
 JHTML_SRCS += grammar-sou-desu-ka.jhtml
 JHTML_SRCS += grammar-sou-desu.jhtml
+JHTML_SRCS += grammar-sou-forward-reference.jhtml
 JHTML_SRCS += grammar-sou-ka-to-itte.jhtml
 JHTML_SRCS += grammar-sou-ni-naru.jhtml
 JHTML_SRCS += grammar-sue-ni.jhtml
