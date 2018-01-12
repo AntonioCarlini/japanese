@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{gakikkakede}}}} marks an occasion or opportunity for starting to do something.
+<a name="de">@HI{{@EM{{gakikkakede}}}}</a> marks an occasion or opportunity for starting to do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,7 +41,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{wokikkakeni}}}} also marks an occasion or opportunity for starting to do something.
+<a name="ni">@HI{{@EM{{wokikkakeni}}}}</a> also marks an occasion or opportunity for starting to do something.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -63,6 +63,7 @@
 <ol>
 <li> @REF{{MNN-INT-TR-II}}. (Chapter 23).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}7@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 4.
 </ol>
 
 @include{{"grammar-footer.inc"}}

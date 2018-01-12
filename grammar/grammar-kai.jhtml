@@ -30,7 +30,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}} is a dependent noun that means "worth".
+<a href="worth">@HI{{@EM{{@FG{{@KJ{{armor^symmetrically*patterned}}:kai}}}}}}</a> is a dependent noun that means "worth".
 
 @BGRND{{}}
 <p>
@@ -112,6 +112,7 @@
 <ol>
 <li> @REF{{DOAJG}}. (p. 179).
 <li> @REF{{NSM-N2G}}. (@KJ{{No.}}2@KJ{{week}}1@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N2}}. Lesson 4.
 </ol>
 
 @include{{"grammar-footer.inc"}}

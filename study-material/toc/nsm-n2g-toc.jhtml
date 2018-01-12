@@ -452,7 +452,8 @@ td, th {
 <li> <a href="grammar-you-ga-nai-suffix.html">@HI{{youganai}}</a> @MIDDOT{{}}
      @HI{{youmonai}}
 <li> <a href="grammar-ka-no-you.html">@HI{{kanoyou}}</a>
-<li> <a href=""></a> @HI{{souninai}}/@HI{{soumonai}}
+<li> <a href=""></a> @HI{{souninai}} @MIDDOT{{}}
+  <a href="grammar-sou-desu-appearance.html#soumonai">@HI{{soumonai}}</a>
 </ol>
 </td>
 
@@ -598,7 +599,8 @@ td, th {
 <ol>
 <li> <a href="grammar-wo-chuushin-ni.html">@N{{}}@HI{{wo@FG{{@KJ{{in^heart}}:chuushinn}}ni}}</a>
 <li> <a href="grammar-wo-komete.html">@N{{}}@HI{{wo@FG{{@KJ{{crowded}}:ko}}mete}}</a>
-<li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}/@N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}shite}}
+<li> <a href="grammar-wo-tooshite.html#tsuujite">@N{{}}@HI{{wo@FG{{@KJ{{traffic}}:tsuu}}jite}}</a> @MIDDOT{{}}
+  <a href="grammar-wo-tooshite.htmltooshite">@N{{}}@HI{{wo@FG{{@KJ{{traffic}}:too}}shite}}</a>
 <li> <a href=""></a> @N{{}}@HI{{wo@FG{{@KJ{{trust}}:tayo}}rini}}
 </ol>
 </td>
