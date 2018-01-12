@@ -73,6 +73,7 @@ JHTML_SRCS += grammar-dake-no-koto-wa-aru.jhtml
 JHTML_SRCS += grammar-dani.jhtml
 JHTML_SRCS += grammar-darake.jhtml
 JHTML_SRCS += grammar-dasu-suffix.jhtml
+JHTML_SRCS += grammar-datte-contrary.jhtml
 JHTML_SRCS += grammar-datte-reason.jhtml
 JHTML_SRCS += grammar-datte-too.jhtml
 JHTML_SRCS += grammar-de-cause.jhtml

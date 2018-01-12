@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+
+<head>
+<title>@HI{{datte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{datte}} (contrary)" grammar="@HI{{datte}} (contrary)"}}
+
+<body>
+
+<h1>@HI{{datte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{datte}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="contrary">@HI{{@EM{{datte}}}}</a> can be used to indicate that something is contrary to expectation.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{day^book^word}}:nihongo}}ha@FG{{@KJ{{Sino-^character}}:kanji}}ga@FG{{@KJ{{difficult}}:muzuka}}shiikamoshirenaikedo,
+      @FG{{@KJ{{Korea^country^word}}:kankokugo}}@EM{{datte}}@FG{{@KJ{{discharge^sound}}:hatsuon}}ga@KJ{{difficult}}shii.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      With Japanese, kanji might be difficult, but even Korean is hard to pronounce.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="emphasis">@HI{{@EM{{datte}}}}</a> can be used to provide strong emphasis even when no contradiction is implied.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{father}}:chichi}}ha@FG{{@KJ{{every^morning}}:maiasa}}@FG{{@KJ{{early}}:haya}}ku@FG{{@KJ{{attend^matter}}:shigoto}}ni@FG{{@KJ{{exit^hang}}:deka}}kemasu.
+      @FG{{@KJ{{now^day}}:kyou}}@EM{{datte}}@KJ{{morning}}6@FG{{@KJ{{time}}:ji}}ni@FG{{@KJ{{house}}:ie}}wo@FG{{@KJ{{exit}}:de}}mashita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      My father goes to work early very morning. He left the house at 6 a.m. today as well.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="list">@HI{{@EM{{datte}}}}</a> can also be used to list a number of items.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{small*bell^tree}}:suzuki}}sanha@KT{{supo-tsu}}ga@FG{{@KJ{{gain^idea}}:tokui}}dakara,
+      @KT{{sakka-}}@EM{{datte}}@FG{{@KJ{{plains^ball}}:yakyuu}}@EM{{datte}}@FG{{@KJ{{what}}:nani}}demodekimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Mr. Suzuki is good at sports, so he can play football, baseball or anything.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{MNN-INT-TR-II}}. (Chapter 18).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
