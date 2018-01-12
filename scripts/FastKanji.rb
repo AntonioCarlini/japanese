@@ -2170,6 +2170,7 @@ class KD
     "cough" => Kanji.new(2162, 21683, ["KAI","GAI"], ["se.ku","shiwabu.ku","seki","shiwabuki"], [""], ["cough","clear throat"], 0, 0),
     "throat" => Kanji.new(2164, 21897, ["KOU"], ["nodo"], [""], ["throat","voice"], 8, 0),
     "saliva" => Kanji.new(2165, 21822, ["DA","TA"], ["tsuba","tsubaki"], [""], ["saliva","sputum"], 8, 0),
+    "fib" => Kanji.new(2167, 22040, ["KYO","KO"], ["uso","fu.ku"], [""], ["fib","lie","falsehood"], 0, 0),
     "peck" => Kanji.new(2168, 21828, ["TAKU","TSUKU","TOKU"], ["tsuiba.mu","tsutsu.ku"], ["kuchi","hashi","bashi"], ["peck","pick up"], 9, 1),
     "spell" => Kanji.new(2169, 21610, ["JU","SHYU","SHYUU","ZU"], ["majina.u","noro.i","majina.i","noro.u"], [""], ["spell","curse","charm","malediction"], 8, 0),
     "bark" => Kanji.new(2170, 21536, ["HAI","BEI"], ["hoe.ru","ho.eru"], [""], ["bark","howl","cry"], 0, 0),
