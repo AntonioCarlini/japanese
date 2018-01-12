@@ -17,6 +17,7 @@ JHTML_SRCS += grammar-ato-de.jhtml
 JHTML_SRCS += grammar-atte-no.jhtml
 JHTML_SRCS += grammar-au-suffix.jhtml
 JHTML_SRCS += grammar-ba-conditional.jhtml
+JHTML_SRCS += grammar-ba-de.jhtml
 JHTML_SRCS += grammar-ba-hodo.jhtml
 JHTML_SRCS += grammar-ba-ii.jhtml
 JHTML_SRCS += grammar-ba-koso.jhtml

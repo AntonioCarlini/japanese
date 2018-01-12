@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{@Vba{{}}~@HI{{de}}}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ba~de}}" grammar="@Aistem{{}}nakereba ~ @HI{{de}}"}}
+@GRMIDX{{index="@HI{{nara~de}}" grammar="nara ~ @HI{{de}}"}}
+@GRMIDX{{index="@HI{{ba~tade}}" grammar="@Vba{{}} ~ @Vta{{}}@HI{{de}}"}}
+
+<body>
+
+<h1>@Vba{{}}~@HI{{de}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Aistem{{}}@HI{{kere@EM{{ba}}}}~@Ai{{}}@HI{{@EM{{de}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{nara}}~@Anastem{{}}@HI{{@EM{{de}}}}}}
+<li> @FORMATION{{@Vba{{}}~@Vta{{}}@HI{{@EM{{de}}}}}}
+<li> @FORMATION{{@Vta{{}}~@Vta{{}}@HI{{@EM{{de}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{kattara}}~@Aistem{{}}@HI{{katta@EM{{de}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="ai-de">@HI{{@EM{{@Aistem{{}}kereba ~ de}}}}</a> is used with an @HI{{i}}-adjective repeated to say that although certain situations should contrast with each other they are in fact the same.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{oneself^move^car}}:jidousha}}ganaitosazo@FG{{@KJ{{negative^convenience}}:fuben}}darouto@FG{{@KJ{{think}}:omoo}}tteitaga,
+      nakere@EM{{ba}}nai@EM{{de}}yatteikerumonoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I thought it would be very inconvenient to live without a car, but I can actually manage without one.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="nara-de">@HI{{@EM{{nara ~ de}}}}</a> is the form when used with @HI{{na}}-adjectives.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{retreat^post}}:taishoku}}@FG{{@KJ{{in*front}}:mae}}ha@FG{{@KJ{{every^day}}:mainichi}}@FG{{@KJ{{busy}}:isoga}}shikute@FG{{@KJ{{large^unusual}}:taihen}}deshitaga,
+      @FG{{@KJ{{spare*time}}:hima}}ninattemiruto,@KJ{{spare*time}}@EM{{nara}}@KJ{{spare*time}}@EM{{de}}@FG{{@KJ{{trouble}}:naya}}mimo@FG{{@KJ{{exit}}:de}}tekurumonodesu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Before retiring, every day was busy and it was pretty rough. Now that I have free time, there are still things to worry about.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="tara-ta-de">When</a> the first element is a verb in the @Vtara{{}} form, the repeated verb must be in the past tense.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{pull}}:hi}}xtsu@FG{{@KJ{{surpass}}:ko}}shino@FG{{@KJ{{in*front}}:mae}}mo@FG{{@KJ{{large^unusual}}:taihen}}dattaga,
+      @KJ{{pull}}xtsu@KJ{{surpass}}shi@EM{{tara}}@KJ{{pull}}xtsu@KJ{{surpass}}shi@EM{{tade}},matayaranakerebanaranaikotogatakusan'aru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Before the move things were busy too, but now that I've moved there are already lots of things that I must do.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="ba-ta-de">The</a> first element can be a verb in the @Vba{{}} form, and in this case too, the repeated verb must be in the past tense.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{gold}}:kane}}nadotoiumonoha,@FG{{@KJ{{nothingness}}:na}}kereba@FG{{@KJ{{quandary}}:koma}}ruga,
+      are@EM{{ba}}axtsu@EM{{tade}}yakkainamonoda.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Money is something that is trouble if you don't have any, but a nuisance if you do have some.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<a name="ai-ta-de">If</a> the first element is an @HI{{i}}-adjective in the past tense, the repeated ajective must be in the past tense.
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{eat^lumber}}:shokuzai}}gana@EM{{kattara}}na@EM{{kattade}},@FG{{@KJ{{simplicity^simple}}:kantan}}na@FG{{@KJ{{fee^logic}}:ryouri}}de@FG{{@KJ{{finish}}:su}}mmasemashou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If we don't have any ingredients, so be it. Let's make a simple dish.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 47).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

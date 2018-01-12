@@ -198,9 +198,9 @@ span.nobreak {
         <li> ~<a href="grammar-deare.html#deare">@HI{{deare}}</a> @MIDDOT{{}}
           ~<a href="grammar-deare.html#dearouto">@HI{{dearouto}}</a>
         <li> ~<a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>
-        <li> ~<a href=""></a>@Vba{{}}~@HI{{de}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{nara}}~@HI{{de}} @MIDDOT{{}}
-          ~<a href=""></a>@HI{{nara}}~@Vta{{}}@HI{{de}}
+        <li> ~<a href="grammar-ba-de.html#ai-de">@Vba{{}}~@HI{{de}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ba-de.html#nara-de">@HI{{nara}}~@HI{{de}}</a> @MIDDOT{{}}
+          ~<a href="grammar-ba-de.html#tara-ta-de">@Vtara{{}}~@Vta{{}}@HI{{de}}</a>
       </ol>
     </td>
 
