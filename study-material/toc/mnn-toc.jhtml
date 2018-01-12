@@ -126,7 +126,8 @@
 <ol>
 <li> <a href="adjectives.html">Adjectives as predicates</a>
 <li> <a href="adjectives.html">Adjectives as modifiers</a>
-<li> <a href="grammar-adverbs-of-degree.html#totemo">@HI{{totemo}}</a> / <a href="grammar-adverbs-of-degree.html#amari">@HI{{amari}}</a>
+<li> <a href="grammar-adverbs-of-degree.html#totemo">@HI{{totemo}}</a> @MIDDOT{{}}
+  <a href="grammar-adverbs-of-degree.html#amari">@HI{{amari}}</a>
 <li> <a href="grammar-dou.html">@N{{}}@HI{{hadoudesuka}}</a>
 <li> <a href="grammar-kosoado.html"> @N1{{}}@HI{{ha donnna}}@N2{{}}@HI{{desuka}}</a>
 <li> <a href="grammar-ga-conjunction.html#but"> @S1{{}}@HI{{ga,}}@S2{{}}</a>
@@ -136,7 +137,8 @@
 <h2><a class="navtarget" name="chapter9">_</a>Chapter 9</h2>
 
 <ol>
-<li> <a href="grammar-aru.html">@HI{{gaaru}}</a>, <a href="grammar-wakaru.html">@HI{{gawakaru}}</a>
+<li> <a href="grammar-aru.html">@HI{{gaaru}}</a> @MIDDOT{{}}
+    <a href="grammar-wakaru.html">@HI{{gawakaru}}</a>
 <li> <a href="grammar-kosoado.html#donna"> @HI{{donna}} N</a>
 <li> <a href="grammar-adverbs-of-degree.html">@HI{{yoku}}/@HI{{daitai}}/@HI{{takusann}}/
     @KJ{{little}}@HI{{shi}}/@HI{{amari}}/@KJ{{whole^sort*of*thing}}</a>
@@ -147,9 +149,12 @@
 <h2><a class="navtarget" name="chapter10">_</a>Chapter 10</h2>
 
 <ol>
-<li> @N{{}}@HI{{ga}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
-<li> @N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
-<li> @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a>/<a href="grammar-iru.html">@HI{{iru}}</a>
+<li> @N{{}}@HI{{ga}}<a href="grammar-aru.html">@HI{{aru}}</a> @MIDDOT{{}}
+  @N{{}}@HI{{ga}}<a href="grammar-iru.html">@HI{{iru}}</a>
+<li> @N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a> @MIDDOT{{}}
+  @N{{place}}@HI{{ni}}<a href="grammar-iru.html">@HI{{iru}}</a>
+<li> @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-aru.html">@HI{{aru}}</a> @MIDDOT{{}}
+  @N1{{}}@HI{{ha}}@N{{place}}@HI{{ni}}<a href="grammar-iru.html">@HI{{iru}}</a>
 <li> <a href="grammar-particle-no.html#location">@N1{{}}@N2{{position}}</a>
 <li> <a href="grammar-particle-ya.html">@N1{{}}@HI{{ya}}@N2{{}}</a>
 <li> <a href="grammar-particle-ka.html"><em>words</em>@HI{{desuka}}</a>

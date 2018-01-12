@@ -111,7 +111,7 @@ td, th {
 <ol>
 <li> <a href="grammar-wa-moto-yori.html">@HI{{hamotoyori}} ~ @HI{{mo}}</a>
 <li> <a href="grammar-wa-tomokaku.html">@HI{{hatomokaku}}(@HI{{toshite}})</a>
-<li> <a href="grammar-madashimo.html">@HI{{ha}}/@HI{{nara}} @HI{{madashimo}}</a>
+<li> <a href="grammar-madashimo.html">@HI{{ha}} @MIDDOT{{}} @HI{{nara}} @HI{{madashimo}}</a>
 <li> <a href="grammar-nuki-ni-shite.html">@HI{{@KJ{{slip*out}}kinishite}}</a>
 </ol>
 </td>
@@ -177,7 +177,7 @@ td, th {
 <ol>
 <li> <a href="grammar-kakeru-suffix-incomplete.html">@HI{{kakeru}}</a>
 <li> <a href="grammar-kiru-suffix.html">@KJ{{cut}}@HI{{ru}}</a>
-<li> <a href="grammar-eru-suffix.html">@HI{{eru}}/@HI{{uru}}</a>
+<li> <a href="grammar-eru-suffix.html">@HI{{eru}}</a> @MIDDOT{{}} <a href="grammar-eru-suffix.html">@HI{{uru}}</a>
 <li> <a href="grammar-nuku-suffix.html">@KJ{{slip*out}}@HI{{ku}}</a>
 </ol>
 </td>
