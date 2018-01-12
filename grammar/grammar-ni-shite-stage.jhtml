@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nishite}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nishite}} (stage)" grammar="@HI{{nishite}} (stage)"}}
+
+<body>
+
+<h1>@HI{{nishite}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<ol>
+<li> @FORMATION{{@HI{{@N{{}}@EM{{nishite}}}}}}
+</ol>
+</p>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="stage">@HI{{@EM{{nishite}}}}</a> can be used to mean "to come to or reach such a level or stage".
+It expresses that an event only occurs after something reaches a certain stage.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{puro}}no@FG{{@KJ{{post^person}}:shokunin}}@EM{{nishite}}@FG{{@KJ{{lose^failure}}:shippai}}wosurunoda.
+      @FG{{@KJ{{old*boy}}:kimi}}gaumakuikanakutemoshouganaidarou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Even professionals make mistakes. It's not surprising that you can't do it.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{yareyare,kono@FG{{@KJ{{father}}:chichi}}@EM{{nishite}}kono@FG{{@KJ{{son}}:musuko}}ari.@FG{{@KJ{{two^person}}:futari}}tomototemoyoku@FG{{@KJ{{eat}}:ta}}beru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Well, well. Like father, like son. Both of them have a healthy appetite.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="youyaku">@HI{{@EM{{nishiteyouyaku}}}}</a> means "to come to such a level at long last".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{40@EM{{nishiteyouyaku}}@FG{{@KJ{{child^treasure}}:kodakara}}ni@FG{{@KJ{{favor}}:megu}}mareta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    At long last, at the age of 40, I was blessed with a bundle from heaven. (i.e. I had a child).
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="hajimete">@HI{{@EM{{nishite@FG{{@KJ{{first*time}}:haji}}mete}}}}</a> means "reach this stage and begin".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+    @HI{{kono@FG{{@KJ{{year-end}}:sai}}@EM{{nishite@FG{{@KJ{{first*time}}:haji}}mete}}@FG{{@KJ{{person^life}}:jinsei}}nonantarukaga@FG{{@KJ{{part}}:wa}}katta.}}
+  </td> </tr>
+  <tr class="en"> <td>
+    I learned how life should be only after I became this age.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 77).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -369,6 +369,7 @@ JHTML_SRCS += grammar-ni-shiro.jhtml
 JHTML_SRCS += grammar-ni-shitagatte.jhtml
 JHTML_SRCS += grammar-ni-shitara.jhtml
 JHTML_SRCS += grammar-ni-shite-mo.jhtml
+JHTML_SRCS += grammar-ni-shite-stage.jhtml
 JHTML_SRCS += grammar-ni-shite-wa.jhtml
 JHTML_SRCS += grammar-ni-sotte.jhtml
 JHTML_SRCS += grammar-ni-soui-nai.jhtml
