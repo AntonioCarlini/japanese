@@ -280,7 +280,8 @@ span.nobreak {
       <ol>
         <li> ~<a href="grammar-ni-yotte.html">@HI{{niyotte}}</a>
         <li> ~<a href="grammar-mono-dakara.html">@HI{{monodakara}}</a> @MIDDOT{{}} ~@HI{{monode}} @MIDDOT{{}} ~@HI{{mono}}
-        <li> ~<a href="grammar-okage-de.html">@HI{{okageda}}</a>/~<a href="grammar-sei-de.html">@HI{{seida}}</a>
+        <li> ~<a href="grammar-okage-de.html">@HI{{okageda}}</a> @MIDDOT{{}}
+          ~<a href="grammar-sei-de.html">@HI{{seida}}</a>
         <li> ~@HI{{amari}} @MIDDOT{{}} @HI{{amarino}}~@HI{{ni}}
         <li> ~@HI{{nitsuki}}
       </ol>
