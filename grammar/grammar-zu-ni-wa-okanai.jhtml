@@ -29,10 +29,24 @@
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@FG{{@KJ{{}}:eiga}}ha@FG{{@KJ{{}}:mi}}ru@FG{{@KJ{{}}:mono}}ni@FG{{@KJ{{}}:kandou}}wo@FG{{@KJ{{}}:ata}}e@EM{{zunihaokanai}}.}}
+      @HI{{kono@FG{{@KJ{{reflect^brush-stroke}}:eiga}}ha@FG{{@KJ{{see}}:mi}}ru@FG{{@KJ{{someone}}:mono}}ni@FG{{@KJ{{emotion^move}}:kandou}}wo@FG{{@KJ{{bestow}}:ata}}e@EM{{zunihaokanai}}.}}
   </td> </tr>
   <tr class="en"> <td>
       This film is bound to move viewers. @LIT{{This film does not leave viewers without moving them.}}
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="naidehaokanai">@HI{{@EM{{naidehaokanai}}}}</a> expresses the idea that someone or something necessarily or naturally causes something to happen.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{tale}}:hanashi}}hayahariusodattato,@FG{{@KJ{{discontinue^vis-a-vis}}:zettai}}ni@FG{{@KJ{{white^status*quo}}:hakujou}}sase@EM{{naideokanai}}zo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If that story really is a lie, I won't leave until I make him admit it.
   </td> </tr>
 </table>
 </p>

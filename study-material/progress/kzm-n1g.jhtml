@@ -113,11 +113,11 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 19 @KJ{{chapter}} </td>
-  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 20 @KJ{{chapter}} </td>
-  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @HI{{matome}}@KJ{{question^topic}} (1@KJ{{chapter}} ~ 20@KJ{{chapter}}) </td>
