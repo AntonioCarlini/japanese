@@ -988,7 +988,7 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="left"> <a href="grammar-to-itta.html">@HI{{to@KJ{{say}}tta}}</a>                                               </td>
+  <td class="left"> <a href="grammar-to-itta.html#stage">@HI{{to@KJ{{say}}tta}}</a>                                         </td>
   <td class="left"> DOAJG, p. 629                                                                                           </td>
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>

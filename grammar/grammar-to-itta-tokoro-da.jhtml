@@ -27,7 +27,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{toittatokoroda}}}} is used to explain the situation at a particular stage.
+<a name="stage">@HI{{@EM{{toittatokoroda}}}}</a> is used to explain the situation at a particular stage.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -41,6 +41,21 @@
   </td> </tr>
   <tr class="en"> <td>
       B: I'm quite close to full recovery.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="downplay">@HI{{@EM{{toittatokoroda}}}}</a> attaches to a noun or a verb to indicate that it expresses the peak of a degree of something.
+This peak is not very high. It can be translated as "at most". It is not used with large numbers.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{hit^ground}}:touchi}}ha@FG{{@KJ{{summer}}:natsu}}mosorehodo@FG{{@KJ{{heat}}:atsu}}kuarimasen'.
+      @FG{{@KJ{{utmost^tall}}:saikou}}ni@KJ{{heat}}i@FG{{@KJ{{day}}:hi}}demo26,27@FG{{@KJ{{degrees}}:do}}@EM{{toittatokorodesu}}.}}
+  <tr class="en"> <td>
+      Summer here is not that hot. The hottest day here will be 26 or 27 degrees.
   </td> </tr>
 </table>
 </p>
