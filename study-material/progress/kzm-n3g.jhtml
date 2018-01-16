@@ -69,7 +69,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> 8 @KJ{{chapter}} </td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="none"> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> @KJ{{practice^learn}} (7@KJ{{chapter}} @MIDDOT{{}} 8@KJ{{chapter}}) </td>
