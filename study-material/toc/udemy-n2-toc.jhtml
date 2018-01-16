@@ -81,7 +81,7 @@ td, th {
       <ol>
         <li> <a href="grammar-totan.html">@Vta{{}}@HI{{totan'}}(@HI{{ni}})</a>
         <li> <a href=""></a>@Vta{{}}@HI{{tokoro}}
-        <li> <a href=""></a>@Vta{{}}@HI{{tokorode}}
+        <li> <a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>
         <li> <a href="grammar-tokoro-ga.html">@Vta{{}}@HI{{tokoroga}}</a>
         <li> <a href="grammar-kuwaete.html">@N{{}}@HI{{ni}}@FG{{@KJ{{add}}:kuwa}}@HI{{ete}}</a>
         <li> <a href="grammar-ni-kotaete.html">@N{{}}@HI{{ni}}@FG{{@KJ{{apply}}:kota}}@HI{{e}}(@HI{{te}})</a>
@@ -90,7 +90,7 @@ td, th {
         <li> <a href="grammar-ni-shitagatte.html#shitagatte">@HI{{ni}}@FG{{@KJ{{accompany}}:shitaga}}@HI{{xtsute}}</a> @MIDDOT{{}}
           <a href="grammar-ni-shitagatte.html#shitagari">@HI{{ni}}@FG{{@KJ{{accompany}}:shitaga}}@HI{{i}}</a>
         <li> <a href="grammar-bakari-ni.html">@HI{{bakarini}}</a>
-        <li> <a href=""></a>@HI{{bakarika}}
+        <li> <a href="grammar-bakarika-sae.html">@HI{{bakarika}}</a>
         <li> <a href="grammar-kaneru-suffix.html">@Vmasustem{{}}@HI{{kaneru}}</a> @MIDDOT{{}}
           <a href="grammar-kaneru-suffix.html#kanenai">@Vmasustem{{}}@HI{{kanenai}}</a>
       </ol>
