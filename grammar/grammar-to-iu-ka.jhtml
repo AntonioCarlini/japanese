@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}uka}}}} is a phrase used to restate what has just been said in order to be more accurate or more appropriate.
+<a name="restate">@HI{{@EM{{to@KJ{{say}}uka}}}}</a> is a phrase used to restate what has just been said in order to be more accurate or more appropriate.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -39,7 +39,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{nan'@EM{{to@KJ{{say}}uka}}}} is used when the speaker cannot come up with a good word or phrase.
+<a name="sort-of">@HI{{nan'@EM{{to@KJ{{say}}uka}}}}</a> is used when the speaker cannot come up with a good word or phrase.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -53,7 +53,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{to@KJ{{say}}uka}}}} can also be used on its own to restate something that the other person has said.
+<a name="alone">@HI{{@EM{{to@KJ{{say}}uka}}}}</a> can also be used on its own to restate something that the other person has said.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -71,15 +71,37 @@
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="A-or-B">A@HI{{@EM{{to@KJ{{say}}uka}}}}B@HI{{@EM{{to@KJ{{say}}uka}}}}</a> is used when the speaker is offering an evalution of something
+and saying that they are not sure if that thing is A or B.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{lose^failure}}:shippai}}shichattano? @FG{{@KJ{{disconcerted}}:awa}}tezuni@KT{{reshipi}}@FG{{@KJ{{traffic}}:doo}}rini@FG{{@KJ{{make}}:tsuku}}reba@FG{{@KJ{{above^hand}}:jouzu}}ninaruyo.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Oh, so you failed? You will get better if you take your time and follow the recipe
+  </td> </tr>
+</table>
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
+
+<p>
+A@HI{{@EM{{toiouka}}}}B@HI{{@EM{{toiouka}}}} has the same meaning as A@HI{{@EM{{toiuka}}}}B@HI{{@EM{{toiuka}}}}.
+</p>
 
 <h2> References </h2>
 
 <ol>
 <li> @REF{{DOAJG}}. (p. 638).
 <li> @REF{{NSM-N3G}}. (@KJ{{No.}}2@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{NKZM-N1G}}. (p. 46).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}2@KJ{{week}}3@KJ{{day}}@KJ{{eye}}).
+<li> @REF{{UDEMY-N1}}. Lesson 7.
 </ol>
 
 @include{{"grammar-footer.inc"}}

@@ -200,7 +200,7 @@ span.nobreak {
       
       <ol>
         <li> ~<a href="grammar-yara-yara.html">@HI{{yara}}~@HI{{yara}}</a>
-        <li> ~@HI{{toiuka}}~@HI{{toiuka}}
+        <li> ~<a href="grammar-to-iu-ka.html#A-or-B">@HI{{toiuka}}~@HI{{toiuka}}</a>
         <li> <span class="nobreak">~<a href="grammar-ni-shite-mo.html#whether-or-not">@HI{{nishitemo}}@HI{{nishitemo}}</a></span> @MIDDOT{{}}
           <span class="nobreak">~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{nishiru}}~@HI{{nishiru}}</a></span> @MIDDOT{{}}
           <span class="nobreak">~<a href="grammar-ni-shiro.html#whether-or-not">@HI{{niseyo}}~@HI{{niseyo}}</a></span>
