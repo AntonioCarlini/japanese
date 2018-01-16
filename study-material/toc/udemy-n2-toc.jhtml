@@ -242,13 +242,13 @@ td, th {
         <li> <a href="grammar-kara-to-itte.html">@HI{{karatoixtsute}}</a>
         <li> <a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
         <li> <a href="grammar-no-koto-dakara.html">@N{{}}@HI{{nokotodakara}}</a>
-        <li> <a href="grammar-nuki-ni-shite.html">@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kide}}</a> @MIDDOT{{}}
-          <a href="grammar-nuki-ni-shite.html">@FG{{@KJ{{slip*out}}:nu}}@HI{{kini}}</a> @MIDDOT{{}}
-          <a href="grammar-nuki-ni-shite.html">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishite}}</a> @MIDDOT{{}}
-          <a href="grammar-nuki-ni-shite.html">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}</a>
-        <li> <a href=""></a>@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kideha}} @MIDDOT{{}}
-          <a href=""></a>@FG{{@KJ{{slip*out}}:nu}}@HI{{kiniha}} @MIDDOT{{}}
-          <a href=""></a>@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}
+        <li> <a href="grammar-nuki-ni-shite.html#omit">@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kide}}</a> @MIDDOT{{}}
+          <a href="grammar-nuki-ni-shite.html#omit">@FG{{@KJ{{slip*out}}:nu}}@HI{{kini}}</a> @MIDDOT{{}}
+          <a href="grammar-nuki-ni-shite.html#omit">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishite}}</a> @MIDDOT{{}}
+          <a href="grammar-nuki-ni-shite.html#omit">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}</a>
+        <li> <a href="grammar-nuki-ni-shite.html#cannott">@N{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kideha}}</a> @MIDDOT{{}}
+          <a href="grammar-nuki-ni-shite.html#cannot">@FG{{@KJ{{slip*out}}:nu}}@HI{{kiniha}}</a> @MIDDOT{{}}
+          <a href="grammar-nuki-ni-shite.html#cannot">@HI{{wo}}@FG{{@KJ{{slip*out}}:nu}}@HI{{kinishiteha}}</a>
         <li> <a href="grammar-nuku-suffix.html">@Vmasustem{{}}@FG{{@KJ{{slip*out}}:nu}}@HI{{ku}}</a>
       </ol>
     </td>
