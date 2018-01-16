@@ -216,7 +216,7 @@ span.nobreak {
         <li> ~@HI{{nikakawarinaku}} @MIDDOT{{}}
           ~<a href="grammar-ni-kakawarazu.html">@HI{{nikakawarazu}}</a>
         <li> ~@HI{{mokamawazu}}
-        <li> ~@HI{{hatomokaku}}(@HI{{toshite}})
+        <li> ~<a href="grammar-wa-tomokaku.html">@HI{{hatomokaku}}(@HI{{toshite}})</a>
         <li> ~@HI{{hasateoki}}
       </ol>
     </td>
@@ -325,7 +325,8 @@ span.nobreak {
       
       <ol>
         <li> ~<a href="grammar-gatai-suffix.html">@HI{{gatai}}</a>
-        <li> ~<a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a> @MIDDOT{{}} ~@HI{{wakenimoikanai}}
+        <li> ~<a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenihaikanai}}</a> @MIDDOT{{}}
+          ~<a href="grammar-wake-ni-wa-ikanai.html">@HI{{wakenimoikanai}}</a>
         <li> ~<a href="grammar-kaneru-suffix.html">@HI{{kaneru}}</a>
         <li> ~<a href="grammar-you-ga-nai-suffix.html">@HI{{youganai}}</a>
         <li> ~<a href="grammar-dokoro-de-wa-nai.html">@HI{{dokorodehanai}}</a>
