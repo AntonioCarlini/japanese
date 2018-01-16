@@ -260,7 +260,7 @@ span.nobreak {
       <ol>
         <li> ~<a href="grammar-ni-mo-kakawarazu.html">@HI{{nimokakawarazu}}</a>
         <li> ~<a href="grammar-particle-mono-no.html">@HI{{monono}}</a> @MIDDOT{{}}
-          ~@HI{{tohaiumonono}}
+          ~<a href="grammar-particle-mono-no.html#to-wa-iu">@HI{{tohaiumonono}}</a>
         <li> ~<a href="grammar-nagara-although.html">@HI{{nagara}}(@HI{{mo}})</a>
         <li> ~<a href="grammar-tsutsu.html">@HI{{tsutsu}}(@HI{{mo}})</a>
         <li> ~<a href="grammar-to-itte-mo.html">@HI{{toittemo}}</a>
@@ -316,7 +316,7 @@ span.nobreak {
         <li> ~<a href="grammar-bakari-ni.html">@HI{{bakarini}}</a>
         <li> ~<a href="grammar-kara-ni-wa.html">@HI{{karaniha}}</a> @MIDDOT{{}}
           ~<a href="grammar-ijou.html">@FG{{@KJ{{by*means*of^above}}:ijou}}(@HI{{ha}})</a> @MIDDOT{{}}
-          ~@FG{{@KJ{{above}}:ue}}@HI{{ha}}
+          ~<a href="grammar-ue-wa.html">@FG{{@KJ{{above}}:ue}}@HI{{ha}}</a>
       </ol>
     </td>
 

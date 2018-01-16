@@ -29,7 +29,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{monono}}}} is a conjunction used to mean "but" or "although".
+<a name="mono-no"@HI{{@EM{{monono}}}}</a> is a conjunction used to mean "but" or "although".
 It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredomo}}</a> and <a href="grammar-ga-conjunction.html">@HI{{ga}}</a>.
 
 <table class="sentence" border=0>
@@ -49,6 +49,22 @@ It is more more formal than <a href="grammar-particle-keredomo.html">@HI{{keredo
   </td> </tr>
   <tr class="en"> <td>
       Although I've decided to study in the US, it's difficult to get a scholarship.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="to-wa-iu">@HI{{@EM{{tohaiumonono}}}}</a> is a conjunction used to mean "although".
+Unlike @HI{{@EM{{monono}}}} it can attach directly to a noun or a @HI{{na}}-adjective.
+It can appear in the senetence initial position.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{spring}}:haru}}@EM{{tohaiumonono}}mada@FG{{@KJ{{cold}}:samu}}i.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Although it's spring, it's still cold.
   </td> </tr>
 </table>
 </p>
