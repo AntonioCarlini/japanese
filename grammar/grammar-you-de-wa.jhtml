@@ -34,6 +34,7 @@
 @BGRND{{}}
 <p>
 @HI{{@EM{{youdeha}}}} is a conjunction that presents an undesirable situation, which is assumed to be true.
+The clause to which @HI{{@EM{{youdeha}}}} attaches presents something that the speaker blames or criticises and it is followed by a main clause that shows a possible unfavourable result.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
@@ -54,6 +55,7 @@
 <ol>
 <li> @REF{{NKZM-N1G}}. (p. 42).
 <li> @REF{{DOAJG}}. (p. 725).
+<li> @REF{{UDEMY-N2}}. Lesson 7.
 </ol>
 
 @include{{"grammar-footer.inc"}}
