@@ -218,7 +218,7 @@ td, th {
             <li> <a href="grammar-ka-to-omou-to.html#omottara">@Vta{{}}@HI{{kato}}@FG{{@KJ{{think}}:omo}}@HI{{eba}}</a>
             <li> <a href="grammar-wo-hajime-toshite.html">@N{{}}@HI{{wohajime}}</a> @MIDDOT{{}}
               <a href="grammar-wo-hajime-toshite.html">@N{{}}@HI{{wohajimetoshite}}</a> @MIDDOT{{}}
-              <a href=""></a>@N{{}}@HI{{wohajimetosuru}}
+              <a href="grammar-wo-hajime-toshite.html#suru">@N{{}}@HI{{wohajimetosuru}}</a>
             <li> <a href="grammar-goto-ni.html">@HI{{gotoni}}</a>
             <li> <a href=""></a>@HI{{mokamawazu}}
       </ol>
