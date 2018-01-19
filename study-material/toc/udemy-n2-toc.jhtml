@@ -270,9 +270,9 @@ td, th {
           <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duku}}</a> @MIDDOT{{}}
           <a href="grammar-ni-motozuite.html">@N{{}}@HI{{ni}}@FG{{@KJ{{fundamentals}}:moto}}@HI{{duita}}</a>
         <li> <a href="grammar-wari-ni-wa.html">@HI{{warini}}(@HI{{ha}})</a>
-        <li> <a href=""></a>@HI{{dakeaxtsute}} @MIDDOT{{}}
+        <li> <a href="grammar-dake-no-koto-wa-aru.html#continuative">@HI{{dakeatte}}</a> @MIDDOT{{}}
           <a href="grammar-dake-ni.html">@HI{{dakeni}}</a> @MIDDOT{{}}
-          <a href=""></a>@HI{{dakenokotohaaru}}
+          <a href="grammar-dake-no-koto-wa-aru.html">>@HI{{dakenokotohaaru}}</a>
         <li> <a href="grammar-ni-suginai.html">@HI{{ni}}@FG{{@KJ{{overdo}}:su}}@HI{{ginai}}</a>
         <li> <a href="grammar-nominarazu.html">@HI{{nominarazu}}</a>
         <li> <a href="grammar-hanmen.html">@FG{{@KJ{{anti-}}:han}}@FG{{@KJ{{mask}}:men}}</a>
