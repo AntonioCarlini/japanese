@@ -304,6 +304,7 @@ JHTML_SRCS += grammar-nai-to.jhtml
 JHTML_SRCS += grammar-nakanaka.jhtml
 JHTML_SRCS += grammar-nakereba-naranai.jhtml
 JHTML_SRCS += grammar-naku-naru.jhtml
+JHTML_SRCS += grammar-naku-wa-nai.jhtml
 JHTML_SRCS += grammar-naku.jhtml
 JHTML_SRCS += grammar-nakushite-wa.jhtml
 JHTML_SRCS += grammar-nakute-mo-ii.jhtml

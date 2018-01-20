@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nakuhanai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nakuhanai}}" grammar="@HI{{nakuhanai}}"}}
+@GRMIDX{{index="@HI{{nakumonai}}" grammar="@HI{{nakumonai}}"}}
+
+<body>
+
+<h1>@HI{{nakuhanai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vnaistem{{}}@HI{{@EM{{nakuhanai}}}}}}
+<li> @FORMATION{{@Aistem{{}}@HI{{ku}}@HI{{@EM{{nakuhanai}}}}}}
+<li> @FORMATION{{@Anastem{{}}@HI{{de}}@HI{{@EM{{nakuhanai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{ha}}@HI{{@EM{{nakuhanai}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{ga}}@HI{{@EM{{nakuhanai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="wa">@HI{{@EM{{nakuhanai}}}}</a> is used to say that something isn't the case and is followed by a clause that explains the reason why the
+listener might have thought it was. It is sometimes used when something is in fact the case to a slight degree. It may be translated by expressions of the form "it's not that ~ but ...".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KT{{pi-man'}}ha@FG{{@KJ{{eat}}:ta}}berare@EM{{nakuhanai}}n'desuga,amari@FG{{@KJ{{fond}}:su}}@HI{{kidehaarimasen'.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's not that I can't eat green peppers, but I don't like them very much.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="mo">@HI{{@EM{{nakumonai}}}}</a> has the same meaning as @HI{{@EM{{nakuhanai}}}}.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{tie^marriage}}:kekkon'}}surutsumoriha@EM{{nakumonai}}ga,
+      toriaezu@FG{{@KJ{{relax^determine}}:antei}}shita@FG{{@KJ{{attend^matter}}:shigoto}}wo@FG{{@KJ{{grope}}:saga}}
+      shitekaradenaito@FG{{@KJ{{nothingness^logic}}:muri}}darou.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It is not that I don't plan to get married. But for now, it would be impossible unless I find a stable job.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{UDEMY-N2}}. Lesson 2.
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}4@KJ{{week}}6@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

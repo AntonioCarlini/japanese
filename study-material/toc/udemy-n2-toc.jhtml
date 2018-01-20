@@ -57,7 +57,8 @@ td, th {
           <a href="grammar-te-kara-denaito.html#denakereba">@Vte{{}}@HI{{karadenakereba}}</a>
         <li> <a href="grammar-te-made.html">@Vte{{}}@HI{{made}}</a>
         <li> <a href="grammar-ppanashi.html">@Vmasustem{{}}@HI{{xtsupanashi}}</a>
-        <li> <a href=""></a>@HI{{nakuhanai}} @MIDDOT{{}} @HI{{nakumonai}}
+        <li> <a href="grammar-naku-wa-nai.html#wa">@HI{{nakuhanai}}</a> @MIDDOT{{}}
+	  <a href="grammar-naku-wa-nai.html#mo">@HI{{nakumonai}}</a>
         <li> <a href=""></a>@FG{{@KJ{{limit}}:kagi}}@HI{{ri}} @MIDDOT{{}} @FG{{@KJ{{limit}}:kagi}}@HI{{rideha}}
         <li> <a href="grammar-ni-kagitte.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{xtsute}}</a> @MIDDOT{{}}
           <a href="grammar-ni-kagitte.html">@HI{{ni}}@FG{{@KJ{{limit}}:kagi}}@HI{{ri}}</a>
