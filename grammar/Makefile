@@ -45,6 +45,7 @@ JHTML_SRCS += grammar-counter-bun.jhtml
 JHTML_SRCS += grammar-counter-chaku.jhtml
 JHTML_SRCS += grammar-counter-dai.jhtml
 JHTML_SRCS += grammar-counter-hai.jhtml
+JHTML_SRCS += grammar-counter-hako.jhtml
 JHTML_SRCS += grammar-counter-hiki.jhtml
 JHTML_SRCS += grammar-counter-hon.jhtml
 JHTML_SRCS += grammar-counter-ji.jhtml

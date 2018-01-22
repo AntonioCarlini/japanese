@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>counter @KJ{{box}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="counter @HI{{hako}}" grammar="counter @KJ{{box}}"}}
+
+<body>
+
+<h1>counter @KJ{{box}}</h1>
+
+<h2> Formation </h2>
+
+<p>
+<table class="highlight">
+<tr> <td> 1  </td> <td class="irregular"> @HI{{hitohako}}</td>                        <td> @KJ{{one^box}} </td>     <td> </td> </tr>
+<tr> <td> 2  </td> <td class="irregular"> @HI{{futahako}}</td>                        <td> @KJ{{two^box}} </td>     <td> </td> </tr>
+<tr> <td> 3  </td> <td>                   @HI{{sanhako}}</td>                         <td> @KJ{{three^box}} </td>   <td> (@HI{{sanpako}} is heard too) </td> </tr>
+<tr> <td> 4  </td> <td>                   @HI{{yonhako}}</td>                         <td> @KJ{{four^box}} </td>    <td> </td> </tr>
+<tr> <td> 5  </td> <td>                   @HI{{gohako}}</td>                          <td> @KJ{{five^box}} </td>    <td> </td> </tr>
+<tr> <td> 6  </td> <td class="irregular"> @HI{{rokuhako}}, @HI{{roppako}}</td>        <td> @KJ{{six^box}} </td>     <td> </td> </tr>
+<tr> <td> 7  </td> <td>                   @HI{{nanahako}}</td>                        <td> @KJ{{seven^box}} </td>   <td> </td> </tr>
+<tr> <td> 8  </td> <td class="irregular"> @HI{{hachihako}}, @HI{{happako}}</td>       <td> @KJ{{eight^box}} </td>   <td> </td> </tr>
+<tr> <td> 9  </td> <td>                   @HI{{kyuuhako}}</td>                        <td> @KJ{{nine^box}} </td>    <td> </td> </tr>
+<tr> <td> 10 </td> <td class="irregular"> @HI{{juppako}}</td>                         <td> @KJ{{ten^box}} </td>     <td> </td> </tr>
+<tr> <td> ?  </td> <td>                   @HI{{nanhako}}</td>                         <td> &nbsp; </td>             <td> </td> </tr>
+</table>
+</p>
+
+<h2> Definition </h2>
+
+<p>
+This counter is used to count things that come in box shapes.
+</p>
+
+<p>
+To ask "how many boxes?", use @HI{{nanhako}}.
+</p>
+
+<p>
+Note that the table above has been verified at tutorial.
+</p>
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
