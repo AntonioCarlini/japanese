@@ -7,8 +7,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@GRMIDX{{index="@HI{{nitaishite}}" grammar="@HI{{no@KJ{{below}}de}}"}}
-@GRMIDX{{index="@HI{{nitaisuru}}" grammar="@HI{{ni@KJ{{vis-a-vis}}suru}}"}}
+@GRMIDX{{index="@HI{{nomotode}}" grammar="@HI{{no@KJ{{below}}de}}"}}
+@GRMIDX{{index="@HI{{nomotoni}}" grammar="@HI{{no@KJ{{below}}ni}}"}}
+@GRMIDX{{index="@HI{{nanomotoni}}" grammar="@HI{{@FG{{@KJ{{name}}:na}}no@KJ{{below}}ni}}"}}
 
 <body>
 
@@ -18,6 +19,8 @@
 
 <ol>
 <li> @FORMATION{{@N{{}}@HI{{no@KJ{{below}}de}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@KJ{{below}}ni}}}}
+<li> @FORMATION{{@N{{}}@HI{{no@FG{{@KJ{{name}}:na}}no@KJ{{below}}ni}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -63,6 +66,20 @@ When @HI{{no@KJ{{below}}de}} refers to a physical space it is limited to "atmosp
   </td> </tr>
   <tr class="en"> <td>
       We are using this lab with Prof. Taguchi's permission.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="name">The</a> sentence pattern @HI{{@FG{{@KJ{{name}}:na}}no@KJ{{below}}ni}} means "in the name of".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{king^Esq.}}:ousama}}no@EM{{@KJ{{name}}nomotoni}},@FG{{@KJ{{soldier^gentleman}}:heishi}}tachiha@FG{{@KJ{{loyalty^sincerity}}:chuusei}}wo@FG{{@KJ{{vow}}:chika}}imasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The soldiers take an oath of allegience in the name of the King.
   </td> </tr>
 </table>
 </p>
