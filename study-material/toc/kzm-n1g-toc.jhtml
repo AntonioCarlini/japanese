@@ -151,7 +151,7 @@ span.nobreak {
       
       <ol>
         <li> ~<a href="grammar-gatera.html">@HI{{gatera}}</a>
-        <li> ~<a href="grammar-katagata.jhtml">@HI{{katagata}}</a>
+        <li> ~<a href="grammar-katagata.html">@HI{{katagata}}</a>
         <li> ~<a href="grammar-katawara.html#secondary">@HI{{katawara}}</a>
       </ol>
     </td>
@@ -239,8 +239,8 @@ span.nobreak {
           ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
         <li> ~<a href="grammar-te-wa-irarenai.html#te-wa-irarenai">@Vte{{}}(@HI{{ha}})@HI{{irarenai}}</a>
         <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
-        <li> ~<a href="grammar-bekarazu.jhtml#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
-          ~<a href="grammar-bekarazu.jhtml#bekarazaru">@HI{{bekarazaru}}</a>
+        <li> ~<a href="grammar-bekarazu.html#bekarazu">@HI{{bekarazu}}</a> @MIDDOT{{}}
+          ~<a href="grammar-bekarazu.html#bekarazaru">@HI{{bekarazaru}}</a>
         <li> ~<a href="grammar-majiki.html">@HI{{majiki}}</a>
       </ol>
     </td>
