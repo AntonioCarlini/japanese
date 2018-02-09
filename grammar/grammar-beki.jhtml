@@ -8,6 +8,7 @@
 </head>
 
 @GRMIDX{{index="@HI{{beki}}" grammar="@HI{{beki}}"}}
+@GRMIDX{{index="@HI{{beku}}" grammar="@HI{{beku}}"}}
 
 <body>
 
@@ -159,7 +160,7 @@ Either @HI{{suru@EM{{beki}}}} or @HI{{su@EM{{beki}}}} is acceptable.
 </p>
 
 <p>
-@HI{{@EM{{beki}}}} is similar to <a href="grammar-mono-da.html">@HI{{mono da}}</a>
+@HI{{@EM{{beki}}}} is similar to <a href="grammar-mono-da.html">@HI{{monoda}}</a>
 but the latter expresses a social norm (e.g. "Students should study")
 and cannot be applied to a specific situation (e.g. "<em>You</em> should study.").
 </p>
