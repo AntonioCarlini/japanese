@@ -25,14 +25,14 @@
 
 @BGRND{{}}
 <p>
-The pattern @EM{{@Vyou{{}}@HI{{nimo}}@Vnai{{}}}} is used to mean "could not even if I wanted to".
+The pattern @EM{{@Vyou{{}}@HI{{nimo}}@Vnai{{}}}} is used to mean "I would like to but I cannot because of some condition".
 
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@KT{{pasuwa-do}}ga@KJ{{part}}karanainode,@KT{{de-ta}}wo@KJ{{see}}@EM{{younimo}}@KJ{{see}}rare@EM{{nai}}.}}
   </td> </tr>
   <tr class="en"> <td>
-      I don't know the password, so I couldn't see the data even if I wanted to.
+      I don't know the password, so I cannot see the data although I want to.
   </td> </tr>
 </table>
 </p>
