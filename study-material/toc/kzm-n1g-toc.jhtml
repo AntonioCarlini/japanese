@@ -393,6 +393,25 @@ span.nobreak {
       <h3><a class="navtarget" name="chapter1.C">_</a>C</h3>
 
       <ol>
+        <li> ~<a href="grammar-ni-todomarazu.html">@HI{{nitodomarazu}}</a>
+        <li> ~<a href="grammar-iza-shirazu.html">@HI{{naraizashirazu}}</a>
+        <li> ~<a href="grammar-wo-mono-to-mo-sezu.html">@HI{{womonotomosezu}}(@HI{{ni}})</a>
+        <li> ~<a href="grammar-zu-ni-wa-sumanai.html#naide">@HI{{naidehasumanai}}</a>
+        <li> ~<a href="grammar-n-bakari.html#da">@HI{{nbakarida}}</a>
+        <li> ~<a href="grammar-tame-ni.html#nga-tame-ni">@HI{{ngatame}}(@HI{{ni}})</a>
+        <li> ~<a href="grammar-bekarazu.html#bekarazu">@HI{{bekarazu}}</a>
+        <li> ~<a href="grammar-beki.html#beku">@HI{{beku}}</a>
+        <li> ~<a href="grammar-beku-mo-nai.html">@HI{{bekumonai}}</a>
+        <li> ~<a href=""></a>@HI{{bekushite}}
+        <li> ~<a href="grammar-volitional-ga-mai-ga.html#ga">@Vyou{{}}@HI{{ga}}~@HI{{maiga}}</a>
+        <li> ~<a href="grammar-de-wa-aru-mai-shi.html#dewaarumaishi">@HI{{dehaarumaishi}}</a>
+        <li> ~<a href=""></a>@HI{{karouga}}
+        <li> ~<a href="grammar-majiki.html">@HI{{majiki}}</a>
+        <li> ~<a href="grammar-taru-mono.html#tarumono">@HI{{tarumono}}(@HI{{ha}})</a>
+        <li> ~<a href="grammar-tari-tomo.html">@HI{{taritomo}}~@HI{{nai}}</a>
+        <li> ~<a href=""></a>@HI{{zotoku}} @MIDDOT{{}} ~<a href=""></a>@HI{{zotoki}}
+        <li> ~<a href="grammar-ikan-da.html#da">@HI{{ikanda}}</a>
+        <li> ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a>
       </ol>
     </td>
 
@@ -400,6 +419,17 @@ span.nobreak {
       <h3><a class="navtarget" name="chapter1.D">_</a>D</h3>
 
       <ol>
+        <li> ~<a href="grammar-te-kara-to-iu-mono.html">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
+        <li> ~<a href=""></a>@HI{{toiumono}}
+        <li> ~<a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>
+        <li> ~<a href=""></a>@HI{{naimonodemonai}}
+        <li> ~<a href=""></a>@HI{{monoto@FG{{@KJ{{think}}:omo}}u}}
+        <li> ~<a href=""></a>@HI{{monoto@FG{{@KJ{{think}}:omo}}wareru}}
+        <li> ~<a href=""></a>@HI{{woiikotoni}}
+        <li> ~<a href="grammar-to-itta-tokoro-da.html#downplay">@HI{{toittatokoroda}}</a>
+        <li> ~<a href="grammar-tokoro-wo.html">@HI{{tokorowo}}</a>
+        <li> ~<a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>
+        <li> ~<a href=""></a>@HI{{nishitatokorode}}
       </ol>
     </td>
 
