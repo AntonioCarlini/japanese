@@ -120,7 +120,7 @@ td {
      <th colspan="4"> 5.1-5 </th>
  </tr>
 <tr>
-  <td> 2018-02-?? </td>
+  <td> 2018-02-10 </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="missing"> c </td> <td class="missing"> a </td> <td class="ok"> </td>
   <td class="missing"> c </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="missing"> a </td> 
@@ -143,7 +143,7 @@ td {
      <th colspan="4"> 6.1-5 </th>
  </tr>
 <tr>
-  <td> 2018-02-?? </td>
+  <td> 2018-02-06 </td>
   <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="missing"> c </td> <td class="missing"> a </td> <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td>
@@ -229,7 +229,7 @@ td {
      <th colspan="3"> 10.1-5 </th>
  </tr>
 <tr>
-  <td> 2018-??-?? </td>
+  <td> 2018-02-26 </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
   <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td>
