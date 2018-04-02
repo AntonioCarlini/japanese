@@ -31,6 +31,7 @@ JHTML_SRCS += grammar-becoming-aware.jhtml
 JHTML_SRCS += grammar-bekarazu.jhtml
 JHTML_SRCS += grammar-beki.jhtml
 JHTML_SRCS += grammar-beku-mo-nai.jhtml
+JHTML_SRCS += grammar-beku-shite.jhtml
 JHTML_SRCS += grammar-bun.jhtml
 JHTML_SRCS += grammar-buri.jhtml
 JHTML_SRCS += grammar-chinami-ni.jhtml
