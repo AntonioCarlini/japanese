@@ -133,7 +133,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> C </td>
-  <td class="">  </td> <td class="">  </td> <td class="none"> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class="">  </td> <td class="none"> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> D </td>
