@@ -405,7 +405,8 @@ span.nobreak {
         <li> ~<a href="grammar-majiki.html">@HI{{majiki}}</a>
         <li> ~<a href="grammar-taru-mono.html#tarumono">@HI{{tarumono}}(@HI{{ha}})</a>
         <li> ~<a href="grammar-tari-tomo.html">@HI{{taritomo}}~@HI{{nai}}</a>
-        <li> ~<a href=""></a>@HI{{zotoku}} @MIDDOT{{}} ~<a href=""></a>@HI{{zotoki}}
+        <li> ~<a href="grammar-gotoshi.html">@HI{{kotoku}}</a> @MIDDOT{{}}
+	     ~<a href="grammar-gotoshi.html">@HI{{gotoki}}</a>
         <li> ~<a href="grammar-ikan-da.html#da">@HI{{ikanda}}</a>
         <li> ~<a href="grammar-ikan-da.html#regardless">@HI{{ikan'niyorawazu}}</a>
       </ol>
