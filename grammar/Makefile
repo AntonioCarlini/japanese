@@ -627,6 +627,7 @@ JHTML_SRCS += grammar-te-yamanai.jhtml
 JHTML_SRCS += grammar-teineigo.jhtml
 JHTML_SRCS += grammar-temae.jhtml
 JHTML_SRCS += grammar-ten-de.jhtml
+JHTML_SRCS += grammar-to-aimatte.jhtml
 JHTML_SRCS += grammar-to-areba.jhtml
 JHTML_SRCS += grammar-to-atte.jhtml
 JHTML_SRCS += grammar-to-conditional.jhtml

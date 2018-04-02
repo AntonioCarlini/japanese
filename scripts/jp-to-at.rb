@@ -40,13 +40,20 @@ end
 # End of HiraganaSupport code
 
 def convert_unicode_to_katakana_jhtml(code)
+  return '-' if code == 12540 # katakana -
   ans = $UNICODE_2_HI_JHTML[code - 96]
   return ans
 end
 
 def classify_codepoint(codepoint)
   if codepoint <= 127
-    return :ascii
+    if codepoint.chr() == '<'
+      return :furigana_start
+    elsif codepoint.chr() == '>'
+      return :furigana_end
+    else
+      return :ascii
+    end
   elsif (codepoint == 0x3001) ||(codepoint == 0x3002)
     return :punctuation
   elsif (codepoint >= 0x3040) && (codepoint <= 0x309F)
@@ -87,37 +94,96 @@ kanji.each() {
 ji = line.chomp().unpack('U*')
 
 # Work backwards through the string, ignoring spaces
-mode = :ascii
+current_mode = :hiragana
 count = 0
 print("@HI{{")
+pending = ""
+pending_kanji = ""
 
 ji.each() {
   |codepoint|
   style = classify_codepoint(codepoint)
-  printf("}}") if ((mode == :katakana) || (mode == :kanji)) && style != mode
-  style = :hiragana if style == :punctuation
-  case style
-  when :hiragana
-    print("@HI{{") if mode == :ascii
-    mode = :hiragana
-    print(convert_unicode_to_hiragana_jhtml(codepoint))
-  when :katakana
-    print("@KT{{") unless mode == :katakana
-    mode = :katakana
-    print(convert_unicode_to_katakana_jhtml(codepoint))
-  when :kanji
-    if mode == :kanji
-      print("^")
+  style = :hiragana if style == :punctuation # TODO: punctuation in katakana??
+
+  ##puts("code: #{codepoint}  style=#{style} current_mode=#{current_mode}")
+
+  # If the style has changed (e.g. katakana has ended and kanji has started ...) output the accumulated stuff
+
+  # After kanji ... do special?
+  if current_mode == :kanji && style != :kanji
+    if style == :furigana_start
+      current_mode = :furigana
+      next # do not process the '<' that shoved us into furigana mode
+    elsif style == :furigana_end
+      # only allowed in :furigana mode
+      raise
     else
-      print("@KJ{{")
+      # Kanji followed by no furigana indicator ... output the kanji
+      print("@KJ{{#{pending_kanji}}}")
+      pending_kanji = ""
     end
-    mode = :kanji
-    print("#{kjuc[codepoint].english()[0].sub(/\s+/,'*')}")
+  elsif style != current_mode
+    case current_mode
+    when :katakana
+      print("@KT{{#{pending}}}") unless pending.empty?()
+    when :hiragana
+      print(pending) unless pending.empty?()
+    when :furigana
+      raise unless style == :hiragana || style == :furigana_end # will accumulate below but must be hiragana or end of furigana
+      if style == :furigana_end
+        print("@FG{{@KJ{{#{pending_kanji}}}:#{pending}}}")
+        pending_kanji = ""
+        pending = ""
+        current_mode = :hiragana ## ???
+        next # do not process the furigana_end '>' that triggered this
+      end
+    when :ascii
+      print(pending) unless pending.empty?()
+    when :kanji
+      raise
+    when :furigana_end
+      puts("END FG")
+      print("@FG{{@KJ{{#{pending_kanji}}}:#{pending}}}")
+      pending_kanji = ""
+      pending = ""
+    else
+      raise("Failed to account for #{current_mode}")
+    end
+    pending = ""
+  end
+
+  case style
+  when :furigana
+    pending += codepoint.chr()
+  when :hiragana
+    current_mode = :hiragana unless current_mode == :furigana
+    pending += convert_unicode_to_hiragana_jhtml(codepoint)
+  when :katakana
+    current_mode = :katakana
+    pending += convert_unicode_to_katakana_jhtml(codepoint)
+  when :kanji
+    pending_kanji += "^" if current_mode == :kanji
+    current_mode = :kanji
+    pending_kanji += "#{kjuc[codepoint].english()[0].gsub(/\s+/,'*')}"
   when :ascii
-    print("}}") unless mode == :ascii
-    print(codepoint.chr()) # TODO
+    current_mode = :ascii
+    pending += codepoint.chr()
   end
 }
 
-print("}}") unless mode == :ascii
+case current_mode
+when :katakana
+  print("@KT{{#{pending}}}")
+when :hiragana
+  print("@HI{{#{pending}}}")
+when :ascii
+  print(pending)
+when :kanji
+  # TODO wait ... see if next if furigana is coming
+  print("@KJ{{#{pending_kanji}}}")
+  pending_kanji = ""
+else
+  raise("Failed to account for #{style}")
+end
+print("}}") unless current_mode == :ascii
 puts()

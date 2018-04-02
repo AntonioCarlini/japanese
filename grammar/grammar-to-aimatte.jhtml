@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{to@KJ{{inter-}}matte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{toaimatte}}" grammar="@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}}"}}
+
+<body>
+
+<h1>@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}} follows a noun and indicates that it interacts with another element or that the noun works in tandem with another element.
+This expression is used in written language.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@KJ{{he}}no@KJ{{present^substitute^bull's*eye}}na@KJ{{build^fabricate}}ha@KJ{{stature^scenery}}nosubarashii@KJ{{oneself^sort*of*thing}}
+      @EM{{to@FG{{@KJ{{inter-}}:ai}}matte}},@KT{{shin'puru}}deyasuraginoaru@KJ{{empty^interval}}wo@KJ{{life}}mi@KJ{{exit}}@HI{{shiteiru.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His modern architecture blends with the splendid natural beauty of the surroundings to create a simple, relaxing space.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@FG{{@KJ{{inter-}}:ai}}matte}} means "coupled with" and derives from an obsolete verb @HI{{@FG{{@KJ{{inter-}}:ai}}matsu}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 94).
+<li> @REF{{HJGPTL}}. (p. 313).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
