@@ -1,4 +1,5 @@
 JHTML_SRCS += 500-essential-expressions-toc.jhtml
+JHTML_SRCS += hjgp-tl.jhtml
 JHTML_SRCS += jpod-li-toc.jhtml
 JHTML_SRCS += jpod-ui-toc.jhtml
 JHTML_SRCS += jstep-toc.jhtml
