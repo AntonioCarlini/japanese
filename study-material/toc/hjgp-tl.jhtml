@@ -2233,9 +2233,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@FG{{to@KJ{{inter-}}:@HI{{toai}}}}@HI{{maxtsute}}                                                            </td>
+  <td class="left"> <a href="grammar-to-aimatte.html">@HI{{to}}@FG{{@KJ{{inter-}}:toai}}@HI{{matte}}</a>                                        </td>
   <td class="left"> p. 313                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@HI{{toaxtsute}}                                                                                             </td>
@@ -3398,9 +3398,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@HI{{nikamakete}}                                                                                            </td>
+  <td class="left"> <a href="grammar-ni-kamakete.html">@HI{{nikamakete}}</a>                                                                    </td>
   <td class="left"> p. 463                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@FG{{ni@KJ{{substitute}}:@HI{{nika}}}}@HI{{waxtsute}}                                                        </td>
