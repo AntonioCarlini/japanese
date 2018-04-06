@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{kare@JDOTS3{{}}kare}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{kare...kare}}" grammar="@HI{{kare@JDOTS3{{}}kare}}"}}
+
+<body>
+
+<h1>@HI{{kare@JDOTS3{{}}kare}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Aistem{{}}@HI{{@EM{{kare}}}}@JDOTS3{{}}@Aistem{{}}@HI{{@EM{{kare}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{kare}}@JDOTS3{{}}@EM{{kare}}}} is used with a pair if @HI{{i}}-adjectives of opposite meaning to form a phrase that means "in both cases".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{slow}}:oso}}@EM{{kare}}@FG{{@KJ{{early}}:haya}}@EM{{kare}},@FG{{@KJ{{mountain^rice*field}}:yamada}}sanmo@FG{{@KJ{{come}}:ku}}rudeshou.}}
+</td> </tr>
+  <tr class="en"> <td>
+      Sooner or later Mr. Yamada will come too.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@FG{{@KJ{{good}}:yo}}@EM{{kare}}@FG{{@KJ{{bad}}:a}}shi@EM{{kare}}}} is an idiom meaning "for better or worse".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{good}}:yo}}@EM{{kare}}@FG{{@KJ{{bad}}:a}}shi@EM{{kare}},@KT{{terebi}}ha@FG{{@KJ{{generation}}:yo}}no@FG{{@KJ{{in}}:naka}}wo@FG{{@KJ{{unusual}}:ka}}eta.}}
+</td> </tr>
+  <tr class="en"> <td>
+      For better or for worse, television has changed the world.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+As can be seen from the example above, when @HI{{@FG{{@KJ{{bad}}:waru}}i}} is used with this sentence pattern, it changes reading and becomes @HI{{@FG{{@KJ{{bad}}:a}}shikare}}.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 104).
+<li> @REF{{HJGPTL}}. (p. 102).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

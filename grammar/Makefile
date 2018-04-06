@@ -193,6 +193,7 @@ JHTML_SRCS += grammar-kara-shite.jhtml
 JHTML_SRCS += grammar-kara-suru.jhtml
 JHTML_SRCS += grammar-kara-te-kudasai.jhtml
 JHTML_SRCS += grammar-kara-to-itte.jhtml
+JHTML_SRCS += grammar-kare-kare.jhtml
 JHTML_SRCS += grammar-kari-ni.jhtml
 JHTML_SRCS += grammar-karou.jhtml
 JHTML_SRCS += grammar-kata-wo-suru.jhtml

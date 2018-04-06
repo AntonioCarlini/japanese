@@ -698,9 +698,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@HI{{kare}}                                                                                                  </td>
+  <td class="left"> <a href="grammar-kare-kare.html">@HI{{kare}}</a>                                                                            </td>
   <td class="left"> p. 102                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@HI{{karou}}                                                                                                 </td>
