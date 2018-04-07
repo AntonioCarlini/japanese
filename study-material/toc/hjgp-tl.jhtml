@@ -2053,9 +2053,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@HI{{teha}}                                                                                                  </td>
+  <td class="left"> <a href="grammar-te-wa-te-wa.html">@HI{{teha}}</a>                                                                          </td>
   <td class="left"> p. 276                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@HI{{deha}}<sup>1</sup>                                                                                      </td>

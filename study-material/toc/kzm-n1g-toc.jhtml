@@ -449,7 +449,7 @@ span.nobreak {
         <li> ~<a href="grammar-ni-nai.html">@HI{{ni}}~@HI{{nai}}</a>
         <li> ~<a href="grammar-volitional-ni-mo-nai.html">@Vyou{{}}@HI{{nimo}}~@HI{{nai}}</a>
         <li> ~<a href="grammar-tsu-tsu.html">@HI{{tsu}}@JDOTS3{{}}@HI{{tsu}}</a>
-        <li> ~<a href=""></a>@HI{{@Vte{{}}ha,}}@JDOTS3{{}}@HI{{@Vte{{}}ha}}@JDOTS3{{}}
+        <li> ~<a href="grammar-te-wa-te-wa.html">@HI{{@Vte{{}}ha,}}@JDOTS3{{}},~@HI{{@Vte{{}}ha}}@JDOTS3{{}}</a>
         <li> ~<a href="grammar-kare-kare.html">@HI{{kare}}@JDOTS3{{}}@HI{{kare}}</a>
       </ol>
     </td>

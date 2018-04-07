@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{teha@JDOTS3{{}}teha}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{teha...teha}}" grammar="@HI{{@Vte{{}}ha@JDOTS3{{}}@Vte{{}}ha}}"}}
+
+<body>
+
+<h1>@HI{{@Vte{{}}ha@JDOTS3{{}}@Vte{{}}ha}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@HI{{@EM{{@Vte{{}}ha}}@JDOTS3{{}}@EM{{@Vte{{}}ha}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{@Vte{{}}ha}}@JDOTS3{{}}@EM{{@Vte{{}}ha}}}} uses two verbs repeatedly to indicate that an action or phenomenon is repeated.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{write}}:ka}}iteha@FG{{@KJ{{extinguish}}:ke}}shi,@KJ{{write}}iteha@KJ{{extinguish}}shi,
+      yatto@FG{{@KJ{{hand^paper}}:tegami}}wo@FG{{@KJ{{write}}:ka}}ki@FG{{@KJ{{above}}:a}}geta.}}
+</td> </tr>
+  <tr class="en"> <td>
+      After countless writings and erasures, he finally finished the letter.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+The order of the verbs in @HI{{@EM{{@Vte{{}}ha}}@JDOTS3{{}}@EM{{@Vte{{}}ha}}}} may be reversed but the meaning remains the same.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{eat}}:ta}}beteha@FG{{@KJ{{lie*down}}:ne}},@FG{{@KJ{{lie*down}}:ne}}teha@FG{{@KJ{{eat}}:ta}}berutoiu@FG{{@KJ{{life^lively}}:seikatsu}}woshiteiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      His life is nothing but eating and sleeping, sleeping and eating.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 104).
+<li> @REF{{HJGPTL}}. (p. 278).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

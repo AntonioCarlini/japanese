@@ -625,6 +625,7 @@ JHTML_SRCS += grammar-te-shimau.jhtml
 JHTML_SRCS += grammar-te-shinaide-accompany.jhtml
 JHTML_SRCS += grammar-te-wa-ikemasen.jhtml
 JHTML_SRCS += grammar-te-wa-irarenai.jhtml
+JHTML_SRCS += grammar-te-wa-te-wa.jhtml
 JHTML_SRCS += grammar-te-wa.jhtml
 JHTML_SRCS += grammar-te-yamanai.jhtml
 JHTML_SRCS += grammar-teineigo.jhtml
