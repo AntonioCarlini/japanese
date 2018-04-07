@@ -1813,9 +1813,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@HI{{tsu}}@JDOTS3{{}}@HI{{tsu}}                                                                              </td>
+  <td class="left"> <a href="grammar-tsu-tsu.html">@HI{{tsu}}@JDOTS3{{}}@HI{{tsu}}</a>                                                          </td>
   <td class="left"> p. 242                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@HI{{tsui}}                                                                                                  </td>

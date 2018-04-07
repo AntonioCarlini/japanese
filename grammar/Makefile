@@ -698,6 +698,7 @@ JHTML_SRCS += grammar-toshite.jhtml
 JHTML_SRCS += grammar-totan.jhtml
 JHTML_SRCS += grammar-totemo-nai.jhtml
 JHTML_SRCS += grammar-toutou.jhtml
+JHTML_SRCS += grammar-tsu-tsu.jhtml
 JHTML_SRCS += grammar-tsudukeru-suffix.jhtml
 JHTML_SRCS += grammar-tsuide-ni.jhtml
 JHTML_SRCS += grammar-tsukimashite-wa.jhtml

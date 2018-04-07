@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{tsu@JDOTS3{{}}tsu}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{tsu...tsu}}" grammar="@HI{{tsu@JDOTS3{{}}tsu}}"}}
+
+<body>
+
+<h1>@HI{{tsu@JDOTS3{{}}tsu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vmasustem{{}}@HI{{@EM{{tsu}}}}@JDOTS3{{}}@Vmasustem{{}}@HI{{@EM{{tsu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tsu}}@JDOTS3{{}}@EM{{tsu}}}} expresses that two actions repeatedly alternate. It is used with two verbs of opposite meaning.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{ano@FG{{@KJ{{person}}:hito}}hasakkikara@FG{{@KJ{{store}}:mise}}no@FG{{@KJ{{in*front}}:mae}}wo
+      @FG{{@KJ{{going}}:i}}ki@EM{{tsu}}@FG{{@KJ{{re-}}:modo}}ri@EM{{tsu}}shiteiru.}}
+</td> </tr>
+  <tr class="en"> <td>
+      That man has been walking to and fro in front of the shop for some time now.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{tsu}}@JDOTS3{{}}@EM{{tsu}}}} can also be used with the same verb firstly active and then passive.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{first*time^visit*a*shrine}}:hatsumoude}}no@FG{{@KJ{{gods^company}}:jinja}}hamonosugoi@FG{{@KJ{{person^exit}}:hitode}}de,
+      @FG{{@KJ{{push}}:o}}shi@EM{{tsu}}@FG{{@KJ{{push}}:o}}sare@EM{{tsu}},yattonokotode@FG{{@KJ{{boundary^inside}}:keidai}}madetadori@FG{{@KJ{{don}}:tsu}}ita.}}
+</td> </tr>
+  <tr class="en"> <td>
+      The shrine for the first pilgramage of the New Year was packed with people, and after pushing and being pushed, we finally made it into the inner grounds.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{@EM{{tsu}}@JDOTS3{{}}@EM{{tsu}}}} is used with a limited number of verbs.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 104).
+<li> @REF{{HJGPTL}}. (p. 242).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
