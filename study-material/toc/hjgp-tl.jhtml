@@ -3533,9 +3533,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@FG{{ni@KJ{{instant}}:@HI{{nisoku}}}}@HI{{shite}}                                                            </td>
+  <td class="left"> <a href="grammar-ni-sokushite.html">@FG{{ni@KJ{{instant}}:@HI{{nisoku}}}}@HI{{shite}}</a>                                   </td>
   <td class="left"> p. 474                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@FG{{ni@KJ{{run*alongside}}:@HI{{niso}}}}@HI{{xtsute}}                                                       </td>
