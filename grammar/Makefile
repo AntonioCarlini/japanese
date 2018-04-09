@@ -356,6 +356,7 @@ JHTML_SRCS += grammar-ni-kagiru.jhtml
 JHTML_SRCS += grammar-ni-kagitte.jhtml
 JHTML_SRCS += grammar-ni-kakawarazu.jhtml
 JHTML_SRCS += grammar-ni-kakete-wa.jhtml
+JHTML_SRCS += grammar-ni-kakotsukete.jhtml
 JHTML_SRCS += grammar-ni-kamakete.jhtml
 JHTML_SRCS += grammar-ni-kanshite.jhtml
 JHTML_SRCS += grammar-ni-katakunai.jhtml
