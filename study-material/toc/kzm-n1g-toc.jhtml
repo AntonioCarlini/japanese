@@ -353,7 +353,7 @@ span.nobreak {
       <ol>
         <li> ~<a href="grammar-ni-hikikae.html">@HI{{nihikikae}}</a>
         <li> ~<a href="grammar-to-aimatte.html">@HI{{to@FG{{@KJ{{inter-}}:ai}}matte}}</a>
-        <li> ~<a href=""></a>@HI{{wooshite}}
+        <li> ~<a href="grammar-wo-oshite.html">@HI{{wooshite}}</a>
         <li> ~<a href="grammar-ni-kakotsukete.html">@HI{{nikakotsukete}}</a>
         <li> ~<a href="grammar-wo-kanete.html">@HI{{wokanete}}</a>
         <li> ~<a href="grammar-ni-kamakete.html">@HI{{nikamakete}}</a>
@@ -362,7 +362,7 @@ span.nobreak {
         <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{rule}}:notto}}tte}}
         <li> ~<a href=""></a>@HI{{wohikaete}}
         <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{step}}:fu}}maete}}
-        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{sutra}}:he}}te}}
+        <li> ~<a href="grammar-wo-hete.html">@HI{{wo@FG{{@KJ{{sutra}}:he}}te}}</a>
         <li> ~<a href=""></a>@HI{{nikakawaru}}
         <li> ~<a href=""></a>@HI{{nimatsuwaru}}
       </ol>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wohete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wohete}}" grammar="@HI{{wo@FG{{@KJ{{sutra}}:he}}te}}"}}
+
+<body>
+
+<h1>@HI{{wo@FG{{@KJ{{sutra}}:he}}te}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wo@FG{{@KJ{{sutra}}:he}}te}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{sutra}}:he}}te}}}} follows a noun indicating an event or state to indicate that after experiencing the conditions specified by the noun
+an action is taken or something happens.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{3@KJ{{year}}no@FG{{@KJ{{mingle^occasion}}:kousai}}@EM{{wo@KJ{{sutra}}te}},@FG{{@KJ{{two^person}}:futari}}ha@FG{{@KJ{{tie^marriage}}:kekkon}}shita.}}
+</td> </tr>
+  <tr class="en"> <td>
+      After dating for 3 years they married.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wo@FG{{@KJ{{sutra}}:he}}te}}}} can also mean "after" in a more immediate sense.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{test^fit^end^complete}}:shiaishuuryou}}@EM{{wo@FG{{@KJ{{sutra}}:he}}te}}@FG{{@KJ{{he}}:kare}}ha@FG{{@KJ{{pull^retreat}}:intai}}wo@FG{{@KJ{{discharge^surface}}:happyou}}shimashita.}}
+</td> </tr>
+  <tr class="en"> <td>
+      After the baseball game, he announced his retirement.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+@HI{{wo@FG{{@KJ{{sutra}}:he}}te}} is used with a limited number of verbs.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 95).
+<li> @REF{{NSM-N1G}}. (@KJ{{No.}}6@KJ{{week}}5@KJ{{day}}@KJ{{eye}}).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
