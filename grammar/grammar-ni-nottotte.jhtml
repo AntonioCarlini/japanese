@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{ninottotte}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{ninottotte}}" grammar="@HI{{ni@FG{{@KJ{{rule}}:notto}}te}}"}}
+
+<body>
+
+<h1>@HI{{ni@FG{{@KJ{{rule}}:notto}}te}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{ni@FG{{@KJ{{rule}}:notto}}te}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{ni@FG{{@KJ{{rule}}:notto}}te}}}} follows a noun that indicates that something is done in accordance with a rule or a discipline or a custom.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{pledge^promise}}:keiyaku}}@EM{{ni@FG{{@KJ{{rule}}:notto}}tte}},@FG{{@KJ{{portable^sash^fee^gold}}:keitairyoukin}}wo@FG{{@KJ{{branch^pay}}:shihara}}imasu.}}
+</td> </tr>
+  <tr class="en"> <td>
+      I will pay the mobile phone bill in accordance with the contract.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<p>
+The meaning of this expression is virtually identical to <a href="grammar-ni-sokushite.html#along-norm">@HI{{ni@FG{{@KJ{{rule}}:soku}}shite}}</a>.
+</p>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 95).
+<li> @REF{{UDEMY-N1}}. (Lesson 9).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

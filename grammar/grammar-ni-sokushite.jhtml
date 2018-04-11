@@ -26,7 +26,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{ni@FG{{@KJ{{instant}}:soku}}shite}}}} follows a noun that indicates a fact or an experience and expesses the meaning of
+<a name="along-fact">@HI{{@EM{{ni@FG{{@KJ{{instant}}:soku}}shite}}}}</a> follows a noun that indicates a fact or an experience and expesses the meaning of
 "along something" or "following something".
 
 
@@ -42,7 +42,7 @@
 
 @BGRND{{}}
 <p>
-When @HI{{@EM{{nisokushite}}}} is used with a noun that indicates a law or a norm, it is sometimes written using a different kanji: @HI{{@EM{{ni@FG{{@KJ{{rule}}:soku}}shite}}}}.
+<a name="along-norm">When</a> @HI{{@EM{{nisokushite}}}} is used with a noun that indicates a law or a norm, it is written using a different kanji: @HI{{@EM{{ni@FG{{@KJ{{rule}}:soku}}shite}}}}.
 
 <table class="sentence">
   <tr class="jp"> <td>
@@ -55,6 +55,7 @@ When @HI{{@EM{{nisokushite}}}} is used with a noun that indicates a law or a nor
 </table>
 </p>
 
+The meaning of this expression is interchangeable with <a href="grammar-ni-nottotte.html">@HI{{ni@FG{{@KJ{{rule}}:notto}}tte}}</a>.
 @BGRNDEND{{}}
 
 <h2> Notes </h2>

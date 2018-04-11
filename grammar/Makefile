@@ -370,6 +370,7 @@ JHTML_SRCS += grammar-ni-mo-mashite.jhtml
 JHTML_SRCS += grammar-ni-motozuite.jhtml
 JHTML_SRCS += grammar-ni-nai.jhtml
 JHTML_SRCS += grammar-ni-naru-to.jhtml
+JHTML_SRCS += grammar-ni-nottotte.jhtml
 JHTML_SRCS += grammar-ni-oite.jhtml
 JHTML_SRCS += grammar-ni-oujite.jhtml
 JHTML_SRCS += grammar-ni-saki-datte.jhtml
