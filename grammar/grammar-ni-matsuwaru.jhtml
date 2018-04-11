@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nimatsuwaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nimatsuwaru}}" grammar="@HI{{nimatsuwaru}}"}}
+
+<body>
+
+<h1>@HI{{nimatsuwaru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nimatsuwaru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nimatsuwaru}}}} follows a noun and expresses the meaning of "related to or about that noun".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+    @HI{{korehao@FG{{@KJ{{sake}}:sake}}@EM{{nimatsuwaru}}@FG{{@KJ{{tale}}:hanashi}}wo@FG{{@KJ{{gather}}:atsu}}meta@FG{{@KJ{{book}}:hon}}dearu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      This is a book of collected stories about <em>sake</em>.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 95).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

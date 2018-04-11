@@ -9,6 +9,7 @@
 
 @GRMIDX{{index="@HI{{niitatte}}" grammar="@HI{{ni@FG{{@KJ{{climax}}:ita}}tte}}"}}
 @GRMIDX{{index="@HI{{niitaru}}" grammar="@HI{{ni@FG{{@KJ{{climax}}:ita}}ru}}"}}
+@GRMIDX{{index="@HI{{noitari}}" grammar="@HI{{no@FG{{@KJ{{climax}}:ita}}ri}}"}}
 
 <body>
 
@@ -22,6 +23,7 @@
 <li> @FORMATION{{@N@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}tte}}}}}}
 <li> @FORMATION{{@Vru@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}}}}}
 <li> @FORMATION{{@N@HI{{@EM{{ni@FG{{@KJ{{climax}}:ita}}ru}}}}}}
+<li> @FORMATION{{@N@HI{{@EM{{no@FG{{@KJ{{climax}}:ita}}ri}}}}}}
 </ol>
 </p>
 
@@ -90,6 +92,50 @@ The usages are the same.
 </table>
 </p>
 
+@BGRND{{}}
+<p>
+<a name="no-itari">@HI{{@EM{{no@FG{{@KJ{{climax}}:ita}}ri}}}}</a> is used to express that something has reached the  end or the highest level.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{before^life}}:sensei}}nimatao@FG{{@KJ{{meeting}}:a}}idekirunan'te,@FG{{@KJ{{emotion^violent}}:kangeki}}@EM{{no@FG{{@KJ{{climax}}:ita}}ri}}desu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I am extremely inspired to meet you again.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="youthful-indiscretion">@HI{{@FG{{@KJ{{young^spirit}}:wakage}}no@FG{{@KJ{{climax}}:ita}}ri}}</a> is an idomatic phrase meaning a youthful indiscretion
+of which one is now ashamed.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      A: @HI{{@FG{{@KJ{{once*upon*a*time}}:mukashi}}no@FG{{@KJ{{copy^true}}:shashin}}wo@FG{{@KJ{{see}}:mi}}ruto,@FG{{@KJ{{hair*of*the*head}}:kami}}wo
+      yatara@FG{{@KJ{{faction^hand}}:hade}}na@FG{{@KJ{{color}}:iro}}ni@FG{{@KJ{{dye}}:so}}metari,@FG{{@KJ{{eyebrow^fur}}:mayuge}}wo
+      @FG{{@KJ{{negative^oneself^sort*of*thing}}:fushizen}}nahodo@FG{{@KJ{{dainty}}:hoso}}ku@FG{{@KJ{{organize}}:totono}}etarishitete
+      @FG{{@KJ{{laugh}}:wara}}cchaune.}}
+
+  </td> </tr>
+  <tr class="jp"> <td>
+      B: @HI{{ahaha,@EM{{@FG{{@KJ{{young^spirit}}:wakage}}no@FG{{@KJ{{climax}}:ita}}ri}}dane.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      A: When I look at the old pictures of mine, I cannot stop laughing at my younger self who dyed her hair in flashy color
+      and shaped her eyebrows extremely thinly.
+  </td> </tr>
+  <tr class="en"> <td>
+      B: Haha. It's a youthful indiscretion.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+
+</p>
+
 @BGRNDEND{{}}
 
 <h2> Notes </h2>
@@ -98,8 +144,10 @@ The usages are the same.
 
 <ol>
 <li> @REF{{NKZM-N1G}}. (p. 70).
+<li> @REF{{NKZM-N1G}}. (p. 98).
 <li> @REF{{NSM-N1G}}. (@KJ{{No.}}5@KJ{{week}}4@KJ{{day}}@KJ{{eye}}).
 <li> @REF{{UDEMY-N1}}. Lesson 2.
+<li> @REF{{UDEMY-N1}}. Lesson 5.
 </ol>
 
 @include{{"grammar-footer.inc"}}
