@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{nikakawaru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{nikakawaru}}" grammar="@HI{{nikakawaru}}"}}
+
+<body>
+
+<h1>@HI{{nikakawarazu}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nikakawarazu}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{nikakawarazu}}}} follows a noun and means "to affect" or "to be involved with".
+The noun is something influential or significant.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{person}}:hito}}no@FG{{@KJ{{fate}}:inochi}}@EM{{nikakawaru}}@FG{{@KJ{{question^topic}}:mondai}}dakara,yoku@FG{{@KJ{{hear}}:ki}}kinasai.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      As this is a matter of life and death, listen carefully.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 95).
+<li> @REF{{HJGPTL}}. (p. 461).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
