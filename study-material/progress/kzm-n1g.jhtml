@@ -149,7 +149,7 @@ td#heading {
 </tr>
 <tr>
   <td class=""> G </td>
-  <td class="">  </td> <td class="">  </td> <td class="none"> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class="">  </td> <td class="none"> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="6" id="heading"> <a name="part2"> @KJ{{reality^power^foster^turn*into^compilation}} 
        @KJ{{No.}}2@KJ{{section^sentence}}@HI{{no}}@KJ{{sentence^method}} 2 </a> </td> </tr>
