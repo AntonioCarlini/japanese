@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{monotoomowareru}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{monotoomowareru}}" grammar="@HI{{monoto@FG{{@KJ{{think}}:omo}}wareru}}"}}
+
+<body>
+
+<h1>@HI{{monoto@FG{{@KJ{{think}}:omo}}wareru}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vplain{{}}@HI{{@EM{{monoto@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+<li> @FORMATION{{@Ai{{}}@HI{{@EM{{monoto@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+<li> @FORMATION{{@Ana{{}}@HI{{@EM{{monoto@FG{{@KJ{{think}}:omo}}wareru}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{monoto@FG{{@KJ{{think}}:omo}}wareru}}}} expresses presumption. It means "it is expected" or "I suppose".
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{rain}}:ame}}ha,@FG{{@KJ{{bright^day}}:ashita}}no@FG{{@KJ{{evening^direction}}:yuugata}}made@FG{{@KJ{{continue}}:tsudu}}ku@EM{{monoto@KJ{{think}}wareru}}.}}
+</td> </tr>
+  <tr class="en"> <td>
+      It looks like this rain is not going to stop until tomorrow evening.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{admonish^guess}}:keisatsu}}gasokomade@FG{{@KJ{{chase}}:o}}i@FG{{@KJ{{packed}}:tsu}}mereba,
+      @FG{{@KJ{{crime^person}}:han'nin}}ha@FG{{@KJ{{escape}}:ni}}genai@EM{{monoto@KJ{{think}}wareru}}.}}
+</td> </tr>
+  <tr class="en"> <td>
+      If the police hunt down there, the criminal will not escape, I suppose.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 102).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

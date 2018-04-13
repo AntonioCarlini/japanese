@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{wohikaete}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{wohikaete}}" grammar="@HI{{@Vnai{{}}monodemonai}}"}}
+
+<body>
+
+<h1>@HI{{wohikaete}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@N{{}}@HI{{@EM{{wohikaete}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{wohikaete}}}} follows a noun to indicate that in the near future the event or occasion represented by that noun is
+fast approaching. There is often a sense anxiety associated with the event.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{enter^test}}:nyuushi}}@EM{{wohikaete}},@FG{{@KJ{{study^life}}:gakusei}}tachihapiripirishiteiru.}}
+</td> </tr>
+  <tr class="en"> <td>
+      As the time of the entrance exam approaches, the students study furiously.
+  </td> </tr>
+</table>
+</p>
+
+<p>
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{graduate^profession}}:sotsugyou}}@EM{{wohikaeta}}@FG{{@KJ{{before^comrade}}:senpai}}ni@FG{{@KJ{{scribe^wish^goods}}:kinenhin}}wo@FG{{@KJ{{send*off}}:oku}}tta.}}
+</td> </tr>
+  <tr class="en"> <td>
+      I sent a souvenir to my <em>senpai</em> whose graduation was fast approaching.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 95).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

@@ -4793,9 +4793,9 @@ table.progress td.left {
   <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class="left"> <a href=""></a>@FG{{wo@KJ{{step}}:@HI{{wofu}}}}@HI{{mae}}                                                                   </td>
+  <td class="left"> <a href="grammar-wo-fumaete.html">@FG{{wo@KJ{{step}}:@HI{{wofu}}}}@HI{{mae}}</a>                                            </td>
   <td class="left"> p. 700                                                                                                                      </td>
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class="left"> <a href=""></a>@FG{{wo@KJ{{fundamentals}}:@HI{{womoto}}}}@HI{{ni}}                                                          </td>

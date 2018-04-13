@@ -360,8 +360,8 @@ span.nobreak {
         <li> ~<a href="grammar-ni-sokushite.html">@HI{{ni@FG{{@KJ{{instant}}:soku}}shite}}</a>
         <li> ~<a href=""></a>@HI{{ni@FG{{@KJ{{illuminate}}:te}}rashite}}
         <li> ~<a href="grammar-ni-nottotte.html">@HI{{ni@FG{{@KJ{{rule}}:notto}}tte}}</a>
-        <li> ~<a href=""></a>@HI{{wohikaete}}
-        <li> ~<a href=""></a>@HI{{wo@FG{{@KJ{{step}}:fu}}maete}}
+        <li> ~<a href="grammar-wo-hikaete.html">@HI{{wohikaete}}</a>
+        <li> ~<a href="grammar-wo-fumaete.html">@HI{{wo@FG{{@KJ{{step}}:fu}}maete}}</a>
         <li> ~<a href="grammar-wo-hete.html">@HI{{wo@FG{{@KJ{{sutra}}:he}}te}}</a>
         <li> ~<a href=""></a>@HI{{nikakawaru}}
         <li> ~<a href="grammar-ni-matsuwaru.html">@HI{{nimatsuwaru}}</a>
@@ -419,10 +419,10 @@ span.nobreak {
         <li> ~<a href="grammar-te-kara-to-iu-mono.html">@HI{{@Vte{{}}karatoiumono}}(@HI{{ha}})</a>
         <li> ~<a href=""></a>@HI{{toiumono}}
         <li> ~<a href="grammar-particle-mono-wo.html">@HI{{monowo}}</a>
-        <li> ~<a href=""></a>@HI{{naimonodemonai}}
+        <li> ~<a href="grammar-nai-mono-de-mo-nai.html">@HI{{naimonodemonai}}</a>
         <li> ~<a href=""></a>@HI{{monoto@FG{{@KJ{{think}}:omo}}u}}
-        <li> ~<a href=""></a>@HI{{monoto@FG{{@KJ{{think}}:omo}}wareru}}
-        <li> ~<a href=""></a>@HI{{woiikotoni}}
+        <li> ~<a href="grammar-mono-to-omowareru.html">@HI{{monoto@FG{{@KJ{{think}}:omo}}wareru}}</a>
+        <li> ~<a href="grammar-wo-ii-koto-ni.html">@HI{{woiikotoni}}</a>
         <li> ~<a href="grammar-to-itta-tokoro-da.html#downplay">@HI{{toittatokoroda}}</a>
         <li> ~<a href="grammar-tokoro-wo.html">@HI{{tokorowo}}</a>
         <li> ~<a href="grammar-ta-tokoro-de.html">@Vta{{}}@HI{{tokorode}}</a>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{naimonodemonai}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{naimonodemonai}}" grammar="@HI{{@Vnai{{}}monodemonai}}"}}
+
+<body>
+
+<h1>@HI{{naimonodemonai}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vnaistem{{}}@HI{{@EM{{naimonodemonai}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{naimonodemonai}}}} is a euphemistic expression used to imply that something may be possibly be realised as long as the
+prerequisites in the preceding sentence are met. The expression is a double negative that hesitantly expresses an affirmative.
+
+<table class="sentence">
+  <tr class="jp"> <td>
+      @HI{{kono@FG{{@KJ{{plan^affair}}:anken}}ha,@FG{{@KJ{{he^woman}}:kanojo}}ga@FG{{@KJ{{lie*down}}:ne}}naide@FG{{@KJ{{attend^above}}:shia}}gereba@FG{{@KJ{{two^day}}:futsuka}}de
+      @FG{{@KJ{{end}}:o}}wara@EM{{naimonodemonai}}ga,soreha@FG{{@KJ{{cruel}}:koku}}{darou.}}
+</td> </tr>
+  <tr class="en"> <td>
+      This project might be finished in two days if she works all night, but it is too much.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{NKZM-N1G}}. (p. 102).
+<li> @REF{{UDEMY-N1}}. Lesson 5.
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
