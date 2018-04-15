@@ -11,12 +11,12 @@
 
 <body>
 
-<h1>@HI{{nikakawarazu}}</h1>
+<h1>@HI{{nikakawaru}}</h1>
 
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@N{{}}@HI{{@EM{{nikakawarazu}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{nikakawaru}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -25,7 +25,7 @@
 
 @BGRND{{}}
 <p>
-@HI{{@EM{{nikakawarazu}}}} follows a noun and means "to affect" or "to be involved with".
+@HI{{@EM{{nikakawaru}}}} follows a noun and means "to affect" or "to be involved with".
 The noun is something influential or significant.
 
 <table class="sentence">
