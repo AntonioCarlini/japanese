@@ -466,6 +466,23 @@ td {
   <td class="ok"> </td> <td class="missing"> b </td> <td class="ok"> </td> <td class="ok"> </td> <td class="ok"> </td> <td class="missing"> b </td>
 </tr>
 
+<table class="progress">
+<tr> <th colspan="" id="heading"> A@KJ{{chapter}} </th> </tr>
+
+<tr> <th> Date      </th>
+     <th colspan="8"> A.1A </th>
+     <th colspan="7"> A.1B </th>
+     <th colspan="7"> A.2A </th>
+     <th colspan="5"> A.2B </th>
+ </tr>
+<tr>
+  <td> 2018-04-29 </td>
+  <td class="ok"> </td> <td class="ok"> <td class="missing"> </td> <td class="ok"> </td> <td class="ok"> <td class="missing"> </td> <td class="missing"> @HI{{nikanawatte}} </td> <td class="missing"> </td> 
+  <td class="missing"> @HI{{nihikikaete}} </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> @HI{{mawatte}} </td> <td class="missing"> </td>
+  <td class="missing"> a </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> <td class="missing"> </td> 
+  <td class="missing"> </td> <td class="ok"> <td class="ok"> <td class="ok"> <td class="ok"> 
+</tr>
+
 </table>
 
 </body>
