@@ -2775,7 +2775,7 @@ class KD
     "exorcise" => Kanji.new(2993, 31059, ["HUTSU","HAI"], ["hara.u"], [""], ["exorcise"], 0, 0),
     "dither" => Kanji.new(2994, 36487, ["CHYO","CHYAKU"], ["tamera.u"], [""], ["dither"], 0, 0),
     "hesitate" => Kanji.new(2996, 36490, ["CHYUU","CHYU","SHYUU","JU"], ["tamera.u"], [""], ["hesitate"], 0, 0),
-    "same*kind" => Kanji.new(2997, 24409, ["I"], ["harinezumi"], [""], ["same kind","glossary"], 8, 0),
+    "glossary" => Kanji.new(2997, 24409, ["I"], ["harinezumi"], [""], ["glossary","same kind"], 8, 0),
     "bean-jam*dumpling" => Kanji.new(2998, 39237, ["MAN"], [""], [""], ["bean-jam dumpling","manjuu"], 0, 0),
     "vomit" => Kanji.new(2999, 22036, ["OU","KU"], ["ha.ku","mukatsu.ku","uta.u"], [""], ["vomit","nauseated"], 0, 0),
     "snapping*turtle" => Kanji.new(3000, 40712, ["BETSU","HETSU"], ["suppon"], [""], ["snapping turtle","fresh-water turtle"], 0, 0),
