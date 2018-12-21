@@ -3,6 +3,7 @@ JHTML_SRCS += ahij-vocabulary.jhtml
 JHTML_SRCS += doajg.jhtml
 JHTML_SRCS += dobjg.jhtml
 JHTML_SRCS += doijg.jhtml
+JHTML_SRCS += jlpt-n2-preparation.jhtml
 JHTML_SRCS += jpod-absolute-beginner.jhtml
 JHTML_SRCS += jpod-advanced.jhtml
 JHTML_SRCS += jpod-beginner.jhtml

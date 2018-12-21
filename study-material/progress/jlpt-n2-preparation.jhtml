@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table.leftfirstcol td:nth-child(1) { text-align: left; }
+table { border-collapse: collapse; }
+</style>
+<title>JLPT N2 Preparation</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<h1>JLPT N2 Preparations</h1>
+
+<table class="progress highlight leftfirstcol">
+<tr>
+  <th align="left" style="min-width:22em"> Title </th>
+  <th align="left" style="min-width:8em"> Taken </th>
+  <th> Marked </th> <th> Scanned </th> <th> Mined </th> <th> Translated </th>
+  <th> Anki </th> <th> Analysed </th>
+</tr>
+<tr>
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #1
+    @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
+  <td class=""> 2018-10-31</td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #1 @FG{{@KJ{{listen^unravel}}:choukai}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #2
+    @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
+  <td class=""> 2018-11-03 </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #2 @FG{{@KJ{{listen^unravel}}:choukai}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #3
+    @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
+  <td class=""> 2018-10-30 </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="missing"> </td>
+  <td class="missing"> </td> <td class="missing">  </td>
+</tr>
+<tr style="border-bottom: 2pt solid black;">
+  <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #3 @FG{{@KJ{{listen^unravel}}:choukai}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2 @FG{{@KJ{{imitation^test}}:moshi}}@HI{{to}}@FG{{@KJ{{vis-a-vis^scheme}}:taisaku}} #1
+                @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
+  <td class=""> 2018-07-26 </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2 @FG{{@KJ{{imitation^test}}:moshi}}@HI{{to}}@FG{{@KJ{{vis-a-vis^scheme}}:taisaku}} #1 @FG{{@KJ{{listen^unravel}}:choukai}}</td>
+  <td class=""> 2018-08-01 </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2 @FG{{@KJ{{imitation^test}}:moshi}}@HI{{to}}@FG{{@KJ{{vis-a-vis^scheme}}:taisaku}} #2 @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="missing"> </td>
+  <td class="missing"> </td> <td class="missing">  </td>
+</tr>
+<tr style="border-bottom: 2pt solid black;">
+  <td class=""> JLPT N2 @FG{{@KJ{{imitation^test}}:moshi}}@HI{{to}}@FG{{@KJ{{vis-a-vis^scheme}}:taisaku}} #2
+    @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1991 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1991 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1991 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1992 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="missing"> </td>
+  <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1992 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1992 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1993 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1993 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1993 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1994 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1994 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1994 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
+    <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1995 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1995 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1995 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1996 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1996 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1996 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1997 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1997 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1997 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1998 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1998 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1998 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1999 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  1999 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  1999 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2000 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2000 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2000 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2001 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2001 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2001 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
+    <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2002 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2002 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2002 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2003 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2003 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2003 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2004 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2004 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2004 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2005 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2005 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2005 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2006 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2006 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2006 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2007 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2007 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2007 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2008 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2008 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 1pt solid black;">
+  <td class=""> JLPT N2  2008 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2009 @FG{{@KJ{{sentence^character}}:bunpou}}@MIDDOT{{}}@FG{{@KJ{{word^glossary}}:goi}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr>
+  <td class=""> JLPT N2  2009 @FG{{@KJ{{listen^unravel}}:choukai}}
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+<tr style="border-bottom: 2pt solid black;">
+  <td class=""> JLPT N2  2009 @FG{{@KJ{{read^unravel}}:dokkai}}@MIDDOT{{}}@FG{{@KJ{{sentence^character}}:bunpou}}</td>
+  <td class=""> </td>
+  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class=""> </td> <td class="">  </td>
+</tr>
+</table>
+
+</body>
+</html>
