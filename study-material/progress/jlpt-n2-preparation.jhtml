@@ -23,7 +23,7 @@ table { border-collapse: collapse; }
   <td class=""> JLPT N2 @FG{{@KJ{{perfect^whole}}:kanzen}}@FG{{@KJ{{imitation^test}}:moshi}} #1
     @FG{{@KJ{{say^word^know^discriminating}}:gengochishiki}}@MIDDOT{{}}@FG{{@KJ{{read^unravel}}:dokkai}}</td>
   <td class=""> 2018-10-31</td>
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
   <td class="missing"> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr style="border-bottom: 1pt solid black;">
