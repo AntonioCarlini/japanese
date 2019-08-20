@@ -15,6 +15,7 @@ JHTML_SRCS += jpod.jhtml
 JHTML_SRCS += jstep.jhtml
 JHTML_SRCS += kic.jhtml
 JHTML_SRCS += kzm-n1g.jhtml
+JHTML_SRCS += kzm-n1r.jhtml
 JHTML_SRCS += kzm-n2g.jhtml
 JHTML_SRCS += kzm-n2r.jhtml
 JHTML_SRCS += kzm-n1g-exercises.jhtml

@@ -2257,7 +2257,7 @@
  2257 :  0x64b9 :  :  KAKU KOU :  mida.su :   :  {disturb} {throw into confusion} :   :  
  2258 :  0x647a : hida :  SHYOU SHYUU ROU :  su.ru hida :  suru zuri :  {rub} {fold} {print (on cloth)} :  9 :  
  2259 :  0x6309 :  :  AN :  osa.eru shira.beru :   :  {press down on} {hold} {consider} {investigate} :  9 :  
- 2260 :  0x6349 :  :  SOKU SAKU :  tora.eru :   :  {catch} {capture} :  8 :  
+ 2260 :  0x6349 :  :  SOKU SAKU :  tora.eru :   :  {nab} {catch} {capture} :  8 :  
  2261 :  0x62f6 :  :  SATSU :  sema.ru :   :  {be imminent} {draw close} :  8 :  
  2262 :  0x64ad :  :  HA BAN HAN :  ma.ku :  hari :  {plant} {sow} :  9 :  
  2263 :  0x63d6 :  :  ITSU YU SHYUU YUU :   :  i :  {collect} {bow with arms folded} {come together} {assemble} :   :  
@@ -3006,5 +3006,6 @@
  3006 :  0x800c : shika.mo shika.redomo shika.shite shikaruni shiko.ushite :  JI NI :  shiko.ushite shika.shite shika.mo shika.redomo sunawachi nanji shikaruni :   :  {and then} {rake} :  9 :  
  3007 :  0x639f : okite :  TOU CHYOU JOU TEI :  okite :   :  {law} {commandments} {regulations} :   :  
  3008 :  0x55c5 : ka.gu : KYUU :  ka.gu : : {sniff} {smell} {scents} : :
+ 3009 :  0x55a9 : tato.eru : YU :  tato.eru : : {metaphor} : :
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
 20960 :  0x51e0 : kinyou : KI : kinyou : : {table} : : 

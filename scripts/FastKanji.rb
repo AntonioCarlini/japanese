@@ -2235,6 +2235,7 @@ class KD
     "wipe" => Kanji.new(2254, 25325, ["SHYOKU","SHIKI"], ["nugu.u","fu.ku"], [""], ["wipe","mop","swab"], 8, 0),
     "be*complete" => Kanji.new(2255, 25539, ["SEN"], ["soro.eru","soro.u","soro.i","ki.ru"], [""], ["be complete","uniform","all present"], 9, 0),
     "press*down*on" => Kanji.new(2259, 25353, ["AN"], ["osa.eru","shira.beru"], [""], ["press down on","hold","consider","investigate"], 9, 0),
+    "nab" => Kanji.new(2260, 25417, ["SOKU","SAKU"], ["tora.eru"], [""], ["nab","catch","capture"], 8, 0),
     "be*imminent" => Kanji.new(2261, 25334, ["SATSU"], ["sema.ru"], [""], ["be imminent","draw close"], 8, 0),
     "collect" => Kanji.new(2263, 25558, ["ITSU","YU","SHYUU","YUU"], [""], ["i"], ["collect","bow with arms folded","come together","assemble"], 0, 0),
     "receptacle" => Kanji.new(2264, 25176, ["TAKU"], ["taku.suru","tano.mu"], [""], ["receptacle","requesting","entrusting with","pretend","hint"], 9, 0),
@@ -2784,6 +2785,7 @@ class KD
     "and*then" => Kanji.new(3006, 32780, ["JI","NI"], ["shiko.ushite","shika.shite","shika.mo","shika.redomo","sunawachi","nanji","shikaruni"], [""], ["and then","rake"], 9, 0),
     "law" => Kanji.new(3007, 25503, ["TOU","CHYOU","JOU","TEI"], ["okite"], [""], ["law","commandments","regulations"], 0, 0),
     "sniff" => Kanji.new(3008, 21957, ["KYUU"], ["ka.gu"], [""], ["sniff","smell","scents"], 0, 0),
+    "metaphor" => Kanji.new(3009, 21929, ["YU"], ["tato.eru"], [""], ["metaphor"], 0, 0),
     "depend*on" => Kanji.new(20447, 20447, ["SHI"], ["ma.tsu"], [""], ["depend on"], 0, 0),
     "table" => Kanji.new(20960, 20960, ["KI"], ["kinyou"], [""], ["table"], 0, 0),
     }
