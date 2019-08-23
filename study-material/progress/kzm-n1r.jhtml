@@ -5,8 +5,17 @@
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
-td#heading {
+td#group {
+  background-color: darkgoldenrod;
+}
+td#part {
   background-color: goldenrod;
+}
+td#section {
+  background-color: sandybrown;
+}
+td#subsection {
+  background-color: wheat;
 }
 </style></head>
 <body>
@@ -14,21 +23,28 @@ td#heading {
 <h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N1 @KJ{{read^unravel}}</h1>
 
 <table class="progress">
-<tr>
-  <th> Page   </th> <th> Type </th>   <th> First Pass </th> <th> Translated </th> <th> Fully Worked </th> <th> Verified </th> <th> Vocabulary </th>
+  <col style="width: 6em">
+  <col style="width: 6em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+<tr align="center">
+  <th width="12em"> Page   </th> <th> Type </th>   <th> First Pass </th> <th> Translated </th> <th> Fully Worked </th> <th> Verified </th> <th> Vocabulary </th>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="title"> @KJ{{reality^power^foster^turn*into^compilation}} </a>  </td> </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="part1">  @KJ{{No.}}1@KJ{{section}}
+<tr> <td colspan="7" id="group" align="left"> <a name="title"> @KJ{{reality^power^foster^turn*into^compilation}} </a>  </td> </tr>
+<tr> <td colspan="7" id="part" align="left"> <a name="part1">  @KJ{{No.}}1@KJ{{section}}
        @FG{{@KJ{{evaluate^argument}}:hyouron}} @MIDDOT{{}}
        @FG{{@KJ{{unravel^explanation}}:kaisetsu}} @MIDDOT{{}}
        @KT{{extsusei}}@HI{{nado}}
        </a> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.1">  1.1.
+<tr> <td colspan="7" id="section" align="left"> <a name="1.1">  1.1.
        @HI{{@FG{{@KJ{{sentence^badge}}:bunshou}}noshikumiwo@FG{{@KJ{{logic^unravel}}:rikai}}suru}}
        </a> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.1.1">  1.1.1)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.1">  1.1.1)
        @HI{{[@FG{{@KJ{{vis-a-vis^compare}}:taihi}}]}}
        </a> </td>
 </tr>
@@ -56,7 +72,7 @@ td#heading {
   <td class=""> 10 </td> <td class=""> @KJ{{practice^learn}} 4 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.1.2">  1.1.2)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.2">  1.1.2)
        @HI{{[@FG{{@KJ{{say}}:i}}i@FG{{@KJ{{interchange}}:ka}}e]}}
        </a> </td>
 </tr>
@@ -88,7 +104,7 @@ td#heading {
   <td class=""> 19 </td> <td class=""> @KJ{{practice^learn}} 10</td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.1.3">  1.1.3)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.3">  1.1.3)
        @HI{{[@FG{{@KJ{{compare^metaphor}}:hiyu}}]}}
        </a> </td>
 </tr>
@@ -116,7 +132,7 @@ td#heading {
   <td class=""> 25 </td> <td class=""> @KT{{KORAMU}} 2 </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.1.4">  1.1.4)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.4">  1.1.4)
        @HI{{[@FG{{@KJ{{doubt^question^propose^show^sentence}}:shitsumonteijibun}}]}}
        </a> </td>
 </tr>
@@ -140,11 +156,11 @@ td#heading {
   <td class=""> 31 </td> <td class=""> @KT{{KORAMU}} 3 </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2">  1. 2.
+<tr> <td colspan="7" id="section" align="left"> <a name="1.2">  1.2
        @HI{{@KJ{{question}}iwo@KJ{{unravel}}ku@KJ{{skill^art}}wo@KJ{{somebody}}@HI{{nitsukeru}}}}
        </a> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2.1">  1.2.1)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.1">  1.2.1)
        @HI{{@KJ{{finger^show^word}}wo@KJ{{question}}@HI{{u}}}}
        </a> </td>
 <tr>
@@ -171,7 +187,7 @@ td#heading {
   <td class=""> 39 </td> <td class=""> @KJ{{practice^learn}} 21 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2.2">  1.2.2)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.2">  1.2.2)
        @HI{{[darega][@FG{{@KJ{{what}}:nani}}]nadowo@FG{{@KJ{{question}}:to}}@HI{{u}}}}
        </a> </td>
 <tr>
@@ -198,7 +214,7 @@ td#heading {
   <td class=""> 45 </td> <td class=""> @KT{{KORAMU}} 4 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2.3">  1.2.3)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.3">  1.2.3)
        @HI{{@KJ{{below^line^section}}no@KJ{{idea^flavor}}wo@KJ{{question}}@HI{{u}}}}
        </a> </td>
 <tr>
@@ -229,7 +245,7 @@ td#heading {
   <td class=""> 53 </td> <td class=""> @KJ{{practice^learn}} 31 </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2.4">  1.2.4)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.4">  1.2.4)
        @HI{{@KJ{{logic^wherefore}}wo@KJ{{question}}@HI{{u}}}}
        </a> </td>
 <tr>
@@ -256,7 +272,7 @@ td#heading {
   <td class=""> 61 </td> <td class=""> @KJ{{practice^learn}} 35 </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
-<tr> <td colspan="7" id="heading" align="left"> <a name="1.2.5">  1.2.5)
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.5">  1.2.5)
        @HI{{@KJ{{example}}wo@KJ{{question}}@HI{{u}}}}
        </a> </td>
 <tr>
