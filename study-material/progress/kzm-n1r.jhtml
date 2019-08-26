@@ -66,7 +66,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 9 </td> <td class=""> @KT{{KORAMU}} 1 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 10 </td> <td class=""> @KJ{{practice^learn}} 4 </td> 
@@ -150,7 +150,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 30 </td> <td class=""> @KJ{{practice^learn}} 17 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 31 </td> <td class=""> @KT{{KORAMU}} 3 </td> 
@@ -227,11 +227,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 49 </td> <td class=""> @KJ{{practice^learn}} 27 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 50 </td> <td class=""> @KJ{{practice^learn}} 28 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 51 </td> <td class=""> @KJ{{practice^learn}} 29 </td> 
