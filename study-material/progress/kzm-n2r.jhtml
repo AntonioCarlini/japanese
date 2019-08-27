@@ -5,8 +5,17 @@
 <link rel="stylesheet" type="text/css" href="japanese.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>
-td#heading {
+td#group {
+  background-color: darkgoldenrod;
+}
+td#part {
   background-color: goldenrod;
+}
+td#section {
+  background-color: sandybrown;
+}
+td#subsection {
+  background-color: wheat;
 }
 </style></head>
 <body>
@@ -14,107 +23,125 @@ td#heading {
 <h1>@KJ{{new^perfect^whole}}@KT{{masuta-}} N2 @KJ{{read^unravel}}</h1>
 
 <table class="progress">
-<tr>
-  <th> Page   </th> <th> Type </th>   <th> First Pass </th> <th> Translated </th> <th> Fully Worked </th> <th> Verified </th>
+  <col style="width: 6em">
+  <col style="width: 6em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+  <col style="width: 10em">
+<tr align="center">
+  <th width="12em"> Page   </th> <th> Type </th>   <th> First Pass </th> <th> Translated </th> <th> Fully Worked </th> <th> Verified </th> <th> Vocabulary </th>
 </tr>
-<tr> <td colspan="6" id="heading"> <a name="part1"> @KJ{{reality^power^foster^turn*into^compilation}} 
-       @KJ{{No.}}1@KJ{{section}}
+<tr> <td colspan="7" id="group" align="left"> <a name="title"> @KJ{{reality^power^foster^turn*into^compilation}} </a>  </td> </tr>
+<tr> <td colspan="7" id="part" align="left"> <a name="part1">  @KJ{{No.}}1@KJ{{section}}
        @FG{{@KJ{{evaluate^argument}}:hyouron}} @MIDDOT{{}}
        @FG{{@KJ{{unravel^explanation}}:kaisetsu}} @MIDDOT{{}}
-       @KT{{extsusei}}@HI{{nado}} </a> </td> </tr>
+       @KT{{extsusei}}@HI{{nado}}
+       </a> </td>
+<tr> <td colspan="7" id="section" align="left"> <a name="1.1">  1.1.
+       @HI{{@FG{{@KJ{{sentence^badge}}:bunshou}}noshikumiwo@FG{{@KJ{{logic^unravel}}:rikai}}suru}}
+       </a> </td>
+</tr>
+<tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.1">  1.1.1)
+       @HI{{[@FG{{@KJ{{vis-a-vis^compare}}:taihi}}]}}
+       </a> </td>
+</tr>
 <tr>
   <td class=""> 4 </td> <td class=""> @KJ{{example^topic}} 1 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 6 </td> <td class=""> @KJ{{example^topic}} 2 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 8 </td> <td class=""> @KJ{{example^topic}} 3 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 10 </td> <td class=""> @KJ{{practice^learn}} 1 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 11 </td> <td class=""> @KJ{{practice^learn}} 2 </td>
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 11 </td> <td class=""> @KJ{{practice^learn}} 3 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 12 </td> <td class=""> @KJ{{practice^learn}} 4 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 13 </td> <td class=""> @KJ{{practice^learn}} 5 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 14 </td> <td class=""> @KJ{{example^topic}} 4 </td> 
+  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+</tr>
+<tr>
+  <td class=""> 16 </td> <td class=""> @KJ{{example^topic}} 5 </td> <td class=""> </td>
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 16 </td> <td class=""> @KJ{{example^topic}} 5 </td> 
+  <td class=""> 18 </td> <td class=""> @KJ{{practice^learn}} 6 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 18 </td> <td class=""> @KJ{{practice^learn}} 6 </td> 
+  <td class=""> 19 </td> <td class=""> @KJ{{practice^learn}} 7 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 19 </td> <td class=""> @KJ{{practice^learn}} 7 </td> 
+  <td class=""> 20 </td> <td class=""> @KJ{{practice^learn}} 8 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 20 </td> <td class=""> @KJ{{practice^learn}} 8 </td> 
+  <td class=""> 21 </td> <td class=""> @KJ{{practice^learn}} 9 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 21 </td> <td class=""> @KJ{{practice^learn}} 9 </td> 
+  <td class=""> 22 </td> <td class=""> @KJ{{example^topic}} 6 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 22 </td> <td class=""> @KJ{{example^topic}} 6 </td> 
+  <td class=""> 24 </td> <td class=""> @KJ{{practice^learn}} 10 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 24 </td> <td class=""> @KJ{{practice^learn}} 10 </td> 
+  <td class=""> 24 </td> <td class=""> @KJ{{practice^learn}} 11 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 24 </td> <td class=""> @KJ{{practice^learn}} 11 </td> 
+  <td class=""> 25 </td> <td class=""> @KJ{{practice^learn}} 12 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 25 </td> <td class=""> @KJ{{practice^learn}} 12 </td> 
+  <td class=""> 26 </td> <td class=""> @KJ{{example^topic}} 7 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 26 </td> <td class=""> @KJ{{example^topic}} 7 </td> 
+  <td class=""> 28 </td> <td class=""> @KJ{{practice^learn}} 13 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 28 </td> <td class=""> @KJ{{practice^learn}} 13 </td> 
+  <td class=""> 29 </td> <td class=""> @KJ{{practice^learn}} 14 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 29 </td> <td class=""> @KJ{{practice^learn}} 14 </td> 
+  <td class=""> 30 </td> <td class=""> @KJ{{practice^learn}} 15 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 30 </td> <td class=""> @KJ{{practice^learn}} 15 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
-</tr>
-<tr>
-  <td class=""> 31 </td> <td class=""> @KJ{{practice^learn}} 16 </td> 
+  <td class=""> 31 </td> <td class=""> @KJ{{practice^learn}} 16 </td> <td class=""> </td> 
   <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 </table>
+
+@include{{"study-footer.inc"}}
 
 </body>
 </html>
