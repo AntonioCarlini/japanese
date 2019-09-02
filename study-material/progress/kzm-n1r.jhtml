@@ -266,7 +266,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 60 </td> <td class=""> @KJ{{practice^learn}} 34 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 61 </td> <td class=""> @KJ{{practice^learn}} 35 </td> 
