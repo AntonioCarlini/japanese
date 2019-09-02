@@ -243,7 +243,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 53 </td> <td class=""> @KJ{{practice^learn}} 31 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.4">  1.2.4)
        @HI{{@KJ{{logic^wherefore}}wo@KJ{{question}}@HI{{u}}}}
@@ -254,11 +254,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 56 </td> <td class=""> @KJ{{example^topic}} 10 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 58 </td> <td class=""> @KJ{{practice^learn}} 32 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 59 </td> <td class=""> @KJ{{practice^learn}} 33 </td> 
