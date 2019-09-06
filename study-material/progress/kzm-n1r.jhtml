@@ -289,7 +289,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 66 </td> <td class=""> @KJ{{practice^learn}} 38 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="group" align="left"> <a name="title"> @KJ{{reality^power^foster^turn*into^compilation}} </a>  </td> </tr>
 <tr> <td colspan="7" id="part" align="left"> <a name="part1">  @KJ{{No.}}2@KJ{{section}}
