@@ -49,27 +49,27 @@ td#subsection {
        </a> </td>
 </tr>
 <tr>
-  <td class="ok"> 4 </td> <td class=""> @KJ{{example^topic}} 1 </td> 
+  <td class="ok"> 4 </td> <td class="ok"> @KJ{{example^topic}} 1 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="ok"> 6 </td> <td class=""> @KJ{{practice^learn}} 1 </td> 
+  <td class="ok"> 6 </td> <td class="ok"> @KJ{{practice^learn}} 1 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="ok"> 7 </td> <td class=""> @KJ{{practice^learn}} 2 </td> 
+  <td class="ok"> 7 </td> <td class="ok"> @KJ{{practice^learn}} 2 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="ok"> 8 </td> <td class=""> @KJ{{practice^learn}} 3 </td> 
+  <td class="ok"> 8 </td> <td class="ok"> @KJ{{practice^learn}} 3 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="ok"> 9 </td> <td class=""> @KT{{KORAMU}} 1 </td> 
+  <td class="ok"> 9 </td> <td class="ok"> @KT{{KORAMU}} 1 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class="ok"> 10 </td> <td class=""> @KJ{{practice^learn}} 4 </td> 
+  <td class="ok"> 10 </td> <td class="ok"> @KJ{{practice^learn}} 4 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="subsection" align="left"> <a name="1.1.2">  1.1.2)
@@ -176,34 +176,34 @@ td#subsection {
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td>
 </tr>
 <tr>
-  <td class=""> 37 </td> <td class=""> @KJ{{practice^learn}} 19 </td> 
+  <td class="ok"> 37 </td> <td class="ok"> @KJ{{practice^learn}} 19 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 38 </td> <td class=""> @KJ{{practice^learn}} 20 </td> 
+  <td class="ok"> 38 </td> <td class="ok"> @KJ{{practice^learn}} 20 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 39 </td> <td class=""> @KJ{{practice^learn}} 21 </td> 
+  <td class="ok"> 39 </td> <td class="ok"> @KJ{{practice^learn}} 21 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="subsection" align="left"> <a name="1.2.2">  1.2.2)
        @HI{{[darega][@FG{{@KJ{{what}}:nani}}]nadowo@FG{{@KJ{{question}}:to}}@HI{{u}}}}
        </a> </td>
 <tr>
-  <td class=""> 40 </td> <td class=""> @KJ{{example^topic}} 7 </td> 
+  <td class="ok"> 40 </td> <td class="ok"> @KJ{{example^topic}} 7 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 42 </td> <td class=""> @KJ{{practice^learn}} 22 </td> 
+  <td class="ok"> 42 </td> <td class="ok"> @KJ{{practice^learn}} 22 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 42 </td> <td class=""> @KJ{{practice^learn}} 23 </td> 
+  <td class="ok"> 42 </td> <td class="ok"> @KJ{{practice^learn}} 23 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 43 </td> <td class=""> @KJ{{practice^learn}} 24 </td> 
+  <td class="ok"> 43 </td> <td class="ok"> @KJ{{practice^learn}} 24 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
@@ -234,11 +234,11 @@ td#subsection {
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 51 </td> <td class=""> @KJ{{practice^learn}} 29 </td> 
+  <td class="ok"> 51 </td> <td class="ok"> @KJ{{practice^learn}} 29 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 52 </td> <td class=""> @KJ{{practice^learn}} 30 </td> 
+  <td class="ok"> 52 </td> <td class="ok"> @KJ{{practice^learn}} 30 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
@@ -253,19 +253,19 @@ td#subsection {
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 56 </td> <td class=""> @KJ{{example^topic}} 10 </td> 
+  <td class="ok"> 56 </td> <td class="ok"> @KJ{{example^topic}} 10 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 58 </td> <td class=""> @KJ{{practice^learn}} 32 </td> 
+  <td class="ok"> 58 </td> <td class="ok"> @KJ{{practice^learn}} 32 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 59 </td> <td class=""> @KJ{{practice^learn}} 33 </td> 
+  <td class="ok"> 59 </td> <td class="ok"> @KJ{{practice^learn}} 33 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 60 </td> <td class=""> @KJ{{practice^learn}} 34 </td> 
+  <td class="ok"> 60 </td> <td class="ok"> @KJ{{practice^learn}} 34 </td> 
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
