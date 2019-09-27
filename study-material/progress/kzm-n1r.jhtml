@@ -340,11 +340,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 86 </td> <td class=""> @KJ{{example^topic}} 15 </td> 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 89 </td> <td class=""> @KJ{{practice^learn}} 42 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 90 </td> <td class=""> @KJ{{practice^learn}} 43 </td> 
