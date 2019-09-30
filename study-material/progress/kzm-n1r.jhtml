@@ -344,11 +344,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 89 </td> <td class=""> @KJ{{practice^learn}} 42 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 90 </td> <td class=""> @KJ{{practice^learn}} 43 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="subsection" align="left"> <a name="2.2.2">  2.2.2)
        @HI{{o@FG{{@KJ{{know}}:shi}}rase}}
@@ -356,19 +356,19 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 92 </td> <td class=""> @KJ{{example^topic}} 17 </td> 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 94 </td> <td class=""> @KJ{{example^topic}} 18 </td> 
-  <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 97 </td> <td class=""> @KJ{{practice^learn}} 44 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}}  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 99 </td> <td class=""> @KJ{{practice^learn}} 45 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}}  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 101 </td> <td class=""> @KJ{{practice^learn}} 46 </td> 
