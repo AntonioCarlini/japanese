@@ -404,7 +404,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 110 </td> <td class=""> @KJ{{practice^learn}} 50 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 </table>
 
