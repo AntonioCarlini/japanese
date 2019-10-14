@@ -417,23 +417,23 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 116 </td> <td class=""> @KJ{{example^topic}} 21 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 120 </td> <td class=""> @KJ{{practice^learn}} 51 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 122 </td> <td class=""> @KJ{{practice^learn}} 52 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 124 </td> <td class=""> @KJ{{practice^learn}} 53 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 126 </td> <td class=""> @KJ{{practice^learn}} 54 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr> <td colspan="7" id="section" align="left"> <a name="3.2">  3.2.
        @HI{{@FG{{@KJ{{inside^contain}}:naiyou}}@FG{{@KJ{{logic^unravel}}:rikai}}(@FG{{@KJ{{long^sentence}}:nagabun}})}}
@@ -441,19 +441,19 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 128 </td> <td class=""> @KJ{{example^topic}} 22 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 133 </td> <td class=""> @KJ{{example^topic}} 23 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 138 </td> <td class=""> @KJ{{practice^learn}} 55 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 140 </td> <td class=""> @KJ{{practice^learn}} 56 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr> <td colspan="7" id="section" align="left"> <a name="3.3">  3.3.
        @HI{{@FG{{@KJ{{lord^lengthen}}:shuchou}}@FG{{@KJ{{logic^unravel}}:rikai}}(@FG{{@KJ{{long^sentence}}:nagabun}})}}
