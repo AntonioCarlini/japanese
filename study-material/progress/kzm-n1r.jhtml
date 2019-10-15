@@ -425,7 +425,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 122 </td> <td class=""> @KJ{{practice^learn}} 52 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 124 </td> <td class=""> @KJ{{practice^learn}} 53 </td> 
@@ -461,7 +461,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 142 </td> <td class=""> @KJ{{example^topic}} 24 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 146 </td> <td class=""> @KJ{{practice^learn}} 57 </td> 
