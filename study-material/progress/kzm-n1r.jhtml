@@ -441,7 +441,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 128 </td> <td class=""> @KJ{{example^topic}} 22 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
   <td class=""> 133 </td> <td class=""> @KJ{{example^topic}} 23 </td> 
@@ -469,11 +469,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 148 </td> <td class=""> @KJ{{practice^learn}} 58 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 150 </td> <td class=""> @KJ{{practice^learn}} 59 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr> <td colspan="7" id="section" align="left"> <a name="3.4">  3.4.
        @HI{{@FG{{@KJ{{overall^fit}}:tougou}}@FG{{@KJ{{logic^unravel}}:rikai}}}}
