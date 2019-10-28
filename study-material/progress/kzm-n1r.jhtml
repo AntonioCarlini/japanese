@@ -481,15 +481,15 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 154 </td> <td class=""> @KJ{{example^topic}} 25 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 158 </td> <td class=""> @KJ{{example^topic}} 26 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 162 </td> <td class=""> @KJ{{practice^learn}} 60 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 164 </td> <td class=""> @KJ{{practice^learn}} 61 </td> 
