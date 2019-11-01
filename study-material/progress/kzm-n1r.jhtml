@@ -509,7 +509,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 172 </td> <td class=""> @KJ{{example^topic}} 27 </td> 
-  <td class=""> </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
 </tr>
 <tr>
   <td class=""> 176 </td> <td class=""> @KJ{{example^topic}} 28 </td> 
