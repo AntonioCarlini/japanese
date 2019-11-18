@@ -500,7 +500,7 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 168 </td> <td class=""> @KJ{{practice^learn}} 63 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="">  </td> <td class>  </td> <td class>  </td> <td class>  </td>
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="section" align="left"> <a name="3.5">  3.5.
        @HI{{@FG{{@KJ{{feelings^report}}:jouhou}}@FG{{@KJ{{examination^cord}}:kensaku}}}}
