@@ -1017,5 +1017,8 @@ table.progress td.left {
 </table>
 
 </td></tr></table>
+
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

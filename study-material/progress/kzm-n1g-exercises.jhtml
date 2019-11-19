@@ -485,5 +485,7 @@ td {
 
 </table>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

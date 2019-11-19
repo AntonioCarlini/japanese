@@ -1470,5 +1470,7 @@ Bonus: #15, #16: NOT present and verified.</br>
 </tr>
 </table>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

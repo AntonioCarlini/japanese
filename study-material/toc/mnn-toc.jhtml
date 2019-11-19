@@ -534,5 +534,8 @@
 </ol>
 
 </div>
+
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

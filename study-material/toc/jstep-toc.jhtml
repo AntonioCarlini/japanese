@@ -188,5 +188,8 @@ h2#heading {
 </ol>
 
 </div>
+
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

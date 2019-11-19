@@ -608,5 +608,8 @@ span.nobreak {
 
 
 </div>
+
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

@@ -2161,5 +2161,7 @@ Bonus: #1: present and verified. </br>
 </tr>
 </table>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

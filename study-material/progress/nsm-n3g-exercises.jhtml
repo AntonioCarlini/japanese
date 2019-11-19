@@ -614,5 +614,7 @@ h2#heading {
 </tr>
 </table>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

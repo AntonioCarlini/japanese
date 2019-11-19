@@ -1690,5 +1690,8 @@ Bonus: #1, #17: present and verified. <br/>
   <td> </td> <td> </td> <td>  </td> <td>  </td>
 </tr>
 </table>
+
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

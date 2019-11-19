@@ -124,5 +124,7 @@
 <li><a href="radicals.gen.html"><span>Kanji Radicals</span></a>
 </ol>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>

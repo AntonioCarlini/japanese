@@ -623,5 +623,7 @@ Dialog: #78 seems to be identical to the audio track but it does match the websi
 </tr>
 </table>
 
+@include{{"study-footer.inc"}}
+
 </body>
 </html>
