@@ -471,8 +471,8 @@ td#subsection {
   <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr>
-  <td class=""> 150 </td> <td class=""> @KJ{{practice^learn}} 59 </td> 
-  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class>  </td> <td class="ok"> @TICK{{}} </td>
+  <td class="ok"> 150 </td> <td class="ok"> @KJ{{practice^learn}} 59 </td> 
+  <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}}  </td> <td class="ok"> @TICK{{}} </td> <td class="ok"> @TICK{{}} </td>
 </tr>
 <tr> <td colspan="7" id="section" align="left"> <a name="3.4">  3.4.
        @HI{{@FG{{@KJ{{overall^fit}}:tougou}}@FG{{@KJ{{logic^unravel}}:rikai}}}}
