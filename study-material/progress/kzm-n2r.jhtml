@@ -49,11 +49,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 4 </td> <td class=""> @KJ{{example^topic}} 1 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 6 </td> <td class=""> @KJ{{example^topic}} 2 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 8 </td> <td class=""> @KJ{{example^topic}} 3 </td> 
