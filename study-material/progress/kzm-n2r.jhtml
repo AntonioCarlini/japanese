@@ -77,11 +77,11 @@ td#subsection {
 </tr>
 <tr>
   <td class=""> 13 </td> <td class=""> @KJ{{practice^learn}} 5 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 14 </td> <td class=""> @KJ{{example^topic}} 4 </td> 
-  <td class="">  </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
+  <td class="ok"> @TICK{{}} </td> <td class=""> </td> <td class=""> </td> <td class=""> </td> <td class=""> </td>
 </tr>
 <tr>
   <td class=""> 16 </td> <td class=""> @KJ{{example^topic}} 5 </td> <td class=""> </td>
