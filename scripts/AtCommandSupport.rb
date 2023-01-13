@@ -304,6 +304,7 @@ $command_to_op = {
   "RD" => :process_radical,
   "OPTTEXT" => :process_optional_text,
   "FORMATION" => :process_formation,
+  "HIMITSU" => :process_empty_code,
 }
 
 def process_at_commands(text, data_dir, filename)
@@ -699,7 +700,8 @@ def process_empty_code_helper(code)
         when "CTR"         then "<em>counter</em>"                                              # 
         when "ADV"         then "<em>adverb</em>"                                               # 
         when "PRT"         then "<em>particle</em>"                                             # 
-        when "RELC"        then "<em>relative-clause</em>"                                      # 
+        when "RELC"        then "<em>relative-clause</em>"                                      #
+        when "HIMITSU"     then "<!-- DO_NOT_RELEASE -->"                                       # marker indicating source not to be released
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
