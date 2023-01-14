@@ -40,6 +40,9 @@ tr.hg:hover
 </style>
 </head>
 
+@HIMITSU{{}}
+
+
 @GRMIDX{{index="@HI{{kosoado}}" grammar="@HI{{kosoado}}"}}
 
 <body>
