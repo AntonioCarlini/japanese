@@ -1,6 +1,7 @@
 /*
  * Japanese-English sentences
  * Mark Japanese with class="jp" and English with class="en".
+ * If the English translation does not come from a trustworthy source, use class="en-unv"
  */
 table.sentence {
     background-color: cyan;
@@ -18,6 +19,10 @@ table.sentence tr.jp em {
 }
 
 table.sentence tr.en {
+    background-color: white;
+}
+
+table.sentence tr.en-unv {
     background-color: white;
 }
 
