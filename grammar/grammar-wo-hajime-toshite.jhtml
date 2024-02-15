@@ -7,9 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@HIMITSU{{}}
-
-
 @GRMIDX{{index="@HI{{wohajime(toshite)}}" grammar="@HI{{wohajime(toshite)}}"}}
 
 <body>
@@ -35,10 +32,10 @@ The following clause makes a statement about the larger group that includes the 
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{@KJ{{private}}nouchideha,@KJ{{father}}@EM{{wohajime(toshite)}},@FG{{@KJ{{house^tribe}}:kazoku}}@FG{{@KJ{{whole^employee}}:zen'in'}}@KT{{supo-tsu}}ga@KJ{{fond}}kida.}}
+      @HI{{@FG{{@KJ{{day^book}}:nihon}}ha@FG{{@KJ{{capital^metropolis}}:kyouto}}@EM{{wohajimetoshite}}@FG{{@KJ{{wide^island}}:hiroshima}}yakamakuranadokireina@KJ{{village}}gatakusanaru.}}
   </td> </tr>
-  <tr class="en"> <td>
-      In my family, starting with my father, all of us like sports.
+  <tr class="en-unv"> <td>
+      Japan has many beautiful towns, including Kyoto, Hiroshima and Kamakura.
   </td> </tr>
 </table>
 </p>
@@ -49,10 +46,10 @@ The following clause makes a statement about the larger group that includes the 
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KT{{roboxtsuto}}niha,@FG{{@KJ{{jammed*in^safeguard}}:kaigo}}no@KT{{sapoto}}@EM{{wohajimetosuru}}@FG{{@KJ{{bountiful^wealth}}:houfu}}na@FG{{@KJ{{mechanism^ability}}:kinou}}ga@FG{{@KJ{{board^load}}:tousai}}sareteimasu.}}
+      @HI{{kono@FG{{@KJ{{store}}:mise}}deha@FG{{@KJ{{longevity^director}}:sushi}}@EM{{wohajimetosuru}}@FG{{@KJ{{day^book}}:nihon}}@FG{{@KJ{{fee^logic}}:ryouri}}gairoiro@FG{{@KJ{{eat}}:ta}}berareru.}}
   </td> </tr>
   <tr class="en"> <td>
-      This robot has a variety of features including care giving support.
+      The restaurant serves a variety of Japanese dishes, including sushi.
   </td> </tr>
 </table>
 </p>
