@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Adverbs of Time</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="Adverbs of Time" grammar="Adverbs of Time"}}
+
+<body>
+
+<h1>Adverbs of Time</h1>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+<a name="sakki">@HI{{@EM{{sakki}}}}</a> is an adverb that is used to refer to something that happened a short time ago, typically within the past few minutes.
+
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{sakki,@FG{{@KJ{{electricity^tale}}:denwa}}gakakattekita.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      I got a phone call just now.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

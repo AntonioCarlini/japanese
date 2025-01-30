@@ -3,6 +3,7 @@ JHTML_SRCS += grammar-adj-mi.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-adverb-naru.jhtml
 JHTML_SRCS += grammar-adverbs-of-degree.jhtml
+JHTML_SRCS += grammar-adverbs-of-time.jhtml
 JHTML_SRCS += grammar-adverbs.jhtml
 JHTML_SRCS += grammar-ageku.jhtml
 JHTML_SRCS += grammar-ageru-agaru-suffix.jhtml
