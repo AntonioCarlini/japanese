@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Adverbs of Frequency</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="Adverbs of Frequency" grammar="Adverbs of Frequency"}}
+
+<body>
+
+<h1>Adverbs of Frequency</h1>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+
+<a name="taitei">@HI{{@EM{{tatei}}}}</a> is an adverb in Japanese that generally means "usually," "mostly," or "for the most part." It is used to describe a situation or characteristic that is true in the majority of cases, but not necessarily always.
+
+<br/>
+
+@HI{{@EM{{tatei}}}} is used when you want to convey that something happens or is true in the majority of cases, but there’s an implication that it’s not always the case. It can also suggest that something is generally the norm.
+  
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{add^harm^someone}}:kagaisha}}hataitei@FG{{@KJ{{mask^overthrow^see}}:mendoumi}}gaiinadoto@FG{{@KJ{{circumference^surround}}:shuui}}kara@FG{{@KJ{{see}}:mi}}rareteite,yokeini@FG{{@KJ{{say}}:i}}@HI{{idurakunaru.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The perpetrator is often seen by those around them as being caring and attentive, which makes it even harder to speak up.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>
