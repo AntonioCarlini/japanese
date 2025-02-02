@@ -18,11 +18,31 @@
 @BGRND{{}}
 <p>
 
-<a name="taitei">@HI{{@EM{{tatei}}}}</a> is an adverb in Japanese that generally means "usually," "mostly," or "for the most part." It is used to describe a situation or characteristic that is true in the majority of cases, but not necessarily always.
+<a name="shibashiba">@HI{{@EM{{shibashiba}}}}</a> is an adverb in Japanese that means "often" or "frequently."
+It is used to describe actions or events that happen repeatedly or regularly.
+It has a slightly more formal or literary nuance compared to more common words like @HI{{yoku}}, which also means "often."
+  
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{true^reality}}:shinjitsu}}hashibashiba@FG{{@KJ{{suffering^pain}}:kutsuu}}wo@FG{{@KJ{{consort}}:tomona}}imasu.@FG{{@KJ{{oneself^part^oneself^somebody}}:jibunjishin}},aruiha@FG{{@KJ{{oneself^country}}:jikoku}}nitsuite,
+      @FG{{@KJ{{know}}:shi}}@HI{{ritakunaikotomotakusan'arimasu.}}}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The truth is often painful. There are many things we don’t want to know about ourselves or our country.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+
+<a name="taitei">@HI{{@EM{{taitei}}}}</a> is an adverb in Japanese that generally means "usually," "mostly," or "for the most part." It is used to describe a situation or characteristic that is true in the majority of cases, but not necessarily always.
 
 <br/>
 
-@HI{{@EM{{tatei}}}} is used when you want to convey that something happens or is true in the majority of cases, but there’s an implication that it’s not always the case. It can also suggest that something is generally the norm.
+@HI{{@EM{{taitei}}}} is used when you want to convey that something happens or is true in the majority of cases, but there’s an implication that it’s not always the case. It can also suggest that something is generally the norm.
   
 <table class="sentence">
   @VERPEND{{}}
