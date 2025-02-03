@@ -18,6 +18,24 @@
 @BGRND{{}}
 <p>
 
+<a name="yoku">@HI{{@EM{{yoku}}}}</a> is an adverb that means "often" or "frequently."
+It is used to describe actions or events that happen repeatedly or regularly.
+  
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{day^book}}:nihon}}dehakextsukou,@FG{{@KJ{{drink}}:no}}mi@FG{{@KJ{{meeting}}:kai}}tokagayokuarimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      In Japan, drinking parties and such are quite common.
+  </td> </tr>
+</table>
+</p>
+
+
+@BGRND{{}}
+<p>
+
 <a name="shibashiba">@HI{{@EM{{shibashiba}}}}</a> is an adverb that means "often" or "frequently."
 It is used to describe actions or events that happen repeatedly or regularly.
 It has a slightly more formal or literary nuance compared to more common words like @HI{{yoku}}, which also means "often."
