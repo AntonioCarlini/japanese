@@ -28,6 +28,16 @@
       I got a phone call just now.
   </td> </tr>
 </table>
+
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{saxtsukino@FG{{@KJ{{snow}}:yuki}}dekesa@FG{{@KJ{{rouse}}kita:okita}}tokiyorimo@FG{{@KJ{{volume^snow}}:sekisetsu}}ga@FG{{@KJ{{increase}}:fu}}eteimasu.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      The snowfall from earlier has resulted in more snow accumulation than when I woke up this morning."
+  </td> </tr>
+</table>
 </p>
 
 @BGRND{{}}
@@ -41,6 +51,22 @@
   </td> </tr>
   <tr class="en"> <td>
       If the baby keeps crying continuously, someone will definitely notice.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+<a name="">@HI{{@EM{{shunkanteki}}}}</a> is an adverb that refers to something that is brief or instantaneous, occurring within a moment or a very short period of time.
+It often conveys the sense of something that lasts only for an instant or is experienced in the blink of an eye.
+
+<table class="sentence">
+  @VERPEND{{}}
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{wink^interval^bull's*eye}}:shunkanteki}}ni@FG{{@KJ{{large^rain}}:ooame}}ga@FG{{@KJ{{descend}}::fu}}xtsuta@FG{{@KJ{{occasion}}:sai}}no@FG{{@KJ{{repudiate^water^ability^power}}:haisuinouryoku}}ga@FG{{@KJ{{leg}}:ta}}riteinainodehanaika.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      Is the drainage capacity insufficient when there is a sudden, intense downpour?
   </td> </tr>
 </table>
 </p>
