@@ -21,7 +21,29 @@ def parse_csv(file_name):
     missing_kanji_map = defaultdict(set)
     keyword_count = defaultdict(int)
     frame_to_kanji = {}  # Maps frame numbers to kanji
+    kanji_to_frame = {}  # Maps kanji to frame numbers
 
+    # First pass: Build the frame_to_kanji and kanji_to_frame maps
+    with open(file_name, mode='r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        header_skipped = False
+
+        for row in reader:
+            # Skip header if the first field is not an integer
+            if not header_skipped and not row[0].isdigit():
+                header_skipped = True
+                continue
+
+            try:
+                frame_number = int(row[0])
+            except ValueError:
+                continue  # Skip invalid frame numbers
+
+            kanji = row[1]
+            frame_to_kanji[frame_number] = kanji
+            kanji_to_frame[kanji] = frame_number
+
+    # Second pass: Process entries and resolve references
     with open(file_name, mode='r', encoding='utf-8') as file:
         reader = csv.reader(file)
         header_skipped = False
@@ -62,9 +84,6 @@ def parse_csv(file_name):
             entry = Entry(frame_number, kanji, heisig_keyword, story)
             entries.append(entry)
 
-            # Map frame number to kanji
-            frame_to_kanji[frame_number] = kanji
-
             # Parse story for referenced kanji or frame numbers
             referenced_kanji_or_frames = set()
             start = story.find('{')
@@ -79,7 +98,7 @@ def parse_csv(file_name):
             # Process referenced kanji or frame numbers
             for ref in referenced_kanji_or_frames:
                 if ref.isdigit():
-                    # Handle frame number references (e.g., {16})
+                    # Handle frame number references (e.g., {908})
                     ref_frame = int(ref)
                     if ref_frame in frame_to_kanji:
                         ref_kanji = frame_to_kanji[ref_frame]
@@ -95,13 +114,13 @@ def parse_csv(file_name):
                 else:
                     # Handle kanji references (e.g., {古})
                     ref_kanji = ref
-                    ref_frame = next((e.frame_number for e in entries if e.kanji == ref_kanji), None)
+                    ref_frame = kanji_to_frame.get(ref_kanji)
 
                 if ref_frame is not None:
                     if ref_frame <= KANJI_MAX_FRAME_NUMBER:
                         frame_number_map[ref_frame].append(frame_number)
                 else:
-                    if REPORT_NON_HEISIG_KANJI or (ref_kanji in frame_to_kanji.values() and frame_to_kanji[ref_frame] <= KANJI_MAX_FRAME_NUMBER):
+                    if REPORT_NON_HEISIG_KANJI:
                         missing_kanji_map[ref_kanji].add(frame_number)
 
     return entries, heisig_keyword_map, frame_number_map, missing_kanji_map
