@@ -19,7 +19,7 @@
 <h2> Formation </h2>
 
 <ol>
-<li> @FORMATION{{@HI{{@EM{{toii}}}}~@HI{{@EM{{toii}}}}}}
+<li> @FORMATION{{@N{{}}@HI{{@EM{{toii}}}}~@N{{}}@HI{{@EM{{toii}}}}}}
 </ol>
 
 <h2> Definition </h2>
@@ -34,7 +34,7 @@ Its use often implies that there are other similar examples too.
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{inside^contain}}:naiyou}}@EM{{toii}}@FG{{@KJ{{say}}:hana}}shi@FG{{@KJ{{direction}}:kata}}@EM{{toii}},@FG{{@KJ{{see^matter}}:migoto}}na@KT{{supi-chi}}deshita.}}
+      @HI{{@FG{{@KJ{{inside^contain}}:naiyou}}@EM{{toii}}@FG{{@KJ{{tale}}:hana}}shi@FG{{@KJ{{direction}}:kata}}@EM{{toii}},@FG{{@KJ{{see^matter}}:migoto}}na@KT{{supi-chi}}deshita.}}
   </td> </tr>
   <tr class="en"> <td>
       It was a splendid speech in terms of both content and delivery.
