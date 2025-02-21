@@ -305,6 +305,7 @@ $command_to_op = {
   "OPTTEXT" => :process_optional_text,
   "FORMATION" => :process_formation,
   "HIMITSU" => :process_empty_code,
+  "VERPEND" => :process_empty_code,
 }
 
 def process_at_commands(text, data_dir, filename)
@@ -702,6 +703,7 @@ def process_empty_code_helper(code)
         when "PRT"         then "<em>particle</em>"                                             # 
         when "RELC"        then "<em>relative-clause</em>"                                      #
         when "HIMITSU"     then "<!-- DO_NOT_RELEASE -->"                                       # marker indicating source not to be released
+        when "VERPEND"     then "<!-- UNVERIFIED -->"                                           # marker indicating something that has not been verified by a native speaker or book
         else
           debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"

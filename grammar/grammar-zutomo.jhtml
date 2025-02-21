@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>@HI{{zutomo}}</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="@HI{{zutomo}}" grammar="@HI{{zutomo}}"}}
+
+<body>
+
+<h1>@HI{{zutomo}}</h1>
+
+<h2> Formation </h2>
+
+<ol>
+<li> @FORMATION{{@Vnaistem{{}} @HI{{@EM{{zutomo}}}}}}
+<li> @FORMATION{{@N{{}} @HI{{nara@EM{{zutomo}}}}}}
+</ol>
+
+<h2> Definition </h2>
+
+<p>
+@HI{{@EM{{zutomo}}}} indicates a negative concession, "even if ~ not". The meaning is the same as @HI{{nakutemo}}, but @HI{{@EM{{zutomo}}}} is usually used in written language.
+</p>
+
+@BGRNDSTART{{}}
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{zutomo}}}} follows a verb.
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{kon'na@FG{{@KJ{{simplicity^simple}}:kantan}}na@FG{{@KJ{{question^topic}}:mondai}}nara@FG{{@KJ{{teach^department^write}}:kyoukasho}}wo@FG{{@KJ{{see}}:mi}}@EM{{zutomo}}dekiru.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      If the problem is this simple, I can solve it even without looking at the textbook.
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{zutomo}}}} may also follow the classic copula @HI{{nari}}, "be".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@KT{{[sunu-pi-]fuxan'}}nara@EM{{zutomo}}@KT{{gextsuto}}@HI{{shitai}}}}!
+  </td> </tr>
+  <tr class="en"> <td>
+      [Snoopy] Even if you're not a fan, you'll want to get these! 
+  </td> </tr>
+</table>
+</p>
+
+@BGRND{{}}
+<p>
+@HI{{@EM{{zutomo}}yoi}} means "do not need to".
+
+<table class="sentence" border=0>
+  <tr class="jp"> <td>
+      @HI{{@FG{{@KJ{{nothingness^logic}}:muri}}ni@FG{{@KJ{{traffic^diligence}}:tsuukin}}se@EM{{zutomoyoi}}.}}
+  </td> </tr>
+  <tr class="en"> <td>
+      It's okay not to commute if it's too difficult.
+  </td> </tr>
+</table>
+</p>
+
+@BGRNDEND{{}}
+
+<h2> Notes </h2>
+
+<h2> References </h2>
+
+<ol>
+<li> @REF{{DOAJG}}. (p. 755).
+</ol>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+
+</html>

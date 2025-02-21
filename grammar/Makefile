@@ -3,6 +3,8 @@ JHTML_SRCS += grammar-adj-mi.jhtml
 JHTML_SRCS += grammar-adj-sa.jhtml
 JHTML_SRCS += grammar-adverb-naru.jhtml
 JHTML_SRCS += grammar-adverbs-of-degree.jhtml
+JHTML_SRCS += grammar-adverbs-of-frequency.jhtml
+JHTML_SRCS += grammar-adverbs-of-time.jhtml
 JHTML_SRCS += grammar-adverbs.jhtml
 JHTML_SRCS += grammar-ageku.jhtml
 JHTML_SRCS += grammar-ageru-agaru-suffix.jhtml
@@ -815,6 +817,7 @@ JHTML_SRCS += grammar-zaru.jhtml
 JHTML_SRCS += grammar-zehi.jhtml
 JHTML_SRCS += grammar-zu-ni-wa-okanai.jhtml
 JHTML_SRCS += grammar-zu-ni-wa-sumanai.jhtml
+JHTML_SRCS += grammar-zutomo.jhtml
 JHTML_SRCS += grammar-zutsu.jhtml
 JHTML_SRCS += grammar.jhtml
 
