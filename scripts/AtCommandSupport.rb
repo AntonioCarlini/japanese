@@ -6,6 +6,7 @@ require 'DebugSupport.rb'
 require 'HiraganaSupport.rb'
 require 'KanjiSupport.rb'
 require 'KatakanaSupport.rb'
+require 'ProcessingError.rb'
 require 'RadicalSupport.rb'
 require 'RefsSupport.rb'
 
@@ -310,6 +311,8 @@ $command_to_op = {
 
 def process_at_commands(text, data_dir, filename)
 
+  processing_errors = []  # Collect errors instead of exiting immediately
+  
   # REF is special and must be processed before anything else.
   # Recursive REFs make no sense so do not cater for them.
   begin
@@ -369,6 +372,9 @@ def process_at_commands(text, data_dir, filename)
         rescue NoMethodError => e
           # This is probably a missing require or similar
           raise e
+        rescue ProcessingError => e
+            $stderr.puts("Non-fatal error: #{e.message}")
+            processing_errors << e  # Store the error so we can decide what to do later
         rescue => e
           $stderr.puts(e)
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
@@ -412,6 +418,11 @@ def process_at_commands(text, data_dir, filename)
   unless stack.empty?()
     dump_stack(stack)
     raise("Non-empty stack")
+  end
+
+  unless processing_errors.empty?
+    raise "\nEncountered #{processing_errors.size} errors during processing."
+    exit 1
   end
 
   return answer

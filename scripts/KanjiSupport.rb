@@ -4,6 +4,7 @@
 $LOAD_PATH << File.dirname(__FILE__)
 
 require 'FastKanji.rb'
+require 'ProcessingError.rb'
 require 'UnicodeSupport.rb'
 
 $kanji_data = nil
@@ -47,8 +48,8 @@ def convert_to_kanji(text)
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
-      $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
-      exit(1)
+      # $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
+      raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
     else
       result += jp_unicode(code)
     end
