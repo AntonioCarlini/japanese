@@ -273,7 +273,7 @@
   273 :  0x91e3 : tsu.ri tsu.ri- :  CHYOU :  tsu.ru tsu.ri tsu.ri- :  tsuri :  {angling} {fish} {catch} {allure} {ensnare} :  8 :  1
   274 :  0x91dd :  :  SHIN :  hari :  ha :  {needle} {pin} {staple} {stinger} :  6 :  2
   275 :  0x9298 :  :  MEI :   :  taka mi me :  {inscription} {signature (of artisan)} :  8 :  1
-  276 :  0x93ae : osae :  CHIN :  shizu.meru shizu.maru osae :  shige jin chika shin : {tranquillize}  {tranquilize} {ancient peace-preservation centers} :  8 :  1
+  276 :  0x93ae : osae :  CHIN :  shizu.meru shizu.maru osae :  shige jin chika shin : {tranquilize}  {tranquillize} {ancient peace-preservation centers} :  8 :  1
   277 :  0x9053 :  :  DOU TOU :  michi :  sa ji do mitsu :  {road-way} {street} {district} {journey} {course} {moral} {teachings} :  2 :  4
   278 :  0x5c0e :  :  DOU :  michibi.ku :  michi :  {guidance} {leading} {conduct} {usher} :  5 :  2
   279 :  0x8fbb : tsuji :   :  tsuji :   :  {crossing} {crossroad} {street corners} {(kokuji)} :  9 :  
@@ -2041,7 +2041,7 @@
  2041 :  0x536f :  :  BOU MOU :  u :  akira shigeru i :  {sign of the hare} {sign of the hare or rabbit} {5-7AM} {fourth sign of Chinese zodiac} {east} :  9 :  1
  2042 :  0x5df3 :  :  SHI :  mi :   : {sign of the snake} {sign of the snake or serpent} {9-11AM} {sixth sign of Chinese zodiac} :  9 :  1
  2043 :  0x6b64 :  :  SHI :  kore kono koko :   :  {this} {current} {next} {coming} {last} {past} :  9 :  
- 2044 :  0x67f4 :  :  SAI SHI :  shiba :   :  {brush} {firewood} :  9 :  
+ 2044 :  0x67f4 :  :  SAI SHI :  shiba :   :  {brushwood} {brush} {firewood} :  9 :  
  2045 :  0x7826 :  :  SAI :  toride :   :  {fort} {stronghold} {entrenchments} :  9 :  
  2046 :  0x4e9b : isasaka :  SA SHYA :  chi.to chi.to isasaka :   :  {a little bit} {sometimes} :  9 :  
  2047 :  0x9aed : kuchihige :  SHI :  hige kuchihige :   :  {beard} {mustache} :   :  
@@ -2051,7 +2051,7 @@
  2051 :  0x6190 :  :  REN :  awa.remu awa.re :   : {sympathize with} {pity} {have mercy} {sympathise} {compassion} :  9 :  
  2052 :  0x71d0 :  :  RIN :   :   :  {phosphorus} :   :  
  2053 :  0x9e9f :  :  RIN :   :   :  {Chinese unicorn} {genius} {giraffe} {bright} {shining} :  9 :  1
- 2054 :  0x9c57 : uroko :  RIN :  uroko koke kokera :   :  {scales (fish)} :  9 :  
+ 2054 :  0x9c57 : uroko :  RIN :  uroko koke kokera :   :  {scaled} {scales (fish)} :  9 :  
  2055 :  0x5944 : tachimachi :  EN :  oo.u tachimachi :  ama :  {cover} {suffocate} {obstruct} :  9 :  
  2056 :  0x5eb5 : io iori :  AN :  iori io :  a i ihori :  {hermitage} {retreat} :  9 :  
  2057 :  0x63a9 :  :  EN :  oo.u :   :  {shrouded} {cover} {conceal} :   :  
@@ -2146,7 +2146,7 @@
  2146 :  0x5243 :  :  TEI :  mai so.ru su.ru :   :  {shave} :   :  
  2147 :  0x5302 : nio.waseru :   :  nio.u nio.i nio.waseru :  ori kou sagi :  {aroma} {fragrant} {stink} {glow} {insinuate} {(kokuji)} :  8 :  
  2148 :  0x52fe :  :  KOU KU :  kagi ma.garu :  magari :  {hooked} {be bent} {slope} {capture} :  8 :  
- 2149 :  0x53ad : ito.u :  EN ON AN OU YUU YOU :  iya a.kiru ito.u osa.eru :   :  {get tired of} {satiate} {bore} {dislike} {disagreeable} {unwelcome} :   :  
+ 2149 :  0x53ad : ito.u :  EN ON AN OU YUU YOU :  iya a.kiru ito.u osa.eru :   :  {despondent} {get tired of} {satiate} {bore} {dislike} {disagreeable} {unwelcome} :   :  
  2150 :  0x96c1 : karigane :  GAN :  kari karigane :   :  {wild goose} :  9 :  
  2151 :  0x8d0b :  :  GAN :  nise :   :  {counterfeit} {forgery} :   :  
  2152 :  0x53a8 :  :  SHYUU ZU CHYU CHYUU :  kuriya :   :  {kitchen} :  9 :  
@@ -2155,10 +2155,10 @@
  2155 :  0x5632 : azake.ru :  CHYOU TOU :  azake.ru :   :  {ridicule} {insult} :  8 :  
  2156 :  0x548e :  :  KYUU KOU :  toga.meru toga :   :  {blame} {censure} {reprimand} :   :  
  2157 :  0x56c1 : sasaya.ku :  SHYOU :  sasaya.ku :   :  {whisper} {murmur} :   :  
- 2158 :  0x558b : shyabe.ru :  CHYOU TOU :  shyabe.ru tsuiba.mu :   :  {talk} {chat} {chatter} :  9 :  
+ 2158 :  0x558b : shyabe.ru :  CHYOU TOU :  shyabe.ru tsuiba.mu :   :  {chatter} {chat} {talk} :  9 :  
  2159 :  0x54bd : muse.bu muse.ru :  IN EN ETSU :  muse.bu muse.ru nodo no.mu :   :  {choked} {smothered} {stuffy} :  8 :  
- 2160 :  0x5629 :  :  KA KE :  kamabisu.shii :   :  {noisy} :  9 :  
- 2161 :  0x5642 : uwasa :  SON :  uwasa :   :  {rumor} {gossip} {hearsay} :  9 :  
+ 2160 :  0x5629 :  :  KA KE :  kamabisu.shii :   :  {quarrel} {noisy} :  9 :  
+ 2161 :  0x5642 : uwasa :  SON :  uwasa :   :  {gossip} {rumor} {hearsay} :  9 :  
  2162 :  0x54b3 : shiwabu.ku shiwabuki :  KAI GAI :  se.ku shiwabu.ku seki shiwabuki :   :  {cough} {clear throat} :   :  
  2163 :  0x55a7 : yakama.shii :  KEN :  yakama.shii kamabisu.shii :   :  {noisy} {boisterous} :  9 :  
  2164 :  0x5589 :  :  KOU :  nodo :   :  {throat} {voice} :  8 :  
@@ -2964,7 +2964,7 @@
  2964 :  0x6a9c :  :  KAI :  hinoki hi :   :  {Japanese cypress} :  9 :  
  2965 :  0x8f61 : kutsuwa taduna :  HI :  kutsuwa taduna :   : {tinkling bell} {bit (horse)} :   :  
  2966 :  0x6df5 :  :  EN KAKU KOU :  fuchi kata.i hanawa :   :  {abyss} {edge} {deep pool} {the depths} :  9 :  
- 2967 :  0x4f0d : itsutsu :  GO :  itsutsu :  kumi atsumu :  {5} {5-man squad} {file} {line} :  9 :  1
+ 2967 :  0x4f0d : itsutsu :  GO :  itsutsu :  kumi atsumu :  {V} {5-man squad} {file} {line} :  9 :  1
  2968 :  0x4ec0 :  :  JUU SHYUU :   :   :  {utensil} {thing} {ten} :   :  
  2969 :  0x842c :  :  MAN BAN :  yorozu :  kazu ma yuru yoshi :  {ten thousand} {10,000} :  10 :  
  2970 :  0x9081 :  :  MAI BAI :  yu.ku :  susu.mu :  {go} {excel} :   :  
