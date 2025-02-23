@@ -16,9 +16,10 @@ import sys
 from collections import defaultdict
 
 # Constants
-KANJI_MAX_FRAME_NUMBER = 2100
+KANJI_MAX_FRAME_NUMBER = 3000
 REPORT_NON_HEISIG_KANJI = False  # Set to True to report non-Heisig kanji
 DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
+
 
 class Entry:
     def __init__(self, frame_number, kanji, heisig_keyword, story):
@@ -138,16 +139,11 @@ def parse_csv(file_name):
 
     return entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame
 
-# Constants
-KANJI_MAX_FRAME_NUMBER = 2160  # Set this to the desired limit (e.g., 2160)
-REPORT_NON_HEISIG_KANJI = False  # Set to True to report non-Heisig kanji
-DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
-
-def format_story(story, current_keyword):
+def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
     """
     Formats the story by applying the following rules:
     - #text# becomes <b>text</b> (bold).
-    - (*{kanji}*) becomes (@KJ{{keyword}}) (bold, hyperlinked, and wrapped in parentheses).
+    - (*{kanji}*) becomes (@KJ{{keyword}}) (italic, hyperlinked, and wrapped in parentheses).
     - The current keyword in the story (not already bold) is made bold (case-insensitive match, retain original case).
     """
     import re
@@ -155,32 +151,33 @@ def format_story(story, current_keyword):
     # Replace #text# with <b>text</b>
     story = re.sub(r"#([^#]+)#", r"<b>\1</b>", story)
 
-    # Temporarily replace @KJ{{...}} with unique placeholders
-    placeholder_map = {}
-    placeholder_counter = 0
+    # Replace (*{kanji}*) with (@KJ{{keyword}}) or (<i>kanji</i>)
+    def replace_kanji(match):
+        kanji = match.group(1)
+        frame_number = kanji_to_frame.get(kanji)
+        if frame_number is not None and frame_number in heisig_keyword_map and frame_number <= KANJI_MAX_FRAME_NUMBER:
+            keyword = heisig_keyword_map[frame_number].heisig_keyword
+            # Replace spaces with asterisks in the keyword
+            formatted_keyword = keyword.replace(" ", "*")
+            return f"(<i><a href='#{frame_number}'>@KJ{{{{{formatted_keyword}}}}}</a></i>)"
+        else:
+            return f"(<i>{kanji}</i>)"
 
-    def replace_kj_with_placeholder(match):
-        nonlocal placeholder_counter
-        placeholder = f"^^^{placeholder_counter}^^^"
-        placeholder_map[placeholder] = match.group(0)
-        placeholder_counter += 1
-        return placeholder
-
-    story = re.sub(r"@KJ\{\{[^{}]+\}\}", replace_kj_with_placeholder, story)
+    # Handle (*{kanji}*)
+    story = re.sub(r"\(\*\{([^{}]+)\}\*\)", replace_kanji, story)
 
     # Make the current keyword bold (if not already bold)
     if current_keyword:
         # Case-insensitive match, but retain original case in the story
         story = re.sub(
-            rf"(?<!<b>)(?<!@KJ{{{{){re.escape(current_keyword)}(?!}}}})(?!</b>)",
+            rf"\b{re.escape(current_keyword)}\b",
             lambda match: f"<b>{match.group(0)}</b>",
             story,
             flags=re.IGNORECASE,
         )
 
-    # Restore @KJ{{...}} sections
-    for placeholder, original in placeholder_map.items():
-        story = story.replace(placeholder, original)
+    # Replace *text* with <i>text</i>
+    story = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", story)
 
     return story
 
@@ -238,7 +235,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
             # Replace spaces with asterisks in the keyword
             formatted_keyword = keyword.replace(" ", "*")
             kanji = f"@KJ{{{{{formatted_keyword}}}}}"
-            story = format_story(entry.story, keyword)  # Pass only the current keyword
+            story = format_story(entry.story, entry.heisig_keyword, heisig_keyword_map, kanji_to_frame)
 
             # Column 5: Referenced Kanji/Parts (used to build this kanji)
             referenced_parts = set()
