@@ -27,7 +27,7 @@ framenr,kanji,keyword,public,last_edited,story
 26,早,"early",0,2020-10-10 17:21:32,"EARLY,  is when you have to start your *day* (*{日}*) before *10* (*{十}*) ..."
 27,旭,"rising sun",0,2012-07-27 17:00:29,"9am carries with it the rising *sun*."
 28,世,"generation",0,2020-10-21 02:12:07,"20 (*{廿}*) plus 10 (*{十}*) plus 1 (*{一}*), 31, is a generation."
-29,胃,"stomach",0,2020-10-21 02:13:00,"The *rice field* (*{田}*) is harvested once a *month* (*{月}*) to get food for our #stomach#"
+29,胃,"stomach",0,2025-02-24 10:19:04,"The *rice field* (*{田}*) is harvested once a *month* (*{月}*) to get food for our #stomach#"
 30,旦,"nightbreak",0,2020-10-21 02:13:21,"The sun is rising from the floor at nightbreak."
 31,胆,"gall bladder",0,2020-10-21 02:13:36,"The *moon* (*{月}*) has a lot of gall sticking around after *nightbreak* (*{旦}*)."
 32,亘,"span",0,2024-02-20 15:49:11,"The *sun* (*{日}*) spans from horizon to horizon in a day."
@@ -52,7 +52,7 @@ framenr,kanji,keyword,public,last_edited,story
 51,卓,"eminent",0,2022-08-29 16:03:26,"The most #eminent# magician is he who learned to use his *magic wand* (*{卜}*) *early* (*{早}*) in life."
 52,朝,"morning",0,2024-02-21 07:20:03,"In the morning, god picks the *sun* up to the sky with two *needles* (because it's too hot to touch by hands) to replace the *moon*."
 53,只,"only",0,2025-02-15 16:24:22,"Imagine an animal with only a *mouth* and *leg*s."
-54,貝,"shellfish",0,2025-02-15 16:24:30,"una conchiglia è un occhio con le gambe"
+54,貝,"shellfish",0,2025-02-24 10:09:25,"una conchiglia è un *occhio* (*{目}*)  con le gambe."
 55,貞,"upright",0,2012-06-02 08:07:15,"A *magic wand* is needed to make a *shellfish* stand upright."
 56,員,"employee",0,2013-03-23 07:40:16,"An employee (#member# of the company) has to clam up his mouth if he wants keep the job!"
 57,見,"see",0,2024-02-21 07:20:55,"Eyes and legs are all you need to see the world."
@@ -65,7 +65,7 @@ framenr,kanji,keyword,public,last_edited,story
 64,万,"ten thousand",0,2025-02-15 16:24:56,"Ten thousand has 5 digits, which looks like the kanji for it."
 65,句,"phrase",0,2024-02-22 13:58:45,"A *bound up* (*{勹}*) *mouth* (*{口}*) cannot utter a single phrase."
 66,肌,"texture",0,2020-10-21 07:11:39,"The *moon*'s (*{月}*) lack of *wind* (*{几}*) preserves its texture."
-67,旬,"decameron",0,2024-02-22 14:00:16,"Hesig should be *bound* (*{勹}*) for 10 *days* (*{日}*) for calling this Kanji DECAMERON. See {殉}"
+67,旬,"decameron",0,2025-02-24 10:17:26,"Hesig should be *bound yp* (*{勹}*) for 10 *days* (*{日}*) for calling this Kanji DECAMERON. See {殉}"
 68,勺,"ladle",0,2024-02-22 14:01:21,"A ladle can *bind up* (*{勹}*) a drop of (丶)  soup"
 69,的,"bull's eye",0,2024-02-22 14:04:44,"I managed to hit the bull's eye by throwing my *white* (*{白}*) *ladle* (*{勺}*)."
 70,首,"neck",0,2012-05-05 15:48:53,"metti due segni proprio  dove hai il collo (#neck#)"
@@ -2257,6 +2257,7 @@ MEANING: write *bird*, but skip writing *one* in *white*."
 2195,妬,"jealous",0,2022-08-23 03:39:09,"*Women* (*{女}*) are jealous of the *stone* (*{石}*) on my wife's ring"
 2213,牢,"jail",0,2015-01-25 16:19:49,"For a *cow* used to free-grazing, being stuck in a *house* is equivalent to being in jail."
 2214,塞,"block up",0,2016-09-30 14:26:49,"The air conditioning  won't make the house *cold* (*{寒}*)  if you block up the filters with *soil* (*{土}*)."
+2217,屠,"butchering",0,2025-02-24 09:47:09,"*Flag someone* down before the murderer starts butchering you."
 2220,尻,"buttocks",0,2022-09-16 04:53:24,"Every time I visit a new country I tattoo a *flag* (*{尸}*) on my buttocks. I have *nine* (*{九}*) so far."
 2224,嵩,"high-reaching",0,2017-02-25 17:30:26,"A *mountain* (*{山}*) that's *tall* (*{高}*) is also high-reaching"
 2227,崖,"bluffs",0,2015-01-24 18:05:49,"This clearly depicts a *mountain* and its #bluffs#, *cliff*s clad in *ivy*."
@@ -2310,8 +2311,10 @@ MEANING: write *bird*, but skip writing *one* in *white*."
 2418,遥,"far off",0,2015-01-27 17:52:45,"the *condor* has really good eyesight and can see prey scurrying down the *road* from far off"
 2422,遜,"modest",0,2020-10-30 11:26:07,"He wasn't at all modest when telling us about his *grandchildren* (*{孫}*) - ""They're all on the *road* (⻌) to success"" he said."
 2426,隙,"chink",0,2014-12-08 05:29:23,"They won't let me in *The Pinnacle*, but I can see a *little* bit of *sun* through this *little* #chink# in the wall. Hmm, maybe I could make this #chink# bigger..."
+2438,晟,"aglow",0,2025-02-24 09:42:22,"When the *sun* (*{日}*) comes up and sets the sky aglow, night *turns into* day."
 2439,暈,"halo",0,2020-12-04 16:31:42,"*sun* (*{日}*) *army* (*{軍}*)"
 2444,晒,"bleaching",0,2017-09-30 13:47:18,"The *sun* was the only method for bleaching hair in the old *West* (*{西})."
+2446,晃,"limpid",0,2025-02-24 09:44:25,"The *sun's* (*{日}*)  *rays* (*{光}*) passed through to the very bottom of the limpid pond."
 2454,股,"thigh",0,2015-01-25 16:39:30,"The #thigh# is the *part of the body* where Robocop stores his *missiles*."
 2460,臆,"cowardice",0,2017-11-22 13:26:09,"Cowardice is the situation where you get the thought that maybe running away and saving your *flesh* is a good *idea* (*{意}*)."
 2462,脆,"fragile",0,2024-11-10 18:14:32,"If you are a fragile person, your *flesh* (*{月}*) will be hurt by lots of *dangerous* (*{危}*) things."
@@ -2432,8 +2435,18 @@ Note: {暇} 暇 - 日 = 叚 so I suppose *hobby* is a diminutive of *spare time*
 2967,伍,"V",0,2020-10-26 16:30:16,"*Mr T* knows that the Roman Numeral for *five* (*{五}*) is #V#."
 2971,逞,"tough",0,2015-10-31 04:05:16,"Tough guys like to *display* (*{呈}*) their force on the *road*."
 2992,祀,"enshrine",0,2021-04-05 19:10:24,"an *altar* (*{示}*) with the *sign of the snake* (*{巳}*) etched into it enshrines a serpent god"
-3001,亨,"go smoothly",0,2012-10-07 16:59:08,"It's a *tall* order, but we can *complete* it if things go smoothly."
+3001,亨,"go smoothly",0,2025-02-24 06:41:51,"It's a *tall* order, but we can *complete* (*{了}*) it if things go smoothly."
+3002,侑,"condone",0,2025-02-24 06:43:38,"*Mr T* (*{亻}*) doesn't condone *possession* (*{有}*) of drugs."
+3003,梧,"parasol tree",0,2025-02-24 09:11:12,"If a *tree* (*{木}*) *I* (*{吾}*) could be, I'd be a parasol tree to give others shade."
+3004,欽,"circumspect",0,2025-02-24 09:12:08,"The Golden Rule:  ""He who has the *gold* (*{金}*), makes the rules.""  Those who *lack* (*{脂}*) *gold* (*{金}*) must remain circumspect."
+3005,煕,"cheer",0,2025-02-24 09:13:50,"The *deformed retainer* cheers himself up by roasting a *sign of the snake* (*{巳}*) over a *fire* (*{灬}*)."
 3006,而,"and then",0,2023-01-16 07:02:49,"first it was a mask, and then it became a *comb*"
+3007,掟,"mandate",0,2025-02-24 09:15:15,"mandate: an official statement that something must happen.
+
+The official announces a #decree# waving a *finger* {扌} to show he is *determined* {定}."
+3008,嗅,"sniff",0,2025-02-24 09:17:53,"*mouth* (*{口}*) to *oneself* (*{自}*) about the *dog* (*{犬}*) #sniffing#."
+3009,喩,"metaphor",0,2025-02-24 09:18:47,"Metaphorically speaking, all the equipment in your *mouth* (*{口}*) is basically just a *meeting of butchers* (*{俞}*), designed to pulverise whatever meat you put in there."
+3010,訃,"obituary",0,2025-02-24 09:19:54,"The *words* (*{言}*) of the obituary were like a *magic wand* (*{卜}*): removing all blemishes."
 3012,諧,"orderliness",0,2020-11-30 09:27:09,"To have orderliness, your *words* (*{言}*) must be in *all* (*{皆}*) the right places."
 3020,緻,"fine",0,2022-01-25 02:40:11,"Fine *threads* (*{糸}*) *doth* (*{致}*) make fine clothes for the chief. (""chief"" implies the reading チ. Other reading: こまか・い.) 細緻 (さいち) minute."
 3024,慄,"shudder",0,2022-06-06 04:06:17,"You shudder in your *state of mind* (*{忄}*) as you imagine swallowing the chestnut *({栗}*) shell."
@@ -2445,9 +2458,10 @@ Note: {暇} 暇 - 日 = 叚 so I suppose *hobby* is a diminutive of *spare time*
 リンカーンは⇒林＋缶＋ワ　
 アメリカンコーヒーを⇒米＋コ＋ヒ
 ３杯飲んだ⇒ノ＋ノ＋ノ"
-20039,乇,"Unicode #20039",0,2020-10-28 03:38:08,"A combination of *{千}* and *{七}*."
+20039,乇,"lock of hair",0,2025-02-24 06:20:48,"A combination of *thousand* (*{千}*) and *seven* (*{七}*)."
+20058,乚,"hook",0,2025-02-24 10:15:29,"#hook# I'm calling this ""L"" (from Death Note) or ""Loser"", it looks like an L after all. Variant of Variant of 乙 (#71) radical 5."
 20128,亠,"top hat",0,2025-02-20 07:41:38,"TOP HAT primitive. NB: actually it's a pictograph of a kettle lid. But you will be able to make much better stories with a hat than with a lid."
-20130,亢,"whirlwind",0,2022-06-03 07:33:19,"Meaning: #high spirits#. Primitive name: WHIRLWIND . A WHIRLWIND is made by a magician from his *top hat* 亠, he holds it down and a ferocious *wind* 几 whirls out of it. [thx Alunalun in {坑}]"
+20130,亢,"whirlwind",0,2025-02-23 16:07:27,"Meaning: #high spirits#. Primitive name: WHIRLWIND . A WHIRLWIND is made by a magician from his *top hat*  (*{亠}*), he holds it down and a ferocious *wind* (*{几}*) whirls out of it."
 20134,亦,"apple",0,2024-10-04 16:30:59,"#again and again#: Plant an apple tree and you'll have *apples* #again and again#!"
 20156,亼,"meeting",0,2025-02-19 12:50:49,"MEET/MEETING primitive."
 20358,來,"come [old]",0,2021-04-09 04:23:03,"#The old kanji for 'come'# looks a lot like the new one (*{来}*), just a bit 'older' somehow. This probably because it was put together on using outdated technology: a *wooden assembly line* (*{木}*), to be exact."
@@ -2469,10 +2483,10 @@ Pictograph of a *bucket* or *shovel*."
 21314,卂,"flying rapidly",0,2025-02-19 12:45:06,"#Fly rapidly# away, before I prick you with a FISH HOOK ⺄ or a NEEDLE {十}."
 21321,卉,"haystack",0,2020-11-04 09:47:14,"It's just as difficult to find a *needle* (*{十}*} in a #haystack#, even if you use *two hands* (*{廾}*)."
 21466,叚,"hobby",0,2025-02-15 18:08:36,"*Hobby primitive* seen in {暇}, {蝦} and {霞}. Actual meaning is #provisional/fictitious#."
-21599,呟,"Unicode #21599",0,2017-10-05 18:27:37,"#to mutter#: When you #mutter# something, whatever comes out of your *mouth* (*{口}*) is *mysterious* (*{玄}*) to everyone nearby."
+21599,呟,"to mutter",0,2017-10-05 18:27:37,"#to mutter#: When you #mutter# something, whatever comes out of your *mouth* (*{口}*) is *mysterious* (*{玄}*) to everyone nearby."
 21692,咼,"jawbone",0,2020-12-26 17:45:59,"*bone* (*{冎}*) + *mouth* (*{口}*)."
 21951,喿,"furniture",0,2024-03-18 17:47:42,"Furniture is a sort of *good* (*{品}*) that is *wooden* (*{木}*)."
-22094,噎,"choke up",0,2024-11-28 15:45:57,"Open your MOUTH {口} properly, before eating the OLD I (one) {壹}, or you'll #choke#."
+22094,噎,"choke up",0,2025-02-24 09:34:42,"Open your *mouth* (*{口}*) properly, before eating the OLD I (one) (*{壹}*), or you'll #choke up#."
 22467,埃,"Unicode #22467",0,2015-01-21 15:19:41,"Walking along a dusty, *dirty* hallway in a pyramid in Egypt, you accidentally set off a booby trap with your *elbow*, sending poison *darts* flying in your direction.
 
 This is the kanji used for ほこり (dust)."
@@ -2499,7 +2513,7 @@ This is the kanji used for ほこり (dust)."
 26140,昜,"piggy bank",0,2021-04-26 05:00:09,"Heisig suggests that the lower half of this primitive means ""piglets"". ""piglets"" never appears outside of this particular combination. In other words, it's enough to remember this as a #piggy bank#. 
 
 Pictographic representation of a sun that rises and expands over the horizon like a balloon and casts shadows. *nightbreak* (*{旦}*), *not* (*{勿}*)."
-26224,晰,"Unicode #26224",0,2020-11-11 09:58:56,"#clear#: It was #clear# as *day* (*{日}*) that the *trees* (*{木}*) were being *chopped* down with an *axe* (*{斤}*).
+26224,晰,"clear",0,2020-11-11 09:58:56,"#clear#: It was #clear# as *day* (*{日}*) that the *trees* (*{木}*) were being *chopped* down with an *axe* (*{斤}*).
 
 明晰 (めいせき) - clear; distinct
 明晰夢 (めいせきむ) - lucid dream"
@@ -2512,10 +2526,13 @@ Pictographic representation of a sun that rises and expands over the horizon lik
 
 You decide to go salmon fishing, so you ride a *mountain goat* (*{朔}*) to the top of the road. Under the light of the moon (*{月}*), as it's illegal, you catch the salmon going upstream."
 28580,澤,"bog",0,2020-11-30 07:29:35,"Frodo is travelling through the #bog#. He looks down and casts his *eyes* (*{罒}*) down and sees various phantasms and ghosts promising him *happiness* (*{幸}*), trying to convince him to enter the *water* (*{氵}*}."
+28780,灬,"fire below",0,2025-02-24 09:14:21,"[ #fire below# (primitive) ] - variant of ""fire"" {火} radical 86 when used at bottom of kanji."
+29227,爫,"vulture (old)",0,2025-02-24 10:39:00,"[ #vulture# (primitive) ] - introduced at ""claw"" {爪}, appearing in text as ""爫""; however, it usually appears within a kanji as ""⺤""; note: perhaps font-dependent, it can look like ""#⺤#"" or ""⺥"" or ""爫""; note *birdhouse*, introduced in {受} as ⺤/{冖}"
 29228,爬,"reptile",0,2020-10-30 19:25:01,"#reptile#: Reptiles are much hunted; their *claws* (*{爪}*) are wanted for making valuable *mosaics* (*{巴}*)."
 29232,爰,"migrating ducks",0,2024-10-02 07:11:27,"Migrating ducks stick together like the best of friends, flying together as one (fifth stroke), they are not easy prey for the vultures.
 
 Parts: ⺤, 一, 友"
+29357,犭,"wild dog",0,2025-02-24 10:22:24,"A dog lying down with its arms,legs, and tail showing."
 29519,獏,"baku",0,2021-01-07 17:40:51,"Old hyougai kanji that refers to a #tarpir#, and also to the mythological #baku# (on which the Pokémon Drowzee is based, incidently).
 
 (*{犭}*) (*{莫}*}"
