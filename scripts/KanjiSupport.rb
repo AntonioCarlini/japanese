@@ -1,5 +1,5 @@
 #!/usr/bin/ruby -w
-#encoding: UTF-8
+#encoding: utf-8
 
 $LOAD_PATH << File.dirname(__FILE__)
 
@@ -41,15 +41,15 @@ def convert_to_kanji(text)
     :maruhi => 3299, # "secret"
   }
 
-  text.gsub!(%r{['()/a-zA-Z0-9.*-]+}).each() {
+  text.gsub!(%r{['’()/a-zA-Z0-9.\[\]*-]+}).each() {
     |word|
     result = ""
     code = kanji[word.downcase().to_sym()]
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
-      # $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
-      raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
+      $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
+      ### raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
     else
       result += jp_unicode(code)
     end
