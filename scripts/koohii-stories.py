@@ -22,10 +22,10 @@ DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
 
 class Entry:
     def __init__(self, frame_number, kanji, heisig_keyword, story):
-        self.frame_number = frame_number
-        self.kanji = kanji
-        self.heisig_keyword = heisig_keyword
-        self.story = story
+        self.frame_number = frame_number                    # Heisig frame number
+        self.kanji = kanji                                  # the kanji, as a unicode character
+        self.heisig_keyword = heisig_keyword                # Heisig keyword (on my login on koohii.com)
+        self.story = story                                  # My story associated with the kanji
 
 def parse_csv(file_name):
     entries = []
@@ -144,11 +144,24 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
     - #text# becomes <b>text</b> (bold).
     - (*{kanji}*) becomes (@KJ{{keyword}}) (italic, hyperlinked, and wrapped in parentheses).
     - The current keyword in the story (not already bold) is made bold (case-insensitive match, retain original case).
+
+     The *...* => <i> ...</i> formatting is problematic as '*' may appear in 
+       (1) kanji names (e.g. "olden*times")
+       (2) and also in (*{kanji}*).
+     So if the *...* swap is done before the kanji processing then it will modfiy the string in case (2), which will break kanji processing.
+     If instead the *...* swap is done before the kanji processing then it will modfiy the string in case (1), which will mangle the kanji name
+     and that will break subsequent processing (performed by another script).
+     So during kanji processing, any space in a kanji name that needs to become a '*', becomes a short-term string instead (which has no '*' in it).
+     Then, towards the end, the *...* substitution can be safely made.
+     After that the short-term string is swapped back to '*'.
+     the only requirement is that the short-term string does not appear in any story and that can be empirically checked with a simple grep.
     """
     import re
 
+    short_term_swap = "~|~"
+    
     # Replace #text# with <b>text</b>
-    story = re.sub(r"#([^#]+)#", r"<b>\1</b>", story)
+    story = re.sub(r"#([^#]+?)#", r"<b>\1</b>", story)
 
     # Replace (*{kanji}*) with (@KJ{{keyword}}) or (<i>kanji</i>)
     def replace_kanji(match):
@@ -157,7 +170,7 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
         if frame_number is not None and frame_number in heisig_keyword_map:
             keyword = heisig_keyword_map[frame_number].heisig_keyword
             # Replace spaces with asterisks in the keyword
-            formatted_keyword = keyword.replace(" ", "*")
+            formatted_keyword = keyword.replace(" ", short_term_swap)
             return f"(<i><a href='#{frame_number}'>@KJ{{{{{formatted_keyword}}}}}</a></i>)"
         else:
             return f"(<i>{kanji}</i>)"
@@ -176,7 +189,9 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
         )
 
     # Replace *text* with <i>text</i>
-    story = re.sub(r"\*([^*]+)\*", r"<i>\1</i>", story)
+    story = re.sub(r"\*([^*]+?)\*", r"<i>\1</i>", story)
+
+    story = story.replace(short_term_swap, "*")
 
     return story
 
