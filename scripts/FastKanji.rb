@@ -2879,12 +2879,17 @@ class KD
     "brush" => Kanji.new(32895, 32895, ["ICHI","ITSU"], ["fude","kokoni"], [""], ["brush"], 0, 0),
     "squeek" => Kanji.new(36555, 36555, ["ATSU"], ["kishi.ru","kishi.ku"], [""], ["squeek"], 0, 0),
     "ketchup" => Kanji.new(36767, 36767, ["HEKI","HI"], ["kimi","hira.ku","me.su"], [""], ["ketchup"], 0, 0),
+    "animal*tracks" => Kanji.new(37318, 37318, ["HAN","BAN","SAI"], ["to.ru","irodori","nogome"], [""], ["animal tracks"], 0, 0),
     "leap*year" => Kanji.new(38287, 38287, ["JYUN"], ["uruu"], [""], ["leap year"], 0, 0),
+    "screen" => Kanji.new(38348, 38348, ["RAN"], ["ta.keru","takenawa","tesuri"], [""], ["screen"], 0, 0),
     "the*pinnacle" => Kanji.new(38429, 38429, [""], ["kozato"], [""], ["The Pinnacle"], 0, 0),
     "turkey" => Kanji.new(38585, 38585, ["SAI","SUI"], ["tori"], [""], ["turkey"], 0, 0),
     "locket" => Kanji.new(38859, 38859, ["I"], ["somu.ku"], [""], ["locket"], 0, 0),
+    "gyoza" => Kanji.new(39171, 39171, ["GYOU","KYOU","KOU"], [""], [""], ["gyoza"], 0, 0),
     "mane" => Kanji.new(39647, 39647, ["HYUU","HYOU"], [""], [""], ["mane"], 0, 0),
+    "topknot" => Kanji.new(39671, 39671, ["KYOKU"], ["mage","wage"], [""], ["topknot"], 0, 0),
     "hamachi" => Kanji.new(39788, 39788, ["HAN"], ["karei"], [""], ["hamachi"], 0, 0),
+    "seagull*[old]" => Kanji.new(40407, 40407, ["OU"], ["kamome"], [""], ["seagull [old]"], 0, 0),
     }
   end
 end
