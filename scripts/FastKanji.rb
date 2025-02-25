@@ -2881,7 +2881,7 @@ class KD
     "ketchup" => Kanji.new(36767, 36767, ["HEKI","HI"], ["kimi","hira.ku","me.su"], [""], ["ketchup"], 0, 0),
     "leap*year" => Kanji.new(38287, 38287, ["JYUN"], ["uruu"], [""], ["leap year"], 0, 0),
     "the*pinnacle" => Kanji.new(38429, 38429, [""], ["kozato"], [""], ["The Pinnacle"], 0, 0),
-    "turkey" => Kanji.new(38585, 38537, ["SAI","SUI"], ["tori"], [""], ["turkey"], 0, 0),
+    "turkey" => Kanji.new(38585, 38585, ["SAI","SUI"], ["tori"], [""], ["turkey"], 0, 0),
     "locket" => Kanji.new(38859, 38859, ["I"], ["somu.ku"], [""], ["locket"], 0, 0),
     "mane" => Kanji.new(39647, 39647, ["HYUU","HYOU"], [""], [""], ["mane"], 0, 0),
     "hamachi" => Kanji.new(39788, 39788, ["HAN"], ["karei"], [""], ["hamachi"], 0, 0),
