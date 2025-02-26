@@ -226,11 +226,25 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
             a:hover {
                 text-decoration: underline;
             }
+            .col1 { width: 6em; }
+            .col2 { width: 12em; }
+            .col3 { width: 2em; }
+            .col4 { width: 35%; }
+            td:nth-child(3) { font-size: 16pt; }
+
         </style>
     </head>
     <body>
         <h1>Kanji Stories (1-3000)</h1>
         <table>
+            <colgroup>
+                <col class="col1">
+                <col class="col2">
+                <col class="col3">
+                <col class="col4">
+                <col class="col5">
+                <col class="col6">
+            </colgroup>
             <tr>
                 <th>Heisig Index</th>
                 <th>Keyword</th>
@@ -309,6 +323,14 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
         </table>
         <h1>Non-Kanji Stories (3001+)</h1>
         <table>
+            <colgroup>
+                <col class="col1">
+                <col class="col2">
+                <col class="col3">
+                <col class="col4">
+                <col class="col5">
+                <col class="col6">
+            </colgroup>
             <tr>
                 <th>Heisig Index</th>
                 <th>Keyword</th>
