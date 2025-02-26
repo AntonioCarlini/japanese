@@ -2765,7 +2765,7 @@
  2765 :  0x9328 :  :  BYOU MYOU :  ikari :   :  {anchor} {grapnel} :   :  
  2766 :  0x91d8 : kugi :  TEI CHYOU :  kugi :   :  {nail} {tack} {peg} :  9 :  
  2767 :  0x9453 :  :   :  yari :   :  {spear} {javelin} {(kokuji)} :   :  
- 2768 :  0x92d2 : hokosaki kissaki tokari :  HOU :  kissaki tokari hokosaki :   :  {dagger} {sword's point} {festival car} {float} :  9 :  
+ 2768 :  0x92d2 : hokosaki kissaki tokari :  HOU :  kissaki tokari hokosaki :   :  {sword’s point} {dagger} {festival car} {float} :  9 :  
  2769 :  0x939a :  :  TSUI TAI :  tsuchi :   :  {hammer} {mallet} :   :  
  2770 :  0x9266 :  :  SEI SHYOU :  kane :   :  {bell} {gong} {chimes} :   :  
  2771 :  0x9306 :  :  SHYOU SEI :  sabi kuwa.shii :   :  {rust} {tarnish} :  9 :  
@@ -3043,24 +3043,33 @@
 22797 :  0x590d :  :  :  : : {double back} : : 
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
+24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 25096 :  0x6208 :  : KA : hoko hokodukuri : : {fiesta} : : 
 25098 :  0x620a :  : BO BOU : tsuchinoe : : {parade} : : 
 25909 :  0x6535 :  : HOKU :  : : {taskmaster} : : 
 26224 :  0x6670 : akiraka : SHAKU SEKI : akiraka : : {clear} : : 
 26140 :  0x661c :  : YOU :  : : {piggy bank} : : 
+26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : : 
 27631 :  0x72ad :  : TAN :  : : {carpet} : : 
 27777 :  0x6c81 :  : SHIN : shi.miru : : {permeate} : : 
 28335 :  0x6e1f : sakanobo.ru : SO SAKU : sakanobo.ru : : {go upstream (alternate)} : :
 28780 :  0x706c :  : HYOU KA :  : : {fire below} : : 
 29227 :  0x722b :  :  :  : : {vulture (old)} : : 
 29228 :  0x722c :  : HA  : ka.ku ha.u : : {reptile} : : 
+29232 :  0x7230 :  : EN : koko.ni : : {migrating ducks} : : 
 29357 :  0x72ad :  :  :  : : {wild dog} : : 
 30836 :  0x7874 :  : KAKI :  : : {oyster shell} : : 
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
+31744 :  0x7c00 :  : SAKU JAKU SEKI : su  : : {bamboo mat} : : 
+31933 :  0x7cbd :  : SOU : chimaki : : {bamboo wrapped dumpling} : : 
+32608 :  0x7f60 :  : BIN MIN : wana ami : : {trap} : : 
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
+34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
+35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
 36555 :  0x8ecb :  : ATSU : kishi.ru kishi.ku : : {squeek} : : 
 36767 :  0x8f9f : kimi : HEKI HI : kimi hira.ku me.su : : {ketchup} : : 
+36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {screen} : : 
