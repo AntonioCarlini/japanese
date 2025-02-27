@@ -320,7 +320,7 @@ def process_at_commands(text, data_dir, filename)
       |what|
       unchecked = ($1 == "UCREF")
       ref = $2
-      debug_out("inserting for REF:[#{ref}]")
+      #debug_out("inserting for REF:[#{ref}]")
       transform_ref(ref, data_dir, unchecked)
     }
   end
@@ -329,9 +329,10 @@ def process_at_commands(text, data_dir, filename)
   answer = ""
 
   to_handle = text
-
+  # debug_out("Beginning process: [#{text}]")
+  
   if to_handle !~ /#{OPENING_REGEXP}/ixm
-    debug_out("No command found")    
+    # debug_out("No command found")    
     answer << to_handle
     to_handle = nil
   end
@@ -342,9 +343,10 @@ def process_at_commands(text, data_dir, filename)
       text = m.pre_match()
       current = m[0]
       to_handle = m.post_match().dup()
-      debug_out("Found something to process")    
+      # debug_out("Found something to process: pre=[#{text}] current=[#{current}] after=[#{to_handle}]")
       
       if stack.empty?()
+        # debug_out("Stacking [#{text}]")
         answer << text
       else
         stack << Text.new(text)
@@ -368,6 +370,7 @@ def process_at_commands(text, data_dir, filename)
         op = object.operation()
         raise("Object has no operation") if op.nil?()
         begin
+          # debug_out("processing op #{op.inspect()}]")
           result = send(op, mini_stack, object.code())
         rescue NoMethodError => e
           # This is probably a missing require or similar
@@ -375,6 +378,7 @@ def process_at_commands(text, data_dir, filename)
         rescue ProcessingError => e
             $stderr.puts("Non-fatal error: #{e.message}")
             processing_errors << e  # Store the error so we can decide what to do later
+            result = "PROCESSING-ERROR-HERE"
         rescue => e
           $stderr.puts(e)
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
@@ -409,7 +413,7 @@ def process_at_commands(text, data_dir, filename)
       end
     else
       # No match. This must be a sequence of trailing text that will never be processed
-      debug_out("Finished handling text")
+      # debug_out("Finished handling text")
       answer << to_handle
       break
     end
@@ -422,7 +426,6 @@ def process_at_commands(text, data_dir, filename)
 
   unless processing_errors.empty?
     raise "\nEncountered #{processing_errors.size} errors during processing."
-    exit 1
   end
 
   return answer
@@ -525,6 +528,7 @@ def process_kanji(stack, unused)
     if x.processed?()
       result << x
     else
+      #debug_out("kanji handling [#{x.text()}]")
       result << DoneText.new(convert_to_kanji(x.text()))
     end
   }
@@ -716,7 +720,7 @@ def process_empty_code_helper(code)
         when "HIMITSU"     then "<!-- DO_NOT_RELEASE -->"                                       # marker indicating source not to be released
         when "VERPEND"     then "<!-- UNVERIFIED -->"                                           # marker indicating something that has not been verified by a native speaker or book
         else
-          debug_out("code: [#{code}]")
+          #debug_out("code: [#{code}]")
           "&lt;UNKNOWN @code [#{code}]&gt;"
         end
 end
