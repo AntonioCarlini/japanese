@@ -49,7 +49,7 @@ def convert_to_kanji(text)
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
       $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
-      ### raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
+      raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
     else
       result += jp_unicode(code)
     end
