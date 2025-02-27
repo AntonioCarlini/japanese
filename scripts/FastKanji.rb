@@ -2240,7 +2240,7 @@ class KD
     "scratch" => Kanji.new(2252, 25531, ["SOU"], ["ka.ku"], [""], ["scratch","rake","comb","paddle","behead"], 0, 0),
     "composing" => Kanji.new(2253, 25776, ["SAN","SEN"], ["sen.suru","era.mu","era.bu"], [""], ["composing","editing","compiling","selecting"], 9, 0),
     "wipe" => Kanji.new(2254, 25325, ["SHYOKU","SHIKI"], ["nugu.u","fu.ku"], [""], ["wipe","mop","swab"], 8, 0),
-    "be*complete" => Kanji.new(2255, 25539, ["SEN"], ["soro.eru","soro.u","soro.i","ki.ru"], [""], ["be complete","uniform","all present"], 9, 0),
+    "muster" => Kanji.new(2255, 25539, ["SEN"], ["soro.eru","soro.u","soro.i","ki.ru"], [""], ["muster","be complete","uniform","all present"], 9, 0),
     "churn*up" => Kanji.new(2257, 25785, ["KAKU","KOU"], ["mida.su"], [""], ["churn up","disturb","throw into confusion"], 0, 0),
     "rubbing" => Kanji.new(2258, 25722, ["SHYOU","SHYUU","ROU"], ["su.ru","hida"], ["suru","zuri"], ["rubbing","rub","fold","print (on cloth)"], 9, 0),
     "press*down*on" => Kanji.new(2259, 25353, ["AN"], ["osa.eru","shira.beru"], [""], ["press down on","hold","consider","investigate"], 9, 0),
