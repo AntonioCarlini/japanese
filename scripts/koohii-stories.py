@@ -158,11 +158,13 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
     """
     import re
 
-    short_term_swap = "~|~"
-    
     # Replace #text# with <b>text</b>
+    # This must be done before any "<a href=#NNNN> ... </a>" internal links are introduced
+    # as the embeded '#' is a potential candidate for bolding.
     story = re.sub(r"#([^#]+?)#", r"<b>\1</b>", story)
 
+    short_term_swap = "~|~"
+    
     # Replace (*{kanji}*) with (@KJ{{keyword}}) or (<i>kanji</i>)
     def replace_kanji(match):
         kanji = match.group(1)
@@ -178,15 +180,22 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
     # Handle (*{kanji}*)
     story = re.sub(r"\(\*\{([^{}]+)\}\*\)", replace_kanji, story)
 
-    # Make the current keyword bold (if not already bold)
+    # Make the current keyword bold (if not already bold, and not inside @KJ{{...}})
     if current_keyword:
+        def replace_match(match):
+            # Only bold the keyword if it's NOT inside "@KJ{{ ... }}"
+            before = story[:match.start()]
+            inside_brackets = bool(re.search(r'@KJ\{\{[^{}]*$', before))
+            return match.group(0) if inside_brackets else f"<b>{match.group(0)}</b>"
+
         # Case-insensitive match, but retain original case in the story
         story = re.sub(
             rf"\b{re.escape(current_keyword)}\b",
-            lambda match: f"<b>{match.group(0)}</b>",
+            replace_match,
             story,
             flags=re.IGNORECASE,
         )
+
 
     # Replace *text* with <i>text</i>
     story = re.sub(r"\*([^*]+?)\*", r"<i>\1</i>", story)
@@ -228,9 +237,9 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
             }
             .col1 { width: 6em; }
             .col2 { width: 12em; }
-            .col3 { width: 2em; }
+            .col3 { width: 1em; }
             .col4 { width: 40%; }
-            td:nth-child(3) { font-size: 12pt; }
+            td:nth-child(3) { font-size: 18pt; }
 
         </style>
     </head>
