@@ -237,7 +237,6 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
             }
             .col1 { width: 6em; }
             .col2 { width: 12em; }
-            .col3 { width: 1em; }
             .col4 { width: 40%; }
             td:nth-child(3) { font-size: 18pt; }
 
