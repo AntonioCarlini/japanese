@@ -2081,7 +2081,7 @@
  2081 :  0x97ee : nira :  KYUU KU :  nira :   :  {leek} :   :  
  2082 :  0x7c64 : kazutori kuji :  SEN :  kuji kazutori :   :  {lottery} {raffle} :   :  
  2083 :  0x61fa : kui.ru :  ZAN SAN :  kui.ru :   : {penitential} {regret} {repent} {confess sins} :   :  
- 2084 :  0x82bb : magusa :  SUU SHYUU SU :  magusa :   :  {grass cutting} {hay} :   :  
+ 2084 :  0x82bb : magusa :  SUU SHYUU SU :  magusa :   : {hay}  {grass cutting} :   :  
  2085 :  0x96db : hina hiyoko :  SUU SU JU :  hina hiyoko :   :  {chick} {squab} {duckling} {doll} :  9 :  1
  2086 :  0x8da8 : shyu :  SUU SOKU :  shyu omomu.ku hashi.ru :   : {scurry} {run} {go} {quick} {tend towards} :   :  
  2087 :  0x5c24 :  :  YUU :  moto.mo toga.meru :   :  {understandably} {reasonable} {just} {natural} {superb} {outstanding} {plausible} :  9 :  
@@ -2289,7 +2289,7 @@
  2289 :  0x6d32 :  :  SHYUU SU :  shima :   :  {continent} {sandbar} {island} {country} :  9 :  1
  2290 :  0x6d35 : no.bu :  JUN SHYUN :  no.bu makoto.ni :   :  {alike} {truth} :  9 :  1
  2291 :  0x6ef2 : niji.mu :  SHIN :  shi.miru niji.mu :   :  {seep} {imbued with} :   :  
- 2292 :  0x6d12 :  :  SHYA SON SAI SEN SEI :  susu.gu ara.u :   :  {wash} {sprinkle} :   :  
+ 2292 :  0x6d12 :  :  SHYA SON SAI SEN SEI :  susu.gu ara.u :   :  {rinse} {wash} {sprinkle} :   :  
  2293 :  0x6c90 : moku.suru :  MOKU :  moku.suru ara.u :   :  {wash} :   :  
  2294 :  0x6cea :  :  RUI REI :  namida :   :  {tears} {weep} {cry} :   :  
  2295 :  0x6e3e :  :  KON :  sube.te nigo.ru :   :  {all} {turbidity} :   :  
@@ -2408,13 +2408,13 @@
  2408 :  0x839e :  :  KAN :  i :   :  {smiling} {reed used to cover tatami} :  9 :  1
  2409 :  0x8490 :  :  SHYUU :  akane atsu.maru atsu.meru :   :  {gather} :  9 :  
  2410 :  0x83c5 : suge :  KAN KEN :  suge :  su suga sugo :  {sedge} :  9 :  
- 2411 :  0x8466 :  :  I :  shio.reru shina.biru shibo.mu na.eru :  ashi :  {reed} {bullrush} :  9 :  
+ 2411 :  0x8466 :  :  I :  shio.reru shina.biru shibo.mu na.eru :  ashi :  {ditch reed} {reed} {bullrush} :  9 :  
  2412 :  0x8fea :  :  TEKI :  michi michibi.ku susu.mu ita.ru :  susumu susumi itaru yuu :  {edify} {way} {path} :  9 :  1
  2413 :  0x8fbf : tado.ru tadori :  TEN :  tado.ru tadori :   :  {track down} {follow (road)} {pursue} :  9 :  
  2414 :  0x9019 : ha.i ha.u :  SHYA GEN :  ha.u ha.i muka.eru kono :   :  {crawl} {creep} {grovel} {trail (vines)} :  9 :  
  2415 :  0x8fc2 :  :  U :   :   :  {detour} {roundabout way} :  9 :  
  2416 :  0x9041 :  :  TON SHYUN :  noga.reru :   :  {shirk} {flee} {escape} {evade} {set free} :  9 :  
- 2417 :  0x9022 :  :  HOU :  a.u muka.eru :  ai ou :  {meeting} {tryst} {date} {rendezvous} :  9 :  
+ 2417 :  0x9022 :  :  HOU :  a.u muka.eru :  ai ou :  {tryst} {meeting} {date} {rendezvous} :  9 :  
  2418 :  0x9065 : haru.ka :  YOU :  haru.ka :   :  {far off} {distant} {long ago} :  9 :  1
  2419 :  0x907c :  :  RYOU :   :  haruka :  {faraway} {distant} :  9 :  1
  2420 :  0x903c : HYOKU mukabaki :  HUKU HITSU HYOKU HIKI :  sema.ru mukabaki :   :  {urge} {force} {imminent} {spur on} :   :  
@@ -2467,7 +2467,7 @@
  2467 :  0x816b : haremono :  SHYU SHYOU :  ha.reru ha.re ha.rasu ku.mu haremono :   :  {tumor} {swelling} :  8 :  
  2468 :  0x81b3 :  :  ZEN SEN :  kashiwa susu.meru sona.eru :  ze yoshi :  {small low table} {tray} :  8 :  
  2469 :  0x80b1 : kaina marui :  KOU :  kaina hiji marui :   :  {ability} {talent} {elbow} {arm} :   :  
- 2470 :  0x80e1 :  :  U KO GO :  nanzo :  ebisu kuru :  {barbarian} {foreign} :  9 :  1
+ 2470 :  0x80e1 :  :  U KO GO :  nanzo :  ebisu kuru :  {uncivilized} {barbarian} {foreign} :  9 :  1
  2471 :  0x6953 : kaede :  HUU :  kaede :   :  {maple} :  9 :  1
  2472 :  0x6795 : makura :  CHIN SHIN :  makura :   :  {pillow} :  8 :  
  2473 :  0x694a :  :  YOU :  kawa yanagi :  yana :  {willow} :  9 :  1
@@ -2534,7 +2534,7 @@
  2534 :  0x71ff :  :  YOU :  kagaya.ku hikari :   :  {shine} :  9 :  1
  2535 :  0x71ce : kagaribi :  RYOU :  kagaribi :   :  {burn} {bonfire} :  9 :  1
  2536 :  0x70ac :  :  KO KYO :   :  tai :  {torch} {signal fire} :   :  
- 2537 :  0x711a : yakigari :  HUN HON HAN :  ta.ku ya.ku yakigari :   :  {burn} {kindle} {build a fire} {boil} {cook} :  9 :  
+ 2537 :  0x711a : yakigari :  HUN HON HAN :  ta.ku ya.ku yakigari :   : {kindle}  {burn} {build a fire} {boil} {cook} :  9 :  
  2538 :  0x7078 : yaito :  KYUU KU :  yaito :   :  {moxa cautery} {chastisement} :  9 :  
  2539 :  0x71ed :  :  SOKU SHYOKU :  tomoshibi :   :  {light} {candlepower} :  9 :  
  2540 :  0x717d : ao.ru oda.teru :  SEN :  ao.ru oda.teru oko.ru :   :  {fan} {flap} {instigate} {agitate} {bolster up} {gulp down} :   :  
@@ -2546,7 +2546,7 @@
  2546 :  0x7114 :  :  EN :  honoo :   :  {flame} {blaze} :   :  
  2547 :  0x7194 : igata :  YOU :  to.keru to.kasu igata :   :  {fuse} {melt} :   :  
  2548 :  0x714e : sen.jiru :  SEN :  sen.jiru i.ru ni.ru :  iri :  {roast} {broil} {parch} {roast} {boil} :  8 :  
- 2549 :  0x70f9 :  :  HOU :  ni.ru :   :  {boil} {cook} :   :  
+ 2549 :  0x70f9 :  :  HOU :  ni.ru :   :  {stew} {boil} {cook} :   :  
  2550 :  0x727d :  :  KEN :  hi.ku :   :  {pull} {tug} {drag} {lead by hand} :  9 :  
  2551 :  0x725d :  :  HIN :  mesu me- men :   :  {female} :   :  
  2552 :  0x7261 :  :  BO BOU :  osu o- on- :   :  {male} :  9 :  
@@ -2564,7 +2564,7 @@
  2564 :  0x73ea :  :  KEI :  tama :   :  {jade scepter or tablet (authority symbol)} :   :  
  2565 :  0x7396 :  :  KYUU KU :   :  tama ki hisa :  {beautiful black jewel} {nine} :  9 :  1
  2566 :  0x745b :  :  EI :   :  you aki akira teru e :  {sparkle of jewelry} {crystal} :  9 :  1
- 2567 :  0x73a9 : mochiaso.bu :  GAN :  mochiaso.bu moteaso.bu :   :  {play} {take pleasure in} {trifle with} {make sport of} :  8 :  
+ 2567 :  0x73a9 : mochiaso.bu :  GAN :  mochiaso.bu moteaso.bu :   :  {toy} {play} {take pleasure in} {trifle with} {make sport of} :  8 :  
  2568 :  0x73b2 :  :  REI :   :  tama akira aki ryou re :  {sound of jewels} :  9 :  1
  2569 :  0x754f : kashiko kashiko.shi kashikoma.ru :  I :  oso.reru kashikoma.ru kashiko kashiko.shi :   :  {apprehensive} {fear} {majestic} {graciously} {be apprehensive} :  8 :  
  2570 :  0x7562 : owa.ri :  HITSU :  owa.ru ami owa.ri kotogotoku :   :  {the end} {finish} :  9 :  
@@ -2710,7 +2710,7 @@
  2710 :  0x8ad2 : akira.ka :  RYOU :  akira.ka makotoni :  aki masa makoto :  {fact} {reality} {understand} {appreciate} :  9 :  1
  2711 :  0x8b83 :  :  SAN :  ho.meru tata.eru :  sanu :  {praise} {title on a picture} :  9 :  
  2712 :  0x8ab0 : dare tare :  SUI :  dare tare ta :   :  {who} {someone} {somebody} :  8 :  
- 2713 :  0x8a0a :  :  JIN SHYUN SHIN :  ki.ku to.u tazu.neru :   :  {request} {question} {investigate} :  9 :  
+ 2713 :  0x8a0a :  :  JIN SHYUN SHIN :  ki.ku to.u tazu.neru :   :  {query} {request} {question} {investigate} :  9 :  
  2714 :  0x8a23 : wakare wakare.ru :  KETSU :  wakare wakare.ru :   :  {separation} {part} {secret} :  9 :  
  2715 :  0x8a63 : kei.suru mou.deru :  KEI GEI :  kei.suru mai.ru ita.ru mou.deru :   :  {visit a shrine} :  8 :  
  2716 :  0x8ae6 : akira.meru tsumabiraka :  TEI TAI :  akira.meru tsumabiraka makoto :   : {renunciation} {truth} {clarity} {abandon} {give up} :  8 :  
@@ -2718,7 +2718,7 @@
  2718 :  0x8a51 : wa.bi :  I TA DA :  wa.biru wa.bi azamu.ku :   :  {deceive} {delude} :   :  
  2719 :  0x8abc : yoshimi :  GI :  yoshimi yoi :   :  {friendship} {intimacy} :  9 :  1
  2720 :  0x8b2c : BYUU MYUU :  BYUU BYOU MYUU :  ayama.ru :   :  {mistake} :   :  
- 2721 :  0x8a6b : kakotsu wabi wabi.ru wabi.shii :  TA :  wabi wabi.shii kakotsu wa.biru wabi.ru :  taku : {beg another's pardon} {apologize} :  9 :  
+ 2721 :  0x8a6b : kakotsu wabi wabi.ru wabi.shii :  TA :  wabi wabi.shii kakotsu wa.biru wabi.ru :  taku : {beg another’s pardon} {apologize} :  9 :  
  2722 :  0x8acf : sou :  SHYU SU :  sou haka.ru :   :  {consult} :  9 :  
  2723 :  0x8afa : kotowaza :  GEN :  kotowaza :   :  {proverb} :  9 :  
  2724 :  0x8ab9 :  :  HI HAI :  soshi.ru :   :  {ridicule} {slander} :   :  
@@ -2736,7 +2736,7 @@
  2736 :  0x8cbc :  :  TEN CHYOU :  ha.ru tsu.ku :   : {post a bill} {stick} {paste} {apply} :  8 :  
  2737 :  0x8cb0 : mora.u :  SEI SHYA :  mora.u :   :  {get} {have} {obtain} :  9 :  
  2738 :  0x8cc2 : maina.i maina.u :  RO :  maina.i maina.u :   : {graft} {bribe} :  8 :  
- 2739 :  0x8cd1 : nigi.wai nigi.wasu nigi.wau nigi.yaka :  SHIN :  nigi.wai nigi.yaka nigi.wasu nigi.wau :   :  {flourish} {be bustling} {prosperity} :  9 :  
+ 2739 :  0x8cd1 : nigi.wai nigi.wasu nigi.wau nigi.yaka :  SHIN :  nigi.wai nigi.yaka nigi.wasu nigi.wau :   :  {bustling} {flourish} {be bustling} {prosperity} :  9 :  
  2740 :  0x8e93 :  :  CHI :  tsumazu.ku :   :  {stumble} :   :  
  2741 :  0x8e44 : hidume :  TEI :  hidume :   :  {hoof} :  9 :  
  2742 :  0x8e74 : ke.ru :  SHYUKU SHYUU :  ke.ru :   :  {kick} :  8 :  
@@ -3018,6 +3018,7 @@
  3028 :  0x7c60 :  : ROU RU  : kago ko.meru komo.ru ko.mu  : : {cage (Joyo version)} : :
  3029 :  0x7c60 :  : SHUU : haji.ru susume.ru ha.zukashii  : : {humiliate} : :
  3030 :  0x9b31 :  : UTSU : uxtsu.ru fusa.gu shige.ru : : {gloom} : :
+19991 :  0x4e17 :  : SEI SE SOU : yo sanjuu : : {thirty} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20039 :  0x4e47 : : TAKU CHAKU : : : {lock of hair} : : 
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
@@ -3028,10 +3029,13 @@
 20446 :  0x4fde :  :  :  : : {meeting of butchers} : : 
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
 20817 :  0x5151 :  :  :  : : {devil} : : 
+20866 :  0x5182 :  : KYOU KEI :  : : {belt} : :
 20878 :  0x518e :  : KA KE : wa.keru sa.ku : : {hollow bone} : :
 20888 :  0x5198 :  : IN YU : okota.ru tamera.u utaga.u : : {garter} : :
+20907 :  0x51ab :  : HYOU  : koori : : {ice} : :
 20960 :  0x51e0 : kinyou : KI : kinyou : : {table} : : 
 20981 :  0x51f5 :  : kan :  : : {shovel} : :
+20994 :  0x5202 :  : TOU :  : : {sabre} : :
 21014 :  0x5216 : ki.ru : GETSU GECHI GOTSU GOCHI : ki.ru ayau.i : : {butcher} : : 
 21241 :  0x52f9 : tsutsu.mu : HOU : tsutsu.mu : : {bound up} : : 
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
@@ -3039,6 +3043,7 @@
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21599 :  0x555f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21692 :  0x54bc : yokoshima : KAI KE KUU KA : yokoshima kuchigayugamu yuga.mu : : {jawbone} : : 
+21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
 22467 :  0x57c3 :  : AI : hokori chiri : : {dusty} : :
@@ -3048,8 +3053,10 @@
 22797 :  0x590d :  :  :  : : {double back} : : 
 22829 :  0x592d :  : YOU OU KA : waka.i wakajini wazawai : : {sapling} : :
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
+23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
+23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 25096 :  0x6208 :  : KA : hoko hokodukuri : : {fiesta} : : 
@@ -3058,8 +3065,9 @@
 25545 :  0x63c9 :  : JYUU : mo.su mo.meru : : {massage} : : 
 25623 :  0x6417 :  : TOU : tsu.ku ka.tsu : : {pound rice} : : 
 25909 :  0x6535 :  : HOKU :  : : {taskmaster} : : 
-26224 :  0x6670 : akiraka : SHAKU SEKI : akiraka : : {clear} : : 
 26140 :  0x661c :  : YOU :  : : {piggy bank} : : 
+26224 :  0x6670 : akiraka : SHAKU SEKI : akiraka : : {clear} : : 
+26359 :  0x66f7 :  : KATSU : nanzo itsu izukun zo nani : : {siesta} : :
 26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : : 
 27631 :  0x72ad :  : TAN :  : : {carpet} : : 
 27777 :  0x6c81 :  : SHIN : shi.miru : : {permeate} : : 
@@ -3072,6 +3080,7 @@
 29357 :  0x72ad :  :  :  : : {wild dog} : :
 29519 :  0x734f :  : BAKU MYAKU :  : : {baku} : : 
 30836 :  0x7874 :  : KAKI :  : : {oyster shell} : : 
+31035 :  0x793b :  : SHI :  : : {altar} : : 
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
 31744 :  0x7c00 :  : SAKU JAKU SEKI : su  : : {bamboo mat} : : 
 31933 :  0x7cbd :  : SOU : chimaki : : {bamboo wrapped dumpling} : : 
@@ -3079,9 +3088,12 @@
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
+34916 :  0x8864 :  :  : koromu : : {cloak} : : 
 35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
+35960 :  0x8c78 :  : TAI CHI :  : : {skunk} : : 
 36555 :  0x8ecb :  : ATSU : kishi.ru kishi.ku : : {squeek} : : 
 36767 :  0x8f9f : kimi : HEKI HI : kimi hira.ku me.su : : {ketchup} : : 
+36790 :  0x8fb6 :  : CHAKU :  : : {road primitive} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
