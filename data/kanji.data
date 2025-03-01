@@ -2128,11 +2128,11 @@
  2128 :  0x50ad : ata.i :  YOU CHYOU :  yato.u ata.i hito.shii :   : {hire} {employ} {hire} :  9 :  
  2129 :  0x5072 :  :  SAI SHI :  shino.bu :   :  {recollect} {remember} :  9 :  1
  2130 :  0x8129 : hojishi :  SHYUU :  osa.meru naga.i hojishi :  osamu osa naga nobu haru :  {dried meat} :  9 :  1
- 2131 :  0x5005 : SOCHI segare :  SAI SOTSU SOCHI :  segare :   :  {son} {my son} :   :  
- 2132 :  0x505a :  :  SA SAKU SO :  na.su tsuku.ru :   :  {make} :   :  
+ 2131 :  0x5005 : SOCHI segare :  SAI SOTSU SOCHI :  segare :   : {my son}  {son} :   :  
+ 2132 :  0x505a :  :  SA SAKU SO :  na.su tsuku.ru :   :  {make do} {make} :   :  
  2133 :  0x51c4 : sugo.i susa.majii :  SEI SAI :  samu.i sugo.i susa.majii :   :  {nifty} {uncanny} {weird} {threatening} {horrible} :  8 :  
  2134 :  0x51b4 : sa.eru :  GO KO :  sa.eru koo.ru hi.eru :  sae saeru :  {be clear} {serene} {cold} {skilful} :  9 :  1
- 2135 :  0x51cb :  :  CHYOU :  shibo.mu :   :  {wither} {droop} {lame} :   :  
+ 2135 :  0x51cb :  :  CHYOU :  shibo.mu :   :  {wilt} {wither} {droop} {lame} :   :  
  2136 :  0x51cc : shino.gu :  RYOU :  shino.gu :   :  {endure} {keep (rain)out} {stave off} {tide over} {defy} {slight} {surpass} :  9 :  1
  2137 :  0x51b6 :  :  YA :  i.ru :  ji :  {melting} {smelting} :  8 :  1
  2138 :  0x51db : kibishi.i :  RIN :  kibishi.i :   :  {cold} :  9 :  
@@ -2152,8 +2152,8 @@
  2152 :  0x53a8 :  :  SHYUU ZU CHYU CHYUU :  kuriya :   :  {kitchen} :  9 :  
  2153 :  0x4ec4 : hono- hono.ka hono.mekasu hono.meku :  SOKU :  hono.ka hono- hono.mekasu hono.meku katamu.ku :   :  {insinuate} {be seen dimly} {suggest} {intimate} {faint} {stupid} {hint} :   :  
  2154 :  0x54e8 : mihari :  SHYOU :  mihari :   :  {scout} {sentinel} :  9 :  
- 2155 :  0x5632 : azake.ru :  CHYOU TOU :  azake.ru :   :  {ridicule} {insult} :  8 :  
- 2156 :  0x548e :  :  KYUU KOU :  toga.meru toga :   :  {blame} {censure} {reprimand} :   :  
+ 2155 :  0x5632 : azake.ru :  CHYOU TOU :  azake.ru :   :  {derision} {ridicule} {insult} :  8 :  
+ 2156 :  0x548e :  :  KYUU KOU :  toga.meru toga :   :  {reprehend} {blame} {censure} {reprimand} :   :  
  2157 :  0x56c1 : sasaya.ku :  SHYOU :  sasaya.ku :   :  {whisper} {murmur} :   :  
  2158 :  0x558b : shyabe.ru :  CHYOU TOU :  shyabe.ru tsuiba.mu :   :  {chatter} {chat} {talk} :  9 :  
  2159 :  0x54bd : muse.bu muse.ru :  IN EN ETSU :  muse.bu muse.ru nodo no.mu :   :  {choked} {smothered} {stuffy} :  8 :  
@@ -3019,6 +3019,8 @@
  3029 :  0x7c60 :  : SHUU : haji.ru susume.ru ha.zukashii  : : {humiliate} : :
  3030 :  0x9b31 :  : UTSU : uxtsu.ru fusa.gu shige.ru : : {gloom} : :
 19991 :  0x4e17 :  : SEI SE SOU : yo sanjuu : : {thirty} : : 
+20012 :  0x4e2c :  :  :  : : {turtle} : :
+20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20039 :  0x4e47 : : TAKU CHAKU : : : {lock of hair} : : 
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
@@ -3026,6 +3028,7 @@
 20130 :  0x4ea2 :  : KOU : takaburu : : {whirlwind} : :
 20156 :  0x4ebc :  : SHUU JUU : atsumaru : : {meeting} : : 
 20358 :  0x4f86 :  : RAI TAI : ku.ru kita.ru kita.su ki.tasu ki.taru : : {come [old]} : : 
+20376 :  0x4f98 :  : TA : wabi.shii hoko.ru wa.biru : : {alone} : :
 20446 :  0x4fde :  :  :  : : {meeting of butchers} : : 
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
 20817 :  0x5151 :  :  :  : : {devil} : : 
@@ -3046,6 +3049,7 @@
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
+22309 :  0x5725 :  : ROKU : kinoko : : {rice seedling} : :
 22467 :  0x57c3 :  : AI : hokori chiri : : {dusty} : :
 22764 :  0x58ec :  : NIN JIN I : mizunoe : : {porter} : : 
 22786 :  0x5902 :  : CHI : shyuu : : {walking legs} : : 
@@ -3077,8 +3081,10 @@
 29227 :  0x722b :  :  :  : : {vulture (old)} : : 
 29228 :  0x722c :  : HA  : ka.ku ha.u : : {reptile} : : 
 29232 :  0x7230 :  : EN : koko.ni : : {migrating ducks} : : 
+29247 :  0x723f :  : SHYOU SOU :  : : {split wood} : :
 29357 :  0x72ad :  :  :  : : {wild dog} : :
 29519 :  0x734f :  : BAKU MYAKU :  : : {baku} : : 
+29996 :  0x752c :  : YOU :  : : {pogo stick} : :
 30836 :  0x7874 :  : KAKI :  : : {oyster shell} : : 
 31035 :  0x793b :  : SHI :  : : {altar} : : 
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
@@ -3094,6 +3100,7 @@
 36555 :  0x8ecb :  : ATSU : kishi.ru kishi.ku : : {squeek} : : 
 36767 :  0x8f9f : kimi : HEKI HI : kimi hira.ku me.su : : {ketchup} : : 
 36790 :  0x8fb6 :  : CHAKU :  : : {road primitive} : :
+36953 :  0x9059 :  : YOU : haru.ka : : {far off [old]} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
