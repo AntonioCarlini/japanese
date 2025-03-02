@@ -2133,9 +2133,9 @@
  2133 :  0x51c4 : sugo.i susa.majii :  SEI SAI :  samu.i sugo.i susa.majii :   :  {nifty} {uncanny} {weird} {threatening} {horrible} :  8 :  
  2134 :  0x51b4 : sa.eru :  GO KO :  sa.eru koo.ru hi.eru :  sae saeru :  {be clear} {serene} {cold} {skilful} :  9 :  1
  2135 :  0x51cb :  :  CHYOU :  shibo.mu :   :  {wilt} {wither} {droop} {lame} :   :  
- 2136 :  0x51cc : shino.gu :  RYOU :  shino.gu :   :  {endure} {keep (rain)out} {stave off} {tide over} {defy} {slight} {surpass} :  9 :  1
+ 2136 :  0x51cc : shino.gu :  RYOU :  shino.gu :   :  {pull through} {endure} {keep (rain)out} {stave off} {tide over} {defy} {slight} {surpass} :  9 :  1
  2137 :  0x51b6 :  :  YA :  i.ru :  ji :  {melting} {smelting} :  8 :  1
- 2138 :  0x51db : kibishi.i :  RIN :  kibishi.i :   :  {cold} :  9 :  
+ 2138 :  0x51db : kibishi.i :  RIN :  kibishi.i :   :  {stately} {cold} :  9 :  
  2139 :  0x51e7 : ikanobori :   :  ikanobori tako :   :  {kite} {(kokuji)} :  9 :  
  2140 :  0x51ea :  :   :  nagi na.gu :   :  {lull} {calm} {(kokuji)} :  9 :  1
  2141 :  0x5919 : tsutoni :  SHYUKU :  tsutoni hayai :   :  {bright and early} {long ago} {early in life} :   :  
@@ -2163,7 +2163,7 @@
  2163 :  0x55a7 : yakama.shii :  KEN :  yakama.shii kamabisu.shii :   :  {clamor} {noisy} {boisterous} :  9 :  
  2164 :  0x5589 :  :  KOU :  nodo :   :  {throat} {voice} :  8 :  
  2165 :  0x553e : tsuba :  DA TA :  tsuba tsubaki :   :  {saliva} {sputum} :  8 :  
- 2166 :  0x53e9 : hata.ku tata.ku :  KOU :  tata.ku hata.ku sugi :   :  {strike} {beat} {hit} {thrash} {criticize} :   :  
+ 2166 :  0x53e9 : hata.ku tata.ku :  KOU :  tata.ku hata.ku sugi :   :  {bash} {strike} {beat} {hit} {thrash} {criticize} :   :  
  2167 :  0x5618 : uso :  KYO KO :  uso fu.ku :   :  {fib} {lie} {falsehood} :   :  
  2168 :  0x5544 : TSUKU tsutsu.ku :  TAKU TSUKU TOKU :  tsuiba.mu tsutsu.ku :  kuchi hashi bashi :  {peck} {pick up} :  9 :  1
  2169 :  0x546a : majina.i majina.u noro.i noro.u :  JU SHYU SHYUU ZU :  majina.u noro.i majina.i noro.u :   :  {curse} {spell} {charm} {malediction} :  8 :  
@@ -3045,6 +3045,7 @@
 21241 :  0x52f9 : tsutsu.mu : HOU : tsutsu.mu : : {bound up} : : 
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
+21353 :  0x5369 :  : SETSU : warifu : : {postage stamp} : :
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21599 :  0x555f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
