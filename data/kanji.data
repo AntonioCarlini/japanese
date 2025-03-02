@@ -2532,7 +2532,7 @@
  2532 :  0x6a12 : jinkou :  MITSU :  shikimi jinkou :   :  {tree whose branches are placed on Buddhist graves} :   :  
  2533 :  0x6bec : iga :  KYUU :  iga mari :   :  {burr} {ball} :  9 :  1
  2534 :  0x71ff :  :  YOU :  kagaya.ku hikari :   :  {shine} :  9 :  1
- 2535 :  0x71ce : kagaribi :  RYOU :  kagaribi :   :  {burn} {bonfire} :  9 :  1
+ 2535 :  0x71ce : kagaribi :  RYOU :  kagaribi :   :  {watchfire} {burn} {bonfire} :  9 :  1
  2536 :  0x70ac :  :  KO KYO :   :  tai :  {torch} {signal fire} :   :  
  2537 :  0x711a : yakigari :  HUN HON HAN :  ta.ku ya.ku yakigari :   : {kindle}  {burn} {build a fire} {boil} {cook} :  9 :  
  2538 :  0x7078 : yaito :  KYUU KU :  yaito :   :  {moxa cautery} {chastisement} :  9 :  
@@ -3064,12 +3064,15 @@
 23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
+23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
+24308 :  0x5ef4 :  : IN :  : : {stretch primitive} : :
 24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 25096 :  0x6208 :  : KA : hoko hokodukuri : : {fiesta} : : 
 25098 :  0x620a :  : BO BOU : tsuchinoe : : {parade} : : 
+25100 :  0x620c :  : JYUTSU : inu : : {march} : :
 25120 :  0x6220 :  : SHOKU SHIKI SHI :  : : {kazoo/uproar} : :
 25164 :  0x624c :  : SHU :  : : {finger primitive} : :
 25458 :  0x6372 :  : KEN : ma.ku ma.kuru maku.ru meku.ru maku.reru : : {roll up} : : 
@@ -3100,6 +3103,7 @@
 32608 :  0x7f60 :  : BIN MIN : wana ami : : {trap} : : 
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
+33401 :  0x8279 :  :  :  : : {flower primitive} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
 34916 :  0x8864 :  :  : koromu : : {cloak} : : 
 35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
