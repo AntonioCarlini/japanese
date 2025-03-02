@@ -5,6 +5,9 @@ $LOAD_PATH << File.dirname(__FILE__)
 
 require 'Kanji.rb'
 
+MIN_EXPECTED_FIELDS = 8
+MAX_EXPECTED_FIELDS = 9
+
 #+
 # Provide support for reading data about a collection of kanji from a data file.
 #-
@@ -20,6 +23,7 @@ require 'Kanji.rb'
 # - a sequence of romanised nanori separated by spaces
 # - a sequence of english meanings, each enclosed in {}
 #
+
 class DataKanji
 
   attr_reader :kanji
@@ -74,6 +78,7 @@ class DataKanji
 
   def DataKanji.create_from_file(filename, options = {})
     
+
     kanji_data = DataKanji.new()
     fatal_seen = false
 
@@ -89,8 +94,9 @@ class DataKanji
     kanji_read = 0
     IO.read(filename).each_line() {
       |line|
-      line.chomp!()
       line_num += 1
+      line.chomp!().strip!()
+      next if line.empty?()
 
       # Bail out if kanji limit reached (useful for testing).
       next if kanji_limit > 0 && kanji_read >= kanji_limit
@@ -100,6 +106,10 @@ class DataKanji
 
       begin
         fields = line.split(':')
+        if (fields.count() < MIN_EXPECTED_FIELDS) || (fields.count() > MAX_EXPECTED_FIELDS)
+          $stderr.puts("FATAL wrong number of fields (saw #{fields.count()} expected #{MIn_EXPECTED_FIELDS}-#{MAX_EXPECTED_FIELDS} for line ##{line_num} [#{line}] in #{filename}]")
+          fatal_seen = true
+        end
         heisig = fields.shift().to_i()
         unicode = fields.shift().to_i(16)
 
@@ -117,7 +127,7 @@ class DataKanji
       rescue => e
         $stderr.puts("Error: #{e.class} - #{e.message}")
         $stderr.puts e.backtrace().first()
-        $stderr.puts("Above error seen for line ##{line_num} [#{line}] in #{filename}]")
+        $stderr.puts("FATAL error seen for line ##{line_num} [#{line}] in #{filename}]")
         fatal_seen = true
         next
       end
