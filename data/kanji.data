@@ -3031,6 +3031,8 @@
 20376 :  0x4f98 :  : TA : wabi.shii hoko.ru wa.biru : : {alone} : :
 20446 :  0x4fde :  :  :  : : {meeting of butchers} : : 
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
+20762 :  0x511a :  : BOU MOU  : hakana.i kura.i : : {fleeting} : :
+20799 :  0x513f :  : JIN NIN : gai : : {human legs} : :
 20817 :  0x5151 :  :  :  : : {devil} : : 
 20866 :  0x5182 :  : KYOU KEI :  : : {belt} : :
 20878 :  0x518e :  : KA KE : wa.keru sa.ku : : {hollow bone} : :
@@ -3045,6 +3047,7 @@
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21599 :  0x555f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
+21637 :  0x5485 :  : TOU :  : : {muzzle} : :
 21692 :  0x54bc : yokoshima : KAI KE KUU KA : yokoshima kuchigayugamu yuga.mu : : {jawbone} : : 
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
@@ -3062,9 +3065,12 @@
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
+24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 25096 :  0x6208 :  : KA : hoko hokodukuri : : {fiesta} : : 
 25098 :  0x620a :  : BO BOU : tsuchinoe : : {parade} : : 
+25120 :  0x6220 :  : SHOKU SHIKI SHI :  : : {kazoo/uproar} : :
+25164 :  0x624c :  : SHU :  : : {finger} : :
 25458 :  0x6372 :  : KEN : ma.ku ma.kuru maku.ru meku.ru maku.reru : : {roll up} : : 
 25545 :  0x63c9 :  : JYUU : mo.su mo.meru : : {massage} : : 
 25623 :  0x6417 :  : TOU : tsu.ku ka.tsu : : {pound rice} : : 
@@ -3113,3 +3119,4 @@
 39671 :  0x9af7 :  : KYOKU : mage wage : : {topknot} : : 
 39788 :  0x9b6c :  : HAN : karei : : {hamachi} : : 
 40407 :  0x9dd7 :  : OU : kamome : : {seagull [old]} : :
+
