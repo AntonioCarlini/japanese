@@ -75,6 +75,7 @@ class DataKanji
   def DataKanji.create_from_file(filename, options = {})
     
     kanji_data = DataKanji.new()
+    fatal_seen = false
 
     kanji_limit = 0
     options.each() {
@@ -97,22 +98,30 @@ class DataKanji
       # Skip commented out lines
       next if line =~ /^ \s+ #/
 
-      fields = line.split(':')
-      heisig = fields.shift().to_i()
-      unicode = fields.shift().to_i(16)
+      begin
+        fields = line.split(':')
+        heisig = fields.shift().to_i()
+        unicode = fields.shift().to_i(16)
 
-      keywords = fields.shift().split(' ') # split keywords on space boundaries
+        keywords = fields.shift().split(' ') # split keywords on space boundaries
 
-      onyomi = fields.shift().split(' ')   # split onyomi on space boundaries
-      kunyomi = fields.shift().split(' ')  # split kunyomi on space boundaries
-      nanori = fields.shift().split(' ')   # split nanori on space boundaries
-      meanings = fields.shift().split(/\s*\}\s*\{\s*/)
-      meanings.first().sub!(/^\s*\{/, "") # Eliminate initial { on first meaning
-      meanings.last().sub!(/\}\s*$/, "")  # Eliminate final } on last meaning
+        onyomi = fields.shift().split(' ')   # split onyomi on space boundaries
+        kunyomi = fields.shift().split(' ')  # split kunyomi on space boundaries
+        nanori = fields.shift().split(' ')   # split nanori on space boundaries
+        meanings = fields.shift().split(/\s*\}\s*\{\s*/)
+        meanings.first().sub!(/^\s*\{/, "") # Eliminate initial { on first meaning
+        meanings.last().sub!(/\}\s*$/, "")  # Eliminate final } on last meaning
       
-      grade = fields.shift().to_i()
-      jlpt = fields.shift().to_i()
-
+        grade = fields.shift().to_i()
+        jlpt = fields.shift().to_i()
+      rescue => e
+        $stderr.puts("Error: #{e.class} - #{e.message}")
+        $stderr.puts e.backtrace().first()
+        $stderr.puts("Above error seen for line ##{line_num} [#{line}] in #{filename}]")
+        fatal_seen = true
+        next
+      end
+      
       # Keep the kanji in an array, ordered as they come from the data file
       k = Kanji.new(heisig, unicode, onyomi, kunyomi, nanori, meanings, grade, jlpt)
       keywords.each() { |word| k.add_reading(word) }
@@ -120,6 +129,8 @@ class DataKanji
 
       kanji_read += 1
     }
+
+    raise "DataKanji: Processing failed with above errors" if fatal_seen
 
     return kanji_data
   end
