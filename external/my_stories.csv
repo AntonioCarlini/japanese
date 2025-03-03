@@ -16,7 +16,7 @@ framenr,kanji,keyword,public,last_edited,story
 15,目,"eye",0,2025-02-15 16:17:09,"The eye has two eyelids and the eyeball, so there are three sections."
 16,古,"old",0,2020-10-10 17:16:57,"You get OLD fast if you have *ten* (*{十}*) open *mouths* (*{口}*) to feed."
 17,吾,"I",0,2020-10-10 17:18:04,"I have two eyes, nose, two ears = *5* (*{五}*) plus one *mouth* (*{口}*)."
-18,冒,"risk",0,2020-10-10 17:18:44,"Don't look at the sun directly with your *eyes* (*{目}*), it's risky!"
+18,冒,"risk",0,2025-03-01 10:11:22,"Don't look at the *sun* (*{日}*) directly with your *eyes* (*{目}*), it's risky!"
 19,朋,"companion",0,2020-10-21 02:08:26,"2 *months* (*{月}*) at least until someone becomes a companion."
 20,明,"bright",0,2025-02-25 16:47:35,"The *sun* (*{日}*) makes the *moon* (*{月}*) bright."
 21,唱,"chant",0,2020-10-10 17:19:57,"Someone chanting with their *mouth* (*{口}*) open for two consecutive *days* (*{日}*)."
@@ -475,9 +475,9 @@ Of course, the ""*number 1*"" *mountain* in Japan is *Mt.* Fuji. The bottom half
 458,毎,"every",0,2024-04-27 13:10:11,"Every *mother* (*{毋}*) looks forward to the end of the day when she can finally lie down."
 459,敏,"cleverness",0,2024-04-27 13:10:46,"*Every* (*{毎}*)  *taskmaster* (*{攵}*) must have some degree of cleverness."
 460,梅,"plum",0,2023-04-23 14:49:48,"Plum *trees* (*{木}*) have fruit on *every* (*{毎}*) branch."
-461,海,"sea",0,2019-06-04 15:38:48,"*Water* drops, *every* (*{毎}*) one, will eventually return to the sea."
+461,海,"sea",0,2025-02-28 13:04:42,"*Water* (*{氵}*) drops, *every* (*{毎}*) one, will eventually return to the sea."
 462,乞,"beg",0,2012-06-11 10:13:30,"*Lying down*, Captain *Hook* is begging to be spared from the ticking crocodile."
-463,乾,"drought",0,2024-04-27 13:11:59,"During a #drought#, everything *begs* (*{乞}*) for a *mist* for relief."
+463,乾,"drought",0,2025-02-28 13:13:20,"During a #drought#, everything *begs* (*{乞}*) for a *mist* (龺) for relief."
 464,腹,"abdomen",0,2024-04-27 13:13:28,"The abdomen is the *body* (*{月}*) part that *doubles up* (*{复}*) on itself, especially during sit-ups"
 465,複,"duplicate",0,2024-04-27 13:14:30,"My girlfriend saw someone wearing a duplicate  *cloak* (*{衤}*)  at a party, so she *doubled back* (*{复}*) to change!"
 466,欠,"lack",0,2012-06-11 10:16:53,"a PERSON BOUND UP due to work is tired and LACKS sleep, hence YAWNS."
@@ -592,7 +592,7 @@ One possible pictograph for ""sow"" primitive: the top line is a feeding trough,
 568,午,"noon",0,2012-06-17 11:01:17,"Noon is a good time to *lie down* for *ten* minutes or so."
 569,許,"permit",0,2017-10-15 15:19:09,"To *say* (*{言}*) anything to me at *noon* (*{午}*) you need a permit because I'm eating lunch."
 570,歓,"delight",0,2012-06-17 11:02:11,"I would be delighted if Japanese lacked the Pegasus kanji."
-571,権,"authority",0,2012-06-17 11:03:01,"no one has the authority to use a *tree* to tie up a *pegasus*."
+571,権,"authority",0,2025-02-28 16:23:51,"no one has the authority to use a *tree* (*{木}*) to tie up a *pegasus*."
 572,観,"outlook",0,2023-06-22 02:06:24,"Microsoft #Outlook# works about as well as a *pegasus* that can't *see* (*{見}*): they both crash all the time."
 573,羽,"feathers",0,2012-06-17 11:04:26,"Two wings full of feathers."
 574,習,"learn",0,2024-05-03 15:53:39,"By the time you're old and all your *feathers* (*{羽}*) have turned *white* (*{白}*), you should have #learn#ed a thing or two."
@@ -722,7 +722,9 @@ Have you heard of the *Finger* (*{扌}*)- *Turkey* (*{隹}*) conjecture ? It sta
 694,更,"grow late",0,2012-06-19 16:29:15,"It's starting to grow late, so God will take the *sun*, and *tuck it under his arm*, and walk away.  In the morning, he'll bring it back, so don't worry."
 695,硬,"stiff",0,2012-07-01 01:40:10,"A stiff drink on the *rock*s after it *grows late* is a way to unwind after a long day."
 696,又,"or again",0,2012-06-19 16:30:10,"This keyword should really be ""again"" not ""or again"" Here is some context: think of the phrase ""Jya mata"" ""じゃ又"" which is a farewell similar to ""then again"". Also ""Mata ne"" ""又ね"" and mata ashita (again tomorrow) ""又明日""。 Note this kanji is rarely used, most of the time JP people spell it out ""mata"" except for in the last example: 又明日."
-697,双,"pair",0,2012-06-19 16:30:25,"The animals boarding Noah's Ark all came in pairs – but Noah had to carefully check the two crotches in each pair to ensure that the animals were of different sexes and thus able to further their species after the flood."
+697,双,"pair",0,2025-02-28 17:02:29,"The animals boarding Noah's Ark all came in pairs – but Noah had to carefully check the two crotches in each pair to ensure that the animals were of different sexes and thus able to further their species after the flood.
+
+work this in? : (*{又}*)"
 698,桑,"mulberry",0,2012-06-19 16:30:52,"Children going around the mulberry *tree* singing ""This is the way we wash our *crotch*, wash our *crotch*, wash our *crotch*..."""
 699,隻,"vessels",0,2012-06-19 16:31:20,"The USS Turkeycrotch is a seaworthy vessel"
 700,護,"safeguard",0,2012-06-19 16:31:41,"Think of the *flower-vessels* as a the Greenpeace vessel “Arctic Sunrise”, only instead of a rainbow there is a big *flower* painted on the hull (this will come back in {701} and {908}).  Think of “flower-power” and of the “peace” in “Greenpeace”  and it will make some sense hopefully. -- In this kanji, we see an inauguration *speech* being given before  the Greenpeace vessel is set afloat and sent to safeguard our planet."
@@ -1127,11 +1129,11 @@ A #fence# separates one *soil* from the other. On a large scale, large pieces of
 1066,局,"bureau",0,2013-09-14 02:54:26,"The Federal #Bureau# of Investigation has email scanners that *flag* a given *{65}*."
 1067,遅,"slow",0,2012-07-16 14:39:47,"A *sheep* crossing guard waves a #SLOW# flag for his fellow *sheep* crossing the *road*."
 1068,漏,"leak",0,2012-07-16 14:39:58,"WATER always LEAKED in the spot left by the FLAG planted in the roof everytime it RAINED. Not too hard to picture a hole left in the ceiling from a flag, now leaking water."
-1069,刷,"printing",0,2012-07-16 15:37:08,"We #printed# a japanese *flag* on his white *towel* by stabbing him with a *sabre* while he was wearing it."
+1069,刷,"printing",0,2025-02-28 16:13:07,"We #printed# a Japanese *flag* (*{尸}*) on his white *towel* (*{巾}*) by stabbing him with a *sabre* (*{刂}*) while he was wearing it."
 1070,尺,"shaku",0,2021-01-14 15:06:44,"Shaku is a unit of length equal to about 12 inches (just like a #R#uler), used in ancient Japan. See also *{寸}*. The shakuhachi is a flute about 20 inches long, which is supposed to be one shaku and eight suns, suns being about one inch long."
 1071,尽,"exhaust",0,2012-07-16 14:41:01,"A women is so exhausted by her ""shakuhachi"" that she needs to ice her jaw."
 1072,沢,"swamp",0,2012-07-16 14:41:34,"My girlfriend doesn't want to give me *shakuhachi* in the swamp. She doesn't want to get swamp *water* all over her."
-1073,訳,"translate",0,2012-07-16 14:41:45,"You cannot pretend to translate into *words* the melody of the *shakuhachi*!"
+1073,訳,"translate",0,2025-02-28 16:05:41,"You cannot pretend to translate into *words* (*{言}*) the melody of the *shakuhachi* (*{尺}*)!"
 1074,択,"choose",0,2012-07-16 14:41:54,"Hand job or ""shakuhachi"", choose."
 1075,昼,"daytime",0,2012-07-16 14:42:05,"roosters in Japan are very civilised, they play the shakuhachi at nightbreak to signify the beginning of daytime"
 1076,戸,"door",0,2012-07-16 14:42:20,"Traditional Japanese storefront doors have several *flags*, known as ""noren,"" hanging down from a curtain rod in front of them. I see this as a pseudo-pictograph, and use the horizontal line across the top to represent the curtain rod, since noren don't usually hang from the *ceiling*."
@@ -1239,7 +1241,7 @@ You can also think of how an Atari joystick is like a *small* *broom* with which
 1164,耐,"-proof",0,2022-03-22 05:43:59,"My *comb* (*{而}*) is rust-#proof#, water-#proof#, and fire-#proof#. But unfortunately it is not idiot-#proof#--and I glued it to myself."
 1165,需,"demand",0,2023-01-16 07:03:24,"Supply and demand is a simple concept: when it *rains* (*{雨}*), the demand for *combs* (*{而}*) goes up to deal with wet hair."
 1166,儒,"Confucian",0,2015-02-22 17:05:04,"No more #Confucian# jibba-jabba! Heed *Mr. T*'s *demand* (*{需}*) that you tell him why it's *raining* *combs*!"""
-1167,端,"edge",0,2012-07-18 01:11:09,"Have you ever seen those shots in movies where the hero is *standing* at the edge of a sheer *mountain* face, hair blowing in the wind? It probably wouldn't seem so heroic if you saw him ten minutes earlier, when a crew of stylists was carefully *combing* his hair so it would fall perfectly."
+1167,端,"edge",0,2025-02-28 15:32:09,"Have you ever seen those shots in movies where the hero is *standing* (*{立}*)at the edge of a sheer *mountain* (*{山}*) face, hair blowing in the wind? It probably wouldn't seem so heroic if you saw him ten minutes earlier, when a crew of stylists was carefully *combing* (*{而}*) his hair so it would fall perfectly."
 1168,両,"both",0,2012-07-18 01:23:46,"Primitives *ceiling*; *belt*; *mountain* as per Cumulative Errata. Both effective ways to commit suicide: hang your self from the *celing* with your *belt* or jump off a *mountain*"
 1169,満,"full",0,2015-08-31 07:54:29,"Add *water*, then the *flowers*. With *both* (*{両}*), the vase will be #full#."
 1170,画,"brush-stroke",0,2023-10-24 03:31:33,"You decide one day to paint a kanji on your *ceiling* (*{一}*). Unfortunately, you don’t have a brush, so, being innovative, you use a *sprout* (*{借}*). Knowing it could be messy, you search for a drop-cloth, but can’t find one. Instead, you put a *shovel* (*{凵}*) down on the floor to catch any drips resulting from the #brush stroke#s."
@@ -1479,7 +1481,7 @@ Spiderman is taking the JLPT Level 1. In desperation he REACHES OUT to grab his 
 1391,系,"lineage",0,2012-07-22 11:06:26,"(Primitive: *DNA*, a drop of looong spiraled thread that is the key to your #lineage#)."
 1392,係,"person in charge",0,2012-07-22 11:06:41,"*Mr. T* gets a *DNA* test, and discovers that he was meant to be the person in charge after all."
 1393,孫,"grandchild",0,2012-07-22 11:06:53,"Your #grandchild# is the child of your *DNA*."
-1394,懸,"suspend",0,2012-08-23 15:54:34,"The *{513}* has #suspend#ed all *DNA* research for *{595}* disease because of corruption. All involved will be #suspend#ed by their wrists."
+1394,懸,"suspend",0,2025-02-28 16:21:00,"The *prefecture* (*{県}*) has #suspend#ed all *DNA* research for *heart* *{心}* disease because of corruption. All involved will be tried (*{系}*) by their wrists and suspended."
 1395,却,"instead",0,2012-07-22 11:07:32,"[instead; on the contrary; rather]
 
 *Gone* is the time for *stamps* - use e-mail #instead#."
@@ -1495,7 +1497,7 @@ Spiderman is taking the JLPT Level 1. In desperation he REACHES OUT to grab his 
 1405,領,"jurisdiction",0,2017-09-22 05:25:42,"*order* (*{令}*) are given by the *head* person in any jurisdiction."
 1406,鈴,"small bell",0,2020-11-29 18:13:23,"Some restaurants have a small *gold* (*{金}*) bell to call someone to take customers' *orders* (*{令}*)."
 1407,勇,"courage",0,2012-07-22 15:21:55,"The initiation rite in question is actually a reverse elbow chop to the *brain*, and you receive the *chop seal* if you have the *power* to withstand it. This initial imagery helps me with the altered *chop seal* and vertical placement."
-1408,通,"traffic",0,2012-07-22 14:32:51,"I bounce down the *road* on my *pogo stick*, easily getting through the dense traffic.  (Note: New primitive: chop-seal + utilize = pogo stick. Because a *chop-seal* is long and thin with a rubbery bit at the end. If it were big enough, you could *utilize* it as a *pogo stick*). [Edit: *pogo stick* also appears in 1409, 1690, 2530]"
+1408,通,"traffic",0,2025-02-28 16:09:47,"I bounce down the *road* (*{辶}*) on my *pogo stick* (*{甬}*), easily getting through the dense traffic."
 1409,踊,"jump",0,2012-07-22 14:33:04,"The winner of the long jump competition was disqualified when they found he used a *pogo stick* tied to his *leg* to jump further."
 1410,疑,"doubt",0,2012-07-25 16:48:40,"You come at the zoo entrance.  `Here sir, a spoon to feed the animals.`  cool `and a dart(gun) in case stuff go wrong` ....` please chop-seal (sign) here for in case of accidents the zoo is not responsible.`  `lion feeding time is. bla bla`    You are having serious doubts about if you still want to go into this zoo."
 1411,擬,"mimic",0,2016-06-30 04:13:04,"I *doubt* *({疑})* that using my *fingers* to mimic rock stars on Guitar Hero will actually make me a good guitarist"
@@ -1511,7 +1513,7 @@ Spiderman is taking the JLPT Level 1. In desperation he REACHES OUT to grab his 
 1421,柳,"willow",0,2012-07-22 14:37:26,"Having decided to use SIGN OF THE HARE rather than RECEIPT and STAMP my mnemonic goes as follows:
 The WILLOW is the TREE that droops likes a HARE's ears."
 1422,卵,"egg",0,2012-07-22 14:37:38,"The *Easter Bunny* dropped an #egg# on my desk and got yolk all over my *receipts* and *stamps*."
-1423,留,"detain",0,2012-07-22 14:37:58,"Got a *receipt* for that *dagger*, son? If not, we're going to #detain# you and send you to work in the *rice fields*."
+1423,留,"detain",0,2025-02-28 16:56:26,"Got a *receipt* for that *dagger* (*{刀}*), son? If not, we're going to #detain# you and send you to work in the *rice fields* (*{田}*)."
 1424,貿,"trade",0,2021-03-15 06:10:26,"There's a buyback program where you can trade in your *sword* (*{刀}*) for *money* (*{貝}*). But it's quite ineffective, since only registered dagger-owners with the *original receipts* can participate, and not criminals with illegally-purchased daggers."
 1425,印,"stamp",0,2012-07-22 14:38:35,"before sticky backs, they had to staple stamps to letters"
 1426,興,"entertain",0,2012-07-22 14:39:01,"To me, this looks like a pictograph of a road leading to the big city (see the buildings?) where there are plenty of places to be entertained.  Unfortunately in this city, every store is the *same: staples*.  What *tools*!"
@@ -1530,7 +1532,7 @@ The WILLOW is the TREE that droops likes a HARE's ears."
 1439,尊,"revered",0,2012-07-22 14:49:59,"I drank the *Devil Whiskey* and was #revered# by all. Too bad it tasted like *glue*."
 1440,豆,"beans",0,2012-07-22 14:50:11,"If I eat BEANS, after *ONE* *MOUTHful* I fart like some kind of *HORNED ANIMAL*."
 1441,頭,"head",0,2012-07-22 14:50:54,"*Mr. Bean* has a funny #*head*#."
-1442,短,"short",0,2012-07-22 14:51:48,"*Darts* is a game which *Mr. Bean* plays very badly because he is so short."
+1442,短,"short",0,2025-02-28 16:04:42,"*Darts* (*{矢}*) is a game which *Mr. Bean* (*{豆}*) plays very badly because he is so short."
 1443,豊,"bountiful",0,2012-07-22 14:52:10,"The feast was so bountiful that it *bent* the *table* below it under its weight! いただきま〜す！"
 1444,鼓,"drum",0,2012-07-22 14:53:12,"*Mr. Bean* tries to play drums with *10* different *branches* he found on the ground."
 1445,喜,"rejoice",0,2012-07-22 14:53:42,"*Ten*  *beans* in my *mouth*!  I was starving so this small meal is enough for me to rejoice!"
@@ -1900,7 +1902,7 @@ For ""#defense# against the dark arts"" class, you go the magical *boulevard* an
 1778,租,"tariff",0,2012-08-01 16:25:59,"The EU and US impose such high tariffs on food imports that third world *wheat* (the most basic of staples) never reaches first world supermarket *shelves*."
 1779,祖,"ancestor",0,2020-12-13 15:36:26,"The ancestor worship is so common in Daoist and buddhist countries that you can buy tiny *altars* (*{礻}*) to put on the *shelves* (*{且}*), one for each deceased family member."
 1780,阻,"thwart",0,2020-11-06 17:24:30,"In a last ditch effort to #thwart# the invaders of *The Pinnacle* (*{阝}*), they push glass *shelves* over the edge onto their heads below."
-1781,査,"investigate",0,2012-08-01 16:26:55,"A whole team of cops is sent to #investigate# how a *tree* could grow on top of a *shelf* with no soil or water."
+1781,査,"investigate",0,2025-02-28 15:33:42,"A whole team of cops is sent to #investigate# how a *tree* (*{木}*) could grow on top of a *shelf* (*{且}*) with no soil or water."
 1782,助,"help",0,2020-10-28 11:31:47,"HELP! Someone's pinned under this *shelf* (*{且}*) and it's going to take a lot of muscle *power* (*{力}*) to lift it off!"
 1783,宜,"best regards",0,2012-08-01 17:06:46,"It seems like every time my Japanese friends send me their best regards, they accompany them with a gift. Over time, I've gotten so many that I had to buy a *house* which contains nothing but several fancy *shelves*. Each shelf is dedicated to a certain friend of mine and contains every last one of their presents."
 1784,畳,"tatami mat",0,2012-08-01 16:28:12,"the king is peacefully sleeping on his new tatami mat when all of a sudden a shelf falls over and kills him.  You can see his crown poking out and the brains splatter out the top of his head from all the pressure"
@@ -2241,12 +2243,19 @@ Also known as ""angel*"
 2122,伎,"performing artist",0,2016-09-25 05:41:24,"*Mr T* is singing and dancing and all that, but he's doing it on a *branch* (*{支}*). 
 
 (note: this is the 'ki' from kabuki).//The performing artist is a Mr T doing Kabuki theatre."
+2131,倅,"my son",0,2025-03-01 09:56:11,"""My son"", sniffs *Mr. T* (*{亻}*), ""I'm so glad that you are now a college *graduate*"" (*{貫}*) he said."
+2132,做,"make do",0,2025-03-01 09:58:07,"*Mr. T* (*{亻}*) doesn't rely on *happenstance* (*{故}*), he #makes# things #do# what he wants. 
+
+Note that the meaning of this (rare) kanji is ""make (something) / do (something)"", not ""get by with""."
 2133,凄,"nifty",0,2015-10-19 19:10:32,"His *wife* (*{妻}*) has a nifty way of making all types of *ice* cream in her home freezer."
+2135,凋,"wilt",0,2025-03-01 09:59:19,"Plants wilt, wither and die when *ice* (*{冫}*) envelopes the *circumference* (*{周}*) of their roots."
 2140,凪,"lull",0,2023-04-11 17:22:50,"A lull in a storm occurs when the *wind* (*{几}*) *stops* (*{止}*)."
 2145,剥,"peel off",0,2020-11-05 16:58:40,"Once again my roommate didn't use a *broom* (*{录}*) to clean up the *rice* (*{米}*) he left all over the kitchen. It must be done. I have no other choice. I proceeded to #PEEL OFF# his door from the hinges and threaten him with a *saber* (*{刂}*)."
 2147,匂,"aroma",0,2016-09-16 08:51:30,"The aroma of any delicacy is *bound up* in a *spoon* (*{匕}*)."
 2149,厭,"despondent",0,2021-04-01 17:34:59,"The poor *chihuahua* (*{犬}*) who had fallen down a *cliff* (*{厂}*) was totally despondent about his position. He saw the *sun* (*{日}*) and the *moon* (*{月}*) pass by, but expected no rescue any more."
 2153,仄,"insinuate",0,2020-11-03 17:29:01,"I imagine seeing an #indistinct# outline of a *person* (*{人}*) falling off a *cliff* (*{厂}*) in the distance. You could barely make out what happened. Did they jump off? Were they pushed? You're not sure, but either #insinuation# is scary."
+2155,嘲,"derision",0,2025-03-01 10:03:38,"I opened my *mouth* (*{口}*) in the *morning* (*{朝}*) and had such bad breath, I faced derision ..."
+2156,咎,"reprehend",0,2025-03-01 10:04:55,"*Each* (*{各}*) time I see this kanji I reprehend the *person* (*{亻}*) primitive for knocking the *each* (*{各}*) primitive out of shape."
 2157,囁,"whisper",0,2020-11-23 05:50:41,"it's funny how if I just talk, no one listens, but if I whisper, *many ears* (*{耳}*)  are eager to hear what's coming from my *mouth* (*{口}*)."
 2158,喋,"chatter",0,2014-11-08 11:00:49,"People who protest against deforestation do nothing but chatter with their *{11}* for *{28}* about the TREES being cut down. They don't really take action..."
 2160,嘩,"quarrel",0,2017-07-25 05:05:00,"The quarrel is over whose *mouth* (*{口}*) has more *splendor* (*{華}*)."
@@ -2417,7 +2426,7 @@ Note: {暇} 暇 - 日 = 叚 so I suppose *hobby* is a diminutive of *spare time*
 2815,鮭,"salmon",0,2017-09-14 07:31:39,"SALMON are *fish* (*{魚}*) that swim upstream to higher ground (*soil* (*{土}*) piled on soil) to spawn."
 2825,鮒,"crucian carp",0,2017-09-14 07:27:11,"Crucian carp (ふな) is a freshwater fish most well known for its  use in 鮒鮓 (ふなずし) which is an ancient forerunner to modern sushi.The fish is salted and allowed to ferment over a period of months. STORY: The crucian chefs prepare the *fish* for funazushi by *adhering* to the ancient ways. Note: This old way of preserving fish, known generally as なれずし (馴れ鮓 or 熟れ鮓), uses a rare kanji for すし - {鮓} 鮓"
 2836,鳶,"black kite",0,2015-02-17 14:39:33,"The kite falcon is a majestic *bird* that flies in the sky as fast as an *arrow*. So much so that its feathers are often used to make arrows."
-2839,麓,"foot of a mountain",0,2022-03-04 11:43:17,"There's lots of *deer* (*{鹿}*) in the *grove* (*{林}*) at the #foot of the mountain# (麓)."
+2839,麓,"foot of a mountain",0,2025-02-28 16:18:32,"In the *grove* (*{林}*) at the #foot of the mountain#, there's lots of *deer* (*{鹿}*)"
 2846,朔,"first day of the month",0,2012-08-05 03:21:40,"On the first day of the month a mountain goat lets out a ""Baah"" as it jumps over the moon."
 2850,彗,"comet",0,2016-01-12 15:02:44,"Having *2 Bushes* for president hurt like a comet hitting the planet and it'll take more than a *broom* to clean it up."
 2862,歪,"warped",0,2017-11-22 04:26:33,"In the debate, your political opponent's has such a #warped# sense of perspective, that he believes the *negative* (*{不}*) is actually *correct* (*{正}*)."
@@ -2478,7 +2487,10 @@ The official announces a #decree# waving a *finger* {扌} to show he is *determi
 19991,丗,"thirty",0,2025-02-26 07:04:27,"[(*{十}*)] is 10.
 [(*{十}*)] + [(*{十}*)] = [(*{廿}*)]
 [(*{十}*)] + [(*{十}*)] + [(*{十}*)] = 丗"
-20022,丶,"drop",0,2025-02-26 07:09:24,"[ #a drop of# (primitive) ] - radical 3: dot  (てん, 点)"
+20012,丬,"turtle",0,2025-03-01 09:53:04,"Simplification of {爿} (radical no. 90). 
+
+Could be seen as *ice* (*{冫}*) plus *stick* ( |) leading to ""icy stick*."
+20022,丶,"drop primitive",0,2025-03-01 10:17:33,"[ #a drop of# (primitive) ] - radical 3: dot  (てん, 点)"
 20039,乇,"lock of hair",0,2025-02-24 06:20:48,"A combination of *thousand* (*{千}*) and *seven* (*{七}*)."
 20058,乚,"hook",0,2025-02-24 10:15:29,"#hook# I'm calling this ""L"" (from Death Note) or ""Loser"", it looks like an L after all. Variant of Variant of 乙 (#71) radical 5."
 20128,亠,"top hat",0,2025-02-20 07:41:38,"TOP HAT primitive. NB: actually it's a pictograph of a kettle lid. But you will be able to make much better stories with a hat than with a lid."
@@ -2486,6 +2498,7 @@ The official announces a #decree# waving a *finger* {扌} to show he is *determi
 20134,亦,"apple",0,2024-10-04 16:30:59,"#again and again#: Plant an apple tree and you'll have *apples* #again and again#!"
 20156,亼,"meeting",0,2025-02-19 12:50:49,"MEET/MEETING primitive."
 20358,來,"come [old]",0,2021-04-09 04:23:03,"#The old kanji for 'come'# looks a lot like the new one (*{来}*), just a bit 'older' somehow. This probably because it was put together on using outdated technology: a *wooden assembly line* (*{木}*), to be exact."
+20376,侘,"alone",0,2025-02-28 15:27:06,"#alone#: Mr. T (*{亻}*), alone in his home (*{宅}*), every night after a tough day at work. He really does have a sad life away from the A. Team."
 20446,俞,"meeting of butchers",0,2025-02-19 12:51:18,"A meeting (*{亼}*) of butchers (*{刖}*)."
 20760,儘,"as it is",0,2025-02-24 16:52:22,"For *Mr T*  he must have done his utmost.
 
@@ -2517,6 +2530,11 @@ Pictograph of a *bucket* or *shovel*."
 21831,啇,"antique",0,2025-02-27 15:08:45,"*vase* (*{立}*) + *glass case* (*{冂}*) + *old* (*{古}*)= antique"
 21951,喿,"furniture",0,2024-03-18 17:47:42,"Furniture is a sort of *good* (*{品}*) that is *wooden* (*{木}*)."
 22094,噎,"choke up",0,2025-02-24 09:34:42,"Open your *mouth* (*{口}*) properly, before eating the OLD I (one) (*{壹}*), or you'll #choke up#."
+22309,圥,"rice seedling",0,2025-03-01 10:01:51,"Rare kanji meaning mushroom. Since there's already a kanji for mushroom {茸}, we'll preempt confusion by naming this primitive '#Goomba#' from the Mario series. This character serves as a convenient pictograph, the *body* 土 and *legs* 儿.
+
+Group: Goomba {圥}, Mushroom Kingdom {坴}, Mario {埶}, Toad {夌}.
+
+Goomba (primitive) {圥} appears in Mushroom Kingdom (primitive) {坴}, Toad (primitive) {夌}."
 22467,埃,"dusty",0,2015-01-21 15:19:41,"Walking along a dusty, *dirty* hallway in a pyramid in Egypt, you accidentally set off a booby trap with your *elbow*, sending poison *darts* flying in your direction.
 
 This is the kanji used for ほこり (dust)."
@@ -2550,7 +2568,9 @@ Pictographic representation of a sun that rises and expands over the horizon lik
 
 明晰 (めいせき) - clear; distinct
 明晰夢 (めいせきむ) - lucid dream"
-26359,曷,"siesta",0,2025-02-26 14:52:10,"This is a person ((*{人}*) or 匕) in a #cottage# protected (*{勹}*) from the sun (*{日}*)."
+26359,曷,"siesta",0,2025-02-28 13:03:14,"The quintessential siesta: a muchacho (*{人}*) is *sitting*  (*{匕}*)) against a wall (the L-shape), *bound up*  (*{勹}*)  in his serape and covered by his gigantic mariachi hat that covers his entire face under the scorching *sun* (*{日}*).
+
+Note: *aroma*  (*{匂}*)"
 26604,柬,"pick out",0,2020-10-24 16:32:45,"From a *bundle* (*{束}*), I #pick out# *two drops* (丶) as a selection of our best products"
 27513,歹,"bone",0,2021-12-14 14:48:52,"*One* (*{一}*) *evening*(*{夕}*) was all it took for my #bones# to set."
 27631,毯,"carpet",0,2020-11-17 16:18:32,"Rubbing the carpet against the *fur* (*{毛}*) leads to *inflammation* (*{炎}*)."
@@ -2566,8 +2586,12 @@ You decide to go salmon fishing, so you ride a *mountain goat* (*{朔}*) to the 
 29232,爰,"migrating ducks",0,2025-02-26 13:25:01,"Migrating ducks stick together like the best of friends, flying together as one (fifth stroke), they are not easy prey for the vultures.
 
 Parts: ⺤ , (*{一}*), (*{友}*)"
+29247,爿,"split wood",0,2025-03-01 09:50:13,"This is radical 90 with the meaning split wood.  Its variant is *turtle* (*{丬}*)
+
+(left-side kata radical (no. 90))"
 29357,犭,"wild dog",0,2025-02-24 10:22:24,"A dog lying down with its arms,legs, and tail showing."
 29519,獏,"baku",0,2025-02-26 17:30:30,"Old hyougai kanji that refers to a tarpir, and also to the mythological #baku# (on which the Pokémon Drowzee is based, incidently). Built out of *wild dog* (*{犭}*) and *graveyard*(*{莫}*}."
+29996,甬,"pogo stick",0,2025-02-28 16:08:46,"Device was approved by a CHOP-SEAL マ to be *utilised* (*{用}*) as a #pogo stick#."
 30032,畐,"wealth",0,2024-02-23 14:31:40,"#WEALTH# in Japan is interpreted as having a whole *rice field* 田 for just *one* 一 *mouth* 口. cf {富}"
 30836,硴,"oyster shell",0,2017-09-14 07:28:42,"#oyster shell#: People used to think that #oyster shells# on the shore were petals of *stone* (*{石}*) *flower* (*{花}*) from the deep."
 31035,礻,"altar",0,2025-02-26 14:54:25,"""ね, do you believe in gods?"" (katakana ネ ""Ne"")."
@@ -2588,6 +2612,9 @@ Parts: ⺤ , (*{一}*), (*{友}*)"
 
 Meaning: false, punish, crime, law"
 36790,辶,"road primitive",0,2025-02-26 13:10:14,"Road primitive"
+36953,遙,"far off [old]",0,2025-02-28 17:00:12,"Story for *old condor*: In the olden days, *condors* were poached for the *tin can* (*{缶}*) *flesh* (*{月}*) trade on the *road* (*{辶}*).
+
+ #far off [old]#: On the long long *road* (*{辶}*) through the desert, #far off# you can see a *condor* flying..."
 36989,遽,"haste",0,2025-02-26 13:10:21,"Make #haste#! *wild boar* (*{豦}*) detected on the *road* {辶}!"
 37318,釆,"animal tracks",0,2023-07-04 03:37:32,"Hansel and Gretel were walking through the woods, placing drops (㇒) of rice (*{米}*) to mark their path. But when they turned back, all they saw were animal tracks."
 38287,閏,"leap year",0,2020-10-27 19:21:08,"Every #leap year#, Bill *Gates* (*{門}*) tries to become a KING (*{王}*)."
