@@ -2902,6 +2902,7 @@ class KD
     "flirt" => Kanji.new(23194, 23194, ["BI"], ["ko.biru"], [""], ["flirt"], 0, 0),
     "fledgling" => Kanji.new(23386, 23386, ["FU"], ["tamago","haguku.mu"], [""], ["fledgling"], 0, 0),
     "hatch" => Kanji.new(23413, 23413, ["FU"], ["kae.su"], [""], ["hatch"], 0, 0),
+    "house*primitive" => Kanji.new(23424, 23424, ["BEN","MEN"], [""], [""], ["house primitive"], 0, 0),
     "pup*tent" => Kanji.new(23582, 23582, ["RYOU"], ["kagaribi"], [""], ["pup tent"], 0, 0),
     "baby*mountain*goat" => Kanji.new(23662, 23662, ["TETSU","SA"], ["hidarite"], [""], ["baby mountain goat"], 0, 0),
     "towering" => Kanji.new(23769, 23769, ["JI"], ["sobada.tsu"], [""], ["towering"], 0, 0),
