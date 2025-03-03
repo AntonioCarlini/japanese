@@ -3046,6 +3046,7 @@
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
 21353 :  0x5369 :  : SETSU : warifu : : {postage stamp} : :
+21378 :  0x5382 :  : KAN : karigane : : {cliff} : :
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21599 :  0x555f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
@@ -3068,9 +3069,11 @@
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
+24191 :  0x5e7f :  : GEN  :  : : {cave} : :
 24308 :  0x5ef4 :  : IN :  : : {stretch primitive} : :
 24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
+24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
 25096 :  0x6208 :  : KA : hoko hokodukuri : : {fiesta} : : 
 25098 :  0x620a :  : BO BOU : tsuchinoe : : {parade} : : 
 25100 :  0x620c :  : JYUTSU : inu : : {march} : :
@@ -3107,6 +3110,7 @@
 33401 :  0x8279 :  :  :  : : {flower primitive} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
 34916 :  0x8864 :  :  : koromu : : {cloak} : : 
+35925 :  0x8c55 :  :  SHI :  : : {sow (female pig)} : :
 35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
 35960 :  0x8c78 :  : TAI CHI :  : : {skunk} : : 
 36555 :  0x8ecb :  : ATSU : kishi.ru kishi.ku : : {squeek} : : 
