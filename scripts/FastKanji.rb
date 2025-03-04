@@ -2666,7 +2666,7 @@ class KD
     "flash" => Kanji.new(2774, 38275, ["SEN"], ["hirame.ku","hirame.ki","ukaga.u"], [""], ["flash","brandish"], 9, 0),
     "be*in*agony" => Kanji.new(2775, 24758, ["MON"], ["moda.eru","modae.ru"], [""], ["be in agony","worry"], 0, 0),
     "small*side*gate" => Kanji.new(2776, 38308, ["KOU"], ["kugurido"], [""], ["small side gate"], 9, 0),
-    "get*dark" => Kanji.new(2777, 38343, ["AN","ON"], ["yami","kura.i"], [""], ["get dark","gloom","disorder"], 8, 0),
+    "pitch*dark" => Kanji.new(2777, 38343, ["AN","ON"], ["yami","kura.i"], [""], ["pitch dark","get dark","gloom","disorder"], 8, 0),
     "drop" => Kanji.new(2778, 38635, ["DA"], ["shizuku"], [""], ["drop","trickle","dripping","(kokuji)"], 9, 0),
     "haze" => Kanji.new(2779, 38686, ["KA","GE"], ["kasumi","kasu.mu"], [""], ["haze","be hazy","grow dim","blurred"], 9, 1),
     "letter" => Kanji.new(2780, 32752, ["KAN"], ["hane","fude","yamadori","fumi"], [""], ["letter","writing brush"], 0, 0),
