@@ -8,6 +8,13 @@ require 'Kanji.rb'
 MIN_EXPECTED_FIELDS = 8
 MAX_EXPECTED_FIELDS = 9
 
+# I don't know what the range of Heisig frame numbers is on koohii.com.
+# 3030 is a valid frame, 3031 is not. The next frame # I've found that works
+# is 19970, but that's well beyond the Heisig range.
+# So I've picked a conservative upper limit. Anything above this is taken
+# to be a Unicode number.
+MAX_HEISIG_FRAME_NUM = 4000
+
 #+
 # Provide support for reading data about a collection of kanji from a data file.
 #-
@@ -91,7 +98,8 @@ class DataKanji
     }
 
     line_num = 0
-    kanji_read = 0
+    kanji_read = 0     # Number of kanji read so far
+    last_heisig_frame_read = 0
     IO.read(filename).each_line() {
       |line|
       line_num += 1
@@ -110,8 +118,8 @@ class DataKanji
           $stderr.puts("FATAL wrong number of fields (saw #{fields.count()} expected #{MIn_EXPECTED_FIELDS}-#{MAX_EXPECTED_FIELDS} for line ##{line_num} [#{line}] in #{filename}]")
           fatal_seen = true
         end
-        heisig = fields.shift().to_i()
-        unicode = fields.shift().to_i(16)
+        heisig = fields.shift().to_i()       # Heisig frame number (or Unicode value ?)
+        unicode = fields.shift().to_i(16)    # Kanji Unicode value, in hex
 
         keywords = fields.shift().split(' ') # split keywords on space boundaries
 
@@ -124,6 +132,21 @@ class DataKanji
       
         grade = fields.shift().to_i()
         jlpt = fields.shift().to_i()
+
+        # Quick sanity checks.
+        
+        # Beyond the Heisig frame number (i.e. anything beyond MAX_HEISIG_FRAME_NUM)
+        # heisig and unicode must match.
+        if heisig > MAX_HEISIG_FRAME_NUM
+          raise("Heisig frame #{heisig} does not match Unicode #{unicode} on line #{line_num}") if heisig != unicode
+        end
+
+        # The heisig frame numbers should be monotonically increasing.
+        # This isn't strictly necessary, but it helps keep the source file organised.
+        # It also means there is no need to check for duplicate frame numbers as they cannot happen.
+        raise("Heisig frame #{heisig} is not greater than previous frame #{last_heisig_frame_read}") if heisig <= last_heisig_frame_read
+        last_heisig_frame_read = heisig
+        
       rescue => e
         $stderr.puts("Error: #{e.class} - #{e.message}")
         $stderr.puts e.backtrace().first()
