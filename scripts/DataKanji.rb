@@ -8,28 +8,28 @@ require 'Kanji.rb'
 MIN_EXPECTED_FIELDS = 8
 MAX_EXPECTED_FIELDS = 9
 
+#+
+# Provide support for reading data about a collection of kanji from a file.
+#
+#
+# The file format is a number of fields separated by ":" characters:
+# The fields (in order) are:
+# - Heisig index
+# - unicode (0xNNNN)
+# - a sequence of unique keywords separated by spaces (each keyword uniquely identfies this kanji)
+# - a sequence of romanised onyomi separated by spaces
+# - a sequence of romanised kunyomi separated by spaces
+# - a sequence of romanised nanori separated by spaces
+# - a sequence of english meanings, each enclosed in {}
+# - grade in Japanese school when this kanji is learned
+# - JLPG grade (old style, 1-4)
+
 # I don't know what the range of Heisig frame numbers is on koohii.com.
 # 3030 is a valid frame, 3031 is not. The next frame # I've found that works
 # is 19970, but that's well beyond the Heisig range.
 # So I've picked a conservative upper limit. Anything above this is taken
 # to be a Unicode number.
 MAX_HEISIG_FRAME_NUM = 4000
-
-#+
-# Provide support for reading data about a collection of kanji from a data file.
-#-
-
-# The file format is a number of fields separated by ":" characters:
-# The fields (in order) are:
-# - Heisig index
-# - unicode (0xNNNN)
-# - grade in Japanese school when this kanji is learned
-# - a sequence of unique keywords separated by spaces (each keyword uniquely identfies this kanji)
-# - a sequence of romanised onyomi separated by spaces
-# - a sequence of romanised kunyomi separated by spaces
-# - a sequence of romanised nanori separated by spaces
-# - a sequence of english meanings, each enclosed in {}
-#
 
 class DataKanji
 
@@ -112,6 +112,7 @@ class DataKanji
       # Skip commented out lines
       next if line =~ /^ \s+ #/
 
+      # handle the parsing in a block so that 'rescue' can catch any parsing failures
       begin
         fields = line.split(':')
         if (fields.count() < MIN_EXPECTED_FIELDS) || (fields.count() > MAX_EXPECTED_FIELDS)
@@ -133,20 +134,6 @@ class DataKanji
         grade = fields.shift().to_i()
         jlpt = fields.shift().to_i()
 
-        # Quick sanity checks.
-        
-        # Beyond the Heisig frame number (i.e. anything beyond MAX_HEISIG_FRAME_NUM)
-        # heisig and unicode must match.
-        if heisig > MAX_HEISIG_FRAME_NUM
-          raise("Heisig frame #{heisig} does not match Unicode #{unicode} on line #{line_num}") if heisig != unicode
-        end
-
-        # The heisig frame numbers should be monotonically increasing.
-        # This isn't strictly necessary, but it helps keep the source file organised.
-        # It also means there is no need to check for duplicate frame numbers as they cannot happen.
-        raise("Heisig frame #{heisig} is not greater than previous frame #{last_heisig_frame_read}") if heisig <= last_heisig_frame_read
-        last_heisig_frame_read = heisig
-        
       rescue => e
         $stderr.puts("Error: #{e.class} - #{e.message}")
         $stderr.puts e.backtrace().first()
@@ -155,6 +142,20 @@ class DataKanji
         next
       end
       
+      # Quick sanity checks.
+        
+      # Beyond the Heisig frame number (i.e. anything beyond MAX_HEISIG_FRAME_NUM)
+      # heisig and unicode must match.
+      if heisig > MAX_HEISIG_FRAME_NUM
+        raise("Heisig frame #{heisig} does not match Unicode #{unicode} on line #{line_num}") if heisig != unicode
+      end
+
+      # The heisig frame numbers should be monotonically increasing.
+      # This isn't strictly necessary, but it helps keep the source file organised.
+      # It also means there is no need to check for duplicate frame numbers as they cannot happen.
+      raise("Heisig frame #{heisig} is not greater than previous frame #{last_heisig_frame_read}") if heisig <= last_heisig_frame_read
+      last_heisig_frame_read = heisig
+        
       # Keep the kanji in an array, ordered as they come from the data file
       k = Kanji.new(heisig, unicode, onyomi, kunyomi, nanori, meanings, grade, jlpt)
       keywords.each() { |word| k.add_reading(word) }
