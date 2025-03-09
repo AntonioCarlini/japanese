@@ -2229,8 +2229,8 @@
  2229 :  0x5d4c :  :  KAN :  ha.meru ha.maru ana :   :  {fit into} {go into} {plunge} {inlay} :   :  
  2230 :  0x5d6f :  :  SA SHI :   :   :  {steep} {craggy} {rugged} :  9 :  1
  2231 :  0x5e16 : kakimono :  CHYOU JOU :  kakimono :   :  {black soil} {quire (of paper)} {bundle of seaweed} {counter for screens} {notebook} :  9 :  
- 2232 :  0x5e61 :  :  MAN HAN BAN HON :  hata :  ha wata :  {flag} :  9 :  
- 2233 :  0x5e5f : nobori :  SHI :  nobori :   :  {flag} {banner} {streamer} :   :  
+ 2232 :  0x5e61 :  :  MAN HAN BAN HON :  hata :  ha wata :  {banner} {flag} :  9 :  
+ 2233 :  0x5e5f : nobori :  SHI :  nobori :   :  {pennant} {flag} {banner} {streamer} :   :  
  2234 :  0x5e96 :  :  HOU :  kuriya :   :  {kitchen} :   :  
  2235 :  0x5ed3 :  :  KAKU :  kuruwa toride :   :  {enclosure} {quarter} {red-light district} :   :  
  2236 :  0x5e87 : kaba.u :  HI :  hisashi oo.u kaba.u :   :  {protect} {shield} {defend} {eaves} {canopy} {penthouse} {visor} :  9 :  
@@ -3024,6 +3024,7 @@
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20039 :  0x4e47 : : TAKU CHAKU : : : {lock of hair} : : 
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
+20110 :  0x4e8e :  : U KU : kokoni aa oite ni yori wo  : : {potato primitive} : :
 20128 :  0x4ea0 :  :  : tou : : {top hat} : : 
 20130 :  0x4ea2 :  : KOU : takaburu : : {whirlwind} : :
 20156 :  0x4ebc :  : SHUU JUU : atsumaru : : {meeting primitive} : : 
@@ -3043,10 +3044,12 @@
 20994 :  0x5202 :  : TOU :  : : {sabre} : :
 21014 :  0x5216 : ki.ru : GETSU GECHI GOTSU GOCHI : ki.ru ayau.i : : {butcher} : : 
 21241 :  0x52f9 : tsutsu.mu : HOU : tsutsu.mu : : {bound up} : : 
+21274 :  0x531a :  : HOU :  : : {cardboard box} : :
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
 21353 :  0x5369 :  : SETSU : warifu : : {postage stamp} : :
 21378 :  0x5382 :  : KAN : karigane : : {cliff} : :
+21430 :  0x53b6 :  : SHI BOU MU : watakushi goza.ru : : {elbow primitive} : :
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21599 :  0x545f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
@@ -3068,6 +3071,7 @@
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
 23424 :  0x5b80 :  : BEN MEN :  : : {house primitive} : :
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
+23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
 24191 :  0x5e7f :  : GEN  :  : : {cave} : :
@@ -3106,6 +3110,7 @@
 30836 :  0x7874 :  : KAKI :  : : {oyster shell} : : 
 30844 :  0x787c :  : HOU :  : : {boron} : :
 31035 :  0x793b :  : SHI :  : : {altar} : : 
+31166 :  0x79be :  : KA : inu : : {wheat} : :
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
 31744 :  0x7c00 :  : SAKU JAKU SEKI : su  : : {bamboo mat} : : 
 31933 :  0x7cbd :  : SOU : chimaki : : {bamboo wrapped dumpling} : : 
