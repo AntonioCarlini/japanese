@@ -2945,6 +2945,7 @@ class KD
     "wild*dog" => Kanji.new(29357, 29357, [""], [""], [""], ["wild dog"], 0, 0),
     "baku" => Kanji.new(29519, 29519, ["BAKU","MYAKU"], [""], [""], ["baku"], 0, 0),
     "pogo*stick" => Kanji.new(29996, 29996, ["YOU"], [""], [""], ["pogo stick"], 0, 0),
+    "caveman" => Kanji.new(30098, 30098, ["DAKU","NYAKU","SOU","JOU","SHITSU"], ["ya.mu"], [""], ["caveman"], 0, 0),
     "arsenic" => Kanji.new(30738, 30738, ["HI","HEI"], [""], [""], ["arsenic"], 0, 0),
     "oyster*shell" => Kanji.new(30836, 30836, ["KAKI"], [""], [""], ["oyster shell"], 0, 0),
     "boron" => Kanji.new(30844, 30844, ["HOU"], [""], [""], ["boron"], 0, 0),
