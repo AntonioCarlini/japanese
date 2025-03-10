@@ -2087,7 +2087,7 @@
  2087 :  0x5c24 :  :  YUU :  moto.mo toga.meru :   :  {understandably} {reasonable} {just} {natural} {superb} {outstanding} {plausible} :  9 :  
  2088 :  0x7a3d :  :  KEI :  kanga.eru todo.meru :   : {training} {think} {consider} :  8 :  
  2089 :  0x5396 :  :  BOU :  ooki.i :   : {immense} {large} {mix} :   :  
- 2090 :  0x91c7 : irodori :  SAI :  to.ru irodori :   :  {dice} {form} {appearance} {take} {coloring} :  8 :  1
+ 2090 :  0x91c7 : irodori :  SAI :  to.ru irodori :   :  {grab} {dice} {form} {appearance} {take} {coloring} :  8 :  1
  2091 :  0x6216 : arui aruiha :  WAKU KOKU IKI :  a.ru arui aruiha :   :  {some} {one} {or} {possibly} {a certain} :  9 :  
  2092 :  0x65ac :  :  ZAN SAN SEN ZEN :  ki.ru :   :  {chop off} {beheading} {kill} {murder} :  8 :  
  2093 :  0x514e : usagi :  TO TSU :  usagi :   :  {rabbit} {hare} :  9 :  
@@ -3018,6 +3018,8 @@
  3028 :  0x7c60 :  : ROU RU  : kago ko.meru komo.ru ko.mu  : : {cage (Joyo version)} : :
  3029 :  0x7f9e :  : SHUU : haji.ru susume.ru ha.zukashii  : : {humiliate} : :
  3030 :  0x9b31 :  : UTSU : uxtsu.ru fusa.gu shige.ru : : {gloom} : :
+19970 :  0x4e02 :  : KOU : samata.gerareru : : {slingshot} : :
+19989 :  0x4e15 :  : HI : oo.kii : : {glorious} : :
 19991 :  0x4e17 :  : SEI SE SOU : yo sanjuu : : {thirty} : : 
 20012 :  0x4e2c :  :  :  : : {turtle} : :
 20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
@@ -3074,9 +3076,11 @@
 23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
+24182 :  0x5e76 :  : HEI HYOU : awa.seru nara.bu : : {puzzle} : :
 24191 :  0x5e7f :  : GEN  :  : : {cave} : :
 24308 :  0x5ef4 :  : IN :  : : {stretch primitive} : :
 24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
+24320 :  0x5f00 :  :  :  : : {both hands} : :
 24343 :  0x5f17 :  : FUSTU HOCHI : doru zu : : {dollar} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
@@ -3121,6 +3125,7 @@
 33401 :  0x8279 :  :  :  : : {flower primitive} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
 34916 :  0x8864 :  :  : koromu : : {cloak} : : 
+35200 :  0x8980 :  :  :  : : {old west} : :
 35925 :  0x8c55 :  :  SHI :  : : {sow (female pig)} : :
 35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
 35960 :  0x8c78 :  : TAI CHI :  : : {skunk} : : 
