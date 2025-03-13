@@ -2756,7 +2756,7 @@ class KD
     "manchu*dynasty" => Kanji.new(2877, 31206, ["SHIN"], ["hata"], ["tai","hada","yasu"], ["Manchu dynasty","name given to naturalized foreigners"], 9, 1),
     "sparrow" => Kanji.new(2878, 38592, ["JAKU","JAN","SAKU","SHYAKU"], ["suzume"], ["zaku"], ["sparrow"], 9, 0),
     "falcon" => Kanji.new(2879, 38588, ["SHYUN","JUN"], ["hayabusa"], ["haya"], ["falcon"], 9, 1),
-    "grieve" => Kanji.new(2882, 25114, ["SOKU","SEKI"], ["ita.mu","ure.eru","miuchi"], [""], ["grieve"], 8, 0),
+    "relatives" => Kanji.new(2882, 25114, ["SOKU","SEKI"], ["ita.mu","ure.eru","miuchi"], [""], ["relatives","grieve"], 8, 0),
     "pouch" => Kanji.new(2883, 22178, ["NOU","DOU"], ["fukuro"], [""], ["pouch","purse","bag"], 0, 0),
     "donburi" => Kanji.new(2884, 20028, ["TON","TAN","SHYOU","SEI"], ["donburi"], [""], ["donburi","bowl","bowl of food"], 8, 0),
     "carefree" => Kanji.new(2885, 26274, ["CHYOU"], ["nobi.ru"], ["itaru","nobu","noburu","naga","touru","tooru","nori","masa","mitsuru","you"], ["carefree","stretch"], 9, 1),
