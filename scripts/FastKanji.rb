@@ -2937,6 +2937,7 @@ class KD
     "clearly" => Kanji.new(26224, 26224, ["SHAKU","SEKI"], ["akiraka"], [""], ["clearly"], 0, 0),
     "siesta" => Kanji.new(26359, 26359, ["KATSU"], ["nanzo","itsu","izukun","zo","nani"], [""], ["siesta"], 0, 0),
     "pick*out" => Kanji.new(26604, 26604, ["KAN","KEN"], ["era.bu"], [""], ["pick out"], 0, 0),
+    "missile" => Kanji.new(27571, 27571, ["SHU"], ["mata","hoka"], [""], ["missile"], 0, 0),
     "carpet" => Kanji.new(27631, 27631, ["TAN"], [""], [""], ["carpet"], 0, 0),
     "permeate" => Kanji.new(27777, 27777, ["SHIN"], ["shi.miru"], [""], ["permeate"], 0, 0),
     "go*upstream*(alternate)" => Kanji.new(28335, 28335, ["SO","SAKU"], ["sakanobo.ru"], [""], ["go upstream (alternate)"], 0, 0),
