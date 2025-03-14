@@ -167,6 +167,7 @@ JHTML_SRCS += grammar-iu-made-mo-nai.jhtml
 JHTML_SRCS += grammar-iwaba.jhtml
 JHTML_SRCS += grammar-iwayuru.jhtml
 JHTML_SRCS += grammar-iza-shirazu.jhtml
+JHTML_SRCS += grammar-japanese-names.jhtml
 JHTML_SRCS += grammar-jibun.jhtml
 JHTML_SRCS += grammar-jitai.jhtml
 JHTML_SRCS += grammar-jou.jhtml

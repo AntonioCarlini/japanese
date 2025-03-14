@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Verb Conjugations</title>
+<link rel="stylesheet" type="text/css" href="japanese.css"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+@GRMIDX{{index="Names" grammar="Names"}}
+
+<body>
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Reading</th>
+    <th>Category</th>
+    <th>Notes</th>
+  </tr>
+  <!-- Given Names -->
+  <tr><td>@KJ{{autumn^child}}</td><td>@HI{{aki}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{flourish^plump}}</td><td>@HI{{eita}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{one^son}}</td><td>@HI{{ichirou}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{add^Nara^child}}</td><td>@HI{{kanako}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{healthy^one}}</td><td>@HI{{ken'ichi}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{correct}}</td><td>@HI{{tadashi}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{accomplished^est}}</td><td>@HI{{tatsuya}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{warrior^history}}</td><td>@HI{{takeshi}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{profit^child}}</td><td>@HI{{toshiko}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{summer^eye^gargle^stone}}</td><td>@HI{{natsumesouseki}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{springtime^timber-trees}}</td><td>@HI{{haruki}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{wide*expanse}}</td><td>@HI{{hiroshi}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{beauty^chronicle}}</td><td>@HI{{miki}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{beauty^wisdom}}</td><td>@HI{{michiko}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{true^know^child}}</td><td>@HI{{machiko}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{pear*tree^flower}}</td><td>@HI{{rika}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{good^child}}</td><td>@HI{{yoshiko}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@KJ{{snow^creek}}</td><td>@HI{{yukie}}</td><td>Given name</td><td></td></tr>
+  <tr><td>@HI{{yuki}}@KJ{{child}}</td><td>@HI{{yuki}}@KJ{{child}}</td><td>Given name</td><td>No kanji provided</td></tr>
+  <!-- Family Names -->
+  <tr><td>@KJ{{large^plains}}</td><td>@HI{{oono}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{tree^town}}</td><td>@HI{{kimura}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{tree^town}}</td><td>@HI{{kimura}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{slope^book}}</td><td>@HI{{sakamoto}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{small*bell^tree}}</td><td>@HI{{suzuki}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{tall^bridge}}</td><td>@HI{{takahashi}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{rice*field^town}}</td><td>@HI{{tamura}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{inside^wisteria}}</td><td>@HI{{naitou}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{bridge^book}}</td><td>@HI{{hashimoto}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{ditch}}</td><td>@HI{{hori}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{pine*tree^book}}</td><td>@HI{{matsumoto}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{mountain^stream}}</td><td>@HI{{yamakawa}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{mountain^beach}}</td><td>@HI{{yamagishi}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{mountain^below}}</td><td>@HI{{yamashita}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{good*luck^mount}}</td><td>@HI{{yoshioka}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{good*luck^mount}}</td><td>@HI{{yoshioka}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{good*luck^rice*field}}</td><td>@HI{{yoshida}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{good*luck^book}}</td><td>@HI{{yoshimoto}}</td><td>Family name</td><td></td></tr>
+  <tr><td>@KJ{{rice^godown}}</td><td>@HI{{yonekura}}</td><td>Family name</td><td></td></tr>
+  <!-- Place Names -->
+  <tr><td>@KJ{{astringent^valley}}</td><td>@HI{{shibuya}}</td><td>Place name</td><td></td></tr>
+  <tr><td>@KJ{{turn*into^rice*field}}</td><td>@HI{{narita}}</td><td>Place name</td><td></td></tr>
+</table>
+
+@include{{"grammar-footer.inc"}}
+
+</body>
+</html>
