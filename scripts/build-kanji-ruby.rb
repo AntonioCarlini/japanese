@@ -14,6 +14,8 @@ def kanji_keyword(k)
   return k.english().first().downcase().gsub(' ', "*")
 end
 
+duplicates_seen = 0
+
 # read and process the kanji datafile 
 kanji_data_file = "data/kanji.data" # Hard code this for now
 kanji_data = DataKanji.create_from_file(kanji_data_file)
@@ -31,11 +33,15 @@ kanji_data.kanji().each() {
   if kanji_by_keyword[kwd] != nil
     oh = kanji_by_keyword[kwd].heisig()
     $stderr.puts("WARNING: seen [#{kwd}] again; ignoring this for [#{k.heisig()}], already stored for [#{oh}]")
+    duplicates_seen += 1
   else
     kanji_by_keyword[kwd] = k
     kanji_with_unique_keyword << k
   end
 }
+
+$stderr.puts("WARNING: #{duplicates_seen} duplicates seen") if duplicates_seen > 0
+
 
 # Now output a suitable ruby source file
 
