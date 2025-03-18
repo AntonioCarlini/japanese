@@ -2192,6 +2192,7 @@ class KD
     "miso" => Kanji.new(2177, 22092, ["SOU","SHYOU","SO"], ["kamabisu.shii"], [""], ["miso","boisterous"], 9, 0),
     "songs*with*samisen" => Kanji.new(2178, 21764, ["BAI"], ["uta","uta.u"], [""], ["songs with samisen"], 8, 1),
     "scold" => Kanji.new(2179, 21489, ["SHITSU","SHICHI"], ["shika.ru"], [""], ["scold","reprove"], 8, 0),
+    "city*walls" => Kanji.new(2180, 37009, ["YUU"], ["ure.eru","kuni","mura"], ["o","ou","oo","oozato"], ["city walls","village","rural community","right village radical (no. 163)"], 9, 1),
     "dumbfounded" => Kanji.new(2181, 21574, ["HOU"], ["hoke.ru","bo.keru","aki.reru","oroka"], [""], ["dumbfounded","be amazed","disgusted","shocked"], 0, 0),
     "ingest" => Kanji.new(2182, 21936, [""], ["ku.u","ku.rau"], ["jiki"], ["ingest","eat","drink","receive (a blow)","(kokuji)"], 9, 0),
     "clay" => Kanji.new(2183, 22516, ["SHYOKU"], ["hani","hena"], [""], ["clay"], 9, 0),
