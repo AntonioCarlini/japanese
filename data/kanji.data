@@ -89,7 +89,7 @@
    89 :  0x526f :  :  HUKU :   :  soi soe :  {vice-} {assistant} {aide} {duplicate} {copy} :  4 :  2
    90 :  0x5225 : waka.reru :  BETSU :  waka.reru wa.keru :  bechisai_tsu :  {separate} {branch off} {diverge} {fork} {another} {extra} {specially} :  4 :  3
    91 :  0x4e01 : hinoto :  CHYOU TEI CHIN TOU CHI :  hinoto :   :  {street} {ward} {town} {counter for guns, tools, leaves or cakes of something} {even number} {4th calendar sign} :  3 :  1
-   92 :  0x753a :  :  CHYOU :  machi :   :  {village} {town} {block} {street} :  1 :  3
+   92 :  0x753a :  :  CHYOU :  machi :   :  {town} {village} {block} {street} :  1 :  3
    93 :  0x53ef : -be.ki -be.shi :  KA KOKU :  -be.ki -be.shi :  yoshi :  {can} {passable} {mustn't} {should not} {do not} :  5 :  2
    94 :  0x9802 :  :  CHYOU :  itada.ku itadaki :   :  {place on the head} {receive} {top of head} {top} {summit} {peak} :  6 :  2
    95 :  0x5b50 :  :  SHI SU TSU :  ko -ko ne :  i ki gi ku ke nechisai_tsu :  {child} {sign of the rat} {11PM-1AM} {first sign of Chinese zodiac} :  1 :  4
@@ -205,7 +205,7 @@
   205 :  0x690d : u.waru :  SHYOKU :  u.eru u.waru :  ue e ge :  {plant} :  3 :  2
   206 :  0x67af : ka.rasu ka.reru :  KO :  ka.reru ka.rasu :   :  {wither} {die} {dry up} {be seasoned} :  8 :  2
   207 :  0x6734 : hou :  BOKU :  hou hoo enoki :   :  {crude} {simple} {plain} {docile} :  8 :  1
-  208 :  0x6751 :  :  SON :  mura :  e muta ra : {town}  {village} :  1 :  3
+  208 :  0x6751 :  :  SON :  mura :  e muta ra : {village} {town}  :  1 :  3
   209 :  0x76f8 :  :  SOU SHYOU :  ai- :  a i ou sa saga suke :  {inter-} {mutual} {together} {each other} {minister of state} {councillor} {aspect} {phase} {physiognomy} :  3 :  2
   210 :  0x673a :  :  KI :  tsukue :   :  {desk} {table} :  6 :  2
   211 :  0x672c :  :  HON :  moto :  mato gou :  {book} {present} {main} {origin} {true} {real} {counter for long cylindrical things} :  1 :  4
