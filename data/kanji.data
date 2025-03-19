@@ -2300,7 +2300,7 @@
  2300 :  0x6fb1 : do.ro yodo.mi :  DEN TEN :  ori do.ro yodo.mi yodo.mu :   :  {sediment} {grounds} {dregs} {stagnant} :   :  
  2301 :  0x6c3e :  :  HAN :  hiro.garu :   :  {widespread} {spread out} {wide} :  8 :  
  2302 :  0x6d1b :  :  RAKU :   :   :  {Kyoto} {the capital} :  9 :  
- 2303 :  0x6c5d : imashi mashi mimashi namuchi nare shi shya unu :  JO :  nanji nare i unu imashi shi shya na namuchi mashi mimashi :   :  {you} {thou} :  9 :  
+ 2303 :  0x6c5d : imashi mashi mimashi namuchi nare shi shya unu :  JO :  nanji nare i unu imashi shi shya na namuchi mashi mimashi :   :  {thou} {you} :  9 :  
  2304 :  0x6f09 : ko.shi :  ROKU :  ko.shi ko.su su.ku :   :  {manufacture paper} {spread out thin} {strain} {percolate} :   :  
  2305 :  0x7015 :  :  HIN :  hotori :   :  {shore} {brink} {verge} :  9 :  
  2306 :  0x6fe0 :  :  GOU KOU :  hori :   :  {moat} {ditch} {canal} {Australia} :   :  
@@ -2315,7 +2315,7 @@
  2315 :  0x6ea2 : afu.reru :  ITSU :  kobo.reru afu.reru mi.chiru :   : {brimming} {overflow} {inundate} {spill} :  9 :  
  2316 :  0x6c70 : ogo.ru yona.geru :  TA TAI :  ogo.ru nigo.ru yona.geru :   :  {luxury} {select} :  8 :  1
  2317 :  0x6e5b :  :  TAN CHIN JIN SEN :  shizu.mu tata.eru :  kan kiyo tatau tatae yasu :  {fill} {wear (a smile)} {clear} {pure} {dense} {deep} :  9 :  
- 2318 :  0x6df3 :  :  JUN SHYUN :  atsu.i :  atsu atsushi kiyo kiyoshi makoto sunao :  {pure} :  9 :  1
+ 2318 :  0x6df3 :  :  JUN SHYUN :  atsu.i :  atsu atsushi kiyo kiyoshi makoto sunao :  {immaculate} {pure} :  9 :  1
  2319 :  0x6f70 : tsubu.reru tsubu.su :  KAI E :  tsubu.su tsubu.reru tsui.eru :   :  {crush} {smash} {break} {dissipate} :  8 :  
  2320 :  0x6e25 :  :  AKU :  atsu.i uruo.u :  atsushi :  {kindness} {moisten} :  9 :  1
  2321 :  0x7058 : nada :  TAN DAN :  nada se :  dana nan :  {rough seas} {open sea} :  9 :  
@@ -2352,17 +2352,17 @@
  2352 :  0x85dd :  :  GEI UN :  u.eru nori waza :   :  {technique (old)} {art} {craft} {performance} {acting} {trick} {stunt} :  10 :  
  2353 :  0x8599 :  :  TEI CHI :  na.gu nagi ka.ru :   :  {mow down (the enemy)} :  9 :  
  2354 :  0x84d1 :  :  SA SAI :  mino :   :  {straw raincoat} :  9 :  
- 2355 :  0x840e :  :  I :  na shio.reru shina.biru shibo.mu na.eru :   :  {wither} {droop} {lame} :  8 :  
+ 2355 :  0x840e :  :  I :  na shio.reru shina.biru shibo.mu na.eru :   :  {numb} {wither} {droop} {lame} :  8 :  
  2356 :  0x82d4 :  :  TAI :  koke kokera :   :  {moss} {lichen} :  9 :  
- 2357 :  0x8569 : toro.kasu toro.keru :  TOU :  toro.kasu toro.keru ugo.ku :   :  {melt} {be charmed} {captivated} :   :  
+ 2357 :  0x8569 : toro.kasu toro.keru :  TOU :  toro.kasu toro.keru ugo.ku :   :  {prodigal} {melt} {be charmed} {captivated} :   :  
  2358 :  0x853d :  :  HEI HETSU HUTSU :  oo.u oo.i :   :  {cover} {shade} {mantle} {capsize} {be ruined} :  8 :  
- 2359 :  0x8513 : habiko.ru :  MAN BAN :  habiko.ru tsuru :   :  {vine} {tendril} {influence} {connections} {good offices} {spread} {sprawl} {thrive} {rampant} {powerful} :  9 :  
+ 2359 :  0x8513 : habiko.ru :  MAN BAN :  habiko.ru tsuru :   :  {tendril} {vine} {influence} {connections} {good offices} {spread} {sprawl} {thrive} {rampant} {powerful} :  9 :  
  2360 :  0x84ee : hachisu :  REN :  hasu hachisu :   :  {lotus} :  9 :  1
- 2361 :  0x8299 :  :  HU :   :  hasu :  {lotus} {Mt Fuji} :  9 :  1
- 2362 :  0x84c9 :  :  YOU :   :  hasu yo :  {lotus} :  9 :  1
+ 2361 :  0x8299 :  :  HU :   :  hasu :  {lotus flower} {lotus} {Mt Fuji} :  9 :  1
+ 2362 :  0x84c9 :  :  YOU :   :  hasu yo :  {lotus blossom} {lotus} :  9 :  1
  2363 :  0x862d :  :  RAN RA :   :  ka araragi :  {orchid} {Holland} :  9 :  1
  2364 :  0x82a6 :  :  RO :  ashi yoshi :  a :  {hollow reed} {reed} {bullrush} :  9 :  
- 2365 :  0x85af :  :  SHYO :  imo :   :  {potato} :   :  
+ 2365 :  0x85af :  :  SHYO :  imo :   :  {yam} {potato} :   :  
  2366 :  0x83d6 :  :  SHYOU :   :   :  {iris} :  9 :  1
  2367 :  0x8549 :  :  SHYOU :   :   :  {banana} :  9 :  1
  2368 :  0x82af :  :  SHIN :   :   :  {wick} :  8 :  
@@ -2371,7 +2371,7 @@
  2371 :  0x85cd :  :  RAN :  ai :   :  {indigo} :  8 :  1
  2372 :  0x8304 :  :  KA :   :   :  {eggplant} :  9 :  1
  2373 :  0x82db : iji.meru irada.tsu karai komakai saina.mu :  KA :  iji.meru saina.mu irada.tsu karai komakai :   :  {bullying} {torment} {scold} {chastise} :  8 :  
- 2374 :  0x852d :  :  IN ON :  kage :   :  {shade} {shadow} {backing assistance} :  9 :  
+ 2374 :  0x852d :  :  IN ON :  kage :   :  {behind the scenes} {shade} {shadow} {backing assistance} :  9 :  
  2375 :  0x84ec : yomogi :  HOU BU :  yomogi :   :  {sagebrush} {wormwood} {mugwort} :  9 :  
  2376 :  0x82a5 : akuta karashi :  KAI KE :  karashi gomi akuta :   :  {mustard} {rape} {dust} {trash} {rubbish} :  9 :  
  2377 :  0x840c : mebae :  HOU :  mo.eru kiza.su mebae kiza.shi :  moe kizashi :  {show symptoms of} {sprout} {bud} {malt} :  9 :  1
@@ -2379,7 +2379,7 @@
  2379 :  0x8404 :  :  DOU TOU :   :   :  {grape vine} {wild grape} :  9 :  
  2380 :  0x8607 :  :  SO SU :  yomigae.ru :   :  {resurrect} {be resuscitated} {revived} :  9 :  
  2381 :  0x8543 :  :  BAN HAN :   :  shige shigeru ba :  {grow luxuriously} :  9 :  
- 2382 :  0x82d3 : miminagusa :  REI RYOU :  miminagusa :   :  {plant} {herb} {mushroom} :   :  
+ 2382 :  0x82d3 : miminagusa :  REI RYOU :  miminagusa :   : {cocklebur} {plant} {herb} {mushroom} :   :  
  2383 :  0x83f0 : komo makomo :  KO :  komo makomo :   :  {reed used for matting} :   :  
  2384 :  0x8499 :  :  MOU BOU :  koumu.ru oo.u kura.i :   :  {darken} {ignorance} {darkness} {get} {receive} {be subjected to} {sustain} {Mongolia} :  9 :  
  2385 :  0x8305 : chigaya :  BOU MYOU :  kaya chigaya :  chi ji :  {miscanthus reed} :  9 :  1
@@ -2396,7 +2396,7 @@
  2396 :  0x82b9 : seri :  KIN :  seri :  sei yoshi :  {parsley} :  9 :  1
  2397 :  0x82eb : toma :  SEN :  toma :   :  {rush matting} :   :  
  2398 :  0x845b : KACHI tsudura :  KATSU KACHI :  tsudura kuzu :  ka kazu kazura kachisai_tsu katsura :  {arrowroot} {kudzu} :  8 :  
- 2399 :  0x84bc :  :  SOU :  ao.i :   :  {blue} {pale} :  9 :  1
+ 2399 :  0x84bc :  :  SOU :  ao.i :   :  {pale blue} {blue} {pale} :  9 :  1
  2400 :  0x85c1 :  :  KOU :  wara :   :  {straw} :  9 :  
  2401 :  0x856a : areru :  BU MU :  kabu kabura areru :   :  {turnip} :  9 :  
  2402 :  0x85f7 :  :  SHYO JO :  imo :   :  {sweet potato} {potato} :   :  
@@ -3107,6 +3107,7 @@
 26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : : 
 27571 :  0x6bb3 :  : SHU : mata hoka : : {missile} : :
 27631 :  0x6bef :  : TAN :  : : {carpet} : : 
+27664 :  0x6c10 :  : TEI TAI SHI CHI : fumoto : : {business card} : :
 27777 :  0x6c81 :  : SHIN : shi.miru : : {permeate} : : 
 28335 :  0x6eaf : sakanobo.ru : SO SAKU : sakanobo.ru : : {go upstream (alternate)} : :
 28580 :  0x6fa4 :  : TAKU : sawa uruo.i uruo.su tsuya : : {bog} : : 
