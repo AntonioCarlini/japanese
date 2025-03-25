@@ -7,7 +7,7 @@ $(GENDIR)/heisig.gen.jhtml: $(SCRIPTDIR)/build-heisig-page.rb $(DATADIR)/kanji.d
 
 $(OUTPUT)/heisig.gen.html: $(GENDIR)/heisig.gen.jhtml
 	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
+	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@ || { rm $@; exit 1; }
 
 $(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv
 	@mkdir -p $(GENDIR)
@@ -15,7 +15,7 @@ $(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/m
 
 $(OUTPUT)/koohii-stories.gen.html: $(GENDIR)/koohii-stories.gen.jhtml
 	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
+	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@ || { rm $@; exit 1; }
 
 default: $(TARGETS)
 
