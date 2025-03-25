@@ -3022,6 +3022,7 @@
 19970 :  0x4e02 :  : KOU : samata.gerareru : : {slingshot} : :
 19989 :  0x4e15 :  : HI : oo.kii : : {glorious} : :
 19991 :  0x4e17 :  : SEI SE SOU : yo sanjuu : : {thirty} : : 
+20008 :  0x4e28 :  : KON SHI JO NYO : susu.mu shirizo.ku : : {walking stick} : :
 20009 :  0x4e29 :  : KYUU  : matsuwaru : : {cornucopia} : :
 20012 :  0x4e2c :  :  :  : : {turtle} : :
 20016 :  0x4e30 :  :HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
@@ -3029,6 +3030,7 @@
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20039 :  0x4e47 : : TAKU CHAKU : : : {lock of hair} : : 
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
+20101 :  0x4e85 :  :  KETSU : kagi : : {barb} : :
 20110 :  0x4e8e :  : U KU : kokoni aa oite ni yori wo  : : {potato primitive} : :
 20128 :  0x4ea0 :  :  : tou : : {top hat} : : 
 20130 :  0x4ea2 :  : KOU : takaburu : : {whirlwind} : :
@@ -3080,6 +3082,7 @@
 23424 :  0x5b80 :  : BEN MEN :  : : {house primitive} : :
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
+23609 :  0x5c39 :  : IN : osa tada.su : : {mop} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
 24027 :  0x5ddb :  : SEN : kawa : : {flood} : :
@@ -3132,9 +3135,11 @@
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
 31744 :  0x7c00 :  : SAKU JAKU SEKI : su  : : {bamboo mat} : : 
 31933 :  0x7cbd :  : SOU : chimaki : : {bamboo wrapped dumpling} : : 
+32594 :  0x7f52 :  : MOU BOU : amigashira yokome : : {eyes} : :
 32608 :  0x7f60 :  : BIN MIN : wana ami : : {trap} : : 
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
+32896 :  0x8080 :  :  :  : : {rake} : :
 32921 :  0x8099 :  :  :  : : {small worm} : :
 33307 :  0x821b :  : BU SEN : mai somu.ku : : {dancing legs} : :
 33401 :  0x8279 :  :  :  : : {flower primitive} : :
