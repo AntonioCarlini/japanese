@@ -32,7 +32,7 @@ File.readlines(heisig).each() {
   hn, kanji_char, kw3, kw4, kw5, stroke, index, lesson = line.split(':')
   kw5key = kw5.gsub(/ /, "*")
   raise("Bad line: [#{line.chomp()}]") if kw5key.nil?() || kw5key.empty?()
-  kanji_data = KD.instance().kanji()[kw5key.downcase()]
+  kanji_data = KD.instance().kanji(kw5key.downcase())
   if kanji_data.nil?()
     puts("No kanji found for keyword [#{kw5key}]")
     next

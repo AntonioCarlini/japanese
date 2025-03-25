@@ -11,7 +11,7 @@ $kanji_data = nil
 $kanji_by_keyword = {} # hash of keyword (as symbol) to kanji unicode
 
 def find_kanji_unicode_from_keyword(keyword)
-  k = KD.instance().kanji()[keyword]
+  k = KD.instance().kanji(keyword)
   return k.nil?() ? nil : k.unicode()
 end
 
@@ -49,7 +49,7 @@ def convert_to_kanji(text)
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
       $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
-      raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
+      #raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
     else
       result += jp_unicode(code)
     end
