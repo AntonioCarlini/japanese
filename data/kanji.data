@@ -2730,7 +2730,7 @@
  2730 :  0x8f14 :  :  HO HU :  tasu.keru :  suke tasuku yuu :  {reinforce} {help} :  9 :  1
  2731 :  0x8f3b :  :  HUKU :  ya :   :  {spoke (wheel)} :   :  
  2732 :  0x8f2f :  :  SHYUU :  atsu.meru yawa.ragu :   :  {assemble} {gather} {collect} {compile} :  9 :  
- 2733 :  0x8c8c : katadoru :  BOU BAKU :  katachi katadoru :   :  {form} {appearance} {countenance} :  8 :  
+ 2733 :  0x8c8c : katadoru :  BOU BAKU :  katachi katadoru :   : {countenance}  {form} {appearance} :  8 :  
  2734 :  0x8c79 :  :  HYOU HOU :   :   :  {leopard} {panther} :  9 :  
  2735 :  0x8cce : shizu :  SEN ZEN :  iya.shii iya.shimu iya.shimeru shizu yasu.i :   :  {despise} {low-life} {poverty} :   :  
  2736 :  0x8cbc :  :  TEN CHYOU :  ha.ru tsu.ku :   : {post a bill} {stick} {paste} {apply} :  8 :  
@@ -3147,6 +3147,7 @@
 32896 :  0x8080 :  :  :  : : {rake} : :
 32921 :  0x8099 :  :  :  : : {small worm} : :
 33307 :  0x821b :  : BU SEN : mai somu.ku : : {dancing legs} : :
+33390 :  0x826e :  : KON GON : ushitora  : : {bright-silver} : :
 33401 :  0x8279 :  :  :  : : {flower primitive} : :
 34381 :  0x864d :  : KO :  : : {tiger radical} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
