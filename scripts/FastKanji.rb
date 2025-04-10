@@ -3165,6 +3165,7 @@ class KD
     :"flower*primitive" => [33401, 33401, [""], [""], [""], ["flower primitive"], 0, 0],
     :"tiger*radical" => [34381, 34381, ["KO"], [""], [""], ["tiger radical"], 0, 0],
     :"cicada*[old]" => [34796, 34796, ["SEN","ZEN"], ["semi"], [""], ["cicada [old]"], 0, 0],
+    :"oyster*[old]" => [34851, 34851, ["REI"], ["kaki"], [""], ["oyster [old]"], 0, 0],
     :"cloak" => [34916, 34916, [""], ["koromu"], [""], ["cloak"], 0, 0],
     :"old*west" => [35200, 35200, [""], [""], [""], ["old west"], 0, 0],
     :"deceive" => [35473, 35473, ["KYOU"], ["tabaka.ru","tabura.kasu","ta.rasu"], [""], ["deceive"], 0, 0],
