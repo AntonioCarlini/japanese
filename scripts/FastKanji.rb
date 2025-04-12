@@ -3185,6 +3185,7 @@ class KD
     :"undesirable" => [38475, 38475, ["ROU"], ["iya.shii","sema.i"], [""], ["undesirable"], 0, 0],
     :"turkey" => [38585, 38585, ["SAI","SUI"], ["tori"], [""], ["turkey"], 0, 0],
     :"locket" => [38859, 38859, ["I"], ["somu.ku"], [""], ["locket"], 0, 0],
+    :"eat*primitive" => [39136, 39136, [""], [""], [""], ["eat primitive"], 0, 0],
     :"gyoza" => [39171, 39171, ["GYOU","KYOU","KOU"], [""], [""], ["gyoza"], 0, 0],
     :"mane" => [39647, 39647, ["HYUU","HYOU"], [""], [""], ["mane"], 0, 0],
     :"topknot" => [39671, 39671, ["KYOKU"], ["mage","wage"], [""], ["topknot"], 0, 0],
