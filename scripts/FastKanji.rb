@@ -3104,6 +3104,7 @@ class KD
     :"flood" => [24027, 24027, ["SEN"], ["kawa"], [""], ["flood"], 0, 0],
     :"sewer" => [24032, 24032, ["KEI","KYOU"], [""], [""], ["sewer"], 0, 0],
     :"puzzle" => [24182, 24182, ["HEI","HYOU"], ["awa.seru","nara.bu"], [""], ["puzzle"], 0, 0],
+    :"cocoon*primitive" => [24186, 24186, ["YOU"], ["chisai"], [""], ["cocoon primitive"], 0, 0],
     :"cave" => [24191, 24191, ["GEN"], [""], [""], ["cave"], 0, 0],
     :"stretch*primitive" => [24308, 24308, ["IN"], [""], [""], ["stretch primitive"], 0, 0],
     :"two*hands" => [24318, 24318, ["KYOU","KU"], ["nijuu"], [""], ["two hands"], 0, 0],

@@ -3090,6 +3090,7 @@
 24027 :  0x5ddb :  : SEN : kawa : : {flood} : :
 24032 :  0x5de0 :  : KEI KYOU :  : : {sewer} : :
 24182 :  0x5e76 :  : HEI HYOU : awa.seru nara.bu : : {puzzle} : :
+24186 :  0x5e7a :  : YOU : chisai : : {cocoon primitive} : :
 24191 :  0x5e7f :  : GEN  :  : : {cave} : :
 24308 :  0x5ef4 :  : IN :  : : {stretch primitive} : :
 24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
@@ -3175,5 +3176,6 @@
 39671 :  0x9af7 :  : KYOKU : mage wage : : {topknot} : : 
 39788 :  0x9b6c :  : HAN : karei : : {hamachi} : : 
 40407 :  0x9dd7 :  : OU : kamome : : {seagull [old]} : :
+
 
 
