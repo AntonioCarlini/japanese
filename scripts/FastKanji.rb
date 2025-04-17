@@ -3150,6 +3150,7 @@ class KD
     :"oyster*shell" => [30836, 30836, ["KAKI"], [""], [""], ["oyster shell"], 0, 0],
     :"boron" => [30844, 30844, ["HOU"], [""], [""], ["boron"], 0, 0],
     :"altar" => [31035, 31035, ["SHI"], [""], [""], ["altar"], 0, 0],
+    :"jiminy*cricket" => [31162, 31162, ["GU","GUU"], ["onagazaru"], [""], ["Jiminy Cricket"], 0, 0],
     :"wheat" => [31166, 31166, ["KA"], ["inu"], [""], ["wheat"], 0, 0],
     :"endpoint" => [31455, 31455, ["KYOU","KEI"], ["owa.ru","tsuini","wata.ru"], [""], ["endpoint"], 0, 0],
     :"bamboo*mat" => [31744, 31744, ["SAKU","JAKU","SEKI"], ["su"], [""], ["bamboo mat"], 0, 0],
