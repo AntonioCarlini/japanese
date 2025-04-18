@@ -831,7 +831,7 @@ TARGETS += $(OUTPUT)/grammar-index.html
 
 $(OUTPUT)/grammar-index.html: $(GRMIDX) $(SCRIPTDIR)/build-grammar-index.rb
 	@mkdir -p $(OUTPUT)
-	@$(SCRIPTDIR)/build-grammar-index.rb --data=$(DATADIR) --include=$(INCLUDEDIR) $(GRMIDX) > $@ && echo "Successfully built $@"
+	@$(SCRIPTDIR)/build-grammar-index.rb --data=$(DATADIR) $(GRMIDX) > $@ && echo "Successfully built $@"
 
 
 include $(MAKERULESDIR)/lib.make

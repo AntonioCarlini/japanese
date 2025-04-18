@@ -131,11 +131,9 @@ def processing()
   entries = []
 
   data_dir = ""
-  include_dir = ""
 
   args = GetoptLong.new(
                         [ "--data",      "-d", GetoptLong::REQUIRED_ARGUMENT ],
-                        [ "--include",   "-i", GetoptLong::REQUIRED_ARGUMENT ],
                         )
 
   begin
@@ -143,7 +141,6 @@ def processing()
       |option, arg|
       case option
       when "--data"          then data_dir = arg.dup()
-      when "--include"       then include_dir = arg.dup()
       end
     }
 
