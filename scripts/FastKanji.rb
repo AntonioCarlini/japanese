@@ -3134,6 +3134,7 @@ class KD
     :"missile" => [27571, 27571, ["SHU"], ["mata","hoka"], [""], ["missile"], 0, 0],
     :"carpet" => [27631, 27631, ["TAN"], [""], [""], ["carpet"], 0, 0],
     :"business*card" => [27664, 27664, ["TEI","TAI","SHI","CHI"], ["fumoto"], [""], ["business card"], 0, 0],
+    :"rice*grains*primitive" => [27706, 27706, ["SUI"], [""], [""], ["rice grains primitive"], 0, 0],
     :"permeate" => [27777, 27777, ["SHIN"], ["shi.miru"], [""], ["permeate"], 0, 0],
     :"go*upstream*(alternate)" => [28335, 28335, ["SO","SAKU"], ["sakanobo.ru"], [""], ["go upstream (alternate)"], 0, 0],
     :"bog" => [28580, 28580, ["TAKU"], ["sawa","uruo.i","uruo.su","tsuya"], [""], ["bog"], 0, 0],
