@@ -2241,7 +2241,7 @@
  2241 :  0x5f25 : tooi :  MI BI :  iya ya amaneshi iyoiyo tooi hisashi hisa.shii wata.ru :  wataru mitsu hiro yo :  {all the more} {increasingly} :  8 :  1
  2242 :  0x5f1b : taru.meru taru.mu tayu.mu yuru.mi :  CHI SHI :  taru.mu taru.meru tayu.mu yuru.mu yuru.mi :   :  {loosen} {slacken} {relax} :  9 :  
  2243 :  0x7ca5 : hisa.gu kayu :  IKU SHYUKU JUKU :  kayu kai hisa.gu :   :  {rice gruel} :  9 :  
- 2244 :  0x633d :  :  BAN :  hi.ku :  hiki :  {saw} {turn (lathe)} {grind} :  9 :  
+ 2244 :  0x633d :  :  BAN :  hi.ku :  hiki :  {lathe} {turn (lathe)} {grind} :  9 :  
  2245 :  0x649e :  :  DOU TOU SHYU :  tsu.ku :   :  {thrust} {pierce} {stab} {prick} :  9 :  
  2246 :  0x626e : fun.suru yatsu.su :  HUN HAN HEN :  fun.suru yatsu.su yosoo.u :   :  {impersonate} {dress up} {disguise} {thin shingles} :   :  
  2247 :  0x63a0 : kasu.meru kasu.reru kasu.ru :  RYAKU RYOU :  kasu.meru kasu.ru kasu.reru :  gura :  {pillage} {rob} {graze} {skim} {sweep over} {cheat} {hint} :  9 :  
@@ -3028,7 +3028,8 @@
 20016 :  0x4e30 :  :HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
 20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
-20039 :  0x4e47 : : TAKU CHAKU : : : {lock of hair} : : 
+20039 :  0x4e47 :  : TAKU CHAKU : : : {lock of hair} : : 
+20045 :  0x4e4d :  : SA SAKU : -naga.ra tachima.chi : : {saw} : :
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
 20101 :  0x4e85 :  :  KETSU : kagi : : {barb} : :
 20110 :  0x4e8e :  : U KU : kokoni aa oite ni yori wo  : : {potato primitive} : :
@@ -3076,6 +3077,7 @@
 22786 :  0x5902 :  : CHI : shyuu : : {walking legs} : : 
 22790 :  0x5906 :  : HOU FU BA : saka.rau hi.ku a.u atsu.i : : {pointy} : :
 22797 :  0x590d :  :  :  : : {double back} : : 
+22828 :  0x592c :  : KAI KETUS KECHI : wa.keru : : {guillotine} : :
 22829 :  0x592d :  : YOU OU KA : waka.i wakajini wazawai : : {sapling} : :
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
 23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
