@@ -3101,6 +3101,7 @@
 24320 :  0x5f00 :  :  :  : : {both hands} : :
 24343 :  0x5f17 :  : FUSTU HOCHI : doru zu : : {dollar} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
+24405 :  0x5f55 :  :  :  : : {dustpan} : :
 24417 :  0x5f61 :  : SAN SEN :  : : {hair primitive} {shape} : :
 24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
 24516 :  0x5fc4 :  : SHIN : kokoro : : {state of mind} : :
@@ -3119,6 +3120,7 @@
 26140 :  0x661c :  : YOU :  : : {piggy bank} : : 
 26224 :  0x6670 : akiraka : SHAKU SEKI : akiraka : : {clearly} : : 
 26359 :  0x66f7 :  : KATSU : nanzo itsu izukun zo nani : : {siesta} : :
+26415 :  0x672f :  :  :  : : {resin} : :
 26431 :  0x673f :  : SHI : toge     : : {thorn tree} : :
 26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : : 
 27571 :  0x6bb3 :  : SHU : mata hoka : : {missile} : :
@@ -3150,6 +3152,7 @@
 32594 :  0x7f52 :  : MOU BOU : amigashira yokome : : {eyes} : :
 32608 :  0x7f60 :  : BIN MIN : wana ami : : {trap} : : 
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
+32770 :  0x8002 :  :  :  : : {old man primitive} : :
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
 32896 :  0x8080 :  :  :  : : {rake} : :
 32921 :  0x8099 :  :  :  : : {small worm} : :
@@ -3175,6 +3178,7 @@
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {screen} : : 
 38429 :  0x961d :  :  : kozato : : {The Pinnacle} : : 
 38475 :  0x964b :  : ROU : iya.shii sema.i : : {undesirable} : :
+38582 :  0x96b6 :  : TAI :  : : {sieve} : :
 38585 :  0x96b9 :  : SAI SUI : tori : : {turkey} : : 
 38859 :  0x97cb : somu.ku : I : somu.ku : : {locket} : : 
 39136 :  0x98e0 :  :  :  : : {eat primitive} : :
