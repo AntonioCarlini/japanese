@@ -2513,7 +2513,7 @@
  2513 :  0x696f :  :  JUN :  tate :   :  {escutcheon} {shield} {buckler} {pretext} :  9 :  
  2514 :  0x698e :  :  KA :  enoki :  e eno :  {lotus tree} {nettle tree} {hackberry} :  9 :  
  2515 :  0x6a3a : kanba :  KA :  kaba kanba :  kara kamo kan :  {birch} {dark red} :  9 :  1
- 2516 :  0x69cd :  :  SOU SHYOU :  yari :  utsu :  {spear} {lance} {javelin} :  9 :  
+ 2516 :  0x69cd :  :  SOU SHYOU :  yari :  utsu :  {spear} {lance} {fish fin} {javelin} :  9 :  
  2517 :  0x67d8 : so tsuge yamaguwa :  SHYA JAKU :  so tsuge yamaguwa :  tsu :  {wild mulberry} :  9 :  
  2518 :  0x68b1 : kori kou.ru kouri :  KON :  kou.ru kouri kori shikimi :   :  {pack} {tie up} {bale} :   :  
  2519 :  0x6787 :  :  BI HI :   :   :  {loquat} {spoon} :  9 :  
@@ -3128,6 +3128,7 @@
 27664 :  0x6c10 :  : TEI TAI SHI CHI : fumoto : : {business card} : :
 27706 :  0x6c3a :  : SUI :  : : {rice grains primitive} : :
 27777 :  0x6c81 :  : SHIN : shi.miru : : {permeate} : : 
+27837 :  0x6cbd :  : KO : ata.i ara.i u.ru : : {public esteem} : :
 28335 :  0x6eaf : sakanobo.ru : SO SAKU : sakanobo.ru : : {go upstream (alternate)} : :
 28580 :  0x6fa4 :  : TAKU : sawa uruo.i uruo.su tsuya : : {bog} : : 
 28780 :  0x706c :  : HYOU KA :  : : {fire below} : : 
