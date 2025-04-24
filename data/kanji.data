@@ -2442,7 +2442,7 @@
  2442 :  0x664f :  :  AN :  oso.i :   :  {late} {quiet} {sets (sun)} :  9 :  1
  2443 :  0x6668 :  :  SHIN :  ashita toki asa :   :  {morrow} {morning} {early} :  9 :  1
  2444 :  0x6652 : sarashi :  SAI SHI :  sara.su sarashi :   :  {bleaching} {bleach} {refine} {expose} {air} :  9 :  
- 2445 :  0x6627 : musabo.ru :  MAI BAI :  kura.i musabo.ru :   :  {dark} {foolish} :  8 :  
+ 2445 :  0x6627 : musabo.ru :  MAI BAI :  kura.i musabo.ru :   :  {obscure} {dark} {foolish} :  8 :  
  2446 :  0x6643 :  :  KOU :  akiraka :  aki akira teru hikaru mitsu :  {limpid} :  9 :  1
  2447 :  0x66dd :  :  BAKU HOKU BOKU :  sara.su :   :  {bleach} {refine} {expose} {air} :  9 :  
  2448 :  0x66d9 : akebono :  SHYO :  akebono :   :  {dawn} {daybreak} :  9 :  1
@@ -2513,7 +2513,7 @@
  2513 :  0x696f :  :  JUN :  tate :   :  {escutcheon} {shield} {buckler} {pretext} :  9 :  
  2514 :  0x698e :  :  KA :  enoki :  e eno :  {lotus tree} {nettle tree} {hackberry} :  9 :  
  2515 :  0x6a3a : kanba :  KA :  kaba kanba :  kara kamo kan :  {birch} {dark red} :  9 :  1
- 2516 :  0x69cd :  :  SOU SHYOU :  yari :  utsu :  {spear} {lance} {fish fin} {javelin} :  9 :  
+ 2516 :  0x69cd :  :  SOU SHYOU :  yari :  utsu :  {lance} {spear} {fish fin} {javelin} :  9 :  
  2517 :  0x67d8 : so tsuge yamaguwa :  SHYA JAKU :  so tsuge yamaguwa :  tsu :  {wild mulberry} :  9 :  
  2518 :  0x68b1 : kori kou.ru kouri :  KON :  kou.ru kouri kori shikimi :   :  {pack} {tie up} {bale} :   :  
  2519 :  0x6787 :  :  BI HI :   :   :  {loquat} {spoon} :  9 :  
@@ -2824,7 +2824,7 @@
  2824 :  0x9c10 : wani :  GAKU :  wani :   :  {alligator} {crocodile} :   :  
  2825 :  0x9b92 : funa :  HO HU BU :  funa :   :  {crucian carp} {carp} :   :  
  2826 :  0x9ba8 : sushi :  SHI KI :  sushi :   :  {sushi} {seasoned rice} :   :  
- 2827 :  0x9c2d : hire :  KI GI :  hire :   :  {fin} :   :  
+ 2827 :  0x9c2d : hire :  KI GI :  hire :   :  {fish fin} {fin} :   :  
  2828 :  0x9d0e : kamome :  OU :  kamome :   :  {seagull} :   :  
  2829 :  0x9d6c :  :  HOU :  ootori :   :  {phoenix} :  9 :  1
  2830 :  0x9e1a :  :  IN OU YOU :   :   :  {parrot} {parakeet} :   :  
@@ -2897,7 +2897,7 @@
  2897 :  0x6590 :  :  HI I :   :  aya :  {symmetrically patterned} {beautiful} {patterned} :  9 :  1
  2898 :  0x537f :  :  KEI KYOU :  kimi :   :  {magistrate} {you} {lord} {secretary} {state minister} :  9 :  
  2899 :  0x7feb :  :  GAN :  moteaso.bu :   :  {fiddle with} {take pleasure in} {play instrument} :   :  
- 2900 :  0x65bc : o.keru oi.te :  O YO :  oi.te o.keru aa yori :   :  {at} {in} {on} {as for} :  9 :  1
+ 2900 :  0x65bc : o.keru oi.te :  O YO :  oi.te o.keru aa yori :   :  {within} {at} {in} {on} {as for} :  9 :  1
  2901 :  0x5957 :  :  TOU :  kasa.neru :   :  {hackneyed} {a  (a certain)}  :  9 :  
  2902 :  0x53db :  :  HAN HON :  somu.ku :   :  {rebellion} {disobey} {defy} {go back on} {rebel} :   :  
  2903 :  0x5c16 : toga.ru :  SEN :  toga.ru saki surudo.i :   :  {sharp point}{be pointed} {sharp} {taper} {displeased} {angry} {edgy} :  9 :  
