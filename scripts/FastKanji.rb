@@ -3061,6 +3061,7 @@ class KD
     :"belt" => [20866, 20866, ["KYOU","KEI"], [""], [""], ["belt"], 0, 0],
     :"hollow*bone" => [20878, 20878, ["KA","KE"], ["wa.keru","sa.ku"], [""], ["hollow bone"], 0, 0],
     :"funnel" => [20883, 20883, ["KOU"], ["kama.eru"], [""], ["funnel"], 0, 0],
+    :"crown*radical" => [20886, 20886, ["BEKI"], [""], [""], ["crown radical"], 0, 0],
     :"garter" => [20888, 20888, ["IN","YU"], ["okota.ru","tamera.u","utaga.u"], [""], ["garter"], 0, 0],
     :"ice" => [20907, 20907, ["HYOU"], ["koori"], [""], ["ice"], 0, 0],
     :"table" => [20960, 20960, ["KI"], ["kinyou"], [""], ["table"], 0, 0],
