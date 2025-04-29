@@ -3092,6 +3092,7 @@ class KD
     :"walking*legs" => [22786, 22786, ["CHI"], ["shyuu"], [""], ["walking legs"], 0, 0],
     :"pointy" => [22790, 22790, ["HOU","FU","BA"], ["saka.rau","hi.ku","a.u","atsu.i"], [""], ["pointy"], 0, 0],
     :"double*back" => [22797, 22797, [""], [""], [""], ["double back"], 0, 0],
+    :"mailbox" => [22807, 22807, [""], [""], [""], ["mailbox"], 0, 0],
     :"guillotine" => [22828, 22828, ["KAI","KETUS","KECHI"], ["wa.keru"], [""], ["guillotine"], 0, 0],
     :"sapling" => [22829, 22829, ["YOU","OU","KA"], ["waka.i","wakajini","wazawai"], [""], ["sapling"], 0, 0],
     :"scissors*primitive" => [22841, 22841, [""], [""], [""], ["scissors primitive"], 0, 0],
