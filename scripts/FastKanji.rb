@@ -3091,6 +3091,7 @@ class KD
     :"porter" => [22764, 22764, ["NIN","JIN","I"], ["mizunoe"], [""], ["porter"], 0, 0],
     :"walking*legs" => [22786, 22786, ["CHI"], ["shyuu"], [""], ["walking legs"], 0, 0],
     :"pointy" => [22790, 22790, ["HOU","FU","BA"], ["saka.rau","hi.ku","a.u","atsu.i"], [""], ["pointy"], 0, 0],
+    :"dawdle" => [22795, 22795, ["SHUN"], ["uzukuma.ru"], [""], ["dawdle"], 0, 0],
     :"double*back" => [22797, 22797, [""], [""], [""], ["double back"], 0, 0],
     :"mailbox" => [22807, 22807, [""], [""], [""], ["mailbox"], 0, 0],
     :"guillotine" => [22828, 22828, ["KAI","KETUS","KECHI"], ["wa.keru"], [""], ["guillotine"], 0, 0],
