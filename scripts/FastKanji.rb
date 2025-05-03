@@ -2333,7 +2333,7 @@ class KD
     :"crush" => [2319, 28528, ["KAI","E"], ["tsubu.su","tsubu.reru","tsui.eru"], [""], ["crush","smash","break","dissipate"], 8, 0],
     :"kindness" => [2320, 28197, ["AKU"], ["atsu.i","uruo.u"], ["atsushi"], ["kindness","moisten"], 9, 1],
     :"rough*seas" => [2321, 28760, ["TAN","DAN"], ["nada","se"], ["dana","nan"], ["rough seas","open sea"], 9, 0],
-    :"draw*(water)" => [2322, 27762, ["KYUU"], ["ku.mu"], ["kumi"], ["draw (water)","ladle","scoop","pump"], 9, 0],
+    :"draw*water" => [2322, 27762, ["KYUU"], ["ku.mu"], ["kumi"], ["draw water","draw (water)","ladle","scoop","pump"], 9, 0],
     :"pure*water" => [2323, 28702, ["SEI","SHYOU","JUU"], ["toro","kiyo.i"], [""], ["pure water","clear water","pool in a river"], 0, 0],
     :"cumulation" => [2324, 28316, ["RYUU"], ["ta.maru","tama.ru","ta.meru","shitata.ru","tamari","tame"], [""], ["cumulation","collect","gather","be in arrears"], 9, 0],
     :"abyss" => [2325, 28181, ["EN","KAKU","KOU"], ["fuchi","kata.i","hanawa"], [""], ["abyss","edge"], 0, 0],
