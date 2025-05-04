@@ -3032,6 +3032,8 @@ class KD
     :"arrogance" => [3018, 20658, ["GOU"], ["ogo.ru","anad.ru"], [""], ["arrogance"], 0, 0],
     :"trail" => [3019, 36394, ["SO","SHOU"], ["ato"], [""], ["trail"], 0, 0],
     :"fine" => [3020, 32251, ["HYUU","HYOU"], [""], [""], ["fine"], 0, 0],
+    :"holed*gem" => [3021, 29863, ["HEKI"], ["tama"], [""], ["holed gem"], 0, 0],
+    :"clasp" => [3022, 25711, ["SHI"], ["ita.ru","tsuka.mu","nie"], [""], ["clasp"], 0, 0],
     :"shudder" => [3024, 24900, ["RITSU"], ["furu.eru","oso.reru","onono.ku"], [""], ["shudder"], 0, 0],
     :"bitter" => [3025, 36771, ["RATSU"], ["kara.i"], [""], ["bitter"], 0, 0],
     :"carbuncle" => [3026, 30221, ["YOU"], ["kusa"], [""], ["carbuncle"], 0, 0],
