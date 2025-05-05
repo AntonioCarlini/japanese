@@ -3034,6 +3034,7 @@ class KD
     :"fine" => [3020, 32251, ["HYUU","HYOU"], [""], [""], ["fine"], 0, 0],
     :"holed*gem" => [3021, 29863, ["HEKI"], ["tama"], [""], ["holed gem"], 0, 0],
     :"clasp" => [3022, 25711, ["SHI"], ["ita.ru","tsuka.mu","nie"], [""], ["clasp"], 0, 0],
+    :"covet" => [3023, 36010, ["TAN","DON","TON"], ["musabo.ru"], [""], ["covet"], 0, 0],
     :"shudder" => [3024, 24900, ["RITSU"], ["furu.eru","oso.reru","onono.ku"], [""], ["shudder"], 0, 0],
     :"bitter" => [3025, 36771, ["RATSU"], ["kara.i"], [""], ["bitter"], 0, 0],
     :"carbuncle" => [3026, 30221, ["YOU"], ["kusa"], [""], ["carbuncle"], 0, 0],
