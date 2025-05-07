@@ -1,7 +1,7 @@
 """
 This script processes a CSV file of kanji stories from https://kanji.koohii.com/ and generates an HTML table.
 The table includes the following columns:
-1. Heisig Kanji Index (1-3000)
+1. Heisig Kanji Index (1-3030)
 2. Heisig Keyword (or "MISSING" if the entry is missing)
 3. Kanji (formatted as @KJ{{KEYWORD}})
 4. Story
@@ -16,7 +16,7 @@ import sys
 from collections import defaultdict
 
 # Constants
-KANJI_MAX_FRAME_NUMBER = 3000
+KANJI_MAX_FRAME_NUMBER = 3030
 REPORT_NON_HEISIG_KANJI = False  # Set to True to report non-Heisig kanji
 DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
 
@@ -50,6 +50,7 @@ def parse_csv(file_name):
             try:
                 frame_number = int(row[0])
             except ValueError:
+                print(f"ERROR: Line {line_number} - Frame number '{row[0]}' is not a valid integer.")
                 continue  # Skip invalid frame numbers
 
             kanji = row[1]
@@ -309,7 +310,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
                 if ref_frame in heisig_keyword_map and heisig_keyword_map[ref_frame].heisig_keyword.lower() != "darken"
             )
         else:
-            keyword = "MISSING"
+            keyword = "MISSING-STORY"
             kanji = ""
             story = ""
             referenced_parts_str = ""
