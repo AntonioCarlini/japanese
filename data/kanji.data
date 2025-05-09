@@ -3044,6 +3044,7 @@
 20110 :  0x4e8e :  : U KU : kokoni aa oite ni yori wo  : : {potato primitive} : :
 20128 :  0x4ea0 :  :  : tou : : {top hat} : : 
 20130 :  0x4ea2 :  : KOU : takaburu : : {whirlwind} : :
+20155 :  0x4ebb :  :  :  : : {Mr. T} : :
 20156 :  0x4ebc :  : SHUU JUU : atsumaru : : {meeting primitive} : : 
 20358 :  0x4f86 :  : RAI TAI : ku.ru kita.ru kita.su ki.tasu ki.taru : : {come [old]} : : 
 20376 :  0x4f98 :  : TA : wabi.shii hoko.ru wa.biru : : {alone} : :
@@ -3095,12 +3096,14 @@
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
 23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
+23408 :  0x5b70 :  : JUKU : izure tare : : {sooner or later} : :
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
 23424 :  0x5b80 :  : BEN MEN :  : : {house primitive} : :
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
 23609 :  0x5c39 :  : IN : osa tada.su : : {mop} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
+23664 :  0x5c70 :  : GEKI GYAKU HAKU HYAKU : saka.rau : : {mountain goat} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
 24027 :  0x5ddb :  : SEN : kawa : : {flood} : :
 24032 :  0x5de0 :  : KEI KYOU :  : : {sewer} : :
@@ -3180,6 +3183,7 @@
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
 34851 :  0x8823 :  : REI : kaki : : {oyster [old]} : :
 34916 :  0x8864 :  :  : koromu : : {cloak} : : 
+34945 :  0x8881 :  : EN ON :  : : {long kimono} : :
 35200 :  0x8980 :  :  :  : : {old west} : :
 35473 :  0x8a91 :  : KYOU : tabaka.ru tabura.kasu ta.rasu : : {deceive} : :
 35925 :  0x8c55 :  :  SHI :  : : {sow (female pig)} : :
