@@ -3130,6 +3130,7 @@ class KD
     :"both*hands" => [24320, 24320, [""], [""], [""], ["both hands"], 0, 0],
     :"dollar" => [24343, 24343, ["FUSTU","HOCHI"], ["doru","zu"], [""], ["dollar"], 0, 0],
     :"broom*primitive" => [24400, 24400, ["KEI"], [""], [""], ["broom primitive"], 0, 0],
+    :"broom*primitive*(old)" => [24401, 24401, ["KEI"], [""], [""], ["broom primitive (old)"], 0, 0],
     :"dustpan" => [24405, 24405, [""], [""], [""], ["dustpan"], 0, 0],
     :"hair*primitive" => [24417, 24417, ["SAN","SEN"], [""], [""], ["hair primitive","shape"], 0, 0],
     :"to*go" => [24435, 24435, ["TEKI"], ["tatazu.mu"], [""], ["to go"], 0, 0],
