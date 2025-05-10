@@ -3054,6 +3054,7 @@
 20799 :  0x513f :  : JIN NIN : gai : : {human legs} : :
 20817 :  0x5151 :  :  :  : : {devil} : : 
 20842 :  0x516a :  : YU : shikari : : {convey} : :
+20852 :  0x5174 :  :  :  : : {owl primitive} : :
 20866 :  0x5182 :  : KYOU KEI :  : : {belt} : :
 20878 :  0x518e :  : KA KE : wa.keru sa.ku : : {hollow bone} : :
 20883 :  0x5193 :  : KOU : kama.eru : : {funnel} : :
@@ -3070,6 +3071,7 @@
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
 21353 :  0x5369 :  : SETSU : warifu : : {postage stamp} : :
+21367 :  0x5377 :  : KAN KEN : ma.ku maki : : {scroll [old]} : :
 21378 :  0x5382 :  : KAN : karigane : : {cliff} : :
 21430 :  0x53b6 :  : SHI BOU MU : watakushi goza.ru : : {elbow primitive} : :
 21461 :  0x53d5 :  : TEI TETSU TECHI GETSU I : to.jiru tsudu.ru sumi.ya ka : : {concatenate} : :
@@ -3179,6 +3181,7 @@
 32921 :  0x8099 :  :  :  : : {small worm} : :
 33307 :  0x821b :  : BU SEN : mai somu.ku : : {dancing legs} : :
 33390 :  0x826e :  : KON GON : ushitora  : : {bright-silver} : :
+33400 :  0x8278 :  : SOU : kusa  : : {grass radical full} : :
 33401 :  0x8279 :  :  :  : : {flower primitive} : :
 34381 :  0x864d :  : KO :  : : {tiger radical} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
@@ -3197,6 +3200,7 @@
 36953 :  0x9059 :  : YOU : haru.ka : : {far off [old]} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
+38271 :  0x957f :  :  :  : : {hairpin} : :
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {screen} : : 
 38429 :  0x961d :  :  : kozato : : {The Pinnacle} : : 
