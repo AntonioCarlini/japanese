@@ -2072,7 +2072,7 @@
  2072 :  0x7577 : nawate :  TETSU TEI SEI :  nawate :   :  {rice-field footpath} {rice field ridge path} :   :  
  2073 :  0x7db4 : TECHI tsudu.ru tsuduri :  TEI TETSU TECHI GETSU :  to.jiru tsudu.ru tsuduri sumi.yaka :   :  {mend} {compose} {spell} {write} {bind (books)} :  9 :  
  2074 :  0x723e : shikari :  JI NI :  nanji shikari sono nomi ore shika :  chika mi :  {you} {thou} {second person} :  9 :  1
- 2075 :  0x74bd :  :  JI :   :   :  {emperor's seal} :  8 :  1
+ 2075 :  0x74bd :  :  JI :   :   :  {imperial seal} {emperor's seal} :  8 :  1
  2076 :  0x93a7 : yoro.u yoroi :  KAI GAI :  yoro.u yoroi :   :  {suit of armor} {put on armor} {arm oneself} :  9 :  
  2077 :  0x51f1 : kachidoki yawaragu :  GAI KAI :  kachidoki yawaragu :   :  {triumph} {victory song} :  9 :  1
  2078 :  0x5996 :  :  YOU :  aya.shii nama.meku wazawa.i :   : {bewitched} {attractive} {bewitching} {calamity} :  8 :  
@@ -2104,7 +2104,7 @@
  2104 :  0x55ac :  :  KYOU :  taka.i :  takashi taka : {heaven-high} {high} {boasting} :  9 :  1
  2105 :  0x83ab :  :  BAKU BO MAKU MO NAI :  kure naka.re nashi :   :  {shalt} {must not} {do not} {be not} :  9 :  
  2106 :  0x502d :  :  WA I :  shitaga.u :  masa yasu yamato :  {Yamato} {ancient Japan} :  9 :  1
- 2107 :  0x4fa0 : kyan otokodate :  KYOU :  kyan otokodate :   :  {tomboy} {chivalry} :   :  
+ 2107 :  0x4fa0 : kyan otokodate :  KYOU :  kyan otokodate :   : {chivalry} {tomboy} :   :  
  2108 :  0x5026 : agu.mu agu.neru aki.ru :  KEN :  aki.ru agu.mu agu.neru u.mu tsuka.reru :   :  {fed up} {lose interest in} {tire of} :  9 :  
  2109 :  0x4f7c : kou.su :  KYOU KOU :  kou.su utsuku.shii :   :  {comely} {beautiful} {clever} {deceive} {sly} :   :  
  2110 :  0x4fc4 :  :  GA :  niwaka :   :  {abrupt} {sudden} {improvised} :  9 :  
@@ -2112,17 +2112,17 @@
  2112 :  0x4f36 :  :  REI RYOU :  wazaogi :  re :  {minstrel} {actor} :  9 :  1
  2113 :  0x4ed4 :  :  SHI :  ko ta.eru :   :  {animal offspring} {offspring} :  9 :  
  2114 :  0x4ec7 : ata tsureai :  KYUU GU :  ada ata kataki tsureai :   :  {foe} {enemy} {revenge} {grudge} {feud} :   :  
- 2115 :  0x4f3d : GYA togi :  KA GA KYA GYA :  togi :   :  {nursing} {attending} {entertainer} :  9 :  1
- 2116 :  0x50c5 : wazu.ka :  KIN GON :  wazu.ka :   :  {a wee bit} :  8 :  
+ 2115 :  0x4f3d : GYA togi :  KA GA KYA GYA :  togi :   :  {look after} {nursing} {attending} {entertainer} :  9 :  1
+ 2116 :  0x50c5 : wazu.ka :  KIN GON :  wazu.ka :   :  {trifle} {a wee bit} :  8 :  
  2117 :  0x50fb : heki.suru higa.mu :  HEKI HI HEI :  heki.suru higa.mu :   :  {biased} {prejudice} {bias} {rural area} :   :  
  2118 :  0x5132 : mou.karu mouke :  CHYO :  mou.keru mou.karu mouke takuwa.eru :   :  {make a profit} {be profitable} {yield profit} :  9 :  
  2119 :  0x5016 :  :  KOU :  shiawa.se saiwa.i :   : {bliss} {happiness} {luck} :  9 :  1
- 2120 :  0x50d1 :  :  KYOU :   :  kyuu :  {temporary home} :   :  
+ 2120 :  0x50d1 :  :  KYOU :   :  kyuu :  {emigrant} {temporary home} :   :  
  2121 :  0x4fb6 :  :  RYO RO :  tomo :   : {partner} {companion} {follower} :  8 :  
  2122 :  0x4f0e :  :  GI KI :  waza wazaogi :   :  {performing artist} {deed} {skill} :  8 :  1
  2123 :  0x4f83 :  :  KAN :  tsuyo.i :  akira tadashi : {forthright} {integrity} {strong} {just} {righteous} {peace-loving} :  9 :  1
  2124 :  0x5036 :  :  GU KU :  tomo.ni :   :  {mate} {both} :   :  
- 2125 :  0x4fad : mama :  JIN :  mama kotogotoku :   :  {as it is} {because} :   :  
+ 2125 :  0x4fad : mama :  JIN :  mama kotogotoku :   :  {as is} {as it is} {because} :   :  
  2126 :  0x4f51 :  :  YUU U :  tasu.keru :  suke tasuku yu : {adjutant} {help} {assist} :  9 :  1
  2127 :  0x4fe3 :  :   :  mata :  bata :  {crotch} {thigh} {groin} {(kokuji)} :  9 :  
  2128 :  0x50ad : ata.i :  YOU CHYOU :  yato.u ata.i hito.shii :   : {hire} {employ} {hire} :  9 :  
@@ -2723,7 +2723,7 @@
  2723 :  0x8afa : kotowaza :  GEN :  kotowaza :   :  {proverb} :  9 :  
  2724 :  0x8ab9 :  :  HI HAI :  soshi.ru :   :  {slander} {ridicule} :   :  
  2725 :  0x8b02 : ii iwayuru :  I :  i.u ii omo.u iwayuru :   :  {reason} {origin} {history} {oral tradition} :  9 :  
- 2726 :  0x8adc : chyou.zuru :  CHYOU :  chyou.zuru ukaga.u shime.su :   :  {spy out} {reconnoiter} :   :  
+ 2726 :  0x8adc : chyou.zuru :  CHYOU :  chyou.zuru ukaga.u shime.su :   :  {secret agent} {reconnoiter} :   :  
  2727 :  0x8a3b :  :  CHYUU :   :   :  {notes} {comment} {annotate} :  9 :  
  2728 :  0x8b6c : tato.e :  HI :  tato.eru tato.e :   :  {illustrate} :   :  
  2729 :  0x8f5f : todoro.kasu todoro.ku :  GOU KOU :  todoro.kasu todoro.ku :   :  {roar} {thunder} {boom resound} :  9 :  
@@ -3051,6 +3051,7 @@
 20376 :  0x4f98 :  : TA : wabi.shii hoko.ru wa.biru : : {alone} : :
 20446 :  0x4fde :  :  :  : : {meeting of butchers} : : 
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
+20760 :  0x5118 :  : JIN : mama kotogotoku : : {as it is} : :
 20762 :  0x511a :  : BOU MOU  : hakana.i kura.i : : {fleeting} : :
 20799 :  0x513f :  : JIN NIN : gai : : {human legs} : :
 20817 :  0x5151 :  :  :  : : {devil} : : 
@@ -3207,7 +3208,7 @@
 36953 :  0x9059 :  : YOU : haru.ka : : {far off [old]} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
-38264 :  0x9578 :  : CHOU : naga.i osa : : {long (variant}} : :
+38264 :  0x9578 :  : CHOU : naga.i osa : : {long (variant)} : :
 38271 :  0x957f :  :  :  : : {hairpin} : :
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {screen} : : 
