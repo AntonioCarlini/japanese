@@ -3040,6 +3040,7 @@
 20039 :  0x4e47 :  : TAKU CHAKU : : : {lock of hair} : : 
 20045 :  0x4e4d :  : SA SAKU : -naga.ra tachima.chi : : {saw} : :
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
+20065 :  0x4e61 :  :  :  : : {cocoon variant} : :
 20101 :  0x4e85 :  :  KETSU : kagi : : {barb} : :
 20110 :  0x4e8e :  : U KU : kokoni aa oite ni yori wo  : : {potato primitive} : :
 20128 :  0x4ea0 :  :  : tou : : {top hat} : : 
@@ -3087,6 +3088,8 @@
 22309 :  0x5725 :  : ROKU : kinoko : : {rice seedling} : :
 22467 :  0x57c3 :  : AI : hokori chiri : : {dusty} : :
 22764 :  0x58ec :  : NIN JIN I : mizunoe : : {porter} : : 
+22772 :  0x58f4 :  : SHU CHU : tateru : : {drumhead} : :
+22777 :  0x58f9 :  : ICHI ITSU : hitotsu : : {I [old]} : :
 22786 :  0x5902 :  : CHI : shyuu : : {walking legs} : : 
 22790 :  0x5906 :  : HOU FU BA : saka.rau hi.ku a.u atsu.i : : {pointy} : :
 22795 :  0x590b :  : SHUN : uzukuma.ru : : {dawdle} : :
@@ -3101,6 +3104,7 @@
 23408 :  0x5b70 :  : JUKU : izure tare : : {sooner or later} : :
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
 23424 :  0x5b80 :  : BEN MEN :  : : {house primitive} : :
+23564 :  0x5c0c :  : SHU CHU JUU : ta.teru ta.tsu warawa shimobe : : {stand something up} : :
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
 23609 :  0x5c39 :  : IN : osa tada.su : : {mop} : :
@@ -3128,6 +3132,7 @@
 25100 :  0x620c :  : JYUTSU : inu : : {march} : :
 25119 :  0x621f :  : GEKI : hoka : : {ancient halberd} : :
 25120 :  0x6220 :  : SHOKU SHIKI SHI :  : : {kazoo/uproar} : :
+25153 :  0x6241 :  : HEN : hiratai : : {comic book} : :
 25164 :  0x624c :  : SHU :  : : {finger primitive} : :
 25458 :  0x6372 :  : KEN : ma.ku ma.kuru maku.ru meku.ru maku.reru : : {roll up} : : 
 25545 :  0x63c9 :  : JYUU : mo.su mo.meru : : {massage} : : 
@@ -3144,6 +3149,7 @@
 26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : : 
 27571 :  0x6bb3 :  : SHU : mata hoka : : {missile} : :
 27595 :  0x6bcb :  : BU MU : haha bo nai naka.re : : {mother radical} : :
+27596 :  0x6bcc :  : KAN : tsuranuku : : {silage} : :
 27631 :  0x6bef :  : TAN :  : : {carpet} : : 
 27664 :  0x6c10 :  : TEI TAI SHI CHI : fumoto : : {business card} : :
 27701 :  0x6c35 :  :  : sanzui : : {water primitive} : :
@@ -3161,6 +3167,7 @@
 29519 :  0x734f :  : BAKU MYAKU :  : : {baku} : : 
 29996 :  0x752c :  : YOU :  : : {pogo stick} : :
 30098 :  0x7592 :  : DAKU NYAKU SOU JOU SHITSU : ya.mu : : {caveman} : :
+30433 :  0x76e1 :  : JIN SAN :tsu.kusu tsu.kiru tsu.kasu sakuduki kotogoto.ku : : {exhausted} : :
 30738 :  0x7812 :  : HI HEI :  : : {arsenic} : :
 30836 :  0x7874 :  : KAKI :  : : {oyster shell} : : 
 30844 :  0x787c :  : HOU :  : : {boron} : :
@@ -3200,6 +3207,7 @@
 36953 :  0x9059 :  : YOU : haru.ka : : {far off [old]} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
+38264 :  0x9578 :  : CHOU : naga.i osa : : {long (variant}} : :
 38271 :  0x957f :  :  :  : : {hairpin} : :
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {screen} : : 
@@ -3208,10 +3216,11 @@
 38582 :  0x96b6 :  : TAI :  : : {sieve} : :
 38585 :  0x96b9 :  : SAI SUI : tori : : {turkey} : : 
 38859 :  0x97cb : somu.ku : I : somu.ku : : {locket} : : 
+38893 :  0x97ed :  : KYUU KU :  : : {green onion} : :
 39136 :  0x98e0 :  :  :  : : {eat primitive} : :
 39171 :  0x9903 :  : GYOU KYOU KOU :  : : {gyoza} : : 
 39647 :  0x9adf :  : HYUU HYOU :  : : {mane} : : 
 39671 :  0x9af7 :  : KYOKU : mage wage : : {topknot} : : 
 39788 :  0x9b6c :  : HAN : karei : : {hamachi} : : 
+39827 :  0x9b93 :  : SA : sushi  : : {preserved sushi} : :
 40407 :  0x9dd7 :  : OU : kamome : : {seagull [old]} : :
-
