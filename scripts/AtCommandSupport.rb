@@ -18,6 +18,10 @@ CLOSING_BRACKETS = Regexp.escape("}}")
 OPENING_REGEXP = "@\\w{1,15}#{OPENING_BRACKETS}"
 CLOSING_REGEXP = "#{CLOSING_BRACKETS}"
 
+# Global variables are bad. Right now I can't see how to feed this into the processor.
+# Hopefully I'll find a way and this will disappear.
+$fail_on_error = false
+
 # A class to hold text that may require further processing.
 class Text
 
@@ -309,8 +313,11 @@ $command_to_op = {
   "VERPEND" => :process_empty_code,
 }
 
-def process_at_commands(text, data_dir, filename)
+def process_at_commands(text, data_dir, filename, raise_exception_on_error: false)
 
+  # Global variables are discouraged. I hope to ocme back and expunge this one later!
+  $fail_on_error = raise_exception_on_error
+  
   processing_errors = []  # Collect errors instead of exiting immediately
   
   # REF is special and must be processed before anything else.
@@ -378,7 +385,7 @@ def process_at_commands(text, data_dir, filename)
         rescue ProcessingError => e
             $stderr.puts("Non-fatal error: #{e.message}")
             processing_errors << e  # Store the error so we can decide what to do later
-            result = "PROCESSING-ERROR-HERE"
+            result << DoneText.new(e.message)
         rescue => e
           $stderr.puts(e)
           $stderr.puts("Fatal error processing <#{op}> near line: [#{to_handle.split(/\n|\r\n/)[0]}]")
@@ -528,8 +535,8 @@ def process_kanji(stack, unused)
     if x.processed?()
       result << x
     else
-      #debug_out("kanji handling [#{x.text()}]")
-      result << DoneText.new(convert_to_kanji(x.text()))
+      # debug_out("kanji handling [#{x.text()}]")
+      result << DoneText.new(convert_to_kanji(x.text(), raise_exception_on_error: $fail_on_error))
     end
   }
   return collapse_stack(result)

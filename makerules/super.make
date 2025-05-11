@@ -13,7 +13,7 @@ $(COMPONENT_MAKEFILES):
 	@$(MAKE) -f $@
 
 $(SUBDIR_MAKEFILES):
-	@$(MAKE) -C $@
+	@$(MAKE) -C $@ || exit 1
 
 .PHONY: all_subdir_makefiles $(SUBDIR_MAKEFILES)
 

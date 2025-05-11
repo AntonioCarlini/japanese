@@ -15,18 +15,21 @@ def handle_cli()
 
   data_dir = ""
   include_dir = ""
+  strict_fail_on_error = false
 
   args = GetoptLong.new(
-                        [ "--data",      "-d", GetoptLong::REQUIRED_ARGUMENT ],
-                        [ "--include",   "-i", GetoptLong::REQUIRED_ARGUMENT ],
+                        [ "--data",                  "-d", GetoptLong::REQUIRED_ARGUMENT ],
+                        [ "--include",               "-i", GetoptLong::REQUIRED_ARGUMENT ],
+                        [ "--strict-fail-on-error",  "-s", GetoptLong::NO_ARGUMENT ],
                         )
 
   begin
     args.each() {
       |option, arg|
       case option
-      when "--data"          then data_dir = arg.dup()
-      when "--include"       then include_dir = arg.dup()
+      when "--data"                     then data_dir = arg.dup()
+      when "--include"                  then include_dir = arg.dup()
+      when "--strict-fail-on-error"     then strict_fail_on_error = true
       end
     }
 
@@ -52,12 +55,12 @@ def handle_cli()
 
   raise("Input file unsuitable") if output == file
 
-  return file, data_dir, include_dir
+  return file, data_dir, include_dir, strict_fail_on_error
 end
 
 def processing()
 
-  file, data_dir, include_dir = handle_cli()
+  file, data_dir, include_dir, strict_fail_on_error = handle_cli()
 
   data_dir = data_dir + "/" unless (data_dir.empty?() || data_dir[-1,1] == "/")
   include_dir = include_dir + "/" unless (include_dir.empty?() || include_dir[-1,1] == "/")
@@ -88,7 +91,7 @@ def processing()
     }
   end
   
-  puts(process_at_commands(file_text, data_dir, file))
+  puts(process_at_commands(file_text, data_dir, file, raise_exception_on_error: strict_fail_on_error))
 
 end
 

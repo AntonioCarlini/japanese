@@ -15,7 +15,7 @@ def find_kanji_unicode_from_keyword(keyword)
   return k.nil?() ? nil : k.unicode()
 end
 
-def convert_to_kanji(text)
+def convert_to_kanji(text, raise_exception_on_error: false)
   kanji = {
     :hon => 0x672c, :watashi => 0x79c1,
     :chiga => 0x9055, :i => 0x884c,
@@ -48,8 +48,11 @@ def convert_to_kanji(text)
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
-      $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
-      #raise ProcessingError, "KANJI: UNKNOWN kanji [#{word}]"
+      if raise_exception_on_error
+        raise ProcessingError, "UNKNOWN kanji [#{word}]"
+      else
+        $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
+      end
     else
       result += jp_unicode(code)
     end
