@@ -3239,6 +3239,8 @@ class KD
     :"hamachi" => [39788, 39788, ["HAN"], ["karei"], [""], ["hamachi"], 0, 0],
     :"preserved*sushi" => [39827, 39827, ["SA"], ["sushi"], [""], ["preserved sushi"], 0, 0],
     :"seagull*[old]" => [40407, 40407, ["OU"], ["kamome"], [""], ["seagull [old]"], 0, 0],
+    :"adjusted*[old]" => [40778, 40778, ["SEI","SAI"], ["soro.u","hito.shii","hito.shiku","ataru","hayai"], [""], ["adjusted [old]"], 0, 0],
+    :"bring*about" => [40782, 40782, ["SEI","SAI","SHI"], ["matara.su","mata.rasu"], [""], ["bring about"], 0, 0],
     }
     @kanji_map = {}  # Stores initialized Kanji objects
   end
