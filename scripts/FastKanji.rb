@@ -2669,7 +2669,7 @@ class KD
     :"link*up" => [2655, 32331, ["KEI"], ["tsuna.gu","kaka.ru","ka.keru"], [""], ["link up","tie","fasten","chain","tether","connect"], 0, 0],
     :"twine" => [2656, 32184, ["RIN","KAN"], ["ito"], [""], ["twine","thread","silk cloth"], 9, 1],
     :"wool*cloth" => [2657, 32104, ["JUU"], [""], [""], ["wool cloth"], 0, 0],
-    :"bonds" => [2658, 32070, ["HAN"], ["kizuna","hoda.su","tsuna.gu"], [""], ["bonds","fetters"], 9, 0],
+    :"ties" => [2658, 32070, ["HAN"], ["kizuna","hoda.su","tsuna.gu"], [""], ["ties","bonds","fetters"], 9, 0],
     :"scarlet" => [2659, 32203, ["HI"], ["ake","aka"], [""], ["scarlet","cardinal"], 9, 1],
     :"synthesis" => [2660, 32156, ["SOU"], ["osa.meru","su.beru"], [""], ["synthesis","rule"], 9, 1],
     :"string" => [2661, 32016, ["CHYUU","JUU"], ["himo"], [""], ["string","cord","braid","lace","tape","strap","ribbon"], 9, 0],
