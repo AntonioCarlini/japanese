@@ -3187,6 +3187,7 @@ class KD
     :"pogo*stick" => [29996, 29996, ["YOU"], [""], [""], ["pogo stick"], 0, 0],
     :"caveman" => [30098, 30098, ["DAKU","NYAKU","SOU","JOU","SHITSU"], ["ya.mu"], [""], ["caveman"], 0, 0],
     :"exhausted" => [30433, 30433, ["JIN","SAN"], ["tsu.kusu","tsu.kiru","tsu.kasu","sakuduki","kotogoto.ku"], [""], ["exhausted"], 0, 0],
+    :"round*primitive" => [30552, 30552, [""], [""], [""], ["round primitive"], 0, 0],
     :"arsenic" => [30738, 30738, ["HI","HEI"], [""], [""], ["arsenic"], 0, 0],
     :"oyster*shell" => [30836, 30836, ["KAKI"], [""], [""], ["oyster shell"], 0, 0],
     :"boron" => [30844, 30844, ["HOU"], [""], [""], ["boron"], 0, 0],
