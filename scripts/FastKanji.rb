@@ -3197,6 +3197,7 @@ class KD
     :"endpoint" => [31455, 31455, ["KYOU","KEI"], ["owa.ru","tsuini","wata.ru"], [""], ["endpoint"], 0, 0],
     :"bamboo*mat" => [31744, 31744, ["SAKU","JAKU","SEKI"], ["su"], [""], ["bamboo mat"], 0, 0],
     :"bamboo*wrapped*dumpling" => [31933, 31933, ["SOU"], ["chimaki"], [""], ["bamboo wrapped dumpling"], 0, 0],
+    :"complication" => [32006, 32006, ["U"], ["maga.ru","megu.ru"], [""], ["complication"], 0, 0],
     :"hanging" => [32266, 32266, ["I","EI"], ["kubi.ru","kubi.reru"], [""], ["hanging"], 0, 0],
     :"eyes" => [32594, 32594, ["MOU","BOU"], ["amigashira","yokome"], [""], ["eyes"], 0, 0],
     :"trap" => [32608, 32608, ["BIN","MIN"], ["wana","ami"], [""], ["trap"], 0, 0],
