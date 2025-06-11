@@ -3212,6 +3212,7 @@ class KD
     :"bright-silver" => [33390, 33390, ["KON","GON"], ["ushitora"], [""], ["bright-silver"], 0, 0],
     :"grass*radical*full" => [33400, 33400, ["SOU"], ["kusa"], [""], ["grass radical full"], 0, 0],
     :"flower*primitive" => [33401, 33401, [""], [""], [""], ["flower primitive"], 0, 0],
+    :"noble" => [34297, 34297, ["AI"], [""], [""], ["noble"], 0, 0],
     :"tiger*radical" => [34381, 34381, ["KO"], [""], [""], ["tiger radical"], 0, 0],
     :"cicada*[old]" => [34796, 34796, ["SEN","ZEN"], ["semi"], [""], ["cicada [old]"], 0, 0],
     :"oyster*[old]" => [34851, 34851, ["REI"], ["kaki"], [""], ["oyster [old]"], 0, 0],
