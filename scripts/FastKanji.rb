@@ -3062,6 +3062,7 @@ class KD
     :"mr.*t" => [20155, 20155, [""], [""], [""], ["Mr. T"], 0, 0],
     :"meeting*primitive" => [20156, 20156, ["SHUU","JUU"], ["atsumaru"], [""], ["meeting primitive"], 0, 0],
     :"come*[old]" => [20358, 20358, ["RAI","TAI"], ["ku.ru","kita.ru","kita.su","ki.tasu","ki.taru"], [""], ["come [old]"], 0, 0],
+    :"academic*conference" => [20374, 20374, ["RIN","RON"], ["omo.u"], [""], ["academic conference"], 0, 0],
     :"alone" => [20376, 20376, ["TA"], ["wabi.shii","hoko.ru","wa.biru"], [""], ["alone"], 0, 0],
     :"meeting*of*butchers" => [20446, 20446, [""], [""], [""], ["meeting of butchers"], 0, 0],
     :"depend*on" => [20447, 20447, ["SHI"], ["ma.tsu"], [""], ["depend on"], 0, 0],
