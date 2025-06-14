@@ -3196,6 +3196,7 @@ class KD
     :"altar" => [31035, 31035, ["SHI"], [""], [""], ["altar"], 0, 0],
     :"jiminy*cricket" => [31162, 31162, ["GU","GUU"], ["onagazaru"], [""], ["Jiminy Cricket"], 0, 0],
     :"wheat" => [31166, 31166, ["KA"], ["inu"], [""], ["wheat"], 0, 0],
+    :"row*(alternate)" => [31453, 31453, ["HEI","HOU"], ["na.mi","nara.beru","nara.bu","nara.bini"], [""], ["row (alternate)"], 0, 0],
     :"endpoint" => [31455, 31455, ["KYOU","KEI"], ["owa.ru","tsuini","wata.ru"], [""], ["endpoint"], 0, 0],
     :"bamboo*mat" => [31744, 31744, ["SAKU","JAKU","SEKI"], ["su"], [""], ["bamboo mat"], 0, 0],
     :"bamboo*wrapped*dumpling" => [31933, 31933, ["SOU"], ["chimaki"], [""], ["bamboo wrapped dumpling"], 0, 0],
