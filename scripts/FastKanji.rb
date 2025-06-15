@@ -3104,6 +3104,7 @@ class KD
     :"spool" => [22307, 22307, ["KOTSU","KUTSU","KOCHI","SEI"], ["tagaya.su"], [""], ["spool"], 0, 0],
     :"rice*seedling" => [22309, 22309, ["ROKU"], ["kinoko"], [""], ["rice seedling"], 0, 0],
     :"dusty" => [22467, 22467, ["AI"], ["hokori","chiri"], [""], ["dusty"], 0, 0],
+    :"piranha*plant" => [22535, 22535, [""], [""], [""], ["piranha plant"], 0, 0],
     :"porter" => [22764, 22764, ["NIN","JIN","I"], ["mizunoe"], [""], ["porter"], 0, 0],
     :"drumhead" => [22772, 22772, ["SHU","CHU"], ["tateru"], [""], ["drumhead"], 0, 0],
     :"i*[old]" => [22777, 22777, ["ICHI","ITSU"], ["hitotsu"], [""], ["I [old]"], 0, 0],
