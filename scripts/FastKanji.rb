@@ -3180,6 +3180,7 @@ class KD
     :"go*upstream*(alternate)" => [28335, 28335, ["SO","SAKU"], ["sakanobo.ru"], [""], ["go upstream (alternate)"], 0, 0],
     :"bog" => [28580, 28580, ["TAKU"], ["sawa","uruo.i","uruo.su","tsuya"], [""], ["bog"], 0, 0],
     :"fire*below" => [28780, 28780, ["HYOU","KA"], [""], [""], ["fire below"], 0, 0],
+    :"stir-fry" => [28818, 28818, ["SOU","SHOU"], ["i.ru","ita.meru"], [""], ["stir-fry"], 0, 0],
     :"cauterize" => [28825, 28825, ["SHA","SEKI"], ["abu.ru"], [""], ["cauterize"], 0, 0],
     :"vulture*(old)" => [29227, 29227, [""], [""], [""], ["vulture (old)"], 0, 0],
     :"reptile" => [29228, 29228, ["HA"], ["ka.ku","ha.u"], [""], ["reptile"], 0, 0],
