@@ -2071,7 +2071,7 @@
  2071 :  0x810a :  :  SEKI :  se sei :   : {spinal column} {stature} {height} :  8 :  
  2072 :  0x7577 : nawate :  TETSU TEI SEI :  nawate :   :  {rice-field footpath} {rice field ridge path} :   :  
  2073 :  0x7db4 : TECHI tsudu.ru tsuduri :  TEI TETSU TECHI GETSU :  to.jiru tsudu.ru tsuduri sumi.yaka :   :  {mend} {compose} {spell} {write} {bind (books)} :  9 :  
- 2074 :  0x723e : shikari :  JI NI :  nanji shikari sono nomi ore shika :  chika mi :  {you} {thou} {second person} :  9 :  1
+ 2074 :  0x723e : shikari :  JI NI :  nanji shikari sono nomi ore shika :  chika mi :  {let it be} {you} {thou} {second person} :  9 :  1
  2075 :  0x74bd :  :  JI :   :   :  {imperial seal} {emperor's seal} :  8 :  1
  2076 :  0x93a7 : yoro.u yoroi :  KAI GAI :  yoro.u yoroi :   :  {suit of armor} {put on armor} {arm oneself} :  9 :  
  2077 :  0x51f1 : kachidoki yawaragu :  GAI KAI :  kachidoki yawaragu :   :  {triumph} {victory song} :  9 :  1
@@ -3089,7 +3089,9 @@
 22231 :  0x56d7 :  : I KOKU :  : : {pent in} : :
 22307 :  0x5723 :  : KOTSU KUTSU KOCHI SEI : tagaya.su : : {spool} : :
 22309 :  0x5725 :  : ROKU : kinoko : : {rice seedling} : :
+22388 :  0x5774 :  : RIKU ROKU :  : : {mushroom kingdom} : :
 22467 :  0x57c3 :  : AI : hokori chiri : : {dusty} : :
+22518 :  0x57f6 :  : GEI SEI : u.eru waza ikihoi : : {Mario} : :
 22535 :  0x5807 :  :  :  : : {piranha plant} : :
 22764 :  0x58ec :  : NIN JIN I : mizunoe : : {porter} : : 
 22772 :  0x58f4 :  : SHU CHU : tateru : : {drumhead} : :
