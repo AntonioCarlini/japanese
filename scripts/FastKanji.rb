@@ -2493,7 +2493,7 @@ class KD
     :"ladder" => [2479, 26799, ["TEI","TAI"], ["hashigo"], ["dai"], ["ladder","stairs","insatiable drinking"], 9, 0],
     :"chair" => [2480, 26885, ["I"], [""], [""], ["chair"], 8, 0],
     :"persimmon" => [2481, 26623, ["SHI"], ["kaki","kokera"], [""], ["persimmon","shingle"], 8, 0],
-    :"citrus" => [2482, 26577, ["KON","KAN"], [""], [""], ["citrus","orange"], 9, 0],
+    :"citrus*tree" => [2482, 26577, ["KON","KAN"], [""], [""], ["citrus tree","citrus","orange"], 9, 0],
     :"beam" => [2483, 26689, ["KOU"], ["keta"], [""], ["beam","girder","spar","unit or column (accounting)"], 8, 0],
     :"picket" => [2484, 26477, ["KOU"], ["kui"], ["wataru"], ["picket","stake","post"], 9, 0],
     :"holly" => [2485, 26570, ["SHYU","SHYUU"], ["hiiragi"], [""], ["holly"], 9, 1],
