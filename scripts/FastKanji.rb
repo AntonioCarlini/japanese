@@ -3072,6 +3072,7 @@ class KD
     :"devil" => [20817, 20817, [""], [""], [""], ["devil"], 0, 0],
     :"convey" => [20842, 20842, ["YU"], ["shikari"], [""], ["convey"], 0, 0],
     :"owl*primitive" => [20852, 20852, [""], [""], [""], ["owl primitive"], 0, 0],
+    :"rook" => [20854, 20854, ["KI","GI","GO"], ["sore","sono"], [""], ["rook"], 0, 0],
     :"belt" => [20866, 20866, ["KYOU","KEI"], [""], [""], ["belt"], 0, 0],
     :"two*swords" => [20868, 20868, ["ZEN","NEN"], ["aya.ui"], [""], ["two swords"], 0, 0],
     :"hollow*bone" => [20878, 20878, ["KA","KE"], ["wa.keru","sa.ku"], [""], ["hollow bone"], 0, 0],
