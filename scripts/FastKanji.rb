@@ -3045,6 +3045,7 @@ class KD
     :"slingshot" => [19970, 19970, ["KOU"], ["samata.gerareru"], [""], ["slingshot"], 0, 0],
     :"glorious" => [19989, 19989, ["HI"], ["oo.kii"], [""], ["glorious"], 0, 0],
     :"thirty" => [19991, 19991, ["SEI","SE","SOU"], ["yo","sanjuu"], [""], ["thirty"], 0, 0],
+    :"viking" => [19994, 19994, [""], [""], [""], ["Viking"], 0, 0],
     :"walking*stick" => [20008, 20008, ["KON","SHI","JO","NYO"], ["susu.mu","shirizo.ku"], [""], ["walking stick"], 0, 0],
     :"cornucopia" => [20009, 20009, ["KYUU"], ["matsuwaru"], [""], ["cornucopia"], 0, 0],
     :"turtle" => [20012, 20012, [""], [""], [""], ["turtle"], 0, 0],
