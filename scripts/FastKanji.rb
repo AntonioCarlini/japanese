@@ -3165,6 +3165,7 @@ class KD
     :"shredder" => [25949, 25949, ["HEI"], ["yabu.reru"], [""], ["shredder"], 0, 0],
     :"waitress" => [26081, 26081, ["KI","KE"], ["mu","nashi"], [""], ["waitress"], 0, 0],
     :"piggy*bank" => [26140, 26140, ["YOU"], [""], [""], ["piggy bank"], 0, 0],
+    :"thor" => [26174, 26174, [""], [""], [""], ["Thor"], 0, 0],
     :"clearly" => [26224, 26224, ["SHAKU","SEKI"], ["akiraka"], [""], ["clearly"], 0, 0],
     :"siesta" => [26359, 26359, ["KATSU"], ["nanzo","itsu","izukun","zo","nani"], [""], ["siesta"], 0, 0],
     :"hazy" => [26407, 26407, ["ROU"], ["oboru"], [""], ["hazy"], 0, 0],
