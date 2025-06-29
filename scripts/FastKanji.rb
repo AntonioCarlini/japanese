@@ -3173,6 +3173,7 @@ class KD
     :"thorn*tree" => [26431, 26431, ["SHI"], ["toge"], [""], ["thorn tree"], 0, 0],
     :"pick*out" => [26604, 26604, ["KAN","KEN"], ["era.bu"], [""], ["pick out"], 0, 0],
     :"happy*families" => [27410, 27410, ["RAN"], ["ouchi","hijiki","madoka","marui"], [""], ["happy families"], 0, 0],
+    :"bone*primitive" => [27513, 27513, ["GATSU","GACHI","TAI"], [""], [""], ["bone primitive"], 0, 0],
     :"vicious" => [27514, 27514, [""], [""], [""], ["vicious"], 0, 0],
     :"missile" => [27571, 27571, ["SHU"], ["mata","hoka"], [""], ["missile"], 0, 0],
     :"mother*radical" => [27595, 27595, ["BU","MU"], ["haha","bo","nai","naka.re"], [""], ["mother radical"], 0, 0],
