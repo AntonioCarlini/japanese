@@ -17,8 +17,9 @@ from collections import defaultdict
 
 # Constants
 KANJI_MAX_FRAME_NUMBER = 3030
-REPORT_NON_HEISIG_KANJI = False  # Set to True to report non-Heisig kanji
+REPORT_NON_HEISIG_KANJI = True  # Set to True to report non-Heisig kanji
 DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
+DISPLAY_HEISIG_KEYWORD_MAP = False  # Set to True to display the map of Heisig keywords
 
 class Entry:
     def __init__(self, frame_number, kanji, heisig_keyword, story):
@@ -434,6 +435,12 @@ def main():
         print("\nFrame Number Map:")
         for frame in sorted(frame_number_map.keys()):
             print(f"{frame}: {frame_number_map[frame]}")
+
+    # Output frame_number_map (if enabled)
+    if DISPLAY_HEISIG_KEYWORD_MAP:
+        print("Heisig keyword Map:")
+        for frame in sorted(heisig_keyword_map.keys()):
+            print(f"{frame}: {heisig_keyword_map[frame].heisig_keyword}")
 
     # Output missing kanji (only if there are missing kanji)
     if missing_kanji_map:
