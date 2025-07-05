@@ -2155,7 +2155,7 @@ class KD
     :"earlybird" => [2141, 22809, ["SHYUKU"], ["tsutoni","hayai"], [""], ["earlybird","bright and early","long ago","early in life"], 0, 0],
     :"male*mythical*bird" => [2142, 40179, ["HOU","HUU"], [""], ["ootori","fuge"], ["male mythical bird"], 9, 1],
     :"weapon*of*war" => [2143, 21129, ["RYUU","RU"], ["koro.su"], ["rau","nobu","mizuchi"], ["weapon of war","logging axe","kill en masse","peeling (paint off a wall, etc)","sparse","faded"], 9, 0],
-    :"temple" => [2144, 21049, ["SECHI","SETSU","SATSU"], [""], [""], ["temple"], 8, 0],
+    :"moment" => [2144, 21049, ["SECHI","SETSU","SATSU"], [""], [""], ["moment","temple"], 8, 0],
     :"peel*off" => [2145, 21093, ["HAKU","HOKU"], ["he.gu","hezu.ru","mu.ku","mu.keru","ha.gareru","ha.gu","ha.geru","ha.gasu"], [""], ["peel off","come off","peel","fade","discolor"], 8, 0],
     :"shave" => [2146, 21059, ["TEI"], ["mai","so.ru","su.ru"], [""], ["shave"], 0, 0],
     :"aroma" => [2147, 21250, [""], ["nio.u","nio.i","nio.waseru"], ["ori","kou","sagi"], ["aroma","fragrant","stink","glow","insinuate","(kokuji)"], 8, 0],
