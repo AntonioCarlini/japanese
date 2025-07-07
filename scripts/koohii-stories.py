@@ -244,7 +244,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
         </style>
     </head>
     <body>
-        <h1>Kanji Stories (1-3000)</h1>
+    """ + f"    <h1>Kanji Stories (1-{KANJI_MAX_FRAME_NUMBER})</h1>" + """
         <table>
             <colgroup>
                 <col class="col1">
@@ -330,7 +330,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
     # Add the second table for frame numbers > 3000 (only for entries that exist in the input data)
     html_content += """
         </table>
-        <h1>Non-Kanji Stories (3001+)</h1>
+        """ + f"    <h1>Non-Kanji Stories ({KANJI_MAX_FRAME_NUMBER+1}+)</h1>" + """
         <table>
             <colgroup>
                 <col class="col1">
