@@ -132,8 +132,7 @@ def parse_csv(file_name):
                     ref_frame = kanji_to_frame.get(ref_kanji)
 
                 if ref_frame is not None:
-                    if ref_frame <= KANJI_MAX_FRAME_NUMBER:
-                        frame_number_map[ref_frame].append(frame_number)
+                    frame_number_map[ref_frame].append(frame_number)
                 else:
                     if REPORT_NON_HEISIG_KANJI:
                         missing_kanji_map[ref_kanji].add(frame_number)
