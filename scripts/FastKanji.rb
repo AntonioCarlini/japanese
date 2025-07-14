@@ -2638,7 +2638,7 @@ class KD
     :"cuff" => [2624, 35070, ["KYO","KO"], ["suso"], [""], ["cuff","hem","foot of mountain"], 8, 0],
     :"lined*(kimono)" => [2625, 34999, ["KOU","KYOU"], ["awase"], [""], ["lined (kimono)"], 0, 0],
     :"men's*formal*divided*skirt" => [2626, 34996, ["KO","KU"], ["hakama","zubon"], [""], ["men's formal divided skirt"], 9, 0],
-    :"opaque*sliding*door" => [2627, 35158, ["OU"], ["fusuma","ao"], [""], ["opaque sliding door"], 9, 0],
+    :"sliding*door" => [2627, 35158, ["OU"], ["fusuma","ao"], [""], ["sliding door","opaque sliding door"], 9, 0],
     :"a*reed*instrument" => [2628, 31513, ["SHYOU","SOU"], ["fue"], [""], ["a reed instrument"], 9, 1],
     :"raft" => [2629, 31567, ["BATSU","HATSU","BOCHI"], ["ikada"], [""], ["raft"], 0, 0],
     :"bamboo*screen" => [2630, 31806, ["REN"], ["sudare","su"], ["misu"], ["bamboo screen","rattan blind"], 9, 0],
