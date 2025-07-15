@@ -3239,6 +3239,7 @@ class KD
     :"skunk" => [35960, 35960, ["TAI","CHI"], [""], [""], ["skunk"], 0, 0],
     :"excess" => [36101, 36101, ["ZEI","SEI"], ["ibo"], [""], ["excess"], 0, 0],
     :"squeek" => [36555, 36555, ["ATSU"], ["kishi.ru","kishi.ku"], [""], ["squeek"], 0, 0],
+    :"run*over" => [36706, 36706, ["REKI"], ["hi.ku","kishi.ru"], [""], ["run over"], 0, 0],
     :"ketchup" => [36767, 36767, ["HEKI","HI"], ["kimi","hira.ku","me.su"], [""], ["ketchup"], 0, 0],
     :"road*primitive" => [36790, 36790, ["CHAKU"], [""], [""], ["road primitive"], 0, 0],
     :"far*off*[old]" => [36953, 36953, ["YOU"], ["haru.ka"], [""], ["far off [old]"], 0, 0],
