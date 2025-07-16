@@ -3070,6 +3070,7 @@ class KD
     :"as*it*is" => [20760, 20760, ["JIN"], ["mama","kotogotoku"], [""], ["as it is"], 0, 0],
     :"fleeting" => [20762, 20762, ["BOU","MOU"], ["hakana.i","kura.i"], [""], ["fleeting"], 0, 0],
     :"human*legs" => [20799, 20799, ["JIN","NIN"], ["gai"], [""], ["human legs"], 0, 0],
+    :"pi" => [20800, 20800, ["KOTSU"], [""], [""], ["pi"], 0, 0],
     :"devil" => [20817, 20817, [""], [""], [""], ["devil"], 0, 0],
     :"convey" => [20842, 20842, ["YU"], ["shikari"], [""], ["convey"], 0, 0],
     :"owl*primitive" => [20852, 20852, [""], [""], [""], ["owl primitive"], 0, 0],
