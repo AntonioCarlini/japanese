@@ -2401,7 +2401,7 @@ class KD
     :"cutting*(grass)" => [2387, 33477, ["GAI","KAI"], ["ka.ru"], ["kari","karu","kan"], ["cutting (grass)"], 0, 0],
     :"lid" => [2388, 33995, ["GAI","KAI","KOU"], ["futa","keda.shi","oo.u","kasa","kakou"], [""], ["lid","cover","flap"], 8, 0],
     :"stone*leek" => [2389, 33905, ["SOU"], ["negi"], [""], ["stone leek","Welsh onion"], 0, 0],
-    :"ignore" => [2390, 34065, ["BETSU"], ["naigashiro","nami.suru","kurai","sagesu.mu"], [""], ["ignore","despise","neglect","ridicule"], 8, 0],
+    :"revile" => [2390, 34065, ["BETSU"], ["naigashiro","nami.suru","kurai","sagesu.mu"], [""], ["revile","ignore","despise","neglect","ridicule"], 8, 0],
     :"hollyhock" => [2391, 33909, ["KI"], ["aoi"], ["mamoru","ke"], ["hollyhock"], 9, 1],
     :"thatch" => [2392, 33914, ["SHYUU"], ["ashi","fu.ku","fuki"], [""], ["thatch","cover","shingle","tile"], 9, 0],
     :"pistil" => [2393, 34122, ["ZUI"], ["shibe"], [""], ["pistil","stamen"], 0, 0],
