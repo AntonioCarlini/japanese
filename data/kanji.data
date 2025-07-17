@@ -2747,7 +2747,7 @@
  2747 :  0x918d :  :  DAI TAI TEI :   :   :  {whey} {good Buddhist teaching} :  9 :  
  2748 :  0x914e :  :  CHYUU CHYU :  kamo.su :   :  {hooch} {sake} :  8 :  
  2749 :  0x9190 :  :  GO KO :   :   :  {ghee} {boiled butter} :  9 :  
- 2750 :  0x9192 :  :  SEI :  sa.masu sa.meru :   :  {awake} {be disillusioned} {sober up} :  8 :  
+ 2750 :  0x9192 :  :  SEI :  sa.masu sa.meru :   :  {awakening} {awake} {be disillusioned} {sober up} :  8 :  
  2751 :  0x9187 : atsui moppara :  JUN SHYUN :  moppara koi atsui :   :  {pure sake'} {purity} {affection} :  9 :  1
  2752 :  0x9eba : mugiko :  MEN BEN :  mugiko :   :  {noodles} {wheat flour} :  8 :  
  2753 :  0x9eb9 : kouji :  KIKU :  kouji :   :  {malt} {yeast} :   :  
@@ -3038,6 +3038,7 @@
 20016 :  0x4e30 :  :HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
 20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
+20029 :  0x4e3d :  :  :  : : {crocodile eyes} : :
 20039 :  0x4e47 :  : TAKU CHAKU : : : {lock of hair} : : 
 20045 :  0x4e4d :  : SA SAKU : -naga.ra tachima.chi : : {saw} : :
 20058 :  0x4e5a : kaku.su : IN ON : kaku.su kaku.reru kaka.su yo.ru : : {hook} : : 
@@ -3059,6 +3060,7 @@
 20800 :  0x5140 :  : KOTSU :  : : {pi} : :
 20817 :  0x5151 :  :  :  : : {devil} : : 
 20842 :  0x516a :  : YU : shikari : : {convey} : :
+20851 :  0x5173 :  :  :  : : {golden calf} : :
 20852 :  0x5174 :  :  :  : : {owl primitive} : :
 20854 :  0x5176 :  : KI GI GO : sore sono : : {rook} : :
 20866 :  0x5182 :  : KYOU KEI :  : : {belt} : :
@@ -3072,6 +3074,7 @@
 20981 :  0x51f5 :  : kan :  : : {shovel} : :
 20994 :  0x5202 :  : TOU :  : : {sabre} : :
 21014 :  0x5216 : ki.ru : GETSU GECHI GOTSU GOCHI : ki.ru ayau.i : : {butcher} : : 
+21085 :  0x525d :  : HAKU HOKU : he.gu  hezu.ru mu.ku mu.keru ha.gareru ha.gu hageru ha.gasu: : {peels off [old]} : :
 21241 :  0x52f9 : tsutsu.mu : HOU : tsutsu.mu : : {bound up} : : 
 21274 :  0x531a :  : HOU :  : : {cardboard box} : :
 21312 :  0x5340 :  : KU OU KOU :  : : {ward [old]} : :
@@ -3109,6 +3112,7 @@
 22829 :  0x592d :  : YOU OU KA : waka.i wakajini wazawai : : {sapling} : :
 22841 :  0x5939 :  :  :  : : {scissors primitive} : :
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
+22887 :  0x5967 :  : OU OKU : oku.maru kuma : : {core [old]} : :
 23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
 23408 :  0x5b70 :  : JUKU : izure tare : : {sooner or later} : :
@@ -3133,6 +3137,7 @@
 24343 :  0x5f17 :  : FUSTU HOCHI : doru zu : : {dollar} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 24401 :  0x5f51 :  : KEI :  : : {broom primitive (old)} : :
+24404 :  0x5f54 :  : ROKU : kiza.mu : : {old videotape} : :
 24405 :  0x5f55 :  :  :  : : {dustpan} : :
 24417 :  0x5f61 :  : SAN SEN :  : : {hair primitive} {shape} : :
 24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
@@ -3186,6 +3191,7 @@
 29357 :  0x72ad :  :  :  : : {wild dog} : :
 29519 :  0x734f :  : BAKU MYAKU :  : : {baku} : : 
 29996 :  0x752c :  : YOU :  : : {pogo stick} : :
+30078 :  0x757e :  : RUI RAI SUI : toride : : {three fields} : :
 30098 :  0x7592 :  : DAKU NYAKU SOU JOU SHITSU : ya.mu : : {caveman} : :
 30339 :  0x7683 :  : BOU BAKU : katara katadoru : : {snowman} : :
 30433 :  0x76e1 :  : JIN SAN :tsu.kusu tsu.kiru tsu.kasu sakuduki kotogoto.ku : : {exhausted} : :
