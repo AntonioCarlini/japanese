@@ -2198,20 +2198,20 @@ MEANING: write *bird* (*{鳥}*), but skip writing *one* in *white*."
 2036,隷,"slave",0,2012-09-02 10:06:51,"The *samurai* sits on the *altar* and watches the #slave# *rake* *rice grains* all day."
 2037,癒,"healing",0,2012-08-10 12:25:30,"At the *butcher's meeting*, all the butchers who have *heart disease* attend the faith healing workshop."
 2038,丹,"cinnabar",0,2012-08-05 13:28:06,"How about a rusty cinnabar colored dilapidated boat, found abandoned somewhere. The smoke-stack and the keel have fallen off..."
-2039,潟,"lagoon",0,2012-08-05 16:22:58,"Right part: *mortar* over *bound up* *oven fire*, comprising *boiling cauldron*. #Lagoon# is a shallow pond, thus easily warmed by sun, large-scale equivalent of a *boiling cauldron*. (Note: mortar = back-to-back staples)."
+2039,潟,"lagoon",0,2025-07-20 17:04:47,"You are walking into this beautiful lagoon. You turn around and see a *magpie* (*{舄}*) stealing your jewellery! You run after it still dripping with *water* (*{氵}*)."
 2040,丑,"sign of the cow",0,2012-08-05 13:29:17,"77 cows behind a fence."
 2041,卯,"sign of the hare",0,2012-08-05 13:29:32,"*rabbit ears*"
 2042,巳,"sign of the snake",0,2012-07-26 17:26:27,"The 巳nd!!! =D"
-2043,此,"this here",0,2025-07-19 07:40:04,"""This here is our destination."", the tour guide says. ""*Stop* (*{止}*) and *sit down*. """
-2044,柴,"brushwood",0,2014-01-01 09:23:24,"(From mantixen's) I'll *{370}* and *sit down* on *this here* *{195}*, which happens to be brushwood."
-2045,砦,"fort",0,2014-01-01 09:24:37,"*Stop and sit down* to listen to the tour guide's story. ""That *{113}* down there used to be a fort, but the enemy came and tore the place down. It has never been rebuilt""."
-2046,些,"whit",0,2014-01-01 09:24:50,"Those two tourists from my tour group don't have a whit of common sense. They never *stop and sit down* when the tour guide tells them to!"
+2043,此,"this here",0,2025-07-20 17:25:39,"""#This here# is our destination."", the tour guide says. ""*Stop* (*{止}*) and *sit* (*{匕}*) down. """
+2044,柴,"brushwood",0,2025-07-20 17:26:04,"I'll *{止}* and *sit* (*{匕}*) down on *this here* (*{此}*) *tree* (*{木}*), which happens to be brushwood."
+2045,砦,"fort",0,2025-07-20 16:59:40,"*Stop* (*{止}*) and *sit* (*{匕}*) down to listen to the tour guide's story. ""That *stone* (*{石}*) down there used to be a fort, but the enemy came and tore the place down. It has never been rebuilt""."
+2046,些,"whit",0,2025-07-20 17:26:32,"Those *two* (*{二}*) tourists from my tour group don't have a whit of common sense. They never *stop* (*{止}*) and *sit* (*{匕}*) down when the tour guide tells them to!"
 2047,髭,"beard",0,2025-06-23 03:31:33,"He had *long* (*{長}*) *hair* (*{彡}*) in his beard because he couldn't *stop* (*{止}*) and *sit* (*{匕}*) down to trim it. 
 
 ""Please *stop and sit down* to look to the painting up there"", the tour guide says. ""We don't know exactly who is on the painting, but from the hair*'s *shape* (*{形}*) and the distinctive beard, we think they meant to depict President Lincoln."""
-2048,璃,"crystal",0,2014-01-01 09:27:28,"The *king* gifts a crystal to the visiting *sheik*."
-2049,禽,"fowl",0,2014-01-01 09:27:42,"The *sheik* enjoys a feast of fowl under an *umbrella*."
-2050,檎,"apple",0,2015-11-06 08:45:58,"The SHIEK knocks an apple down from the *tree* (*{木}*) using a *fowl* (*{禽}*)."
+2048,璃,"crystal",0,2025-07-20 17:00:49,"The *king* (*{王}*) gifts a crystal to the visiting *sheik* (*{离}*)."
+2049,禽,"fowl",0,2025-07-20 17:01:03,"The *sheik* (*{离}*) enjoys a feast of fowl under an *umbrella*."
+2050,檎,"apple",0,2025-07-20 16:56:38,"The *sheik* (*{离}*) knocks an apple down from the *tree* (*{木}*) using a *fowl* (*{禽}*)."
 2051,憐,"sympathize with",0,2014-01-01 09:28:31,"Tom Cruise - American with sunglasses (thanks synewave). I can't sympathize with Tom Cruise's *state of mind* regarding scientology."
 2052,燐,"phosphorus",0,2014-01-01 09:29:04,"Tom Cruise's shoes caught on *{161}*, because he was using phosphorous to shine them."
 2053,麟,"camelopard",0,2016-08-17 05:19:09,"As a scientologist, a *deer* (*{鹿}*) to TOM CRUISE, is not just a deer. It is actually a descendent of a camelopard that was sent by extraterrestrials"
@@ -3098,8 +3098,12 @@ TODO"
 30836,硴,"oyster shell",0,2017-09-14 07:28:42,"#oyster shell#: People used to think that #oyster shells# on the shore were petals of *stone* (*{石}*) *flower* (*{花}*) from the deep."
 30844,硼,"boron",0,2025-03-07 16:43:33,"#boron# is an element found in *stones* (*{石}*) that has 5 pairs of protons and electrons as *companions* (*{朋}*)."
 31035,礻,"altar",0,2025-02-26 14:54:25,"""ね, do you believe in gods?"" (katakana ネ ""Ne"")."
+31160,禸,"rump",0,2025-07-20 16:54:35,"Rump was attached to the *belt* (*{冂}*) and steadied with an *elbow* (*{厶}*)."
 31162,禺,"Jiminy Cricket",0,2025-04-16 12:47:03,"Jiminy Cricket: a brainy insect, with a belt sort of sash to hold his ""conscience"" badge ... see (*{偶}*).
 The kanji is  Long Tailed Monkey."
+31163,离,"sheik",0,2025-07-20 16:56:20,"Sheik with a *top hat* (*{亠}*), known *villain* (*{凶}*) to all, was eating a *rump* (*{禸}*) from a rare beast.
+
+(The kanji actually means ""rare beast"")."
 31166,禾,"wheat",0,2025-03-08 05:40:04,"Wheat
 
 Not actually a stand alone 漢字, this is a standard radical given the name のぎ, because it is a Katakana ノ written above *tree* (*{木}*)."
@@ -3118,6 +3122,15 @@ Not actually a stand alone 漢字, this is a standard radical given the name の
 32895,聿,"brush",0,2025-02-21 15:23:03,"Radical number 129 meaning #brush#. It is a pictograph of *fingers* (*{彐}*) holding a brush."
 32896,肀,"rake",0,2025-03-23 19:25:15,"肀 is rake. Its elements are (*{彐}*) and (*{丨}*)."
 32921,肙,"small worm",0,2025-03-12 18:08:28,"#Small worm# is just hungry *mouth* (*{口}*) and a bit of a *flesh* (*{月}*)."
+33284,舄,"magpie",0,2025-07-20 17:24:58,"Means magpie/clogs.
+
+http://zhongwen.com/d/219/x87.htm
+
+Not used in Japanese.
+
+The character is bird but drawn oddly.
+
+The #magpie# is going to be punished. This thieving *bird* has had its *tail feathers* *bound* (*{勹}*) so that it can't fly away and they're going to grind its head in a *mortar* (*{臼}*)!"
 33307,舛,"dancing legs",0,2025-03-13 18:14:35,"The dancing radical, number 136. It evolved in Chinese from a picture of a left foot and a right foot."
 33390,艮,"bright-silver",0,2025-04-03 11:44:07,"[ #silver (primitive)# ] - RHS of full silver {銀} kanji; note unusual drawing order: ‘彐‘ first, then long vertical line; when on LHS, last two strokes may be omitted; don’t confuse with good {良}"
 33400,艸,"grass radical full",0,2025-05-10 12:42:19,"Full form of the grass radical (*{艹}*)."
