@@ -3100,6 +3100,7 @@ class KD
     :"elbow*primitive" => [21430, 21430, ["SHI","BOU","MU"], ["watakushi","goza.ru"], [""], ["elbow primitive"], 0, 0],
     :"concatenate" => [21461, 21461, ["TEI","TETSU","TECHI","GETSU","I"], ["to.jiru","tsudu.ru","sumi.ya","ka"], [""], ["concatenate"], 0, 0],
     :"hobby" => [21466, 21466, ["KA","KE"], ["ka.riru","ka.su"], [""], ["hobby"], 0, 0],
+    :"respectable*old*man" => [21471, 21471, ["SOU","SHUU"], ["okina"], [""], ["respectable old man"], 0, 0],
     :"to*mutter" => [21599, 21599, ["GEN"], ["tsubuya.ku"], [""], ["to mutter"], 0, 0],
     :"muzzle" => [21637, 21637, ["TOU"], [""], [""], ["muzzle"], 0, 0],
     :"jawbone" => [21692, 21692, ["KAI","KE","KUU","KA"], ["yokoshima","kuchigayugamu","yuga.mu"], [""], ["jawbone"], 0, 0],
