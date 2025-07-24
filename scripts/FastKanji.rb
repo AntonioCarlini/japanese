@@ -2792,7 +2792,7 @@ class KD
     :"drop" => [2778, 38635, ["DA"], ["shizuku"], [""], ["drop","trickle","dripping","(kokuji)"], 9, 0],
     :"haze" => [2779, 38686, ["KA","GE"], ["kasumi","kasu.mu"], [""], ["haze","be hazy","grow dim","blurred"], 9, 1],
     :"letter" => [2780, 32752, ["KAN"], ["hane","fude","yamadori","fumi"], [""], ["letter","writing brush"], 0, 0],
-    :"go*around" => [2781, 26017, ["ATSU","KAN","WATSU"], ["megu.ru","megu.rasu"], [""], ["go around","rule","administer"], 9, 0],
+    :"auspices" => [2781, 26017, ["ATSU","KAN","WATSU"], ["megu.ru","megu.rasu"], [""], ["auspices","go around","rule","administer"], 9, 0],
     :"saddle" => [2782, 38797, ["AN"], ["kura"], [""], ["saddle"], 9, 0],
     :"whip" => [2783, 38829, ["BEN","HEN"], ["muchi","muchiutsu"], [""], ["whip","rod","counter for whippings"], 9, 0],
     :"sheath" => [2784, 38808, ["SHYOU","SOU"], ["saya"], [""], ["sheath","case","margin","difference","shells (of beans)"], 9, 0],
