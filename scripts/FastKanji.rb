@@ -2740,7 +2740,7 @@ class KD
     :"secret*agent" => [2726, 35548, ["CHYOU"], ["chyou.zuru","ukaga.u","shime.su"], [""], ["secret agent","reconnoiter"], 0, 0],
     :"notes" => [2727, 35387, ["CHYUU"], [""], [""], ["notes","comment","annotate"], 9, 0],
     :"illustrate" => [2728, 35692, ["HI"], ["tato.eru","tato.e"], [""], ["illustrate"], 0, 0],
-    :"roar" => [2729, 36703, ["GOU","KOU"], ["todoro.kasu","todoro.ku"], [""], ["roar","thunder","boom resound"], 9, 0],
+    :"rumble" => [2729, 36703, ["GOU","KOU"], ["todoro.kasu","todoro.ku"], [""], ["rumble","roar","thunder","boom resound"], 9, 0],
     :"reinforce" => [2730, 36628, ["HO","HU"], ["tasu.keru"], ["suke","tasuku","yuu"], ["reinforce","help"], 9, 1],
     :"spoke*(wheel)" => [2731, 36667, ["HUKU"], ["ya"], [""], ["spoke (wheel)"], 0, 0],
     :"assemble" => [2732, 36655, ["SHYUU"], ["atsu.meru","yawa.ragu"], [""], ["assemble","gather","collect","compile"], 9, 0],
