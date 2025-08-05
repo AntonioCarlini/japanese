@@ -7,9 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 </head>
 
-@HIMITSU{{}}
-
-
 @GRMIDX{{index="@HI{{majiki}}" grammar="@HI{{majiki}}"}}
 
 <body>
@@ -32,7 +29,7 @@
 
 <table class="sentence" border=0>
   <tr class="jp"> <td>
-      @HI{{@FG{{@KJ{{weak}}:yowa}}imonowoijimerunante,@FG{{@KJ{{permit}}:yuru}}su@EM{{majika}}kotodesu.}}
+      @HI{{@FG{{@KJ{{weak}}:yowa}}imonowoijimerunante,@FG{{@KJ{{permit}}:yuru}}su@EM{{majiki}}kotodesu.}}
   </td> </tr>
   <tr class="en"> <td>
       Bullying the weak is unforgivable.
@@ -52,6 +49,7 @@ This is a formal spoken expression.
 
 <ol>
 <li> @REF{{NKZM-N1G}}. (p. 59).
+<li> @REF{{HJGPTL}}. (p. 14).
 </ol>
 
 @include{{"grammar-footer.inc"}}
