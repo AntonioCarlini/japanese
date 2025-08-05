@@ -3253,6 +3253,7 @@ class KD
     :"accent" => [35355, 35355, ["KA"], ["tama.ru","tama.ri","ayamaru"], [""], ["accent"], 0, 0],
     :"deceive" => [35473, 35473, ["KYOU"], ["tabaka.ru","tabura.kasu","ta.rasu"], [""], ["deceive"], 0, 0],
     :"sow*(female*pig)" => [35925, 35925, ["SHI"], [""], [""], ["sow (female pig)"], 0, 0],
+    :"porky" => [35929, 35929, ["GI"], ["soko.nau"], [""], ["Porky"], 0, 0],
     :"wild*boar" => [35942, 35942, ["KYO","GO"], ["yamenai"], [""], ["wild boar"], 0, 0],
     :"skunk" => [35960, 35960, ["TAI","CHI"], [""], [""], ["skunk"], 0, 0],
     :"excess" => [36101, 36101, ["ZEI","SEI"], ["ibo"], [""], ["excess"], 0, 0],
