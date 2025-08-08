@@ -2294,7 +2294,7 @@
  2294 :  0x6cea :  :  RUI REI :  namida :   :  {teardrops} {tears} {weep} {cry} :   :  
  2295 :  0x6e3e :  :  KON :  sube.te nigo.ru :   : {gushing} {all} {turbidity} :   :  
  2296 :  0x6c99 : yonageru :  SA SHYA :  suna yonageru :   :  {grains of sand} {sand} :  8 :  1
- 2297 :  0x6d9c : kega.re :  TOKU TOU :  kega.su kega.re mizo :   :  {defile} {blaspheme} {ditch} :   :  
+ 2297 :  0x6d9c : kega.re :  TOKU TOU :  kega.su kega.re mizo :   :  {blaspheme} {defile} {ditch} :   :  
  2298 :  0x6deb : hoshiimama midari :  IN :  hita.su hoshiimama mida.ra mida.reru midari :   :  {lewdness} {licentiousness} :  8 :  
  2299 :  0x6881 : uchibari utsubari yana :  RYOU :  hari utsubari uchibari yana hashi :   :  {roofbeam} {weir} {fish trap} {beam} {girder} :  9 :  
  2300 :  0x6fb1 : do.ro yodo.mi :  DEN TEN :  ori do.ro yodo.mi yodo.mu :   :  {sediment} {grounds} {dregs} {stagnant} :   :  
@@ -2316,7 +2316,7 @@
  2316 :  0x6c70 : ogo.ru yona.geru :  TA TAI :  ogo.ru nigo.ru yona.geru :   :  {luxury} {select} :  8 :  1
  2317 :  0x6e5b :  :  TAN CHIN JIN SEN :  shizu.mu tata.eru :  kan kiyo tatau tatae yasu :  {fill} {wear (a smile)} {clear} {pure} {dense} {deep} :  9 :  
  2318 :  0x6df3 :  :  JUN SHYUN :  atsu.i :  atsu atsushi kiyo kiyoshi makoto sunao :  {immaculate} {pure} :  9 :  1
- 2319 :  0x6f70 : tsubu.reru tsubu.su :  KAI E :  tsubu.su tsubu.reru tsui.eru :   :  {crush} {smash} {break} {dissipate} :  8 :  
+ 2319 :  0x6f70 : tsubu.reru tsubu.su :  KAI E :  tsubu.su tsubu.reru tsui.eru :   :  {defile} {crush} {smash} {break} {dissipate} :  8 :  
  2320 :  0x6e25 :  :  AKU :  atsu.i uruo.u :  atsushi :  {kindness} {moisten} :  9 :  1
  2321 :  0x7058 : nada :  TAN DAN :  nada se :  dana nan :  {rough seas} {open sea} :  9 :  
  2322 :  0x6c72 :  :  KYUU :  ku.mu :  kumi :  {draw water} {draw (water)} {ladle} {scoop} {pump} :  9 :  
@@ -2740,7 +2740,7 @@
  2740 :  0x8e93 :  :  CHI :  tsumazu.ku :   :  {stumble} :   :  
  2741 :  0x8e44 : hidume :  TEI :  hidume :   :  {hoof} :  9 :  
  2742 :  0x8e74 : ke.ru :  SHYUKU SHYUU :  ke.ru :   :  {kick} :  8 :  
- 2743 :  0x8e5f :  :  SEKI SHYAKU :  ato :   :  {remains} {traces} {footprint} :  9 :  
+ 2743 :  0x8e5f :  :  SEKI SHYAKU :  ato :   :  {vestiges} {remains} {traces} {footprint} :  9 :  
  2744 :  0x8de8 : mata.garu mata.gu mataga.ru :  KO KA :  mata.garu mataga.ru mata.gu :   :  {be} {sit or stand astride} {extend over} {straddle} :  9 :  
  2745 :  0x8dea : hizamazu.ku :  KI :  hizamazu.ku :   :  {kneel} :   :  
  2746 :  0x91a4 : hishio :  SHYOU :  hishio :   :  {soy sauce} {a kind of miso} :   :  
@@ -2871,7 +2871,7 @@
  2871 :  0x6b86 : ayaui hotohoto hoton.do :  TAI SAI :  hotohoto hoton.do ayaui :   :  {almost} {quite} {really} :  9 :  
  2872 :  0x5b5f :  :  MOU BOU MYOU :  kashira :  takeshi take haru hajime tsutomu osa hai :  {start} {chief} {beginning} :  9 :  1
  2873 :  0x724c : pai :  HAI :  pai fuda :   :  {mahjong tiles} {label} {signboard} {medal} {mahjong tiles} :   :  
- 2874 :  0x9ab8 :  :  GAI KAI :  mukuro :   :  {bone} {body} {corpse} :  8 :  
+ 2874 :  0x9ab8 :  :  GAI KAI :  mukuro :   :  {remains} {bone} {body} {corpse} :  8 :  
  2875 :  0x8997 :  :  SHI :  nozo.ku ukaga.u :   :  {peek} {peep} {come in sight} :   :  
  2876 :  0x5f6a : HYUU :  HYOU HYUU :  aya :  takeshi take akira kaoru takeki tsuyoshi tora :  {spotted} {mottled} {patterned} {small tiger} :  9 :  1
  2877 :  0x79e6 :  :  SHIN :  hata :  tai hada yasu :  {Manchu dynasty} {name given to naturalized foreigners} :  9 :  1
