@@ -2675,7 +2675,7 @@ class KD
     :"string" => [2661, 32016, ["CHYUU","JUU"], ["himo"], [""], ["string","cord","braid","lace","tape","strap","ribbon"], 9, 0],
     :"chinstrap" => [2662, 32024, ["KOU"], ["ooduna","tsuna","tsunagu"], ["hiro","hiroshi"], ["chinstrap","large"], 9, 1],
     :"summarize" => [2663, 32399, ["TEN","DEN"], ["matsu.waru","mato.u","mato.meru","mato.maru","mato.i"], [""], ["summarize","wear","wrap","tie","follow around","collect"], 9, 0],
-    :"brilliant*fabric*design" => [2664, 32098, ["KEN"], [""], ["jun","aya"], ["brilliant fabric design"], 9, 1],
+    :"gorgeous" => [2664, 32098, ["KEN"], [""], ["jun","aya"], ["gorgeous","brilliant fabric design"], 9, 1],
     :"embroidery" => [2665, 32333, ["SHYUU"], ["nuitori"], [""], ["embroidery","sew","figured cloth"], 0, 0],
     :"pongee*(a*knotted*silk*cloth)" => [2666, 32044, ["CHYUU"], ["tsumugi","tsumu.gu"], [""], ["pongee (a knotted silk cloth)"], 9, 1],
     :"ornate" => [2667, 32186, ["KI"], ["aya"], [""], ["ornate","figured cloth","beautiful"], 9, 1],
