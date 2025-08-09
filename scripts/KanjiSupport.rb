@@ -15,6 +15,10 @@ def find_kanji_unicode_from_keyword(keyword)
   return k.nil?() ? nil : k.unicode()
 end
 
+#+
+# Given a string (text), which is assumed to be the name of a single kanji, this function
+# looks up that name (e.g. "person") and replaces it with the corresponding kanji (in this case 人).
+#-
 def convert_to_kanji(text, raise_exception_on_error: false)
   kanji = {
     :hon => 0x672c, :watashi => 0x79c1,
@@ -41,17 +45,24 @@ def convert_to_kanji(text, raise_exception_on_error: false)
     :maruhi => 3299, # "secret"
   }
 
-  text.gsub!(%r{['’()/a-zA-Z0-9.\[\]*-]+}).each() {
+
+  # This will find a valid kanji name and replace it with the result of the block processing.
+  # A kanji name can be any alphabetic character (upper or lowercase) or a digit or any of a set of
+  # permitted symbols:
+  # ' ’ ( ) / . [ ] * - ?
+  # The resulting name is looked up and replaced with the Unicode character found.
+  text.gsub!(%r{[-'’()/a-zA-Z0-9.\[\]*?]+}).each() {
     |word|
     result = ""
     code = kanji[word.downcase().to_sym()]
     code = find_kanji_unicode_from_keyword(word.downcase()) if code.nil?()
     if code.nil?()
       result += "&lt;UNKNOWN KANJI [#{word}]&gt;"
+      error_message = "UNKNOWN kanji [#{word}] specified as [#{text}]"
       if raise_exception_on_error
-        raise ProcessingError, "UNKNOWN kanji [#{word}]"
+        raise ProcessingError, error_message
       else
-        $stderr.puts("KANJI: UNKNOWN kanji [#{word}]")
+        $stderr.puts(error_message)
       end
     else
       result += jp_unicode(code)
