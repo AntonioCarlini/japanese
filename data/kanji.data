@@ -2058,7 +2058,7 @@
  2058 :  0x4ffa :  :  EN :  ore ware :   : {myself}  {I} :  8 :  
  2059 :  0x609b :  :  SHYUN SEN :  arata.meru :   :  {make amends} {amend} :   :  
  2060 :  0x99ff :  :  SHYUN SUN :  sugu.reru :  suru toshi hayashi hayao :  {steed} {a good horse} {speed} {a fast person} :  9 :  1
- 2061 :  0x5cfb :  :  SHYUN :  kewa.shii taka.i :  taka takashi chika toshi oka :  {high} {steep} :  9 :  1
+ 2061 :  0x5cfb :  :  SHYUN :  kewa.shii taka.i :  taka takashi chika toshi oka :  {steep} {high} :  9 :  1
  2062 :  0x7ae3 :  :  DOU SHYUN :  warawa warabe owa.ru :   :  {complete a job} {end} {finish} :  9 :  1
  2063 :  0x81fc : usu usudu.ku :  KYUU GU :  usu usudu.ku :   :  {mortar} :  8 :  
  2064 :  0x8205 :  :  KYUU :  shyuuto :   :  {father-in-law} :   :  
@@ -2227,7 +2227,7 @@
  2227 :  0x5d16 : gake :  GAI GE GI :  gake kishi hate :   :  {bluffs} {cliff} {bluff} {precipice} :  8 :  
  2228 :  0x5dba :  :  REI RYOU :   :  mine ne : {mountaintop} {peak} {summit} :  9 :  1
  2229 :  0x5d4c :  :  KAN :  ha.meru ha.maru ana :   :  {fit into} {go into} {plunge} {inlay} :   :  
- 2230 :  0x5d6f :  :  SA SHI :   :   :  {steep} {craggy} {rugged} :  9 :  1
+ 2230 :  0x5d6f :  :  SA SHI :   :   :  {rocky} {steep} {craggy} {rugged} :  9 :  1
  2231 :  0x5e16 : kakimono :  CHYOU JOU :  kakimono :   :  {quire} {black soil} {quire (of paper)} {bundle of seaweed} {counter for screens} {notebook} :  9 :  
  2232 :  0x5e61 :  :  MAN HAN BAN HON :  hata :  ha wata :  {banner} {flag} :  9 :  
  2233 :  0x5e5f : nobori :  SHI :  nobori :   :  {pennant} {flag} {banner} {streamer} :   :  
