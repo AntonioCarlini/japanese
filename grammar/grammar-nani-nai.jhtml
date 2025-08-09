@@ -11,7 +11,7 @@
 
 
 @GRMIDX{{index="@HI{{naninai}}" grammar="@KJ{{what}}~@HI{{nai}}"}}
-@GRMIDX{{index="@HI{{darehitoriinai}}" grammar="@KJ{{who^one^person}}@HI{{inai}}"}}
+@GRMIDX{{index="@HI{{darehitoriinai}}" grammar="@KJ{{who?^one^person}}@HI{{inai}}"}}
 
 <body>
 
@@ -45,11 +45,11 @@ The @KJ{{what}}~@HI{{nai}} is a structure that indicates that something does not
 
 @BGRND{{}}
 <p>
-@KJ{{who^one^person}}@HI{{inai}} is an expression that indicates the lack of human presence.
+@KJ{{who?^one^person}}@HI{{inai}} is an expression that indicates the lack of human presence.
 
 <table class="sentence">
   <tr class="jp"> <td>
-      @HI{{kono@KT{{doitsu}}no@FG{{@KJ{{one-sided^rice*field^cottage}}:katainaka}}no@KJ{{station}}no@FG{{@KJ{{wait^fit^room}}:machiaishitsu}}niha@KJ{{who^one^person}}inakatta.}}
+      @HI{{kono@KT{{doitsu}}no@FG{{@KJ{{one-sided^rice*field^cottage}}:katainaka}}no@KJ{{station}}no@FG{{@KJ{{wait^fit^room}}:machiaishitsu}}niha@KJ{{who?^one^person}}inakatta.}}
   </td> </tr>
   <tr class="en"> <td>
       There was not a soul in the waiting room of the station in the German countryside.

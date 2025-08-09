@@ -2723,7 +2723,7 @@ class KD
     :"riddle" => [2709, 35598, ["MEI","BEI"], ["nazo"], [""], ["riddle","puzzle","enigma","hint","tip"], 8, 0],
     :"fact" => [2710, 35538, ["RYOU"], ["akira.ka","makotoni"], ["aki","masa","makoto"], ["fact","reality","understand","appreciate"], 9, 1],
     :"compliment" => [2711, 35715, ["SAN"], ["ho.meru","tata.eru"], ["sanu"], ["compliment","praise","title on a picture"], 9, 0],
-    :"who" => [2712, 35504, ["SUI"], ["dare","tare","ta"], [""], ["who","someone","somebody"], 8, 0],
+    :"who?" => [2712, 35504, ["SUI"], ["dare","tare","ta"], [""], ["who?","someone","somebody"], 8, 0],
     :"query" => [2713, 35338, ["JIN","SHYUN","SHIN"], ["ki.ku","to.u","tazu.neru"], [""], ["query","request","question","investigate"], 9, 0],
     :"separation" => [2714, 35363, ["KETSU"], ["wakare","wakare.ru"], [""], ["separation","part","secret"], 9, 0],
     :"visit*a*shrine" => [2715, 35427, ["KEI","GEI"], ["kei.suru","mai.ru","ita.ru","mou.deru"], [""], ["visit a shrine"], 8, 0],
