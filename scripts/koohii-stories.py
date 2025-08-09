@@ -139,6 +139,26 @@ def parse_csv(file_name):
 
     return entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame
 
+
+def check_proper_nesting_in_story(s):
+    """
+    Looks through the story and ensures that {{ and }} match and are properly nested
+    """
+    stack = []
+    i = 0
+    while i < len(s):
+        if s.startswith("{{", i):
+            stack.append("{{")
+            i += 2
+        elif s.startswith("}}", i):
+            if not stack:  # Closing without opening
+                return False
+            stack.pop()
+            i += 2
+        else:
+            i += 1
+    return len(stack) == 0  # All opens matched
+
 def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
     """
     Formats the story by applying the following rules:
@@ -158,6 +178,13 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
      the only requirement is that the short-term string does not appear in any story and that can be empirically checked with a simple grep.
     """
     import re
+
+    # Start by making sure that the story has appropriate {{ and }} usage.
+    # If it doesn't, then sanitise it and return it with a prepended warning.
+    if not check_proper_nesting_in_story(story):
+        
+        story = "<B>**WARNING**</B>: THIS-STORY-IS-BADLY-FORMATTED: " + story.replace("{{", "OPEN-<<").replace("}}", "CLOSE->>")
+        return story
 
     # Replace #text# with <b>text</b>
     # This must be done before any "<a href=#NNNN> ... </a>" internal links are introduced
