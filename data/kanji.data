@@ -3084,6 +3084,7 @@
 21367 :  0x5377 :  : KAN KEN : ma.ku maki : : {scroll [old]} : :
 21378 :  0x5382 :  : KAN : karigane : : {cliff} : :
 21430 :  0x53b6 :  : SHI BOU MU : watakushi goza.ru : : {elbow primitive} : :
+21431 :  0x53b7 :  : ZOU : kaina hiji maru.i : : {forearm} : :
 21461 :  0x53d5 :  : TEI TETSU TECHI GETSU I : to.jiru tsudu.ru sumi.ya ka : : {concatenate} : :
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21471 :  0x53df :  : SOU SHUU : okina : : {respectable old man} : :
@@ -3115,6 +3116,7 @@
 22841 :  0x5939 :  :  :  : : {scissors primitive} : :
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
 22887 :  0x5967 :  : OU OKU : oku.maru kuma : : {core [old]} : :
+23044 :  0x5a04 :  : RU ROU : tsuna.gu hi.ku : : {constellation} : :
 23194 :  0x5a9a :  : BI : ko.biru : : {flirt} : :
 23386 :  0x5b5a : tamago : FU : tamago haguku.mu : : {fledgling} : :
 23408 :  0x5b70 :  : JUKU : izure tare : : {sooner or later} : :
@@ -3261,6 +3263,7 @@
 38585 :  0x96b9 :  : SAI SUI : tori : : {turkey} : : 
 38859 :  0x97cb : somu.ku : I : somu.ku : : {locket} : : 
 38893 :  0x97ed :  : KYUU KU :  : : {green onion} : :
+38897 :  0x97f1 :  : SEN : yamanira : : {wild onions} : :
 38967 :  0x9837 :  : GAN KAN :  unazu.ku ago : : {nod} : :
 39136 :  0x98e0 :  :  :  : : {eat primitive} : :
 39171 :  0x9903 :  : GYOU KYOU KOU :  : : {gyoza} : : 
