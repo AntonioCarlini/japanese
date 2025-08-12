@@ -2165,7 +2165,7 @@
  2165 :  0x553e : tsuba :  DA TA :  tsuba tsubaki :   :  {saliva} {sputum} :  8 :  
  2166 :  0x53e9 : hata.ku tata.ku :  KOU :  tata.ku hata.ku sugi :   :  {bash} {strike} {beat} {hit} {thrash} {criticize} :   :  
  2167 :  0x5618 : uso :  KYO KO :  uso fu.ku :   :  {fib} {lie} {falsehood} :   :  
- 2168 :  0x5544 : TSUKU tsutsu.ku :  TAKU TSUKU TOKU :  tsuiba.mu tsutsu.ku :  kuchi hashi bashi :  {peck} {pick up} :  9 :  1
+ 2168 :  0x5544 : TSUKU tsutsu.ku :  TAKU TSUKU TOKU :  tsuiba.mu tsutsu.ku :  kuchi hashi bashi :  {peck at} {peck} {pick up} :  9 :  1
  2169 :  0x546a : majina.i majina.u noro.i noro.u :  JU SHYU SHYUU ZU :  majina.u noro.i majina.i noro.u :   :  {curse} {spell} {charm} {malediction} :  8 :  
  2170 :  0x5420 : ho.eru hoe.ru :  HAI BEI :  hoe.ru ho.eru :   :  {barking} {bark} {howl} {cry} :   :  
  2171 :  0x540a : tsuru.su :  CHYOU :  tsu.ru tsuru.su :   :  {dangle} {suspend} {hang} {wear (sword)} :   :  
@@ -2205,24 +2205,24 @@
  2205 :  0x59d1 : oba shibaraku shyuutome :  KO :  shyuutome shyuuto oba shibaraku :   :  {mother-in-law} :   :  
  2206 :  0x59d0 : neesan :  SO SHYA :  ane neesan :   :  {young miss} {elder sister} {maidservant} :   :  
  2207 :  0x5b09 : ure.shii :  KI :  ure.shii tano.shimu :  urashi ureshi :  {overjoyed} {glad} {pleased} {rejoice} :  9 :  1
- 2208 :  0x5b55 :  :  YOU :  hara.mu :  harami moto :  {become pregnant} :   :  
- 2209 :  0x5b5c :  :  SHI :  tsuto.meru :   :  {industriousness} :  9 :  
+ 2208 :  0x5b55 :  :  YOU :  hara.mu :  harami moto :  {expecting} {become pregnant} :   :  
+ 2209 :  0x5b5c :  :  SHI :  tsuto.meru :   :  {assiduous} {industriousness} :  9 :  
  2210 :  0x5ba5 : nada.meru :  YUU :  nada.meru yuru.su :   :  {soothe} {calm} {pacify} :  9 :  1
- 2211 :  0x5bd3 : guu.suru karizumai :  GUU GU DOU :  guu.suru kakotsu.keru yo.seru yo.ru karizumai :   :  {temporary abode} {imply} {suggest} :  9 :  
+ 2211 :  0x5bd3 : guu.suru karizumai :  GUU GU DOU :  guu.suru kakotsu.keru yo.seru yo.ru karizumai :   : {imply}  {temporary abode} {suggest} :  9 :  
  2212 :  0x5b8f :  :  KOU :  hiro.i :  atsu hiro hiroshi :  {extensive} {wide} {large} :  9 :  1
  2213 :  0x7262 : hitoya :  ROU :  kata.i hitoya :   :  {jail} {prison} {hardness} :   :  
  2214 :  0x585e :  :  SOKU SAI :  fusa.gu toride mi.chiru :   :  {block up} {close} {shut} {cover} {block} {obstruct} :  8 :  
  2215 :  0x5b8b :  :  SOU :   :   :  {Sung dynasty} {dwell} :  9 :  
- 2216 :  0x5b8d :  :  NIKU JIKU :  shishi :  shi shin :  {muscles} {meat} :   :  
+ 2216 :  0x5b8d :  :  NIKU JIKU :  shishi :  shi shin :  {venison} {muscles} {meat} :   :  
  2217 :  0x5c60 : hofu.ru :  TO CHYO :  hofu.ru :   :  {butchering} {slaughter} {butcher} {slay} :   :  
  2218 :  0x5c41 : he onara :  HI :  he onara :   :  {fart} {passing gas} :   :  
  2219 :  0x5c51 :  :  SETSU :  kuzu isagiyo.i :   :  {rubbish} {junk} {trash} {waste} {scraps} :  9 :  
  2220 :  0x5c3b : shiri :  KOU :  shiri :  gami :  {buttocks} {hips} {butt} {rear} :  8 :  
- 2221 :  0x5c61 :  :  RU :  shibashiba :   :  {often} {frequently} :   :  
+ 2221 :  0x5c61 :  :  RU :  shibashiba :   : {frequently} {often}  :   :  
  2222 :  0x5c4d : shikabane :  SHI :  shikabane :   :  {corpse} :   :  
  2223 :  0x5c4f : byou.bu :  HEI BYOU :  oo.u shirizo.ku byou.bu :   :  {folding screen} {wall} {fence} :   :  
  2224 :  0x5d69 : kasa.mu :  SUU SHYUU :  kasa kasa.mu taka.i :  takashi taka take :  {high-reaching} {be aggravated} {grow worse} {grow bulky} {swell} :  9 :  1
- 2225 :  0x5d1a :  :  RYOU :   :   :  {mountains towering in a row} :  9 :  1
+ 2225 :  0x5d1a :  :  RYOU :   :   :  {rugged mountains} {mountains towering in a row} :  9 :  1
  2226 :  0x5ce8 :  :  GA :  kewa.shii :   :  {high mountain} :  9 :  
  2227 :  0x5d16 : gake :  GAI GE GI :  gake kishi hate :   :  {bluffs} {cliff} {bluff} {precipice} :  8 :  
  2228 :  0x5dba :  :  REI RYOU :   :  mine ne : {mountaintop} {peak} {summit} :  9 :  1
@@ -2238,19 +2238,19 @@
  2238 :  0x5e84 :  :  SHYOU SO SOU HOU :   :  masa :  {shire} {level} :  9 :  1
  2239 :  0x5edf : tamaya :  BYOU MYOU :  tamaya mitamaya yashiro :   :  {tomb sanctuary} {mausoleum} {shrine} {palace} :  9 :  
  2240 :  0x5f4a :  :  KYOU GOU :  tsuyo.i :  tsuyoshi :  {strengthen} {strong} :   :  
- 2241 :  0x5f25 : tooi :  MI BI :  iya ya amaneshi iyoiyo tooi hisashi hisa.shii wata.ru :  wataru mitsu hiro yo :  {all the more} {increasingly} :  8 :  1
+ 2241 :  0x5f25 : tooi :  MI BI :  iya ya amaneshi iyoiyo tooi hisashi hisa.shii wata.ru :  wataru mitsu hiro yo : {more and more}  {all the more} {increasingly} :  8 :  1
  2242 :  0x5f1b : taru.meru taru.mu tayu.mu yuru.mi :  CHI SHI :  taru.mu taru.meru tayu.mu yuru.mu yuru.mi :   :  {loosen} {slacken} {relax} :  9 :  
  2243 :  0x7ca5 : hisa.gu kayu :  IKU SHYUKU JUKU :  kayu kai hisa.gu :   :  {rice gruel} :  9 :  
  2244 :  0x633d :  :  BAN :  hi.ku :  hiki :  {lathe} {turn (lathe)} {grind} :  9 :  
- 2245 :  0x649e :  :  DOU TOU SHYU :  tsu.ku :   :  {thrust} {pierce} {stab} {prick} :  9 :  
- 2246 :  0x626e : fun.suru yatsu.su :  HUN HAN HEN :  fun.suru yatsu.su yosoo.u :   :  {impersonate} {dress up} {disguise} {thin shingles} :   :  
+ 2245 :  0x649e :  :  DOU TOU SHYU :  tsu.ku :   :  {bump into} {thrust} {pierce} {stab} {prick} :  9 :  
+ 2246 :  0x626e : fun.suru yatsu.su :  HUN HAN HEN :  fun.suru yatsu.su yosoo.u :   :  {disguise} {impersonate} {dress up} {disguise} {thin shingles} :   :  
  2247 :  0x63a0 : kasu.meru kasu.reru kasu.ru :  RYAKU RYOU :  kasu.meru kasu.ru kasu.reru :  gura :  {pillage} {rob} {graze} {skim} {sweep over} {cheat} {hint} :  9 :  
  2248 :  0x6328 :  :  AI :  hira.ku :   :  {shove} {push open} :  8 :  
  2249 :  0x63b4 : tsuka.mu :  KAKU :  tsuka.mu tsuka.maeru tsuka.maru :   :  {clutch} {catch} {seize} {grasp} {hold} {arrest} {capture} :   :  
  2250 :  0x637a : NATSU :  NATSU DATSU :  sa.su o.su :   : {impress}  {press} {print} {affix a seal} {stamp} :  9 :  1
  2251 :  0x637b : hine.kuru ne.jiru neji.ru :  NEN JOU :  ne.jiru neji.ru hine.kuru hine.ru :   :  {wrench} {twirl} {twist} {play with} :  8 :  
  2252 :  0x63bb :  :  SOU :  ka.ku :   :  {scratch} {rake} {comb} {paddle} {behead} :   :  
- 2253 :  0x64b0 : era.mu sen.suru :  SAN SEN :  sen.suru era.mu era.bu :   :  {composing} {editing} {compiling} {selecting} :  9 :  
+ 2253 :  0x64b0 : era.mu sen.suru :  SAN SEN :  sen.suru era.mu era.bu :   :  {assortment} {composing} {editing} {compiling} {selecting} :  9 :  
  2254 :  0x62ed : nugu.u :  SHYOKU SHIKI :  nugu.u fu.ku :   :  {wipe} {mop} {swab} :  8 :  
  2255 :  0x63c3 : soro.eru :  SEN :  soro.eru soro.u soro.i ki.ru       :   :  {muster} {be complete} {uniform} {all present} :  9 :  
  2256 :  0x634c : ha.ke saba.keru :  HATSU HACHI BETSU :  saba.ku saba.keru ha.ke :   :  {deal with} {handle} {dispose of} {sell} {be in demand} {be worldly} {be frank} {be sensible} {be sociable} {drainage} {sale} {demand for} {eight} :   :  
@@ -2266,7 +2266,7 @@
  2266 :  0x649a : yo.reru :  NEN :  yo.ru yo.reru yori hine.ru :   :  {twirl} {twist} {twine} {kinky} :   :  
  2267 :  0x633a :  :  CHYOU TEI :  nu.ku :   :  {counter for guns, inksticks, palanquins, rickshaws} {bravely volunteer} :  9 :  
  2268 :  0x64fe : wazura.washii :  JOU :  mida.reru mida.su wazura.washii :   :  {commotion} {disturb} {throw into confusion} :   :  
- 2269 :  0x6357 : hakado.ru :  CHYOKU HO :  hakado.ru :   :  {make progress} :  8 :  
+ 2269 :  0x6357 : hakado.ru :  CHYOKU HO :  hakado.ru :   :  {make headway} {make progress} :  8 :  
  2270 :  0x64ab : na.deru :  BU HU :  na.deru :  nade nadeshi mu : {petting} {stroke} {pat} {smooth down} :  9 :  
  2271 :  0x6492 :  :  SAN SATSU :  ma.ku :   :   {sprinkle} {scatter} {give them the slip} :  9 :  
  2272 :  0x64e2 : nuki.nderu :  TEKI TAKU :  nu.ku nuki.nderu :   :  {excel in} {surpass} {pull out} {select} :  9 :  
