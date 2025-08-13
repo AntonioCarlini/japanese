@@ -2264,26 +2264,26 @@
  2264 :  0x6258 : taku.suru :  TAKU :  taku.suru tano.mu :   :  {receptacle} {requesting} {entrusting with} {pretend} {hint} :  9 :  
  2265 :  0x6367 :  :  HOU :  sasa.geru :   :  {devote} {lift up} {give} {offer} {consecrate} {sacrifice} {dedicate} :  9 :  
  2266 :  0x649a : yo.reru :  NEN :  yo.ru yo.reru yori hine.ru :   :  {twirl} {twist} {twine} {kinky} :   :  
- 2267 :  0x633a :  :  CHYOU TEI :  nu.ku :   :  {counter for guns, inksticks, palanquins, rickshaws} {bravely volunteer} :  9 :  
+ 2267 :  0x633a :  :  CHYOU TEI :  nu.ku :   :  {counter for tools} {counter for guns, inksticks, palanquins, rickshaws} {bravely volunteer} :  9 :  
  2268 :  0x64fe : wazura.washii :  JOU :  mida.reru mida.su wazura.washii :   :  {commotion} {disturb} {throw into confusion} :   :  
  2269 :  0x6357 : hakado.ru :  CHYOKU HO :  hakado.ru :   :  {make headway} {make progress} :  8 :  
  2270 :  0x64ab : na.deru :  BU HU :  na.deru :  nade nadeshi mu : {petting} {stroke} {pat} {smooth down} :  9 :  
  2271 :  0x6492 :  :  SAN SATSU :  ma.ku :   :   {sprinkle} {scatter} {give them the slip} :  9 :  
- 2272 :  0x64e2 : nuki.nderu :  TEKI TAKU :  nu.ku nuki.nderu :   :  {excel in} {surpass} {pull out} {select} :  9 :  
+ 2272 :  0x64e2 : nuki.nderu :  TEKI TAKU :  nu.ku nuki.nderu :   :  {outstanding} {excel in} {surpass} {pull out} {select} :  9 :  
  2273 :  0x6377 :  :  SHYOU SOU :  haya.i :  katsu : {spoils} {victory} {fast} :  9 :  1
  2274 :  0x6289 : egu.ru koji.ru kuji.ru :  KETSU :  egu.ru koji.ru kuji.ru :   :  {gouge} {hollow out} {bore} {pry} :   :  
  2275 :  0x602f : hiru.mu obi.eru obie.ru ojiru :  KYOU KOU :  hiru.mu obie.ru ojiru obi.eru oso.reru :   :  {wince} {cowardice} {flinch} {hesitate} {waver} :   :  
  2276 :  0x60df : omo.nmiru omo.uni :  I YUI :  omo.nmiru kore omo.uni :  tada yoshi nobu : {ponder} {consider} {reflect} {think} :  9 :  1
- 2277 :  0x60da : ho.reru :  KOTSU :  hoke.ru bo.keru ho.reru :   :  {fall in love with} {admire} {grow senile} :  9 :  
- 2278 :  0x601c :  :  REI REN RYOU :  awa.remu sato.i :  sato satoshi :  {wise} :  9 :  1
- 2279 :  0x60c7 :  :  SHYUN JUN TON :  atsu.i :  atsushi atsu makoto toshi tsutomu :  {sincere} {kind} {considerate} :  9 :  1
+ 2277 :  0x60da : ho.reru :  KOTSU :  hoke.ru bo.keru ho.reru :   :  {infatuation} {fall in love with} {admire} {grow senile} :  9 :  
+ 2278 :  0x601c :  :  REI REN RYOU :  awa.remu sato.i :  sato satoshi :  {quickwitted} {wise} :  9 :  1
+ 2279 :  0x60c7 :  :  SHYUN JUN TON :  atsu.i :  atsushi atsu makoto toshi tsutomu :  {considerate} {sincere} {kind} :  9 :  1
  2280 :  0x61a7 : akoga.reru :  SHYOU TOU DOU :  akoga.reru :   :  {yearn} {yearn after} {long for} {aspire to} {admire} {adore} :  8 :  1
- 2281 :  0x6070 :  :  KOU KACHISAI_TSU CHYOU KYOU :  ataka.mo :   :  {just as} {as though} {fortunately} :  9 :  
+ 2281 :  0x6070 :  :  KOU KACHISAI_TSU CHYOU KYOU :  ataka.mo :   :  {as if} {just as} {as though} {fortunately} :  9 :  
  2282 :  0x6062 :  :  KAI KE :  hiro.i :   :  {enlarge} {wide} {large} {enlarge} :  9 :  
- 2283 :  0x608c :  :  TEI DAI :   :  tomo yasu yasushi yoshi chika :  {serving our elders} :  9 :  1
+ 2283 :  0x608c :  :  TEI DAI :   :  tomo yasu yasushi yoshi chika :  {respect for elders} {serving our elders} :  9 :  1
  2284 :  0x6e67 :  :  YUU YOU YU :  wa.ku :  waki waku :  {bubble up} {boil} {ferment} {seethe} {uproar} {breed} :  8 :  1
- 2285 :  0x6faa : mio :  REI :  mio :   :  {water route} {shipping channel} :  9 :  1
- 2286 :  0x6d38 :  :  KOU :   :  hiro hiroshi takeshi hikari :  {sparkling water} :  9 :  1
+ 2285 :  0x6faa : mio :  REI :  mio :   :  {canal} {water route} {shipping channel} :  9 :  1
+ 2286 :  0x6d38 :  :  KOU :   :  hiro hiroshi takeshi hikari :  {glistening} {sparkling water} :  9 :  1
  2287 :  0x6ec9 :  :  KOU :  hiro.i :   :  {deep and broad} :  9 :  1
  2288 :  0x6f31 : kuchisoso.gu kuchisusu.gu ugai :  SOU SHYUU SU :  kuchisusu.gu kuchisoso.gu ugai susu.gu :   :  {gargle} {rinse mouth} :  9 :  1
  2289 :  0x6d32 :  :  SHYUU SU :  shima :   :  {continent} {sandbar} {island} {country} :  9 :  1
