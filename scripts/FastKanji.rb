@@ -2442,7 +2442,7 @@ class KD
     :"depend" => [2428, 24977, ["HYOU"], ["tsu.ku","tsuka.reru","yo.ru","tano.mu"], [""], ["depend","rely","evidence","proof","according to","possess","haunt"], 0, 0],
     :"attract" => [2429, 24825, ["JAKU","JA"], ["hi.ku"], [""], ["attract","captivate"], 9, 0],
     :"without*exception" => [2430, 24713, ["SHITSU","SHICHI"], ["tsu.kiru","kotogoto","kotogoto.ku","tsu.kusu","tsubusa.ni"], [""], ["without exception","all","entirely","altogether","completely","use up","run out of","exhaust","befriend","serve"], 9, 0],
-    :"in*a*moment" => [2431, 24573, ["KOTSU"], ["tachima.chi","yuruga.se"], ["nu"], ["in a moment","instantly","all of a sudden","neglect","disregard"], 9, 0],
+    :"instantaneously" => [2431, 24573, ["KOTSU"], ["tachima.chi","yuruga.se"], ["nu"], ["instantaneously","in a moment","instantly","all of a sudden","neglect","disregard"], 9, 0],
     :"firstborn*son" => [2432, 24803, ["SOU"], ["isoga.shii","soujite"], ["fusa","so"], ["firstborn son","all"], 9, 1],
     :"in*the*nick*of*time" => [2433, 24840, ["YU"], ["iyoiyo","masa.ru"], [""], ["in the nick of time","be superior","heal","more and more","increasingly","finally","beyond doubt"], 0, 0],
     :"sensitive" => [2434, 24661, ["JO","SHYO"], ["yuru.su"], [""], ["sensitive","excuse","tolerate","forgive"], 9, 1],
