@@ -3242,6 +3242,7 @@ class KD
     :"christmas*tree" => [32786, 32786, ["RAI","RUI"], ["ki","ku","suki"], [""], ["christmas tree"], 0, 0],
     :"brush" => [32895, 32895, ["ICHI","ITSU"], ["fude","kokoni"], [""], ["brush"], 0, 0],
     :"rake" => [32896, 32896, [""], [""], [""], ["rake"], 0, 0],
+    :"diaphragm" => [32915, 32915, ["KOU"], [""], [""], ["diaphragm"], 0, 0],
     :"small*worm" => [32921, 32921, [""], [""], [""], ["small worm"], 0, 0],
     :"magpie" => [33284, 33284, ["SHAKU","SAKU","SEKI","TAKU"], ["kasasagi"], [""], ["magpie"], 0, 0],
     :"dancing*legs" => [33307, 33307, ["BU","SEN"], ["mai","somu.ku"], [""], ["dancing legs"], 0, 0],
