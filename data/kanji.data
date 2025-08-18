@@ -2271,7 +2271,7 @@
  2271 :  0x6492 :  :  SAN SATSU :  ma.ku :   :   {sprinkle} {scatter} {give them the slip} :  9 :  
  2272 :  0x64e2 : nuki.nderu :  TEKI TAKU :  nu.ku nuki.nderu :   :  {outstanding} {excel in} {surpass} {pull out} {select} :  9 :  
  2273 :  0x6377 :  :  SHYOU SOU :  haya.i :  katsu : {spoils} {victory} {fast} :  9 :  1
- 2274 :  0x6289 : egu.ru koji.ru kuji.ru :  KETSU :  egu.ru koji.ru kuji.ru :   :  {gouge} {hollow out} {bore} {pry} :   :  
+ 2274 :  0x6289 : egu.ru koji.ru kuji.ru :  KETSU :  egu.ru koji.ru kuji.ru :   :  {gouge out} {gouge} {hollow out} {bore} {pry} :   :  
  2275 :  0x602f : hiru.mu obi.eru obie.ru ojiru :  KYOU KOU :  hiru.mu obie.ru ojiru obi.eru oso.reru :   :  {wince} {cowardice} {flinch} {hesitate} {waver} :   :  
  2276 :  0x60df : omo.nmiru omo.uni :  I YUI :  omo.nmiru kore omo.uni :  tada yoshi nobu : {ponder} {consider} {reflect} {think} :  9 :  1
  2277 :  0x60da : ho.reru :  KOTSU :  hoke.ru bo.keru ho.reru :   :  {infatuation} {fall in love with} {admire} {grow senile} :  9 :  
@@ -2284,10 +2284,10 @@
  2284 :  0x6e67 :  :  YUU YOU YU :  wa.ku :  waki waku :  {bubble up} {boil} {ferment} {seethe} {uproar} {breed} :  8 :  1
  2285 :  0x6faa : mio :  REI :  mio :   :  {canal} {water route} {shipping channel} :  9 :  1
  2286 :  0x6d38 :  :  KOU :   :  hiro hiroshi takeshi hikari :  {glistening} {sparkling water} :  9 :  1
- 2287 :  0x6ec9 :  :  KOU :  hiro.i :   :  {deep and broad} :  9 :  1
+ 2287 :  0x6ec9 :  :  KOU :  hiro.i :   :  {bounding main} {deep and broad} :  9 :  1
  2288 :  0x6f31 : kuchisoso.gu kuchisusu.gu ugai :  SOU SHYUU SU :  kuchisusu.gu kuchisoso.gu ugai susu.gu :   :  {gargle} {rinse mouth} :  9 :  1
  2289 :  0x6d32 :  :  SHYUU SU :  shima :   :  {continent} {sandbar} {island} {country} :  9 :  1
- 2290 :  0x6d35 : no.bu :  JUN SHYUN :  no.bu makoto.ni :   :  {alike} {truth} :  9 :  1
+ 2290 :  0x6d35 : no.bu :  JUN SHYUN :  no.bu makoto.ni :   :  {swirling waters} {alike} {truth} :  9 :  1
  2291 :  0x6ef2 : niji.mu :  SHIN :  shi.miru niji.mu :   :  {seep} {imbued with} :   :  
  2292 :  0x6d12 :  :  SHYA SON SAI SEN SEI :  susu.gu ara.u :   :  {rinse} {wash} {sprinkle} :   :  
  2293 :  0x6c90 : moku.suru :  MOKU :  moku.suru ara.u :   : {douse} {wash} :   :  
@@ -2295,29 +2295,29 @@
  2295 :  0x6e3e :  :  KON :  sube.te nigo.ru :   : {gushing} {all} {turbidity} :   :  
  2296 :  0x6c99 : yonageru :  SA SHYA :  suna yonageru :   :  {grains of sand} {sand} :  8 :  1
  2297 :  0x6d9c : kega.re :  TOKU TOU :  kega.su kega.re mizo :   :  {blaspheme} {defile} {ditch} :   :  
- 2298 :  0x6deb : hoshiimama midari :  IN :  hita.su hoshiimama mida.ra mida.reru midari :   :  {lewdness} {licentiousness} :  8 :  
+ 2298 :  0x6deb : hoshiimama midari :  IN :  hita.su hoshiimama mida.ra mida.reru midari :   :  {lewd} {lewdness} {licentiousness} :  8 :  
  2299 :  0x6881 : uchibari utsubari yana :  RYOU :  hari utsubari uchibari yana hashi :   :  {roofbeam} {weir} {fish trap} {beam} {girder} :  9 :  
  2300 :  0x6fb1 : do.ro yodo.mi :  DEN TEN :  ori do.ro yodo.mi yodo.mu :   :  {sediment} {grounds} {dregs} {stagnant} :   :  
  2301 :  0x6c3e :  :  HAN :  hiro.garu :   :  {widespread} {spread out} {wide} :  8 :  
- 2302 :  0x6d1b :  :  RAKU :   :   :  {Kyoto} {the capital} :  9 :  
+ 2302 :  0x6d1b :  :  RAKU :   :   :  {old Kyoto} {Kyoto} {the capital} :  9 :  
  2303 :  0x6c5d : imashi mashi mimashi namuchi nare shi shya unu :  JO :  nanji nare i unu imashi shi shya na namuchi mashi mimashi :   :  {thou} {you} :  9 :  
- 2304 :  0x6f09 : ko.shi :  ROKU :  ko.shi ko.su su.ku :   :  {manufacture paper} {spread out thin} {strain} {percolate} :   :  
- 2305 :  0x7015 :  :  HIN :  hotori :   :  {shore} {brink} {verge} :  9 :  
+ 2304 :  0x6f09 : ko.shi :  ROKU :  ko.shi ko.su su.ku :   :  {filter} {manufacture paper} {spread out thin} {strain} {percolate} :   :  
+ 2305 :  0x7015 :  :  HIN :  hotori :   :  {on the verge of} {shore} {brink} {verge} :  9 :  
  2306 :  0x6fe0 :  :  GOU KOU :  hori :   :  {moat} {ditch} {canal} {Australia} :   :  
  2307 :  0x6e8c : tobichi.ru :  HATSU :  mo.ru tobichi.ru soso.gu :   :  {spray} {sprinkle} {lively} {vigorous} :   :  
  2308 :  0x6eba : ibari :  DEKI JOU NYOU :  ibari obo.reru :   :  {drowning} {drown} {indulge} :  8 :  
  2309 :  0x6e4a :  :  SOU :  minato atsu.maru :   :  {port} {harbor} :  9 :  
  2310 :  0x6dcb :  :  RIN :  sabi.shii sami.shii :   :  {solitude} {lonely} {deserted} :  9 :  
- 2311 :  0x6d69 :  :  KOU :  ooki.i hiro.i :  hiro hiroshi yutaka koo :  {wide expanse} {abundance} {vigorous} :  9 :  1
- 2312 :  0x6c40 : migiwa :  TEI :  migiwa nagisa :  te :  {water's edge} {shore} {bank} :  9 :  1
- 2313 :  0x9d3b : hishikui oogari :  KOU GOU :  ootori hishikui oogari :   :  {large bird} {wild goose} {large} {great} {powerful} {prosperous} :  9 :  1
- 2314 :  0x6f45 :  :  KAN :  soso.gu :   :  {pour into} {irrigate} {shed (tears} {flow into} {concentrate on} :   :  
+ 2311 :  0x6d69 :  :  KOU :  ooki.i hiro.i :  hiro hiroshi yutaka koo :  {abounding} {wide expanse} {abundance} {vigorous} :  9 :  1
+ 2312 :  0x6c40 : migiwa :  TEI :  migiwa nagisa :  te :  {water’s edge} {shore} {bank} :  9 :  1
+ 2313 :  0x9d3b : hishikui oogari :  KOU GOU :  ootori hishikui oogari :   :  {large goose} {large bird} {wild goose} {large} {great} {powerful} {prosperous} :  9 :  1
+ 2314 :  0x6f45 :  :  KAN :  soso.gu :   :  {souse} {pour into} {irrigate} {shed (tears} {flow into} {concentrate on} :   :  
  2315 :  0x6ea2 : afu.reru :  ITSU :  kobo.reru afu.reru mi.chiru :   : {brimming} {overflow} {inundate} {spill} :  9 :  
- 2316 :  0x6c70 : ogo.ru yona.geru :  TA TAI :  ogo.ru nigo.ru yona.geru :   :  {luxury} {select} :  8 :  1
- 2317 :  0x6e5b :  :  TAN CHIN JIN SEN :  shizu.mu tata.eru :  kan kiyo tatau tatae yasu :  {fill} {wear (a smile)} {clear} {pure} {dense} {deep} :  9 :  
+ 2316 :  0x6c70 : ogo.ru yona.geru :  TA TAI :  ogo.ru nigo.ru yona.geru :   :  {cleanse} {luxury} {select} :  8 :  1
+ 2317 :  0x6e5b :  :  TAN CHIN JIN SEN :  shizu.mu tata.eru :  kan kiyo tatau tatae yasu :  {inundate} {fill} {wear (a smile)} {clear} {pure} {dense} {deep} :  9 :  
  2318 :  0x6df3 :  :  JUN SHYUN :  atsu.i :  atsu atsushi kiyo kiyoshi makoto sunao :  {immaculate} {pure} :  9 :  1
  2319 :  0x6f70 : tsubu.reru tsubu.su :  KAI E :  tsubu.su tsubu.reru tsui.eru :   :  {defile} {crush} {smash} {break} {dissipate} :  8 :  
- 2320 :  0x6e25 :  :  AKU :  atsu.i uruo.u :  atsushi :  {kindness} {moisten} :  9 :  1
+ 2320 :  0x6e25 :  :  AKU :  atsu.i uruo.u :  atsushi :  {moisten} {kindness} :  9 :  1
  2321 :  0x7058 : nada :  TAN DAN :  nada se :  dana nan :  {rough seas} {open sea} :  9 :  
  2322 :  0x6c72 :  :  KYUU :  ku.mu :  kumi :  {draw water} {draw (water)} {ladle} {scoop} {pump} :  9 :  
  2323 :  0x701e : toro :  SEI SHYOU JUU :  toro kiyo.i :   :  {pure water} {clear water} {pool in a river} :   :  
@@ -2325,22 +2325,22 @@
  2325 :  0x6e15 :  :  EN KAKU KOU :  fuchi kata.i hanawa :   :  {abyss} {edge} :   :  
  2326 :  0x6c8c :  :  TON :  kura.i :   :  {chaos} {primeval chaos} :  9 :  
  2327 :  0x6c4e :  :  HAN BU HUU HOU HON :  tadayo.u hiro.i :  hiro hiroshi mina :  {pan-} :  8 :  
- 2328 :  0x6ffe :  :  RO RYO :  ko.su :   :  {filter} :   :  
+ 2328 :  0x6ffe :  :  RO RYO :  ko.su :   :  {strainer} {filter} :   :  
  2329 :  0x6fe1 : nu.rasu nu.reru nura.su nure.ru :  JU NYU :  nure.ru nura.su nu.reru nu.rasu uruo.i uruo.u uruo.su :   :  {drench} {get wet} {damp} {make love} :  9 :  
- 2330 :  0x6dc0 :  :  TEN DEN :  yodo.mu :   :  {pool} {eddy} :  9 :  
+ 2330 :  0x6dc0 :  :  TEN DEN :  yodo.mu :   : {eddy}  {pool} :  9 :  
  2331 :  0x6d85 : DETSU :  NETSU DETSU :  so.meru :   :  {black soil} :   :  
- 2332 :  0x91dc :  :  HU :  kama :   :  {kettle} {cauldron} {iron pot} :  8 :  
+ 2332 :  0x91dc :  :  HU :  kama :   : {cauldron}  {kettle} {iron pot} :  8 :  
  2333 :  0x65a7 : ono :  HU :  ono :   :  {hatchet} {ax} :  9 :  
  2334 :  0x723a : jii jiji jijii oyaji :  YA :  jii jijii oyaji jiji chichi :   :  {grandpa} {old man} {grampa} :   :  
- 2335 :  0x733e :  :  KATSU :  warugashiko.i :   :  {crafty} :   :  
+ 2335 :  0x733e :  :  KATSU :  warugashiko.i :   :  {sly} {crafty} :   :  
  2336 :  0x7325 :  :  WAI :  mida.ra midari.ni :   :  {obscene} :   :  
  2337 :  0x72e1 : kosu.i zuru.i :  KOU KYOU :  zuru.i kosu.i warugashiko.i :   :  {cunning} {sly} {crafty} {niggardly} :   :  
  2338 :  0x72f8 : tanuki :  RI RAI :  tanuki :   :  {raccoon dog} {tanuki} {raccoon} :   :  
  2339 :  0x72fc : ookami :  ROU :  ookami :   :  {wolf} :  9 :  
  2340 :  0x72fd :  :  KEN BAI HAI :   :   :  {flustered} {wolf} {be flurried} :   :  
- 2341 :  0x72d7 :  :  KU KOU :  inu :   :  {puppy} {dog} :   :  
+ 2341 :  0x72d7 :  :  KU KOU :  inu :   :  {pup} {puppy} {dog} :   :  
  2342 :  0x72d0 : kitsune :  KO :  kitsune :   :  {fox} :   :  
- 2343 :  0x72db :  :  HAKU :  koma :   :  {archaic part of Korea} {lion-dog shrine guards} :   :  
+ 2343 :  0x72db :  :  HAKU :  koma :   :  {a-un} {archaic part of Korea} {lion-dog shrine guards} :   :  
  2344 :  0x72d9 : nera.i nera.u :  SO SHYO :  nera.u nera.i :   :  {aim at} {sight} {shadow} {stalk} :  8 :  
  2345 :  0x7345 :  :  SHI :  shishi :   :  {lion} :  9 :  
  2346 :  0x72d2 : hihi :  HI :  hihi :   :  {baboon} :   :  
@@ -3199,6 +3199,7 @@
 29519 :  0x734f :  : BAKU MYAKU :  : : {baku} : : 
 29996 :  0x752c :  : YOU :  : : {pogo stick} : :
 30078 :  0x757e :  : RUI RAI SUI : toride : : {three fields} : :
+30092 :  0x758c :  : :  : : {promptly} : :
 30098 :  0x7592 :  : DAKU NYAKU SOU JOU SHITSU : ya.mu : : {caveman} : :
 30339 :  0x7683 :  : BOU BAKU : katara katadoru : : {snowman} : :
 30433 :  0x76e1 :  : JIN SAN :tsu.kusu tsu.kiru tsu.kasu sakuduki kotogoto.ku : : {exhausted} : :
