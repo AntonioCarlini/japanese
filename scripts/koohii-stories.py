@@ -224,7 +224,15 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
             flags=re.IGNORECASE,
         )
 
-
+    # At this point the keyword has been replaced with <b>keyword</b>, which as intended.
+    # However if the keyword is "i" (or in fact "I", which is the keyword for frame #17) then
+    # any <i> or </i> that happened toalreadybe in the string, perhaps because of the kanji replacement
+    # before this step, will now be <<b>i</b>> or </<b>i</b>> respectively.
+    # Actually trying to stopthis seems to become very ugly, very quickly. So avoid all that mess
+    # by just reversing the end results back to the original <i> and </i>.
+    story = story.replace("<<b>i</b>>", "<i>")
+    story = story.replace("</<b>i</b>>", "</i>")
+    
     # Replace *text* with <i>text</i>
     story = re.sub(r"\*([^*]+?)\*", r"<i>\1</i>", story)
 
