@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Onomatopoeia</title>
+<link rel="stylesheet" type="text/css" href="japanese.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<style>
+table th,
+table td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+</style>
+<body>
+<h1>Onomatopoeia</h1>
+
+<table  border="1">
+<tr>
+  <th> Word </th>   <th> Category </th>  <th> Meaning </th>
+</tr>
+<tr>
+  <td> @HI{{karakara}} </td> <td> @FG{{@KJ{{mimic^sound^word}}:@HI{{giongo}}}}     </td> <td> rattling sound; clattering sound; dry sound </td> </tr>
+  <td> @HI{{karakara}} </td> <td> @FG{{@KJ{{mimic^attitude^word}}:@HI{{gitaigo}}}} </td> <td> dry throat; parched to the point of discomfort </td> </tr>
+<tr>
+</table>
+
+@include{{"study-footer.inc"}}
+
+</body>
+</html>
+

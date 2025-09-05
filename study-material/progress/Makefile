@@ -30,6 +30,7 @@ JHTML_SRCS += nsm-n2g.jhtml
 JHTML_SRCS += nsm-n2g-exercises.jhtml
 JHTML_SRCS += nsm-n3g.jhtml
 JHTML_SRCS += nsm-n3g-exercises.jhtml
+JHTML_SRCS += onomatopoeia.jhtml
 JHTML_SRCS += study-material.jhtml
 JHTML_SRCS += udemy-n1.jhtml
 JHTML_SRCS += udemy-n2.jhtml
