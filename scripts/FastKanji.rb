@@ -2681,7 +2681,7 @@ class KD
     :"ornate" => [2667, 32186, ["KI"], ["aya"], [""], ["ornate","figured cloth","beautiful"], 9, 1],
     :"damask" => [2668, 32190, ["RIN"], ["aya"], ["ryou"], ["damask","design","figured cloth","twill"], 9, 1],
     :"catgut" => [2669, 32067, ["GEN"], ["ito"], [""], ["catgut","string","cord","samisen music"], 9, 1],
-    :"be*rent" => [2670, 32187, ["TAN"], ["hokoro.biru"], [""], ["be rent","ripped","unravel","run","begin to open","smile"], 8, 0],
+    :"come*apart*at*the*seams" => [2670, 32187, ["TAN"], ["hokoro.biru"], [""], ["come apart at the seams","be rent","ripped","unravel","run","begin to open","smile"], 8, 0],
     :"stripe" => [2671, 32286, ["KOU"], ["shima","shiroginu"], [""], ["stripe"], 9, 0],
     :"ribbon" => [2672, 32172, ["JU"], ["himo"], [""], ["ribbon"], 0, 0],
     :"gossamer" => [2673, 32023, ["SA","SHYA"], ["usuginu"], ["tae","suzu"], ["gossamer","gauze"], 9, 1],
