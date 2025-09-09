@@ -1,5 +1,6 @@
 からから:
   kana: からから
+  category: ''
   definition: dry; parched; scorched; adust; sunbaked; baked
   sentences:
   - jp: おしゃべりして喉がからからになりました。
@@ -10,6 +11,7 @@
     english: He laughed loudly.
 そもそも:
   kana: そもそも
+  category: ''
   definition: in the first place;  to begin with;  from the start;  originally;  ab
     initio
   sentences:
@@ -51,6 +53,7 @@
     english: The original goal was to increase our membership.
 さらさら:
   kana: さらさら
+  category: ''
   definition: rustling;  murmuring
   sentences:
   - jp: 小川がさらさら流れています。
@@ -58,6 +61,7 @@
     english: The stream is flowing smoothly.
 びくびく:
   kana: びくびく
+  category: ''
   definition: being afraid of;  being fearful;  being timid;  being nervous
   sentences:
   - jp: 嘘がばれないかと、びくびくした。
@@ -68,10 +72,12 @@
     english: I forgot my homework so I feared that I might be scolded by my teacher.
 ばたばた:
   kana: ばたばた
+  category: ''
   definition: flapping;  rattling (sound);  noisily;  clattering noise
   sentences: []
 ただただ:
   kana: ただただ
+  category: ''
   definition: absolutely;  only
   sentences:
   - jp: ただただ漢字を書くなんて、つまらないに決まっている。
@@ -89,6 +95,7 @@
       to.
 ぼろぼろ:
   kana: ぼろぼろ
+  category: ''
   definition: tears or grain of rice falling
   sentences:
   - jp: 当然勝つと思っていた試合で最後に逆転負けし、 悔しさのあまりぼろぼろ泣いた。
@@ -97,6 +104,7 @@
       cried in frustration.
 なかなか:
   kana: なかなか
+  category: ''
   definition: very;  considerably;  easily;  readily;  fairly;  quite;  highly;  rather
   sentences:
   - jp: 日本ではなかなか馬を見ることができません。
@@ -262,6 +270,7 @@
     english: That was a very persuasive argument, but somehow I was not convinced.
 どきどき:
   kana: どきどき
+  category: ''
   definition: to beat fast (of one's heart);  to throb;  to pound;  to palpitate
   sentences:
   - jp: みんなの前で歌を歌うのはどきどきする。
@@ -278,6 +287,7 @@
     english: She was nervous on the inside.
 ぶつぶつ:
   kana: ぶつぶつ
+  category: ''
   definition: grunt;  grumble;  complaint;  mutter
   sentences:
   - jp: 彼はぶつぶつと独り言を言ったんだ。
@@ -285,6 +295,7 @@
     english: He mumbled to himself.
 しばしば:
   kana: しばしば
+  category: ''
   definition: often;  again and again;  frequently
   sentences:
   - jp: 課長はしばしば出張します。
@@ -302,6 +313,7 @@
       them.
 ぴかぴか:
   kana: ぴかぴか
+  category: ''
   definition: glitter; sparkle
   sentences:
   - jp: 新車はぴかぴかですね。
@@ -309,10 +321,12 @@
     english: The new car is really shiny.
 まごまご:
   kana: まごまご
+  category: ''
   definition: confused
   sentences: []
 はきはき:
   kana: はきはき
+  category: ''
   definition: briskly;  smartly;  promptly;  clearly;  lucidly
   sentences:
   - jp: はきはきと意見を言ってください。
@@ -323,6 +337,7 @@
     english: His answers were very clear in the interview.
 いよいよ:
   kana: いよいよ
+  category: ''
   definition: more and more;  all the more;  increasingly at last;  finally;  beyond
     doubt (at the) last moment;  worst possible time
   sentences:
@@ -345,10 +360,12 @@
       and that’s when one of our workers finally admitted to having done it.
 がつがつ:
   kana: がつがつ
+  category: ''
   definition: greedily;  burning with desire for something
   sentences: []
 ふわふわ:
   kana: ふわふわ
+  category: ''
   definition: soft
   sentences:
   - jp: ふわふわの布団に寝たよ。
@@ -356,6 +373,7 @@
     english: I slept on a soft futon.
 たびたび:
   kana: たびたび
+  category: ''
   definition: often;  repeatedly;  frequently
   sentences:
   - jp: バスは雨の日などにはたびたび遅れる。30分も待たされることすらある。
@@ -364,6 +382,7 @@
       are made to wait over thirty minutes.
 いらいら:
   kana: いらいら
+  category: ''
   definition: getting nervous;  irritation
   sentences:
   - jp: 彼女は朝からいらいらしている。
@@ -377,6 +396,7 @@
       cuisine, you know.
 ますます:
   kana: ますます
+  category: ''
   definition: increasingly;  more and more;  decreasingly;  less and less
   sentences:
   - jp: 世界の人口はますます増えている。
@@ -409,6 +429,7 @@
     english: It's going to get colder and colder, so please take care of yourself.
 うろうろ:
   kana: うろうろ
+  category: ''
   definition: loiteringly;  aimless wandering
   sentences:
   - jp: その男はロビーをしばらくうろうろしていたよ。
@@ -420,6 +441,7 @@
       expect to be mistaken for a thief.
 カリカリ:
   kana: カリカリ
+  category: ''
   definition: crisp (e.g. potato chip, fried fish, etc.);  crunchy
   sentences:
   - jp: カリカリしても、ろくなことがないぞ。
@@ -427,10 +449,12 @@
     english: Getting all touchy won't do you any good.
 フラフラ:
   kana: フラフラ
+  category: ''
   definition: unsteady on one's feet;  stagger;  reel;  totter;  dizzy
   sentences: []
 ぽかぽか:
   kana: ぽかぽか
+  category: ''
   definition: sound of beating someone
   sentences:
   - jp: 今日はぽかぽか暖かい日です。
@@ -438,10 +462,12 @@
     english: It's a lovely warm day today.
 ぶりぶり:
   kana: ぶりぶり
+  category: ''
   definition: angrily;  in a huff;  in anger
   sentences: []
 うかうか:
   kana: うかうか
+  category: ''
   definition: carelessly;  inattentively
   sentences:
   - jp: うかうかしてると、就職浪人することになりかねないぞ。
@@ -450,18 +476,22 @@
       university graduate.
 ぴりぴり:
   kana: ぴりぴり
+  category: ''
   definition: tingle;  sting;  smart;  hot;  burning the tongue;  becoming tense
   sentences: []
 ガタガタ:
   kana: ガタガタ
+  category: ''
   definition: rattle;  clatter
   sentences: []
 くすくす:
   kana: くすくす
+  category: ''
   definition: chuckle;  giggle
   sentences: []
 わくわく:
   kana: わくわく
+  category: ''
   definition: tremble;  get nervous;  excitedly;  thrilled
   sentences:
   - jp: もうすぐ夏休みだと思うとわくわくする。
@@ -472,6 +502,7 @@
     english: I'm looking forward to the field trip, and I'm really excited.
 がやがや:
   kana: がやがや
+  category: ''
   definition: noisily;  in a crowd of people talking;  clamorously;  in a hubbub
   sentences:
   - jp: 生徒たちががやがやと騒いでいますね。
@@ -479,6 +510,7 @@
     english: The students are making a lot of noise.
 ずけずけ:
   kana: ずけずけ
+  category: ''
   definition: (speak) bluntly;  frankly
   sentences:
   - jp: 親友であればこそ君にこんなにずけずけとものが言えるんだよ。
@@ -487,18 +519,22 @@
       to you like this.
 もやもや:
   kana: もやもや
+  category: ''
   definition: hazy;  murky;  misty;  foggy;  fuzzy
   sentences: []
 ぎすぎす:
   kana: ぎすぎす
+  category: ''
   definition: strained atmosphere;  thin and bony
   sentences: []
 イライラ:
   kana: イライラ
+  category: ''
   definition: getting nervous;  irritation
   sentences: []
 くよくよ:
   kana: くよくよ
+  category: ''
   definition: worry about;  mope;  brood over
   sentences:
   - jp: 小さなことにくよくよするのはばからしいよ。
@@ -515,10 +551,12 @@
       about every little thing under the sun.
 ぐんぐん:
   kana: ぐんぐん
+  category: ''
   definition: steadily
   sentences: []
 のろのろ:
   kana: のろのろ
+  category: ''
   definition: slowly;  sluggishly
   sentences:
   - jp: 車は雪道をのろのろと走ったの。
@@ -526,18 +564,22 @@
     english: The car drove very slowly on the snowy road.
 パラパラ:
   kana: パラパラ
+  category: ''
   definition: flipping through a book;  thumbing through a book;  riffling cards
   sentences: []
 ハタハタ:
   kana: ハタハタ
+  category: ''
   definition: sailfin sandfish (Arctoscopus japonicus)
   sentences: []
 わいわい:
   kana: わいわい
+  category: ''
   definition: noisily;  clamorously;  many people making a din
   sentences: []
 ペラペラ:
   kana: ペラペラ
+  category: ''
   definition: fluent;  fluency;  —Onomatopoeia. flipping (pages) thin or weak (paper,
     cloth)
   sentences:
@@ -551,6 +593,7 @@
       she lived in Paris for a while.
 すやすや:
   kana: すやすや
+  category: ''
   definition: sleeping peacefully;  sleeping quietly;  sleeping soundly
   sentences:
   - jp: 子供がすやすや眠っているね。
@@ -558,6 +601,7 @@
     english: The child is sleeping soundly.
 やれやれ:
   kana: やれやれ
+  category: ''
   definition: exclamation of relief or disappointment
   sentences:
   - jp: やれやれ、この父にしてこの息子あり。二人ともとてもよく食べる。
@@ -565,11 +609,13 @@
     english: Well, well. Like father, like son. Both of them have a healthy appetite.
 ざわざわ:
   kana: ざわざわ
+  category: ''
   definition: noisily (e.g. from many people talking); creating a commotion - onomatopoeia
     rustling (leaves) - onomatopoeia feeling a chill; getting the chills - onomatopoeia
   sentences: []
 ふらふら:
   kana: ふらふら
+  category: ''
   definition: unsteady on one's feet;  stagger;  reel;  totter;  dizzy
   sentences:
   - jp: 私は疲れてふらふらです。
@@ -580,38 +626,47 @@
     english: I am dizzy today because I drank too much last night.
 じょじょ:
   kana: じょじょ
+  category: ''
   definition: gradually;  steadily;  quietly;  slowly;  little by little
   sentences: []
 べとべと:
   kana: べとべと
+  category: ''
   definition: being sticky
   sentences: []
 ちらちら:
   kana: ちらちら
+  category: ''
   definition: fluttering;  flickering;  intermittently
   sentences: []
 もぞもぞ:
   kana: もぞもぞ
+  category: ''
   definition: creeping about;  stirring restlessly;  squirming
   sentences: []
 ずたずた:
   kana: ずたずた
+  category: ''
   definition: to pieces;  into shreds
   sentences: []
 そこそこ:
   kana: そこそこ
+  category: ''
   definition: reasonably;  fairly well
   sentences: []
 オロオロ:
   kana: おろおろ
+  category: ''
   definition: nervous;  flustered;  in a dither;  all shook up
   sentences: []
 ジワジワ:
   kana: じわじわ
+  category: ''
   definition: slowly (but steadily);  gradually;  bit-by-bit
   sentences: []
 こつこつ:
   kana: こつこつ
+  category: ''
   definition: unflaggingly;  steadily;  untiringly;  laboriously
   sentences:
   - jp: わたしが努力家なもんですか。 こつこつと努力するのは苦手なんですよ。
@@ -620,6 +675,7 @@
       an effort.
 ごろごろ:
   kana: ごろごろ
+  category: ''
   definition: scattered about
   sentences:
   - jp: 雷がごろごろ鳴っている。
@@ -627,14 +683,17 @@
     english: I can hear thunder rumbling.
 ハラハラ:
   kana: ハラハラ
+  category: ''
   definition: exciting;  thrilling
   sentences: []
 ドキドキ:
   kana: ドキドキ
+  category: ''
   definition: thump-thump;  bang-bang;  pit-a-pat;  pitapat;  pitter-patter;
   sentences: []
 へとへと:
   kana: へとへと
+  category: ''
   definition: completely exhausted;  dead tired;  knackered
   sentences:
   - jp: スイカマラソンは、レース中やレース後にスイカが食べられる。でも、走り終わったら、へとへとで、とてもスイカを食べるどころではないそうだ。
@@ -645,29 +704,35 @@
       no way they can eat the watermelon.
 ボロボロ:
   kana: ボロボロ
+  category: ''
   definition: worn-out;  torn;  crumbling;  tattered
   sentences: []
 だらだら:
   kana: だらだら
+  category: ''
   definition: in drops;  dripping;  trickling;  streaming;  flowing —Onomatopoeia.
     gently (sloping)  —Onomatopoeia sluggishly;  endlessly;  lengthily —Onomatopoeia.
     leisurely;  idly;  slowly;  slovenly —Onomatopoeia.
   sentences: []
 ぼさぼさ:
   kana: ぼさぼさ
+  category: ''
   definition: unkempt, ruffled hair or brush bristles;  idling away time
   sentences: []
 ついつい:
   kana: ついつい
+  category: ''
   definition: unintentionally;  unconsciously;  by mistake;  against one's better
     judgement;  against one's better judgment
   sentences: []
 こそこそ:
   kana: こそこそ
+  category: ''
   definition: sneakily;  secretly
   sentences: []
 そわそわ:
   kana: そわそわ
+  category: ''
   definition: restlessly; nervously; uneasily; in a fidget - onomatopoeia
   sentences:
   - jp: 明日が合格発表だと思うと、気持ちが落ち着かずそわそわしていた。
@@ -676,6 +741,7 @@
       all calm: I feel nervous.'
 いちいち:
   kana: いちいち
+  category: ''
   definition: one-by-one; separately every single; each and every; without omission;
     fully; in detail
   sentences:
@@ -697,14 +763,17 @@
       enter the building.
 ピクピク:
   kana: ぴくぴく
+  category: ''
   definition: twitching - onomatopoeia
   sentences: []
 ヨレヨレ:
   kana: よれよれ
+  category: ''
   definition: worn-out; shabby; seedy; wrinkled-up; threadbare - onomatopoeia
   sentences: []
 ピチピチ:
   kana: ぴちぴち
+  category: ''
   definition: bursting with youth and energy (esp. young woman); vivaciously young;
     spunky; energetic - onomatopoeia (fish) jumping around energetically (e.g. when
     caught in a net) - onomatopoeia bursting (e.g. seams); tight - onomatopoeia splattering
@@ -712,12 +781,14 @@
   sentences: []
 クルクル:
   kana: くるくる
+  category: ''
   definition: whirling; revolving; spinning; going round and round - onomatopoeia
     coiling around; winding around; rolling around - onomatopoeia working tirelessly;
     working hard - onomatopoeia constantly changing - onomatopoeia
   sentences: []
 ブラブラ:
   kana: ぶらぶら
+  category: ''
   definition: dangling heavily; swaying to and fro; swinging - onomatopoeia strolling;
     rambling; roaming; wandering - onomatopoeia idly; lazily; leisurely; aimlessly
     - onomatopoeia persisting (of an illness) - onomatopoeia

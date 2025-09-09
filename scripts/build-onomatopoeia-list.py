@@ -60,6 +60,7 @@ def main():
         ]
         output[word] = {
             "kana": kana,
+            'category': "",
             "definition": definition,
             "sentences": word_sentences
         }
