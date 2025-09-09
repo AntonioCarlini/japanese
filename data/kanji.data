@@ -3035,7 +3035,8 @@
 20008 :  0x4e28 :  : KON SHI JO NYO : susu.mu shirizo.ku : : {walking stick} : :
 20009 :  0x4e29 :  : KYUU  : matsuwaru : : {cornucopia} : :
 20012 :  0x4e2c :  :  :  : : {turtle} : :
-20016 :  0x4e30 :  :HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
+20016 :  0x4e30 :  : HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
+20017 :  0x4e31 :  : KAN KEN :  : : {cactus} : :
 20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20029 :  0x4e3d :  :  :  : : {crocodile eyes} : :
@@ -3089,6 +3090,7 @@
 21461 :  0x53d5 :  : TEI TETSU TECHI GETSU I : to.jiru tsudu.ru sumi.ya ka : : {concatenate} : :
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21471 :  0x53df :  : SOU SHUU : okina : : {respectable old man} : :
+21509 :  0x5405 :  :  :  : : {argue} : :
 21599 :  0x545f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
 21666 :  0x54a2 :  : GAKU : odoroku : : {alligator primitive} : :
@@ -3226,6 +3228,7 @@
 32735 :  0x7fdf :  : KEKI JAKU TAKU TAI : kiji : : {futon} : : 
 32770 :  0x8002 :  :  :  : : {old man primitive} : :
 32786 :  0x8012 :  : RAI RUI : ki ku suki : : {christmas tree} : :
+32852 :  0x8054 :  :  :  : : {unite} : :
 32895 :  0x807f :  : ICHI ITSU : fude kokoni : : {brush} : : 
 32896 :  0x8080 :  :  :  : : {rake} : :
 32915 :  0x8093 :  : KOU :  : : {diaphragm} : :
