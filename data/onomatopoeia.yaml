@@ -1,17 +1,24 @@
 からから:
-  kana: からから
-  category: ''
-  definition: dry; parched; scorched; adust; sunbaked; baked
-  sentences:
-  - jp: おしゃべりして喉がからからになりました。
-    hiragana: おしゃべり して のど が からから に なりました。
-    english: My throat got dry from chatting.
-  - jp: 彼はからからと笑いました。
-    hiragana: かれ は からから と わらいました。
-    english: He laughed loudly.
+  - category: 擬音語
+    definition: rattling; clattering
+    sentences:
+    - jp: おしゃべりして喉がからからになりました。
+      hiragana: おしゃべり して のど が からから に なりました。
+      english: My throat got dry from chatting.
+    - jp: 彼はからからと笑いました。
+      hiragana: かれ は からから と わらいました。
+      english: He laughed loudly.
+  - category: 擬態語
+    definition: parched; bone-dry; thirsty
+    sentences:
+    - jp: おしゃべりして喉がからからになりました。
+      hiragana: おしゃべり して のど が からから に なりました。
+      english: My throat got dry from chatting.
+    - jp: 彼はからからと笑いました。
+      hiragana: かれ は からから と わらいました。
+      english: He laughed loudly.
 そもそも:
-  kana: そもそも
-  category: ''
+- category: 擬態語
   definition: in the first place;  to begin with;  from the start;  originally;  ab
     initio
   sentences:
@@ -52,16 +59,14 @@
     hiragana: そもそも の もくてき は かいいん を ふやす こと だっ た。
     english: The original goal was to increase our membership.
 さらさら:
-  kana: さらさら
-  category: ''
+- category: 擬態語
   definition: rustling;  murmuring
   sentences:
   - jp: 小川がさらさら流れています。
     hiragana: おがわ が さらさら ながれて います。
     english: The stream is flowing smoothly.
 びくびく:
-  kana: びくびく
-  category: ''
+- category: 擬態語
   definition: being afraid of;  being fearful;  being timid;  being nervous
   sentences:
   - jp: 嘘がばれないかと、びくびくした。
@@ -71,13 +76,11 @@
     hiragana: しゅくだいをわすれたのでせんせいにしかられるかもしれないと、びくびくしていた。
     english: I forgot my homework so I feared that I might be scolded by my teacher.
 ばたばた:
-  kana: ばたばた
-  category: ''
+- category: 擬音語
   definition: flapping;  rattling (sound);  noisily;  clattering noise
   sentences: []
 ただただ:
-  kana: ただただ
-  category: ''
+- category: 擬態語
   definition: absolutely;  only
   sentences:
   - jp: ただただ漢字を書くなんて、つまらないに決まっている。
@@ -94,8 +97,7 @@
     english: Surprised. Just stunned. I couldn't forget that moment, even if I wanted
       to.
 ぼろぼろ:
-  kana: ぼろぼろ
-  category: ''
+- category: 擬態語
   definition: tears or grain of rice falling
   sentences:
   - jp: 当然勝つと思っていた試合で最後に逆転負けし、 悔しさのあまりぼろぼろ泣いた。
@@ -103,8 +105,7 @@
     english: When I lost right at the end a game I thought I should easily win, I
       cried in frustration.
 なかなか:
-  kana: なかなか
-  category: ''
+- category: 擬態語
   definition: very;  considerably;  easily;  readily;  fairly;  quite;  highly;  rather
   sentences:
   - jp: 日本ではなかなか馬を見ることができません。
@@ -269,8 +270,7 @@
     hiragana: ''
     english: That was a very persuasive argument, but somehow I was not convinced.
 どきどき:
-  kana: どきどき
-  category: ''
+- category: 擬態語
   definition: to beat fast (of one's heart);  to throb;  to pound;  to palpitate
   sentences:
   - jp: みんなの前で歌を歌うのはどきどきする。
@@ -286,16 +286,14 @@
     hiragana: かのじょ は ないしん どきどき して いました よ。
     english: She was nervous on the inside.
 ぶつぶつ:
-  kana: ぶつぶつ
-  category: ''
+- category: 擬態語
   definition: grunt;  grumble;  complaint;  mutter
   sentences:
   - jp: 彼はぶつぶつと独り言を言ったんだ。
     hiragana: かれ は ぶつぶつ と ひとりごと を いった ん だ。
     english: He mumbled to himself.
 しばしば:
-  kana: しばしば
-  category: ''
+- category: 擬態語
   definition: often;  again and again;  frequently
   sentences:
   - jp: 課長はしばしば出張します。
@@ -312,21 +310,18 @@
       of money you spend on your children equals the amount of affection you’ve given
       them.
 ぴかぴか:
-  kana: ぴかぴか
-  category: ''
+- category: 擬態語
   definition: glitter; sparkle
   sentences:
   - jp: 新車はぴかぴかですね。
     hiragana: しんしゃ は ぴかぴか です ね。
     english: The new car is really shiny.
 まごまご:
-  kana: まごまご
-  category: ''
+- category: 擬態語
   definition: confused
   sentences: []
 はきはき:
-  kana: はきはき
-  category: ''
+- category: 擬態語
   definition: briskly;  smartly;  promptly;  clearly;  lucidly
   sentences:
   - jp: はきはきと意見を言ってください。
@@ -336,8 +331,7 @@
     hiragana: かれ は インタビュー に、はきはき と こたえて た よ。
     english: His answers were very clear in the interview.
 いよいよ:
-  kana: いよいよ
-  category: ''
+- category: 擬態語
   definition: more and more;  all the more;  increasingly at last;  finally;  beyond
     doubt (at the) last moment;  worst possible time
   sentences:
@@ -359,21 +353,18 @@
     english: It reached the stage where we were going to report it to the police,
       and that’s when one of our workers finally admitted to having done it.
 がつがつ:
-  kana: がつがつ
-  category: ''
+- category: 擬態語
   definition: greedily;  burning with desire for something
   sentences: []
 ふわふわ:
-  kana: ふわふわ
-  category: ''
+- category: 擬態語
   definition: soft
   sentences:
   - jp: ふわふわの布団に寝たよ。
     hiragana: ふわふわ の ふとん に ねた よ。
     english: I slept on a soft futon.
 たびたび:
-  kana: たびたび
-  category: ''
+- category: 擬態語
   definition: often;  repeatedly;  frequently
   sentences:
   - jp: バスは雨の日などにはたびたび遅れる。30分も待たされることすらある。
@@ -381,8 +372,7 @@
     english: ++The bus is often late on rainy days. There even are times when you
       are made to wait over thirty minutes.
 いらいら:
-  kana: いらいら
-  category: ''
+- category: 擬態語
   definition: getting nervous;  irritation
   sentences:
   - jp: 彼女は朝からいらいらしている。
@@ -395,8 +385,7 @@
       to the time they bring them to the table that I get annoyed. It’s not French
       cuisine, you know.
 ますます:
-  kana: ますます
-  category: ''
+- category: 擬態語
   definition: increasingly;  more and more;  decreasingly;  less and less
   sentences:
   - jp: 世界の人口はますます増えている。
@@ -428,8 +417,7 @@
     hiragana: これからますます寒くなりますから、おからだにはくれぐれもきをつけてください。
     english: It's going to get colder and colder, so please take care of yourself.
 うろうろ:
-  kana: うろうろ
-  category: ''
+- category: 擬態語
   definition: loiteringly;  aimless wandering
   sentences:
   - jp: その男はロビーをしばらくうろうろしていたよ。
@@ -440,34 +428,29 @@
     english: If you enter someone's garden without permission and loiter, you can
       expect to be mistaken for a thief.
 カリカリ:
-  kana: カリカリ
-  category: ''
+- category: 擬態語
   definition: crisp (e.g. potato chip, fried fish, etc.);  crunchy
   sentences:
   - jp: カリカリしても、ろくなことがないぞ。
     hiragana: カリカリしても、ろくなことがないぞ。
     english: Getting all touchy won't do you any good.
 フラフラ:
-  kana: フラフラ
-  category: ''
+- category: 擬態語
   definition: unsteady on one's feet;  stagger;  reel;  totter;  dizzy
   sentences: []
 ぽかぽか:
-  kana: ぽかぽか
-  category: ''
+- category: 擬音語
   definition: sound of beating someone
   sentences:
   - jp: 今日はぽかぽか暖かい日です。
     hiragana: きょう は ぽかぽか あたたかい ひ です。
     english: It's a lovely warm day today.
 ぶりぶり:
-  kana: ぶりぶり
-  category: ''
+- category: 擬態語
   definition: angrily;  in a huff;  in anger
   sentences: []
 うかうか:
-  kana: うかうか
-  category: ''
+- category: 擬態語
   definition: carelessly;  inattentively
   sentences:
   - jp: うかうかしてると、就職浪人することになりかねないぞ。
@@ -475,23 +458,19 @@
     english: If you're lazy and not trying hard, then you might end up as a jobless
       university graduate.
 ぴりぴり:
-  kana: ぴりぴり
-  category: ''
+- category: 擬態語
   definition: tingle;  sting;  smart;  hot;  burning the tongue;  becoming tense
   sentences: []
 ガタガタ:
-  kana: ガタガタ
-  category: ''
+- category: 擬態語
   definition: rattle;  clatter
   sentences: []
 くすくす:
-  kana: くすくす
-  category: ''
+- category: 擬態語
   definition: chuckle;  giggle
   sentences: []
 わくわく:
-  kana: わくわく
-  category: ''
+- category: 擬態語
   definition: tremble;  get nervous;  excitedly;  thrilled
   sentences:
   - jp: もうすぐ夏休みだと思うとわくわくする。
@@ -501,16 +480,14 @@
     hiragana: えんそく が たのしみ で わくわく して います。
     english: I'm looking forward to the field trip, and I'm really excited.
 がやがや:
-  kana: がやがや
-  category: ''
+- category: 擬態語
   definition: noisily;  in a crowd of people talking;  clamorously;  in a hubbub
   sentences:
   - jp: 生徒たちががやがやと騒いでいますね。
     hiragana: せいと たち が がやがや と さわいで います ね。
     english: The students are making a lot of noise.
 ずけずけ:
-  kana: ずけずけ
-  category: ''
+- category: 擬態語
   definition: (speak) bluntly;  frankly
   sentences:
   - jp: 親友であればこそ君にこんなにずけずけとものが言えるんだよ。
@@ -518,23 +495,19 @@
     english: It is precisely because I’m your close friend that I can talk straight
       to you like this.
 もやもや:
-  kana: もやもや
-  category: ''
+- category: 擬態語
   definition: hazy;  murky;  misty;  foggy;  fuzzy
   sentences: []
 ぎすぎす:
-  kana: ぎすぎす
-  category: ''
+- category: 擬態語
   definition: strained atmosphere;  thin and bony
   sentences: []
 イライラ:
-  kana: イライラ
-  category: ''
+- category: 擬態語
   definition: getting nervous;  irritation
   sentences: []
 くよくよ:
-  kana: くよくよ
-  category: ''
+- category: 擬態語
   definition: worry about;  mope;  brood over
   sentences:
   - jp: 小さなことにくよくよするのはばからしいよ。
@@ -550,36 +523,30 @@
     english: When I think about it now it makes me smile, but when I was young I worried
       about every little thing under the sun.
 ぐんぐん:
-  kana: ぐんぐん
-  category: ''
+- category: 擬態語
   definition: steadily
   sentences: []
 のろのろ:
-  kana: のろのろ
-  category: ''
+- category: 擬態語
   definition: slowly;  sluggishly
   sentences:
   - jp: 車は雪道をのろのろと走ったの。
     hiragana: くるま は ゆきみち を のろのろ と はしった の。
     english: The car drove very slowly on the snowy road.
 パラパラ:
-  kana: パラパラ
-  category: ''
+- category: 擬態語
   definition: flipping through a book;  thumbing through a book;  riffling cards
   sentences: []
 ハタハタ:
-  kana: ハタハタ
-  category: ''
+- category: 擬態語
   definition: sailfin sandfish (Arctoscopus japonicus)
   sentences: []
 わいわい:
-  kana: わいわい
-  category: ''
+- category: 擬態語
   definition: noisily;  clamorously;  many people making a din
   sentences: []
 ペラペラ:
-  kana: ペラペラ
-  category: ''
+- category: 擬態語
   definition: fluent;  fluency;  —Onomatopoeia. flipping (pages) thin or weak (paper,
     cloth)
   sentences:
@@ -592,30 +559,26 @@
     english: She is fluent in French because she majored in French and, in addition,
       she lived in Paris for a while.
 すやすや:
-  kana: すやすや
-  category: ''
+- category: 擬音語
   definition: sleeping peacefully;  sleeping quietly;  sleeping soundly
   sentences:
   - jp: 子供がすやすや眠っているね。
     hiragana: こども が すやすや ねむって いる ね。
     english: The child is sleeping soundly.
 やれやれ:
-  kana: やれやれ
-  category: ''
+- category: 擬態語
   definition: exclamation of relief or disappointment
   sentences:
   - jp: やれやれ、この父にしてこの息子あり。二人ともとてもよく食べる。
     hiragana: やれやれ、この ちちに して この むすこあり。ふたりとも とても よく たべる。
     english: Well, well. Like father, like son. Both of them have a healthy appetite.
 ざわざわ:
-  kana: ざわざわ
-  category: ''
+- category: 擬態語
   definition: noisily (e.g. from many people talking); creating a commotion - onomatopoeia
     rustling (leaves) - onomatopoeia feeling a chill; getting the chills - onomatopoeia
   sentences: []
 ふらふら:
-  kana: ふらふら
-  category: ''
+- category: 擬態語
   definition: unsteady on one's feet;  stagger;  reel;  totter;  dizzy
   sentences:
   - jp: 私は疲れてふらふらです。
@@ -625,48 +588,39 @@
     hiragana: ゆうべのみすぎたせいできょうはあたまがふらふらする。
     english: I am dizzy today because I drank too much last night.
 じょじょ:
-  kana: じょじょ
-  category: ''
+- category: 擬態語
   definition: gradually;  steadily;  quietly;  slowly;  little by little
   sentences: []
 べとべと:
-  kana: べとべと
-  category: ''
+- category: 擬態語
   definition: being sticky
   sentences: []
 ちらちら:
-  kana: ちらちら
-  category: ''
+- category: 擬態語
   definition: fluttering;  flickering;  intermittently
   sentences: []
 もぞもぞ:
-  kana: もぞもぞ
-  category: ''
+- category: 擬態語
   definition: creeping about;  stirring restlessly;  squirming
   sentences: []
 ずたずた:
-  kana: ずたずた
-  category: ''
+- category: 擬態語
   definition: to pieces;  into shreds
   sentences: []
 そこそこ:
-  kana: そこそこ
-  category: ''
+- category: 擬態語
   definition: reasonably;  fairly well
   sentences: []
 オロオロ:
-  kana: おろおろ
-  category: ''
+- category: 擬態語
   definition: nervous;  flustered;  in a dither;  all shook up
   sentences: []
 ジワジワ:
-  kana: じわじわ
-  category: ''
+- category: 擬態語
   definition: slowly (but steadily);  gradually;  bit-by-bit
   sentences: []
 こつこつ:
-  kana: こつこつ
-  category: ''
+- category: 擬態語
   definition: unflaggingly;  steadily;  untiringly;  laboriously
   sentences:
   - jp: わたしが努力家なもんですか。 こつこつと努力するのは苦手なんですよ。
@@ -674,26 +628,22 @@
     english: ++I’m definitely not a hard worker. I’m no good at tirelessly making
       an effort.
 ごろごろ:
-  kana: ごろごろ
-  category: ''
+- category: 擬態語
   definition: scattered about
   sentences:
   - jp: 雷がごろごろ鳴っている。
     hiragana: かみなり が ごろごろ なって いる。
     english: I can hear thunder rumbling.
 ハラハラ:
-  kana: ハラハラ
-  category: ''
+- category: 擬態語
   definition: exciting;  thrilling
   sentences: []
 ドキドキ:
-  kana: ドキドキ
-  category: ''
+- category: 擬態語
   definition: thump-thump;  bang-bang;  pit-a-pat;  pitapat;  pitter-patter;
   sentences: []
 へとへと:
-  kana: へとへと
-  category: ''
+- category: 擬態語
   definition: completely exhausted;  dead tired;  knackered
   sentences:
   - jp: スイカマラソンは、レース中やレース後にスイカが食べられる。でも、走り終わったら、へとへとで、とてもスイカを食べるどころではないそうだ。
@@ -703,36 +653,30 @@
       the race, but I hear that when they’re done running they’re so tired that there’s
       no way they can eat the watermelon.
 ボロボロ:
-  kana: ボロボロ
-  category: ''
+- category: 擬態語
   definition: worn-out;  torn;  crumbling;  tattered
   sentences: []
 だらだら:
-  kana: だらだら
-  category: ''
+- category: 擬態語
   definition: in drops;  dripping;  trickling;  streaming;  flowing —Onomatopoeia.
     gently (sloping)  —Onomatopoeia sluggishly;  endlessly;  lengthily —Onomatopoeia.
     leisurely;  idly;  slowly;  slovenly —Onomatopoeia.
   sentences: []
 ぼさぼさ:
-  kana: ぼさぼさ
-  category: ''
+- category: 擬態語
   definition: unkempt, ruffled hair or brush bristles;  idling away time
   sentences: []
 ついつい:
-  kana: ついつい
-  category: ''
+- category: 擬態語
   definition: unintentionally;  unconsciously;  by mistake;  against one's better
     judgement;  against one's better judgment
   sentences: []
 こそこそ:
-  kana: こそこそ
-  category: ''
+- category: 擬態語
   definition: sneakily;  secretly
   sentences: []
 そわそわ:
-  kana: そわそわ
-  category: ''
+- category: 擬態語
   definition: restlessly; nervously; uneasily; in a fidget - onomatopoeia
   sentences:
   - jp: 明日が合格発表だと思うと、気持ちが落ち着かずそわそわしていた。
@@ -740,8 +684,7 @@
     english: 'When I think that the results will be announced tomorrow, I''m not at
       all calm: I feel nervous.'
 いちいち:
-  kana: いちいち
-  category: ''
+- category: 擬態語
   definition: one-by-one; separately every single; each and every; without omission;
     fully; in detail
   sentences:
@@ -762,33 +705,28 @@
     english: ++It's really annoying because you have to show your ID every time you
       enter the building.
 ピクピク:
-  kana: ぴくぴく
-  category: ''
+- category: 擬態語
   definition: twitching - onomatopoeia
   sentences: []
 ヨレヨレ:
-  kana: よれよれ
-  category: ''
+- category: 擬態語
   definition: worn-out; shabby; seedy; wrinkled-up; threadbare - onomatopoeia
   sentences: []
 ピチピチ:
-  kana: ぴちぴち
-  category: ''
+- category: 擬態語
   definition: bursting with youth and energy (esp. young woman); vivaciously young;
     spunky; energetic - onomatopoeia (fish) jumping around energetically (e.g. when
     caught in a net) - onomatopoeia bursting (e.g. seams); tight - onomatopoeia splattering
     (e.g. cooking oil) - onomatopoeia
   sentences: []
 クルクル:
-  kana: くるくる
-  category: ''
+- category: 擬態語
   definition: whirling; revolving; spinning; going round and round - onomatopoeia
     coiling around; winding around; rolling around - onomatopoeia working tirelessly;
     working hard - onomatopoeia constantly changing - onomatopoeia
   sentences: []
 ブラブラ:
-  kana: ぶらぶら
-  category: ''
+- category: 擬態語
   definition: dangling heavily; swaying to and fro; swinging - onomatopoeia strolling;
     rambling; roaming; wandering - onomatopoeia idly; lazily; leisurely; aimlessly
     - onomatopoeia persisting (of an illness) - onomatopoeia
