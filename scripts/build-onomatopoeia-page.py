@@ -73,7 +73,7 @@ function toggle(id) {
         else:
             raise TypeError(f"Unexpected type for {word}: {type(entry)}")
 
-        for cat_entry in entries:
+        for j, cat_entry in enumerate(entries):
             category = cat_entry.get("category", "")
             definition = cat_entry.get("definition", "")
             sentences = cat_entry.get("sentences", []) or []
@@ -84,8 +84,7 @@ function toggle(id) {
             else:
                 keyword = word
 
-            def_id = f"def_{i}"
-            sen_id = f"sen_{i}"
+            sen_id = f"sen_{i}_{j}"
 
             # Row for the word
             html.append("<tr>")
