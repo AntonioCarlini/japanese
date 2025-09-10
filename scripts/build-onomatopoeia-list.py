@@ -1,4 +1,11 @@
 """
+
+WARNING
+
+this script generates entries using a previous formt.
+To prevent errors, this script deliberately fails loudly.
+Change the format if you need this to run.
+
 This script helps to produce a YAML file containing information about a set of Japanese onomatopoeia.
 
 The purpose is to build a YAML file containing information about these onomatopoeia, which will be used by another script to produce a revision web page.
@@ -20,6 +27,11 @@ import yaml
 import argparse
 
 def main():
+
+    # Fix the code to use the new format before removing this.
+    print("SCRIPT INCOMPATIBLE WITH NEW YAML FORMAT")
+    sys.exit(1)
+    
     parser = argparse.ArgumentParser(description="Extract vocab definitions and example sentences into YAML.")
     parser.add_argument("--words", required=True, help="File with candidate words (one per line)")
     parser.add_argument("--kanji", required=True, help="Kanji deck CSV file (word, kana, definition, ...)")
