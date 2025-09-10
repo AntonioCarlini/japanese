@@ -95,13 +95,16 @@ function toggle(id) {
             html.append(f"<tr><td><span title='{definition}'>{keyword}</span></td>")
 
             # Category (currently empty)
-            html.append(f"<td></td>")
+            html.append(f"<td>{category}</td>")
             
             sentence_texts = "<br>".join(
               [f'<span title="{s["english"]}">{s["jp"].replace(word, f"<b>{word}</b>")}</span>' for s in sentences]
             )
 
-            html.append(
+            if not sentences:
+                html.append("<td></td>")
+            else:
+                html.append(
                 f"<td><a href='#' onclick=\"toggle('{sen_id}');return false;\">S</a>"
                 f"<div id='{sen_id}' class='hidden'>{sentence_texts}</div></td>"
             )
