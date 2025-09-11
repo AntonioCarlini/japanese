@@ -3113,6 +3113,7 @@ class KD
     :"old*simple" => [21934, 21934, ["TAN"], ["hitoe"], [""], ["old simple"], 0, 0],
     :"furniture" => [21951, 21951, ["SOU","SHOU"], ["sawa.gu","kashima.shiisuki"], [""], ["furniture"], 0, 0],
     :"choke*up" => [22094, 22094, ["ITSU","ETSU"], ["mu.seru","muse.bu"], [""], ["choke up"], 0, 0],
+    :"noisy" => [22122, 22122, ["SOU"], ["sawa.gu"], [""], ["noisy"], 0, 0],
     :"pent*in" => [22231, 22231, ["I","KOKU"], [""], [""], ["pent in"], 0, 0],
     :"spool" => [22307, 22307, ["KOTSU","KUTSU","KOCHI","SEI"], ["tagaya.su"], [""], ["spool"], 0, 0],
     :"rice*seedling" => [22309, 22309, ["ROKU"], ["kinoko"], [""], ["rice seedling"], 0, 0],
@@ -3228,6 +3229,7 @@ class KD
     :"jiminy*cricket" => [31162, 31162, ["GU","GUU"], ["onagazaru"], [""], ["Jiminy Cricket"], 0, 0],
     :"sheik" => [31163, 31163, ["CHI","RI"], [""], [""], ["sheik"], 0, 0],
     :"wheat" => [31166, 31166, ["KA"], ["inu"], [""], ["wheat"], 0, 0],
+    :"furnace" => [31432, 31432, ["SOU"], ["kamado","kama","hextsui"], [""], ["furnace","kitchen stove"], 0, 0],
     :"row*(alternate)" => [31453, 31453, ["HEI","HOU"], ["na.mi","nara.beru","nara.bu","nara.bini"], [""], ["row (alternate)"], 0, 0],
     :"endpoint" => [31455, 31455, ["KYOU","KEI"], ["owa.ru","tsuini","wata.ru"], [""], ["endpoint"], 0, 0],
     :"straw-mat" => [31605, 31605, ["EN"], ["mushiro"], [""], ["straw-mat"], 0, 0],
@@ -3294,6 +3296,7 @@ class KD
     :"hamachi" => [39788, 39788, ["HAN"], ["karei"], [""], ["hamachi"], 0, 0],
     :"preserved*sushi" => [39827, 39827, ["SA"], ["sushi"], [""], ["preserved sushi"], 0, 0],
     :"seagull*[old]" => [40407, 40407, ["OU"], ["kamome"], [""], ["seagull [old]"], 0, 0],
+    :"old*eel" => [40701, 40701, ["BOU","BIN","BEN","MIN","MEN"], ["aogaeru","tsuto.meru"], [""], ["old eel"], 0, 0],
     :"adjusted*[old]" => [40778, 40778, ["SEI","SAI"], ["soro.u","hito.shii","hito.shiku","ataru","hayai"], [""], ["adjusted [old]"], 0, 0],
     :"bring*about" => [40782, 40782, ["SEI","SAI","SHI"], ["matara.su","mata.rasu"], [""], ["bring about"], 0, 0],
     }

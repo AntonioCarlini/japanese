@@ -3099,6 +3099,7 @@
 21934 :  0x55ae :  : TAN : hitoe : : {old simple} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
+22122 :  0x566a :  : SOU  : sawa.gu : : {noisy} : :
 22231 :  0x56d7 :  : I KOKU :  : : {pent in} : :
 22307 :  0x5723 :  : KOTSU KUTSU KOCHI SEI : tagaya.su : : {spool} : :
 22309 :  0x5725 :  : ROKU : kinoko : : {rice seedling} : :
@@ -3214,6 +3215,7 @@
 31162 :  0x79ba :  : GU GUU : onagazaru : : {Jiminy Cricket} : :
 31163 :  0x79bb :  : CHI RI :  : : {sheik} : :
 31166 :  0x79be :  : KA : inu : : {wheat} : :
+31432 :  0x7ac8 :  : SOU : kamado kama hextsui : : {furnace} {kitchen stove} : :
 31453 :  0x7add :  : HEI HOU : na.mi nara.beru nara.bu nara.bini : : {row (alternate)} : :
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
 31605 :  0x7b75 :  : EN : mushiro : : {straw-mat} : :
@@ -3280,5 +3282,6 @@
 39788 :  0x9b6c :  : HAN : karei : : {hamachi} : : 
 39827 :  0x9b93 :  : SA : sushi  : : {preserved sushi} : :
 40407 :  0x9dd7 :  : OU : kamome : : {seagull [old]} : :
+40701 :  0x9efd :  : BOU BIN BEN MIN MEN : aogaeru tsuto.meru : : {old eel} : :
 40778 :  0x9f4a :  : SEI SAI : soro.u hito.shii hito.shiku ataru hayai : : {adjusted [old]} : :
 40782 :  0x9f4e :  : SEI SAI SHI : matara.su mata.rasu : : {bring about} : :
