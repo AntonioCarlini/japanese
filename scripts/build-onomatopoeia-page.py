@@ -1,8 +1,9 @@
   #!/usr/bin/env python3
 
 import argparse
-import yaml
 import pykakasi
+import sys
+import yaml
 
 
 def load_yaml(path: str):
@@ -63,6 +64,11 @@ function toggle(id) {
     html.append("<table>")
     html.append("<tr><th>Word</th><th>Category</th><th>Sentences</th></tr>")
 
+    kakasi = pykakasi.kakasi()
+    hiragana_dict = {}
+    
+    duplicate_word_count = 0
+    
     for i, word in enumerate(sort_words(data.keys())):
         entry = data[word]
         # normalise to a list for uniform processing
@@ -72,6 +78,14 @@ function toggle(id) {
             entries = entry
         else:
             raise TypeError(f"Unexpected type for {word}: {type(entry)}")
+
+        result = kakasi.convert(word)
+        word_hiragana = "".join([item["hira"] for item in result])
+        if word_hiragana in hiragana_dict:
+            print(f"Duplicate word: {word}, originally seen as {hiragana_dict[word_hiragana]}", file=sys.stderr)
+            duplicate_word_count += 1
+        else:
+            hiragana_dict[word_hiragana] = word
 
         for j, cat_entry in enumerate(entries):
             category = cat_entry.get("category", "")
@@ -111,6 +125,11 @@ function toggle(id) {
 
     html.append("</table>")
     html.append("</body></html>")
+
+    if duplicate_word_count > 0:
+        print(f"Duplicate words seen. Onomatopoeia build failed", file=sys.stderr)
+        sys.exit(1)
+        
     return "\n".join(html)
 
 
