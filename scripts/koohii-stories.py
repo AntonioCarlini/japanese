@@ -37,6 +37,8 @@ def parse_csv(file_name):
     frame_to_kanji = {}  # Maps frame numbers to kanji
     kanji_to_frame = {}  # Maps kanji to frame numbers
 
+    fatal_error_seen = False
+    
     # First pass: Build the frame_to_kanji and kanji_to_frame maps
     with open(file_name, mode='r', encoding='utf-8') as file:
         reader = csv.reader(file)
@@ -51,6 +53,7 @@ def parse_csv(file_name):
             try:
                 frame_number = int(row[0])
             except ValueError:
+                fatal_error_seen = True
                 print(f"ERROR: Line {line_number} - Frame number '{row[0]}' is not a valid integer.")
                 continue  # Skip invalid frame numbers
 
@@ -72,6 +75,7 @@ def parse_csv(file_name):
             try:
                 frame_number = int(row[0])
             except ValueError:
+                fatal_error_seen = True
                 print(f"ERROR: Line {line_number} - Frame number '{row[0]}' is not a valid integer.")
                 continue
 
@@ -79,6 +83,12 @@ def parse_csv(file_name):
             heisig_keyword = row[2]
             story = row[5]
 
+            # Skip keywords of the form "Unicode #" as that's never a valid keyword ... just one that has not been assigned
+            if heisig_keyword.lower().startswith("unicode #"):
+                fatal_error_seen = True
+                print(f"ERROR: Line {line_number} - Keyword '{heisig_keyword}' is not a valid keyword.")
+                continue
+                
             # Handle duplicate keywords
             if heisig_keyword in keyword_count:
                 if frame_number <= KANJI_MAX_FRAME_NUMBER:
@@ -137,6 +147,9 @@ def parse_csv(file_name):
                     if REPORT_NON_HEISIG_KANJI:
                         missing_kanji_map[ref_kanji].add(frame_number)
 
+    if fatal_error_seen:
+        sys.exit(1)
+        
     return entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame
 
 
