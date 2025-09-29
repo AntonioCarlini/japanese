@@ -3089,6 +3089,7 @@ class KD
     :"wind*primitive" => [20960, 20960, ["KI"], ["kinyou"], [""], ["wind primitive"], 0, 0],
     :"shovel" => [20981, 20981, ["kan"], [""], [""], ["shovel"], 0, 0],
     :"sabre" => [20994, 20994, ["TOU"], [""], [""], ["sabre"], 0, 0],
+    :"publish*[alternate]" => [21003, 21003, ["KAN","SEN"], ["ki.ru","kezu.ru"], [""], ["publish [alternate]"], 0, 0],
     :"butcher" => [21014, 21014, ["GETSU","GECHI","GOTSU","GOCHI"], ["ki.ru","ayau.i"], [""], ["butcher"], 0, 0],
     :"peels*off*[old]" => [21085, 21085, ["HAKU","HOKU"], ["he.gu","hezu.ru","mu.ku","mu.keru","ha.gareru","ha.gu","hageru","ha.gasu"], [""], ["peels off [old]"], 0, 0],
     :"bound*up" => [21241, 21241, ["HOU"], ["tsutsu.mu"], [""], ["bound up"], 0, 0],
