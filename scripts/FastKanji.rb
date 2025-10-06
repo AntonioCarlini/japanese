@@ -3113,6 +3113,7 @@ class KD
     :"antique" => [21831, 21831, ["TEKI","CHAKU","SEKI"], ["moto","nemoto","yawa.ragu"], [""], ["antique"], 0, 0],
     :"old*simple" => [21934, 21934, ["TAN"], ["hitoe"], [""], ["old simple"], 0, 0],
     :"furniture" => [21951, 21951, ["SOU","SHOU"], ["sawa.gu","kashima.shiisuki"], [""], ["furniture"], 0, 0],
+    :"needless*to*say" => [22072, 22072, ["BU","MU"], ["sazo","sazoya","sazokashi"], [""], ["needless to say"], 0, 0],
     :"choke*up" => [22094, 22094, ["ITSU","ETSU"], ["mu.seru","muse.bu"], [""], ["choke up"], 0, 0],
     :"noisy" => [22122, 22122, ["SOU"], ["sawa.gu"], [""], ["noisy"], 0, 0],
     :"pent*in" => [22231, 22231, ["I","KOKU"], [""], [""], ["pent in"], 0, 0],
