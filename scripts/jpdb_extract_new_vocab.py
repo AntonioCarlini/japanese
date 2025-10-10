@@ -37,6 +37,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import ElementClickInterceptedException
 
 
 def init_driver(profile_path):
@@ -70,7 +71,7 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
     page = 1
 
     while page <= page_limit:
-        print(f"\n🔹 Processing page {page}...")
+        print(f"\nProcessing page {page}...")
 
         vocab_elements = driver.find_elements(By.CSS_SELECTOR, "a[href^='/vocabulary/']")
 
@@ -87,7 +88,7 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
             By.CSS_SELECTOR, "div.pagination a[href*='offset='][href*='show_only=new']"
         )
         if not next_links:
-            print("✅ No more pages found.")
+            print("No more pages found.")
             break
 
         next_links[0].click()
@@ -95,9 +96,9 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
         time.sleep(3)
 
     if page > page_limit:
-        print("⚠️ Stopped after 50 pages (safety limit reached — possible infinite loop).")
+        print("Stopped after 50 pages (safety limit reached — possible infinite loop).")
 
-    print(f"\n✅ Total unique vocab collected: {len(all_vocab)}\n")
+    print(f"\nTotal unique vocab collected: {len(all_vocab)}\n")
 
     # Output vocab list (with optional reference text)
     for w in all_vocab:
@@ -108,41 +109,66 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
 
     return all_vocab
 
-
 def mark_vocab_known(driver, deck_id):
     """Mark all vocab on all pages as 'never forget'."""
+    from selenium.webdriver.common.by import By
+    from selenium.common.exceptions import NoSuchElementException
+    import time
+
     click_new_tab(driver, deck_id)
     page = 1
     page_limit = 50
     marked_total = 0
 
     while page <= page_limit:
-        print(f"\n🔹 Marking page {page}...")
+        print(f"\nMarking page {page}...")
 
-        # Find all 'Never forget' buttons (adjust selector as needed)
-        buttons = driver.find_elements(By.XPATH, "//button[contains(text(),'Never forget')]")
-        for btn in buttons:
-            driver.execute_script("arguments[0].click();", btn)
-            marked_total += 1
-            time.sleep(0.2)
+        # Find all dropdown <details> blocks
+        dropdowns = driver.find_elements(By.CSS_SELECTOR, "div.dropdown details")
+        if not dropdowns:
+            print("No dropdowns found — maybe no vocab left or selector mismatch?")
+            break
 
-        # Check for "Next page"
+        for d in dropdowns:
+            try:
+                # Open dropdown
+                summary = d.find_element(By.TAG_NAME, "summary")
+                driver.execute_script("arguments[0].click();", summary)
+                time.sleep(0.15)
+
+                # Find the 'Mark as never forget' input inside
+                nf_buttons = d.find_elements(
+                    By.XPATH, ".//form[@action='/deck/never-forget/add']//input[@type='submit']"
+                )
+                for nf in nf_buttons:
+                    if "never forget" in nf.get_attribute("value").lower():
+                        driver.execute_script("arguments[0].click();", nf)
+                        marked_total += 1
+                        time.sleep(0.25)
+                        break  # Done for this vocab
+
+            except NoSuchElementException:
+                continue
+
+        print(f"Marked {marked_total} so far on this page.")
+
+        # Check for next page
         next_links = driver.find_elements(
             By.CSS_SELECTOR, "div.pagination a[href*='offset='][href*='show_only=new']"
         )
         if not next_links:
-            print("✅ No more pages found to mark.")
+            print("No more pages found to mark.")
             break
 
-        next_links[0].click()
+        # Click the next page link
+        driver.execute_script("arguments[0].click();", next_links[0])
         page += 1
         time.sleep(3)
 
     if page > page_limit:
-        print("⚠️ Stopped after 50 pages (safety limit reached — possible infinite loop).")
+        print("Stopped after 50 pages (safety limit reached — possible infinite loop).")
 
-    print(f"\n✅ Marked {marked_total} vocab items as 'never forget'.")
-
+    print(f"\nFinished marking. Total marked as 'never forget': {marked_total}")
 
 def main():
     parser = argparse.ArgumentParser(description="Automate JPDB deck operations.")
@@ -162,7 +188,7 @@ def main():
 
     args = parser.parse_args()
 
-    print(F"profile is {args.profile}")
+    print(f"profile is {args.profile}")
     driver = init_driver(args.profile)
 
     if args.gather_vocab:
@@ -170,13 +196,14 @@ def main():
         print(f"\nGathered {len(vocab)} vocab items.")
 
     if args.mark_vocab_known:
+        # Reopen the deck page to ensure we're on a clean 'New' tab
         mark_vocab_known(driver, args.deck_id)
 
     if not args.gather_vocab and not args.mark_vocab_known:
-        print("ℹ️ No action specified. Use --gather-vocab and/or --mark-vocab-known.")
+        print("No action specified. Use --gather-vocab and/or --mark-vocab-known.")
 
     driver.quit()
-    print("\n✅ Finished successfully.")
+    print("\nFinished successfully.")
 
 
 if __name__ == "__main__":
