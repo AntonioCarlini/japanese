@@ -133,7 +133,8 @@ def mark_vocab_known(driver, deck_id, page_limit=50):
     click_new_tab(driver, deck_id)
     page = 1
     marked_total = 0
-
+    last_offset = -1
+    
     while page <= page_limit:
         print(f"\nMarking page {page}...")
 
@@ -183,10 +184,14 @@ def mark_vocab_known(driver, deck_id, page_limit=50):
             if m:
                 offsets.append((int(m.group(1)), href))
 
-        # Pick the link with the highest offset value (always move forward)
+        # Pick the link with the highest offset value (but always move forward)
         if offsets:
-            next_href = max(offsets, key=lambda x: x[0])[1]
-            driver.get(next_href)  # reload directly via URL, avoids stale elements
+            next_offset, next_href = max(offsets, key=lambda x: x[0])
+            if next_offset <= last_offset:
+                print(f"Reached last page (offset did not increase: {next_offset}).")
+                break
+            last_offset = next_offset
+            driver.get(next_href)
             page += 1
             time.sleep(3)
         else:
