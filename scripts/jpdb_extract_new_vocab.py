@@ -40,7 +40,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import ElementClickInterceptedException
 
-
 def init_driver(profile_path):
     """Initialise Firefox with the given profile path."""
     #options = Options()
@@ -66,6 +65,7 @@ def click_new_tab(driver, deck_id):
 
 def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
     """Collect all vocab from the 'New' pages."""
+
     click_new_tab(driver, deck_id)
 
     all_vocab = []
@@ -92,9 +92,24 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
             print("No more pages found.")
             break
 
-        next_links[0].click()
-        page += 1
-        time.sleep(3)
+        # Extract hrefs BEFORE navigation to avoid stale elements
+        hrefs = [l.get_attribute("href") for l in next_links if l.get_attribute("href")]
+
+        offsets = []
+        for href in hrefs:
+            m = re.search(r"offset=(\d+)", href)
+            if m:
+                offsets.append((int(m.group(1)), href))
+
+        # Always move to the highest offset (true 'next' page)
+        if offsets:
+            next_href = max(offsets, key=lambda x: x[0])[1]
+            driver.get(next_href)  # use get() to avoid stale DOM
+            page += 1
+            time.sleep(3)
+        else:
+            print("No valid next-page link found.")
+            break
 
     if page > page_limit:
         print(f"Stopped after {page_limit} pages (safety limit reached — possible infinite loop).")
