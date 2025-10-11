@@ -35,14 +35,9 @@ def start_firefox(profile_path: str):
     driver.get("https://jpdb.io/learn")
     return driver
 
-def review_all(driver, grade_label="✔ Easy"):
+def review_due_vocab(driver, grade_label="✔ Easy"):
     """Click 'Start Reviewing', then iterate through all available reviews."""
     print(f"Starting JPDB review session using grade: {grade_label!r}\n")
-
-    driver.get("https://jpdb.io/learn")
-
-    # Wait for page load
-    time.sleep(2)
 
     # Step 1: Click "Start reviewing" if visible
     try:
@@ -87,6 +82,73 @@ def review_all(driver, grade_label="✔ Easy"):
     print(f"\nFinished reviewing {reviewed} cards total.")
     return reviewed
 
+def review_new_vocab(driver, choice="know_may_forget"):
+    """
+    Review all 'new' vocab cards, marking them based on choice.
+    Automatically starts and continues sessions when prompted.
+    choice can be:
+        'never_forget'      → "I know this, will never forget"
+        'know_may_forget'   → "I know this, but may forget"
+        'dont_know'         → "I don't know this"
+    """
+    from selenium.webdriver.common.by import By
+    import time
+
+    print("Starting review of NEW vocab...")
+
+    # Step 1: Click "Start reviewing" if present
+    start_buttons = driver.find_elements(By.CSS_SELECTOR, "input[value='Start reviewing']")
+    if start_buttons:
+        print("Found 'Start reviewing' button — starting session.")
+        driver.execute_script("arguments[0].click();", start_buttons[0])
+        time.sleep(1.5)
+
+    reviewed = 0
+
+    while True:
+        try:
+            # Step 2: Handle "keep going" prompt if it appears
+            keep_buttons = driver.find_elements(By.CSS_SELECTOR, "input[value*='keep going']")
+            if keep_buttons:
+                print("Continuing next batch of reviews...")
+                driver.execute_script("arguments[0].click();", keep_buttons[0])
+                time.sleep(1.5)
+                continue
+
+            # Step 3: Show the answer
+            show_answer = driver.find_elements(By.ID, "show-answer")
+            if show_answer:
+                driver.execute_script("arguments[0].click();", show_answer[0])
+                time.sleep(0.25)
+
+            # Step 4: Pick the grading button
+            if choice == "never_forget":
+                button = driver.find_elements(By.ID, "grade-permaknown")
+            elif choice == "know_may_forget":
+                button = driver.find_elements(By.ID, "grade-p")
+            elif choice == "dont_know":
+                button = driver.find_elements(By.ID, "grade-f")
+            else:
+                print(f"Invalid choice '{choice}' — stopping.")
+                break
+
+            # Step 5: If no grading button, assume we're out of cards
+            if not button:
+                print("No grading button found — probably out of new vocab.")
+                break
+
+            # Step 6: Click the grading button
+            driver.execute_script("arguments[0].click();", button[0])
+            reviewed += 1
+            if reviewed % 25 == 0:
+                print(f"  Reviewed {reviewed} cards so far...")
+            time.sleep(0.4)
+
+        except Exception as e:
+            print(f"Stopped due to: {e}")
+            break
+
+    print(f"Finished reviewing all NEW vocab. Total reviewed: {reviewed}")
 
 def main():
     parser = argparse.ArgumentParser(description="Automatically review all due vocab on jpdb.io.")
@@ -102,7 +164,13 @@ def main():
     driver = init_driver(args.profile)
 
     try:
-        review_all(driver, args.grade)
+        driver.get("https://jpdb.io/learn")
+
+        # Wait for page load
+        time.sleep(2)
+
+        review_new_vocab(driver)
+#        review_all(driver, args.grade)
     finally:
         print("\nClosing browser...")
         driver.quit()
