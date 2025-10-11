@@ -97,7 +97,7 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
         time.sleep(3)
 
     if page > page_limit:
-        print("Stopped after 50 pages (safety limit reached — possible infinite loop).")
+        print(f"Stopped after {page_limit} pages (safety limit reached — possible infinite loop).")
 
     print(f"\nTotal unique vocab collected: {len(all_vocab)}\n")
 
@@ -110,14 +110,13 @@ def gather_vocab(driver, deck_id, reference_text=None, page_limit=50):
 
     return all_vocab
 
-def mark_vocab_known(driver, deck_id):
+def mark_vocab_known(driver, deck_id, page_limit=50):
     """Mark all vocab on all pages as 'never forget'."""
     from selenium.webdriver.common.by import By
     from selenium.common.exceptions import NoSuchElementException
 
     click_new_tab(driver, deck_id)
     page = 1
-    page_limit = 50
     marked_total = 0
 
     while page <= page_limit:
@@ -180,7 +179,7 @@ def mark_vocab_known(driver, deck_id):
             break
 
     if page > page_limit:
-        print("Stopped after 50 pages (safety limit reached — possible infinite loop).")
+        print(f"Stopped after {page_limit} pages (safety limit reached — possible infinite loop).")
 
     print(f"\nFinished marking. Total marked as 'never forget': {marked_total}")
 
@@ -199,19 +198,20 @@ def main():
     parser.add_argument("--gather-vocab", action="store_true", help="Gather and print all new vocab")
     parser.add_argument("--mark-vocab-known", action="store_true", help="Mark all new vocab as 'never forget'")
     parser.add_argument("--reference", help="Optional reference text to print after each vocab (comma-separated output)")
-
+    parser.add_argument("--limit", type=int, default=50, help="Maximum number of pages to process (default: 50)")
+    
     args = parser.parse_args()
 
     print(f"profile is {args.profile}")
     driver = init_driver(args.profile)
 
     if args.gather_vocab:
-        vocab = gather_vocab(driver, args.deck_id, args.reference)
+        vocab = gather_vocab(driver, args.deck_id, args.reference, args.limit)
         print(f"\nGathered {len(vocab)} vocab items.")
 
     if args.mark_vocab_known:
         # Reopen the deck page to ensure we're on a clean 'New' tab
-        mark_vocab_known(driver, args.deck_id)
+        mark_vocab_known(driver, args.deck_id, args.limit)
 
     if not args.gather_vocab and not args.mark_vocab_known:
         print("No action specified. Use --gather-vocab and/or --mark-vocab-known.")
