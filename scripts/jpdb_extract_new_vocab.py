@@ -33,6 +33,7 @@ Requirements:
 """
 
 import argparse
+import re
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -113,7 +114,6 @@ def mark_vocab_known(driver, deck_id):
     """Mark all vocab on all pages as 'never forget'."""
     from selenium.webdriver.common.by import By
     from selenium.common.exceptions import NoSuchElementException
-    import time
 
     click_new_tab(driver, deck_id)
     page = 1
@@ -160,10 +160,24 @@ def mark_vocab_known(driver, deck_id):
             print("No more pages found to mark.")
             break
 
-        # Click the next page link
-        driver.execute_script("arguments[0].click();", next_links[0])
-        page += 1
-        time.sleep(3)
+        # Extract hrefs BEFORE any navigation to avoid stale elements
+        hrefs = [l.get_attribute("href") for l in next_links if l.get_attribute("href")]
+
+        offsets = []
+        for href in hrefs:
+            m = re.search(r"offset=(\d+)", href)
+            if m:
+                offsets.append((int(m.group(1)), href))
+
+        # Pick the link with the highest offset value (always move forward)
+        if offsets:
+            next_href = max(offsets, key=lambda x: x[0])[1]
+            driver.get(next_href)  # reload directly via URL, avoids stale elements
+            page += 1
+            time.sleep(3)
+        else:
+            print("No valid next-page link found.")
+            break
 
     if page > page_limit:
         print("Stopped after 50 pages (safety limit reached — possible infinite loop).")
