@@ -17,50 +17,62 @@ Output:
     Prints a list of kanji found in the text file that have no matching entry in the story file.
 
 """
+
 import argparse
 import csv
 import re
 
 def extract_kanji(text):
-    """Return a set of all CJK Unified Ideograph characters (kanji) in the text."""
+    """Extract all unique kanji characters from a text block."""
     return set(re.findall(r'[\u4E00-\u9FFF]', text))
 
-def load_story_kanji(story_file):
-    """Load kanji from the 2nd field of the koohii story CSV file."""
-    story_kanji = set()
-    with open(story_file, newline='', encoding='utf-8') as f:
+def load_stories(stories_path):
+    """Load Koohii stories into a dict {kanji: frame_number}."""
+    stories = {}
+    with open(stories_path, encoding='utf-8') as f:
         reader = csv.reader(f)
         for row in reader:
-            if len(row) >= 2:
-                kanji = row[1].strip()
-                if re.fullmatch(r'[\u4E00-\u9FFF]', kanji):
-                    story_kanji.add(kanji)
-    return story_kanji
+            if len(row) < 2:
+                continue
+            try:
+                frame = int(row[0])
+            except ValueError:
+                continue  # skip malformed header or lines
+            kanji = row[1].strip()
+            stories[kanji] = frame
+    return stories
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Find kanji in a text that are missing from a koohii story file."
-    )
-    parser.add_argument("--text", required=True, help="Path to text dump file (e.g. from Anki).")
-    parser.add_argument("--stories", required=True, help="Path to koohii story CSV file.")
+    parser = argparse.ArgumentParser(description="Find kanji that appear in text but have no Koohii story.")
+    parser.add_argument("--text", required=True, help="Path to the Anki deck text dump")
+    parser.add_argument("--stories", required=True, help="Path to the Koohii stories CSV")
     args = parser.parse_args()
 
-    # Load the text and extract kanji
+    # Load stories
+    stories = load_stories(args.stories)
+    story_kanji = set(stories.keys())
+
+    # Load text and extract kanji
     with open(args.text, encoding='utf-8') as f:
         text = f.read()
     text_kanji = extract_kanji(text)
 
-    # Load the story kanji
-    story_kanji = load_story_kanji(args.stories)
+    # Find kanji missing from story list
+    missing = text_kanji - story_kanji
 
-    # Find missing kanji
-    missing = sorted(text_kanji - story_kanji)
+    # Sort by frame number if known, else push to end
+    sorted_missing = sorted(
+        missing,
+        key=lambda k: stories.get(k, 999999)
+    )
 
-    if missing:
-        print("Kanji with no story:")
-        print(" ".join(missing))
-    else:
-        print("All kanji in your text have stories.")
+    print("Kanji with no story:")
+    for k in sorted_missing:
+        frame = stories.get(k, None)
+        if frame is not None:
+            print(f"{frame}: {k}")
+        else:
+            print(f"(no frame): {k}")
 
 if __name__ == "__main__":
     main()
