@@ -3190,6 +3190,7 @@ class KD
     :"hazy" => [26407, 26407, ["ROU"], ["oboru"], [""], ["hazy"], 0, 0],
     :"resin" => [26415, 26415, [""], [""], [""], ["resin"], 0, 0],
     :"thorn*tree" => [26431, 26431, ["SHI"], ["toge"], [""], ["thorn tree"], 0, 0],
+    :"casket" => [26601, 26601, ["KYUU","GU"], ["hichigi","hitsugi"], [""], ["casket"], 0, 0],
     :"pick*out" => [26604, 26604, ["KAN","KEN"], ["era.bu"], [""], ["pick out"], 0, 0],
     :"music*[old]" => [27138, 27138, ["GAKU","RAKU","GOU"], ["tano.shii","tano.shimu","zono.mu"], [""], ["music [old]"], 0, 0],
     :"happy*families" => [27410, 27410, ["RAN"], ["ouchi","hijiki","madoka","marui"], [""], ["happy families"], 0, 0],
