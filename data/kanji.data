@@ -2496,7 +2496,7 @@
  2496 :  0x68f2 :  :  SEI :  su.mu :  zumi :  {live} {dwell} :  9 :  
  2497 :  0x6816 :  :  SEI :  su.mu :  su sumi :  {nestle} {nest} {rookery} {hive} {cobweb} {den} :  9 :  
  2498 :  0x6897 : fusagu oomune yamanire :  KOU KYOU :  fusagu yamanire oomune :   :  {spiny} {for the most part} {close up} {flower stem} :  8 :  
- 2499 :  0x6854 :  :  KITSU KETSU :   :  ki :  {used in plant names} :  9 :  
+ 2499 :  0x6854 :  :  KITSU KETSU :   :  ki :  {bellflower} {used in plant names} :  9 :  
  2500 :  0x675c : yamanashi :  TO TOU ZU :  mori fusa.gu yamanashi :   :  {woods} {grove} :  9 :  1
  2501 :  0x6777 :  :  HA :  tsuka :  wa :  {kind of rake} :  9 :  
  2502 :  0x68b6 :  :  BI :  kaji kozue :   :  {sculling oar} :  9 :  
@@ -2633,7 +2633,7 @@
  2633 :  0x7b86 : hera :  HEI HAI :  hera no kushi :   :  {spatula} {arrow shaft} :   :  
  2634 :  0x7b94 :  :  HAKU :  sudare :   :  {foil} {gilt} :  9 :  
  2635 :  0x7b25 :  :  SU SHI :  ke hako :   :  {lunch box} {clothes chest} :   :  
- 2636 :  0x7bad :  :  SEN :  ya :   :  {arrow} :   :  
+ 2636 :  0x7bad :  :  SEN :  ya :   :  {arrow shaft} :   :  
  2637 :  0x7b51 :  :  CHIKU :   :  tsuku duki :  {an ancient musical instrument} :  9 :  
  2638 :  0x7bed : komo.ru :  ROU RU :  kago ko.meru komo.ru ko.mu :  gome : {basket} {seclude oneself} {cage} {coop} {implied} :   :  
  2639 :  0x7be0 : shino :  ZOU SHYOU :  shino sasa suzu :  no :  {slender bamboo} {bamboo grass} :  9 :  
@@ -2697,7 +2697,7 @@
  2697 :  0x86ce :  :  REI :  kaki :   :  {oyster} :   :  
  2698 :  0x7f6b :  :  KEI KAI KE :   :   :  {ruled lines} {ruled line} :   :  
  2699 :  0x7f75 : nonoshi.ru :  BA :  nonoshi.ru :   :  {insult} {abuse} :  8 :  
- 2700 :  0x8888 :  :  KE KA :   :   :  {a coarse camlet} :  9 :  1
+ 2700 :  0x8888 :  :  KE KA :   :   :  {stole} {a coarse camlet} :  9 :  1
  2701 :  0x88df :  :  SA SHYA :   :   :  {Buddhist surplice} :  9 :  1
  2702 :  0x6234 :  :  TAI :  itada.ku :   :  {be crowned with} {live under (a ruler)} {receive} :  8 :  
  2703 :  0x622a :  :  SETSU SAI :  ki.ru tatsu :   :  {cut off} {sever} :   :  
@@ -3148,6 +3148,7 @@
 24308 :  0x5ef4 :  : IN :  : : {stretch primitive} : :
 24318 :  0x5efe :  : KYOU KU : nijuu : : {two hands} : :
 24320 :  0x5f00 :  :  :  : : {both hands} : :
+24331 :  0x5f0b :  : YOKU : igurumi  : : {arrow primitive} : :
 24343 :  0x5f17 :  : FUSTU HOCHI : doru zu : : {dollar} : :
 24400 :  0x5f50 :  : KEI :  : : {broom primitive} : : 
 24401 :  0x5f51 :  : KEI :  : : {broom primitive (old)} : :
