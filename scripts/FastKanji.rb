@@ -2713,7 +2713,7 @@ class KD
     :"insult" => [2699, 32629, ["BA"], ["nonoshi.ru"], [""], ["insult","abuse"], 8, 0],
     :"stole" => [2700, 34952, ["KE","KA"], [""], [""], ["stole","a coarse camlet"], 9, 1],
     :"buddhist*surplice" => [2701, 35039, ["SA","SHYA"], [""], [""], ["Buddhist surplice"], 9, 1],
-    :"be*crowned*with" => [2702, 25140, ["TAI"], ["itada.ku"], [""], ["be crowned with","live under (a ruler)","receive"], 8, 0],
+    :"accept*humbly" => [2702, 25140, ["TAI"], ["itada.ku"], [""], ["accept humbly","be crowned with","live under (a ruler)","receive"], 8, 0],
     :"cut*off" => [2703, 25130, ["SETSU","SAI"], ["ki.ru","tatsu"], [""], ["cut off","sever"], 0, 0],
     :"how" => [2704, 21705, ["SAI"], ["kana","ya"], ["ka","suke","toshi","chika","hajime"], ["how","what","alas","question mark","?"], 9, 1],
     :"counsel" => [2705, 35426, ["JUN","SHYUN"], ["haka.ru","makoto"], [""], ["counsel","consult with"], 9, 1],
