@@ -2320,7 +2320,7 @@
  2320 :  0x6e25 :  :  AKU :  atsu.i uruo.u :  atsushi :  {moisten} {kindness} :  9 :  1
  2321 :  0x7058 : nada :  TAN DAN :  nada se :  dana nan :  {rough seas} {open sea} :  9 :  
  2322 :  0x6c72 :  :  KYUU :  ku.mu :  kumi :  {draw water} {draw (water)} {ladle} {scoop} {pump} :  9 :  
- 2323 :  0x701e : toro :  SEI SHYOU JUU :  toro kiyo.i :   :  {pure water} {clear water} {pool in a river} :   :  
+ 2323 :  0x701e : toro :  SEI SHYOU JUU :  toro kiyo.i :   :  {river pool} {pure water} {clear water} {pool in a river} :   :  
  2324 :  0x6e9c : ta.maru tamari :  RYUU :  ta.maru tama.ru ta.meru shitata.ru tamari tame :   : {cumulation}  {collect} {gather} {be in arrears} :  9 :  
  2325 :  0x6e15 :  :  EN KAKU KOU :  fuchi kata.i hanawa :   :  {abyss} {edge} :   :  
  2326 :  0x6c8c :  :  TON :  kura.i :   :  {chaos} {primeval chaos} :  9 :  
@@ -2333,7 +2333,7 @@
  2333 :  0x65a7 : ono :  HU :  ono :   :  {hatchet} {ax} :  9 :  
  2334 :  0x723a : jii jiji jijii oyaji :  YA :  jii jijii oyaji jiji chichi :   :  {grandpa} {old man} {grampa} :   :  
  2335 :  0x733e :  :  KATSU :  warugashiko.i :   :  {sly} {crafty} :   :  
- 2336 :  0x7325 :  :  WAI :  mida.ra midari.ni :   :  {obscene} :   :  
+ 2336 :  0x7325 :  :  WAI :  mida.ra midari.ni :   :  {indecent} {obscene} :   :  
  2337 :  0x72e1 : kosu.i zuru.i :  KOU KYOU :  zuru.i kosu.i warugashiko.i :   :  {cunning} {sly} {crafty} {niggardly} :   :  
  2338 :  0x72f8 : tanuki :  RI RAI :  tanuki :   :  {raccoon dog} {tanuki} {raccoon} :   :  
  2339 :  0x72fc : ookami :  ROU :  ookami :   :  {wolf} :  9 :  
@@ -2372,13 +2372,13 @@
  2372 :  0x8304 :  :  KA :   :   :  {eggplant} :  9 :  1
  2373 :  0x82db : iji.meru irada.tsu karai komakai saina.mu :  KA :  iji.meru saina.mu irada.tsu karai komakai :   :  {bullying} {torment} {scold} {chastise} :  8 :  
  2374 :  0x852d :  :  IN ON :  kage :   :  {behind the scenes} {shade} {shadow} {backing assistance} :  9 :  
- 2375 :  0x84ec : yomogi :  HOU BU :  yomogi :   :  {sagebrush} {wormwood} {mugwort} :  9 :  
+ 2375 :  0x84ec : yomogi :  HOU BU :  yomogi :   :  {wormwood} {sagebrush} {mugwort} :  9 :  
  2376 :  0x82a5 : akuta karashi :  KAI KE :  karashi gomi akuta :   :  {mustard} {rape} {dust} {trash} {rubbish} :  9 :  
- 2377 :  0x840c : mebae :  HOU :  mo.eru kiza.su mebae kiza.shi :  moe kizashi :  {show symptoms of} {sprout} {bud} {malt} :  9 :  1
+ 2377 :  0x840c : mebae :  HOU :  mo.eru kiza.su mebae kiza.shi :  moe kizashi :  {germinate} {show symptoms of} {sprout} {bud} {malt} :  9 :  1
  2378 :  0x8461 :  :  BU HO :   :   :  {grape} {wild grape} {Portugal} :  9 :  
  2379 :  0x8404 :  :  DOU TOU :   :   :  {grape vine} {wild grape} :  9 :  
  2380 :  0x8607 :  :  SO SU :  yomigae.ru :   :  {resurrect} {be resuscitated} {revived} :  9 :  
- 2381 :  0x8543 :  :  BAN HAN :   :  shige shigeru ba :  {grow luxuriously} :  9 :  
+ 2381 :  0x8543 :  :  BAN HAN :   :  shige shigeru ba :  {grow wild} {grow luxuriously} :  9 :  
  2382 :  0x82d3 : miminagusa :  REI RYOU :  miminagusa :   : {cocklebur} {plant} {herb} {mushroom} :   :  
  2383 :  0x83f0 : komo makomo :  KO :  komo makomo :   :  {rush mat} {reed used for matting} :   :  
  2384 :  0x8499 :  :  MOU BOU :  koumu.ru oo.u kura.i :   :  {darken} {ignorance} {darkness} {get} {receive} {be subjected to} {sustain} {Mongolia} :  9 :  
