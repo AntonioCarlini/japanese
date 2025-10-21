@@ -3037,6 +3037,7 @@
 20012 :  0x4e2c :  :  :  : : {turtle} : :
 20016 :  0x4e30 :  : HOU FU FUU  : mimeyo.i shige.ru : : {bushes} : :
 20017 :  0x4e31 :  : KAN KEN :  : : {cactus} : :
+20021 :  0x4e35 :  : SAKU : kusanomuragari : : {Viking horn} : : 
 20022 :  0x4e36 :  : CHYU :  : : {drop primitive} : : 
 20023 :  0x4e37 :  :  :  : : {horns} : : 
 20029 :  0x4e3d :  :  :  : : {crocodile eyes} : :
@@ -3116,6 +3117,7 @@
 22764 :  0x58ec :  : NIN JIN I : mizunoe : : {porter} : : 
 22772 :  0x58f4 :  : SHU CHU : tateru : : {drumhead} : :
 22777 :  0x58f9 :  : ICHI ITSU : hitotsu : : {I [old]} : :
+22778 :  0x58fa :  : KO : tsubo : : {vase} : : 
 22786 :  0x5902 :  : CHI : shyuu : : {walking legs} : : 
 22790 :  0x5906 :  : HOU FU BA : saka.rau hi.ku a.u atsu.i : : {pointy} : :
 22795 :  0x590b :  : SHUN : uzukuma.ru : : {dawdle} : :
