@@ -169,8 +169,8 @@ def main():
         # Wait for page load
         time.sleep(2)
 
+        review_due_vocab(driver, args.grade)
         review_new_vocab(driver)
-#        review_all(driver, args.grade)
     finally:
         print("\nClosing browser...")
         driver.quit()
