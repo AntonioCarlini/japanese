@@ -3183,6 +3183,7 @@ class KD
     :"kazoo/uproar" => [25120, 25120, ["SHOKU","SHIKI","SHI"], [""], [""], ["kazoo/uproar"], 0, 0],
     :"comic*book" => [25153, 25153, ["HEN"], ["hiratai"], [""], ["comic book"], 0, 0],
     :"finger*primitive" => [25164, 25164, ["SHU"], [""], [""], ["finger primitive"], 0, 0],
+    :"distort" => [25449, 25449, ["REI","RETSU"], ["yoji.ru","ne.jiru","neji.reru","moji.ru"], [""], ["distort"], 0, 0],
     :"roll*up" => [25458, 25458, ["KEN"], ["ma.ku","ma.kuru","maku.ru","meku.ru","maku.reru"], [""], ["roll up"], 0, 0],
     :"massage" => [25545, 25545, ["JYUU"], ["mo.su","mo.meru"], [""], ["massage"], 0, 0],
     :"pound*rice" => [25623, 25623, ["TOU"], ["tsu.ku","ka.tsu"], [""], ["pound rice"], 0, 0],
