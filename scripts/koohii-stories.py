@@ -18,7 +18,7 @@ from collections import defaultdict
 # Constants
 KANJI_MAX_FRAME_NUMBER = 3030
 REPORT_NON_HEISIG_KANJI = True  # Set to True to report non-Heisig kanji
-DISPLAY_FRAME_NUMBER_MAP = False  # Set to True to display the frame number map
+DISPLAY_KANJI_REFERENCED_BY_MAP = False  # Set to True to display the frame number map
 DISPLAY_HEISIG_KEYWORD_MAP = False  # Set to True to display the map of Heisig keywords
 
 class Entry:
@@ -31,7 +31,7 @@ class Entry:
 def parse_csv(file_name):
     entries = []
     heisig_keyword_map = {}
-    frame_number_map = defaultdict(list)
+    kanji_referenced_by_map = defaultdict(list)             # Each entry is a list of every kanji that references this one in its story
     missing_kanji_map = defaultdict(set)
     keyword_count = defaultdict(int)
     frame_to_kanji = {}  # Maps frame numbers to kanji
@@ -128,7 +128,7 @@ def parse_csv(file_name):
                     if ref_frame in frame_to_kanji:
                         ref_kanji = frame_to_kanji[ref_frame]
                         if ref_frame <= KANJI_MAX_FRAME_NUMBER:
-                            frame_number_map[ref_frame].append(frame_number)
+                            kanji_referenced_by_map[ref_frame].append(frame_number)
                         else:
                             # Ignore references to non-Heisig kanji
                             continue
@@ -142,7 +142,7 @@ def parse_csv(file_name):
                     ref_frame = kanji_to_frame.get(ref_kanji)
 
                 if ref_frame is not None:
-                    frame_number_map[ref_frame].append(frame_number)
+                    kanji_referenced_by_map[ref_frame].append(frame_number)
                 else:
                     if REPORT_NON_HEISIG_KANJI:
                         missing_kanji_map[ref_kanji].add(frame_number)
@@ -150,7 +150,7 @@ def parse_csv(file_name):
     if fatal_error_seen:
         sys.exit(1)
         
-    return entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame
+    return entries, heisig_keyword_map, kanji_referenced_by_map, missing_kanji_map, kanji_to_frame
 
 
 def check_proper_nesting_in_story(s):
@@ -253,7 +253,7 @@ def format_story(story, current_keyword, heisig_keyword_map, kanji_to_frame):
 
     return story
 
-def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame, output_file):
+def generate_html_table(entries, heisig_keyword_map, kanji_referenced_by_map, missing_kanji_map, kanji_to_frame, output_file):
     """
     Generates an HTML table from the parsed entries and writes it to a file or stdout.
     """
@@ -351,7 +351,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
             referenced_parts_str = ", ".join(sorted(referenced_parts))
 
             # Column 6: Kanji Using This Kanji
-            using_kanji = frame_number_map.get(frame_number, [])
+            using_kanji = kanji_referenced_by_map.get(frame_number, [])
             using_kanji_str = ", ".join(
                 f"<a href='#{ref_frame}'>@KJ{{{{{heisig_keyword_map[ref_frame].heisig_keyword.replace(' ', '*')}}}}}</a>"
                 for ref_frame in sorted(using_kanji)
@@ -438,7 +438,7 @@ def generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_k
                 referenced_parts_str = ", ".join(sorted(referenced_parts))
 
                 # Column 6: Kanji Using This Kanji
-                using_kanji = frame_number_map.get(frame_number, [])
+                using_kanji = kanji_referenced_by_map.get(frame_number, [])
                 using_kanji_str = ", ".join(
                     f"<a href='#{ref_frame}'>@KJ{{{{{heisig_keyword_map[ref_frame].heisig_keyword.replace(' ', '*')}}}}}</a>"
                     for ref_frame in sorted(using_kanji)
@@ -475,15 +475,15 @@ def main():
     file_name = sys.argv[1]
     output_file = sys.argv[2]
 
-    entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame = parse_csv(file_name)
+    entries, heisig_keyword_map, kanji_referenced_by_map, missing_kanji_map, kanji_to_frame = parse_csv(file_name)
 
-    # Output frame_number_map (if enabled)
-    if DISPLAY_FRAME_NUMBER_MAP:
+    # Output kanji_referenced_by_map (if enabled)
+    if DISPLAY_KANJI_REFERENCED_BY_MAP:
         print("\nFrame Number Map:")
-        for frame in sorted(frame_number_map.keys()):
-            print(f"{frame}: {frame_number_map[frame]}")
+        for frame in sorted(kanji_referenced_by_map.keys()):
+            print(f"{frame}: {kanji_referenced_by_map[frame]}")
 
-    # Output frame_number_map (if enabled)
+    # Output kanji_referenced_by_map (if enabled)
     if DISPLAY_HEISIG_KEYWORD_MAP:
         print("Heisig keyword Map:")
         for frame in sorted(heisig_keyword_map.keys()):
@@ -496,7 +496,7 @@ def main():
             print(f"KANJI WITHOUT FRAME: '{kanji}' referenced in frames: {sorted(frames)}")
 
     # Generate HTML table
-    generate_html_table(entries, heisig_keyword_map, frame_number_map, missing_kanji_map, kanji_to_frame, output_file)
+    generate_html_table(entries, heisig_keyword_map, kanji_referenced_by_map, missing_kanji_map, kanji_to_frame, output_file)
 
 if __name__ == "__main__":
     main()
