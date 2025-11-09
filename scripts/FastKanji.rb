@@ -3298,6 +3298,7 @@ class KD
     :"rise*high" => [38348, 38348, ["RAN"], ["ta.keru","takenawa","tesuri"], [""], ["rise high","screen"], 0, 0],
     :"the*pinnacle" => [38429, 38429, [""], ["kozato"], [""], ["The Pinnacle"], 0, 0],
     :"undesirable" => [38475, 38475, ["ROU"], ["iya.shii","sema.i"], [""], ["undesirable"], 0, 0],
+    :"falling" => [38549, 38549, ["IN","EN","UN"], ["ochi.ru"], [""], ["falling"], 0, 0],
     :"sieve" => [38582, 38582, ["TAI"], [""], [""], ["sieve"], 0, 0],
     :"turkey" => [38585, 38585, ["SAI","SUI"], ["tori"], [""], ["turkey"], 0, 0],
     :"[old]*mountain*magpie" => [38628, 38628, [""], [""], [""], ["[old] mountain magpie"], 0, 0],
