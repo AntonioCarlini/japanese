@@ -3061,6 +3061,7 @@ class KD
     :"cocoon*variant" => [20065, 20065, [""], [""], [""], ["cocoon variant"], 0, 0],
     :"barb" => [20101, 20101, ["KETSU"], ["kagi"], [""], ["barb"], 0, 0],
     :"potato*primitive" => [20110, 20110, ["U","KU"], ["kokoni","aa","oite","ni","yori","wo"], [""], ["potato primitive"], 0, 0],
+    :"red*cross" => [20126, 20126, ["A"], ["tsu.gu"], [""], ["red cross"], 0, 0],
     :"top*hat" => [20128, 20128, [""], ["tou"], [""], ["top hat"], 0, 0],
     :"whirlwind" => [20130, 20130, ["KOU"], ["takaburu"], [""], ["whirlwind"], 0, 0],
     :"mr.*t" => [20155, 20155, [""], [""], [""], ["Mr. T"], 0, 0],
