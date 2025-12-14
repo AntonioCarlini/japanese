@@ -3174,6 +3174,7 @@ class KD
     :"hair*primitive" => [24417, 24417, ["SAN","SEN"], [""], [""], ["hair primitive","shape"], 0, 0],
     :"to*go" => [24435, 24435, ["TEKI"], ["tatazu.mu"], [""], ["to go"], 0, 0],
     :"state*of*mind" => [24516, 24516, ["SHIN"], ["kokoro"], [""], ["state of mind"], 0, 0],
+    :"pulsate" => [24760, 24760, ["KI"], [""], [""], ["pulsate"], 0, 0],
     :"astonishment" => [24853, 24853, ["KAGU"], ["odoro.ku"], [""], ["astonishment"], 0, 0],
     :"reluctant" => [24986, 24986, ["TAN","TA"], ["habaka.ru"], [""], ["reluctant"], 0, 0],
     :"compassion" => [25003, 25003, ["BIN","MIN"], ["aware.mu","ure.eru"], [""], ["compassion"], 0, 0],
