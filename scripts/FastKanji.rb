@@ -3267,6 +3267,7 @@ class KD
     :"small*worm" => [32921, 32921, [""], [""], [""], ["small worm"], 0, 0],
     :"pithole" => [33277, 33277, ["KAN","GEN","KON"], ["otoshiana"], [""], ["pithole"], 0, 0],
     :"magpie" => [33284, 33284, ["SHAKU","SAKU","SEKI","TAKU"], ["kasasagi"], [""], ["magpie"], 0, 0],
+    :"licking" => [33296, 33296, ["SHI"], ["nebu.ru","na.meru"], [""], ["licking"], 0, 0],
     :"dancing*legs" => [33307, 33307, ["BU","SEN"], ["mai","somu.ku"], [""], ["dancing legs"], 0, 0],
     :"bright-silver" => [33390, 33390, ["KON","GON"], ["ushitora"], [""], ["bright-silver"], 0, 0],
     :"grass*radical*full" => [33400, 33400, ["SOU"], ["kusa"], [""], ["grass radical full"], 0, 0],
