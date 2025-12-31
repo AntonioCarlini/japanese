@@ -3229,6 +3229,7 @@ class KD
     :"wild*dog" => [29357, 29357, [""], [""], [""], ["wild dog"], 0, 0],
     :"baku" => [29519, 29519, ["BAKU","MYAKU"], [""], [""], ["baku"], 0, 0],
     :"pogo*stick" => [29996, 29996, ["YOU"], [""], [""], ["pogo stick"], 0, 0],
+    :"border" => [30074, 30074, ["KYOU","KOU"], ["sakai"], [""], ["border"], 0, 0],
     :"three*fields" => [30078, 30078, ["RUI","RAI","SUI"], ["toride"], [""], ["three fields"], 0, 0],
     :"promptly" => [30092, 30092, [""], [""], [""], ["promptly"], 0, 0],
     :"caveman" => [30098, 30098, ["DAKU","NYAKU","SOU","JOU","SHITSU"], ["ya.mu"], [""], ["caveman"], 0, 0],
