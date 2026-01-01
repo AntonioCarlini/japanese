@@ -2786,7 +2786,7 @@ class KD
     :"cluster" => [2772, 37758, ["SHYOU","SHYU"], ["atsu.meru","sakazuki","kane"], [""], ["cluster","spindle","gather","collect"], 0, 0],
     :"scissors" => [2773, 37583, ["KYOU"], ["hasami","hasa.mu","tsurugi"], [""], ["scissors"], 0, 0],
     :"flash" => [2774, 38275, ["SEN"], ["hirame.ku","hirame.ki","ukaga.u"], [""], ["flash","brandish"], 9, 0],
-    :"be*in*agony" => [2775, 24758, ["MON"], ["moda.eru","modae.ru"], [""], ["be in agony","worry"], 0, 0],
+    :"agony" => [2775, 24758, ["MON"], ["moda.eru","modae.ru"], [""], ["agony","be in agony","worry"], 0, 0],
     :"small*side*gate" => [2776, 38308, ["KOU"], ["kugurido"], [""], ["small side gate"], 9, 0],
     :"pitch*dark" => [2777, 38343, ["AN","ON"], ["yami","kura.i"], [""], ["pitch dark","get dark","gloom","disorder"], 8, 0],
     :"drop" => [2778, 38635, ["DA"], ["shizuku"], [""], ["drop","trickle","dripping","(kokuji)"], 9, 0],
