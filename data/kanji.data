@@ -2389,13 +2389,13 @@
  2389 :  0x8471 : negi :  SOU :  negi :   :  {stone leek} {Welsh onion} :   :  
  2390 :  0x8511 : naigashiro nami.suru sagesu.mu :  BETSU :  naigashiro nami.suru kurai sagesu.mu :   :  {revile} {ignore} {despise} {neglect} {ridicule} :  8 :  
  2391 :  0x8475 : aoi :  KI :  aoi :  mamoru ke :  {hollyhock} :  9 :  1
- 2392 :  0x847a :  :  SHYUU :  ashi fu.ku fuki :   :  {thatch} {cover} {shingle} {tile} :  9 :  
- 2393 :  0x854a : shibe :  ZUI :  shibe :   :  {pistil} {stamen} :   :  
+ 2392 :  0x847a :  :  SHYUU :  ashi fu.ku fuki :   :  {shingling} {thatch} {cover} {shingle} {tile} :  9 :  
+ 2393 :  0x854a : shibe :  ZUI :  shibe :   :  {stamen} {pistil} :   :  
  2394 :  0x8338 : kinoko :  JOU NYU :  kinoko take shige.ru :   :  {mushroom} :  9 :  
  2395 :  0x8494 : maku :  SHI JI :  u.eru maku :  mai maka maki :  {sowing} {sow (seeds)} :  9 :  1
  2396 :  0x82b9 : seri :  KIN :  seri :  sei yoshi :  {parsley} :  9 :  1
- 2397 :  0x82eb : toma :  SEN :  toma :   :  {rush matting} :   :  
- 2398 :  0x845b : KACHI tsudura :  KATSU KACHI :  tsudura kuzu :  ka kazu kazura kachisai_tsu katsura :  {arrowroot} {kudzu} :  8 :  
+ 2397 :  0x82eb : toma :  SEN :  toma :   :  {thatching} {rush matting} :   :  
+ 2398 :  0x845b : KACHI tsudura :  KATSU KACHI :  tsudura kuzu :  ka kazu kazura kachisai_tsu katsura : {kudzu}  {arrowroot} :  8 :  
  2399 :  0x84bc :  :  SOU :  ao.i :   :  {pale blue} {blue} {pale} :  9 :  1
  2400 :  0x85c1 :  :  KOU :  wara :   :  {straw} :  9 :  
  2401 :  0x856a : areru :  BU MU :  kabu kabura areru :   :  {turnip} :  9 :  
@@ -3252,6 +3252,7 @@
 32896 :  0x8080 :  :  :  : : {rake} : :
 32915 :  0x8093 :  : KOU :  : : {diaphragm} : :
 32921 :  0x8099 :  :  :  : : {small worm} : :
+33252 :  0x81e4 :  : KAN KEN KOU KYOU : kata.i : : {wise} : :
 33277 :  0x81fd :  : KAN GEN KON : otoshiana : : {pithole} : :
 33284 :  0x8204 :  : SHAKU SAKU SEKI TAKU : kasasagi : : {magpie} : :
 33296 :  0x8210 :  : SHI : nebu.ru na.meru : : {licking} : :
