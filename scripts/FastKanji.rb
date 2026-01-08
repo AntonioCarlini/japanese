@@ -3092,6 +3092,7 @@ class KD
     :"garter" => [20888, 20888, ["IN","YU"], ["okota.ru","tamera.u","utaga.u"], [""], ["garter"], 0, 0],
     :"ice" => [20907, 20907, ["HYOU"], ["koori"], [""], ["ice"], 0, 0],
     :"wind*primitive" => [20960, 20960, ["KI"], ["kinyou"], [""], ["wind primitive"], 0, 0],
+    :"recline*on" => [20973, 20973, ["HYOU","HEI"], ["mota.reru","yo.ru"], [""], ["recline on"], 0, 0],
     :"shovel" => [20981, 20981, ["kan"], [""], [""], ["shovel"], 0, 0],
     :"sabre" => [20994, 20994, ["TOU"], [""], [""], ["sabre"], 0, 0],
     :"publish*[alternate]" => [21003, 21003, ["KAN","SEN"], ["ki.ru","kezu.ru"], [""], ["publish [alternate]"], 0, 0],
