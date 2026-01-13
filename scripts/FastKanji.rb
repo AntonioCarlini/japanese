@@ -3267,6 +3267,7 @@ class KD
     :"rake" => [32896, 32896, [""], [""], [""], ["rake"], 0, 0],
     :"diaphragm" => [32915, 32915, ["KOU"], [""], [""], ["diaphragm"], 0, 0],
     :"small*worm" => [32921, 32921, [""], [""], [""], ["small worm"], 0, 0],
+    :"femur" => [33151, 33151, ["TAI"], ["momo"], [""], ["femur"], 0, 0],
     :"wise" => [33252, 33252, ["KAN","KEN","KOU","KYOU"], ["kata.i"], [""], ["wise"], 0, 0],
     :"pithole" => [33277, 33277, ["KAN","GEN","KON"], ["otoshiana"], [""], ["pithole"], 0, 0],
     :"magpie" => [33284, 33284, ["SHAKU","SAKU","SEKI","TAKU"], ["kasasagi"], [""], ["magpie"], 0, 0],
