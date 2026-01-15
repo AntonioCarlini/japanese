@@ -2596,7 +2596,7 @@ class KD
     :"clear" => [2582, 30637, ["RYOU"], ["akiraka"], [""], ["clear"], 8, 1],
     :"eyebrow" => [2583, 30473, ["BI","MI"], ["mayu"], [""], ["eyebrow"], 8, 1],
     :"pheasant" => [2584, 38601, ["JI","CHI"], ["kiji"], ["ki"], ["pheasant"], 0, 0],
-    :"ruler" => [2585, 30697, ["KU"], ["kane","kanezashi","sashigane"], ["nori","tsune","tadashi"], ["ruler","carpenter's square"], 9, 1],
+    :"carpenter's*square" => [2585, 30697, ["KU"], ["kane","kanezashi","sashigane"], ["nori","tsune","tadashi"], ["carpenter's square","ruler"], 9, 1],
     :"crag" => [2586, 30928, ["BAN","HAN"], ["iwa"], ["iwao","wa"], ["crag","rock","cliff","wall (in a mine)"], 9, 0],
     :"grapnel" => [2587, 30855, ["TEI"], ["ikari"], [""], ["grapnel","anchor"], 0, 0],
     :"blue-green" => [2588, 30887, ["HEKI","HYAKU"], [""], ["midori","ao","tama"], ["blue-green","blue","green"], 9, 1],
