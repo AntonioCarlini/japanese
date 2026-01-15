@@ -2407,7 +2407,7 @@ Note that the meaning of this (rare) kanji is ""make (something) / do (something
 2222,屍,"corpse",0,2025-08-11 19:39:45,"After meeting *death* (*{死}*), a *flag* (*{尸}*) covers the soldier's corpse."
 2223,屏,"folding screen",0,2025-12-29 11:08:42,"This folding screen looks quite pretty, with all the national *flags* (*{尸}*)  printed on it, but folding and unfolding it is rather complicated. It looks more like a *puzzle* (*{并}*) than a utility item."
 2224,嵩,"high-reaching",0,2017-02-25 17:30:26,"A *mountain* (*{山}*) that's *tall* (*{高}*) is also high-reaching"
-2225,崚,"rugged mountains",0,2025-12-29 11:13:04,"Rugged mountains are ""*mountains* (*{山}*) that make you *dawdle* (*{夋}*)""."
+2225,崚,"rugged mountains",0,2026-01-14 17:18:53,"When trying to cross the rugged mountains, these *mountains* (*{山}*) make you feel like you have *rice seedlings* (*{圥}*) for *walking legs* (*{夂}*)."
 2226,峨,"high mountain",0,2025-12-29 11:10:17,"A *mountain* (*{山}*) as big as his *ego* (*{我}*) would be a high mountain indeed."
 2227,崖,"bluffs",0,2025-08-07 16:38:26,"This clearly depicts a *mountain* (*{山}*) and its #bluffs#, *cliffs* (*{厂}*) clad in *ivy* (*{圭}*)."
 2228,嶺,"mountaintop",0,2025-12-30 13:46:23,"This *mountain* (*{山}*) lies exactly between two prefectures, so naturally there was a struggle about which prefecture had *jurisdiction* (*{領}*) there. And would you believe it, one of them gained jurisdiction over the base, and the other over the mountaintop."
@@ -2477,7 +2477,7 @@ Note that the meaning of this (rare) kanji is ""make (something) / do (something
 2293,沐,"douse",0,2025-03-18 07:30:58,"In the forest fire, they doused the *trees* with *water* to prevent more damage."
 2294,泪,"teardrops",0,2025-03-18 07:31:19,"*Water* drops from your *eye* are teardrops"
 2295,渾,"gushing",0,2025-03-18 07:31:43,"As the Pharaoh's *chariots* tried to cross the Red Sea, gushing *waters* came and crushed them."
-2296,沙,"grains of sand",0,2025-03-18 07:32:11,"Each *water* wave washes away a *few* grains of sand."
+2296,沙,"grains of sand",0,2026-01-14 18:14:45,"Each *water* (*{氵}*) wave washes away a *few* (*{少}*) grains of sand."
 2297,涜,"blaspheme",0,2025-08-18 03:51:31,"The church is *selling* holy *water* for the faithful, but if you dare to say its tap water, they'd tell you you were #blaspheming#."
 2298,淫,"lewd",0,2026-01-07 15:50:20,"I throw *water* (*{氵}*) over that lewd *porter* (*{壬}*). He's like a *vulture* (*{爫}*) that preys on people."
 2299,梁,"roofbeam",0,2015-01-25 16:24:54,"what seemed to be *water* dripping from the *wooden* roofbeam was actually *drops* of blood dripping from a *sword* lodged in it"
@@ -2499,7 +2499,7 @@ Note that the meaning of this (rare) kanji is ""make (something) / do (something
 2315,溢,"brimming",0,2025-06-25 16:27:37,"When water 氵enters 入 once 一, it's full; when it enters 入 again, the dish 皿 is brimming over. 
 
 Bring me a brimming cup of WATER 氵, or you'll lose OLD BENEFIT 益 (#1881). Primitive: OLD BENEFIT is BENEFIT with inverted horns."
-2316,汰,"cleanse",0,2025-08-18 03:56:21,"It takes more *water* (*{氵}*) to cleanse you if you are *plump* (*{太}*)."
+2316,汰,"cleanse",0,2026-01-14 18:15:08,"It takes more *water* (*{氵}*) to cleanse you if you are *plump* (*{太}*)."
 2317,湛,"inundate",0,2025-08-18 03:57:08,"#Inundation# (flooding) is due to a *tremendous* amount of *water*"
 2318,淳,"immaculate",0,2025-03-19 01:32:29,"*Water* (*{氵}*) you *receive* (*{享}*) as a gift should be immaculate."
 2319,潰,"defile",0,2025-04-30 13:47:26,"...Faramir and Frodo watched the tiny creature far below. ""Shall we shoot him?"" Faramir asked. ""This Gollum has #defiled# the *waters* (*{氵}*) of the Forbidden pond, looking for his *Precious* (*{貴}*), and for that the penalty is death""..."
@@ -3218,6 +3218,9 @@ TODO"
 25098,戊,"parade",0,2025-02-21 15:31:56,"Means 5th in rank, fifth sign of the Chinese calendar. It is composed of an extra stroke on top of spear {戈}; the extra stroke acts as a guide. We'll take the guided spear to mean #scythe#."
 25100,戌,"march",0,2025-03-02 13:44:16,"Means eleventh sign of Chinese zodiac (The Dog, 7pm-9pm, west-northwest, September). Here we see the Grim Reaper, the *one* 一 wielding a *scythe* {戊}."
 25102,戎,"barbarian warrior",0,2026-01-14 17:15:01,"The barbarian warrior at the *fiesta* (*{戈}*) can wield only mini-arms like a *bent needle* (*{十}*)."
+25108,戔,"slight",0,2026-01-14 17:35:16,"Going to *two* (*{二}*) *fiestas* (*{戈}*) is a slight exaggeration.
+
+Old form of the *float primitive* (㦮)."
 25119,戟,"ancient halberd",0,2025-03-14 18:04:45,"#Ancient halberds# were used in ancient times to attack people under the cover of *mist* (龺) during *fiestas* (*{戈}*)."
 25120,戠,"kazoo/uproar",0,2025-03-01 15:29:07,"The #uproar# is the *(sound)*  (*{音}*) of people preparing for the *fiesta* (*{戈}*)."
 25153,扁,"comic book",0,2025-05-11 13:41:43,"To slide under the *door* (*{戸}*), you need a small, flat  *tome* (*{冊}*): a comic book."

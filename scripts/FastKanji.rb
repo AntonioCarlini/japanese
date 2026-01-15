@@ -3183,6 +3183,7 @@ class KD
     :"parade" => [25098, 25098, ["BO","BOU"], ["tsuchinoe"], [""], ["parade"], 0, 0],
     :"march" => [25100, 25100, ["JYUTSU"], ["inu"], [""], ["march"], 0, 0],
     :"barbarian*warrior" => [25102, 25102, ["JUU"], ["ebisu","tsuwamono"], [""], ["barbarian warrior"], 0, 0],
+    :"slight" => [25108, 25108, ["SEN","SAN"], [""], [""], ["slight"], 0, 0],
     :"ancient*halberd" => [25119, 25119, ["GEKI"], ["hoka"], [""], ["ancient halberd"], 0, 0],
     :"kazoo/uproar" => [25120, 25120, ["SHOKU","SHIKI","SHI"], [""], [""], ["kazoo/uproar"], 0, 0],
     :"comic*book" => [25153, 25153, ["HEN"], ["hiratai"], [""], ["comic book"], 0, 0],
