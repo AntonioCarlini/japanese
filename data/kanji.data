@@ -2550,29 +2550,29 @@
  2550 :  0x727d :  :  KEN :  hi.ku :   :  {tug} {pull} {drag} {lead by hand} :  9 :  
  2551 :  0x725d :  :  HIN :  mesu me- men :   :  {female animal} {female} :   :  
  2552 :  0x7261 :  :  BO BOU :  osu o- on- :   :  {male animal} {male} :  9 :  
- 2553 :  0x7476 :  :  YOU :  tama :   :  {beautiful as a jewel} :  9 :  1
+ 2553 :  0x7476 :  :  YOU :  tama :   :  {precious stone} {beautiful as a jewel} :  9 :  1
  2554 :  0x7433 :  :  RIN :   :   : {chime} {jewel} {tinkling of jewelry} :  9 :  1
- 2555 :  0x7460 :  :  RU RYUU :   :  ruri :  {lapis lazuli} :  8 :  1
+ 2555 :  0x7460 :  :  RU RYUU :   :  ruri :  {marine blue} {lapis lazuli} :  8 :  1
  2556 :  0x6591 : fu :  HAN :  fu madara :  i :  {speckled} {spot} {blemish} {speck} {patches} :  8 :  
- 2557 :  0x7409 :  :  RYUU RU :   :   :  {precious stone} {gem} {lapis lazuli} :  9 :  1
- 2558 :  0x5f04 : hineku.ru iji.ru ijiku.ru :  ROU RU :  ijiku.ru rou.suru iji.ru hineku.ru tawamu.reru moteaso.bu :   :  {play with} {tamper} {trifle with} :  8 :  
+ 2557 :  0x7409 :  :  RYUU RU :   :   : {lapis lazuli} {precious stone} {gem} :  9 :  1
+ 2558 :  0x5f04 : hineku.ru iji.ru ijiku.ru :  ROU RU :  ijiku.ru rou.suru iji.ru hineku.ru tawamu.reru moteaso.bu :   : {tinker with}  {play with} {tamper} {trifle with} :  8 :  
  2559 :  0x7473 :  :  SA :  miga.ku :   :  {burnish} {polish} {brilliant white luster of a gem} {artful smile} :  9 :  1
- 2560 :  0x7422 :  :  TAKU :  miga.ku :  aya taka :  {local lord} {polish} :  9 :  1
+ 2560 :  0x7422 :  :  TAKU :  miga.ku :  aya taka : {hone} {local lord} {polish} :  9 :  1
  2561 :  0x73ca : sanchi :  SAN SENCHI :  sanchi :   :  {coral} {centimeter} :  9 :  
- 2562 :  0x745a :  :  KO GO :   :   :  {ancestral offering receptacle} {coral} :  9 :  1
+ 2562 :  0x745a :  :  KO GO :   :   :  {coral reef} {ancestral offering receptacle} {coral} :  9 :  1
  2563 :  0x745e :  :  ZUI SUI :  mizu- shirushi :  tama zu mitsu :  {fortunate} {congratulations} :  9 :  1
- 2564 :  0x73ea :  :  KEI :  tama :   :  {jade scepter or tablet (authority symbol)} :   :  
- 2565 :  0x7396 :  :  KYUU KU :   :  tama ki hisa :  {beautiful black jewel} {nine} :  9 :  1
- 2566 :  0x745b :  :  EI :   :  you aki akira teru e :  {sparkle of jewelry} {crystal} :  9 :  1
+ 2564 :  0x73ea :  :  KEI :  tama :   :  {silicon} {jade scepter or tablet (authority symbol)} :   :  
+ 2565 :  0x7396 :  :  KYUU KU :   :  tama ki hisa :  {jet} {beautiful black jewel} {nine} :  9 :  1
+ 2566 :  0x745b :  :  EI :   :  you aki akira teru e :  {crystal stone} {sparkle of jewelry} {crystal} :  9 :  1
  2567 :  0x73a9 : mochiaso.bu :  GAN :  mochiaso.bu moteaso.bu :   :  {toy} {play} {take pleasure in} {trifle with} {make sport of} :  8 :  
- 2568 :  0x73b2 :  :  REI :   :  tama akira aki ryou re :  {sound of jewels} :  9 :  1
+ 2568 :  0x73b2 :  :  REI :   :  tama akira aki ryou re :  {tinkling} {sound of jewels} :  9 :  1
  2569 :  0x754f : kashiko kashiko.shi kashikoma.ru :  I :  oso.reru kashikoma.ru kashiko kashiko.shi :   :  {apprehensive} {fear} {majestic} {graciously} {be apprehensive} :  8 :  
- 2570 :  0x7562 : owa.ri :  HITSU :  owa.ru ami owa.ri kotogotoku :   :  {the end} {finish} :  9 :  
+ 2570 :  0x7562 : owa.ri :  HITSU :  owa.ru ami owa.ri kotogotoku :   :  {lastly} {the end} {finish} :  9 :  
  2571 :  0x7566 :  :  KEI :  aze une :   :  {paddy-field ridge} {rice paddy ridge} {furrow} {rib} :   :  
  2572 :  0x75d2 : kayu.garu kayu.i :  YOU :  kayu.garu kasa kayu.i :   : {itch} {itchy} :   :  
- 2573 :  0x75f0 :  :  TAN :   :   :  {sputum} {phlegm} :   :  
+ 2573 :  0x75f0 :  :  TAN :   :   : {phlegm} {sputum}  :   :  
  2574 :  0x75b9 : hashika :  SHIN CHIN :  hashika :   :  {measles} {sickness} :   :  
- 2575 :  0x75d4 : DI shimogasa :  DI JI :  shimogasa :   :  {piles} {hemorrhoids} :   :  
+ 2575 :  0x75d4 : DI shimogasa :  DI JI :  shimogasa :   :  {hemorrhoids} {piles} :   :  
  2576 :  0x764c :  :  GAN :   :   :  {cancer} {cancerous evil} :   :  
  2577 :  0x75e9 : ya.seru :  SOU CHYUU SHYUU SHYU :  ya.seru :   :  {lose weight} {get thin} :  8 :  
  2578 :  0x75d5 :  :  KON :  ato :   :  {mark} {foot print} :  8 :  
