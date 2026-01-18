@@ -2517,7 +2517,7 @@ class KD
     :"wooden*pestle" => [2503, 26485, ["SHYO","SO"], ["kine"], ["ki"], ["wooden pestle"], 9, 0],
     :"staff" => [2504, 26454, ["JOU"], ["tsue"], [""], ["staff","cane"], 9, 0],
     :"sweet*oak" => [2505, 26894, ["TSUI","SUI"], ["tsuchi","u.tsu"], ["shii"], ["sweet oak","oak","mallet"], 8, 1],
-    :"wine*barrel" => [2506, 27197, ["SON"], ["taru"], [""], ["wine barrel","barrel","cask","keg"], 9, 0],
+    :"barrel" => [2506, 27197, ["SON"], ["taru"], [""], ["barrel","cask","keg"], 9, 0],
     :"palisade" => [2507, 26613, ["SAKU","SAN"], ["shigara.mu","shigarami","toride","yarai"], ["mase","yana"], ["palisade","stockade","fence","weir","entwine around"], 8, 0],
     :"oar" => [2508, 27347, ["RO"], ["yagura","oodate"], [""], ["oar","tower"], 9, 0],
     :"sturdy*oak" => [2509, 27263, ["KYOU"], ["kashi","mochinoki"], [""], ["sturdy oak","oak"], 0, 0],
