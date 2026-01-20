@@ -3159,6 +3159,7 @@ class KD
     :"towering" => [23769, 23769, ["JI"], ["sobada.tsu"], [""], ["towering"], 0, 0],
     :"flood" => [24027, 24027, ["SEN"], ["kawa"], [""], ["flood"], 0, 0],
     :"sewer" => [24032, 24032, ["KEI","KYOU"], [""], [""], ["sewer"], 0, 0],
+    :"arena" => [24055, 24055, ["KOU"], ["chimata"], [""], ["arena"], 0, 0],
     :"housemaid" => [24090, 24090, ["SOU","SHYU"], ["houki"], [""], ["housemaid"], 0, 0],
     :"puzzle" => [24182, 24182, ["HEI","HYOU"], ["awa.seru","nara.bu"], [""], ["puzzle"], 0, 0],
     :"cocoon*primitive" => [24186, 24186, ["YOU"], ["chisai"], [""], ["cocoon primitive"], 0, 0],
