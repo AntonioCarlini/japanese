@@ -3318,6 +3318,7 @@ class KD
     :"green*onion" => [38893, 38893, ["KYUU","KU"], [""], [""], ["green onion"], 0, 0],
     :"wild*onions" => [38897, 38897, ["SEN"], ["yamanira"], [""], ["wild onions"], 0, 0],
     :"nod" => [38967, 38967, ["GAN","KAN"], ["unazu.ku","ago"], [""], ["nod"], 0, 0],
+    :"scowl" => [39024, 39024, ["HIN"], ["hiso.meru","shika.meru"], [""], ["scowl"], 0, 0],
     :"eat*primitive" => [39136, 39136, [""], [""], [""], ["eat primitive"], 0, 0],
     :"gyoza" => [39171, 39171, ["GYOU","KYOU","KOU"], [""], [""], ["gyoza"], 0, 0],
     :"hunger" => [39241, 39241, ["KIN"], ["u.eru"], [""], ["hunger"], 0, 0],
