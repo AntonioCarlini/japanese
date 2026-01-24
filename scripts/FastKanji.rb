@@ -3213,6 +3213,7 @@ class KD
     :"bone*primitive" => [27513, 27513, ["GATSU","GACHI","TAI"], [""], [""], ["bone primitive"], 0, 0],
     :"vicious" => [27514, 27514, [""], [""], [""], ["vicious"], 0, 0],
     :"missile" => [27571, 27571, ["SHU"], ["mata","hoka"], [""], ["missile"], 0, 0],
+    :"yin*dynasty" => [27575, 27575, ["IN"], [""], [""], ["Yin Dynasty"], 0, 0],
     :"mother*radical" => [27595, 27595, ["BU","MU"], ["haha","bo","nai","naka.re"], [""], ["mother radical"], 0, 0],
     :"silage" => [27596, 27596, ["KAN"], ["tsuranuku"], [""], ["silage"], 0, 0],
     :"carpet" => [27631, 27631, ["TAN"], [""], [""], ["carpet"], 0, 0],
