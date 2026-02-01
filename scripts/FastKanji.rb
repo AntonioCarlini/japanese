@@ -2507,7 +2507,7 @@ class KD
     :"japanese*oak" => [2493, 26978, ["SHYUU","YUU"], ["nara"], [""], ["Japanese oak","oak"], 9, 0],
     :"mandarin*orange" => [2494, 27224, ["KITSU"], ["tachibana"], ["kichisai_tsu"], ["mandarin orange"], 9, 1],
     :"japanese*cypress" => [2495, 26727, ["KAI"], ["hinoki","hi"], [""], ["Japanese cypress"], 9, 0],
-    :"live" => [2496, 26866, ["SEI"], ["su.mu"], ["zumi"], ["live","dwell"], 9, 0],
+    :"roost" => [2496, 26866, ["SEI"], ["su.mu"], ["zumi"], ["roost","live","dwell"], 9, 0],
     :"nestle" => [2497, 26646, ["SEI"], ["su.mu"], ["su","sumi"], ["nestle","nest","rookery","hive","cobweb","den"], 9, 0],
     :"spiny" => [2498, 26775, ["KOU","KYOU"], ["fusagu","yamanire","oomune"], [""], ["spiny","for the most part","close up","flower stem"], 8, 0],
     :"bellflower" => [2499, 26708, ["KITSU","KETSU"], [""], ["ki"], ["bellflower","used in plant names"], 9, 0],
