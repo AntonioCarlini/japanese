@@ -3340,6 +3340,7 @@ class KD
     :"wheat-gluten" => [40617, 40617, ["FU"], ["fusuma"], [""], ["wheat-gluten"], 0, 0],
     :"mildew" => [40692, 40692, ["BAI","BI","MAI","MI"], ["kabi","kabi.ru","ka.biru"], [""], ["mildew"], 0, 0],
     :"old*eel" => [40701, 40701, ["BOU","BIN","BEN","MIN","MEN"], ["aogaeru","tsuto.meru"], [""], ["old eel"], 0, 0],
+    :"rat" => [40737, 40737, ["SO","SHO"], ["nezumi","nezu"], [""], ["rat"], 0, 0],
     :"adjusted*[old]" => [40778, 40778, ["SEI","SAI"], ["soro.u","hito.shii","hito.shiku","ataru","hayai"], [""], ["adjusted [old]"], 0, 0],
     :"bring*about" => [40782, 40782, ["SEI","SAI","SHI"], ["matara.su","mata.rasu"], [""], ["bring about"], 0, 0],
     }
