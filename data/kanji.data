@@ -2539,7 +2539,7 @@
  2539 :  0x71ed :  :  SOKU SHYOKU :  tomoshibi :   :  {light} {candlepower} :  9 :  
  2540 :  0x717d : ao.ru oda.teru :  SEN :  ao.ru oda.teru oko.ru :   :  {fanning} {fan} {flap} {instigate} {agitate} {bolster up} {gulp down} :   :  
  2541 :  0x7164 : susu :  BAI MAI :  susu :   :  {soot} {smoke dried} :  9 :  
- 2542 :  0x7149 :  :  REN :  ne.ru :   :  {refine metals} {kneading over fire} :  9 :  
+ 2542 :  0x7149 :  :  REN :  ne.ru :   :  {firing} {refine metals} {kneading over fire} :  9 :  
  2543 :  0x71e6 : kira.meku kirame.ku san.taru :  SAN :  san.taru aki.raka kirame.ku kira.meku :   :  {brilliant} :  9 :  1
  2544 :  0x707c : arata yaku :  SHYAKU :  arata yaku :   :  {miraculous} :  9 :  
  2545 :  0x70d9 :  :  RAKU KAKU :  ya.ku :   :  {branding} {burn} :   :  
@@ -3055,12 +3055,16 @@
 20166 :  0x4ec6 :  :  : FU : tao.reru : {fall forward} : :
 20173 :  0x4ecd :  : JOU NYOU : yo.tte shikirini nao yoru : : {therefore} : :
 20174 :  0x4ece :  : SHOU JUU JU : shitaga.u shitaga.eru yori : : {two people} : :
+20252 :  0x4f1c :  : SAI SOTSU SOCHI : segare : : {my son [alt]} : :
 20295 :  0x4f47 :  : CHO : tatazu.mu : : {linger} : :
 20358 :  0x4f86 :  : RAI TAI : ku.ru kita.ru kita.su ki.tasu ki.taru : : {come [old]} : : 
 20374 :  0x4f96 :  : RIN RON : omo.u : : {academic conference} : :
 20376 :  0x4f98 :  : TA : wabi.shii hoko.ru wa.biru : : {alone} : :
+20430 :  0x4fce :  : SO SHO : ita manaita : : {chopping board} : :
 20446 :  0x4fde :  :  :  : : {meeting of butchers} : : 
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
+20463 :  0x4fef :  : FU  : fu.su utsumu.ku fu.seru : : {bend down} : :
+20551 :  0x5047 :  : KA KE : kari kari.ru : : {interim} : :
 20681 :  0x50c9 :  : SEN : mina : : {Minako} : :
 20760 :  0x5118 :  : JIN : mama kotogotoku : : {as it is} : :
 20762 :  0x511a :  : BOU MOU  : hakana.i kura.i : : {fleeting} : :
