@@ -3120,6 +3120,7 @@ class KD
     :"respectable*old*man" => [21471, 21471, ["SOU","SHUU"], ["okina"], [""], ["respectable old man"], 0, 0],
     :"argue" => [21509, 21509, [""], [""], [""], ["argue"], 0, 0],
     :"to*mutter" => [21599, 21599, ["GEN"], ["tsubuya.ku"], [""], ["to mutter"], 0, 0],
+    :"groan" => [21627, 21627, ["SHIN"], ["ume.ku","umeki"], [""], ["groan"], 0, 0],
     :"muzzle" => [21637, 21637, ["TOU"], [""], [""], ["muzzle"], 0, 0],
     :"alligator*primitive" => [21666, 21666, ["GAKU"], ["odoroku"], [""], ["alligator primitive"], 0, 0],
     :"jawbone" => [21692, 21692, ["KAI","KE","KUU","KA"], ["yokoshima","kuchigayugamu","yuga.mu"], [""], ["jawbone"], 0, 0],
