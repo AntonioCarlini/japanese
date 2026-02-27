@@ -39,7 +39,7 @@ end
 kanji_db = nil
 
 begin
-  kanji_db = DataKanji.create_from_file(kanji_data_file)
+  kanji_db = DataKanji.create_from_file(kanji_data_path)
 rescue StandardError => e
   warn("warning: could not fully load kanji data: #{e}")
 end
