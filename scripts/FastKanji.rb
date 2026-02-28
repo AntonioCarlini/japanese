@@ -2453,7 +2453,7 @@ class KD
     :"halo" => [2439, 26248, ["UN"], ["boka.su","boka.ru","kasa","kuma","bokashi","memai"], [""], ["halo","corona","fade"], 0, 0],
     :"glitter" => [2440, 26249, ["KI"], ["kaga.yaku"], ["teru"], ["glitter","shine","light"], 9, 1],
     :"dry*weather" => [2441, 26097, ["KAN"], ["hideri"], [""], ["dry weather","drought","dry weather"], 0, 0],
-    :"late" => [2442, 26191, ["AN"], ["oso.i"], [""], ["late","quiet","sets (sun)"], 9, 1],
+    :"clear*skies" => [2442, 26191, ["AN"], ["oso.i"], [""], ["clear skies","late","quiet","sets (sun)"], 9, 1],
     :"morrow" => [2443, 26216, ["SHIN"], ["ashita","toki","asa"], [""], ["morrow","morning","early"], 9, 1],
     :"bleaching" => [2444, 26194, ["SAI","SHI"], ["sara.su","sarashi"], [""], ["bleaching","bleach","refine","expose","air"], 9, 0],
     :"obscure" => [2445, 26151, ["MAI","BAI"], ["kura.i","musabo.ru"], [""], ["obscure","dark","foolish"], 8, 0],

@@ -53,7 +53,7 @@ It expresses a strong feeling or a solid fact that the speaker believes cannot b
 <table class="sentence">
   <tr class="jp"> <td>
       @HI{{@FG{{@KJ{{now}}:ima}}karadon'nani@FG{{@KJ{{hurry}}:iso}}ide@FG{{@KJ{{house}}:ie}}wo@FG{{@KJ{{exit}}:de}}@EM{{youto}},
-      @FG{{@KJ{{wait}}:ma}}chi@FG{{@KJ{{fit}}:a}}wase@FG{{@KJ{{time^interval}}:jikan}}niha@FG{{@KJ{{late}}:oku}}rerudarou.}}
+      @FG{{@KJ{{wait}}:ma}}chi@FG{{@KJ{{fit}}:a}}wase@FG{{@KJ{{time^interval}}:jikan}}niha@FG{{@KJ{{slow}}:oku}}rerudarou.}}
   </td> </tr>
   <tr class="en"> <td>
       No matter how hastily you leave home from now on, you cannot make it in time for the meeting.
