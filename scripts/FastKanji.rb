@@ -2511,7 +2511,7 @@ class KD
     :"nestle" => [2497, 26646, ["SEI"], ["su.mu"], ["su","sumi"], ["nestle","nest","rookery","hive","cobweb","den"], 9, 0],
     :"spiny" => [2498, 26775, ["KOU","KYOU"], ["fusagu","yamanire","oomune"], [""], ["spiny","for the most part","close up","flower stem"], 8, 0],
     :"bellflower" => [2499, 26708, ["KITSU","KETSU"], [""], ["ki"], ["bellflower","used in plant names"], 9, 0],
-    :"woods" => [2500, 26460, ["TO","TOU","ZU"], ["mori","fusa.gu","yamanashi"], [""], ["woods","grove"], 9, 1],
+    :"temple*grove" => [2500, 26460, ["TO","TOU","ZU"], ["mori","fusa.gu","yamanashi"], [""], ["temple grove","woods","grove"], 9, 1],
     :"kind*of*rake" => [2501, 26487, ["HA"], ["tsuka"], ["wa"], ["kind of rake"], 9, 0],
     :"sculling*oar" => [2502, 26806, ["BI"], ["kaji","kozue"], [""], ["sculling oar"], 9, 0],
     :"wooden*pestle" => [2503, 26485, ["SHYO","SO"], ["kine"], ["ki"], ["wooden pestle"], 9, 0],
