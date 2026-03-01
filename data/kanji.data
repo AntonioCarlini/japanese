@@ -2409,7 +2409,7 @@
  2409 :  0x8490 :  :  SHYUU :  akane atsu.maru atsu.meru :   :  {collector} {gather} :  9 :  
  2410 :  0x83c5 : suge :  KAN KEN :  suge :  su suga sugo :  {sedge} :  9 :  
  2411 :  0x8466 :  :  I :  shio.reru shina.biru shibo.mu na.eru :  ashi :  {ditch reed} {reed} {bullrush} :  9 :  
- 2412 :  0x8fea :  :  TEKI :  michi michibi.ku susu.mu ita.ru :  susumu susumi itaru yuu :  {edify} {way} {path} :  9 :  1
+ 2412 :  0x8fea :  :  TEKI :  michi michibi.ku susu.mu ita.ru :  susumu susumi itaru yuu : {way} {edify} {path} :  9 :  1
  2413 :  0x8fbf : tado.ru tadori :  TEN :  tado.ru tadori :   :  {track down} {follow (road)} {pursue} :  9 :  
  2414 :  0x9019 : ha.i ha.u :  SHYA GEN :  ha.u ha.i muka.eru kono :   :  {crawl} {creep} {grovel} {trail (vines)} :  9 :  
  2415 :  0x8fc2 :  :  U :   :   :  {detour} {roundabout way} :  9 :  
@@ -2444,10 +2444,10 @@
  2444 :  0x6652 : sarashi :  SAI SHI :  sara.su sarashi :   :  {bleaching} {bleach} {refine} {expose} {air} :  9 :  
  2445 :  0x6627 : musabo.ru :  MAI BAI :  kura.i musabo.ru :   :  {obscure} {dark} {foolish} :  8 :  
  2446 :  0x6643 :  :  KOU :  akiraka :  aki akira teru hikaru mitsu :  {limpid} :  9 :  1
- 2447 :  0x66dd :  :  BAKU HOKU BOKU :  sara.su :   :  {bleach} {refine} {expose} {air} :  9 :  
+ 2447 :  0x66dd :  :  BAKU HOKU BOKU :  sara.su :   :  {air out} {bleach} {refine} {expose} {air} :  9 :  
  2448 :  0x66d9 : akebono :  SHYO :  akebono :   :  {dawn} {daybreak} :  9 :  1
- 2449 :  0x6602 : taka.buru :  KOU GOU :  a.garu taka.i taka.buru :  aki akira taka takashi noboru :  {rise} :  9 :  1
- 2450 :  0x65fa : kagaya.ki utsukushi.i :  OU KYOU GOU :  kagaya.ki utsukushi.i sakan :   :  {flourishing} {successful} {beautiful} {vigorous} :  8 :  1
+ 2449 :  0x6602 : taka.buru :  KOU GOU :  a.garu taka.i taka.buru :  aki akira taka takashi noboru :  {elevate} {rise} :  9 :  1
+ 2450 :  0x65fa : kagaya.ki utsukushi.i :  OU KYOU GOU :  kagaya.ki utsukushi.i sakan :   :  {effulgent} {flourishing} {successful} {beautiful} {vigorous} :  8 :  1
  2451 :  0x660f :  :  KON :  kura.i kure :   :  {dusk} {dark} {evening} :  9 :  
  2452 :  0x6666 : misoka tsugomori :  KAI :  tsugomori kura.i misoka kura.mu :  mori :  {last day of the month} {dark} {disappear} :  9 :  
  2453 :  0x814e :  :  JIN :   :   :  {kidney} :  8 :  
@@ -3097,6 +3097,7 @@
 21314 :  0x5342 : tobu : SHIN : tobu :  : {flying rapidly} : :
 21321 :  0x5349 : kusa : KI KE : kusa : : {haystack} : : 
 21353 :  0x5369 :  : SETSU : warifu : : {postage stamp} : :
+21356 :  0x536c :  : KYOU GOU : nozo.mu na.su naka.buru : : {high-priced} : :
 21367 :  0x5377 :  : KAN KEN : ma.ku maki : : {scroll [old]} : :
 21378 :  0x5382 :  : KAN : karigane : : {cliff} : :
 21430 :  0x53b6 :  : SHI BOU MU : watakushi goza.ru : : {elbow primitive} : :
