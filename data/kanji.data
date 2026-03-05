@@ -2486,7 +2486,7 @@
  2486 :  0x67da : yuzu :  YU YUU JIKU :  yuzu :   :  {citron} :  9 :  1
  2487 :  0x6900 :  :  WAN :  hachi :   :  {wooden bowl} {wooden or lacquered bowl} :  9 :  
  2488 :  0x6802 : tsuga :   :  tsuga toga :   :  {hemlock} {(kokuji)} :   :  
- 2489 :  0x67fe : masaki masame :   :  masa masame masaki :   :  {straight grain} {spindle tree} {(kokuji)} :  9 :  1
+ 2489 :  0x67fe : masaki masame :   :  masa masame masaki :   :  {spindle tree} {straight grain} {(kokuji)} :  9 :  1
  2490 :  0x698a : sakaki :   :  sakaki :   : {sacred tree} {sacred Shinto tree} {(kokuji)} :  9 :  
  2491 :  0x6a2b :  :   :  kashi :   :  {evergreen oak} {(kokuji)} :  9 :  
  2492 :  0x69d9 :  :  TEN SHIN :  maki kozue :   :  {black pine} {twig} {ornamental evergreen} :  9 :  1
@@ -2498,28 +2498,28 @@
  2498 :  0x6897 : fusagu oomune yamanire :  KOU KYOU :  fusagu yamanire oomune :   :  {spiny} {for the most part} {close up} {flower stem} :  8 :  
  2499 :  0x6854 :  :  KITSU KETSU :   :  ki :  {bellflower} {used in plant names} :  9 :  
  2500 :  0x675c : yamanashi :  TO TOU ZU :  mori fusa.gu yamanashi :   :  {temple grove} {woods} {grove} :  9 :  1
- 2501 :  0x6777 :  :  HA :  tsuka :  wa :  {kind of rake} :  9 :  
- 2502 :  0x68b6 :  :  BI :  kaji kozue :   :  {sculling oar} :  9 :  
+ 2501 :  0x6777 :  :  HA :  tsuka :  wa :  {grain rake} {kind of rake} :  9 :  
+ 2502 :  0x68b6 :  :  BI :  kaji kozue :   :  {oar} {sculling oar} :  9 :  
  2503 :  0x6775 : kine :  SHYO SO :  kine :  ki :  {wooden pestle} :  9 :  
  2504 :  0x6756 : tsue :  JOU :  tsue :   :  {staff} {cane} :  9 :  
  2505 :  0x690e :  :  TSUI SUI :  tsuchi u.tsu :  shii :  {sweet oak} {oak} {mallet} :  8 :  1
  2506 :  0x6a3d : taru :  SON :  taru :   :  {barrel} {cask} {keg} :  9 :  
  2507 :  0x67f5 : shigara.mu shigarami yarai :  SAKU SAN :  shigara.mu shigarami toride yarai :  mase yana : {palisade} {stockade} {fence} {weir} {entwine around} :  8 :  
- 2508 :  0x6ad3 : oodate yagura :  RO :  yagura oodate :   :  {oar} {tower} :  9 :  
+ 2508 :  0x6ad3 : oodate yagura :  RO :  yagura oodate :   :  {turret} {oar} {tower} :  9 :  
  2509 :  0x6a7f : mochinoki :  KYOU :  kashi mochinoki :   :  {sturdy oak} {oak} :   :  
  2510 :  0x6753 : hishyaku :  SHYAKU CHYOU TEKI HYOU :  hishyaku :   :  {wooden ladle} {ladle} {scoop} :   :  
  2511 :  0x674e : sumomo :  RI :  sumomo :  momo i :  {damson} {plum} :  9 :  1
  2512 :  0x68c9 :  :  MEN :  wata :   :  {raw cotton} {cotton} :   :  
  2513 :  0x696f :  :  JUN :  tate :   :  {escutcheon} {shield} {buckler} {pretext} :  9 :  
- 2514 :  0x698e :  :  KA :  enoki :  e eno :  {lotus tree} {nettle tree} {hackberry} :  9 :  
+ 2514 :  0x698e :  :  KA :  enoki :  e eno :  {hackberry} {lotus tree} {nettle tree} :  9 :  
  2515 :  0x6a3a : kanba :  KA :  kaba kanba :  kara kamo kan :  {birch} {dark red} :  9 :  1
  2516 :  0x69cd :  :  SOU SHYOU :  yari :  utsu :  {lance} {spear} {fish fin} {javelin} :  9 :  
  2517 :  0x67d8 : so tsuge yamaguwa :  SHYA JAKU :  so tsuge yamaguwa :  tsu :  {wild mulberry} :  9 :  
- 2518 :  0x68b1 : kori kou.ru kouri :  KON :  kou.ru kouri kori shikimi :   :  {pack} {tie up} {bale} :   :  
+ 2518 :  0x68b1 : kori kou.ru kouri :  KON :  kou.ru kouri kori shikimi :   : {bale}  {pack} {tie up} :   :  
  2519 :  0x6787 :  :  BI HI :   :   :  {loquat} {spoon} :  9 :  
- 2520 :  0x6a0b : toi :  TOU :  hi toi :  te to toyo towa :  {water pipe} {gutter} {downspout} {conduit} :  9 :  
+ 2520 :  0x6a0b : toi :  TOU :  hi toi :  te to toyo towa :  {downspout} {water pipe} {gutter} {downspout} {conduit} :  9 :  
  2521 :  0x6a47 : kanjiki :  KYOU ZEI SEI :  sori kanjiki :   :  {sled} {sleigh} {snowshoes} :   :  
- 2522 :  0x69c3 : tara.i :  HAN :  tara.i :   :  {tub} :   :  
+ 2522 :  0x69c3 : tara.i :  HAN :  tara.i :   :  {enjoyment} {tub} :   :  
  2523 :  0x681e : shiori :  KAN :  shiori :   :  {bookmark} {guidebook} :  9 :  1
  2524 :  0x6930 : yashi :  YA :  yashi :   :  {coconut tree} :  9 :  1
  2525 :  0x6a80 : mayumi :  DAN TAN :  mayumi :   : {sandalwood}  {cedar} {spindle tree} :  9 :  1
