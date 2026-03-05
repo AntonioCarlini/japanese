@@ -2403,9 +2403,9 @@
  2403 :  0x85ae : yabu :  SOU :  yabu :   :  {quack} {thicket} {bush} {underbrush} {grove} :   :  
  2404 :  0x849c : ninniku nobiru :  SAN :  ninniku hiru nobiru :   :  {garlic} :   :  
  2405 :  0x8568 : warabi :  KETSU :  warabi :   :  {bracken} {fernbrake} :  9 :  
- 2406 :  0x851a : otokoyomogi :  UTSU I :  uchi otokoyomogi :   :  {dense growth} :   :  
- 2407 :  0x831c :  :  SEN :  akane :   :  {madder} {red dye} {Turkey red} :  9 :  1
- 2408 :  0x839e :  :  KAN :  i :   :  {smiling} {reed used to cover tatami} :  9 :  1
+ 2406 :  0x851a : otokoyomogi :  UTSU I :  uchi otokoyomogi :   :  {grow plentiful} {dense growth} :   :  
+ 2407 :  0x831c :  :  SEN :  akane :   :  {madder red} {madder} {red dye} {Turkey red} :  9 :  1
+ 2408 :  0x839e :  :  KAN :  i :   :  {candle rush} {smiling} {reed used to cover tatami} :  9 :  1
  2409 :  0x8490 :  :  SHYUU :  akane atsu.maru atsu.meru :   :  {collector} {gather} :  9 :  
  2410 :  0x83c5 : suge :  KAN KEN :  suge :  su suga sugo :  {sedge} :  9 :  
  2411 :  0x8466 :  :  I :  shio.reru shina.biru shibo.mu na.eru :  ashi :  {ditch reed} {reed} {bullrush} :  9 :  
@@ -2475,7 +2475,7 @@
  2475 :  0x699b : hashibami :  SHIN HAN :  hashibami hari :  hai haru :  {hazel} {hazelnut} {filbert} :  9 :  1
  2476 :  0x6adb : kushikezu.ru :  SHITSU :  kushi kushikezu.ru :   :  {comb} :  9 :  
  2477 :  0x69cc :  :  TSUI :  tsuchi :   :  {wooden hammer} {hammer} {mallet} :  9 :  
- 2478 :  0x6a35 : kiko.ru kikori :  SHYOU :  kiko.ru ko.ru kikori :   :  {woodcutting} {lumberjack} :   :  
+ 2478 :  0x6a35 : kiko.ru kikori :  SHYOU :  kiko.ru ko.ru kikori :   : {mallet} {woodcutting} {lumberjack} :   :  
  2479 :  0x68af : hashigo :  TEI TAI :  hashigo :  dai :  {ladder} {stairs} {insatiable drinking} :  9 :  
  2480 :  0x6905 :  :  I :   :   :  {chair} :  8 :  
  2481 :  0x67ff :  :  SHI :  kaki kokera :   :  {persimmon} {shingle} :  8 :  
