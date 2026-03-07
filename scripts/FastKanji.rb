@@ -2617,7 +2617,7 @@ class KD
     :"felicitation" => [2603, 31118, ["TEI"], ["saiwa.i"], ["sada","tadashi","yoshi","sachi","tomo","nori"], ["felicitation","happiness","blessed","good fortune","auspicious"], 9, 1],
     :"balances" => [2604, 31204, ["SHYOU","HIN","BIN"], ["hakari"], [""], ["balances","scales","steelyard"], 9, 0],
     :"millet" => [2605, 40653, ["SHYO"], ["kibi"], [""], ["millet"], 0, 0],
-    :"become*bald" => [2606, 31167, ["TOKU"], ["chibi.ru","kamuro","ha.geru","hage"], [""], ["become bald","bare","wear out","waste away","little girl employed at a brothel"], 0, 0],
+    :"bald" => [2606, 31167, ["TOKU"], ["chibi.ru","kamuro","ha.geru","hage"], [""], ["bald","become bald","bare","wear out","waste away","little girl employed at a brothel"], 0, 0],
     :"bear*fruit" => [2607, 31252, ["NEN","JIN","NIN"], ["mino.ru","minori"], ["toshi","naru","nari","minoru","ne","mi"], ["bear fruit","harvest","ripen"], 9, 1],
     :"humble" => [2608, 31255, ["HAI","HI"], ["hie"], [""], ["humble","deccan grass"], 0, 0],
     :"good*crops" => [2609, 31331, ["JOU"], ["wara","yutaka"], ["shige","minoru"], ["good crops","prosperity","10**28"], 9, 1],
