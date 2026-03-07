@@ -2605,30 +2605,30 @@
  2605 :  0x9ecd : kibi :  SHYO :  kibi :   :  {millet} :   :  
  2606 :  0x79bf : chibi.ru hage kamuro :  TOKU :  chibi.ru kamuro ha.geru hage :   :  {bald} {become bald} {bare} {wear out} {waste away} {little girl employed at a brothel} :   :  
  2607 :  0x7a14 : minori :  NEN JIN NIN :  mino.ru minori :  toshi naru nari minoru ne mi :  {bear fruit} {harvest} {ripen} :  9 :  1
- 2608 :  0x7a17 : hie :  HAI HI :  hie :   :  {humble} {deccan grass} :   :  
+ 2608 :  0x7a17 : hie :  HAI HI :  hie :   :  {crabgrass} {humble} {deccan grass} :   :  
  2609 :  0x7a63 : yutaka :  JOU :  wara yutaka :  shige minoru :  {good crops} {prosperity} {10**28} :  9 :  1
  2610 :  0x7a1c :  :  RYOU ROU :  itsu kado :   :  {imperial authority} {angle} {edge} {corner} {power} {majesty} :  9 :  1
  2611 :  0x7a00 :  :  KI KE :  mare mabara :   :  {sparse} {rare} {phenomenal} {dilute (acid)} :  9 :  1
  2612 :  0x7a46 :  :  BOKU MOKU :  yawa.ragu :   :  {respectful} {mild} {beautiful} :   :  
  2613 :  0x7aba : nozoku :  KI :  ukaga.u nozoku :   :  {lie in wait} {spy on} {reconnoiter} :  9 :  
- 2614 :  0x7a84 : subo.meru tsubo.meru :  SAKU :  subo.meru tsubo.meru sema.i :   :  {narrow} {fold} {furl} {shrug} {pucker} {shut} {close} :  9 :  
+ 2614 :  0x7a84 : subo.meru tsubo.meru :  SAKU :  subo.meru tsubo.meru sema.i :   :  {tight} {narrow} {fold} {furl} {shrug} {pucker} {shut} {close} :  9 :  
  2615 :  0x7a9f : ihaya iwaya :  KUTSU KOTSU :  iwaya ihaya ana :   :  {cavern} :  8 :  
- 2616 :  0x7a7f :  :  SEN :  uga.tsu ha.ku :   :  {put on (to the feet)} {dig} {pierce} {drill} :  9 :  
+ 2616 :  0x7a7f :  :  SEN :  uga.tsu ha.ku :   :  {drill} {put on (to the feet)} {dig} {pierce} :  9 :  
  2617 :  0x7ac3 : hetsui kamado :  SOU :  kamado kama hetsui :   :  {kitchen stove} {furnace} {oven} {hearth} :   :  
  2618 :  0x7aea : kodomo :  JU :  tate ta.teru kodomo :   :  {longness} {length} {height} {warp} :  9 :  
- 2619 :  0x98af : sachisai_tsu.to :  SATSU SOU :  sachisai_tsu.to :   :  {sudden} {quick} {sound of the wind} :  9 :  1
+ 2619 :  0x98af : sachisai_tsu.to :  SATSU SOU :  sachisai_tsu.to :   :  {rustling} {sudden} {quick} {sound of the wind} :  9 :  1
  2620 :  0x7ad9 :  :  TAN :   :   :  {outpost} {stop} {halt} :   :  
  2621 :  0x9756 : yasu.njiru :  SEI JOU :  yasu.njiru :  nobu yasu yasushi shizu osamu kiyoshi : {repose} {peaceful} :  9 :  1
  2622 :  0x59be : mekake sobame :  SHYOU :  mekake sobame warawa :   :  {concubine} :   :  
  2623 :  0x887f :  :  KIN KON :  eri :   :  {lapel} {neck} {collar}  :  9 :  1
- 2624 :  0x88fe : suso :  KYO KO :  suso :   :  {cuff} {hem} {foot of mountain} :  8 :  
- 2625 :  0x88b7 : awase :  KOU KYOU :  awase :   :  {lined (kimono)} :   :  
+ 2624 :  0x88fe : suso :  KYO KO :  suso :   :  {hem} {cuff} {foot of mountain} :  8 :  
+ 2625 :  0x88b7 : awase :  KOU KYOU :  awase :   :  {lined kimono} {lined (kimono)} :   :  
  2626 :  0x88b4 : hakama zubon :  KO KU :  hakama zubon :   :  {men's formal divided skirt} :  9 :  
  2627 :  0x8956 : fusuma :  OU :  fusuma ao :   :  {sliding door} {opaque sliding door} :  9 :  
- 2628 :  0x7b19 :  :  SHYOU SOU :  fue :   :  {a reed instrument} :  9 :  1
+ 2628 :  0x7b19 :  :  SHYOU SOU :  fue :   :  {Chinese panpipe} {a reed instrument} :  9 :  1
  2629 :  0x7b4f : ikada :  BATSU HATSU BOCHI :  ikada :   :  {raft} :   :  
  2630 :  0x7c3e :  :  REN :  sudare su :  misu :  {bamboo screen} {rattan blind} :  9 :  
- 2631 :  0x7baa :  :  TAN :  hako :   :  {bamboo rice basket} :   :  
+ 2631 :  0x7baa :  :  TAN :  hako :   :  {rattan box} {bamboo rice basket} :   :  
  2632 :  0x7aff : sao :  KAN :  sao :   :  {pole} {rod} {scale beam} {violin neck} :  9 :  
  2633 :  0x7b86 : hera :  HEI HAI :  hera no kushi :   :  {spatula} {arrow shaft} :   :  
  2634 :  0x7b94 :  :  HAKU :  sudare :   :  {foil} {gilt} :  9 :  
@@ -2640,13 +2640,13 @@
  2640 :  0x7bb8 :  :  CHYO CHYAKU :  hashi :   :  {chopsticks} :  8 :  
  2641 :  0x7e82 :  :  SAN :  atsu.meru :   :  {editing} {compiling} :  9 :  
  2642 :  0x7afa :  :  JIKU CHIKU TOKU :   :  atsushi :  {bamboo cane} {bamboo} :  9 :  
- 2643 :  0x7b95 :  :  KI :  mi :  mino :  {winnowing} :  9 :  
- 2644 :  0x7b08 :  :  KYUU :   :  oi :  {backpack bookcase} :  9 :  
+ 2643 :  0x7b95 :  :  KI :  mi :  mino :  {winnowing fan} {winnowing} :  9 :  
+ 2644 :  0x7b08 :  :  KYUU :   :  oi :  {backpack} {backpack bookcase} :  9 :  
  2645 :  0x7bc7 :  :  HEN :   :   :  {livraison} {volume} {chapter} {book} {editing} {compilation} :  9 :  
- 2646 :  0x7b48 : hazu yahazu :  KATSU :  hazu yahazu :   :  {notch of an arrow} {ought} {must} {should be} {expected} :  9 :  
+ 2646 :  0x7b48 : hazu yahazu :  KATSU :  hazu yahazu :   :  {should} {notch of an arrow} {ought} {must} {should be} {expected} :  9 :  
  2647 :  0x7c38 :  :  HA :  hi.ru :   :  {winnow} {fan} :   :  
  2648 :  0x7c95 : kasu :  HAKU :  kasu :   :  {settlings} {scrap} {waste} :   :  
- 2649 :  0x7cdf :  :  KOU SOU :  nuka :  kasu :  {dregs} {sediment} {grounds} :   :  
+ 2649 :  0x7cdf :  :  KOU SOU :  nuka :  kasu :  {lees} {dregs} {sediment} {grounds} :   :  
  2650 :  0x7cca :  :  KO GO KOTSU :  nori :   :  {paste} {glue} {sizing} :  9 :  
  2651 :  0x7c7e :  :   :  momi :   :  {unhulled rice} {(kokuji)} :  9 :  
  2652 :  0x7ce0 :  :  KOU :  nuka :   :  {rice bran} :   :  
@@ -2663,7 +2663,7 @@
  2663 :  0x7e8f : mato.i mato.maru mato.meru mato.u matsu.waru :  TEN DEN :  matsu.waru mato.u mato.meru mato.maru mato.i :   :  {summarize} {wear} {wrap} {tie} {follow around} {collect} :  9 :  
  2664 :  0x7d62 :  :  KEN :   :  jun aya : {gorgeous} {brilliant fabric design} :  9 :  1
  2665 :  0x7e4d : nuitori :  SHYUU :  nuitori :   :  {embroidery} {sew} {figured cloth} :   :  
- 2666 :  0x7d2c : tsumugi :  CHYUU :  tsumugi tsumu.gu :   :  {pongee (a knotted silk cloth)} :  9 :  1
+ 2666 :  0x7d2c : tsumugi :  CHYUU :  tsumugi tsumu.gu :   :  {pongee} {pongee (a knotted silk cloth)} :  9 :  1
  2667 :  0x7dba :  :  KI :  aya :   :  {ornate} {figured cloth} {beautiful} :  9 :  1
  2668 :  0x7dbe :  :  RIN :  aya :  ryou :  {damask} {design} {figured cloth} {twill} :  9 :  1
  2669 :  0x7d43 :  :  GEN :  ito :   :  {catgut} {string} {cord} {samisen music} :  9 :  1
@@ -2675,7 +2675,7 @@
  2675 :  0x8237 : funabata funaberi :  GEN :  funaberi funabata :   :  {gunwale} :  8 :  
  2676 :  0x806f :  :  REN :  tsura.naru tsura.neru :   :  {strung together} {party} {gang} {clique} :   :  
  2677 :  0x8061 : mimizato.i :  SOU :  sato.i mimizato.i :  sato satoshi satoru aki akira toshi sata minoru :  {attentive} {wise} {fast learner} :  9 :  1
- 2678 :  0x8058 : hei.suru :  HEI :  hei.suru to.u me.su :   :  {invite} :   :  
+ 2678 :  0x8058 : hei.suru :  HEI :  hei.suru to.u me.su :   :  {summons} {invite} :   :  
  2679 :  0x803d :  :  TAN :  fu.keru :   :  {addiction} {addicted} {absorbed in} :  9 :  
  2680 :  0x8036 :  :  YA JA :  ka :   :  {exclamation} {question mark} :  9 :  1
  2681 :  0x86a4 :  :  SOU :  nomi hayai :   :  {flea} :   :  
