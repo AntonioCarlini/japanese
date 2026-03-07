@@ -2536,7 +2536,7 @@
  2536 :  0x70ac :  :  KO KYO :   :  tai :  {torch} {signal fire} :   :  
  2537 :  0x711a : yakigari :  HUN HON HAN :  ta.ku ya.ku yakigari :   : {kindle}  {burn} {build a fire} {boil} {cook} :  9 :  
  2538 :  0x7078 : yaito :  KYUU KU :  yaito :   :  {moxa} {moxa cautery} {chastisement} :  9 :  
- 2539 :  0x71ed :  :  SOKU SHYOKU :  tomoshibi :   :  {light} {candlepower} :  9 :  
+ 2539 :  0x71ed :  :  SOKU SHYOKU :  tomoshibi :   :  {candlelight} {light} {candlepower} :  9 :  
  2540 :  0x717d : ao.ru oda.teru :  SEN :  ao.ru oda.teru oko.ru :   :  {fanning} {fan} {flap} {instigate} {agitate} {bolster up} {gulp down} :   :  
  2541 :  0x7164 : susu :  BAI MAI :  susu :   :  {soot} {smoke dried} :  9 :  
  2542 :  0x7149 :  :  REN :  ne.ru :   :  {firing} {refine metals} {kneading over fire} :  9 :  
@@ -2575,14 +2575,14 @@
  2575 :  0x75d4 : DI shimogasa :  DI JI :  shimogasa :   :  {hemorrhoids} {piles} :   :  
  2576 :  0x764c :  :  GAN :   :   :  {cancer} {cancerous evil} :   :  
  2577 :  0x75e9 : ya.seru :  SOU CHYUU SHYUU SHYU :  ya.seru :   :  {lose weight} {get thin} :  8 :  
- 2578 :  0x75d5 :  :  KON :  ato :   :  {mark} {foot print} :  8 :  
+ 2578 :  0x75d5 :  :  KON :  ato :   :  {scar} {mark} {foot print} :  8 :  
  2579 :  0x75fa : shibi.reru :  HI :  shibi.reru :   :  {paralysis} {palsy} {become numb} {paralysed} :   :  
- 2580 :  0x7738 :  :  BOU MU :  hitomi :   :  {pupil of the eye} :  9 :  1
+ 2580 :  0x7738 :  :  BOU MU :  hitomi :   :  {apple of the eye} {pupil of the eye} :  9 :  1
  2581 :  0x7729 : gen.su kurume.ku mabayu.i mabu.shii mema.i :  GEN KAN :  gen.su kurume.ku mabu.shii kura.mu mado.u mema.i mabayu.i kure.ru ma.u :   : {dizzy} {faint} :   :  
- 2582 :  0x77ad :  :  RYOU :  akiraka :   :  {clear} :  8 :  1
+ 2582 :  0x77ad :  :  RYOU :  akiraka :   :  {obvious} {clear} :  8 :  1
  2583 :  0x7709 :  :  BI MI :  mayu :   :  {eyebrow} :  8 :  1
  2584 :  0x96c9 : kiji :  JI CHI :  kiji :  ki :  {pheasant} :   :  
- 2585 :  0x77e9 : kanezashi sashigane :  KU :  kane kanezashi sashigane :  nori tsune tadashi :  {carpenter's square} {ruler} :  9 :  1
+ 2585 :  0x77e9 : kanezashi sashigane :  KU :  kane kanezashi sashigane :  nori tsune tadashi :  {carpenter’s square} {ruler} :  9 :  1
  2586 :  0x78d0 :  :  BAN HAN :  iwa :  iwao wa :  {crag} {rock} {cliff} {wall (in a mine)} :  9 :  
  2587 :  0x7887 :  :  TEI :  ikari :   :  {grapnel} {anchor} :   :  
  2588 :  0x78a7 :  :  HEKI HYAKU :   :  midori ao tama :  {blue-green} {blue} {green} :  9 :  1
@@ -2591,15 +2591,15 @@
  2591 :  0x7897 : kobachi :  WAN :  kobachi :   :  {teacup} {porcelain bowl} {tea cup} :  9 :  
  2592 :  0x788d :  :  GAI GE :  samata.geru :   :  {obstacle} :   :  
  2593 :  0x78a9 :  :  SEKI :  oo.kii :   :  {illustrious} {large} {great} {eminent} :  9 :  1
- 2594 :  0x78ef : iso :  KI :  iso :  shi so :  {seashore} {beach} :  9 :  1
+ 2594 :  0x78ef : iso :  KI :  iso :  shi so : {rocky beach} {seashore} {beach} :  9 :  1
  2595 :  0x783a : arato :  REI :  arato miga.ku :  to :  {whetstone} {polish} :   :  
- 2596 :  0x7893 : kaku.taru :  KAKU TAI :  tashi.ka kaku.taru :  u usu :  {pestle} :  9 :  
- 2597 :  0x79a6 :  :  GYO GO :  fuse.gu :   :  {defend} {protect} {resist} {ward off} :   :  
+ 2596 :  0x7893 : kaku.taru :  KAKU TAI :  tashi.ka kaku.taru :  u usu :  {mill} {pestle} :  9 :  
+ 2597 :  0x79a6 :  :  GYO GO :  fuse.gu :   :  {fend off} {defend} {protect} {resist} {ward off} :   :  
  2598 :  0x7977 : ino.ri :  TOU :  ino.ru ino.ri matsu.ru :   :  {beseech} {pray} :  9 :  
  2599 :  0x7950 :  :  YUU U :  tasu.keru :  suke sachi yoshi tasuku hiro hiroshi masa :  {ancestral tablet}{help} :  9 :  1
  2600 :  0x7947 : kunitsukami :  GI KI SHI :  kunitsukami tada masani :   :  {local god} {national or local god} {peaceful} {great} :  9 :  
  2601 :  0x7962 : NE :  NE DEI NAI :   :   :  {ancestral shrine} :  9 :  
- 2602 :  0x7984 :  :  ROKU :  saiwa.i fuchi :  toshi yoshi :  {fief} {allowance} {pension} {grant} {happiness} :  9 :  1
+ 2602 :  0x7984 :  :  ROKU :  saiwa.i fuchi :  toshi yoshi :  {salarium} {fief} {allowance} {pension} {grant} {happiness} :  9 :  1
  2603 :  0x798e :  :  TEI :  saiwa.i :  sada tadashi yoshi sachi tomo nori :  {felicitation} {happiness} {blessed} {good fortune} {auspicious} :  9 :  1
  2604 :  0x79e4 : hakari :  SHYOU HIN BIN :  hakari :   :  {balances} {scales} {steelyard} :  9 :  
  2605 :  0x9ecd : kibi :  SHYO :  kibi :   :  {millet} :   :  
@@ -3283,6 +3283,7 @@
 33593 :  0x8339 :  : JYO NYO : yu.eru u.teru : : {boil up} : :
 34297 :  0x85f9 :  : AI :  : : {noble} : :
 34381 :  0x864d :  : KO :  : : {tiger radical} : :
+34560 :  0x8700 :  : SHOKU ZOKU : imomushi : : {green caterpillar} : :
 34796 :  0x87ec :  : SEN ZEN  : semi : : {cicada [old]} : : 
 34851 :  0x8823 :  : REI : kaki : : {oyster [old]} : :
 34916 :  0x8864 :  :  : koromu : : {cloak} : : 
