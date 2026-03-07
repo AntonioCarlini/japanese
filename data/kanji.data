@@ -2524,18 +2524,18 @@
  2524 :  0x6930 : yashi :  YA :  yashi :   :  {coconut tree} :  9 :  1
  2525 :  0x6a80 : mayumi :  DAN TAN :  mayumi :   : {sandalwood}  {cedar} {spindle tree} :  9 :  1
  2526 :  0x6a17 : oochi ouchi :  CHYO :  oochi ouchi :  chyou :  {sumac} {Japanese bead tree} :   :  
- 2527 :  0x69fb :  :  KI :  tsuki :   :  {Zelkova tree} :  9 :  1
- 2528 :  0x6919 :  :   :  sugi :   :  {Japanese cedar} {cryptomeria} {(kokuji)} :   :  
+ 2527 :  0x69fb :  :  KI :  tsuki :   :  {zelkova} {Zelkova tree} :  9 :  1
+ 2528 :  0x6919 :  :   :  sugi :   :  {cryptomeria} {Japanese cedar} {cryptomeria} {(kokuji)} :   :  
  2529 :  0x5f6c :  :  HIN HUN :  uruwa.shii aki.raka :  akira aki yoshi :  {copious} {refined} {gentle} :  9 :  1
  2530 :  0x6876 : oke :  YOU TOU :  oke :   : {bucket}  {tub} :  9 :  
  2531 :  0x6955 :  :  DA TA :   :   :  {ellipse} :  9 :  
- 2532 :  0x6a12 : jinkou :  MITSU :  shikimi jinkou :   :  {tree whose branches are placed on Buddhist graves} :   :  
- 2533 :  0x6bec : iga :  KYUU :  iga mari :   :  {burr} {ball} :  9 :  1
+ 2532 :  0x6a12 : jinkou :  MITSU :  shikimi jinkou :   :  {star-anise} {tree whose branches are placed on Buddhist graves} :   :  
+ 2533 :  0x6bec : iga :  KYUU :  iga mari :   :  {furball} {burr} {ball} :  9 :  1
  2534 :  0x71ff :  :  YOU :  kagaya.ku hikari :   :  {twinkle} {shine} :  9 :  1
  2535 :  0x71ce : kagaribi :  RYOU :  kagaribi :   :  {watchfire} {burn} {bonfire} :  9 :  1
  2536 :  0x70ac :  :  KO KYO :   :  tai :  {torch} {signal fire} :   :  
  2537 :  0x711a : yakigari :  HUN HON HAN :  ta.ku ya.ku yakigari :   : {kindle}  {burn} {build a fire} {boil} {cook} :  9 :  
- 2538 :  0x7078 : yaito :  KYUU KU :  yaito :   :  {moxa cautery} {chastisement} :  9 :  
+ 2538 :  0x7078 : yaito :  KYUU KU :  yaito :   :  {moxa} {moxa cautery} {chastisement} :  9 :  
  2539 :  0x71ed :  :  SOKU SHYOKU :  tomoshibi :   :  {light} {candlepower} :  9 :  
  2540 :  0x717d : ao.ru oda.teru :  SEN :  ao.ru oda.teru oko.ru :   :  {fanning} {fan} {flap} {instigate} {agitate} {bolster up} {gulp down} :   :  
  2541 :  0x7164 : susu :  BAI MAI :  susu :   :  {soot} {smoke dried} :  9 :  
@@ -2544,7 +2544,7 @@
  2544 :  0x707c : arata yaku :  SHYAKU :  arata yaku :   :  {refulgent} {miraculous} :  9 :  
  2545 :  0x70d9 :  :  RAKU KAKU :  ya.ku :   :  {branding} {burn} :   :  
  2546 :  0x7114 :  :  EN :  honoo :   :  {flames} {flame} {blaze} :   :  
- 2547 :  0x7194 : igata :  YOU :  to.keru to.kasu igata :   :  {fuse} {melt} :   :  
+ 2547 :  0x7194 : igata :  YOU :  to.keru to.kasu igata :   :  {fuse metal} {fuse} {melt} :   :  
  2548 :  0x714e : sen.jiru :  SEN :  sen.jiru i.ru ni.ru :  iri :  {roast} {broil} {parch} {roast} {boil} :  8 :  
  2549 :  0x70f9 :  :  HOU :  ni.ru :   :  {stew} {boil} {cook} :   :  
  2550 :  0x727d :  :  KEN :  hi.ku :   :  {tug} {pull} {drag} {lead by hand} :  9 :  
