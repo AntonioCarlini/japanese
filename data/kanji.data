@@ -2601,7 +2601,7 @@
  2601 :  0x7962 : NE :  NE DEI NAI :   :   :  {ancestral shrine} :  9 :  
  2602 :  0x7984 :  :  ROKU :  saiwa.i fuchi :  toshi yoshi :  {salarium} {fief} {allowance} {pension} {grant} {happiness} :  9 :  1
  2603 :  0x798e :  :  TEI :  saiwa.i :  sada tadashi yoshi sachi tomo nori :  {felicitation} {happiness} {blessed} {good fortune} {auspicious} :  9 :  1
- 2604 :  0x79e4 : hakari :  SHYOU HIN BIN :  hakari :   :  {balances} {scales} {steelyard} :  9 :  
+ 2604 :  0x79e4 : hakari :  SHYOU HIN BIN :  hakari :   :  {balancing scales} {balances} {scales} {steelyard} :  9 :  
  2605 :  0x9ecd : kibi :  SHYO :  kibi :   :  {millet} :   :  
  2606 :  0x79bf : chibi.ru hage kamuro :  TOKU :  chibi.ru kamuro ha.geru hage :   :  {bald} {become bald} {bare} {wear out} {waste away} {little girl employed at a brothel} :   :  
  2607 :  0x7a14 : minori :  NEN JIN NIN :  mino.ru minori :  toshi naru nari minoru ne mi :  {bear fruit} {harvest} {ripen} :  9 :  1
@@ -2681,7 +2681,7 @@
  2681 :  0x86a4 :  :  SOU :  nomi hayai :   :  {flea} :   :  
  2682 :  0x87f9 : kani :  KAI :  kani :   :  {crab} :  9 :  
  2683 :  0x86cb :  :  TAN :   :   :  {protein} {barbarian} {egg} :   :  
- 2684 :  0x87c4 : chichisai_tsu.suru :  CHITSU CHYUU :  chichisai_tsu.suru kaku.reru :   :  {hibernation of insects} :   :  
+ 2684 :  0x87c4 : chichisai_tsu.suru :  CHITSU CHYUU :  chichisai_tsu.suru kaku.reru :   :  {hibernation} {hibernation of insects} :   :  
  2685 :  0x877f : hae :  YOU :  hae hai :   :  {housefly} {fly} :   :  
  2686 :  0x87fb : ari :  GI :  ari :   :  {ant} :   :  
  2687 :  0x8702 :  :  HOU :  hachi :  ho :  {bee} {wasp} {hornet} :  8 :  
@@ -2698,7 +2698,7 @@
  2698 :  0x7f6b :  :  KEI KAI KE :   :   :  {ruled lines} {ruled line} :   :  
  2699 :  0x7f75 : nonoshi.ru :  BA :  nonoshi.ru :   :  {insult} {abuse} :  8 :  
  2700 :  0x8888 :  :  KE KA :   :   :  {stole} {a coarse camlet} :  9 :  1
- 2701 :  0x88df :  :  SA SHYA :   :   :  {Buddhist surplice} :  9 :  1
+ 2701 :  0x88df :  :  SA SHYA :   :   :  {monk’s sash} {Buddhist surplice} :  9 :  1
  2702 :  0x6234 :  :  TAI :  itada.ku :   :  {accept humbly} {be crowned with} {live under (a ruler)} {receive} :  8 :  
  2703 :  0x622a :  :  SETSU SAI :  ki.ru tatsu :   :  {incision} {cut off} {sever} :   :  
  2704 :  0x54c9 : kana :  SAI :  kana ya :  ka suke toshi chika hajime :  {how} {what} {alas} {question mark} {?} :  9 :  1
