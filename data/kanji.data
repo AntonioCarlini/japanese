@@ -2707,32 +2707,32 @@
  2707 :  0x8b90 :  :  SHYUU :  ada muku.iru a.taru :   :  {vendetta} {enemy} {revenge} :   :  
  2708 :  0x8acc : isa.me isa.meru :  KAN :  isa.me isa.meru :   :  {remonstrate} {admonish} {dissuade} :   :  
  2709 :  0x8b0e : nazo :  MEI BEI :  nazo :   :  {riddle} {puzzle} {enigma} {hint} {tip} :  8 :  
- 2710 :  0x8ad2 : akira.ka :  RYOU :  akira.ka makotoni :  aki masa makoto :  {fact} {reality} {understand} {appreciate} :  9 :  1
+ 2710 :  0x8ad2 : akira.ka :  RYOU :  akira.ka makotoni :  aki masa makoto :  {verify} {fact} {reality} {understand} {appreciate} :  9 :  1
  2711 :  0x8b83 :  :  SAN :  ho.meru tata.eru :  sanu : {compliment}  {praise} {title on a picture} :  9 :  
  2712 :  0x8ab0 : dare tare :  SUI :  dare tare ta :   :  {who?} {someone} {somebody} :  8 :  
  2713 :  0x8a0a :  :  JIN SHYUN SHIN :  ki.ku to.u tazu.neru :   :  {query} {request} {question} {investigate} :  9 :  
- 2714 :  0x8a23 : wakare wakare.ru :  KETSU :  wakare wakare.ru :   :  {separation} {part} {secret} :  9 :  
+ 2714 :  0x8a23 : wakare wakare.ru :  KETSU :  wakare wakare.ru :   :  {split up} {separation} {part} {secret} :  9 :  
  2715 :  0x8a63 : kei.suru mou.deru :  KEI GEI :  kei.suru mai.ru ita.ru mou.deru :   :  {visit a shrine} :  8 :  
  2716 :  0x8ae6 : akira.meru tsumabiraka :  TEI TAI :  akira.meru tsumabiraka makoto :   : {renunciation} {truth} {clarity} {abandon} {give up} :  8 :  
- 2717 :  0x8a6e : sen.zuru :  SEN :  sen.zuru kai aki.raka :  aki :  {discussion} {methods called for} {selection} {result} :  8 :  
+ 2717 :  0x8a6e : sen.zuru :  SEN :  sen.zuru kai aki.raka :  aki :  {elucidate} {discussion} {methods called for} {selection} {result} :  8 :  
  2718 :  0x8a51 : wa.bi :  I TA DA :  wa.biru wa.bi azamu.ku :   :  {prevarication} {deceive} {delude} :   :  
- 2719 :  0x8abc : yoshimi :  GI :  yoshimi yoi :   :  {friendship} {intimacy} :  9 :  1
+ 2719 :  0x8abc : yoshimi :  GI :  yoshimi yoi :   :  {familiarity} {friendship} {intimacy} :  9 :  1
  2720 :  0x8b2c : BYUU MYUU :  BYUU BYOU MYUU :  ayama.ru :   :  {fallible} {mistake} :   :  
  2721 :  0x8a6b : kakotsu wabi wabi.ru wabi.shii :  TA :  wabi wabi.shii kakotsu wa.biru wabi.ru :  taku : {beg another’s pardon} {apologize} :  9 :  
- 2722 :  0x8acf : sou :  SHYU SU :  sou haka.ru :   :  {consult} :  9 :  
+ 2722 :  0x8acf : sou :  SHYU SU :  sou haka.ru :   :  {advise} {consult} :  9 :  
  2723 :  0x8afa : kotowaza :  GEN :  kotowaza :   :  {proverb} :  9 :  
  2724 :  0x8ab9 :  :  HI HAI :  soshi.ru :   :  {slander} {ridicule} :   :  
- 2725 :  0x8b02 : ii iwayuru :  I :  i.u ii omo.u iwayuru :   :  {reason} {origin} {history} {oral tradition} :  9 :  
+ 2725 :  0x8b02 : ii iwayuru :  I :  i.u ii omo.u iwayuru :   :  {so-called} {reason} {origin} {history} {oral tradition} :  9 :  
  2726 :  0x8adc : chyou.zuru :  CHYOU :  chyou.zuru ukaga.u shime.su :   :  {secret agent} {reconnoiter} :   :  
- 2727 :  0x8a3b :  :  CHYUU :   :   :  {notes} {comment} {annotate} :  9 :  
- 2728 :  0x8b6c : tato.e :  HI :  tato.eru tato.e :   :  {illustrate} :   :  
+ 2727 :  0x8a3b :  :  CHYUU :   :   :  {footnote} {notes} {comment} {annotate} :  9 :  
+ 2728 :  0x8b6c : tato.e :  HI :  tato.eru tato.e :   :  {parable} {illustrate} :   :  
  2729 :  0x8f5f : todoro.kasu todoro.ku :  GOU KOU :  todoro.kasu todoro.ku :   :  {rumble} {roar} {thunder} {boom resound} :  9 :  
  2730 :  0x8f14 :  :  HO HU :  tasu.keru :  suke tasuku yuu :  {reinforce} {help} :  9 :  1
- 2731 :  0x8f3b :  :  HUKU :  ya :   :  {spoke (wheel)} :   :  
+ 2731 :  0x8f3b :  :  HUKU :  ya :   :  {spoke} {spoke (wheel)} :   :  
  2732 :  0x8f2f :  :  SHYUU :  atsu.meru yawa.ragu :   :  {assemble} {gather} {collect} {compile} :  9 :  
  2733 :  0x8c8c : katadoru :  BOU BAKU :  katachi katadoru :   : {countenance}  {form} {appearance} :  8 :  
- 2734 :  0x8c79 :  :  HYOU HOU :   :   :  {leopard} {panther} :  9 :  
- 2735 :  0x8cce : shizu :  SEN ZEN :  iya.shii iya.shimu iya.shimeru shizu yasu.i :   :  {despise} {low-life} {poverty} :   :  
+ 2734 :  0x8c79 :  :  HYOU HOU :   :   :  {panther} {leopard} :  9 :  
+ 2735 :  0x8cce : shizu :  SEN ZEN :  iya.shii iya.shimu iya.shimeru shizu yasu.i :   :  {despicable} {despise} {low-life} {poverty} :   :  
  2736 :  0x8cbc :  :  TEN CHYOU :  ha.ru tsu.ku :   : {post a bill} {stick} {paste} {apply} :  8 :  
  2737 :  0x8cb0 : mora.u :  SEI SHYA :  mora.u :   :  {get} {have} {obtain} :  9 :  
  2738 :  0x8cc2 : maina.i maina.u :  RO :  maina.i maina.u :   : {graft} {bribe} :  8 :  
@@ -2741,23 +2741,23 @@
  2741 :  0x8e44 : hidume :  TEI :  hidume :   :  {hoof} :  9 :  
  2742 :  0x8e74 : ke.ru :  SHYUKU SHYUU :  ke.ru :   :  {kick} :  8 :  
  2743 :  0x8e5f :  :  SEKI SHYAKU :  ato :   :  {vestiges} {remains} {traces} {footprint} :  9 :  
- 2744 :  0x8de8 : mata.garu mata.gu mataga.ru :  KO KA :  mata.garu mataga.ru mata.gu :   :  {be} {sit or stand astride} {extend over} {straddle} :  9 :  
+ 2744 :  0x8de8 : mata.garu mata.gu mataga.ru :  KO KA :  mata.garu mataga.ru mata.gu :   :  {straddle} {be} {sit or stand astride} {extend over} :  9 :  
  2745 :  0x8dea : hizamazu.ku :  KI :  hizamazu.ku :   :  {kneel} :   :  
  2746 :  0x91a4 : hishio :  SHYOU :  hishio :   :  {soy sauce} {a kind of miso} :   :  
  2747 :  0x918d :  :  DAI TAI TEI :   :   :  {whey} {good Buddhist teaching} :  9 :  
  2748 :  0x914e :  :  CHYUU CHYU :  kamo.su :   :  {hooch} {sake} :  8 :  
  2749 :  0x9190 :  :  GO KO :   :   :  {ghee} {boiled butter} :  9 :  
  2750 :  0x9192 :  :  SEI :  sa.masu sa.meru :   :  {awakening} {awake} {be disillusioned} {sober up} :  8 :  
- 2751 :  0x9187 : atsui moppara :  JUN SHYUN :  moppara koi atsui :   :  {pure sake'} {purity} {affection} :  9 :  1
+ 2751 :  0x9187 : atsui moppara :  JUN SHYUN :  moppara koi atsui :   : {strong sake}  {pure sake'} {purity} {affection} :  9 :  1
  2752 :  0x9eba : mugiko :  MEN BEN :  mugiko :   :  {noodles} {wheat flour} :  8 :  
  2753 :  0x9eb9 : kouji :  KIKU :  kouji :   :  {malt} {yeast} :   :  
  2754 :  0x91e6 : botan :  KOU KU :  botan :   :  {button} :   :  
- 2755 :  0x929a :  :  CHYOU YOU :  nabe :   :  {sake bottle} :   :  
- 2756 :  0x92e4 :  :  JO SHYO SO :  su.ku suki kuwa :   :  {spade up} {plow} :   :  
+ 2755 :  0x929a :  :  CHYOU YOU :  nabe :   :  {keg} {sake bottle} :   :  
+ 2756 :  0x92e4 :  :  JO SHYO SO :  su.ku suki kuwa :   :  {plow} {spade up} :   :  
  2757 :  0x934b :  :  KA :  nabe :   :  {pot} {pan} {kettle} :  8 :  
  2758 :  0x93d1 : kaburaya yajiri :  TEKI :  kabura kaburaya yajiri :   :  {arrowhead} :   :  
  2759 :  0x92f8 : noko nokogiri :  KYO KO :  noko nokogiri :   :  {hand saw} {saw (cuts wood)} :  9 :  
- 2760 :  0x9310 :  :  SUI :  kiri :   :  {auger} {drill} {awl} {pyramid} {cone} :  9 :  
+ 2760 :  0x9310 :  :  SUI :  kiri :   :  {awl} {auger} {drill} {pyramid} {cone} :  9 :  
  2761 :  0x9375 :  :  KEN :  kagi :   :  {key} :  8 :  
  2762 :  0x936c :  :  SHYOU SHYUU :  kuwa suki :   :  {hoe} {hoe with long blade at acute angle} :  9 :  
  2763 :  0x92f2 : byou :   :  byou :   :  {rivet} {tack} {thumbtack} {(kokuji)} :   :  
@@ -2773,9 +2773,9 @@
  2773 :  0x92cf : hasami :  KYOU :  hasami hasa.mu tsurugi :   :  {scissors} :   :  
  2774 :  0x9583 : hirame.ki hirame.ku :  SEN :  hirame.ku hirame.ki ukaga.u :   :  {flash} {brandish} :  9 :  
  2775 :  0x60b6 : moda.eru modae.ru :  MON :  moda.eru modae.ru :   :  {agony} {be in agony} {worry} :   :  
- 2776 :  0x95a4 : kugurido :  KOU :  kugurido :   :  {small side gate} :  9 :  
+ 2776 :  0x95a4 : kugurido :  KOU :  kugurido :   :  {side gate} {small side gate} :  9 :  
  2777 :  0x95c7 : yami :  AN ON :  yami kura.i :   :  {pitch dark} {get dark} {gloom} {disorder} :  8 :  
- 2778 :  0x96eb :  :  DA :  shizuku :   :  {drop} {trickle} {dripping} {(kokuji)} :  9 :  
+ 2778 :  0x96eb :  :  DA :  shizuku :   :  {trickle} {drop} {dripping} {(kokuji)} :  9 :  
  2779 :  0x971e : kasu.mu kasumi :  KA GE :  kasumi kasu.mu :   :  {haze} {be hazy} {grow dim} {blurred} :  9 :  1
  2780 :  0x7ff0 : yamadori :  KAN :  hane fude yamadori fumi :   :  {letter} {writing brush} :   :  
  2781 :  0x65a1 : WATSU :  ATSU KAN WATSU :  megu.ru megu.rasu :   :  {auspices} {go around} {rule} {administer} :  9 :  
