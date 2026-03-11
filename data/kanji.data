@@ -2814,9 +2814,9 @@
  2814 :  0x9c52 :  :  SON SEN ZAN :  masu :   :  {trout} {salmon trout} :  9 :  
  2815 :  0x9bad : fugu shyake :  KAI KEI :  sake shyake fugu :   :  {salmon} :   :  
  2816 :  0x9baa : maguro shibi :  KI YUU I :  maguro shibi :   :  {tuna} :   :  
- 2817 :  0x9b8e : ayu namazu :  DEN NEN :  ayu namazu :  ai :  {freshwater trout} {smelt} :  9 :  1
+ 2817 :  0x9b8e : ayu namazu :  DEN NEN :  ayu namazu :  ai :  {sweet smelt} {freshwater trout} {smelt} :  9 :  1
  2818 :  0x9bf5 :  :  SOU :  aji :   :  {horse mackerel} :   :  
- 2819 :  0x9c48 : tara :  SETSU :  tara :   :  {codfish} {(kokuji)} :   :  
+ 2819 :  0x9c48 : tara :  SETSU :  tara :   :  {cod} {codfish} {(kokuji)} :   :  
  2820 :  0x9bd6 : saba :  SEI SHYOU :  saba :   :  {mackerel} :   :  
  2821 :  0x9bab : mizuchi same :  KOU :  same mizuchi :   :  {shark} :   :  
  2822 :  0x9c39 : katsuo :  KEN :  katsuo :   :  {bonito} :   :  
@@ -2827,7 +2827,7 @@
  2827 :  0x9c2d : hire :  KI GI :  hire :   :  {fish fin} {fin} :   :  
  2828 :  0x9d0e : kamome :  OU :  kamome :   :  {seagull} :   :  
  2829 :  0x9d6c :  :  HOU :  ootori :   :  {roc} {phoenix} :  9 :  1
- 2830 :  0x9e1a :  :  IN OU YOU :   :   :  {parrot} {parakeet} :   :  
+ 2830 :  0x9e1a :  :  IN OU YOU :   :   : {parakeet}  {parrot} :   :  
  2831 :  0x9d61 :  :  BU MU :   :   :  {cockatoo} :   :  
  2832 :  0x9d5c :  :  TEI DAI :  u :   :  {cormorant} :  9 :  
  2833 :  0x9dfa : sagi :  RO :  sagi :   :  {heron} :  9 :  
