@@ -2540,7 +2540,7 @@
  2540 :  0x717d : ao.ru oda.teru :  SEN :  ao.ru oda.teru oko.ru :   :  {fanning} {fan} {flap} {instigate} {agitate} {bolster up} {gulp down} :   :  
  2541 :  0x7164 : susu :  BAI MAI :  susu :   :  {soot} {smoke dried} :  9 :  
  2542 :  0x7149 :  :  REN :  ne.ru :   :  {firing} {refine metals} {kneading over fire} :  9 :  
- 2543 :  0x71e6 : kira.meku kirame.ku san.taru :  SAN :  san.taru aki.raka kirame.ku kira.meku :   :  {brilliant} :  9 :  1
+ 2543 :  0x71e6 : kira.meku kirame.ku san.taru :  SAN :  san.taru aki.raka kirame.ku kira.meku :   : {dazzling} {brilliant} :  9 :  1
  2544 :  0x707c : arata yaku :  SHYAKU :  arata yaku :   :  {refulgent} {miraculous} :  9 :  
  2545 :  0x70d9 :  :  RAKU KAKU :  ya.ku :   :  {branding} {burn} :   :  
  2546 :  0x7114 :  :  EN :  honoo :   :  {flames} {flame} {blaze} :   :  
@@ -2606,11 +2606,11 @@
  2606 :  0x79bf : chibi.ru hage kamuro :  TOKU :  chibi.ru kamuro ha.geru hage :   :  {bald} {become bald} {bare} {wear out} {waste away} {little girl employed at a brothel} :   :  
  2607 :  0x7a14 : minori :  NEN JIN NIN :  mino.ru minori :  toshi naru nari minoru ne mi :  {bear fruit} {harvest} {ripen} :  9 :  1
  2608 :  0x7a17 : hie :  HAI HI :  hie :   :  {crabgrass} {humble} {deccan grass} :   :  
- 2609 :  0x7a63 : yutaka :  JOU :  wara yutaka :  shige minoru :  {good crops} {prosperity} {10**28} :  9 :  1
+ 2609 :  0x7a63 : yutaka :  JOU :  wara yutaka :  shige minoru :  {bumper crop} {good crops} {prosperity} {10**28} :  9 :  1
  2610 :  0x7a1c :  :  RYOU ROU :  itsu kado :   :  {imperial authority} {angle} {edge} {corner} {power} {majesty} :  9 :  1
  2611 :  0x7a00 :  :  KI KE :  mare mabara :   :  {sparse} {rare} {phenomenal} {dilute (acid)} :  9 :  1
- 2612 :  0x7a46 :  :  BOKU MOKU :  yawa.ragu :   :  {respectful} {mild} {beautiful} :   :  
- 2613 :  0x7aba : nozoku :  KI :  ukaga.u nozoku :   :  {lie in wait} {spy on} {reconnoiter} :  9 :  
+ 2612 :  0x7a46 :  :  BOKU MOKU :  yawa.ragu :   :  {obeisant} {respectful} {mild} {beautiful} :   :  
+ 2613 :  0x7aba : nozoku :  KI :  ukaga.u nozoku :   :  {peep} {lie in wait} {spy on} {reconnoiter} :  9 :  
  2614 :  0x7a84 : subo.meru tsubo.meru :  SAKU :  subo.meru tsubo.meru sema.i :   :  {tight} {narrow} {fold} {furl} {shrug} {pucker} {shut} {close} :  9 :  
  2615 :  0x7a9f : ihaya iwaya :  KUTSU KOTSU :  iwaya ihaya ana :   :  {cavern} :  8 :  
  2616 :  0x7a7f :  :  SEN :  uga.tsu ha.ku :   :  {drill} {put on (to the feet)} {dig} {pierce} :  9 :  
@@ -2623,11 +2623,11 @@
  2623 :  0x887f :  :  KIN KON :  eri :   :  {lapel} {neck} {collar}  :  9 :  1
  2624 :  0x88fe : suso :  KYO KO :  suso :   :  {hem} {cuff} {foot of mountain} :  8 :  
  2625 :  0x88b7 : awase :  KOU KYOU :  awase :   :  {lined kimono} {lined (kimono)} :   :  
- 2626 :  0x88b4 : hakama zubon :  KO KU :  hakama zubon :   :  {men's formal divided skirt} :  9 :  
+ 2626 :  0x88b4 : hakama zubon :  KO KU :  hakama zubon :   :  {pleated skirt} {men's formal divided skirt} :  9 :  
  2627 :  0x8956 : fusuma :  OU :  fusuma ao :   :  {sliding door} {opaque sliding door} :  9 :  
  2628 :  0x7b19 :  :  SHYOU SOU :  fue :   :  {Chinese panpipe} {a reed instrument} :  9 :  1
  2629 :  0x7b4f : ikada :  BATSU HATSU BOCHI :  ikada :   :  {raft} :   :  
- 2630 :  0x7c3e :  :  REN :  sudare su :  misu :  {bamboo screen} {rattan blind} :  9 :  
+ 2630 :  0x7c3e :  :  REN :  sudare su :  misu :  {bamboo blinds} {bamboo screen} {rattan blind} :  9 :  
  2631 :  0x7baa :  :  TAN :  hako :   :  {rattan box} {bamboo rice basket} :   :  
  2632 :  0x7aff : sao :  KAN :  sao :   :  {pole} {rod} {scale beam} {violin neck} :  9 :  
  2633 :  0x7b86 : hera :  HEI HAI :  hera no kushi :   :  {spatula} {arrow shaft} :   :  
@@ -2650,7 +2650,7 @@
  2650 :  0x7cca :  :  KO GO KOTSU :  nori :   :  {paste} {glue} {sizing} :  9 :  
  2651 :  0x7c7e :  :   :  momi :   :  {unhulled rice} {(kokuji)} :  9 :  
  2652 :  0x7ce0 :  :  KOU :  nuka :   :  {rice bran} :   :  
- 2653 :  0x7cde : kuso :  HUN :  kuso :   :  {shit} {feces} {excrement} :   :  
+ 2653 :  0x7cde : kuso :  HUN :  kuso :   : {excrement}  {shit} {feces} :   :  
  2654 :  0x7c9f :  :  ZOKU SHYOKU SOKU :  awa momi :  a sachisai_tsu sou :  {foxtail millet} {millet} :  9 :  
  2655 :  0x7e4b :  :  KEI :  tsuna.gu kaka.ru ka.keru :   :  {link up} {tie} {fasten} {chain} {tether} {connect} :   :  
  2656 :  0x7db8 :  :  RIN KAN :  ito :   :  {twine} {thread} {silk cloth} :  9 :  1
@@ -2669,7 +2669,7 @@
  2669 :  0x7d43 :  :  GEN :  ito :   :  {catgut} {string} {cord} {samisen music} :  9 :  1
  2670 :  0x7dbb : hokoro.biru :  TAN :  hokoro.biru :   :  {come apart at the seams} {be rent} {ripped} {unravel} {run} {begin to open} {smile} :  8 :  
  2671 :  0x7e1e : shiroginu :  KOU :  shima shiroginu :   :  {stripe} :  9 :  
- 2672 :  0x7dac :  :  JU :  himo :   :  {ribbon} :   :  
+ 2672 :  0x7dac :  :  JU :  himo :   :  {gimp} {ribbon} :   :  
  2673 :  0x7d17 : usuginu :  SA SHYA :  usuginu :  tae suzu :  {gossamer} {gauze} :  9 :  1
  2674 :  0x8235 :  :  DA TA :  kaji :   :  {rudder} {helm} {wheel} :  9 :  
  2675 :  0x8237 : funabata funaberi :  GEN :  funaberi funabata :   :  {gunwale} :  8 :  
@@ -2701,7 +2701,7 @@
  2701 :  0x88df :  :  SA SHYA :   :   :  {monk’s sash} {Buddhist surplice} :  9 :  1
  2702 :  0x6234 :  :  TAI :  itada.ku :   :  {accept humbly} {be crowned with} {live under (a ruler)} {receive} :  8 :  
  2703 :  0x622a :  :  SETSU SAI :  ki.ru tatsu :   :  {incision} {cut off} {sever} :   :  
- 2704 :  0x54c9 : kana :  SAI :  kana ya :  ka suke toshi chika hajime :  {how} {what} {alas} {question mark} {?} :  9 :  1
+ 2704 :  0x54c9 : kana :  SAI :  kana ya :  ka suke toshi chika hajime :  {I wonder} {how} {what} {alas} {question mark} {?} :  9 :  1
  2705 :  0x8a62 :  :  JUN SHYUN :  haka.ru makoto :   :  {counsel} {consult with} :  9 :  1
  2706 :  0x8ac4 : hichikudo.i kudo.i kudokudo :  SHYUN :  hichikudo.i kudo.i kudokudo nengo.ro :   :  {polite} {tedious} :  9 :  1
  2707 :  0x8b90 :  :  SHYUU :  ada muku.iru a.taru :   :  {vendetta} {enemy} {revenge} :   :  
@@ -3135,6 +3135,7 @@
 22807 :  0x5917 :  :  :  : : {mailbox} : :
 22828 :  0x592c :  : KAI KETUS KECHI : wa.keru : : {guillotine} : :
 22829 :  0x592d :  : YOU OU KA : waka.i wakajini wazawai : : {sapling} : :
+22840 :  0x5938 :  : KO KA : hogo.ru  : : {boast primitive} : :
 22841 :  0x5939 :  :  :  : : {scissors primitive} : :
 22882 :  0x5962 :  : SHA : ogo.ru ogo.ri : : {treat} : :
 22887 :  0x5967 :  : OU OKU : oku.maru kuma : : {core [old]} : :
