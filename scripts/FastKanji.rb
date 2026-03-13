@@ -3095,6 +3095,7 @@ class KD
     :"funnel" => [20883, 20883, ["KOU"], ["kama.eru"], [""], ["funnel"], 0, 0],
     :"crown*radical" => [20886, 20886, ["BEKI"], [""], [""], ["crown radical"], 0, 0],
     :"garter" => [20888, 20888, ["IN","YU"], ["okota.ru","tamera.u","utaga.u"], [""], ["garter"], 0, 0],
+    :"false*charge" => [20900, 20900, ["EN"], [""], [""], ["false charge"], 0, 0],
     :"ice" => [20907, 20907, ["HYOU"], ["koori"], [""], ["ice"], 0, 0],
     :"wind*primitive" => [20960, 20960, ["KI"], ["kinyou"], [""], ["wind primitive"], 0, 0],
     :"recline*on" => [20973, 20973, ["HYOU","HEI"], ["mota.reru","yo.ru"], [""], ["recline on"], 0, 0],
