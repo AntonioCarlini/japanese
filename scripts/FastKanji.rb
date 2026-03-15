@@ -3132,6 +3132,7 @@ class KD
     :"needless*to*say" => [22072, 22072, ["BU","MU"], ["sazo","sazoya","sazokashi"], [""], ["needless to say"], 0, 0],
     :"choke*up" => [22094, 22094, ["ITSU","ETSU"], ["mu.seru","muse.bu"], [""], ["choke up"], 0, 0],
     :"noisy" => [22122, 22122, ["SOU"], ["sawa.gu"], [""], ["noisy"], 0, 0],
+    :"gnaw" => [22169, 22169, ["KOU","GOU"], ["ka.mu","ka.jiru"], [""], ["gnaw"], 0, 0],
     :"pent*in" => [22231, 22231, ["I","KOKU"], [""], [""], ["pent in"], 0, 0],
     :"spool" => [22307, 22307, ["KOTSU","KUTSU","KOCHI","SEI"], ["tagaya.su"], [""], ["spool"], 0, 0],
     :"rice*seedling" => [22309, 22309, ["ROKU"], ["kinoko"], [""], ["rice seedling"], 0, 0],
@@ -3357,6 +3358,7 @@ class KD
     :"rat" => [40737, 40737, ["SO","SHO"], ["nezumi","nezu"], [""], ["rat"], 0, 0],
     :"adjusted*[old]" => [40778, 40778, ["SEI","SAI"], ["soro.u","hito.shii","hito.shiku","ataru","hayai"], [""], ["adjusted [old]"], 0, 0],
     :"bring*about" => [40782, 40782, ["SEI","SAI","SHI"], ["matara.su","mata.rasu"], [""], ["bring about"], 0, 0],
+    :"cog" => [40786, 40786, ["SHI"], ["yowai","ha","yowa.i","yowai.suru"], [""], ["cog"], 0, 0],
     }
     @kanji_map = {}  # Stores initialized Kanji objects
   end
