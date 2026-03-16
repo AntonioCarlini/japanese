@@ -3077,6 +3077,7 @@
 20854 :  0x5176 :  : KI GI GO : sore sono : : {rook} : :
 20866 :  0x5182 :  : KYOU KEI :  : : {belt} : :
 20868 :  0x5184 :  : ZEN NEN : aya.ui : : {two swords} : :
+20873 :  0x5189 :  : ZEN NEN : aya.ui : : {tan} : :
 20878 :  0x518e :  : KA KE : wa.keru sa.ku : : {hollow bone} : :
 20883 :  0x5193 :  : KOU : kama.eru : : {funnel} : :
 20886 :  0x5196 :  : BEKI :  : : {crown radical} : :
@@ -3333,6 +3334,7 @@
 39171 :  0x9903 :  : GYOU KYOU KOU :  : : {gyoza} : : 
 39241 :  0x9949 :  : KIN : u.eru : : {hunger} : : 
 39647 :  0x9adf :  : HYUU HYOU :  : : {mane} : : 
+39663 :  0x9aef :  : ZEN : hige : : {mustache} : :
 39671 :  0x9af7 :  : KYOKU : mage wage : : {topknot} : : 
 39730 :  0x9b32 :  : KAKU REKI : kanae heda.ter : : {three legged kettle} : :
 39788 :  0x9b6c :  : HAN : karei : : {hamachi} : : 
