@@ -3362,6 +3362,7 @@ class KD
     :"adjusted*[old]" => [40778, 40778, ["SEI","SAI"], ["soro.u","hito.shii","hito.shiku","ataru","hayai"], [""], ["adjusted [old]"], 0, 0],
     :"bring*about" => [40782, 40782, ["SEI","SAI","SHI"], ["matara.su","mata.rasu"], [""], ["bring about"], 0, 0],
     :"cog" => [40786, 40786, ["SHI"], ["yowai","ha","yowa.i","yowai.suru"], [""], ["cog"], 0, 0],
+    :"nibble" => [40807, 40807, ["GETSU","KETSU"], ["kaji.ru","ka.mu"], [""], ["nibble"], 0, 0],
     }
     @kanji_map = {}  # Stores initialized Kanji objects
   end
