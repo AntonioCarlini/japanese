@@ -3225,6 +3225,7 @@ class KD
     :"pick*out" => [26604, 26604, ["KAN","KEN"], ["era.bu"], [""], ["pick out"], 0, 0],
     :"cane" => [26970, 26970, ["SO","SHO"], ["ibara","shimoto","suwae"], [""], ["cane","whip"], 0, 0],
     :"music*[old]" => [27138, 27138, ["GAKU","RAKU","GOU"], ["tano.shii","tano.shimu","zono.mu"], [""], ["music [old]"], 0, 0],
+    :"corral" => [27323, 27323, ["KAN"], ["ori","obashima","tesuri"], [""], ["corral"], 0, 0],
     :"happy*families" => [27410, 27410, ["RAN"], ["ouchi","hijiki","madoka","marui"], [""], ["happy families"], 0, 0],
     :"bone*primitive" => [27513, 27513, ["GATSU","GACHI","TAI"], [""], [""], ["bone primitive"], 0, 0],
     :"vicious" => [27514, 27514, [""], [""], [""], ["vicious"], 0, 0],
