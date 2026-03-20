@@ -3065,12 +3065,14 @@
 20447 :  0x4fdf : ma.tsu : SHI : ma.tsu : : {depend on} : : 
 20463 :  0x4fef :  : FU  : fu.su utsumu.ku fu.seru : : {bend down} : :
 20551 :  0x5047 :  : KA KE : kari kari.ru : : {interim} : :
+20566 :  0x5056 :  : SHA : sate : : {well then} : :
 20681 :  0x50c9 :  : SEN : mina : : {Minako} : :
 20760 :  0x5118 :  : JIN : mama kotogotoku : : {as it is} : :
 20762 :  0x511a :  : BOU MOU  : hakana.i kura.i : : {fleeting} : :
 20799 :  0x513f :  : JIN NIN : gai : : {human legs} : :
 20800 :  0x5140 :  : KOTSU :  : : {pi} : :
 20817 :  0x5151 :  :  :  : : {devil} : : 
+20818 :  0x5152 :  : JI NI GEI : ko : : {young of animals} : :
 20842 :  0x516a :  : YU : shikari : : {convey} : :
 20851 :  0x5173 :  :  :  : : {golden calf} : :
 20852 :  0x5174 :  :  :  : : {owl primitive} : :
@@ -3116,6 +3118,7 @@
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21934 :  0x55ae :  : TAN : hitoe : : {old simple} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
+21980 :  0x55dc :  : SHI : tashina.mu tashina.mi kono.mu kono.mi : : {taste} : :
 22072 :  0x5638 :  : BU MU : sazo sazoya sazokashi : : {needless to say} : : 
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
 22122 :  0x566a :  : SOU  : sawa.gu : : {noisy} : :
@@ -3154,6 +3157,7 @@
 23609 :  0x5c39 :  : IN : osa tada.su : : {mop} : :
 23662 :  0x5c6e :  : TETSU SA : hidarite : : {baby mountain goat} : :
 23664 :  0x5c70 :  : GEKI GYAKU HAKU HYAKU : saka.rau : : {mountain goat} : :
+23673 :  0x5c79 :  : KITSU : sobada.tsu : : {toweing mountains} : :
 23769 :  0x5cd9 : sobada.tsu : JI  : sobada.tsu : : {towering} : : 
 24027 :  0x5ddb :  : SEN : kawa : : {flood} : :
 24032 :  0x5de0 :  : KEI KYOU :  : : {sewer} : :
@@ -3247,6 +3251,7 @@
 30339 :  0x7683 :  : BOU BAKU : katara katadoru : : {snowman} : :
 30433 :  0x76e1 :  : JIN SAN :tsu.kusu tsu.kiru tsu.kasu sakuduki kotogoto.ku : : {exhausted} : :
 30552 :  0x7758 :  :  :  : : {round primitive} : :
+30568 :  0x7768 :  : GEI : nira.mu nira.mi  : : {glaring at} : :
 30652 :  0x77bc :  : KEN : mabuta : : {eyelids} : :
 30738 :  0x7812 :  : HI HEI :  : : {arsenic} : :
 30783 :  0x783f :  : KOU : aragane : : {ore} : :
