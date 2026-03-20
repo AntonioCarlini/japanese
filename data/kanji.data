@@ -3093,6 +3093,7 @@
 21003 :  0x520B :  : KAN SEN : ki.ru kezu.ru  : : {publish [alternate]} : :
 21014 :  0x5216 : ki.ru : GETSU GECHI GOTSU GOCHI : ki.ru ayau.i : : {butcher} : : 
 21038 :  0x522e :  : KATSU : koso.geru kezu.ru : : {scrape off} : :
+21068 :  0x524c :  : RATSU : moto.ru : : {opposed} : :
 21085 :  0x525d :  : HAKU HOKU : he.gu  hezu.ru mu.ku mu.keru ha.gareru ha.gu hageru ha.gasu: : {peels off [old]} : :
 21241 :  0x52f9 : tsutsu.mu : HOU : tsutsu.mu : : {bound up} : : 
 21254 :  0x5306 :  : SOU : isoga.shii : : {double knot} : :
@@ -3110,6 +3111,7 @@
 21466 :  0x53da :  : KA KE : ka.riru ka.su : : {hobby} : : 
 21471 :  0x53df :  : SOU SHUU : okina : : {respectable old man} : :
 21509 :  0x5405 :  :  :  : : {argue} : :
+21533 :  0x541d :  : RIN : shiwa.i yabusa.ka oshi.mu : : {miserly} : :
 21599 :  0x545f : tsubuya.ku : GEN : tsubuya.ku : : {to mutter} : : 
 21627 :  0x547b :  : SHIN : ume.ku umeki : : {groan} : :
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
@@ -3118,6 +3120,7 @@
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21934 :  0x55ae :  : TAN : hitoe : : {old simple} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
+21978 :  0x55da :  : U O : aa : : {weep} : :
 21980 :  0x55dc :  : SHI : tashina.mu tashina.mi kono.mu kono.mi : : {taste} : :
 22072 :  0x5638 :  : BU MU : sazo sazoya sazokashi : : {needless to say} : : 
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
@@ -3179,6 +3182,7 @@
 24417 :  0x5f61 :  : SAN SEN :  : : {hair primitive} {shape} : :
 24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
 24516 :  0x5fc4 :  : SHIN : kokoro : : {state of mind} : :
+24534 :  0x5fd6 :  : SON : haka.ru : : {surmise} : :
 24625 :  0x6031 :  : SOU : niwaka awa.teru : : {hastily} : :
 24760 :  0x60b8 :  : KI :  : : {pulsate} : :
 24853 :  0x6115 :  : KAGU : odoro.ku : : {astonishment} : :
@@ -3209,6 +3213,7 @@
 26359 :  0x66f7 :  : KATSU : nanzo itsu izukun zo nani : : {siesta} : :
 26407 :  0x6727 :  : ROU : oboru : : {hazy} : :
 26415 :  0x672f :  :  :  : : {resin} : :
+26422 :  0x6736 :  : DA TA : eda : : {branches (alternate)} : :
 26431 :  0x673f :  : SHI : toge     : : {thorn tree} : :
 26505 :  0x6789 :  : OU : ma.geru ma.garu ma.gete : : {crooked} : : 
 26601 :  0x67e9 :  : KYUU GU : hichigi hitsugi : : {casket} : :
