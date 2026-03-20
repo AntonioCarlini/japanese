@@ -3171,7 +3171,7 @@ class KD
     :"mop" => [23609, 23609, ["IN"], ["osa","tada.su"], [""], ["mop"], 0, 0],
     :"baby*mountain*goat" => [23662, 23662, ["TETSU","SA"], ["hidarite"], [""], ["baby mountain goat"], 0, 0],
     :"mountain*goat" => [23664, 23664, ["GEKI","GYAKU","HAKU","HYAKU"], ["saka.rau"], [""], ["mountain goat"], 0, 0],
-    :"toweing*mountains" => [23673, 23673, ["KITSU"], ["sobada.tsu"], [""], ["toweing mountains"], 0, 0],
+    :"towering*mountains" => [23673, 23673, ["KITSU"], ["sobada.tsu"], [""], ["towering mountains"], 0, 0],
     :"towering" => [23769, 23769, ["JI"], ["sobada.tsu"], [""], ["towering"], 0, 0],
     :"flood" => [24027, 24027, ["SEN"], ["kawa"], [""], ["flood"], 0, 0],
     :"sewer" => [24032, 24032, ["KEI","KYOU"], [""], [""], ["sewer"], 0, 0],
