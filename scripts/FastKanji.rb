@@ -3345,6 +3345,7 @@ class KD
     :"animal*tracks" => [37318, 37318, ["HAN","BAN","SAI"], ["to.ru","irodori","nogome"], [""], ["animal tracks"], 0, 0],
     :"long*(variant)" => [38264, 38264, ["CHOU"], ["naga.i","osa"], [""], ["long (variant)"], 0, 0],
     :"hairpin" => [38271, 38271, [""], [""], [""], ["hairpin"], 0, 0],
+    :"to*be*obstructed" => [38282, 38282, [""], ["tsuka.eru"], [""], ["to be obstructed"], 0, 0],
     :"leap*year" => [38287, 38287, ["JYUN"], ["uruu"], [""], ["leap year"], 0, 0],
     :"rise*high" => [38348, 38348, ["RAN"], ["ta.keru","takenawa","tesuri"], [""], ["rise high","screen"], 0, 0],
     :"the*pinnacle" => [38429, 38429, [""], ["kozato"], [""], ["The Pinnacle"], 0, 0],
