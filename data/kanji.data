@@ -2777,11 +2777,11 @@
  2777 :  0x95c7 : yami :  AN ON :  yami kura.i :   :  {pitch dark} {get dark} {gloom} {disorder} :  8 :  
  2778 :  0x96eb :  :  DA :  shizuku :   :  {trickle} {drop} {dripping} {(kokuji)} :  9 :  
  2779 :  0x971e : kasu.mu kasumi :  KA GE :  kasumi kasu.mu :   :  {haze} {be hazy} {grow dim} {blurred} :  9 :  1
- 2780 :  0x7ff0 : yamadori :  KAN :  hane fude yamadori fumi :   :  {letter} {writing brush} :   :  
+ 2780 :  0x7ff0 : yamadori :  KAN :  hane fude yamadori fumi :   :  {quill} {letter} {writing brush} :   :  
  2781 :  0x65a1 : WATSU :  ATSU KAN WATSU :  megu.ru megu.rasu :   :  {auspices} {go around} {rule} {administer} :  9 :  
  2782 :  0x978d :  :  AN :  kura :   :  {saddle} :  9 :  
  2783 :  0x97ad : muchi muchiutsu :  BEN HEN :  muchi muchiutsu :   :  {whip} {rod} {counter for whippings} :  9 :  
- 2784 :  0x9798 : saya :  SHYOU SOU :  saya :   :  {sheath} {case} {margin} {difference} {shells (of beans)} :  9 :  
+ 2784 :  0x9798 : saya :  SHYOU SOU :  saya :   :  {saddle straps} {sheath} {case} {margin} {difference} {shells (of beans)} :  9 :  
  2785 :  0x9784 : kaban :  HAKU HOU BYOU :  kaban :   :  {briefcase} {suitcase} {bag} {briefcase} :  9 :  
  2786 :  0x976d : shina.yaka utsubo yugi :  JIN NIN SA SAI SATSU :  utsubo shina.yaka yugi :  yuki :  {pliable} {soft} {quiver} :   :  
  2787 :  0x97a0 :  :  KIKU KYUU :  mari :  mai :  {terminate} {ball} :  9 :  1
@@ -3157,6 +3157,7 @@
 23413 :  0x5b75 :  : FU : kae.su : : {hatch} : :
 23424 :  0x5b80 :  : BEN MEN :  : : {house primitive} : :
 23564 :  0x5c0c :  : SHU CHU JUU : ta.teru ta.tsu warawa shimobe : : {stand something up} : :
+23571 :  0x5c13 :  : JI NI : nanji shikari sono nomi : : {you} : :
 23582 :  0x5c1e :  : RYOU : kagaribi : : {pup tent} : :
 23608 :  0x5c38 :  : SHI : katashiru : : {flag} : :
 23609 :  0x5c39 :  : IN : osa tada.su : : {mop} : :
