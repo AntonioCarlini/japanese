@@ -3172,6 +3172,7 @@ class KD
     :"house*primitive" => [23424, 23424, ["BEN","MEN"], [""], [""], ["house primitive"], 0, 0],
     :"stand*something*up" => [23564, 23564, ["SHU","CHU","JUU"], ["ta.teru","ta.tsu","warawa","shimobe"], [""], ["stand something up"], 0, 0],
     :"you" => [23571, 23571, ["JI","NI"], ["nanji","shikari","sono","nomi"], [""], ["you"], 0, 0],
+    :"you*(variant)" => [23572, 23572, [""], [""], [""], ["you (variant)"], 0, 0],
     :"pup*tent" => [23582, 23582, ["RYOU"], ["kagaribi"], [""], ["pup tent"], 0, 0],
     :"flag" => [23608, 23608, ["SHI"], ["katashiru"], [""], ["flag"], 0, 0],
     :"mop" => [23609, 23609, ["IN"], ["osa","tada.su"], [""], ["mop"], 0, 0],
