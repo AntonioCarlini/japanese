@@ -3331,6 +3331,7 @@ class KD
     :"cloth*wrapper" => [34993, 34993, ["FUKU"], [""], [""], ["cloth wrapper"], 0, 0],
     :"old*west" => [35200, 35200, [""], [""], [""], ["old west"], 0, 0],
     :"accent" => [35355, 35355, ["KA"], ["tama.ru","tama.ri","ayamaru"], [""], ["accent"], 0, 0],
+    :"order" => [35458, 35458, ["CHOU"], [""], ["atsura.eru","ido.mu"], ["order"], 0, 0],
     :"deceive" => [35473, 35473, ["KYOU"], ["tabaka.ru","tabura.kasu","ta.rasu"], [""], ["deceive"], 0, 0],
     :"flatter" => [35522, 35522, ["TEN"], ["hetsura.u"], [""], ["flatter"], 0, 0],
     :"sow*(female*pig)" => [35925, 35925, ["SHI"], [""], [""], ["sow (female pig)"], 0, 0],
