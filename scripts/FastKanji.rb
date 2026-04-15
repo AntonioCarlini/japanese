@@ -3339,6 +3339,7 @@ class KD
     :"wild*boar" => [35942, 35942, ["KYO","GO"], ["yamenai"], [""], ["wild boar"], 0, 0],
     :"skunk" => [35960, 35960, ["TAI","CHI"], [""], [""], ["skunk"], 0, 0],
     :"excess" => [36101, 36101, ["ZEI","SEI"], ["ibo"], [""], ["excess"], 0, 0],
+    :"dodge" => [36529, 36529, ["TA"], ["kawa.su"], [""], ["dodge"], 0, 0],
     :"squeek" => [36555, 36555, ["ATSU"], ["kishi.ru","kishi.ku"], [""], ["squeek"], 0, 0],
     :"run*over" => [36706, 36706, ["REKI"], ["hi.ku","kishi.ru"], [""], ["run over"], 0, 0],
     :"ketchup" => [36767, 36767, ["HEKI","HI"], ["kimi","hira.ku","me.su"], [""], ["ketchup"], 0, 0],
