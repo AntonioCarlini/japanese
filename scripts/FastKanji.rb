@@ -3224,6 +3224,7 @@ class KD
     :"roll*up" => [25458, 25458, ["KEN"], ["ma.ku","ma.kuru","maku.ru","meku.ru","maku.reru"], [""], ["roll up"], 0, 0],
     :"massage" => [25545, 25545, ["JYUU"], ["mo.su","mo.meru"], [""], ["massage"], 0, 0],
     :"pound*rice" => [25623, 25623, ["TOU"], ["tsu.ku","ka.tsu"], [""], ["pound rice"], 0, 0],
+    :"bind" => [25638, 25638, ["JAKU","JOKU","DAKU","NYAKU"], ["kara.meru","-gara.mi"], [""], ["bind"], 0, 0],
     :"taskmaster" => [25909, 25909, ["HOKU"], [""], [""], ["taskmaster"], 0, 0],
     :"leisurely" => [25942, 25942, ["GOU"], ["aso.bu","ogo.ru"], [""], ["leisurely"], 0, 0],
     :"shredder" => [25949, 25949, ["HEI"], ["yabu.reru"], [""], ["shredder"], 0, 0],
