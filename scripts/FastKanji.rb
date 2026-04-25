@@ -3364,6 +3364,7 @@ class KD
     :"[old]*mountain*magpie" => [38628, 38628, [""], [""], [""], ["[old] mountain magpie"], 0, 0],
     :"mist" => [38724, 38724, ["AI"], ["moya"], [""], ["mist"], 0, 0],
     :"[old]*quiet" => [38748, 38748, ["SEI","JOU"], ["shizu-","shizu.ka","shizu.maru","shizu.meru"], [""], ["[old] quiet"], 0, 0],
+    :"smooth*leather" => [38780, 38780, ["TAN","TACHI","TATSU"], ["name.su","nameshigawa"], [""], ["smooth leather"], 0, 0],
     :"locket" => [38859, 38859, ["I"], ["somu.ku"], [""], ["locket"], 0, 0],
     :"green*onion" => [38893, 38893, ["KYUU","KU"], [""], [""], ["green onion"], 0, 0],
     :"wild*onions" => [38897, 38897, ["SEN"], ["yamanira"], [""], ["wild onions"], 0, 0],
