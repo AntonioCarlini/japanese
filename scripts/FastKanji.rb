@@ -3323,6 +3323,7 @@ class KD
     :"grass*radical*full" => [33400, 33400, ["SOU"], ["kusa"], [""], ["grass radical full"], 0, 0],
     :"flower*primitive" => [33401, 33401, [""], [""], [""], ["flower primitive"], 0, 0],
     :"boil*up" => [33593, 33593, ["JYO","NYO"], ["yu.eru","u.teru"], [""], ["boil up"], 0, 0],
+    :"goosefoot" => [33713, 33713, ["RAI","RI"], ["akaza","awachi","kougai"], [""], ["goosefoot"], 0, 0],
     :"noble" => [34297, 34297, ["AI"], [""], [""], ["noble"], 0, 0],
     :"tiger*radical" => [34381, 34381, ["KO"], [""], [""], ["tiger radical"], 0, 0],
     :"green*caterpillar" => [34560, 34560, ["SHOKU","ZOKU"], ["imomushi"], [""], ["green caterpillar"], 0, 0],
