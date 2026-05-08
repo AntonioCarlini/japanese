@@ -3281,6 +3281,7 @@ class KD
     :"exhausted" => [30433, 30433, ["JIN","SAN"], ["tsu.kusu","tsu.kiru","tsu.kasu","sakuduki","kotogoto.ku"], [""], ["exhausted"], 0, 0],
     :"round*primitive" => [30552, 30552, [""], [""], [""], ["round primitive"], 0, 0],
     :"glaring*at" => [30568, 30568, ["GEI"], ["nira.mu","nira.mi"], [""], ["glaring at"], 0, 0],
+    :"eyelashes" => [30571, 30571, ["SHOU"], ["matsuge"], [""], ["eyelashes"], 0, 0],
     :"eyelids" => [30652, 30652, ["KEN"], ["mabuta"], [""], ["eyelids"], 0, 0],
     :"arsenic" => [30738, 30738, ["HI","HEI"], [""], [""], ["arsenic"], 0, 0],
     :"ore" => [30783, 30783, ["KOU"], ["aragane"], [""], ["ore"], 0, 0],
