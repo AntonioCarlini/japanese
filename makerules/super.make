@@ -27,6 +27,8 @@ default: all_component_makefiles
 
 default: all_subdir_makefiles
 
+default: $(VENV_STAMP)
+
 include $(MAKERULESDIR)/rules.make
 
 .DEFAULT_GOAL := default

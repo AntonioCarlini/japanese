@@ -23,7 +23,7 @@ $(OUTPUT)/heisig.gen.html: $(GENDIR)/heisig.gen.jhtml
 
 $(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv
 	@mkdir -p $(GENDIR)
-	python3 $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv $@ || { rm $@; exit 1; }
+	$(PYTHON) $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv $@ || { rm $@; exit 1; }
 
 $(OUTPUT)/koohii-stories.gen.html: $(GENDIR)/koohii-stories.gen.jhtml
 	@mkdir -p $(OUTPUT)
