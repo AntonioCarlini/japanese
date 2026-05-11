@@ -3238,6 +3238,7 @@ class KD
     :"branches*(alternate)" => [26422, 26422, ["DA","TA"], ["eda"], [""], ["branches (alternate)"], 0, 0],
     :"thorn*tree" => [26431, 26431, ["SHI"], ["toge"], [""], ["thorn tree"], 0, 0],
     :"crooked" => [26505, 26505, ["OU"], ["ma.geru","ma.garu","ma.gete"], [""], ["crooked"], 0, 0],
+    :"shackles" => [26551, 26551, ["KA"], ["kase","karazao"], [""], ["shackles"], 0, 0],
     :"casket" => [26601, 26601, ["KYUU","GU"], ["hichigi","hitsugi"], [""], ["casket"], 0, 0],
     :"pick*out" => [26604, 26604, ["KAN","KEN"], ["era.bu"], [""], ["pick out"], 0, 0],
     :"cane" => [26970, 26970, ["SO","SHO"], ["ibara","shimoto","suwae"], [""], ["cane","whip"], 0, 0],
