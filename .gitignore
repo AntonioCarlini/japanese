@@ -4,3 +4,4 @@ bin
 backup/
 old-bin/
 generated/
+.venv/
