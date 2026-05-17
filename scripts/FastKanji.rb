@@ -3258,6 +3258,7 @@ class KD
     :"permeate" => [27777, 27777, ["SHIN"], ["shi.miru"], [""], ["permeate"], 0, 0],
     :"public*esteem" => [27837, 27837, ["KO"], ["ata.i","ara.i","u.ru"], [""], ["public esteem"], 0, 0],
     :"dry*up" => [28088, 28088, ["KO","KAKU"], ["ka.reru","ka.rasu","koo.ru"], [""], ["dry up"], 0, 0],
+    :"select" => [28120, 28120, ["TOU"], ["yona.geru"], [""], ["select"], 0, 0],
     :"make*tea" => [28153, 28153, ["EN"], ["ire.ru"], [""], ["make tea"], 0, 0],
     :"go*upstream*(alternate)" => [28335, 28335, ["SO","SAKU"], ["sakanobo.ru"], [""], ["go upstream (alternate)"], 0, 0],
     :"bog" => [28580, 28580, ["TAKU"], ["sawa","uruo.i","uruo.su","tsuya"], [""], ["bog"], 0, 0],
