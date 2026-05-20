@@ -3261,6 +3261,7 @@ class KD
     :"select" => [28120, 28120, ["TOU"], ["yona.geru"], [""], ["select"], 0, 0],
     :"make*tea" => [28153, 28153, ["EN"], ["ire.ru"], [""], ["make tea"], 0, 0],
     :"go*upstream*(alternate)" => [28335, 28335, ["SO","SAKU"], ["sakanobo.ru"], [""], ["go upstream (alternate)"], 0, 0],
+    :"dregs" => [28371, 28371, ["SHI","SAI"], ["ori","kasu"], [""], ["dregs"], 0, 0],
     :"bog" => [28580, 28580, ["TAKU"], ["sawa","uruo.i","uruo.su","tsuya"], [""], ["bog"], 0, 0],
     :"fire*below" => [28780, 28780, ["HYOU","KA"], [""], [""], ["fire below"], 0, 0],
     :"stir-fry" => [28818, 28818, ["SOU","SHOU"], ["i.ru","ita.meru"], [""], ["stir-fry"], 0, 0],
