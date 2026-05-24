@@ -3118,6 +3118,7 @@
 21636 :  0x5484 :  : TOTSU : hanashi shika.ru : : {expression of surprise} : :
 21637 :  0x5485 :  : TOU :  : : {muzzle} : :
 21666 :  0x54a2 :  : GAKU : odoroku : : {alligator primitive} : :
+21676 :  0x54ac :  : KOU YOU : ka.mu : : {bite} : :
 21692 :  0x54bc : yokoshima : KAI KE KUU KA : yokoshima kuchigayugamu yuga.mu : : {jawbone} : : 
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21934 :  0x55ae :  : TAN : hitoe : : {old simple} : :
@@ -3211,6 +3212,7 @@
 25545 :  0x63c9 :  : JYUU : mo.su mo.meru : : {massage} : : 
 25623 :  0x6417 :  : TOU : tsu.ku ka.tsu : : {pound rice} : : 
 25638 :  0x6426 :  : JAKU JOKU DAKU NYAKU : kara.meru -gara.mi : : {bind} : :
+25720 :  0x6478 :  : MO MOU BAKUBO MAKU :  : : {imitate} : :
 25909 :  0x6535 :  : HOKU :  : : {taskmaster} : : 
 25942 :  0x6556 :  : GOU : aso.bu ogo.ru : : {leisurely} : :
 25949 :  0x655d :  : HEI : yabu.reru : : {shredder} : :
@@ -3228,6 +3230,7 @@
 26551 :  0x67b7 :  : KA : kase karazao : : {shackles} : :
 26601 :  0x67e9 :  : KYUU GU : hichigi hitsugi : : {casket} : :
 26604 :  0x67ec :  : KAN KEN : era.bu : : {pick out} : :
+26829 :  0x68cd :  : KON  : tsue : : {cudgel} : :
 26970 :  0x695a :  : SO SHO : ibara shimoto suwae : : {cane} {whip} : :
 27138 :  0x6a02 :  : GAKU RAKU GOU : tano.shii tano.shimu zono.mu : : {music [old]} : :
 27323 :  0x6abb :  : KAN : ori obashima tesuri  : : {corral} : :
@@ -3341,6 +3344,7 @@
 36706 :  0x8f62 :  : REKI : hi.ku kishi.ru : : {run over} : :
 36767 :  0x8f9f : kimi : HEKI HI : kimi hira.ku me.su : : {ketchup} : : 
 36790 :  0x8fb6 :  : CHAKU :  : : {road primitive} : :
+36826 :  0x8fda :  :  : totemo : : {some way or other} : :
 36953 :  0x9059 :  : YOU : haru.ka : : {far off [old]} : :
 36989 :  0x907d :  : KYO : awa.teru awatada.shii sumiyaka niwaka : : {haste} : : 
 37318 :  0x91c6 :  : HAN BAN SAI : to.ru irodori nogome : : {animal tracks} : : 
