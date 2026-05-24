@@ -3228,6 +3228,7 @@ class KD
     :"taskmaster" => [25909, 25909, ["HOKU"], [""], [""], ["taskmaster"], 0, 0],
     :"leisurely" => [25942, 25942, ["GOU"], ["aso.bu","ogo.ru"], [""], ["leisurely"], 0, 0],
     :"shredder" => [25949, 25949, ["HEI"], ["yabu.reru"], [""], ["shredder"], 0, 0],
+    :"at*the*same*time" => [26049, 26049, ["BOU","HOU"], ["tsukuri","katagata","katawara"], [""], ["at the same time"], 0, 0],
     :"waitress" => [26081, 26081, ["KI","KE"], ["mu","nashi"], [""], ["waitress"], 0, 0],
     :"piggy*bank" => [26140, 26140, ["YOU"], [""], [""], ["piggy bank"], 0, 0],
     :"thor" => [26174, 26174, [""], [""], [""], ["Thor"], 0, 0],
