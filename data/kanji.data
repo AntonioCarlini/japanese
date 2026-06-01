@@ -3120,6 +3120,7 @@
 21666 :  0x54a2 :  : GAKU : odoroku : : {alligator primitive} : :
 21676 :  0x54ac :  : KOU YOU : ka.mu : : {bite} : :
 21692 :  0x54bc : yokoshima : KAI KE KUU KA : yokoshima kuchigayugamu yuga.mu : : {jawbone} : : 
+21816 :  0x5538 :  : TEN : una.ru unari  : : {moan} : :
 21831 :  0x5547 :  : TEKI CHAKU SEKI : moto nemoto yawa.ragu : : {antique} : :
 21934 :  0x55ae :  : TAN : hitoe : : {old simple} : :
 21951 :  0x55bf : sawa.gu : SOU SHOU : sawa.gu kashima.shiisuki : : {furniture} : : 
@@ -3187,6 +3188,7 @@
 24405 :  0x5f55 :  :  :  : : {dustpan} : :
 24417 :  0x5f61 :  : SAN SEN :  : : {hair primitive} {shape} : :
 24435 :  0x5f73 :  : TEKI : tatazu.mu  : : {to go} : :
+24458 :  0x5f8a :  : KAI KUWAI E : samayo.u : : {roaming} : :
 24488 :  0x5fa8 :  : KOU : samayo.u : : {wander around} : :
 24516 :  0x5fc4 :  : SHIN : kokoro : : {state of mind} : :
 24534 :  0x5fd6 :  : SON : haka.ru : : {surmise} : :
@@ -3207,6 +3209,7 @@
 25153 :  0x6241 :  : HEN : hiratai : : {comic book} : :
 25164 :  0x624c :  : SHU :  : : {finger primitive} : :
 25326 :  0x62ee :  : KATSU KETSU KITSU : hatara.ku : : {be imminent} : :
+25423 :  0x634f :  : NETSU TETSU NECHI : ko.neru ne.ru tsku.neru : : {knead} : :
 25449 :  0x6369 :  : REI RETSU : yoji.ru ne.jiru neji.reru moji.ru : : {distort} : : 
 25458 :  0x6372 :  : KEN : ma.ku ma.kuru maku.ru meku.ru maku.reru : : {roll up} : : 
 25545 :  0x63c9 :  : JYUU : mo.su mo.meru : : {massage} : : 
@@ -3288,6 +3291,7 @@
 31432 :  0x7ac8 :  : SOU : kamado kama hextsui : : {furnace} {kitchen stove} : :
 31453 :  0x7add :  : HEI HOU : na.mi nara.beru nara.bu nara.bini : : {row (alternate)} : :
 31455 :  0x7adf :  : KYOU KEI : owa.ru tsuini wata.ru : : {endpoint} : : 
+31462 :  0x7ae6 :  : SHOU : suku.mu oso.reru tsustushi.mu : : {crouch} : :
 31605 :  0x7b75 :  : EN : mushiro : : {straw-mat} : :
 31744 :  0x7c00 :  : SAKU JAKU SEKI : su  : : {bamboo mat} : : 
 31910 :  0x7ca6 :  : RIN :  : : {Tom Cruise} : :
@@ -3340,6 +3344,7 @@
 35929 :  0x8c59 :  :  GI : soko.nau : : {Porky} : :
 35942 :  0x8c66 :  : KYO GO : yamenai : : {wild boar} : : 
 35960 :  0x8c78 :  : TAI CHI :  : : {skunk} : : 
+36022 :  0x8cb6 :  : HEN : kena.su otoshi.meru oto.su: : {belittle} : :
 36101 :  0x8d05 :  : ZEI SEI : ibo : : {excess} : :
 36529 :  0x8eb1 :  : TA  : kawa.su : : {dodge} : :
 36555 :  0x8ecb :  : ATSU : kishi.ru kishi.ku : : {squeek} : : 
