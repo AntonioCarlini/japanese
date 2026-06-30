@@ -24,7 +24,7 @@
    24 :  0x5442 : sebone :  RO RYO :  sebone :  tomo naga :  {spine} {backbone} :  8 :  1
    25 :  0x660c :  :  SHYOU :  sakan :  masa masashi yoshi aki akira sakae atsu suke :  {prosperous} {bright} {clear} :  9 :  1
    26 :  0x65e9 : SACHISAI_TSU haya haya.maru :  SOU SACHISAI_TSU :  haya.i haya haya- haya.maru haya.meru sa- :  saka sawa so wa :  {early} {fast} :  1 :  3
-   27 :  0x65ed : asahi :  KYOKU :  asahi :  akira aki teru hi :  {rising sun} {morning sun} :  9 :  1
+   27 :  0x65ed : asahi :  KYOKU :  asahi :  akira aki teru hi :  {rising sun} {morning sun} :  9 :  11
    28 :  0x4e16 : sanjuu :  SEI SE SOU :  yo sanjuu :  toshi yu yuki :  {generation} {world} {society} {public} :  3 :  3
    29 :  0x80c3 :  :  I :   :   :  {stomach} {paunch} {crop} {craw} :  4 :  2
    30 :  0x65e6 : akira tadashi :  TAN DAN :  aki.raka akira tadashi asa ashita :   :  {nightbreak} {daybreak} {dawn} {morning} :  8 :  1
@@ -3361,6 +3361,7 @@
 37946 :  0x943a :  : TO SOU TOU : kusari kojiri kote nabe: : {flatiron} : :
 38264 :  0x9578 :  : CHOU : naga.i osa : : {long (variant)} : :
 38271 :  0x957f :  :  :  : : {hairpin} : :
+38276 :  0x9584 :  : KOKU WAKU :  : : {sound of jumping out from shadows} : :
 38282 :  0x958a :  :  : tsuka.eru : : {to be obstructed} : :
 38287 :  0x958f :  : JYUN : uruu  : : {leap year} : : 
 38348 :  0x95cc :  : RAN : ta.keru takenawa tesuri : : {rise high} {screen} : : 
