@@ -3141,6 +3141,7 @@ class KD
     :"furniture" => [21951, 21951, ["SOU","SHOU"], ["sawa.gu","kashima.shiisuki"], [""], ["furniture"], 0, 0],
     :"weep" => [21978, 21978, ["U","O"], ["aa"], [""], ["weep"], 0, 0],
     :"taste" => [21980, 21980, ["SHI"], ["tashina.mu","tashina.mi","kono.mu","kono.mi"], [""], ["taste"], 0, 0],
+    :"alas" => [21983, 21983, ["SA","SHA"], ["a","aa","nage.ku"], [""], ["alas"], 0, 0],
     :"needless*to*say" => [22072, 22072, ["BU","MU"], ["sazo","sazoya","sazokashi"], [""], ["needless to say"], 0, 0],
     :"choke*up" => [22094, 22094, ["ITSU","ETSU"], ["mu.seru","muse.bu"], [""], ["choke up"], 0, 0],
     :"noisy" => [22122, 22122, ["SOU"], ["sawa.gu"], [""], ["noisy"], 0, 0],
