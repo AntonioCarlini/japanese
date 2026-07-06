@@ -3296,7 +3296,7 @@ class KD
     :"glaring*at" => [30568, 30568, ["GEI"], ["nira.mu","nira.mi"], [""], ["glaring at"], 0, 0],
     :"eyelashes" => [30571, 30571, ["SHOU"], ["matsuge"], [""], ["eyelashes"], 0, 0],
     :"eyelids" => [30652, 30652, ["KEN"], ["mabuta"], [""], ["eyelids"], 0, 0],
-    :"drarf" => [30702, 30702, ["WAI","AI"], ["hiku.i"], [""], ["drarf"], 0, 0],
+    :"dwarf" => [30702, 30702, ["WAI","AI"], ["hiku.i"], [""], ["dwarf"], 0, 0],
     :"arsenic" => [30738, 30738, ["HI","HEI"], [""], [""], ["arsenic"], 0, 0],
     :"ore" => [30783, 30783, ["KOU"], ["aragane"], [""], ["ore"], 0, 0],
     :"oyster*shell" => [30836, 30836, ["KAKI"], [""], [""], ["oyster shell"], 0, 0],
