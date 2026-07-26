@@ -3132,6 +3132,7 @@
 22094 :  0x564e : mu.seru : ITSU ETSU : mu.seru muse.bu : : {choke up} : : 
 22122 :  0x566a :  : SOU  : sawa.gu : : {noisy} : :
 22169 :  0x5699 :  : KOU GOU : ka.mu ka.jiru : : {gnaw} : :
+22211 :  0x56c3 :  : SATSU SOU : haya.su hayashi : : {jeer} : :
 22231 :  0x56d7 :  : I KOKU :  : : {pent in} : :
 22307 :  0x5723 :  : KOTSU KUTSU KOCHI SEI : tagaya.su : : {spool} : :
 22309 :  0x5725 :  : ROKU : kinoko : : {rice seedling} : :
@@ -3372,6 +3373,7 @@
 38549 :  0x9695 :  : IN EN UN : ochi.ru : : {falling} : :
 38582 :  0x96b6 :  : TAI :  : : {sieve} : :
 38585 :  0x96b9 :  : SAI SUI : tori : : {turkey} : : 
+38620 :  0x96dc :  : ZATSU ZOU : maji.eru maji.ru : : {miscellaneous [old]} : :
 38628 :  0x96e4 :  :  :  : : {[old] mountain magpie} : :
 38724 :  0x9744 :  : AI : moya : : {mist} : :
 38748 :  0x975c :  : SEI JOU : shizu- shizu.ka shizu.maru shizu.meru : : {[old] quiet} : :
