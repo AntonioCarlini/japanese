@@ -3316,6 +3316,7 @@ class KD
     :"tom*cruise" => [31910, 31910, ["RIN"], [""], [""], ["Tom Cruise"], 0, 0],
     :"bamboo*wrapped*dumpling" => [31933, 31933, ["SOU"], ["chimaki"], [""], ["bamboo wrapped dumpling"], 0, 0],
     :"complication" => [32006, 32006, ["U"], ["maga.ru","megu.ru"], [""], ["complication"], 0, 0],
+    :"thread*[old]" => [32114, 32114, ["SHI"], ["ito"], [""], ["thread [old]"], 0, 0],
     :"hanging" => [32266, 32266, ["I","EI"], ["kubi.ru","kubi.reru"], [""], ["hanging"], 0, 0],
     :"eyes" => [32594, 32594, ["MOU","BOU"], ["amigashira","yokome"], [""], ["eyes"], 0, 0],
     :"net*trap" => [32596, 32596, ["MOU","BOU"], ["ami","shii.ru","nai"], [""], ["net trap"], 0, 0],
