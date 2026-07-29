@@ -3349,6 +3349,7 @@ class KD
     :"tiger*radical" => [34381, 34381, ["KO"], [""], [""], ["tiger radical"], 0, 0],
     :"green*caterpillar" => [34560, 34560, ["SHOKU","ZOKU"], ["imomushi"], [""], ["green caterpillar"], 0, 0],
     :"lizard" => [34612, 34612, ["EKI"], [""], [""], ["lizard"], 0, 0],
+    :"bat" => [34656, 34656, ["FUKU"], [""], [""], ["bat"], 0, 0],
     :"cicada*[old]" => [34796, 34796, ["SEN","ZEN"], ["semi"], [""], ["cicada [old]"], 0, 0],
     :"oyster*[old]" => [34851, 34851, ["REI"], ["kaki"], [""], ["oyster [old]"], 0, 0],
     :"cloak" => [34916, 34916, [""], ["koromu"], [""], ["cloak"], 0, 0],
