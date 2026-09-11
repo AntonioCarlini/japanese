@@ -3333,6 +3333,7 @@ class KD
     :"diaphragm" => [32915, 32915, ["KOU"], [""], [""], ["diaphragm"], 0, 0],
     :"small*worm" => [32921, 32921, [""], [""], [""], ["small worm"], 0, 0],
     :"spleen" => [33086, 33086, ["HI"], [""], [""], ["spleen"], 0, 0],
+    :"calf*(of*leg)" => [33107, 33107, ["HI"], ["fukurahagi","zomura","kobura"], [""], ["calf (of leg)"], 0, 0],
     :"femur" => [33151, 33151, ["TAI"], ["momo"], [""], ["femur"], 0, 0],
     :"navel" => [33229, 33229, ["SEI","SAI"], ["heso","hozo"], [""], ["navel"], 0, 0],
     :"wise" => [33252, 33252, ["KAN","KEN","KOU","KYOU"], ["kata.i"], [""], ["wise"], 0, 0],
