@@ -3057,6 +3057,7 @@ class KD
     :"crocodile*eyes" => [20029, 20029, [""], [""], [""], ["crocodile eyes"], 0, 0],
     :"lock*of*hair" => [20039, 20039, ["TAKU","CHAKU"], [""], [""], ["lock of hair"], 0, 0],
     :"saw" => [20045, 20045, ["SA","SAKU"], ["-naga.ra","tachima.chi"], [""], ["saw"], 0, 0],
+    :"disobey" => [20054, 20054, ["KAI"], ["somu.ku","motoru"], [""], ["disobey"], 0, 0],
     :"hook" => [20058, 20058, ["IN","ON"], ["kaku.su","kaku.reru","kaka.su","yo.ru"], [""], ["hook"], 0, 0],
     :"cocoon*variant" => [20065, 20065, [""], [""], [""], ["cocoon variant"], 0, 0],
     :"barb" => [20101, 20101, ["KETSU"], ["kagi"], [""], ["barb"], 0, 0],
