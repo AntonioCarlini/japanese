@@ -3359,6 +3359,7 @@ class KD
     :"oyster*[old]" => [34851, 34851, ["REI"], ["kaki"], [""], ["oyster [old]"], 0, 0],
     :"cloak" => [34916, 34916, [""], ["koromu"], [""], ["cloak"], 0, 0],
     :"long*kimono" => [34945, 34945, ["EN","ON"], [""], [""], ["long kimono"], 0, 0],
+    :"short*clothing" => [34978, 34978, ["HAN"], [""], [""], ["short clothing"], 0, 0],
     :"cloth*wrapper" => [34993, 34993, ["FUKU"], [""], [""], ["cloth wrapper"], 0, 0],
     :"old*west" => [35200, 35200, [""], [""], [""], ["old west"], 0, 0],
     :"accent" => [35355, 35355, ["KA"], ["tama.ru","tama.ri","ayamaru"], [""], ["accent"], 0, 0],
