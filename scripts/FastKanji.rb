@@ -3279,6 +3279,7 @@ class KD
     :"fire*below" => [28780, 28780, ["HYOU","KA"], [""], [""], ["fire below"], 0, 0],
     :"stir-fry" => [28818, 28818, ["SOU","SHOU"], ["i.ru","ita.meru"], [""], ["stir-fry"], 0, 0],
     :"cauterize" => [28825, 28825, ["SHA","SEKI"], ["abu.ru"], [""], ["cauterize"], 0, 0],
+    :"explosion" => [28856, 28856, ["TAKU","SA","SAKU"], [""], [""], ["explosion"], 0, 0],
     :"toast" => [28953, 28953, ["HOU","HAI"], ["hou.jiru","abu.ru"], [""], ["toast"], 0, 0],
     :"fester" => [29211, 29211, ["RAN"], ["tada.reru"], [""], ["fester"], 0, 0],
     :"vulture*(old)" => [29227, 29227, [""], [""], [""], ["vulture (old)"], 0, 0],
