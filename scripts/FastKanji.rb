@@ -3385,6 +3385,7 @@ class KD
     :"far*off*[old]" => [36953, 36953, ["YOU"], ["haru.ka"], [""], ["far off [old]"], 0, 0],
     :"haste" => [36989, 36989, ["KYO"], ["awa.teru","awatada.shii","sumiyaka","niwaka"], [""], ["haste"], 0, 0],
     :"animal*tracks" => [37318, 37318, ["HAN","BAN","SAI"], ["to.ru","irodori","nogome"], [""], ["animal tracks"], 0, 0],
+    :"gaff" => [37476, 37476, ["KOU","KU"], ["kagi","hari","bari"], [""], ["gaff"], 0, 0],
     :"horse's*bit" => [37532, 37532, ["KAN"], ["kutsuwa","kuwa.eru"], [""], ["horse's bit"], 0, 0],
     :"flatiron" => [37946, 37946, ["TO","SOU","TOU"], ["kusari","kojiri","kote","nabe"], [""], ["flatiron"], 0, 0],
     :"long*(variant)" => [38264, 38264, ["CHOU"], ["naga.i","osa"], [""], ["long (variant)"], 0, 0],
