@@ -3212,6 +3212,7 @@ class KD
     :"state*of*mind" => [24516, 24516, ["SHIN"], ["kokoro"], [""], ["state of mind"], 0, 0],
     :"surmise" => [24534, 24534, ["SON"], ["haka.ru"], [""], ["surmise"], 0, 0],
     :"hastily" => [24625, 24625, ["SOU"], ["niwaka","awa.teru"], [""], ["hastily"], 0, 0],
+    :"idiotic" => [24653, 24653, ["KOU"], ["tobo.keru","ho.reru"], [""], ["idiotic"], 0, 0],
     :"pulsate" => [24760, 24760, ["KI"], [""], [""], ["pulsate"], 0, 0],
     :"astonishment" => [24853, 24853, ["KAGU"], ["odoro.ku"], [""], ["astonishment"], 0, 0],
     :"cordial" => [24903, 24903, ["IN"], [""], [""], ["cordial"], 0, 0],
