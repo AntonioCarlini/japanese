@@ -3322,6 +3322,7 @@ class KD
     :"complication" => [32006, 32006, ["U"], ["maga.ru","megu.ru"], [""], ["complication"], 0, 0],
     :"thread*[old]" => [32114, 32114, ["SHI"], ["ito"], [""], ["thread [old]"], 0, 0],
     :"hanging" => [32266, 32266, ["I","EI"], ["kubi.ru","kubi.reru"], [""], ["hanging"], 0, 0],
+    :"ply" => [32274, 32274, ["SHI","SA"], ["yo.ru"], [""], ["ply"], 0, 0],
     :"eyes" => [32594, 32594, ["MOU","BOU"], ["amigashira","yokome"], [""], ["eyes"], 0, 0],
     :"net*trap" => [32596, 32596, ["MOU","BOU"], ["ami","shii.ru","nai"], [""], ["net trap"], 0, 0],
     :"trap" => [32608, 32608, ["BIN","MIN"], ["wana","ami"], [""], ["trap"], 0, 0],
