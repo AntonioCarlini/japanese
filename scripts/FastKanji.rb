@@ -3379,6 +3379,7 @@ class KD
     :"belittle" => [36022, 36022, ["HEN"], ["kena.su","otoshi.meru","oto.su"], [""], ["belittle"], 0, 0],
     :"excess" => [36101, 36101, ["ZEI","SEI"], ["ibo"], [""], ["excess"], 0, 0],
     :"favouritism" => [36116, 36116, ["HI"], [""], [""], ["favouritism"], 0, 0],
+    :"totter" => [36361, 36361, ["ROU","RYOU"], [""], [""], ["totter"], 0, 0],
     :"stagger" => [36428, 36428, ["SOU","SHOU"], ["ugo.ku","yoro.meku"], [""], ["stagger"], 0, 0],
     :"dodge" => [36529, 36529, ["TA"], ["kawa.su"], [""], ["dodge"], 0, 0],
     :"squeek" => [36555, 36555, ["ATSU"], ["kishi.ru","kishi.ku"], [""], ["squeek"], 0, 0],
