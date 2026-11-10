@@ -3141,6 +3141,7 @@ class KD
     :"pant" => [21912, 21912, ["ZEN","SEN"], ["ae.gu","seki"], [""], ["pant"], 0, 0],
     :"old*simple" => [21934, 21934, ["TAN"], ["hitoe"], [""], ["old simple"], 0, 0],
     :"furniture" => [21951, 21951, ["SOU","SHOU"], ["sawa.gu","kashima.shiisuki"], [""], ["furniture"], 0, 0],
+    :"lose*your*voice" => [21956, 21956, ["SA"], ["k.rasu","ka.reru","shaga.reru"], [""], ["lose your voice"], 0, 0],
     :"weep" => [21978, 21978, ["U","O"], ["aa"], [""], ["weep"], 0, 0],
     :"taste" => [21980, 21980, ["SHI"], ["tashina.mu","tashina.mi","kono.mu","kono.mi"], [""], ["taste"], 0, 0],
     :"alas" => [21983, 21983, ["SA","SHA"], ["a","aa","nage.ku"], [""], ["alas"], 0, 0],
