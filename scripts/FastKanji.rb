@@ -3235,6 +3235,7 @@ class KD
     :"roll*up" => [25458, 25458, ["KEN"], ["ma.ku","ma.kuru","maku.ru","meku.ru","maku.reru"], [""], ["roll up"], 0, 0],
     :"scoop*up" => [25516, 25516, ["KIKU","KOKU"], ["kiku.su","musu.bu","suku.u","tanagokoro"], [""], ["scoop up"], 0, 0],
     :"massage" => [25545, 25545, ["JYUU"], ["mo.su","mo.meru"], [""], ["massage"], 0, 0],
+    :"taunt" => [25590, 25590, ["YA"], ["karaka.u"], [""], ["taunt"], 0, 0],
     :"pound*rice" => [25623, 25623, ["TOU"], ["tsu.ku","ka.tsu"], [""], ["pound rice"], 0, 0],
     :"bind" => [25638, 25638, ["JAKU","JOKU","DAKU","NYAKU"], ["kara.meru","-gara.mi"], [""], ["bind"], 0, 0],
     :"imitate" => [25720, 25720, ["MO","MOU","BAKUBO","MAKU"], [""], [""], ["imitate"], 0, 0],
