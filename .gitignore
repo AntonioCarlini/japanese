@@ -5,3 +5,4 @@ backup/
 old-bin/
 generated/
 .venv/
+go/japanese-to-codes
