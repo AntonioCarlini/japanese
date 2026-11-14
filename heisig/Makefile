@@ -25,9 +25,9 @@ $(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/m
 	@mkdir -p $(GENDIR)
 	$(PYTHON) $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv $@ || { rm $@; exit 1; }
 
-$(OUTPUT)/koohii-stories.gen.html: $(GENDIR)/koohii-stories.gen.jhtml
+$(OUTPUT)/koohii-stories.gen.html: $(GENDIR)/koohii-stories.gen.jhtml $(JAPANESE_TO_CODES)
 	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb --strict-fail-on-error $< > $@ || { rm $@; exit 1; }
+	$(JAPANESE_TO_CODES) --strict-fail-on-error $< > $@ || { rm $@; exit 1; }
 
 default: $(TARGETS)
 

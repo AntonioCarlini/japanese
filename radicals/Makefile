@@ -4,9 +4,9 @@ $(GENDIR)/radicals.gen.jhtml: $(SCRIPTDIR)/build-radicals-page.rb $(SCRIPTDIR)/R
 	@mkdir -p $(GENDIR)
 	$(SCRIPTDIR)/build-radicals-page.rb > $@
 
-$(OUTPUT)/radicals.gen.html: $(GENDIR)/radicals.gen.jhtml
+$(OUTPUT)/radicals.gen.html: $(GENDIR)/radicals.gen.jhtml $(JAPANESE_TO_CODES)
 	@mkdir -p $(OUTPUT)
-	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@
+	$(JAPANESE_TO_CODES) $< > $@
 
 default: $(TARGETS)
 
