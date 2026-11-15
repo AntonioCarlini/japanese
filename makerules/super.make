@@ -15,6 +15,10 @@ $(COMPONENT_MAKEFILES):
 $(SUBDIR_MAKEFILES):
 	@$(MAKE) -C $@ || exit 1
 
+# Build FastKanji.go (and the Go program, if it is in use) once, here, before any sub-make starts.
+# Sub-makes run in parallel with -j and would otherwise all try to rebuild them at the same time.
+$(COMPONENT_MAKEFILES) $(SUBDIR_MAKEFILES): $(GO_PREREQS)
+
 .PHONY: all_subdir_makefiles $(SUBDIR_MAKEFILES)
 
 .PHONY: all_component_makefiles $(COMPONENT_MAKEFILES)

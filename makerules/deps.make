@@ -12,7 +12,6 @@ SCRIPT_FILES += $(SCRIPTDIR)/KanjiSupport.rb
 SCRIPT_FILES += $(SCRIPTDIR)/KatakanaSupport.rb
 SCRIPT_FILES += $(SCRIPTDIR)/RefsSupport.rb
 SCRIPT_FILES += $(SCRIPTDIR)/UnicodeSupport.rb
-#SCRIPT_FILES += $(SCRIPTDIR)/japanese-to-codes.rb
 SCRIPT_FILES += $(JAPANESE_TO_CODES)
 
 GLOBAL_DEPENDENCIES += $(DATA_FILES)
