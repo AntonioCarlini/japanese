@@ -19,6 +19,9 @@ $(SUBDIR_MAKEFILES):
 # Sub-makes run in parallel with -j and would otherwise all try to rebuild them at the same time.
 $(COMPONENT_MAKEFILES) $(SUBDIR_MAKEFILES): $(GO_PREREQS)
 
+# The sub-makes run $(PYTHON), so the venv must exist before any of them starts.
+$(COMPONENT_MAKEFILES) $(SUBDIR_MAKEFILES): $(VENV_STAMP)
+
 .PHONY: all_subdir_makefiles $(SUBDIR_MAKEFILES)
 
 .PHONY: all_component_makefiles $(COMPONENT_MAKEFILES)
