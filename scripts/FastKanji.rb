@@ -3300,6 +3300,7 @@ class KD
     :"promptly" => [30092, 30092, [""], [""], [""], ["promptly"], 0, 0],
     :"caveman" => [30098, 30098, ["DAKU","NYAKU","SOU","JOU","SHITSU"], ["ya.mu"], [""], ["caveman"], 0, 0],
     :"cramps" => [30169, 30169, ["KEI"], ["tsu.ru","hikits.ru"], [""], ["cramps"], 0, 0],
+    :"constipation" => [30174, 30174, ["HI"], ["tsukae"], [""], ["constipation"], 0, 0],
     :"lump" => [30244, 30244, ["RYOU","RU"], ["kobu"], [""], ["lump"], 0, 0],
     :"snowman" => [30339, 30339, ["BOU","BAKU"], ["katara","katadoru"], [""], ["snowman"], 0, 0],
     :"exhausted" => [30433, 30433, ["JIN","SAN"], ["tsu.kusu","tsu.kiru","tsu.kasu","sakuduki","kotogoto.ku"], [""], ["exhausted"], 0, 0],
