@@ -1,6 +1,6 @@
 default: $(OUTPUT)/onomatopoeia.gen.html
 
-$(OUTPUT)/onomatopoeia.gen.html: $(SCRIPTDIR)/build-onomatopoeia-page.py $(DATADIR)/onomatopoeia.yaml
+$(OUTPUT)/onomatopoeia.gen.html: $(SCRIPTDIR)/build-onomatopoeia-page.py $(DATADIR)/onomatopoeia.yaml | $(VENV_STAMP)
 	@mkdir -p $(OUTPUT)
 	$(PYTHON) $(SCRIPTDIR)/build-onomatopoeia-page.py $(DATADIR)/onomatopoeia.yaml $@ || { rm $@; exit 1; }
 

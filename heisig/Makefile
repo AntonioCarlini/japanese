@@ -21,7 +21,7 @@ $(OUTPUT)/heisig.gen.html: $(GENDIR)/heisig.gen.jhtml $(JAPANESE_TO_CODES)
 	@mkdir -p $(OUTPUT)
 	$(JAPANESE_TO_CODES) $< > $@ || { rm $@; exit 1; }
 
-$(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv
+$(GENDIR)/koohii-stories.gen.jhtml: $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv | $(VENV_STAMP)
 	@mkdir -p $(GENDIR)
 	$(PYTHON) $(SCRIPTDIR)/koohii-stories.py $(EXTERNAL)/my_stories.csv $@ || { rm $@; exit 1; }
 
