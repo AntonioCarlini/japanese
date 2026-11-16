@@ -2403,6 +2403,7 @@ var kanji_table = []kanji_table_entry{
 	{"receptacle", 25176},
 	{"recess", 25001},
 	{"recitation", 35424},
+	{"recite", 35494},
 	{"recline*on", 20973},
 	{"recollection", 25014},
 	{"recommend", 34214},
