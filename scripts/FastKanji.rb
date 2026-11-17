@@ -3323,6 +3323,7 @@ class KD
     :"row*(alternate)" => [31453, 31453, ["HEI","HOU"], ["na.mi","nara.beru","nara.bu","nara.bini"], [""], ["row (alternate)"], 0, 0],
     :"endpoint" => [31455, 31455, ["KYOU","KEI"], ["owa.ru","tsuini","wata.ru"], [""], ["endpoint"], 0, 0],
     :"crouch" => [31462, 31462, ["SHOU"], ["suku.mu","oso.reru","tsustushi.mu"], [""], ["crouch"], 0, 0],
+    :"bamboo*shoot" => [31565, 31565, ["JUN","SHUN","IN"], ["takenoko","takannna"], [""], ["bamboo shoot"], 0, 0],
     :"straw-mat" => [31605, 31605, ["EN"], ["mushiro"], [""], ["straw-mat"], 0, 0],
     :"bamboo*mat" => [31744, 31744, ["SAKU","JAKU","SEKI"], ["su"], [""], ["bamboo mat"], 0, 0],
     :"tom*cruise" => [31910, 31910, ["RIN"], [""], [""], ["Tom Cruise"], 0, 0],

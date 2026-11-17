@@ -204,6 +204,7 @@ var kanji_table = []kanji_table_entry{
 	{"bamboo*grass", 31545},
 	{"bamboo*hat", 31520},
 	{"bamboo*mat", 31744},
+	{"bamboo*shoot", 31565},
 	{"bamboo*wrapped*dumpling", 31933},
 	{"banana", 34121},
 	{"banner", 24161},
