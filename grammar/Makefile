@@ -829,7 +829,7 @@ TARGETS += $(foreach JH,$(JHTML_SRCS),$(OUTPUT)/$(subst .jhtml,.html,$(JH)))
 TARGETS += $(GRMIDX)
 TARGETS += $(OUTPUT)/grammar-index.html
 
-$(OUTPUT)/grammar-index.html: $(GRMIDX) $(SCRIPTDIR)/build-grammar-index.rb
+$(OUTPUT)/grammar-index.html: $(GRMIDX) $(SCRIPTDIR)/build-grammar-index.rb $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
 	@$(SCRIPTDIR)/build-grammar-index.rb --data=$(DATADIR) $(GRMIDX) > $@ && echo "Successfully built $@"
 

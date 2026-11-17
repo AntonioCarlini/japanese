@@ -1,10 +1,6 @@
-$(GENDIR)/%.jhtml.grmidx: %.jhtml $(GLOBAL_DEPENDENCIES) $(SCRIPTDIR)/find-grammar-elements.rb
+$(GENDIR)/%.jhtml.grmidx: %.jhtml $(SCRIPTDIR)/find-grammar-elements.rb $(SCRIPTDIR)/DebugSupport.rb
 	@mkdir -p $(GENDIR)
-	@$(SCRIPTDIR)/find-grammar-elements.rb --include=$(INCLUDEDIR) $< > $@
-
-#$(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
-#	@mkdir -p $(OUTPUT)
-#	$(SCRIPTDIR)/japanese-to-codes.rb $< > $@ --data=$(DATADIR) --include=$(INCLUDEDIR) --strict-fail-on-error || { rm $@; exit 1; }
+	@$(SCRIPTDIR)/find-grammar-elements.rb --include=$(INCLUDEDIR) $< > $@ || { rm -f $@; exit 1; }
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)
