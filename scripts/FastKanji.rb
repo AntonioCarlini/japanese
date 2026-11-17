@@ -3208,6 +3208,7 @@ class KD
     :"dustpan" => [24405, 24405, [""], [""], [""], ["dustpan"], 0, 0],
     :"hair*primitive" => [24417, 24417, ["SAN","SEN"], [""], [""], ["hair primitive","shape"], 0, 0],
     :"to*go" => [24435, 24435, ["TEKI"], ["tatazu.mu"], [""], ["to go"], 0, 0],
+    :"stray" => [24439, 24439, ["HOU"], ["samayo.u"], [""], ["stray"], 0, 0],
     :"roaming" => [24458, 24458, ["KAI","KUWAI","E"], ["samayo.u"], [""], ["roaming"], 0, 0],
     :"wander*around" => [24488, 24488, ["KOU"], ["samayo.u"], [""], ["wander around"], 0, 0],
     :"state*of*mind" => [24516, 24516, ["SHIN"], ["kokoro"], [""], ["state of mind"], 0, 0],

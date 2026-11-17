@@ -2933,6 +2933,7 @@ var kanji_table = []kanji_table_entry{
 	{"straw*rope", 32260},
 	{"straw-mat", 31605},
 	{"strawberry", 33530},
+	{"stray", 24439},
 	{"stream", 24029},
 	{"street", 19969},
 	{"strengthen", 24394},
