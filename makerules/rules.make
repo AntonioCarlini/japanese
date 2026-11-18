@@ -1,6 +1,6 @@
-$(GENDIR)/%.jhtml.grmidx: %.jhtml $(SCRIPTDIR)/find-grammar-elements.rb $(SCRIPTDIR)/DebugSupport.rb
+$(GENDIR)/%.jhtml.grmidx: %.jhtml $(FIND_GRAMMAR_ELEMENTS)
 	@mkdir -p $(GENDIR)
-	@$(SCRIPTDIR)/find-grammar-elements.rb --include=$(INCLUDEDIR) $< > $@ || { rm -f $@; exit 1; }
+	@$(FIND_GRAMMAR_ELEMENTS) --include=$(INCLUDEDIR) $< > $@ || { rm -f $@; exit 1; }
 
 $(OUTPUT)/%.html: %.jhtml $(GLOBAL_DEPENDENCIES)
 	@mkdir -p $(OUTPUT)

@@ -14,10 +14,17 @@ $(GO_JAPANESE_TO_CODES): $(GO_SOURCES) $(GODIR)/FastKanji.go
 	cd $(GODIR) && go build -o japanese-to-codes .
 	touch $@
 
+FIND_GRAMMAR_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/find-grammar-elements/*.go $(GODIR)/rubycompat/*.go)
+
+$(GO_FIND_GRAMMAR_ELEMENTS): $(FIND_GRAMMAR_SOURCES)
+	cd $(GODIR) && go build -o find-grammar-elements ./cmd/find-grammar-elements
+	touch $@
+
 # What the top-level make builds once, before it starts any sub-make (see super.make):
 #  - FastKanji.go, always;
 #  - the Go program, but only if JAPANESE_TO_CODES is set to it (this is empty in a Ruby build).
 GO_PREREQS := $(GODIR)/FastKanji.go $(filter $(GO_JAPANESE_TO_CODES),$(JAPANESE_TO_CODES))
+GO_PREREQS += $(filter $(GO_FIND_GRAMMAR_ELEMENTS),$(FIND_GRAMMAR_ELEMENTS))
 
 .PHONY: go-tools
 go-tools: $(GO_JAPANESE_TO_CODES)

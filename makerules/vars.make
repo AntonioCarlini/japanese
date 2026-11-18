@@ -13,6 +13,13 @@ GO_JAPANESE_TO_CODES = $(GODIR)/japanese-to-codes
 JAPANESE_TO_CODES ?= $(GO_JAPANESE_TO_CODES)
 
 
+GO_FIND_GRAMMAR_ELEMENTS = $(GODIR)/find-grammar-elements
+
+# Which program lists the @GRMIDX entries of a .jhtml file. Override with e.g.
+#   make FIND_GRAMMAR_ELEMENTS=$PWD/scripts/find-grammar-elements.rb
+FIND_GRAMMAR_ELEMENTS ?= $(GO_FIND_GRAMMAR_ELEMENTS)
+
+
 VENV := $(ROOTDIR)/.venv
 PYTHON := $(VENV)/bin/python3
 PIP := $(VENV)/bin/pip
