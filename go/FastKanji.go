@@ -2764,6 +2764,7 @@ var kanji_table = []kanji_table_entry{
 	{"slender*bamboo", 31712},
 	{"sliding*door", 35158},
 	{"slight", 25108},
+	{"slightly", 32842},
 	{"slingshot", 19970},
 	{"slip*out", 25244},
 	{"slippery", 28369},

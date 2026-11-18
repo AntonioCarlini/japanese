@@ -3341,6 +3341,7 @@ class KD
     :"old*man*primitive" => [32770, 32770, [""], [""], [""], ["old man primitive"], 0, 0],
     :"specialized" => [32785, 32785, ["TAN","SEN"], ["hashi"], [""], ["specialized"], 0, 0],
     :"christmas*tree" => [32786, 32786, ["RAI","RUI"], ["ki","ku","suki"], [""], ["christmas tree"], 0, 0],
+    :"slightly" => [32842, 32842, ["RYOU"], ["isasaka"], [""], ["slightly"], 0, 0],
     :"unite" => [32852, 32852, [""], [""], [""], ["unite"], 0, 0],
     :"brush" => [32895, 32895, ["ICHI","ITSU"], ["fude","kokoni"], [""], ["brush"], 0, 0],
     :"rake" => [32896, 32896, [""], [""], [""], ["rake"], 0, 0],
