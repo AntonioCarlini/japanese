@@ -3269,6 +3269,7 @@ class KD
     :"yin*dynasty" => [27575, 27575, ["IN"], [""], [""], ["Yin Dynasty"], 0, 0],
     :"mother*radical" => [27595, 27595, ["BU","MU"], ["haha","bo","nai","naka.re"], [""], ["mother radical"], 0, 0],
     :"silage" => [27596, 27596, ["KAN"], ["tsuranuku"], [""], ["silage"], 0, 0],
+    :"tear" => [27615, 27615, [""], ["mushi.ro"], [""], ["tear"], 0, 0],
     :"carpet" => [27631, 27631, ["TAN"], [""], [""], ["carpet"], 0, 0],
     :"business*card" => [27664, 27664, ["TEI","TAI","SHI","CHI"], ["fumoto"], [""], ["business card"], 0, 0],
     :"water*primitive" => [27701, 27701, [""], ["sanzui"], [""], ["water primitive"], 0, 0],

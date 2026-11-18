@@ -3034,6 +3034,7 @@ var kanji_table = []kanji_table_entry{
 	{"tea", 33590},
 	{"teach", 25945},
 	{"teacup", 30871},
+	{"tear", 27615},
 	{"teardrops", 27882},
 	{"tears", 28057},
 	{"tease", 25590},
