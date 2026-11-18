@@ -2,7 +2,7 @@
 // table of kanji keywords and code points, to stdout. It replaces
 // scripts/build-kanji-ruby.rb, which wrote the Ruby file FastKanji.rb.
 //
-// Usage: go run ./build-kanji-table ../data/kanji.data > FastKanji.go
+// Usage: go run ./cmd/build-kanji-table ../data/kanji.data > FastKanji.go
 package main
 
 import (

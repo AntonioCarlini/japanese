@@ -3,7 +3,7 @@
 #
 # Run after regenerating both tables:
 #   scripts/build-kanji-ruby.rb > scripts/FastKanji.rb
-#   (cd go && go run ./build-kanji-table ../data/kanji.data > FastKanji.go.tmp && mv FastKanji.go.tmp FastKanji.go)
+#   (cd go && go run ./cmd/build-kanji-table ../data/kanji.data > FastKanji.go.tmp && mv FastKanji.go.tmp FastKanji.go)
 
 root=$(cd "$(dirname "$0")/.." && pwd)
 grep -E '^ +:"' "$root/scripts/FastKanji.rb" \

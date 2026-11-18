@@ -3,10 +3,10 @@
 # The Go program is only built for the pages if it is the one selected by JAPANESE_TO_CODES.
 
 GO_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/*.go $(GODIR)/rubycompat/*.go)
-KANJI_TABLE_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/build-kanji-table/*.go $(GODIR)/rubycompat/*.go)
+KANJI_TABLE_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/build-kanji-table/*.go $(GODIR)/rubycompat/*.go)
 
 $(GODIR)/FastKanji.go: $(DATADIR)/kanji.data $(KANJI_TABLE_SOURCES)
-	cd $(GODIR) && go run ./build-kanji-table $(DATADIR)/kanji.data > FastKanji.go.tmp \
+	cd $(GODIR) && go run ./cmd/build-kanji-table $(DATADIR)/kanji.data > FastKanji.go.tmp \
 		|| { rm -f FastKanji.go.tmp; exit 1; }
 	mv $(GODIR)/FastKanji.go.tmp $@
 
