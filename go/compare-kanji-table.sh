@@ -8,7 +8,7 @@
 root=$(cd "$(dirname "$0")/.." && pwd)
 grep -E '^ +:"' "$root/scripts/FastKanji.rb" \
     | sed -E 's/^ +:"(.*)" => \[[0-9]+, ([0-9]+),.*$/\1 \2/' | LC_ALL=C sort > /tmp/ruby-table.txt
-grep -E '^	\{"' "$root/go/FastKanji.go" \
+grep -E '^	\{"' "$root/go/cmd/japanese-to-codes/FastKanji.go" \
     | sed -E 's/^	\{"(.*)", ([0-9]+)\},$/\1 \2/' | LC_ALL=C sort > /tmp/go-table.txt
 wc -l /tmp/ruby-table.txt /tmp/go-table.txt
 if diff /tmp/ruby-table.txt /tmp/go-table.txt > /tmp/table.diff; then
