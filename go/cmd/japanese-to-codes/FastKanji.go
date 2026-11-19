@@ -1608,6 +1608,7 @@ var kanji_table = []kanji_table_entry{
 	{"iris", 33750},
 	{"iron", 37444},
 	{"irrigate", 27779},
+	{"irrigation", 22323},
 	{"island", 23798},
 	{"island*(alternate)", 23947},
 	{"isolate", 38548},

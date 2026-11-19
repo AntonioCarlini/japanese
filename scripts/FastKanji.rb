@@ -3153,6 +3153,7 @@ class KD
     :"pent*in" => [22231, 22231, ["I","KOKU"], [""], [""], ["pent in"], 0, 0],
     :"spool" => [22307, 22307, ["KOTSU","KUTSU","KOCHI","SEI"], ["tagaya.su"], [""], ["spool"], 0, 0],
     :"rice*seedling" => [22309, 22309, ["ROKU"], ["kinoko"], [""], ["rice seedling"], 0, 0],
+    :"irrigation" => [22323, 22323, ["SHOU","SHU","SHIN","SON","SHUN"], ["mizo"], [""], ["irrigation"], 0, 0],
     :"mushroom*kingdom" => [22388, 22388, ["RIKU","ROKU"], [""], [""], ["mushroom kingdom"], 0, 0],
     :"dusty" => [22467, 22467, ["AI"], ["hokori","chiri"], [""], ["dusty"], 0, 0],
     :"mario" => [22518, 22518, ["GEI","SEI"], ["u.eru","waza","ikihoi"], [""], ["Mario"], 0, 0],
