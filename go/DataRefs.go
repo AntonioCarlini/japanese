@@ -15,7 +15,7 @@ import (
 	"regexp"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 type Reference struct {

@@ -19,7 +19,7 @@ import (
 	"regexp"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 // The Ruby builds its regexps from these pieces (Regexp.escape'd brackets).

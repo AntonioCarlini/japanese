@@ -13,7 +13,7 @@ import (
 	"sort"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 type kanji_table_entry struct {

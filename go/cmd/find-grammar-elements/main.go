@@ -21,7 +21,7 @@ import (
 	"regexp"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 // The Ruby loops until no @include is left, so an include that includes itself

@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 // ref_data is the Ruby global $ref_data. references.data is read the first

@@ -2,8 +2,8 @@
 # japanese-to-codes is in use, so that it is not forgotten at commit time.
 # The Go program is only built for the pages if it is the one selected by JAPANESE_TO_CODES.
 
-GO_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/*.go $(GODIR)/rubycompat/*.go)
-KANJI_TABLE_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/build-kanji-table/*.go $(GODIR)/rubycompat/*.go)
+GO_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/*.go $(GODIR)/internal/rubycompat/*.go)
+KANJI_TABLE_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/build-kanji-table/*.go $(GODIR)/internal/rubycompat/*.go)
 
 $(GODIR)/FastKanji.go: $(DATADIR)/kanji.data $(KANJI_TABLE_SOURCES)
 	cd $(GODIR) && go run ./cmd/build-kanji-table $(DATADIR)/kanji.data > FastKanji.go.tmp \
@@ -14,7 +14,7 @@ $(GO_JAPANESE_TO_CODES): $(GO_SOURCES) $(GODIR)/FastKanji.go
 	cd $(GODIR) && go build -o japanese-to-codes .
 	touch $@
 
-FIND_GRAMMAR_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/find-grammar-elements/*.go $(GODIR)/rubycompat/*.go)
+FIND_GRAMMAR_SOURCES := $(GODIR)/go.mod $(wildcard $(GODIR)/cmd/find-grammar-elements/*.go $(GODIR)/internal/rubycompat/*.go)
 
 $(GO_FIND_GRAMMAR_ELEMENTS): $(FIND_GRAMMAR_SOURCES)
 	cd $(GODIR) && go build -o find-grammar-elements ./cmd/find-grammar-elements

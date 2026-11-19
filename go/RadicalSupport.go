@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"japanese/rubycompat"
+	"japanese/internal/rubycompat"
 )
 
 // A single radical. unicode is only meaningful if has_unicode is true
