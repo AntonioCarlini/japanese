@@ -202,7 +202,6 @@ JHTML_SRCS += grammar-karou.jhtml
 JHTML_SRCS += grammar-kata-wo-suru.jhtml
 JHTML_SRCS += grammar-kata.jhtml
 JHTML_SRCS += grammar-katagata.jhtml
-JHTML_SRCS += grammar-katagata.jhtml
 JHTML_SRCS += grammar-katawara.jhtml
 JHTML_SRCS += grammar-kawari-ni.jhtml
 JHTML_SRCS += grammar-kekka.jhtml
