@@ -102,6 +102,7 @@ var kanji_table = []kanji_table_entry{
 	{"animal*offspring", 20180},
 	{"animal*sacrifice", 29298},
 	{"animal*tracks", 37318},
+	{"ankle", 36381},
 	{"annexed", 28155},
 	{"ant", 34811},
 	{"anti-", 21453},
