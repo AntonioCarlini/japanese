@@ -1,0 +1,3 @@
+<h1>@HI{{kana}}</h1>
+@GRMIDX{{index="@HI{{kana}}" grammar="@HI{{kana}}"}}
+<p>after the index entry</p>
