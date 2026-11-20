@@ -1,0 +1,11 @@
+<p>before</p>
+@BGRNDSTART{{Red, Blue}}
+<p>one</p>
+@BGRND{{}}
+<p>two</p>
+@BGRND{{}}
+<p>three</p>
+@BGRND{{}}
+<p>four</p>
+@BGRNDEND{{}}
+<p>after</p>
