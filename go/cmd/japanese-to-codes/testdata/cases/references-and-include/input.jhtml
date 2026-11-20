@@ -1,0 +1,2 @@
+<p>@REF{{TESTREF}} and @UCREF{{TESTREF2}} and @REF{{JPOD101-BG-S1-005}} and @REF{{NOSUCHREF}}</p>
+@include{{"footer.inc"}}
