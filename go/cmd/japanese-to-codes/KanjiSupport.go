@@ -66,8 +66,7 @@ var local_kanji = map[string]int{
 	"noma":   0x3005, // repetition symbol
 	"yuubin": 0x3012, // indicates Japanese post office on a map
 	"jisuma": 0x3004, // shows that a product complies with a Japanese Industrial Standard
-	// NOTE: decimal in the Ruby (probably meant to be 0x3299). Preserved, so this gives &#xce3;
-	"maruhi": 3299, // "secret"
+	"maruhi": 0x3299, // "secret"
 }
 
 // +

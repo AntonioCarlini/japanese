@@ -52,6 +52,7 @@ func TestJpUnicode(t *testing.T) {
 	}{
 		{0x304b, "&#x304b;"},
 		{0x3005, "&#x3005;"},
+         	{0x3299, "&#x3299;"},
 		{3299, "&#xce3;"}, // decimal 3299, as in the Ruby's :maruhi
 		{0, "&#x0;"},
 	}
@@ -182,7 +183,7 @@ func TestConvertToKanji(t *testing.T) {
 		{"HON", refs(0x672c)},
 		{"hon ichi", refs(0x672c) + " " + refs(0x4e00)},
 		{"ichi^dan", refs(0x4e00, 0x6bb5)}, // "^" separates words and is then removed
-		{"maruhi", "&#xce3;"},
+		{"maruhi", "&#x3299;"},
 	}
 	for _, tt := range tests {
 		got, err := convert_to_kanji(tt.in, false)

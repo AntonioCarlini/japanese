@@ -42,7 +42,7 @@ def convert_to_kanji(text, raise_exception_on_error: false)
     :noma => 0x3005, # repetition symbol
     :yuubin => 0x3012, # indicates Japanese post office on a map
     :jisuma => 0x3004, # shows that a product complies with a Japanese Industrial Standard
-    :maruhi => 3299, # "secret"
+    :maruhi => 0x3299, # "secret"
   }
 
 
