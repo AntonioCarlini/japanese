@@ -3340,6 +3340,7 @@ class KD
     :"contract*a*disease" => [32633, 32633, ["RA","RA"], ["kakaru"], [""], ["contract a disease"], 0, 0],
     :"futon" => [32735, 32735, ["KEKI","JAKU","TAKU","TAI"], ["kiji"], [""], ["futon"], 0, 0],
     :"old*man*primitive" => [32770, 32770, [""], [""], [""], ["old man primitive"], 0, 0],
+    :"senility" => [32772, 32772, ["BOU","MOU"], ["oibo.reru"], [""], ["senility"], 0, 0],
     :"specialized" => [32785, 32785, ["TAN","SEN"], ["hashi"], [""], ["specialized"], 0, 0],
     :"christmas*tree" => [32786, 32786, ["RAI","RUI"], ["ki","ku","suki"], [""], ["christmas tree"], 0, 0],
     :"slightly" => [32842, 32842, ["RYOU"], ["isasaka"], [""], ["slightly"], 0, 0],

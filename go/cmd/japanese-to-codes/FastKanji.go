@@ -2651,6 +2651,7 @@ var kanji_table = []kanji_table_entry{
 	{"semi-", 28310},
 	{"send*back", 36996},
 	{"send*off", 36865},
+	{"senility", 32772},
 	{"sensitive", 24661},
 	{"sentence", 25991},
 	{"separate", 21029},
