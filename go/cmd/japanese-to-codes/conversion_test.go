@@ -92,6 +92,11 @@ func TestConvertToHiragana(t *testing.T) {
 		{"ka.", refs(0x304b, 0x3002)},
 		{"[ka]", refs(0x300c, 0x304b, 0x300d)},
 		{"ka ka", refs(0x304b) + " " + refs(0x304b)},
+                {"xe", refs(0x3047)},
+                {"xaxixuxexo", refs(0x3041, 0x3043, 0x3045, 0x3047, 0x3049)},
+                {"n desu", refs(0x3093) + " " + refs(0x3067, 0x3059)},
+                {"n.", refs(0x3093, 0x3002)},
+                {"n1", refs(0x3093) + "1"},
 	}
 	for _, tt := range tests {
 		got, err := convert_to_hiragana(tt.in)
@@ -141,6 +146,9 @@ func TestConvertToKatakana(t *testing.T) {
 		{"kaN", refs(0x30ab, 0x30f3)}, // a final N in either case
 		{"chokore-to", refs(0x30c1, 0x30e7, 0x30b3, 0x30ec, 0x30fc, 0x30c8)},
 		{"fiirudo", refs(0x30d5, 0x30a3, 0x30a4, 0x30eb, 0x30c9)},
+                {"n-", refs(0x30f3, 0x30fc)},
+                {"n ka", refs(0x30f3) + " " + refs(0x30ab)},
+                {"kon-pyu-ta-", refs(0x30b3, 0x30f3, 0x30fc, 0x30d4, 0x30e5, 0x30fc, 0x30bf, 0x30fc)},
 	}
 	for _, tt := range tests {
 		got, err := convert_to_katakana(tt.in)
