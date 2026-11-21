@@ -103,6 +103,16 @@ func convert_to_katakana(text string) (string, error) {
 				// n followed by anything other than aiueo or y (nya etc. should be left alone)
 				result += jp_unicode(two["nn"])
 				current = string(runes[1:])
+				// The character after the n may need nothing more to complete it (a space,
+				// a full stop, a digit, "-" in katakana). Handle it now, or it would sit in
+				// current and upset the characters that follow.
+				if s, found = one[strings.ToLower(current)]; found {
+					result += jp_unicode(s)
+					current = ""
+				} else if kana_digit_re.MatchString(current) || kana_blank_re.MatchString(current) || kana_non_alnum_re.MatchString(current) {
+					result += current
+					current = ""
+				}
 			}
 		case 3:
 			s, found := three[ch]

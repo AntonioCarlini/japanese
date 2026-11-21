@@ -77,6 +77,17 @@ def convert_to_katakana(text)
         # n followed by anything other than aiueo or y (nya etc. should be left alone)
         result << jp_unicode(two[:nn])
         current = current[1..current.length()-1]
+        # The character after the n may need nothing more to complete it (a space, a full
+        # stop, a digit, "-" in katakana). Handle it now, or it would sit in current and
+        # upset the characters that follow.
+        s = one[current.downcase().to_sym()]
+        if !s.nil?()
+          result << jp_unicode(s)
+          current = ""
+        elsif current =~ /^[0-9]$/ || current =~ /^\s*$/ || current =~ /[^[:alnum:]]/
+          result << current
+          current = ""
+        end
       end
     when 3
       s = three[ch]

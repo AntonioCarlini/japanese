@@ -112,7 +112,6 @@ func TestConvertToHiraganaErrors(t *testing.T) {
 		{"N", "Stray trailing hiragana"}, // only a lowercase final n is accepted
 		{"bcdef", "HIRAGANA: BROKEN at 5"},
 		{"shya", "no code point defined for [shi]"}, // crashes the Ruby too
-		{"n desu", "HIRAGANA: BROKEN"},              // n before a space: a quirk of the Ruby
 	}
 	for _, tt := range tests {
 		_, err := convert_to_hiragana(tt.in)
