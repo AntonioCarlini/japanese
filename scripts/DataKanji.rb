@@ -116,7 +116,7 @@ class DataKanji
       begin
         fields = line.split(':')
         if (fields.count() < MIN_EXPECTED_FIELDS) || (fields.count() > MAX_EXPECTED_FIELDS)
-          $stderr.puts("FATAL wrong number of fields (saw #{fields.count()} expected #{MIn_EXPECTED_FIELDS}-#{MAX_EXPECTED_FIELDS} for line ##{line_num} [#{line}] in #{filename}]")
+          $stderr.puts("FATAL wrong number of fields (saw #{fields.count()} expected #{MIN_EXPECTED_FIELDS}-#{MAX_EXPECTED_FIELDS} for line ##{line_num} [#{line}] in #{filename}]")
           fatal_seen = true
         end
         heisig = fields.shift().to_i()       # Heisig frame number (or Unicode value ?)
