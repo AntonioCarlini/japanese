@@ -3330,6 +3330,7 @@ class KD
     :"bamboo*mat" => [31744, 31744, ["SAKU","JAKU","SEKI"], ["su"], [""], ["bamboo mat"], 0, 0],
     :"tom*cruise" => [31910, 31910, ["RIN"], [""], [""], ["Tom Cruise"], 0, 0],
     :"bamboo*wrapped*dumpling" => [31933, 31933, ["SOU"], ["chimaki"], [""], ["bamboo wrapped dumpling"], 0, 0],
+    :"twist*rope" => [31994, 31994, ["KYUU"], ["tada.su","azana.u"], [""], ["twist rope"], 0, 0],
     :"complication" => [32006, 32006, ["U"], ["maga.ru","megu.ru"], [""], ["complication"], 0, 0],
     :"thread*[old]" => [32114, 32114, ["SHI"], ["ito"], [""], ["thread [old]"], 0, 0],
     :"hanging" => [32266, 32266, ["I","EI"], ["kubi.ru","kubi.reru"], [""], ["hanging"], 0, 0],

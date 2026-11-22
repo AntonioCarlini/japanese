@@ -3204,6 +3204,7 @@ var kanji_table = []kanji_table_entry{
 	{"twinkle", 29183},
 	{"twirl", 25754},
 	{"twist", 31998},
+	{"twist*rope", 31994},
 	{"two", 20108},
 	{"two*hands", 24318},
 	{"two*people", 20174},
