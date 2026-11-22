@@ -191,7 +191,6 @@ vocab_data.each() {
   |data|
   unicode_chars = data.kanji.scan(/&#(\d+);/) # Could be kanji or kana ...
 
-  all_kana = true
   some_known_kanji = false
   some_unknown_kanji = false
   output = ""
@@ -201,7 +200,6 @@ vocab_data.each() {
     output += "&#x%4.4x" % char_code
     k = unicode_2_kanji[char_code]
     next if k.nil?()   # This is presumed to be kana
-    all_kana = false
     if k.jlpt() >= jlpt
       # This is a known kanji at this level
       output += "[K:#{k.jlpt()}]"
