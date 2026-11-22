@@ -482,6 +482,7 @@ var kanji_table = []kanji_table_entry{
 	{"centimeter", 31950},
 	{"cereals", 31296},
 	{"ceremony", 20736},
+	{"certainly", 32866},
 	{"chafe", 25705},
 	{"chain", 37782},
 	{"chair", 26885},

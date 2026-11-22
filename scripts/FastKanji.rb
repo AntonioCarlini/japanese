@@ -3345,6 +3345,7 @@ class KD
     :"christmas*tree" => [32786, 32786, ["RAI","RUI"], ["ki","ku","suki"], [""], ["christmas tree"], 0, 0],
     :"slightly" => [32842, 32842, ["RYOU"], ["isasaka"], [""], ["slightly"], 0, 0],
     :"unite" => [32852, 32852, [""], [""], [""], ["unite"], 0, 0],
+    :"certainly" => [32866, 32866, [""], ["shika","shikato"], [""], ["certainly"], 0, 0],
     :"brush" => [32895, 32895, ["ICHI","ITSU"], ["fude","kokoni"], [""], ["brush"], 0, 0],
     :"rake" => [32896, 32896, [""], [""], [""], ["rake"], 0, 0],
     :"diaphragm" => [32915, 32915, ["KOU"], [""], [""], ["diaphragm"], 0, 0],
