@@ -3340,6 +3340,7 @@ var kanji_table = []kanji_table_entry{
 	{"welfare", 31049},
 	{"well", 20117},
 	{"well*finished", 23113},
+	{"well*now", 25192},
 	{"well*then", 20566},
 	{"west", 35199},
 	{"wet", 28516},

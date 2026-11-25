@@ -3231,6 +3231,7 @@ class KD
     :"kazoo/uproar" => [25120, 25120, ["SHOKU","SHIKI","SHI"], [""], [""], ["kazoo/uproar"], 0, 0],
     :"comic*book" => [25153, 25153, ["HEN"], ["hiratai"], [""], ["comic book"], 0, 0],
     :"finger*primitive" => [25164, 25164, ["SHU"], [""], [""], ["finger primitive"], 0, 0],
+    :"well*now" => [25192, 25192, ["SA"], ["sate","sa.su"], [""], ["well now"], 0, 0],
     :"be*imminent" => [25326, 25326, ["KATSU","KETSU","KITSU"], ["hatara.ku"], [""], ["be imminent"], 0, 0],
     :"knead" => [25423, 25423, ["NETSU","TETSU","NECHI"], ["ko.neru","ne.ru","tsku.neru"], [""], ["knead"], 0, 0],
     :"distort" => [25449, 25449, ["REI","RETSU"], ["yoji.ru","ne.jiru","neji.reru","moji.ru"], [""], ["distort"], 0, 0],
