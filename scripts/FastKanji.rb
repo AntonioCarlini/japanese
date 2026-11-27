@@ -3394,6 +3394,7 @@ class KD
     :"wild*boar" => [35942, 35942, ["KYO","GO"], ["yamenai"], [""], ["wild boar"], 0, 0],
     :"skunk" => [35960, 35960, ["TAI","CHI"], [""], [""], ["skunk"], 0, 0],
     :"belittle" => [36022, 36022, ["HEN"], ["kena.su","otoshi.meru","oto.su"], [""], ["belittle"], 0, 0],
+    :"temple*visit" => [36093, 36093, ["SAI"], [""], [""], ["temple visit"], 0, 0],
     :"excess" => [36101, 36101, ["ZEI","SEI"], ["ibo"], [""], ["excess"], 0, 0],
     :"favouritism" => [36116, 36116, ["HI"], [""], [""], ["favouritism"], 0, 0],
     :"totter" => [36361, 36361, ["ROU","RYOU"], [""], [""], ["totter"], 0, 0],

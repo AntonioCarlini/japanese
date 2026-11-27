@@ -3048,6 +3048,7 @@ var kanji_table = []kanji_table_entry{
 	{"technique*(old)", 34269},
 	{"tempering", 37676},
 	{"temple*grove", 26460},
+	{"temple*visit", 36093},
 	{"temporarily", 26283},
 	{"tempt", 21766},
 	{"ten", 21313},
