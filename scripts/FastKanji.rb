@@ -3173,6 +3173,7 @@ class KD
     :"scissors*primitive" => [22841, 22841, [""], [""], [""], ["scissors primitive"], 0, 0],
     :"treat" => [22882, 22882, ["SHA"], ["ogo.ru","ogo.ri"], [""], ["treat"], 0, 0],
     :"core*[old]" => [22887, 22887, ["OU","OKU"], ["oku.maru","kuma"], [""], ["core [old]"], 0, 0],
+    :"ginger" => [23004, 23004, ["KYOU","GA"], ["kou"], [""], ["ginger"], 0, 0],
     :"constellation" => [23044, 23044, ["RU","ROU"], ["tsuna.gu","hi.ku"], [""], ["constellation"], 0, 0],
     :"flirt" => [23194, 23194, ["BI"], ["ko.biru"], [""], ["flirt"], 0, 0],
     :"fledgling" => [23386, 23386, ["FU"], ["tamago","haguku.mu"], [""], ["fledgling"], 0, 0],

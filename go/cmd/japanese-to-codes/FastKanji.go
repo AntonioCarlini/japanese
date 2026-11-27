@@ -1285,6 +1285,7 @@ var kanji_table = []kanji_table_entry{
 	{"ghost", 39740},
 	{"gigantic", 24040},
 	{"gimp", 32172},
+	{"ginger", 23004},
 	{"giraffe", 40594},
 	{"girder", 26689},
 	{"gist", 36259},
